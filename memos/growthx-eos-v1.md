@@ -23,14 +23,14 @@ Read it once to understand the whole picture. Reference it when setting Rocks, r
 
 EOS has six components. Strengthen all six and you have a healthy, growing company.
 
-| Component | Question It Answers |
-|-----------|---------------------|
-| **Vision** | Where are we going and how will we get there? |
-| **People** | Do we have the right people in the right seats? |
-| **Data** | Are we running the business on facts, not feelings? |
-| **Issues** | Are we solving problems at the root? |
-| **Process** | Are our core processes documented and followed? |
-| **Traction** | Are we executing with discipline? |
+| Component          | Question It Answers                                 |
+| ------------------ | --------------------------------------------------- |
+| **Vision**   | Where are we going and how will we get there?       |
+| **People**   | Do we have the right people in the right seats?     |
+| **Data**     | Are we running the business on facts, not feelings? |
+| **Issues**   | Are we solving problems at the root?                |
+| **Process**  | Are our core processes documented and followed?     |
+| **Traction** | Are we executing with discipline?                   |
 
 Most companies are weak in 2-3 of these. We aim to be strong in all six.
 
@@ -48,15 +48,15 @@ The V/TO is a two-page document that captures our entire strategic plan. Page on
 
 These define who we are. We hire, fire, reward, and recognize based on these.
 
-| Value | What It Means |
-|-------|---------------|
+| Value                              | What It Means                                                                             |
+| ---------------------------------- | ----------------------------------------------------------------------------------------- |
 | **Communicate with Clarity** | Incisive writing, composed speaking. Explain complex ideas simply. Tackle issues head-on. |
-| **Relentless Excellence** | Good enough isn't. Obsess over the highest standards, especially for customers. |
-| **Never Stop Learning** | Curiosity fuels growth. Always asking questions, exploring ideas, expanding skills. |
-| **Move Fast, Stay Steady** | Speed matters. So does smart execution. Rapid action with resilience. |
-| **Lead with Empathy** | Kindness is core. Treat each other with respect. Lifting others is how we all rise. |
-| **Own the Outcome** | Freedom and responsibility together. Take initiative. Chase down answers. Be accountable. |
-| **Master the Process First** | Get the process right before adding tech. Workflow before automation. |
+| **Relentless Excellence**    | Good enough isn't. Obsess over the highest standards, especially for customers.           |
+| **Never Stop Learning**      | Curiosity fuels growth. Always asking questions, exploring ideas, expanding skills.       |
+| **Move Fast, Stay Steady**   | Speed matters. So does smart execution. Rapid action with resilience.                     |
+| **Lead with Empathy**        | Kindness is core. Treat each other with respect. Lifting others is how we all rise.       |
+| **Own the Outcome**          | Freedom and responsibility together. Take initiative. Chase down answers. Be accountable. |
+| **Master the Process First** | Get the process right before adding tech. Workflow before automation.                     |
 
 **The test:** When someone consistently violates a core value, they're not right for GrowthX. When someone embodies all of them, they're a culture carrier.
 
@@ -65,9 +65,11 @@ These define who we are. We hire, fire, reward, and recognize based on these.
 ### 2. Core Focus
 
 **Purpose (Why we exist):**
+
 > Help companies grow through content that compounds.
 
 **Niche (What we're best at):**
+
 > AI-powered content systems for B2B tech companies that need to grow organically.
 
 This is our sweet spot. When opportunities arise outside this focus, we say no.
@@ -76,10 +78,10 @@ This is our sweet spot. When opportunities arise outside this focus, we say no.
 
 The company runs on two engines:
 
-| Engine | What It Is | 2026 Target |
-|--------|-----------|-------------|
-| **GrowthX** | AI-powered services. Strategy Sprints convert to Growth Execution contracts. | $28M ARR |
-| **CheckThat** | AI visibility software. Self-serve + sales-assisted. The data moat. | $5M ARR |
+| Engine              | What It Is                                                                   | 2026 Target |
+| ------------------- | ---------------------------------------------------------------------------- | ----------- |
+| **GrowthX**   | AI-powered services. Strategy Sprints convert to Growth Execution contracts. | $28M ARR    |
+| **CheckThat** | AI visibility software. Self-serve + sales-assisted. The data moat.          | $5M ARR     |
 
 GrowthX is proven. CheckThat is the bet. Both feed each other. CheckThat generates leads for GrowthX. GrowthX generates data for CheckThat.
 
@@ -96,6 +98,7 @@ This is our Big Hairy Audacious Goal. It should feel ambitious but achievable. E
 ### 4. Marketing Strategy
 
 **Target Market:**
+
 - B2B tech-enabled companies
 - Found product-market fit
 - Scaling with pressure to grow
@@ -104,13 +107,14 @@ This is our Big Hairy Audacious Goal. It should feel ambitious but achievable. E
 
 **Three Uniques (Why customers choose us):**
 
-| Unique | What It Means |
-|--------|---------------|
+| Unique                           | What It Means                                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **1. Outcomes, not tools** | We deliver the work. Not software you have to figure out. AI does the heavy lifting. Experts ensure quality. |
-| **2. Context engineering** | We become experts in your business. Our AI learns your voice, products, and audience. |
-| **3. Compounding systems** | Every week gets easier. Every output makes the next one better. Growth that compounds. |
+| **2. Context engineering** | We become experts in your business. Our AI learns your voice, products, and audience.                        |
+| **3. Compounding systems** | Every week gets easier. Every output makes the next one better. Growth that compounds.                       |
 
 **Proven Process:**
+
 1. **Strategy Sprint** (8 weeks, $20k): Context engineering, strategy development, calibration, baseline content
 2. **Growth Execution** (12-month contract, ~$17k/mo): Continuous content creation, optimization, growth
 3. **Expansion**: Additional workstreams, deeper partnership
@@ -118,6 +122,7 @@ This is our Big Hairy Audacious Goal. It should feel ambitious but achievable. E
 Sprint conversion drives the business. At 80% conversion, every 10 sprints generate ~$1.6M ARR.
 
 **Guarantee:**
+
 > If you're not seeing measurable improvement in AI visibility and organic traffic within 6 months, we'll work for free until you do.
 
 ---
@@ -126,16 +131,17 @@ Sprint conversion drives the business. At 80% conversion, every 10 sprints gener
 
 **Date:** February 2029
 
-| Measure | Target |
-|---------|--------|
-| **ARR** | $100M+ |
-| **Customers** | 300+ |
-| **Team Size** | 300+ |
-| **Gross Margin** | 75%+ |
-| **Net Revenue Retention** | 120%+ |
-| **CheckThat Users** | 100,000+ |
+| Measure                         | Target   |
+| ------------------------------- | -------- |
+| **ARR**                   | $100M+   |
+| **Customers**             | 300+     |
+| **Team Size**             | 300+     |
+| **Gross Margin**          | 75%+     |
+| **Net Revenue Retention** | 120%+    |
+| **CheckThat Users**       | 100,000+ |
 
 **What the company looks like:**
+
 - GrowthX is the clear category leader in AI-powered content growth
 - CheckThat is a standalone product generating $20M+ in software revenue
 - Platform handles 80% of production work. Humans focus on strategy and quality
@@ -143,6 +149,7 @@ Sprint conversion drives the business. At 80% conversion, every 10 sprints gener
 - Every week serving a client is easier than the week before
 
 **Market position:**
+
 - Known as the company that replaced agencies AND tools
 - The AI growth system companies buy when they outgrow SEMrush
 - Word of mouth drives majority of pipeline
@@ -155,15 +162,15 @@ Sprint conversion drives the business. At 80% conversion, every 10 sprints gener
 
 **Date:** February 2027
 
-| Measure | Target | Current (Feb 2026) |
-|---------|--------|---------|
-| **ARR** | $33.8M | $12.1M |
-| **Kickoffs/week** | 4 | 2 |
-| **Sprint conversion** | 80%+ | 70% (improving) |
-| **Gross margin** | 75%+ | 70% |
-| **Renewal rate** | 80%+ | Building muscle |
-| **Team size** | 135 | 96 |
-| **CheckThat ARR** | $5M | Pre-launch |
+| Measure                     | Target          | Current (Feb 2026) |
+| --------------------------- | --------------- | ------------------ |
+| **ARR**               | $33.8M | $12.1M |                    |
+| **Kickoffs/week**     | 4               | 2                  |
+| **Sprint conversion** | 80%+            | 70% (improving)    |
+| **Gross margin**      | 75%+            | 70%                |
+| **Renewal rate**      | 80%+            | Building muscle    |
+| **Team size**         | 135             | 96                 |
+| **CheckThat ARR**     | $5M             | Pre-launch         |
 
 The path to $24M is clear. Getting to $33.8M requires solving scalability in Delivery and proving CheckThat. Both are in motion.
 
@@ -177,12 +184,13 @@ The path to $24M is clear. Getting to $33.8M requires solving scalability in Del
 
 **How the math works:**
 
-At 2 kickoffs/week (accounting for holidays): ~88 sprints/year  
-At 80% conversion: ~70 new customers  
-At $204k ACV: ~$14M new ARR  
+At 2 kickoffs/week (accounting for holidays): ~88 sprints/year
+At 80% conversion: ~70 new customers
+At $204k ACV: ~$14M new ARR
 Minus churn: ~$22-24M total ARR
 
 That's the baseline. To hit $33.8M, we need:
+
 - More kickoffs (scale to 4/week by Q2)
 - Stable conversion (hold 80%+)
 - CheckThat revenue ($5M)
@@ -197,16 +205,17 @@ Rocks are the 3-7 most important things that must get done this quarter. They're
 
 **Company Rocks (Q1 2026):**
 
-| Rock | Owner | Due | Success Criteria |
-|------|-------|-----|------------------|
-| Launch CheckThat publicly with paid tiers | CTO | Mar 31 | 10,000 signups, 500 WAU, first paying customers |
-| Exit Q1 at 80%+ sprint conversion | CCO | Mar 31 | 80%+ for quarter, stable process in place |
-| Hire VP Sales + 2nd AE ramped | CEO | Mar 31 | VP offer accepted, Nigel booking meetings |
-| Ship closed loop in ContentOS | CTO | Mar 31 | Pages, Opportunities, Assignments live for 10 customers |
-| Build renewal/expansion muscle | CCO | Mar 31 | Playbooks, SOPs, weekly health reviews operational |
-| Scale to 3 kickoffs/week | Sales | Mar 31 | 12+ kickoffs in Q1 |
+| Rock                                      | Owner | Due    | Success Criteria                                        |
+| ----------------------------------------- | ----- | ------ | ------------------------------------------------------- |
+| Launch CheckThat publicly with paid tiers | CTO   | Mar 31 | 10,000 signups, 500 WAU, first paying customers         |
+| Exit Q1 at 80%+ sprint conversion         | CCO   | Mar 31 | 80%+ for quarter, stable process in place               |
+| Hire VP Sales + 2nd AE ramped             | CEO   | Mar 31 | VP offer accepted, Nigel booking meetings               |
+| Ship closed loop in ContentOS             | CTO   | Mar 31 | Pages, Opportunities, Assignments live for 10 customers |
+| Build renewal/expansion muscle            | CCO   | Mar 31 | Playbooks, SOPs, weekly health reviews operational      |
+| Scale to 3 kickoffs/week                  | Sales | Mar 31 | 12+ kickoffs in Q1                                      |
 
 **Rock Rules:**
+
 - 3-7 Rocks per quarter (company level)
 - Each Rock has ONE owner (not shared)
 - SMART: Specific, Measurable, Achievable, Relevant, Timely
@@ -222,12 +231,14 @@ Rocks are the 3-7 most important things that must get done this quarter. They're
 The Issues List is where problems, ideas, and opportunities live until they're solved.
 
 **How it works:**
+
 - Anyone can add an issue anytime
 - Issues get prioritized weekly in L10
 - Top 3 issues get IDS'd (Identify, Discuss, Solve)
 - Solved issues come off the list. Unsolved issues stay.
 
 **Issue types:**
+
 - A problem to solve
 - Information to share
 - An idea or opportunity to explore
@@ -241,6 +252,7 @@ The Issues List is where problems, ideas, and opportunities live until they're s
 ### 1. Vision Component
 
 **How we stay aligned:**
+
 - V/TO reviewed quarterly, updated annually
 - CEO weekly update communicates priorities
 - All-hands quarterly to reinforce direction
@@ -258,6 +270,7 @@ The Issues List is where problems, ideas, and opportunities live until they're s
 **Right seats** = in a role that matches their skills and passion
 
 **The GWC Test (for every seat):**
+
 - **G**et it — Do they understand the role?
 - **W**ant it — Do they actually want to do it?
 - **C**apacity — Do they have the skills and time?
@@ -282,7 +295,7 @@ CEO (Marcel)
     └── Ops
 ```
 
-Every box has one owner. No shared accountability. 
+Every box has one owner. No shared accountability.
 
 **2026 leadership priorities:** VP Sales, VP Marketing, Head of Customer Engagement, Strategic Finance. Too many doers, not enough leaders.
 
@@ -292,20 +305,20 @@ Every box has one owner. No shared accountability.
 
 **Scorecard: 5-15 numbers that tell us if we're winning.**
 
-| Metric | Owner | Goal | Current | Type |
-|--------|-------|------|---------|------|
-| ARR | CEO | $33.8M | $12.1M | Lagging |
-| Kickoffs/week | Sales | 4 | 2 | Leading |
-| Sprint conversion | CCO | 80% | 70% | Lagging |
-| Pipeline coverage | Sales | 3x | 2.5x | Leading |
-| Renewal rate | CS | 80% | Building | Lagging |
-| Customer health (avg) | CS | 4.0/5 | 3.8/5 | Leading |
-| Billable utilization | Delivery | 75% | 72% | Leading |
-| Gross margin | Finance | 75% | 70% | Lagging |
-| Rock completion | COO | 80% | — | Leading |
-| CheckThat WAU | Product | 500 | Pre-launch | Leading |
+| Metric                | Owner    | Goal            | Current    | Type    |
+| --------------------- | -------- | --------------- | ---------- | ------- |
+| ARR                   | CEO      | $33.8M | $12.1M | Lagging    |         |
+| Kickoffs/week         | Sales    | 4               | 2          | Leading |
+| Sprint conversion     | CCO      | 80%             | 70%        | Lagging |
+| Pipeline coverage     | Sales    | 3x              | 2.5x       | Leading |
+| Renewal rate          | CS       | 80%             | Building   | Lagging |
+| Healthy ARR %         | CS       | 80%             | 60%        | Leading |
+| Gross margin          | Finance  | 75%             | 70%        | Lagging |
+| Rock completion       | COO      | 80%             | —         | Leading |
+| CheckThat WAU         | Product  | 500             | Pre-launch | Leading |
 
 **Rules:**
+
 - Same metrics every week (pattern recognition)
 - Each metric has ONE owner
 - 60% leading, 40% lagging
@@ -320,17 +333,20 @@ Every box has one owner. No shared accountability.
 This is how we solve problems. Not by talking in circles. By getting to root cause and deciding.
 
 **Identify:**
+
 - What's the real issue? (Often not what's stated)
 - Dig to root cause, not symptoms
 - "We're not converting" might really be "We're targeting the wrong prospects"
 
 **Discuss:**
+
 - Everyone contributes
 - No repeating points
 - No storytelling
 - If discussion goes circular, force a proposed solution
 
 **Solve:**
+
 - Decide on the action
 - Assign owner and deadline
 - Move on. Don't revisit.
@@ -343,22 +359,23 @@ This is how we solve problems. Not by talking in circles. By getting to root cau
 
 **Core processes documented and followed by everyone.**
 
-| Process | Document | Owner | Status |
-|---------|----------|-------|--------|
-| Strategy Sprint | strategy-sprint-playbook | CCO | Live |
-| Growth Execution | growth-execution-playbook | COO | Live |
-| Sales Process | sales-playbook | VP Sales | In progress |
-| Client Onboarding | onboarding-checklist | CS | Live |
-| Renewal Process | renewal-playbook | CS | Building |
-| QBR Process | qbr-template | EM Lead | Live |
-| Escalation Process | escalation-guide | COO | Live |
-| Hiring Process | hiring-playbook | People | In progress |
+| Process            | Document                  | Owner    | Status      |
+| ------------------ | ------------------------- | -------- | ----------- |
+| Strategy Sprint    | strategy-sprint-playbook  | CCO      | Live        |
+| Growth Execution   | growth-execution-playbook | COO      | Live        |
+| Sales Process      | sales-playbook            | VP Sales | In progress |
+| Client Onboarding  | onboarding-checklist      | CS       | Live        |
+| Renewal Process    | renewal-playbook          | CS       | Building    |
+| QBR Process        | qbr-template              | EM Lead  | Live        |
+| Escalation Process | escalation-guide          | COO      | Live        |
+| Hiring Process     | hiring-playbook           | People   | In progress |
 
 **Q1 2026 focus:** Renewal and expansion playbooks. This is the muscle we're building.
 
 **The 20/80 rule:** Document the 20% of processes that drive 80% of results. Don't over-document.
 
 **Process documentation structure:**
+
 1. Why this process exists
 2. Who owns it
 3. Step-by-step (numbered)
@@ -375,25 +392,25 @@ This is how we solve problems. Not by talking in circles. By getting to root cau
 
 **Meeting Pulse:**
 
-| Meeting | Cadence | Duration | Purpose |
-|---------|---------|----------|---------|
-| Daily standup | Daily | 15 min | Blockers and priorities |
-| L10 | Weekly | 90 min | Scorecard, Rocks, IDS |
-| Monthly review | Monthly | 90 min | Performance vs. targets |
+| Meeting            | Cadence   | Duration | Purpose                    |
+| ------------------ | --------- | -------- | -------------------------- |
+| Daily standup      | Daily     | 15 min   | Blockers and priorities    |
+| L10                | Weekly    | 90 min   | Scorecard, Rocks, IDS      |
+| Monthly review     | Monthly   | 90 min   | Performance vs. targets    |
 | Quarterly planning | Quarterly | Half-day | Set Rocks, review strategy |
-| Annual planning | Annual | Full day | V/TO refresh, annual goals |
+| Annual planning    | Annual    | Full day | V/TO refresh, annual goals |
 
 **L10 Agenda:**
 
-| Section | Time | What Happens |
-|---------|------|--------------|
-| Check-in | 5 min | Personal good news |
-| Scorecard | 5 min | Off-track numbers only |
-| Rocks | 5 min | On/Off track status |
-| Headlines | 5 min | Customer and team news |
-| To-Dos | 5 min | Done / Not done |
-| **IDS** | **60 min** | Solve top issues |
-| Wrap | 5 min | Recap, rate meeting 1-10 |
+| Section       | Time             | What Happens             |
+| ------------- | ---------------- | ------------------------ |
+| Check-in      | 5 min            | Personal good news       |
+| Scorecard     | 5 min            | Off-track numbers only   |
+| Rocks         | 5 min            | On/Off track status      |
+| Headlines     | 5 min            | Customer and team news   |
+| To-Dos        | 5 min            | Done / Not done          |
+| **IDS** | **60 min** | Solve top issues         |
+| Wrap          | 5 min            | Recap, rate meeting 1-10 |
 
 Same day, same time, every week. No exceptions.
 
@@ -426,19 +443,21 @@ Same day, same time, every week. No exceptions.
 
 ## Quarterly Rhythm
 
-| Week | Activity |
-|------|----------|
-| **Week 1-11** | Execute on Rocks, weekly L10s |
-| **Week 12** | Rock review: complete or not? |
-| **Week 13** | Quarterly planning: set next Rocks |
+| Week                | Activity                           |
+| ------------------- | ---------------------------------- |
+| **Week 1-11** | Execute on Rocks, weekly L10s      |
+| **Week 12**   | Rock review: complete or not?      |
+| **Week 13**   | Quarterly planning: set next Rocks |
 
 **Quarterly planning pre-work (due 5 days before):**
+
 - Each function drafts 3-5 Rocks
 - Finance provides rolling forecast
 - COO provides capacity analysis
 - Issues List reviewed for strategic items
 
 **Quarterly planning outputs:**
+
 - Company Rocks for next 90 days
 - Department Rocks aligned to company Rocks
 - Updated Scorecard if needed
@@ -449,14 +468,17 @@ Same day, same time, every week. No exceptions.
 ## Rock-Setting Process
 
 **Step 1: Review company goals**
+
 - What does the 1-Year Plan require?
 - What's blocking us from the 3-Year Picture?
 
 **Step 2: Identify the 3-7 most important things**
+
 - What must happen in the next 90 days?
 - What will have the biggest impact?
 
 **Step 3: Write SMART Rocks**
+
 - Specific: Clear deliverable
 - Measurable: Success criteria defined
 - Achievable: 80% confidence you can do it
@@ -464,11 +486,13 @@ Same day, same time, every week. No exceptions.
 - Timely: Done by end of quarter
 
 **Step 4: Assign owners**
+
 - One person per Rock
 - No shared ownership
 - Owner is accountable, not necessarily doing all the work
 
 **Step 5: Cascade to departments**
+
 - Each team sets Rocks that support company Rocks
 - Same SMART format
 - 3-5 per team

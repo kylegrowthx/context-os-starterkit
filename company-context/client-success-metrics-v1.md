@@ -4,7 +4,7 @@
 purpose: Defines the five dimensions of client health, signals, and account management practices
 audience: EMs, delivery teams, leadership
 related: customer-lifecycle-phases-v1.md, delivery-teams-and-operations-v1.md
-last_updated: 2026-02-01
+last_updated: 2026-02-02
 </metadata>
 
 ---
@@ -12,10 +12,11 @@ last_updated: 2026-02-01
 ## TL;DR
 
 - Five dimensions: Output, Quality, Performance, Relationship, Strategy. All must be strong.
+- Four health tiers: Strong (20+, no dim below 4), Healthy (18+, no dim below 3), At Risk, Critical.
+- **Healthy ARR %** = % of total ARR from accounts in Strong or Healthy tiers. This is our north star CS metric.
 - Leading signals (fixable early): declining communication, revision requests up, questions about cost.
 - Lagging signals (often too late): shopping alternatives, formal complaints, champion leaves.
 - Best accounts: they want to hire our people. Worst accounts: conversations about article counts.
-- We own content → visibility → traffic. We advise on conversion → revenue.
 
 ---
 
@@ -141,6 +142,61 @@ Track these internally. Ask directly at least quarterly.
 - Frequent direction changes
 - "What's the plan?" questions
 - Disconnect between POC and executive
+
+---
+
+## Health Tiers and Healthy ARR
+
+We score each account 1-5 on all five dimensions (Output, Quality, Performance, Relationship, Strategy). Total possible score is 25. But the total score alone can mask critical problems. An account scoring 5,5,5,5,2 = 22/25 looks healthy on paper but has a critical gap.
+
+### The Four Tiers
+
+| Tier | Criteria | What It Means |
+|------|----------|---------------|
+| Strong | 20+ total AND no dimension below 4 | Renewal likely. Referenceable. Low-touch. |
+| Healthy | 18+ total AND no dimension below 3 | Solid. Minor issues. Monitor quarterly. |
+| At Risk | 15+ total OR any dimension at 2 | Needs attention. Active intervention required. |
+| Critical | <15 total OR any dimension at 1 | High churn risk. Escalate immediately. |
+
+### How We Calculate Healthy ARR
+
+Each tier gets a weight:
+
+| Tier | Weight |
+|------|--------|
+| Strong | 100% |
+| Healthy | 75% |
+| At Risk | 50% |
+| Critical | 0% |
+
+**Healthy ARR = Σ (Account ARR × Tier Weight)**
+
+Example:
+
+| Account | ARR | Score | Tiers | Weight | Contribution |
+|---------|-----|-------|-------|--------|--------------|
+| Acme | $300K | 22/25, min 4 | Strong | 100% | $300K |
+| Beta | $200K | 19/25, min 3 | Healthy | 75% | $150K |
+| Gamma | $250K | 16/25, min 2 | At Risk | 50% | $125K |
+| Delta | $150K | 12/25 | Critical | 0% | $0 |
+| **Total** | **$900K** | | | | **$575K (64%)** |
+
+**Healthy ARR % = $575K / $900K = 64%**
+
+### Why This Matters
+
+- **Revenue-weighted.** A troubled $400K account shows up more than a troubled $100K account.
+- **Penalizes critical gaps.** One dimension at 2 drops you to At Risk regardless of total.
+- **Drives action.** "We have $2M in At Risk ARR" is more actionable than "average health is 18/25."
+- **Predicts renewals.** Healthy ARR % correlates directly with retention.
+
+### What We Track
+
+| Metric | Definition | Cadence |
+|--------|------------|---------|
+| Healthy ARR % | ARR from Strong + Healthy tiers / Total ARR | Weekly |
+| At-Risk ARR | ARR from accounts in At Risk or Critical tiers | Weekly |
+| Tier Distribution | Count of accounts in each tier | Monthly |
 
 ---
 

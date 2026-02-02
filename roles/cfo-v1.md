@@ -56,7 +56,7 @@ Protect the cash, optimize the economics, and ensure every dollar works hard.
 | Metric | Formula | Benchmark |
 |--------|---------|-----------|
 | Personnel Cost Ratio | Total personnel / Revenue | ≤60% |
-| Utilization Rate | Billable hours / Available hours | 70-75% optimal |
+| Healthy ARR % | Weighted ARR by health tier (Strong/Healthy/At Risk/Critical) | ≥80% |
 | Gross Profit Margin | (Revenue - Direct costs) / Revenue | 32-60%+ |
 | Net Profit Margin | Net income / Revenue | 15-25% (generalist), 25-40% (specialist) |
 | Overhead Ratio | Overhead / AGI | 20-25% |

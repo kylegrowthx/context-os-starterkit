@@ -86,8 +86,7 @@ Exception-based. Don't review every metric. Focus on variance.
 | Sprint-to-contract conversion | Sales | Lagging |
 | Pipeline coverage | Sales | Leading |
 | Net Revenue Retention | CS | Lagging |
-| Billable utilization | Delivery | Leading |
-| Customer health score (avg) | CS | Leading |
+| Healthy ARR % | CS | Leading |
 | Gross margin | Finance | Lagging |
 | Open headcount vs. plan | People | Leading |
 
@@ -193,16 +192,28 @@ Each delivery pod runs its own micro-rhythm:
 | Pod retro | Bi-weekly | 30 min | What's working, what's not, improve |
 | Client sync | Weekly | 30 min | Status, feedback, upcoming |
 
-**Utilization targets by role:**
+**Customer health tracking:**
 
-| Role | Billable Target |
-|------|-----------------|
-| Production | 80-85% |
-| Senior editors | 70-75% |
-| Engagement Managers | 60-70% |
-| Strategists | 50-60% |
+Each account is scored weekly on 5 dimensions (1-5 points each, 25 total):
 
-Utilization >85% = burnout risk. <65% = profitability risk.
+| Dimension | Question |
+|-----------|----------|
+| Output | Are we doing the work? |
+| Quality | Is the work good? |
+| Performance | Is it working? |
+| Relationship | Do they love us? |
+| Strategy | Are we aligned? |
+
+Accounts are then placed in health tiers:
+
+| Tier | Criteria | Weight |
+|------|----------|--------|
+| Strong | 20+ total AND no dimension below 4 | 100% |
+| Healthy | 18+ total AND no dimension below 3 | 75% |
+| At Risk | 15+ total OR any dimension at 2 | 50% |
+| Critical | <15 total OR any dimension at 1 | 0% |
+
+**Healthy ARR %** = weighted sum of account ARR by tier / total ARR. Target: 80%.
 
 ---
 
@@ -213,8 +224,8 @@ Track weekly. Review variance in L10. Deep-dive monthly.
 **Leading indicators** (what we can influence):
 - Kickoffs scheduled
 - Pipeline coverage ratio
-- Customer health scores
-- Utilization forecast
+- Healthy ARR %
+- Qualified opportunities created
 - Rock completion rate
 
 **Lagging indicators** (what happened):
