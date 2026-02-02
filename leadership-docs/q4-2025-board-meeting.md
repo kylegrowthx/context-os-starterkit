@@ -23,12 +23,12 @@
 - $13.6M Run Rate (vs. $11.5M in Q3 and $7.6M in Q2)
 - 62 customers (vs. 53 in Q3 and 42 in Q2); still 100% WoM/inbound
 - $219k ACV (vs. $218 in Q3 and $178k in Q2)
-- Grew team from 80 → 100
+- Grew team from 80 → 96
 - Signed term sheet for $10MM JPM debt
 
 ### Q4/January Lowlights
 
-- Feeling lack of key leadership roles (Delivery/CS, GTM, Finance)
+- Feeling the lack of key leadership roles (Delivery/CS, GTM, Finance)
 - Lost our biggest customer, Surge ($2.7M ARR)
 - Strategy sprint conversions dropped to 70%, below our target of 80%. However, in December we saw 80% conversion (4/5), and 100% in January (3/3), so we are cautiously optimistic things are in a better place.
 - Engagement Management team (account managers) is green and we are feeling the pressure on Q1 renewals (current Q1 renewal rate projected between 70-80%, excluding Surge)
@@ -38,13 +38,12 @@
 ## 01. Q4 Recap
 
 > **TLDR:**
-> 1. We made major progress on CheckThat.ai and are launching this first week of February.
-> 2. We reached 100 people and hit diminishing returns across our Delivery org. 2026 will be about building capacity through leverage within the Delivery org.
->    - We re-organized our Delivery team on 12/1 to pave the path for future efficiency (less layers, more clear ownership)
-> 3. Strategy sprint quality degraded over Q4 and we've since placed a leader and a lot of operational rigor behind this team to improve conversion rates.
-> 4. We lost our biggest client, Surge, which puts us in a tricky spot for Q1. It's a good forcing function to improve our other key metrics though.
+> 1. CheckThat.ai launches first week of February after major Q4 progress.
+> 2. Hit 96 people and diminishing returns in Delivery. 2026 is about building capacity through leverage, not headcount. Re-org on 12/1 set us up for this (fewer layers, clearer ownership).
+> 3. Sprint quality degraded in Q4. New leader and operational rigor now in place to improve conversion.
+> 4. Lost Surge, our biggest client ($2.7M ARR). Puts us in a tricky spot for Q1, but it's a forcing function to tighten other metrics.
 
-In 2025, we grew ARR 800% from $1.34M to $12.1M, grew from 15 to 100 people, launched our very own platform (ContentOS), and our community (AI Led Growth). We now support 67 customers and will be launching CheckThat.ai in early February.
+2025 recap: ARR grew 800% from $1.34M to $12.1M. Team grew from 15 to 96 people. Launched ContentOS (platform) and AI Led Growth (community). Now serving 67 customers. CheckThat.ai launches in early February.
 
 We exited Q4 with a net operating loss of -$543K (vs. -$303k in Q3), $12.1m cash on hand (vs. $9.5m in Q3), and $1.1m in receivables.
 
@@ -63,33 +62,39 @@ We exited Q4 with a net operating loss of -$543K (vs. -$303k in Q3), $12.1m cash
 > Pilot Conversion decreased to 70% in Q4 (from 73% in Q3).
 > Q4 non-conversions include: ReadAI, Hockeystack, CodeRabbit (fired), Baseten, Bubble, Lightsource, SpecterOps
 
-Our **pipeline generation significantly slowed down in Q4. We now have 70 open deals worth $14mm ARR**, but many were generated in early Q3 and we are generating fewer deals each month right now. To date, we've relied entirely on inbound and word-of-mouth for pipeline generation. We are investing more in GTM now and actively hiring for both sales and marketing.
+**Pipeline generation slowed significantly in Q4.** We have 70 open deals worth $14M ARR, but many came from early Q3 and we're generating fewer deals each month. To date, we've relied entirely on inbound and word-of-mouth. We're now investing more in GTM and actively hiring for both sales and marketing.
 
-Our deal cycle remains short at 39 days, but we are not able to book more than 2 weeks out with only one AE. We just hired our second AE, Nigel, who comes from Writesonic (AEO visibility tool), and will be hiring for at least 1 more AE in Q1 to increase our sales capacity.
+Deal cycle remains short at 39 days, but with only one AE we can't book more than 2 weeks out. We just hired our second AE, Nigel, who comes from Writesonic (AEO visibility tool), and will hire at least 1 more AE in Q1 to increase sales capacity.
 
 > **New Logos Added:** Brex, N-Able, Hex, Redis, Navan, CRV (VC firm), Netwrix, Parloa, TalonOne, Tavus, DaylightAI, Turnstile, Panther.
+>
+> **Strong Logos in Pipeline:** Vercel, Tines, ElevenLabs, Greenhouse, JFrog, Spendesk, Otter, PlusAI, Autodesk, and more.
+>
+> **Active Upsells:** Datagrid, Brex, Anything.
 
 ### Retention
 
-Our retention metrics still remain a top priority for us. In Q4, we had 2 churns: Rapyd ($9k MRR) and Teero ($6k MRR) both churned. Rapyd decided to re-invest their organic budget into events. Teero was happy with our results but did company wide budget cuts at year end (early stage dental staffing platform).
+Retention remains a top priority. Two churns in Q4: Rapyd ($9k MRR) shifted organic budget to events. Teero ($6k MRR) did company-wide budget cuts at year end despite being happy with results (early-stage dental staffing platform).
 
-One of our key focus areas is building the framework and muscle for renewals as we enter our first "real" renewal season in Q1. This includes creating playbooks and SOPs, leveraging tooling and automation, and conducting a weekly account health review to identify high risk accounts as they happen. Ella is leading the team here but we are actively hiring for a Head of Customer Engagement, with a proven track record of growing CS orgs and managing to NRR targets, to take this function to the next level.
+Q1 is our first "real" renewal season, so we're building the framework and muscle now: playbooks, SOPs, tooling, automation, and weekly account health reviews to identify high-risk accounts as they happen. Ella leads the team. We're actively hiring a Head of Customer Engagement with a proven track record of growing CS orgs and managing to NRR targets to take this function to the next level.
 
 ### Expansion
 
-On the expansion side, we had 2 upsells in January: Airbyte MRR grew from $30k→$40k/mo (this is their 2nd upsell in 12mo), and Lovable from $25k→$40k/mo. We also have active upsell conversations with Brex and Anything. This is not a strong muscle we have but our goal is to move someone to solely focus on renewals and upsells commercially given our Engagement Manager are not commercially savvy to navigate large upsells.
+Three upsells in January: **Airbyte** grew from $30k→$40k/mo (their 2nd upsell in 12 months), **Lovable** from $25k→$40k/mo, and **Webflow** signed a custom strategy sprint for $50k which we hope to convert into a $25k/mo upsell (bringing total contract value to $49k/mo). Active upsell conversations with Brex and Anything.
+
+Expansion is not a strong muscle yet. Our Engagement Managers aren't commercially savvy enough to navigate large upsells, so our goal is to move someone to focus solely on renewals and expansion.
 
 ---
 
 ## 02. Looking Ahead into FY2026
 
-Our goals for 2026 is to grow from $12.1M → $33.8M in ARR while burning at most $7M.
+Our goal for 2026 is to grow from $12.1M → $33.8M in ARR while burning at most $7M.
 
 This plan runs on two engines: GrowthX (software powered services) and CheckThat (pure software subscription).
 
 ### GrowthX Engine
 
-**GrowthX** is where all the revenue sits today. We ended 2025 at $12.1M ARR and $13.6M in run rate. This engine is proven and now the focus is making it more predictable, scalable, and sticky.
+**GrowthX** is where all the revenue sits today: $12.1M ARR, $13.6M run rate at year end. The engine is proven. Now we make it more predictable, scalable, and sticky.
 
 **Growth drivers:**
 - Scale kickoffs from 2/week to 4/week by end of Q2
@@ -99,7 +104,7 @@ This plan runs on two engines: GrowthX (software powered services) and CheckThat
 
 ### CheckThat Engine
 
-**CheckThat** is our bet to win the AI search market. Our goal is to turn it into a growth engine and data moat to win the AEO category.
+**CheckThat** is our bet to win the AI search market. We want to turn it into a growth engine and data moat for the AEO category.
 
 **Growth drivers:**
 - Drive organic traffic through public AI visibility index (6,000+ brand pages live)
@@ -110,13 +115,13 @@ This plan runs on two engines: GrowthX (software powered services) and CheckThat
 
 ## Business Mechanics
 
-The way our GrowthX service model works today is we sell Strategy Sprints. Eight weeks. Currently converting at 70-75% into 12-month contracts. That's when they become ARR.
+The way our GrowthX service model works today is we sell Strategy Sprints. Eight weeks. Currently converting at 80% into 12-month contracts. That's when they become ARR.
 
 At 2 kickoffs per week, minus holidays, we get about 88 kickoffs per year. For reference, we did 74 kickoffs last year. At 75% conversion, that's roughly $13M in new ARR.
 
 When accounting for churn that puts us in the range of $22-24M in ARR. That's our baseline.
 
-**To achieve more the levers we have:**
+**To achieve more, the levers we have:**
 1. More kickoffs
 2. Better sprint conversion
 3. Higher ACV
@@ -133,15 +138,15 @@ That leaves kickoff capacity. And that's our biggest bottleneck.
 
 This is simplified but gives you the picture. Every input has a constraint. Every constraint has a ramp time. That's why scaling this business is hard.
 
-It's also why we're confident we can ~2x ARR from $12M to $24M. The path is clear to get to $22-24M. Getting beyond that to our $34.9M requires two things: solving the scalability bottleneck and proving CheckThat.
+That's also why we're confident we can ~2x ARR from $12M to $24M. The path to $22-24M is clear. Getting beyond that to $33.8M requires two things: solving the scalability bottleneck and proving CheckThat.
 
 ---
 
 ## FY26 Fiscal Summary
 
-Our fiscal plan is based on a baseline plan with triggers to accelerate investment reduce costs as we gain confidence on the scalability of our offerings and selling pure software subscriptions.
+Our fiscal plan is a baseline with triggers to accelerate investment or reduce costs as we gain confidence in scalability and software subscription traction.
 
-With limited historical data, we are make the following **key assumptions**:
+With limited historical data, we're making the following **key assumptions**:
 - Going from 74 kickoffs/year to 140 kickoffs/year
 - Sprint conversion rate of 80%
 - 80% renewal rate
@@ -152,13 +157,13 @@ We'll be holding headcount more steady (+38 FTEs) while investing more in GTM an
 
 Gross margins will decrease temporarily in Q1 but recover to end the year above 75%.
 
-This plan doubles our burn from $3.6M to $7.6M but maintains a health burn multiple ~0.3x.
+This plan doubles our burn from $3.6M to $7.6M but maintains a healthy burn multiple of ~0.3x.
 
 ---
 
 ## FY26 Sensitivity Analysis
 
-Our fiscal plan runs on four key assumptions: sprint capacity (140 sprints), sprint conversion (80%), ACV ($204k), and Renewal Rate (80%). Here's how the outcomes shift when these move together.
+Four assumptions drive the plan: sprint capacity (140), conversion (80%), ACV ($204k), renewal (80%). Here's how outcomes shift when these move.
 
 **Sprint capacity × conversion** drives new ARR generation. These two variables multiply together, so changes compound quickly.
 
@@ -177,9 +182,9 @@ Our fiscal plan runs on four key assumptions: sprint capacity (140 sprints), spr
 **Key Observations:**
 
 - **The floor is solid.** Even if everything misses by 10%, we still double the business and maintain 12+ months runway.
-- **Sprint capacity × conversion has more leverage than ACV × Renewal Rate.** A 10% improvement there adds $4.9M in ARR versus $2.9M from ACV × Renewal Rate. The operational variables we control daily matter more than pricing or retention improvements.
-- **Upside requires compounding wins.** Getting to $41M means hitting on all four. Highly unlikely. Upside could come from platform and software subscription rather than this.
-- **Burn stays bounded.** The range is $6.2M to $8.5M across all scenarios. We don't have a model that blows up. We also have significant variable operational costs that can be quickly adjusted if needed.
+- **Capacity × conversion has more leverage.** +10% adds $4.9M ARR vs. $2.9M from ACV × Renewal. The operational variables we control daily matter more than pricing or retention.
+- **Upside requires stacking wins.** $41M means hitting all four. Unlikely. Real upside comes from platform and software subscription.
+- **Burn stays bounded.** Range is $6.2M to $8.5M across all scenarios. No blowup model. Significant variable costs we can adjust quickly if needed.
 
 ### Sprint Capacity
 
@@ -190,7 +195,7 @@ Sprint capacity determines how many new clients we can onboard this year and dir
 - -20% capacity (112 sprints): **$30.2M ARR / $8.2M burn**
 - +10% capacity (154 sprints): **$35.9M ARR / $7.2M burn**
 
-**Takeaway:** Improving leverage and capacity scales ARR almost linearly and has a meaningful but controlled impact on burn.
+**Takeaway:** Capacity scales ARR nearly linearly with controlled burn impact. Even at -20% (2.3 kickoffs/week, accounting for holidays), we clear $30M ARR with no liquidity stress. But -20% means essentially zero leverage built in Delivery over the year. Not acceptable, but survivable.
 
 ### Sprint Conversion Rate
 
@@ -201,7 +206,7 @@ Conversion rate measures how efficiently sprint capacity turns into contracted r
 - -20% conversion (60%): **$28.6M ARR / $8.2M burn**
 - +10% conversion (90%): **$36.8M ARR / $7.2M burn**
 
-**Takeaway:** Conversion has similar leverage to sprint kickoffs and compounds with it in practice. Small execution gains here meaningfully move ARR.
+**Takeaway:** Conversion has similar leverage and compounds with capacity. Small gains meaningfully move ARR. At 60% (what we saw before Strategy Sprints in June '25), we hit our floor at $29M. Since implementing Strategy Sprints, we've averaged 75%. Confident we can hold 80%.
 
 ### Average Contract Value (ACV)
 
@@ -212,7 +217,7 @@ ACV impacts the value of new bookings but does not affect the number of customer
 - -20% ACV ($163k): **$29.6M ARR / $8.5M burn**
 - +10% ACV ($224k): **$35.8M ARR / $7.1M burn**
 
-**Takeaway:** ACV improvements help, but the ARR delta is smaller than operational throughput levers.
+**Takeaway:** ACV helps, but less leverage than operational throughput. Pricing discipline matters, but it's not the primary growth driver. Our pricing is fixed ($15-18k/mo) and rarely a closed/lost reason. We're often cheaper than agencies we compete against.
 
 ### Renewal Rate
 
@@ -223,7 +228,7 @@ Renewal rate governs how much of our **$12.1M starting ARR base** we retain into
 - -20% renewal (60%): **$32.1M ARR / $7.7M burn**
 - +10% renewal (90%): **$34.6M ARR / $7.5M burn**
 
-**Takeaway:** Renewal rate affects ARR less dramatically than new business drivers in FY26, given growth is dominated by net new ARR.
+**Takeaway:** Renewal affects ARR less in FY26 because growth is dominated by net new, and most renewals concentrate in H2. Still strategically critical long-term for capital efficiency (leaky bucket kills you). Surge churn already baked in, hitting ARR in February 2026.
 
 ---
 
@@ -233,11 +238,11 @@ Renewal rate governs how much of our **$12.1M starting ARR base** we retain into
 
 Something strange happened when AI got good. Websites became more important, not less.
 
-Most people expected the opposite. If AI can answer any question, why would anyone visit your website? But that's backwards. AI has to get its answers from somewhere. And increasingly, that somewhere is your website.
+Most people expected the opposite. If AI answers any question, why visit a website? But that thinking is backwards. AI has to get its answers from somewhere. Increasingly, that somewhere is your website.
 
-Every AI assistant, every answer engine, every agent researching products treats your website as the knowledge graph for your company. Your website isn't just for humans anymore. It's the link between your company and every AI system on the planet.
+Every AI assistant, answer engine, and research agent treats your website as the knowledge graph for your company. Your website isn't just for humans anymore. It's the link between your company and every AI system on the planet.
 
-This is one of those shifts that seems obvious in retrospect but that most companies haven't internalized yet. The ones who figure it out early will have a massive advantage.
+This shift seems obvious in retrospect, but most companies haven't internalized it. The ones who figure it out early will have a massive advantage.
 
 ---
 
@@ -254,7 +259,7 @@ Websites are made of **pages**. Pages are assets. And the surface area of assets
 
 ### The Problem
 
-We work with 60+ companies. Even the AI-native ones are drowning. It's not just content. They don't have reliable partners. They don't know how to track what matters. They're lost on SEO/AEO and site health. Their product ships weekly but pages go stale for months or years. They're flying blind on what to improve, what's working, what's not.
+We work with 60+ companies. Even the AI-native ones are drowning. Not just on content. They lack reliable partners. They don't know how to track what matters. They're lost on SEO/AEO and site health. Product ships weekly, but pages go stale for months. They're flying blind on what to improve, what's working, what's not.
 
 Companies don't want five tools and three agencies. They want visibility, traffic, conversions. They want a content intelligence layer and AI agents that can act on everything.
 
@@ -279,7 +284,7 @@ Here's what companies currently spend trying to manage and grow their websites:
 | CMS & web development | $50-150K |
 | Project management overhead | $10-30K |
 
-A mid-market company easily spends $300-500K annually on this stack. Enterprise spends millions. And the website still decays. The pages still break. Nobody still knows what's working.
+A mid-market company easily spends $300-500K annually on this stack. Enterprise spends millions. And the website still decays. Pages still break. Still nobody knows what's working.
 
 They're paying for seven different tools that surface problems and zero systems that fix them.
 
@@ -294,7 +299,7 @@ The complete AI system for website growth. One system, from context to conversio
 - **Execution.** AI workflows that draft, build, and publish. Humans review at the quality bar. Work moves forward automatically.
 - **Optimization.** Signals that close the loop. What's driving AI citations. What's ranking. What's converting. What's decaying.
 
-When opportunities emerge, content is drafted. When performance decays, optimization triggers. When products change, pages update. You approve and direct at key decision points. The system does the work.
+Opportunities emerge, content gets drafted. Performance decays, optimization triggers. Products change, pages update. You approve at key decision points. The system does the work.
 
 ---
 
@@ -306,9 +311,9 @@ Three things changed:
 2. **The long tail became infinite.** Buyers ask increasingly specific questions. AI gives one answer. You need content for all of it.
 3. **AI can finally do the work.** Not generate drafts that humans fix. Actually execute workflows end-to-end with humans at the quality bar.
 
-The window is open. The companies that build their AI growth system now will compound their advantage every month. The companies that wait will spend years catching up.
+The window is open. Companies that build their AI growth system now compound their advantage every month. Companies that wait spend years catching up.
 
-We built the right primitives and this opportunity is ours for the taking. But we must execute with excellence and focus.
+We've built the right primitives. This opportunity is ours. But we must execute with excellence and focus.
 
 ---
 

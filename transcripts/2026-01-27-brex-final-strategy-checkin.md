@@ -1,72 +1,65 @@
+---
+title: Brex Final Strategy Check-In
+date: 2026-01-27
+time: 15:30 UTC
+duration_minutes: 11
+meeting_id: 01KFYXBSSWFDMYTHRN47TCKT10
+source: fireflies
+host: george@growthx.ai
+attendees:
+  - marcel@growthx.ai
+  - george@growthx.ai
+transcript_url: https://app.fireflies.ai/view/01KFYXBSSWFDMYTHRN47TCKT10
+meeting_link: https://growthx-ai.zoom.us/j/81715369861
+status: transcript_unavailable
+last_updated: 2026-02-01
+---
+
 # Brex Final Strategy Check-In
-
----
-
-**Meeting ID:** 01KFYXBSSWFDMYTHRN47TCKT10  
-**Date:** January 27, 2026  
-**Duration:** ~11 minutes  
-**Organizer:** george@growthx.ai  
-**Attendees:** Marcel Santilli (marcel@growthx.ai), George (george@growthx.ai)  
-**Platform:** Zoom  
-**Transcript URL:** [View in Fireflies](https://app.fireflies.ai/view/01KFYXBSSWFDMYTHRN47TCKT10)
-
----
 
 ## Summary
 
-**Transcript content not yet available.** Fireflies shows this meeting recorded but returned "No speakers" and "No sentences." The transcription may still be processing or there was a recording issue.
-
----
+**Transcript unavailable.** The Fireflies recording exists but no transcript was generated. Check the [Fireflies dashboard](https://app.fireflies.ai/view/01KFYXBSSWFDMYTHRN47TCKT10) to diagnose.
 
 ## Context
 
-Internal strategy check-in between Marcel and George regarding Brex. Based on the meeting title, this appears to be a final alignment conversation before a Brex-related decision or deliverable.
-
----
+- **Client:** Brex
+- **Meeting Type:** Strategy check-in (final)
+- **Participants:** Marcel, George
 
 ## Relevance to GrowthX
 
-Brex strategy discussions typically relate to:
-- Financial operations and expense management
-- Client billing and payment infrastructure
-- Cash flow planning for the services business
+This appears to be a final strategy alignment call with Brex. Given the "final" designation, this likely covered:
+- Campaign/engagement wrap-up
+- Results review
+- Next steps or renewal discussion
 
----
+*Note: Content details unavailable due to missing transcript.*
 
 ## Overview
 
-*Content pending transcription.*
+Meeting metadata captured but speech-to-text transcription failed.
 
----
+**Possible causes:**
+- Audio quality issues during the Zoom call
+- Fireflies bot couldn't process the recording
+- Transcription service error
 
 ## Key Topics
 
-*Content pending transcription.*
-
----
+*Unable to extract - transcript unavailable*
 
 ## Action Items
 
-### Marcel
-- [ ] *Pending transcript*
-
-### George
-- [ ] *Pending transcript*
+*Unable to extract - transcript unavailable*
 
 ---
 
 ## Full Transcript
 
-**Status:** Not available
+**Transcript not available.**
 
-The Fireflies API returned empty transcript data for this meeting. To access the recording:
-
-- **Audio:** Available via Fireflies CDN (link expires ~7 days from meeting)
-- **Video:** Available via Fireflies CDN (link expires ~7 days from meeting)
-- **Fireflies Dashboard:** [View Meeting](https://app.fireflies.ai/view/01KFYXBSSWFDMYTHRN47TCKT10)
-
-If the transcript becomes available later, re-run the pull command to update this file.
-
----
-
-*Last updated: 2026-02-01*
+The audio recording exists. If this content is important:
+1. Listen to the [audio recording](https://app.fireflies.ai/view/01KFYXBSSWFDMYTHRN47TCKT10) directly
+2. Manually transcribe key points
+3. Contact Fireflies support if this is a recurring issue

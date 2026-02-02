@@ -30,11 +30,9 @@ Websites are made of pages. Pages are assets. The surface area of assets a compa
 
 We work with 60+ companies. Even the AI-native ones are drowning.
 
-It's not just content. They don't have reliable partners. They can't track what matters. They're lost on SEO and AEO. Their product ships weekly but pages go stale for months. They don't know what's working, what's breaking, or what to fix.
+Their product ships weekly but pages go stale for months. They have seven tools that surface problems and zero systems that fix them. They're spending $300-500K annually across agencies, SEO tools, and analytics. The website still decays.
 
-Companies don't want five tools and three agencies. They want visibility, traffic, conversions. They want systems that act, not dashboards that watch.
-
-AI should be a force multiplier for marketing teams, like coding agents are for engineers.
+Companies don't want dashboards that watch. They want systems that act.
 
 ---
 
@@ -63,13 +61,15 @@ They're paying for seven tools that surface problems and zero systems that fix t
 
 ## What We're Building
 
-One system, from context to conversion.
+One system, from context to conversion. Built on one insight: marketing is context engineering.
+
+Context engineering is distilling what your company is, who you serve, what you build, how you sound, and why any of it matters. That's literally what marketing does. The companies that get their context right can multiply it with AI. The ones with messy context multiply trash.
 
 **Context.** Your brand's knowledge, always evolving. Products, personas, positioning, voice. The foundation AI needs to sound like you instead of generic slop.
 
-**Strategy.** An opportunities engine that maps what to create, optimize, and fix. Based on signals, not guesses.
+**Strategy.** A buyer knowledge graph. We map every question your buyers care about across their entire journey. Pain points, jobs to be done, evaluation criteria, skills they need. Then we quantify each opportunity against business impact. This is research, not tracking. Understanding your buyers isn't a dashboard problem. It's a depth problem.
 
-**Execution.** AI workflows that draft, build, and publish. Humans review at the quality bar. Work moves forward automatically.
+**Execution.** AI workflows that draft, build, and publish. Humans review at the quality bar. We don't hand off Google Docs. We publish. We're the forcing function that gets content live. Over time, the editorial function evolves into a labeling function. We're identifying failure modes that our agents can systematically fix.
 
 **Optimization.** Signals that close the loop. What's driving AI citations. What's ranking. What's converting. What's decaying.
 

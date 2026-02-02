@@ -1,3 +1,34 @@
+# The Operator's Handbook for Scaling Startups
+
+<metadata>
+source: Compass AI deep research synthesis
+created: January 2026
+scope: Reference material for operators scaling from $12M to $36M ARR
+use_case: Decision-making, operating system design, leadership development
+</metadata>
+
+---
+
+## About This Document
+
+This is a synthesis of battle-tested operating frameworks from Andy Grove, Jeff Bezos, Gino Wickman (EOS), Ben Horowitz, Frank Slootman, and modern operators at companies like Zapier, GitLab, and Netflix.
+
+**When to use it:**
+- Designing your company's operating rhythm (meetings, reviews, planning cycles)
+- Choosing decision-making frameworks for your org
+- Building people operations at scale
+- Running hybrid tech+services delivery
+- Setting up accountability and reporting systems
+
+**How to use it:**
+- Skim the table of contents for the framework you need
+- Go deep on specific sections as you implement
+- Adapt frameworks to your culture. None of these are one-size-fits-all
+
+**Core insight that threads through all of it:** Execution discipline beats strategy elegance. Systems beat heroics. Build the operating system early.
+
+---
+
 # The operator's handbook for scaling from $12M to $36M ARR
 
 A 100-person hybrid tech+services company tripling revenue in 12 months faces a fundamental operating challenge: you must build organizational systems fast enough to support growth without bureaucracy slowing execution. This synthesis distills battle-tested frameworks from operators who've navigated this exact scaling journey—Andy Grove's leverage principles, Amazon's operating mechanisms, EOS's execution discipline, and modern remote-first playbooks from companies like Zapier and GitLab.
