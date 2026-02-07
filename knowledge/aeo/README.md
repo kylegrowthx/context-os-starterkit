@@ -10,6 +10,7 @@ This directory contains the core knowledge base for AEO strategy, methodology, a
 
 | I want to... | Read this |
 |---|---|
+| **Understand CheckThat's prompt taxonomy and measurement framework** | [prompt-taxonomy-and-ontology-v1.md](prompt-taxonomy-and-ontology-v1.md) |
 | **Build a prompt tracking library from scratch** | [guides/buyer-evaluation-prompt-playbook.md](guides/buyer-evaluation-prompt-playbook.md) |
 | **Learn how to write monitoring prompts correctly** | [guides/prompt-writing-methodology.md](guides/prompt-writing-methodology.md) |
 | **Understand buyer evaluation prompt categories** | [guides/buyer-evaluation-prompts-study-guide.md](guides/buyer-evaluation-prompts-study-guide.md) |
@@ -131,6 +132,7 @@ Sources span: peer-reviewed academic papers (arxiv, ACL, EMNLP, Nature Communica
 ```
 knowledge/aeo/
   README.md                                              # This file
+  prompt-taxonomy-and-ontology-v1.md                     # CheckThat prompt taxonomy, ontology, and measurement framework
   guides/
     buyer-evaluation-prompt-playbook.md                  # Playbook: 6 prompt categories, templates, metrics
     prompt-writing-methodology.md                        # How to write unbiased monitoring prompts

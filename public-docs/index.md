@@ -94,4 +94,4 @@ CheckThat answers the three questions: Where do you show up? How are you positio
 
 ---
 
-*[Why this exists](/why/the-shift) | [What we built](/product/the-open-index) | [Learn about AEO](/learn/what-is-aeo) | [Who we are](/about/who-we-are)*
+*[Why this exists](/why/the-shift) | [What we built](/product/the-open-index) | [Learn about AEO](/learn/what-is-aeo) | [How we measure](/learn/how-we-measure) | [Who we are](/about/who-we-are)*
