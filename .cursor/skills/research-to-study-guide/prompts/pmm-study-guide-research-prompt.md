@@ -66,7 +66,7 @@ Beyond just sources, actively document:
 - Running commentary and reasoning
 - Pattern recognition as it emerges
 
-### 2. `/knowledge/pmm-study-guide.md` — Final Processed Guide
+### 2. `/knowledge/building/pmm-study-guide-v1.md` — Final Processed Guide
 - **Part 1: Foundations** — What is PMM, core mental models, the job
 - **Part 2: Positioning** — Frameworks, process, examples
 - **Part 3: Messaging** — Hierarchies, copywriting, validation

@@ -613,7 +613,7 @@ Know what "good" looks like:
 
 ## Reference Files
 
-- `/knowledge/linkedin-hooks-study-guide-v1.md` — 220+ hooks and engagement patterns
-- `/linkedin-engagement-study-guide.md` — Full algorithm and engagement playbook
+- `/knowledge/content/linkedin-hooks-study-guide-v1.md` — 220+ hooks and engagement patterns
+- `/knowledge/content/linkedin-engagement-study-guide-v1.md` — Full algorithm and engagement playbook
 - `/context/voice/writing-style-context-v2.md` — GrowthX voice and style
 - `/context/personal/marcel-santilli-psychological-profile-v1.md` — Your communication patterns

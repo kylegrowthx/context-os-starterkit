@@ -15,7 +15,7 @@ This section contains financial documentation: board meeting materials, fiscal p
 | If you want to understand... | Read this |
 |------------------------------|-----------|
 | Current fiscal year plan | `fiscal-plan-2026-v2.md` |
-| Board meeting materials | `board-meetings/` |
+| Board meeting materials | `q1-2025-board-meeting.md` (and Q2–Q4) |
 
 ---
 
@@ -50,7 +50,7 @@ This section contains financial documentation: board meeting materials, fiscal p
 ## Related Documentation
 
 - **Business:** `../business/` — Business model and economics
-- **Products:** `../products/` — Product portfolio
+- **Company:** `../company/` — Vision, strategy, priorities
 
 ---
 

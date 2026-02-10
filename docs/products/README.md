@@ -25,6 +25,7 @@ GrowthX is building a multi-product ecosystem. Each product serves a specific st
 | If you want to understand... | Read this |
 |------------------------------|-----------|
 | Multi-product strategy | `ecosystem-strategy.md` |
+| Services vs. platform FAQ | `services-and-platform-faq.md` |
 | CheckThat product docs | `checkthat/` |
 | ContentOS product docs | `contentos/` |
 | Output AI docs | `output/` |
@@ -35,7 +36,8 @@ GrowthX is building a multi-product ecosystem. Each product serves a specific st
 
 ```
 products/
-├── ecosystem-strategy.md   ← How products work together
+├── ecosystem-strategy.md          ← How products work together
+├── services-and-platform-faq.md   ← Internal FAQ: services vs. platform
 ├── checkthat/              ← AI visibility platform
 │   ├── overview-v1.md
 │   ├── product-vision-v1.md
@@ -59,8 +61,9 @@ products/
 
 ## Related Documentation
 
-- **EPD:** `../epd/` — Engineering, Product, Design team docs
 - **Business:** `../business/` — Business model and economics
+- **Delivery:** `../delivery/` — Post-sales operations and client work
+- **EPD:** `../epd/` — Engineering, Product, Design team docs
 
 ---
 

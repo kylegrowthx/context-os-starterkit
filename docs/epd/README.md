@@ -79,7 +79,7 @@ EPD has 3 lanes:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              product-ecosystem-strategy-v1.md               │
+│            ../products/ecosystem-strategy.md                │
 │                (Start here: the blueprint)                  │
 └─────────────────────────────────────────────────────────────┘
                               │
@@ -111,7 +111,7 @@ EPD has 3 lanes:
 
 **New EPD hire:**
 1. `onboarding-v1.md` — Your first week checklist
-2. `product-ecosystem-strategy-v1.md` — Understand the product vision
+2. `../products/ecosystem-strategy.md` — Understand the product vision
 3. `ai-driven-development-v1.md` — How we work with AI
 4. Your lane doc: `product-lane-dev-process-v1.md` or `client-ops-engineering-v1.md`
 
@@ -126,7 +126,7 @@ EPD has 3 lanes:
 3. `client-ops-eng-team-lead-v1.md` — Team expectations
 
 **EPD Leadership:**
-1. `product-ecosystem-strategy-v1.md` — Strategic direction
+1. `../products/ecosystem-strategy.md` — Strategic direction
 2. `one-on-ones-guide-v1.md` — Leadership framework
 3. `hiring-v1.md` — Building the team
 
@@ -134,7 +134,8 @@ EPD has 3 lanes:
 
 ## Related Documentation
 
-- **CheckThat product:** `../checkthat/` — Product strategy, positioning, pricing
+- **Delivery:** `../delivery/` — Post-sales operations and client work
+- **Products:** `../products/` — Product portfolio (CheckThat, ContentOS, Output)
 - **Company handbook:** `../` — Culture, policies, how we work
 - **Writing guidelines:** `../../context/voice/` — Content style guide
 

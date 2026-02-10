@@ -1,10 +1,14 @@
 # The Operator's Handbook for Scaling Startups
 
 <metadata>
-source: Compass AI deep research synthesis
-created: January 2026
-scope: Reference material for operators scaling from $12M to $36M ARR
-use_case: Decision-making, operating system design, leadership development
+purpose: Operator's handbook for scaling startups from $12M to $36M ARR — frameworks from Grove, Bezos, EOS, Slootman
+audience: Founders, COOs, and operators at growth-stage startups
+related: knowledge/building/ceo-user-manual-study-guide-v1.md, knowledge/building/max-mrr-churn-retention-study-guide-v1.md
+domain: building
+confidence: research
+sensitivity: public
+context_tier: 3
+last_updated: 2026-02-09
 </metadata>
 
 ---

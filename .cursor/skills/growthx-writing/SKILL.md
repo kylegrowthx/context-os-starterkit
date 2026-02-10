@@ -79,4 +79,4 @@ Before finishing, verify:
 
 For comprehensive guidance:
 - **Style rules**: [writing-style-context-v2.md](../../context/voice/writing-style-context-v2.md) — GrowthX voice, principles, examples
-- **Craft foundations**: [writing-craft-study-guide.md](../../knowledge/writing-craft-study-guide.md) — Orwell, Hemingway, Zinsser, and 15+ writing masters
+- **Craft foundations**: [writing-craft-study-guide-v1.md](../../knowledge/content/writing-craft-study-guide-v1.md) — Orwell, Hemingway, Zinsser, and 15+ writing masters

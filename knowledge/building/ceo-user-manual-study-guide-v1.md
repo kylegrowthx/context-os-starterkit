@@ -1,10 +1,14 @@
 # CEO User Manual Study Guide: How to Scale Yourself as an Operator
 
 <metadata>
-source: Deep research synthesis from Claire Hughes Johnson (Stripe), Keith Rabois (PayPal/Square), Ray Dalio (Bridgewater), Matt Mochary, GitLab, First Round Review, Adam Bryant, and other leading sources
-created: February 2026
-scope: Creating effective "Working with Me" documents, personal operating manuals, and leadership user guides
-use_case: Scaling CEO/executive effectiveness, team alignment, onboarding acceleration, leadership development
+purpose: Study guide on creating CEO/executive user manuals and "Working with Me" documents
+audience: Founders, CEOs, and executives scaling teams
+related: knowledge/building/operators-handbook-scaling-startups-v1.md, context/personal/marcel-user-manual-v1.md
+domain: building
+confidence: research
+sensitivity: public
+context_tier: 3
+last_updated: 2026-02-09
 </metadata>
 
 ---

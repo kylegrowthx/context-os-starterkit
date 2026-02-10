@@ -138,18 +138,30 @@ See [README.md](README.md) for project overview and navigation.
 
 > [README](knowledge/README.md) | [INDEX](knowledge/INDEX.md)
 
+### knowledge/content/ -- Writing & Content Creation
+
 | File | Path |
 |---|---|
-| CEO User Manual | [knowledge/ceo-user-manual-study-guide.md](knowledge/ceo-user-manual-study-guide.md) |
-| Company Handbook | [knowledge/company-handbook-study-guide-v1.md](knowledge/company-handbook-study-guide-v1.md) |
-| Context Engineering | [knowledge/context-engineering-study-guide-v1.md](knowledge/context-engineering-study-guide-v1.md) |
-| Elements of Style | [knowledge/elements-of-style-study-guide.md](knowledge/elements-of-style-study-guide.md) |
-| Writing Craft | [knowledge/writing-craft-study-guide.md](knowledge/writing-craft-study-guide.md) |
-| LinkedIn Engagement | [knowledge/linkedin-engagement-study-guide.md](knowledge/linkedin-engagement-study-guide.md) |
-| LinkedIn Hooks | [knowledge/linkedin-hooks-study-guide-v1.md](knowledge/linkedin-hooks-study-guide-v1.md) |
-| MRR/Churn/Retention | [knowledge/max-mrr-churn-retention-study-guide-v1.md](knowledge/max-mrr-churn-retention-study-guide-v1.md) |
-| Operators Handbook | [knowledge/operators-handbook-scaling-startups.md](knowledge/operators-handbook-scaling-startups.md) |
-| AI Product Leadership | [knowledge/ai-product-leadership-study-guide-v1.md](knowledge/ai-product-leadership-study-guide-v1.md) |
+| Elements of Style | [knowledge/content/elements-of-style-study-guide-v1.md](knowledge/content/elements-of-style-study-guide-v1.md) |
+| Writing Craft | [knowledge/content/writing-craft-study-guide-v1.md](knowledge/content/writing-craft-study-guide-v1.md) |
+| LinkedIn Engagement | [knowledge/content/linkedin-engagement-study-guide-v1.md](knowledge/content/linkedin-engagement-study-guide-v1.md) |
+| LinkedIn Hooks | [knowledge/content/linkedin-hooks-study-guide-v1.md](knowledge/content/linkedin-hooks-study-guide-v1.md) |
+
+### knowledge/building/ -- Company Operations & Leadership
+
+| File | Path |
+|---|---|
+| CEO User Manual | [knowledge/building/ceo-user-manual-study-guide-v1.md](knowledge/building/ceo-user-manual-study-guide-v1.md) |
+| Company Handbook | [knowledge/building/company-handbook-study-guide-v1.md](knowledge/building/company-handbook-study-guide-v1.md) |
+| Operators Handbook | [knowledge/building/operators-handbook-scaling-startups-v1.md](knowledge/building/operators-handbook-scaling-startups-v1.md) |
+| MRR/Churn/Retention | [knowledge/building/max-mrr-churn-retention-study-guide-v1.md](knowledge/building/max-mrr-churn-retention-study-guide-v1.md) |
+
+### knowledge/product/ -- AI & Product Development
+
+| File | Path |
+|---|---|
+| AI Product Leadership | [knowledge/product/ai-product-leadership-study-guide-v1.md](knowledge/product/ai-product-leadership-study-guide-v1.md) |
+| Context Engineering | [knowledge/product/context-engineering-study-guide-v1.md](knowledge/product/context-engineering-study-guide-v1.md) |
 
 ### knowledge/aeo/ -- AEO & AI Visibility Hub
 

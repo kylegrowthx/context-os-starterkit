@@ -1,5 +1,16 @@
 # The Complete LinkedIn Engagement Study Guide
 
+<metadata>
+purpose: Study guide on LinkedIn engagement — psychology, hooks, post structures, and algorithm dynamics
+audience: B2B founders, marketers, and thought leaders building presence on LinkedIn
+related: knowledge/content/linkedin-hooks-study-guide-v1.md, context/voice/marcel-linkedin-style-guide-v1.md
+domain: content
+confidence: research
+sensitivity: public
+context_tier: 3
+last_updated: 2026-02-09
+</metadata>
+
 *A comprehensive guide to writing hooks, posts, and content that drives comments, likes, and meaningful engagement*
 
 ---

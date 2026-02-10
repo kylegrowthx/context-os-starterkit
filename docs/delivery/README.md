@@ -19,6 +19,8 @@ This section covers everything that happens after the sale: team structure, clie
 | Preparing for a new engagement | `week-00-prep.md` |
 | Our human + AI approach | `human-ai-collaboration.md` |
 | Content quality standards | `creating-good-content.md` |
+| How Marcel runs client calls | `how-marcel-runs-client-calls-v1.md` |
+| Weekly customer call playbook | `weekly-call-playbook-v1.md` |
 
 ---
 
@@ -31,6 +33,8 @@ This section covers everything that happens after the sale: team structure, clie
 | `week-00-prep.md` | Pre-kickoff research and preparation |
 | `human-ai-collaboration.md` | Our approach to AI + human expertise |
 | `creating-good-content.md` | Content quality standards and avoiding AI slop |
+| `how-marcel-runs-client-calls-v1.md` | How Marcel approaches client calls — reference for EMs |
+| `weekly-call-playbook-v1.md` | Full playbook for weekly customer calls: prep, structure, follow-up |
 
 ---
 
@@ -71,9 +75,10 @@ Sales → Strategy Sprint (8 weeks) → Growth Execution (ongoing)
 
 ## Related Documentation
 
-- **Business:** `../business/` — Customer lifecycle
-- **Sales:** `../sales/` — What happens before delivery
+- **Business:** `../business/` — Customer lifecycle and success metrics
+- **Products:** `../products/` — What we're building and selling
 - **EPD:** `../epd/` — Engineering support for delivery
+- **Sales:** `../sales/` — What happens before delivery
 
 ---
 

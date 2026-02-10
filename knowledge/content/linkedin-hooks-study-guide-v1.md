@@ -1,5 +1,16 @@
 # LinkedIn Hooks & Engagement Study Guide
 
+<metadata>
+purpose: Study guide on LinkedIn hook patterns — 220+ hooks, frameworks, and expert examples
+audience: B2B founders, marketers, and thought leaders building presence on LinkedIn
+related: knowledge/content/linkedin-engagement-study-guide-v1.md, context/voice/marcel-linkedin-style-guide-v1.md
+domain: content
+confidence: research
+sensitivity: public
+context_tier: 3
+last_updated: 2026-02-09
+</metadata>
+
 > **For:** B2B founders, marketers, and thought leaders building presence on LinkedIn
 > **Goal:** Create posts that stop the scroll, drive comments, and build authority
 > **Time Investment:** 10-15 hours to study patterns, then ongoing practice

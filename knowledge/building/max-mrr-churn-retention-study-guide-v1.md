@@ -1,10 +1,14 @@
 # Max MRR & Churn Mastery: A Study Guide
 
 <metadata>
-created: February 2026
-purpose: Comprehensive guide to understanding revenue ceilings, churn dynamics, and retention strategies
-primary_source: Jason Cohen's Max MRR framework (A Smart Bear)
-additional_sources: Lenny's Podcast transcripts (Patrick Campbell, Elena Verna, Casey Winters, Gibson Biddle)
+purpose: Study guide on revenue ceilings, churn math, and retention strategies (Max MRR framework)
+audience: SaaS founders, revenue leaders, and operators
+related: knowledge/building/operators-handbook-scaling-startups-v1.md
+domain: building
+confidence: research
+sensitivity: public
+context_tier: 3
+last_updated: 2026-02-09
 </metadata>
 
 ---

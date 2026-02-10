@@ -192,7 +192,19 @@ Create study guide with audience filtering:
 | File | Purpose |
 |------|---------|
 | `/pipeline/scratchpad/[topic]-research-scratchpad.md` | Living research notes |
-| `/knowledge/[topic]-study-guide-v1.md` | Final study guide |
+| `/knowledge/[subdirectory]/[topic]-study-guide-v1.md` | Final study guide |
+
+### Subdirectory Routing
+
+Place the final study guide in the subdirectory that matches its primary use case:
+
+| Subdirectory | When to use | Examples |
+|-------------|-------------|---------|
+| `content/` | Writing, style, content creation, LinkedIn | writing craft, hooks, engagement |
+| `building/` | Company ops, leadership, SaaS metrics, scaling | handbooks, churn, operator frameworks |
+| `product/` | AI, engineering, product strategy | AI product leadership, context engineering |
+
+If the topic doesn't clearly fit one subdirectory, ask the user which one to use.
 
 ## Example Usage
 
@@ -202,7 +214,7 @@ User: "I want to become an expert in company handbooks"
 2. Audience: Founders at 10-100 person companies
 3. Research: Public handbooks (Basecamp, GitLab, Valve, Netflix), structure patterns, expert advice
 4. Evaluate: 24 sources, 6 frameworks, 10+ examples = Great (0.85)
-5. Synthesize: `/knowledge/company-handbook-study-guide-v1.md`
+5. Synthesize: `/knowledge/building/company-handbook-study-guide-v1.md`
 
 ## Deep Reference
 

@@ -194,4 +194,4 @@ search_depth: "advanced"
 - **Sources documented:** 20+
 - **Examples from user's sources:** Elena Verna, Jason Lemkin, Sahil Bloom, Chris Walker
 
-**Output:** `/knowledge/linkedin-hooks-study-guide-v1.md`
+**Output:** `/knowledge/content/linkedin-hooks-study-guide-v1.md`

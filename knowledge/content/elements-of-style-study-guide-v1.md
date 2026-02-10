@@ -1,5 +1,16 @@
 # The Elements of Style: Comprehensive Study Guide
 
+<metadata>
+purpose: Study guide distilling Strunk & White's Elements of Style — grammar, composition, and style rules
+audience: Writers, content creators, anyone improving their writing
+related: knowledge/content/writing-craft-study-guide-v1.md, context/voice/writing-style-context-v2.md
+domain: content
+confidence: research
+sensitivity: public
+context_tier: 3
+last_updated: 2026-02-09
+</metadata>
+
 ## Overview
 
 **The Elements of Style** (commonly known as "Strunk & White") is the most influential English writing style guide in American history. Originally written by William Strunk Jr. in 1918 for his students at Cornell University, it was later revised and expanded by E.B. White in 1959, becoming a publishing phenomenon that has sold over 10 million copies.

@@ -8,29 +8,27 @@ Everything in this directory is designed to be read, studied, and applied. Each 
 
 ## Subdirectories
 
-| Directory | What's There |
-|---|---|
-| [aeo/](aeo/) | AEO & AI Visibility knowledge hub -- guides, research, 103-source deep research |
+| Directory | What's There | Files |
+|-----------|-------------|-------|
+| [content/](content/) | Writing craft, style, and LinkedIn content creation | 4 study guides |
+| [building/](building/) | Company operations, leadership, and SaaS metrics | 4 study guides |
+| [product/](product/) | AI product strategy and engineering practices | 2 study guides |
+| [aeo/](aeo/) | AEO & AI Visibility — guides, research, 103-source deep research | 8 files |
 
-## Study Guides
+## How to Navigate
 
-| File | Topic | Summary |
-|---|---|---|
-| [ceo-user-manual-study-guide.md](ceo-user-manual-study-guide.md) | Leadership | CEO operating manual and decision-making |
-| [company-handbook-study-guide-v1.md](company-handbook-study-guide-v1.md) | Company | GrowthX handbook distilled |
-| [context-engineering-study-guide-v1.md](context-engineering-study-guide-v1.md) | AI/Engineering | Context engineering principles and practices |
-| [elements-of-style-study-guide.md](elements-of-style-study-guide.md) | Writing | Strunk & White distilled |
-| [writing-craft-study-guide.md](writing-craft-study-guide.md) | Writing | Writing craft principles |
-| [linkedin-engagement-study-guide.md](linkedin-engagement-study-guide.md) | Marketing | LinkedIn engagement strategies |
-| [linkedin-hooks-study-guide-v1.md](linkedin-hooks-study-guide-v1.md) | Marketing | LinkedIn hook writing patterns |
-| [max-mrr-churn-retention-study-guide-v1.md](max-mrr-churn-retention-study-guide-v1.md) | SaaS Metrics | MRR, churn, and retention frameworks |
-| [operators-handbook-scaling-startups.md](operators-handbook-scaling-startups.md) | Operations | Scaling startups operator handbook |
+Pick the subdirectory that matches what you're doing:
+
+- **Creating content?** Start at [content/README.md](content/README.md)
+- **Building the company?** Start at [building/README.md](building/README.md)
+- **Building product?** Start at [product/README.md](product/README.md)
+- **Working on AEO / AI visibility?** Start at [aeo/README.md](aeo/README.md)
 
 ## Archive
 
 | File | Summary |
-|---|---|
-| [archive/Context_Engineering_Ultimate_Guide_Growthx.md](archive/Context_Engineering_Ultimate_Guide_Growthx.md) | Original context engineering guide (superseded by study guide) |
+|------|---------|
+| [archive/context-engineering-ultimate-guide-growthx-v1.md](archive/context-engineering-ultimate-guide-growthx-v1.md) | Original context engineering guide (superseded by study guide) |
 
 ---
 

@@ -66,11 +66,12 @@ docs/
 
 These directories serve other purposes and are not part of the official handbook:
 
-- `/writing-guidelines` — Content style guides
-- `/knowledge` — Study guides and learning materials
-- `/roles` — AI personas
-- `/customers` — Client documentation
-- `/transcripts`, `/outputs`, `/research` — Working files
+- `/context/voice/` — Content style guides
+- `/context/roles/` — AI executive personas
+- `/knowledge/` — Study guides and learning materials
+- `/records/customers/` — Client documentation
+- `/records/transcripts/` — Meeting notes and recordings
+- `/pipeline/` — Research, drafts, and finished deliverables
 
 ---
 

@@ -1,5 +1,16 @@
 # AI Product Leadership Study Guide
 
+<metadata>
+purpose: Study guide on AI product leadership — strategy, features, and building AI-native products
+audience: Product leaders (VP/Director/Head of Product) at B2B tech companies
+related: knowledge/product/context-engineering-study-guide-v1.md
+domain: product
+confidence: research
+sensitivity: public
+context_tier: 3
+last_updated: 2026-02-09
+</metadata>
+
 > **For:** Product leaders (VP/Director/Head of Product) at B2B tech companies
 > **Goal:** Develop the skills to lead AI product strategy, shape AI features, and build AI-native products
 > **Time Investment:** 15-25 hours over 4-6 weeks

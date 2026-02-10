@@ -157,11 +157,12 @@ We bias toward action. Make decisions with ~70% certainty. Course-correct as you
 
 These live outside `/docs` and serve different purposes:
 
-- `/writing-guidelines` — Content style guides (for AI/content context)
-- `/knowledge` — Study guides and learning materials
-- `/roles` — AI personas for this project
-- `/customers` — Client-specific documentation
-- `/transcripts` — Meeting notes and recordings
+- `/context/voice/` — Content style guides
+- `/context/roles/` — AI executive personas
+- `/knowledge/` — Study guides and learning materials
+- `/records/customers/` — Client-specific documentation
+- `/records/transcripts/` — Meeting notes and recordings
+- `/pipeline/` — Research, drafts, and finished deliverables
 
 ---
 

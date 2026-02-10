@@ -10,6 +10,7 @@ See [README.md](README.md) for an overview of this directory.
 |---|---|
 | [README.md](README.md) | Directory overview |
 | [ecosystem-strategy.md](ecosystem-strategy.md) | Product ecosystem strategy |
+| [services-and-platform-faq.md](services-and-platform-faq.md) | Internal FAQ: services vs. platform |
 
 ## checkthat/
 

@@ -47,6 +47,7 @@ We help B2B tech companies grow through content. Content is the atomic unit. Web
 
 ## Related Documentation
 
+- **Company:** `../company/` — Mission, vision, strategy
 - **Delivery:** `../delivery/` — Post-sales operations
 - **Sales:** `../sales/` — Pre-sales process
 - **Products:** `../products/` — Our product portfolio
