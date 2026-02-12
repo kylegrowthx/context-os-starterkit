@@ -21,8 +21,9 @@ This skill:
 1. Searches Fireflies for the specified meeting
 2. Downloads meeting details (summary, action items, metadata)
 3. Downloads raw transcript (speakers, sentences)
-4. Combines into properly formatted markdown
-5. Saves to `/records/transcripts/YYYY-MM-DD-meeting-name.md`
+4. Formats transcript using the bundled formatter script
+5. Combines into properly formatted markdown
+6. Saves to `/records/transcripts/YYYY-MM-DD-meeting-name.md`
 
 ## Workflow
 
@@ -33,8 +34,10 @@ Ask the user: **"What meeting do you want to pull? (provide a name, date, or par
 Then search Fireflies with options:
 - By keyword: `keyword:"standup"`
 - By date range: `from:2026-01-20 to:2026-01-27`
-- By participant: `participants:marcel@growthx.ai`
-- Combined: `keyword:"weekly" from:2026-01-01 participants:marcel@growthx.ai`
+- By participant: `participants:marcel@growthxlabs.com` or `participants:marcel@growthx.ai`
+- Combined: `keyword:"weekly" from:2026-01-01 participants:marcel@growthxlabs.com`
+
+**Note:** Marcel's meetings may appear under either `marcel@growthxlabs.com` or `marcel@growthx.ai`. When searching for Marcel's meetings, try `marcel@growthxlabs.com` first (primary), then `marcel@growthx.ai` if results seem incomplete.
 
 ### Step 2: Confirm Selection
 
@@ -63,7 +66,16 @@ Use the meeting ID to get the summary with:
 Get the full transcript with:
 - Speakers list
 - All sentences with speaker attribution
-- Format into readable dialogue
+
+**For large transcripts** (which go to cache as `.txt` files in the agent-tools directory), use the bundled formatter script to convert to markdown rather than reading into context:
+
+```bash
+python3 .cursor/skills/pull-meeting/format-transcript.py CACHE_FILE.txt > /tmp/meeting_transcript.md
+```
+
+This converts each `Speaker: text` line into `**Speaker:** text` markdown format.
+
+**For transcripts returned inline** (smaller meetings), the raw dialogue is already in context and can be formatted directly into the file.
 
 ### Step 5: Generate Context Sections
 
@@ -170,6 +182,14 @@ transcript_url: https://app.fireflies.ai/view/<meeting_id>
 <Continue full transcript with speaker labels>
 ```
 
+**Assembling the file efficiently:**
+
+For single meetings, write the full file inline. For batch processing or large transcripts:
+1. Write the header through `## Transcript\n` using the Write tool
+2. Append the formatted transcript using shell: `cat /tmp/meeting_transcript.md >> "FILEPATH"`
+
+This avoids reading large transcripts into context.
+
 ### Step 7: Report Back
 
 After saving, confirm:
@@ -189,10 +209,67 @@ When generating Summary, Context, and Relevance sections:
 - **Ground in specifics** - Numbers, names, dates, concrete details
 - **Connect to company context** - Reference GrowthX services, CheckThat, content strategy as relevant
 
+## Edge Cases
+
+### No audio captured
+Some meetings have no transcript from Fireflies (Zoom recording issues, bot didn't join, etc.). When `fireflies_get_transcript` returns empty or no sentences:
+- Still save the file with metadata, summary, and action items from the summary data
+- In the Transcript section, write: `No transcript captured (audio not available).`
+
+### Timezone shifts
+Fireflies uses UTC timestamps. A meeting at 10pm UTC on Feb 4 may correspond to a file dated Feb 5 in local time (or vice versa). When comparing against existing files for deduplication, check +/- 1 day on the date prefix.
+
 ## Batch Mode
 
-To pull multiple meetings at once:
-1. Search with broader criteria: `from:2026-01-01 to:2026-01-31 limit:50`
-2. List all matching meetings for user to confirm
-3. Process each meeting sequentially using this workflow
-4. Report summary of all files created
+To pull multiple meetings at once (e.g., "pull all my meetings not yet saved"):
+
+### Step 1: Search Fireflies
+Search with participant filter and date range:
+```
+participants:marcel@growthxlabs.com from:2026-01-01 to:2026-02-11 limit:50
+```
+Extract titles, dates, IDs, and durations using a shell script to parse the JSON results.
+
+### Step 2: List existing transcripts
+List files in `records/transcripts/` to get all already-saved meetings.
+
+### Step 3: Deduplicate
+Compare Fireflies results against existing files:
+- Match by date prefix + title keyword overlap (2+ matching words = likely same meeting)
+- Account for UTC timezone shifts (+/- 1 day)
+- Skip meetings under 5 minutes
+- Skip untitled meetings (e.g., "marcel@growthxlabs.com - Untitled")
+- Flag potential duplicates to the user rather than silently skipping
+
+Use a Python script for this comparison (parse filenames, normalize titles, check overlap).
+
+### Step 4: Present missing meetings
+Show user a numbered table of meetings not yet saved:
+
+| # | Date | Meeting | Duration |
+|---|------|---------|----------|
+| 1 | Feb 9 | Strategy Sprint Standup | 66m |
+| 2 | Feb 5 | Deliver swat team check-in | 63m |
+
+Ask: **"Pull all, select specific numbers (e.g., '1, 3, 5'), or skip short ones (under X minutes)?"**
+
+### Step 5: Process in parallel
+- For 1-3 meetings: process sequentially (fetch summary + transcript, write file)
+- For 4+ meetings: use Task agents to process in parallel batches of 3-4
+- Each Task agent fetches summaries + transcripts, formats using the script, and writes complete files
+
+### Step 6: Format transcripts efficiently
+Always use the formatter script for batch processing:
+```bash
+python3 .cursor/skills/pull-meeting/format-transcript.py CACHE_FILE.txt > /tmp/meeting_name_transcript.md
+```
+Then write header sections and append transcript via shell.
+
+### Step 7: Report summary
+After all meetings are saved, report a summary table:
+
+| # | Date | File | Duration | Key Topics |
+|---|------|------|----------|------------|
+| 1 | Feb 9 | `2026-02-09-strategy-sprint-standup.md` | 66m | Client status, kickoffs |
+
+Note any meetings where audio was not captured.
