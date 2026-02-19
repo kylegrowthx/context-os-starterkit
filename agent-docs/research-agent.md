@@ -40,13 +40,24 @@ Load this agent config when the task involves:
 
 ## Pipeline Flow
 
-Research follows a strict forward-only pipeline:
+Research follows a strict forward-only pipeline. **Never skip steps.**
 
-1. **Raw research** → Save to `pipeline/research/` with `research-brief-template-v1.md` format
-2. **Working drafts** → Save to `pipeline/scratchpad/` as you synthesize
-3. **Finished output** → Save to `pipeline/outputs/` or `knowledge/` subdirectory
+### Step 1: Clarify Scope (Always)
+Before any research, ask the user:
+- **Raw research only** — gather findings, save to `pipeline/research/`, stop there
+- **Full study guide** — raw research → scratchpad synthesis → finished study guide in `knowledge/`
+- Clarify audience, constraints, and any sources to include or exclude
 
-Files never move backward in this chain.
+### Step 2: Present Research Plan and Get Approval (Always)
+Generate research questions organized by category. Show the user the plan with questions and output file locations. **Wait for explicit approval before executing any research.**
+
+### Step 3: Execute
+1. **Raw research** → Save to `pipeline/research/[topic]-research-v1.md`
+2. (If full study guide) **Working draft** → Save to `pipeline/scratchpad/[topic]-research-scratchpad.md`
+3. (If full study guide) **Quality checkpoint** → Evaluate before producing final output
+4. (If full study guide) **Finished study guide** → Save to `knowledge/[subdirectory]/[topic]-study-guide-v1.md`
+
+Files never move backward in this chain. Never save directly to `knowledge/` without going through `pipeline/` first.
 
 ## Output Conventions
 

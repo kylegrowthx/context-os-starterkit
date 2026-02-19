@@ -39,6 +39,12 @@ Load the right agent config for your task:
 4. **Flag sensitive content** — don't generate legal, compliance, or financial content without asking
 5. **File naming**: `descriptive-name-v1.md` (lowercase, hyphens, version suffix)
 6. **Voice**: [FILL IN: Your voice in one sentence. Example: "Direct, clear, real. Like a smart friend explaining something important."]
+7. **Research tasks follow the pipeline.** When asked to research, learn about, deep dive, or study any topic:
+   a. First ask: raw research only, or full study guide? Clarify scope and audience.
+   b. Present a research plan (questions + output locations) and get user approval before starting.
+   c. Save raw research to `pipeline/research/`. If doing full study guide, continue to `pipeline/scratchpad/` then `knowledge/`.
+   d. Never skip steps. Never save directly to `knowledge/` without going through `pipeline/` first.
+   e. Load `agent-docs/research-agent.md` for full instructions.
 
 ## File Structure
 

@@ -31,6 +31,7 @@ AI agents use this repository to understand the company, write in its voice, mak
 - **Metadata**: Every content file uses `<metadata>` tags with: purpose, audience, summary, domain, confidence, context_tier, last_updated
 - **Pipeline flow**: research/ → scratchpad/ → outputs/ (forward only, never backward)
 - **Records**: Search only — never bulk-load transcripts, customers, or downloads
+- **Research tasks follow the pipeline**: When asked to research any topic: (1) ask if the user wants raw research only or a full study guide, clarify scope and audience; (2) present a research plan with questions and output locations, get approval before starting; (3) save raw research to `pipeline/research/`, then if doing full study guide continue to `pipeline/scratchpad/` then `knowledge/`. Never skip steps. Load `agent-docs/research-agent.md` for full instructions.
 
 ## Context Loading Rules
 

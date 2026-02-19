@@ -1,24 +1,21 @@
-Deep research on any topic, synthesized into a comprehensive study guide.
+Deep research on any topic, with the option for raw research only or a full study guide.
 
-## Inputs / Outputs
+Load `agent-docs/research-agent.md` before starting.
 
-- **Input:** Topic and learner profile from user
-- **Working file:** `pipeline/scratchpad/[topic]-research-scratchpad.md`
-- **Output:** `knowledge/[subdirectory]/[topic]-study-guide-v1.md`
+## Phase 0: Clarify Scope
 
-## Phase 0: Setup
+Before doing any research, ask the user:
 
-Ask the user (or infer from context):
-- Topic: what to research
-- Learner profile: who is learning, their role, experience level
-- Goal: what they want to achieve
-- Context: why now, what they'll use it for
+1. **What's the topic and goal?** What do they want to learn, and why?
+2. **What depth?**
+   - **Raw research only** — gather findings, save to `pipeline/research/`, stop there
+   - **Full study guide** — raw research → scratchpad synthesis → finished study guide in `knowledge/`
+3. **Who's the audience?** Role, experience level, what they'll use it for
+4. **Any constraints?** Sources to include/exclude, time sensitivity, specific angles
 
-Before ANY research, answer: Who is learning this? What do they care about vs noise? Why do they need this? What sources would they trust? What should be excluded?
+## Phase 1: Research Plan (Get Approval)
 
-## Phase 1: Generate Research Questions
-
-Create 3-5 questions per category:
+Generate 3-5 research questions per category:
 
 1. **Foundations** (Critical) — What is it, why it matters, core concepts, mental models, misconceptions
 2. **Frameworks & Models** (Critical) — Established frameworks, processes, templates and tools
@@ -27,28 +24,41 @@ Create 3-5 questions per category:
 5. **Real Examples** (High) — Best documented examples, instructive failures, before/after transformations
 6. **Skills & Practice** (Medium) — Distinguishing skills, what to practice, learning sequence
 
+Present the research plan to the user showing:
+- The questions you'll research
+- Where output files will be saved
+- Estimated scope
+
+**Wait for explicit user approval before proceeding.**
+
 ## Phase 2: Execute Research
 
 Use web search to answer each question. For each, document: findings, sources (with quality score 1-5), and gaps.
 
 Source quality: 5 = authoritative expert with unique insights; 4 = respected, actionable; 3 = decent coverage; 2 = surface-level or dated; 1 = low quality.
 
-Save all research to `pipeline/scratchpad/[topic]-research-scratchpad.md`.
+Save all raw research to `pipeline/research/[topic]-research-v1.md`.
 
-## Phase 3: Quality Checkpoint
+**If user chose raw research only: stop here.** Tell the user where to find the file and summarize key findings.
 
-Before synthesis, evaluate:
+## Phase 3: Synthesize (Full Study Guide Only)
+
+Take raw research and synthesize into a working draft at `pipeline/scratchpad/[topic]-research-scratchpad.md`.
+
+## Phase 4: Quality Checkpoint (Full Study Guide Only)
+
+Before producing the final study guide, evaluate:
 - Foundations covered? Yes/No
 - Frameworks found: target 3+
 - Experts identified: target 5+
 - Sources discovered: target 30+
 - Examples documented: target 5+
 
-Quality bands: Bad (0-0.4) must iterate; Acceptable (0.4-0.7) can proceed; Great (0.7-1.0) proceed to synthesis.
+Quality bands: Bad (0-0.4) must iterate; Acceptable (0.4-0.7) can proceed; Great (0.7-1.0) proceed to final output.
 
 If gaps exist, generate follow-up questions and iterate (max 3 times).
 
-## Phase 4: Synthesis
+## Phase 5: Produce Study Guide (Full Study Guide Only)
 
 Create study guide at `knowledge/[subdirectory]/[topic]-study-guide-v1.md` with structure:
 - Header with learner profile, goal, time investment, date
@@ -61,8 +71,7 @@ Create study guide at `knowledge/[subdirectory]/[topic]-study-guide-v1.md` with 
 - Appendix B: Templates & Tools
 - Appendix C: Learning Path
 
-## Subdirectory Routing
-
+Subdirectory routing:
 - `knowledge/content/` — writing, style, content creation
 - `knowledge/building/` — company ops, leadership, scaling
 - `knowledge/product/` — product strategy, engineering, technical

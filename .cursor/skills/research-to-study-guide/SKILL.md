@@ -1,41 +1,32 @@
 ---
 name: research-to-study-guide
-description: Deep research on any topic, synthesized into a comprehensive study guide. Use when the user asks to research a topic, create a study guide, learn about something, or needs to become an expert in an area. Triggers on keywords like "research", "study guide", "learn about", "deep dive", "become expert", "master", "understand".
+description: Deep research on any topic, with option for raw research only or full study guide. Use when the user asks to research a topic, create a study guide, learn about something, or needs to become an expert in an area. Triggers on keywords like "research", "study guide", "learn about", "deep dive", "become expert", "master", "understand".
 ---
 
 # Research to Study Guide
 
-Transform any topic into a comprehensive, curated study guide through systematic research, quality validation, and audience-focused synthesis.
+Deep research on any topic, with the option for raw research only or a full study guide. Always load `agent-docs/research-agent.md` before starting.
 
 ## Inputs / Outputs
 
 | | What | Path |
 |---|---|---|
-| **Input** | Topic and learner profile from user | Conversational |
-| **Working file** | Research scratchpad (created by skill) | `pipeline/scratchpad/[topic]-research-scratchpad.md` |
-| **Output** | Finished study guide | `knowledge/[topic]-study-guide-v1.md` |
+| **Input** | Topic, depth choice, and learner profile from user | Conversational |
+| **Raw research** | Research findings (always produced) | `pipeline/research/[topic]-research-v1.md` |
+| **Working draft** | Synthesis scratchpad (full mode only) | `pipeline/scratchpad/[topic]-research-scratchpad.md` |
+| **Final output** | Finished study guide (full mode only) | `knowledge/[subdirectory]/[topic]-study-guide-v1.md` |
 | **Prompts** | Full prompt templates for this workflow | `prompts/` subdirectory in this skill |
 
-## Quick Start
+## Phase 0: Clarify Scope
 
-1. **Get the topic and learner profile** from the user
-2. **Create scratchpad** at `/pipeline/scratchpad/[topic]-research-scratchpad.md`
-3. **Execute research** using web search
-4. **Evaluate quality** — iterate if gaps exist
-5. **Synthesize** into study guide at `/knowledge/[topic]-study-guide-v1.md`
+Before doing any research, ask the user:
 
-## Phase 0: Setup
-
-Ask the user (or infer from context):
-
-```yaml
-topic: "[The subject to research]"
-learner_profile:
-  role: "[Who is learning — job title, experience level]"
-  goal: "[What they want to achieve]"
-  context: "[Why now, what they'll use it for]"
-target_sources: 50  # Adjust based on topic breadth
-```
+1. **What's the topic and goal?** What do they want to learn, and why?
+2. **What depth?**
+   - **Raw research only** — gather findings, save to `pipeline/research/`, stop there
+   - **Full study guide** — raw research → scratchpad synthesis → finished study guide in `knowledge/`
+3. **Who's the audience?** Role, experience level, what they'll use it for
+4. **Any constraints?** Sources to include/exclude, time sensitivity, specific angles
 
 ### Audience Analysis (Do This First)
 
@@ -49,7 +40,7 @@ Before ANY research, answer:
 | WHAT sources would they trust? | |
 | WHAT should be excluded? | |
 
-## Phase 1: Generate Research Questions
+## Phase 1: Research Plan (Get Approval)
 
 Create 3-5 questions per category:
 
@@ -87,13 +78,14 @@ Create 3-5 questions per category:
    - What to practice
    - Learning sequence
 
-### Question Format
+### Present Plan and Get Approval
 
-Each question needs:
-- Clear query with context
-- Success criteria (what makes it complete)
-- Priority (critical/high/medium/low)
-- Source requirements
+Show the user:
+- The research questions organized by category
+- Where output files will be saved
+- Estimated scope
+
+**Wait for explicit user approval before proceeding.**
 
 ## Phase 2: Execute Research
 
@@ -123,9 +115,17 @@ Use web search to answer each question. For each:
 | 2 | Surface-level, generic, or dated |
 | 1 | Low quality, unsupported claims |
 
-## Phase 3: Quality Checkpoint
+Save all raw research to `pipeline/research/[topic]-research-v1.md`.
 
-Before synthesis, evaluate:
+**If user chose raw research only: stop here.** Tell the user where to find the file and summarize key findings.
+
+## Phase 3: Synthesize (Full Study Guide Only)
+
+Take raw research from `pipeline/research/` and synthesize into a working draft at `pipeline/scratchpad/[topic]-research-scratchpad.md`.
+
+## Phase 4: Quality Checkpoint (Full Study Guide Only)
+
+Before producing the final study guide, evaluate:
 
 | Metric | Target |
 |--------|--------|
@@ -138,13 +138,13 @@ Before synthesis, evaluate:
 **Quality Bands:**
 - **Bad (0-0.4):** Must iterate — critical gaps
 - **Acceptable (0.4-0.7):** Can proceed with limitations
-- **Great (0.7-1.0):** Proceed to synthesis
+- **Great (0.7-1.0):** Proceed to final output
 
 If gaps exist, generate follow-up questions and iterate (max 3 times).
 
-## Phase 4: Synthesis
+## Phase 5: Produce Study Guide (Full Study Guide Only)
 
-Create study guide with audience filtering:
+Create study guide at `knowledge/[subdirectory]/[topic]-study-guide-v1.md`:
 
 ```markdown
 # [Topic] Study Guide
@@ -179,24 +179,7 @@ Create study guide with audience filtering:
 [Recommended sequence]
 ```
 
-## Anti-Hallucination Rules
-
-1. **NEVER guess URLs** — Only cite verified sources
-2. **NEVER invent sources** — No fabricated books, authors, or frameworks
-3. **NEVER fake statistics** — Say "not found" if you don't have data
-4. **Trust web research** — Don't flag recent info as dubious
-5. **Cite everything** — Every claim needs a source
-
-## File Outputs
-
-| File | Purpose |
-|------|---------|
-| `/pipeline/scratchpad/[topic]-research-scratchpad.md` | Living research notes |
-| `/knowledge/[subdirectory]/[topic]-study-guide-v1.md` | Final study guide |
-
 ### Subdirectory Routing
-
-Place the final study guide in the subdirectory that matches its primary use case:
 
 | Subdirectory | When to use | Examples |
 |-------------|-------------|---------|
@@ -207,24 +190,24 @@ Place the final study guide in the subdirectory that matches its primary use cas
 
 If the topic doesn't clearly fit one subdirectory, ask the user which one to use.
 
+## Anti-Hallucination Rules
+
+1. **NEVER guess URLs** — Only cite verified sources
+2. **NEVER invent sources** — No fabricated books, authors, or frameworks
+3. **NEVER fake statistics** — Say "not found" if you don't have data
+4. **Trust web research** — Don't flag recent info as dubious
+5. **Cite everything** — Every claim needs a source
+
 ## Example Usage
 
-User: "I want to become an expert in company handbooks"
+User: "Research company handbooks for me"
 
-1. Create scratchpad: `/pipeline/scratchpad/company-handbook-research-scratchpad.md`
-2. Audience: Founders at 10-100 person companies
-3. Research: Public handbooks (Basecamp, GitLab, Valve, Netflix), structure patterns, expert advice
-4. Evaluate: 24 sources, 6 frameworks, 10+ examples = Great (0.85)
-5. Synthesize: `/knowledge/building/company-handbook-study-guide-v1.md`
-
-User: "Research [industry topic] for our team"
-
-1. Create scratchpad: `/pipeline/scratchpad/[topic]-research-scratchpad.md`
-2. Define audience from user context
-3. Research: Web search across trusted sources, follow citation trails
-4. Evaluate: Score against quality bands
-5. Synthesize: `/knowledge/domain/[topic]-study-guide-v1.md`
+1. Clarify: Raw research or full study guide? Audience?
+2. Present research plan with questions → get approval
+3. Execute research → save to `/pipeline/research/company-handbooks-research-v1.md`
+4. (If full mode) Synthesize → `/pipeline/scratchpad/company-handbooks-research-scratchpad.md`
+5. (If full mode) Quality check → produce study guide at `/knowledge/building/company-handbook-study-guide-v1.md`
 
 ## Deep Reference
 
-Full prompt template: [research-to-study-guide-prompt-v1.md](prompts/research-to-study-guide-prompt-v1.md)
+Full prompt template: [research-supervisor-workflow-prompt-v1.md](prompts/research-supervisor-workflow-prompt-v1.md)
