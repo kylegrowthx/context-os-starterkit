@@ -1,6 +1,15 @@
 # Content Growth System Flow
 
-This document outlines the content creation and organic growth pipeline captured from the whiteboard session.
+<metadata>
+purpose: Content creation and organic growth pipeline — from whiteboard session to system documentation
+audience: Marketing, content, leadership
+related: pipeline/outputs/content-growth-flow.mermaid
+domain: strategy
+confidence: draft
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-09
+</metadata>
 
 ---
 

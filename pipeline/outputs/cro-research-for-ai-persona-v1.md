@@ -1,8 +1,15 @@
 # CRO Research: Building an AI Revenue Leader Persona
 
-**Purpose:** Comprehensive research on what makes elite CROs, organized to build an AI persona for a B2B content marketing services company.
-
-**Context:** GrowthX runs $200k+/year engagements with ~6 week sales cycles, ~33% win rates, and enterprise/mid-market focus.
+<metadata>
+purpose: Elite CRO research for AI persona — revenue leadership frameworks for B2B services ($200k+ deals)
+audience: Leadership, sales, AI persona development
+related: pipeline/outputs/cmo-research-summary-v1.md, pipeline/outputs/cfo-research-summary-v1.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-01
+</metadata>
 
 ---
 

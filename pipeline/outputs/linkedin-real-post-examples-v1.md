@@ -1,6 +1,15 @@
 # 50 Real LinkedIn Post Examples (With Links)
 
-*Actual posts from top creators, organized by hook template type*
+<metadata>
+purpose: 50 real LinkedIn posts from top creators organized by hook template type — bold statements, contrarian takes, paradoxes
+audience: Content team, marketing
+related: pipeline/research/linkedin-hooks-research-scratchpad.md, pipeline/outputs/linkedin-hooks-database.xlsx
+domain: content
+confidence: high
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-10
+</metadata>
 
 ---
 

@@ -1,6 +1,15 @@
 # Strategy Sprint Operator's Guide
 
-The day-to-day playbook for running a successful sprint. Roles, responsibilities, rhythms, and the behaviors that separate great EMs from good ones.
+<metadata>
+purpose: Day-to-day sprint playbook — roles (EM, ME, Director, FDE), responsibilities, and rhythms
+audience: EMs, MEs, directors
+related: pipeline/scratchpad/strategy-sprint-customer-onboarding-guide-v1.md, pipeline/scratchpad/strategy-sprint-troubleshooting-guide-v1.md
+domain: delivery
+confidence: draft
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-09
+</metadata>
 
 ---
 

@@ -1,9 +1,15 @@
 # PMM Study Guide Research Scratchpad
 
-> **Research Goal**: Build a comprehensive study guide on B2B SaaS Product Marketing — positioning, messaging, go-to-market, competitive intelligence, launches, and sales enablement for startups.
-> **Target**: 500+ sources → curated to 100 best
-> **Started**: February 3, 2026
-> **Status**: Research Complete — 600+ sources gathered
+<metadata>
+purpose: Comprehensive PMM research — 600+ sources on B2B SaaS positioning, messaging, GTM, and launches
+audience: Marketing, product, leadership
+related: pipeline/outputs/cmo-research-summary-v1.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-18
+</metadata>
 
 ---
 

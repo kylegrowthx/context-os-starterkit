@@ -1,10 +1,15 @@
 # CheckThat Roadmap — Shaped Pitches
 
-*6 bets for the next 8-10 weeks. Shaped using Ryan Singer's Shape Up methodology. Each pitch has: Problem, Appetite, Solution, Rabbit Holes, No-Gos.*
-
-**Shaped by:** Marcel + AI  
-**Date:** 2026-02-09  
-**Status:** Draft — needs betting table review
+<metadata>
+purpose: 6 shaped bets for 8-10 weeks using Shape Up methodology — needs betting table review
+audience: Product, engineering, leadership
+related: pipeline/scratchpad/checkthat-ontology-product-roadmap-v1.md
+domain: product-strategy
+confidence: draft
+sensitivity: internal
+context_tier: 1
+last_updated: 2026-02-09
+</metadata>
 
 ---
 

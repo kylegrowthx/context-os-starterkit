@@ -1,8 +1,17 @@
 # TAM / SAM / SOM Market Analysis
-## GrowthX Ecosystem: GrowthX, CheckThat, Output.ai
 
-*Prepared: February 10, 2026*
-*Sources: 50+ research queries across Grand View Research, MarketsandMarkets, Mordor Intelligence, Gartner, McKinsey, Forrester, Crunchbase, TechCrunch, industry publications*
+<metadata>
+purpose: Complete market sizing for GrowthX ecosystem — GrowthX ($107B TAM), CheckThat, Output.ai
+audience: Leadership, board, strategy
+related: pipeline/research/tam-sam-som-research-plan.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 1
+last_updated: 2026-02-10
+</metadata>
+
+## GrowthX Ecosystem: GrowthX, CheckThat, Output.ai
 
 ---
 

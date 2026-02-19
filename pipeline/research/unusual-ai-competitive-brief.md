@@ -1,7 +1,17 @@
 # Competitive Research Brief: Unusual.ai
-## AI Brand Alignment & Perception Platform
 
-*Prepared: February 2026*
+<metadata>
+purpose: Competitive intelligence on Unusual.ai — Y Combinator AI brand perception startup ($3.6M seed)
+audience: Product, strategy, leadership
+related: pipeline/scratchpad/checkthat-positioning-vs-unusual-brief-v1.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-09
+</metadata>
+
+## AI Brand Alignment & Perception Platform
 
 ---
 

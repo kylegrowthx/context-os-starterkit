@@ -1,9 +1,15 @@
 # Customer Retention Analysis
 
-**Generated:** February 3, 2026  
-**Source:** HubSpot CRM  
-**Total Open Renewal ARR:** $6.83M  
-**Total Churned ARR:** $3.61M
+<metadata>
+purpose: Retention and churn analysis — $3.61M churned ARR, $6.83M open renewal ARR (HubSpot CRM data)
+audience: Leadership, CS, sales
+related: pipeline/scratchpad/board-prep-q4-2025-v1.md
+domain: strategy
+confidence: high
+sensitivity: internal
+context_tier: 1
+last_updated: 2026-02-03
+</metadata>
 
 ---
 

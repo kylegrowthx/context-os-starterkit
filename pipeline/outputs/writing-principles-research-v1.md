@@ -1,10 +1,17 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+# Writing Principles Research
 
-# explore more examples and highly cited articles on what is good writing and how to apply it
+<metadata>
+purpose: Curated research on writing principles, clarity, and simplicity — Orwell, Didion, Graham, Strunk & White
+audience: Content team, anyone writing for GrowthX
+related: context/voice/writing-style-context-v2.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-01
+</metadata>
 
-I now have comprehensive research on writing principles, advice, and highly-cited articles. Let me create the final report synthesizing all this information.
-
-# Related Articles on Writing Principles, Clarity, and Simplicity
+## Related Articles on Writing Principles, Clarity, and Simplicity
 
 The two articles you shared—Jacob Schroeder's "First Principles Writing" (based on *The Elements of Style*) and Paul Graham's "Write Simply"—represent a timeless tradition in writing instruction that emphasizes clarity, simplicity, and concrete language. Below is a comprehensive guide to related articles, essays, books, and resources that explore similar themes.
 

@@ -1,6 +1,15 @@
 # Strategy Sprint Customer Onboarding Guide
 
-The complete journey from sales handoff through Sprint execution to Growth Execution transition.
+<metadata>
+purpose: Complete onboarding journey — sales handoff through Sprint execution to Growth Execution transition
+audience: EMs, CS, sales, directors
+related: pipeline/scratchpad/strategy-sprint-operators-guide-v1.md, pipeline/scratchpad/strategy-sprint-troubleshooting-guide-v1.md
+domain: delivery
+confidence: draft
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-09
+</metadata>
 
 ---
 

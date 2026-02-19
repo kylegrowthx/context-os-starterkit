@@ -1,6 +1,14 @@
 # Knox Partnership Kickoff — Meeting Notes for Tyler
 
-**For Slack channel:** `b-sales` (C087G6UU490)
+<metadata>
+purpose: Meeting notes from Knox partnership kickoff — prepared for Tyler and sales team
+audience: Sales, Tyler
+domain: client-notes
+confidence: high
+sensitivity: client
+context_tier: 3
+last_updated: 2026-02-09
+</metadata>
 
 ---
 

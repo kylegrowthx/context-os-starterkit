@@ -1,4 +1,16 @@
 # Mike "Wags" Wagner Character Research
+
+<metadata>
+purpose: Comprehensive character profile of Wags from Billions for AI persona development
+audience: AI persona development, content
+related: pipeline/outputs/wendy-rhoades-character-research-v1.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-01
+</metadata>
+
 ## Comprehensive Profile for AI Persona Development
 
 ---

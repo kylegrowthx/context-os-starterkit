@@ -1,8 +1,15 @@
 # Q4 2025 Board Meeting Prep
 
-**Meeting Date:** February 3, 2026  
-**Purpose:** Prep notes for board discussion topics  
-**Status:** Working document
+<metadata>
+purpose: Board discussion prep — churn learnings, AEO category positioning, Q4 performance
+audience: Leadership, board
+related: pipeline/scratchpad/customer-retention-analysis-v1.md
+domain: strategy
+confidence: draft
+sensitivity: internal
+context_tier: 1
+last_updated: 2026-02-03
+</metadata>
 
 ---
 

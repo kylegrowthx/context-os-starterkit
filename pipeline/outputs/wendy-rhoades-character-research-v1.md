@@ -1,9 +1,17 @@
 # Wendy Rhoades Character Research
-## Comprehensive Analysis for AI Persona Development
 
-**Source:** TV Series *Billions* (Showtime, 2016-2023)  
-**Portrayed by:** Maggie Siff  
-**Research Date:** February 2026
+<metadata>
+purpose: Comprehensive Wendy Rhoades character analysis from Billions for AI persona development
+audience: AI persona development, content
+related: pipeline/outputs/wags-character-research-v1.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-01
+</metadata>
+
+## Comprehensive Analysis for AI Persona Development
 
 ---
 

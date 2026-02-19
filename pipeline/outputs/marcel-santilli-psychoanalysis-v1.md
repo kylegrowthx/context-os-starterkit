@@ -1,8 +1,17 @@
 # Marcel Santilli: Psychological Profile
-## A Wendy Rhoades-Style Analysis from 49 Transcripts
 
-**Research Date:** February 2026  
-**Source Material:** Internal leadership meetings, sales calls, hiring interviews, strategy sessions, 1:1s, client meetings
+<metadata>
+purpose: Wendy Rhoades-style psychological analysis synthesized from 49 transcripts — leadership patterns, communication style
+audience: Marcel, leadership
+related: context/personal/marcel-user-manual-v1.md, pipeline/outputs/wendy-rhoades-character-research-v1.md
+domain: personal
+confidence: high
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-01
+</metadata>
+
+## A Wendy Rhoades-Style Analysis from 49 Transcripts
 
 ---
 

@@ -1,5 +1,16 @@
 # Company Handbook Research Scratchpad
 
+<metadata>
+purpose: Research notes for building the GrowthX company handbook — structure, best practices, examples
+audience: Leadership, people ops
+related: docs/start-here.md
+domain: research
+confidence: working-draft
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-07
+</metadata>
+
 ## Research Configuration
 
 ```yaml

@@ -1,6 +1,15 @@
 # Strategy Sprint Troubleshooting Guide
 
-Signals, risks, escalations, and recovery playbooks. When things go wrong, use this guide.
+<metadata>
+purpose: Sprint troubleshooting — signals, risks, escalations, and recovery playbooks
+audience: EMs, directors
+related: pipeline/scratchpad/strategy-sprint-operators-guide-v1.md, pipeline/scratchpad/strategy-sprint-customer-onboarding-guide-v1.md
+domain: delivery
+confidence: draft
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-09
+</metadata>
 
 ---
 

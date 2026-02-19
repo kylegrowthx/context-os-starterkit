@@ -1,11 +1,14 @@
 # AI Product Leadership — Research Scratchpad
 
-## Research Configuration
-- **Topic:** Essential Skills for Product Leaders in AI
-- **Learner Profile:** VP/Director/Head of Product at B2B tech companies
-- **Research Mode:** Exploratory
-- **Started:** February 7, 2026
-- **Target Sources:** 100 curated
+<metadata>
+purpose: Research on essential skills for product leaders in AI — 100 curated sources target
+audience: Product leaders, leadership
+domain: research
+confidence: working-draft
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-07
+</metadata>
 
 ---
 

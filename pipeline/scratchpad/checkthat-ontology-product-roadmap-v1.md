@@ -1,11 +1,15 @@
 # CheckThat Product Roadmap — The AI Brand Research Platform
 
-*CheckThat doesn't monitor prompts. It surveys AI engines the way brands survey consumers. This document maps the six layers that take us from a strong visibility foundation to the full AI brand research platform defined in the Prompt Taxonomy & Ontology.*
-
-**Author:** Marcel + AI
-**Date:** 2026-02-12
-**Status:** Draft — ready for team review
-**Builds on:** [Shaped Pitches Roadmap](checkthat-roadmap-shaped-pitches-v1.md), [Prompt Taxonomy & Ontology](/context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md)
+<metadata>
+purpose: Six-layer product roadmap from visibility foundation to full AI brand research platform
+audience: Product, engineering, leadership
+related: pipeline/scratchpad/checkthat-roadmap-shaped-pitches-v1.md, context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md
+domain: product-strategy
+confidence: draft
+sensitivity: internal
+context_tier: 1
+last_updated: 2026-02-12
+</metadata>
 
 ---
 

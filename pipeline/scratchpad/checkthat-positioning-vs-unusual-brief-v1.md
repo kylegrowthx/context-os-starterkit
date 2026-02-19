@@ -1,6 +1,15 @@
 # CheckThat Positioning Brief: Competitive Analysis vs. Unusual
 
-*February 2026 | PMM Analysis*
+<metadata>
+purpose: Competitive positioning analysis — CheckThat vs Unusual.ai, defining differentiated market position
+audience: Product, marketing, leadership
+related: pipeline/research/unusual-ai-competitive-brief.md
+domain: product-strategy
+confidence: draft
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-09
+</metadata>
 
 ---
 

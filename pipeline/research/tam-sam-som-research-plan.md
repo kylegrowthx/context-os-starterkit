@@ -1,7 +1,17 @@
 # TAM / SAM / SOM Research Plan
-## GrowthX Ecosystem Market Analysis
 
-*Prepared: February 10, 2026*
+<metadata>
+purpose: Research plan for comprehensive TAM/SAM/SOM analysis across GrowthX, CheckThat, and Output.ai
+audience: Leadership, strategy
+related: pipeline/research/tam-sam-som-analysis.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-10
+</metadata>
+
+## GrowthX Ecosystem Market Analysis
 
 ---
 
