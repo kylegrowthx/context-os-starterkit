@@ -16,7 +16,7 @@ Unlike a wiki or Google Drive, Context OS is **engineered for AI consumption**:
 
 - **Git** — to clone and version your knowledge base
 - **A text editor** — VS Code, Cursor, or any markdown editor
-- **An AI agent** — Claude Code, Cursor, GitHub Copilot, or any tool that reads project files
+- **An AI agent** — Claude Code, Claude Cowork, or Cursor (first-class support)
 
 No build step. No dependencies. No package manager. Just markdown files.
 
@@ -45,7 +45,7 @@ Copy `context/roles/executive-role-template-v1.md` to a new file (e.g., `cfo-v1.
 
 ### Step 5: Test It
 
-Open your AI tool of choice, point it at this repo, and try these prompts:
+Open Claude Code, Claude Cowork, or Cursor, point it at this repo, and try these prompts:
 - "What does [YOUR COMPANY] do?"
 - "Write a short blog intro about [topic] in our voice"
 - "As CFO, should we [decision]?"
@@ -111,16 +111,19 @@ See `agent-docs/context-engineering-guide.md` for the full guide. Key principles
 
 ---
 
-## Cross-Platform Setup
+## AI Agent Setup
 
 ### Claude Code
-`CLAUDE.md` is loaded automatically. No additional setup needed.
+`CLAUDE.md` is loaded automatically. Slash commands live in `.claude/commands/` — type `/` in any session to see them.
+
+### Claude Cowork
+`CLAUDE.md` is loaded automatically. Same context system as Claude Code.
 
 ### Cursor
-Rules in `.cursor/rules/` are loaded based on their `alwaysApply` and `description` settings. Skills in `.cursor/skills/` provide slash-command workflows.
+Rules in `.cursor/rules/` are loaded based on their `alwaysApply` and `description` settings. Skills in `.cursor/skills/` provide slash-command workflows. Every Claude Code command has a matching Cursor skill.
 
-### Other Tools
-`AGENTS.md` follows the cross-platform AGENTS.md spec, supported by 20+ AI coding tools. Most tools will read it automatically from the project root.
+### Other AI Tools
+`AGENTS.md` follows the cross-platform AGENTS.md spec. The underlying knowledge base (docs, context, knowledge) is plain markdown — any AI tool that can read project files can use it.
 
 ---
 
@@ -135,11 +138,18 @@ Rules in `.cursor/rules/` are loaded based on their `alwaysApply` and `descripti
 5. Update `AGENTS.md` project structure
 6. Update relevant agent-docs/ configs
 
-### Creating a New Skill
+### Creating a New Slash Command
 
-1. Copy `.cursor/skills/SKILL-TEMPLATE/SKILL.md`
+**Claude Code:**
+1. Create a new `.md` file in `.claude/commands/` (filename becomes the command)
+2. Write the instructions the agent should follow
+
+**Cursor:**
+1. Copy `.cursor/skills/SKILL-TEMPLATE/SKILL.md` to a new directory under `.cursor/skills/`
 2. Fill in the trigger keywords, inputs/outputs, and workflow
 3. Add any prompt templates in a `prompts/` subdirectory
+
+Keep both in sync — every Claude Code command should have a matching Cursor skill.
 
 ### Adding a New Role
 
@@ -165,4 +175,4 @@ A: Yes. The directory structure is a suggestion, not a requirement. Just update 
 A: Use the `sensitivity` metadata field (`public`, `internal`, `leadership-only`). Keep truly sensitive files (financial details, contracts) out of any shared repositories.
 
 **Q: What if I use a different AI tool?**
-A: AGENTS.md works with 20+ tools. CLAUDE.md is Claude-specific. The underlying knowledge base (docs, context, knowledge) works with any AI tool that can read project files.
+A: The knowledge base is plain markdown — any AI tool that can read files can use it. Claude Code and Cursor get first-class support with slash commands and rules. For other tools, `AGENTS.md` provides a cross-platform entry point.
