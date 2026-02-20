@@ -22,6 +22,8 @@ Study guides for when you're building the company — leadership, operations, an
 | [company-handbook-study-guide-v1.md](company-handbook-study-guide-v1.md) | Company Building | What makes company handbooks work — Basecamp, GitLab, Valve, Netflix examples |
 | [operators-handbook-scaling-startups-v1.md](operators-handbook-scaling-startups-v1.md) | Operations | Scaling from $12M to $36M ARR — Grove, Bezos, EOS, Slootman frameworks |
 | [max-mrr-churn-retention-study-guide-v1.md](max-mrr-churn-retention-study-guide-v1.md) | SaaS Metrics | Revenue ceilings, churn math, and retention — Jason Cohen's Max MRR framework |
+| [hubspot-deal-object-reference-v1.md](hubspot-deal-object-reference-v1.md) | CRM / HubSpot | Complete deal object reference — all property groups, fields, pipelines, and business logic for HubSpot MCP use |
+| [cursor-for-knowledge-work-v1.md](cursor-for-knowledge-work-v1.md) | AI Tooling | Using Cursor as a knowledge work OS — context management, workflows, prompting patterns |
 
 ---
 

@@ -28,6 +28,12 @@ See [README.md](README.md) for an overview of this directory.
 | [strategy-sprint-operators-guide-v1.md](strategy-sprint-operators-guide-v1.md) | Guide | Day-to-day sprint playbook — roles and responsibilities |
 | [strategy-sprint-troubleshooting-guide-v1.md](strategy-sprint-troubleshooting-guide-v1.md) | Guide | Sprint signals, risks, escalations, and recovery |
 
+## Guides & Frameworks
+
+| File | Type | Description |
+|---|---|---|
+| [ai-candidate-screening-practical-guide-v1.md](ai-candidate-screening-practical-guide-v1.md) | Guide | Mental models and frameworks for AI candidate screening — 6 frameworks, decision checklist, curated metrics |
+
 ## Research Scratchpads
 
 | File | Type | Description |

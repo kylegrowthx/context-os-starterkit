@@ -32,6 +32,8 @@ See [README.md](README.md) for an overview of this directory.
 | [building/company-handbook-study-guide-v1.md](building/company-handbook-study-guide-v1.md) | Study guide |
 | [building/operators-handbook-scaling-startups-v1.md](building/operators-handbook-scaling-startups-v1.md) | Study guide |
 | [building/max-mrr-churn-retention-study-guide-v1.md](building/max-mrr-churn-retention-study-guide-v1.md) | Study guide |
+| [building/hubspot-deal-object-reference-v1.md](building/hubspot-deal-object-reference-v1.md) | HubSpot CRM reference — deal object fields, pipelines, scoring, business logic |
+| [building/cursor-for-knowledge-work-v1.md](building/cursor-for-knowledge-work-v1.md) | Study guide |
 
 ### product/ — AI & Product Development
 
