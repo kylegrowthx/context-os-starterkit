@@ -34,6 +34,23 @@ Don't load everything. Read what you need for the task:
 
 For detailed routing, task stacks, and sensitivity rules, see `docs/context-routing.md`.
 
+## Skills
+
+Cursor auto-discovers skills from `.cursor/skills/`. For Claude Code, reference these directly.
+
+| Skill | Path | Trigger |
+|-------|------|---------|
+| Copywriting | `.cursor/skills/copywriting/SKILL.md` | Any writing task — posts, outreach, event pages, newsletters |
+| Creating Hooks and Offers | `.cursor/skills/creating-hooks-and-offers/SKILL.md` | Creating campaigns, funnels, event pages, landing pages |
+| GrowthX Writing | `.cursor/skills/growthx-writing/SKILL.md` | "Write", "draft", "edit", or "review" content |
+| File Naming | `.cursor/skills/file-naming/SKILL.md` | Creating or renaming files |
+| Post to Slack | `.cursor/skills/post-to-slack/SKILL.md` | "Post to Slack" / "Send a message to [channel]" |
+| Pull Meeting | `.cursor/skills/pull-meeting/SKILL.md` | "Pull meeting" / "Get transcript from Fireflies" |
+| Research to Study Guide | `.cursor/skills/research-to-study-guide/SKILL.md` | "Research [topic]" / "Create a study guide" |
+| Update Notion Doc | `.cursor/skills/update-notion-doc/SKILL.md` | "Update Notion" / "Sync to Notion" |
+
+These are cross-cutting skills shared across all workspaces. Operational GTM skills (HubSpot, Ordinal, AEO prompts) live in gtm-brain/.cursor/skills/.
+
 ## Universal Rules
 
 1. **Don't invent facts** about GrowthX not in these docs
