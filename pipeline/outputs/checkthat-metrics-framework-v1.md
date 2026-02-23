@@ -3,7 +3,7 @@
 <metadata>
 purpose: Definitive spec for CheckThat's AI brand perception measurement — 5 core metrics, 3 composites, operational metrics
 audience: Product, engineering, leadership
-related: pipeline/scratchpad/checkthat-ontology-product-roadmap-v1.md, context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md
+related: pipeline/scratchpad/2026-02-18-checkthat-ontology-product-roadmap-v1.md, context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md
 domain: product-strategy
 confidence: high
 sensitivity: internal

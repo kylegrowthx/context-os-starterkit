@@ -525,7 +525,7 @@ Everything above, plus:
 
 ## Appendix E: Research Notes
 
-Full research scratchpad: [ai-product-leadership-research-scratchpad.md](../scratchpad/ai-product-leadership-research-scratchpad.md)
+Full research scratchpad: [2026-02-18-ai-product-leadership-research-scratchpad.md](../scratchpad/2026-02-18-ai-product-leadership-research-scratchpad.md)
 
 Curated people index: [ai-product-leadership-people-v1.md](../sources/ai-product-leadership-people-v1.md)
 

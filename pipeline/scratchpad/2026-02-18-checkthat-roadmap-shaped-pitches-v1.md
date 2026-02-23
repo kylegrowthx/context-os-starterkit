@@ -3,7 +3,7 @@
 <metadata>
 purpose: 6 shaped bets for 8-10 weeks using Shape Up methodology — needs betting table review
 audience: Product, engineering, leadership
-related: pipeline/scratchpad/checkthat-ontology-product-roadmap-v1.md
+related: pipeline/scratchpad/2026-02-18-checkthat-ontology-product-roadmap-v1.md
 domain: product-strategy
 confidence: draft
 sensitivity: internal

@@ -28,3 +28,4 @@ Study guides for when you're building product — AI strategy, engineering, and 
 - [docs/products/checkthat/](../../docs/products/checkthat/) — CheckThat product docs
 - [docs/epd/](../../docs/epd/) — Engineering, product, and design docs
 - [knowledge/aeo/](../aeo/) — AEO & AI visibility research (closely related to CheckThat)
+- [knowledge/checkthat/](../checkthat/) — CheckThat database schema & query reference

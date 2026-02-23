@@ -81,7 +81,7 @@ Related AEO content that lives elsewhere in the project. These files serve broad
 | File | What's There |
 |---|---|
 | [/research/Unusual_AI_Competitive_Brief.md](/research/Unusual_AI_Competitive_Brief.md) | Deep competitive brief on Unusual.ai -- Y Combinator-backed AEO competitor positioning as "AI brand alignment" |
-| [/scratchpad/checkthat-positioning-vs-unusual-brief.md](/scratchpad/checkthat-positioning-vs-unusual-brief.md) | CheckThat vs Unusual.ai positioning analysis: "open AI visibility index" vs "AI Relations" |
+| [/scratchpad/2026-02-18-checkthat-positioning-vs-unusual-brief-v1.md](/scratchpad/2026-02-18-checkthat-positioning-vs-unusual-brief-v1.md) | CheckThat vs Unusual.ai positioning analysis: "open AI visibility index" vs "AI Relations" |
 
 ### CheckThat Product Docs
 
@@ -100,7 +100,7 @@ CheckThat is GrowthX's AI visibility monitoring product. All product documentati
 
 | File | What's There |
 |---|---|
-| [/scratchpad/board-prep-q4-2025-v1.md](/scratchpad/board-prep-q4-2025-v1.md) | Board prep with AEO/GEO category positioning and market landscape |
+| [/scratchpad/2026-02-18-board-prep-q4-2025-v1.md](/scratchpad/2026-02-18-board-prep-q4-2025-v1.md) | Board prep with AEO/GEO category positioning and market landscape |
 | [/docs/company/ai-growth-system-vision.md](/docs/company/ai-growth-system-vision.md) | AI growth system vision: answer engines, AI visibility monitoring |
 | [/docs/company/growthx-eos-v1.md](/docs/company/growthx-eos-v1.md) | GrowthX EOS with CheckThat as AI visibility software |
 | [/docs/finance/q4-2025-board-meeting.md](/docs/finance/q4-2025-board-meeting.md) | Q4 2025 board meeting: CheckThat, AEO category, AI visibility |

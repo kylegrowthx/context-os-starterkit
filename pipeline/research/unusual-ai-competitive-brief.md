@@ -3,7 +3,7 @@
 <metadata>
 purpose: Competitive intelligence on Unusual.ai — Y Combinator AI brand perception startup ($3.6M seed)
 audience: Product, strategy, leadership
-related: pipeline/scratchpad/checkthat-positioning-vs-unusual-brief-v1.md
+related: pipeline/scratchpad/2026-02-18-checkthat-positioning-vs-unusual-brief-v1.md
 domain: research
 confidence: high
 sensitivity: internal

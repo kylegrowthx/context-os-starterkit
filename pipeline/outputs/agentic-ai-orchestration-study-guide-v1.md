@@ -3,7 +3,7 @@
 <metadata>
 purpose: Master the "Agentic AI Orchestration" category to sell Elementum's vision
 audience: Elementum GTM Team (Sales, Marketing), eventually CIOs/CDOs
-related: ../../pipeline/scratchpad/agentic-ai-elementum-research-scratchpad.md
+related: ../../pipeline/scratchpad/2026-02-18-agentic-ai-elementum-research-scratchpad.md
 domain: ai-product-strategy
 confidence: high
 last_updated: 2026-02-17

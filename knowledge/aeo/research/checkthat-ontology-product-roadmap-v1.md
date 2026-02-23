@@ -5,7 +5,7 @@
 **Author:** Marcel + AI
 **Date:** 2026-02-13
 **Status:** Final draft
-**Builds on:** [Shaped Pitches Roadmap](../scratchpad/checkthat-roadmap-shaped-pitches-v1.md), [Prompt Taxonomy & Ontology](/context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md)
+**Builds on:** [Shaped Pitches Roadmap](../scratchpad/2026-02-18-checkthat-roadmap-shaped-pitches-v1.md), [Prompt Taxonomy & Ontology](/context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md)
 **Companion doc:** [Metrics Framework](checkthat-metrics-framework-v1.md)
 
 ---

@@ -3,7 +3,7 @@
 <metadata>
 purpose: Pattern library for prompt tracking campaigns — maps to CheckThat's 4-score measurement framework
 audience: Product, engineering, marketing
-related: pipeline/scratchpad/checkthat-ontology-product-roadmap-v1.md, pipeline/outputs/checkthat-metrics-framework-v1.md
+related: pipeline/scratchpad/2026-02-18-checkthat-ontology-product-roadmap-v1.md, pipeline/outputs/checkthat-metrics-framework-v1.md
 domain: product-strategy
 confidence: working-draft
 sensitivity: internal

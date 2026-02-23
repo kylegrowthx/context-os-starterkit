@@ -3,7 +3,7 @@
 <metadata>
 purpose: Six-layer product roadmap from visibility foundation to full AI brand research platform
 audience: Product, engineering, leadership
-related: pipeline/scratchpad/checkthat-roadmap-shaped-pitches-v1.md, context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md
+related: pipeline/scratchpad/2026-02-18-checkthat-roadmap-shaped-pitches-v1.md, context/knowledge/aeo/prompt-taxonomy-and-ontology-v1.md
 domain: product-strategy
 confidence: draft
 sensitivity: internal

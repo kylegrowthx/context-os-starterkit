@@ -443,4 +443,4 @@ Use this when planning keyword strategy for a new client or topic:
 
 ## Appendix D: Research Notes
 
-Full research scratchpad with all raw findings, source ratings, and gap analysis: `pipeline/scratchpad/keyword-optimization-clustering-research-scratchpad.md`
+Full research scratchpad with all raw findings, source ratings, and gap analysis: `pipeline/scratchpad/2026-02-19-keyword-optimization-clustering-research-scratchpad.md`

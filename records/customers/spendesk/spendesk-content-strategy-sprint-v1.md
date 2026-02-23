@@ -3,7 +3,7 @@
 <metadata>
 purpose: Customer-facing content strategy document for Spendesk engagement
 audience: Spendesk marketing leadership (Cristina and team)
-related: pipeline/scratchpad/strategy-sprint-customer-onboarding-guide-v1.md
+related: pipeline/scratchpad/2026-02-18-strategy-sprint-customer-onboarding-guide-v1.md
 domain: strategy-sprint
 confidence: draft
 sensitivity: client

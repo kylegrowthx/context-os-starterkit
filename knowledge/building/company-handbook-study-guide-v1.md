@@ -596,7 +596,7 @@ Ongoing Reference
 
 ## Research Notes
 
-Full research scratchpad available at: `/scratchpad/company-handbook-research-scratchpad.md`
+Full research scratchpad available at: `/scratchpad/2026-02-18-company-handbook-research-scratchpad.md`
 
 **Sources consulted:** 24 primary sources
 **Public handbooks analyzed:** 10+

@@ -3,7 +3,7 @@
 <metadata>
 purpose: Retention and churn analysis — $3.61M churned ARR, $6.83M open renewal ARR (HubSpot CRM data)
 audience: Leadership, CS, sales
-related: pipeline/scratchpad/board-prep-q4-2025-v1.md
+related: pipeline/scratchpad/2026-02-18-board-prep-q4-2025-v1.md
 domain: strategy
 confidence: high
 sensitivity: internal

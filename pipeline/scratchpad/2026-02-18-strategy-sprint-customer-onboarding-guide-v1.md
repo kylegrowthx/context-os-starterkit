@@ -3,7 +3,7 @@
 <metadata>
 purpose: Complete onboarding journey — sales handoff through Sprint execution to Growth Execution transition
 audience: EMs, CS, sales, directors
-related: pipeline/scratchpad/strategy-sprint-operators-guide-v1.md, pipeline/scratchpad/strategy-sprint-troubleshooting-guide-v1.md
+related: pipeline/scratchpad/2026-02-18-strategy-sprint-operators-guide-v1.md, pipeline/scratchpad/2026-02-18-strategy-sprint-troubleshooting-guide-v1.md
 domain: delivery
 confidence: draft
 sensitivity: internal

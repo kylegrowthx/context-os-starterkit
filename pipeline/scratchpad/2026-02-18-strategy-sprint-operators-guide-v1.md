@@ -3,7 +3,7 @@
 <metadata>
 purpose: Day-to-day sprint playbook — roles (EM, ME, Director, FDE), responsibilities, and rhythms
 audience: EMs, MEs, directors
-related: pipeline/scratchpad/strategy-sprint-customer-onboarding-guide-v1.md, pipeline/scratchpad/strategy-sprint-troubleshooting-guide-v1.md
+related: pipeline/scratchpad/2026-02-18-strategy-sprint-customer-onboarding-guide-v1.md, pipeline/scratchpad/2026-02-18-strategy-sprint-troubleshooting-guide-v1.md
 domain: delivery
 confidence: draft
 sensitivity: internal

@@ -667,4 +667,4 @@ Not all evidence is created equal. Use this hierarchy when evaluating claims:
 
 ## Appendix E: Research Notes
 
-Full research scratchpad with raw findings, source ratings, and gap analysis: `pipeline/scratchpad/seo-ranking-factors-research-scratchpad.md`
+Full research scratchpad with raw findings, source ratings, and gap analysis: `pipeline/scratchpad/2026-02-19-seo-ranking-factors-research-scratchpad.md`

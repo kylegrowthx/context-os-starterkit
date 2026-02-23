@@ -3,7 +3,7 @@
 <metadata>
 purpose: Analysis of the brand evaluation frameworks research and what it means for CheckThat's taxonomy, product, and positioning
 audience: Marcel, Product, Leadership
-related: pipeline/scratchpad/checkthat-screens-v1.md, docs/products/checkthat/product-vision-v1.md
+related: pipeline/scratchpad/2026-02-18-checkthat-screens-v1.md, docs/products/checkthat/product-vision-v1.md
 domain: product-strategy
 confidence: analysis
 last_updated: 2026-02-14

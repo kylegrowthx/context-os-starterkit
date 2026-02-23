@@ -3,7 +3,7 @@
 <metadata>
 purpose: Sprint troubleshooting — signals, risks, escalations, and recovery playbooks
 audience: EMs, directors
-related: pipeline/scratchpad/strategy-sprint-operators-guide-v1.md, pipeline/scratchpad/strategy-sprint-customer-onboarding-guide-v1.md
+related: pipeline/scratchpad/2026-02-18-strategy-sprint-operators-guide-v1.md, pipeline/scratchpad/2026-02-18-strategy-sprint-customer-onboarding-guide-v1.md
 domain: delivery
 confidence: draft
 sensitivity: internal
