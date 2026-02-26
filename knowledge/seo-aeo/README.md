@@ -24,7 +24,7 @@ SEO and AEO (Answer Engine Optimization) unified. Ranking factors, keyword strat
 | Directory | Contents |
 |-----------|----------|
 | [guides/](guides/) | 3 actionable playbooks — buyer evaluation, prompt writing methodology |
-| [research/](research/) | 12 deep research files — metrics, brand measurement, prompt methodology (103+ sources) |
+| [reseo-aeo/](reseo-aeo/) | 12 deep research files — metrics, brand measurement, prompt methodology (103+ sources) |
 
 ---
 

@@ -15,25 +15,25 @@ See [README.md](README.md) for an overview of this directory.
 
 | File | Type |
 |------|------|
-| [search/guides/buyer-evaluation-prompt-playbook.md](search/guides/buyer-evaluation-prompt-playbook.md) | guide |
-| [search/guides/buyer-evaluation-prompts-study-guide.md](search/guides/buyer-evaluation-prompts-study-guide.md) | study guide |
-| [search/guides/prompt-writing-methodology.md](search/guides/prompt-writing-methodology.md) | guide |
-| [search/keyword-optimization-clustering-study-guide-v1.md](search/keyword-optimization-clustering-study-guide-v1.md) | study guide |
-| [search/prompt-taxonomy-and-ontology-v1.md](search/prompt-taxonomy-and-ontology-v1.md) | guide |
-| [search/research/brand-evaluation-research-analysis-v1.md](search/research/brand-evaluation-research-analysis-v1.md) | research |
-| [search/research/buyer-evaluation-research-notes.md](search/research/buyer-evaluation-research-notes.md) | research |
-| [search/research/checkthat-brand-measurement-methodology-v1.md](search/research/checkthat-brand-measurement-methodology-v1.md) | research |
-| [search/research/checkthat-macro-category-methodology-v1.md](search/research/checkthat-macro-category-methodology-v1.md) | research |
-| [search/research/checkthat-metric-framework-options-v1.md](search/research/checkthat-metric-framework-options-v1.md) | research |
-| [search/research/checkthat-ontology-product-roadmap-v1.md](search/research/checkthat-ontology-product-roadmap-v1.md) | research |
-| [search/research/complete-guide-vendor-evaluation-platforms.md](search/research/complete-guide-vendor-evaluation-platforms.md) | research |
-| [search/research/metrics-deep-research.md](search/research/metrics-deep-research.md) | research |
-| [search/research/perception-score-methodology.md](search/research/perception-score-methodology.md) | research |
-| [search/research/prompt-methodology-and-pattern-library.md](search/research/prompt-methodology-and-pattern-library.md) | research |
-| [search/research/prompt-writing-research-notes.md](search/research/prompt-writing-research-notes.md) | research |
-| [search/research/vendor-ranking-study-guide.md](search/research/vendor-ranking-study-guide.md) | study guide |
-| [search/semrush-seo-audit-study-guide-v1.md](search/semrush-seo-audit-study-guide-v1.md) | study guide |
-| [search/seo-ranking-factors-study-guide-v1.md](search/seo-ranking-factors-study-guide-v1.md) | study guide |
+| [seo-aeo/guides/buyer-evaluation-prompt-playbook.md](seo-aeo/guides/buyer-evaluation-prompt-playbook.md) | guide |
+| [seo-aeo/guides/buyer-evaluation-prompts-study-guide.md](seo-aeo/guides/buyer-evaluation-prompts-study-guide.md) | study guide |
+| [seo-aeo/guides/prompt-writing-methodology.md](seo-aeo/guides/prompt-writing-methodology.md) | guide |
+| [seo-aeo/keyword-optimization-clustering-study-guide-v1.md](seo-aeo/keyword-optimization-clustering-study-guide-v1.md) | study guide |
+| [seo-aeo/prompt-taxonomy-and-ontology-v1.md](seo-aeo/prompt-taxonomy-and-ontology-v1.md) | guide |
+| [seo-aeo/reseo-aeo/brand-evaluation-research-analysis-v1.md](seo-aeo/reseo-aeo/brand-evaluation-research-analysis-v1.md) | research |
+| [seo-aeo/reseo-aeo/buyer-evaluation-research-notes.md](seo-aeo/reseo-aeo/buyer-evaluation-research-notes.md) | research |
+| [seo-aeo/reseo-aeo/checkthat-brand-measurement-methodology-v1.md](seo-aeo/reseo-aeo/checkthat-brand-measurement-methodology-v1.md) | research |
+| [seo-aeo/reseo-aeo/checkthat-macro-category-methodology-v1.md](seo-aeo/reseo-aeo/checkthat-macro-category-methodology-v1.md) | research |
+| [seo-aeo/reseo-aeo/checkthat-metric-framework-options-v1.md](seo-aeo/reseo-aeo/checkthat-metric-framework-options-v1.md) | research |
+| [seo-aeo/reseo-aeo/checkthat-ontology-product-roadmap-v1.md](seo-aeo/reseo-aeo/checkthat-ontology-product-roadmap-v1.md) | research |
+| [seo-aeo/reseo-aeo/complete-guide-vendor-evaluation-platforms.md](seo-aeo/reseo-aeo/complete-guide-vendor-evaluation-platforms.md) | research |
+| [seo-aeo/reseo-aeo/metrics-deep-research.md](seo-aeo/reseo-aeo/metrics-deep-research.md) | research |
+| [seo-aeo/reseo-aeo/perception-score-methodology.md](seo-aeo/reseo-aeo/perception-score-methodology.md) | research |
+| [seo-aeo/reseo-aeo/prompt-methodology-and-pattern-library.md](seo-aeo/reseo-aeo/prompt-methodology-and-pattern-library.md) | research |
+| [seo-aeo/reseo-aeo/prompt-writing-research-notes.md](seo-aeo/reseo-aeo/prompt-writing-research-notes.md) | research |
+| [seo-aeo/reseo-aeo/vendor-ranking-study-guide.md](seo-aeo/reseo-aeo/vendor-ranking-study-guide.md) | study guide |
+| [seo-aeo/semrush-seo-audit-study-guide-v1.md](seo-aeo/semrush-seo-audit-study-guide-v1.md) | study guide |
+| [seo-aeo/seo-ranking-factors-study-guide-v1.md](seo-aeo/seo-ranking-factors-study-guide-v1.md) | study guide |
 
 ## Social
 

@@ -15,7 +15,7 @@ Study guides, playbooks, and reference materials. Each file synthesizes deep res
 | Directory | What's There | Files |
 |-----------|-------------|-------|
 | [writing/](writing/) | Craft, style, communication fundamentals | 2 |
-| [search/](search/) | SEO + AEO unified — ranking factors, AI visibility, prompt taxonomy, brand measurement | 19 |
+| [seo-aeo/](seo-aeo/) | SEO + AEO unified — ranking factors, AI visibility, prompt taxonomy, brand measurement | 19 |
 | [social/](social/) | LinkedIn engagement, hooks, distribution strategy | 2 |
 | [ai/](ai/) | AI product leadership, context engineering, voice agents, prompting | 5 |
 | [building/](building/) | Leadership, company building, scaling, recruiting | 4 |
