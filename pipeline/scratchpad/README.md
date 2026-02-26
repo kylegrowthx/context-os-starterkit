@@ -3,7 +3,7 @@
 <metadata>
 purpose: Working drafts, research scratchpads, and in-progress documents — second stage of the pipeline
 audience: AI agents filing drafts, Marcel reviewing work-in-progress
-related: pipeline/research/README.md, pipeline/outputs/README.md, docs/context-routing.md
+related: pipeline/research/README.md, pipeline/outputs/README.md, context/context-routing.md
 domain: pipeline
 confidence: canonical
 sensitivity: internal

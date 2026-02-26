@@ -8,6 +8,7 @@ These contain meeting transcripts, client documentation, and external reference 
 
 | Directory | Contents | Size |
 |-----------|----------|------|
+| `contacts/` | Personal CRM — people, relationships, interaction notes | New |
 | `transcripts/` | Meeting transcripts from Fireflies | ~57 files |
 | `customers/` | Client-specific documentation and engagement history | ~54 files |
 | `downloads/` | External content (Lenny's Podcast transcripts, etc.) | ~290 files |

@@ -3,7 +3,7 @@
 <metadata>
 purpose: Explain how this project is structured, how everything connects, and how AI agents use it
 audience: Marcel, new contributors, and AI agents orienting themselves
-related: CLAUDE.md, docs/context-routing.md, .cursor/skills/
+related: CLAUDE.md, context/context-routing.md, .cursor/skills/
 domain: company
 confidence: current
 last_updated: 2026-02-07
@@ -68,7 +68,7 @@ CLAUDE.md (entry point, ~60 lines)
     |-- "When to Load Context" -> Task-specific pointers
     |
     v
-docs/context-routing.md (detailed routing, loaded on demand)
+context/context-routing.md (detailed routing, loaded on demand)
     |
     |-- Tiered loading rules (what to load when)
     |-- Task routing stacks (writing, research, decisions, client work)
@@ -243,15 +243,15 @@ User says: "Write a LinkedIn post about our content marketing approach."
 1. Claude Code reads CLAUDE.md (auto-loaded)
 2. CLAUDE.md says: "If generating content or matching our voice, read `writing-guidelines/writing-style-context-v2.md` first"
 3. Claude Code loads the style guide
-4. CLAUDE.md also says: "For detailed context loading rules, read `docs/context-routing.md`"
+4. CLAUDE.md also says: "For detailed context loading rules, read `context/context-routing.md`"
 5. Context routing says LinkedIn writing loads: writing guide -> personal-context/marcel-linkedin-style -> relevant product docs
 6. Claude Code loads those files, writes the post
 
 ### Key difference from Cursor
 
-Cursor has `.cursor/rules/*.mdc` as an extra layer of always-on and auto-attached rules. Claude Code doesn't have this. Claude Code relies entirely on CLAUDE.md + docs/context-routing.md for guidance, plus skills for workflows.
+Cursor has `.cursor/rules/*.mdc` as an extra layer of always-on and auto-attached rules. Claude Code doesn't have this. Claude Code relies entirely on CLAUDE.md + context/context-routing.md for guidance, plus skills for workflows.
 
-The `docs/context-routing.md` file is the shared brain. Both tools read it when they need detailed routing instructions.
+The `context/context-routing.md` file is the shared brain. Both tools read it when they need detailed routing instructions.
 
 ---
 
@@ -263,7 +263,7 @@ The `docs/context-routing.md` file is the shared brain. Both tools read it when 
 | Cross-tool compat | AGENTS.md (symlink) | AGENTS.md (symlink) | Works in Zed, Windsurf, Copilot too |
 | Skills | `.cursor/skills/` | `.skills/skills/` (symlink) | One set of skills, two discovery paths |
 | Rules | `.cursor/rules/*.mdc` | Not applicable | Cursor-only layer |
-| Routing | `.cursor/rules/` + `docs/context-routing.md` | `docs/context-routing.md` | Shared routing doc |
+| Routing | `.cursor/rules/` + `context/context-routing.md` | `context/context-routing.md` | Shared routing doc |
 | Metadata | `<metadata>` XML tags | `<metadata>` XML tags | Same format, both tools read it |
 
 ---

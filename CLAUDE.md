@@ -32,7 +32,7 @@ Don't load everything. Read what you need for the task:
 - **Client work?** Search `records/customers/` for client context, `records/transcripts/` for meeting notes.
 - **Creating deliverables?** Save drafts to `pipeline/scratchpad/`, finished work to `pipeline/outputs/`.
 
-For detailed routing, task stacks, and sensitivity rules, see `docs/context-routing.md`.
+For detailed routing, task stacks, and sensitivity rules, see `context/context-routing.md`.
 
 ## Skills
 
@@ -47,9 +47,23 @@ Cursor auto-discovers skills from `.cursor/skills/`. For Claude Code, reference 
 | Post to Slack | `.cursor/skills/post-to-slack/SKILL.md` | "Post to Slack" / "Send a message to [channel]" |
 | Pull Meeting | `.cursor/skills/pull-meeting/SKILL.md` | "Pull meeting" / "Get transcript from Fireflies" |
 | Research to Study Guide | `.cursor/skills/research-to-study-guide/SKILL.md` | "Research [topic]" / "Create a study guide" |
+| Contact Dossier | `.cursor/skills/contact-dossier/SKILL.md` | "Create a contact", "update contact", "save contact", "build a profile on [person]" |
+| Contact Dossier | `.cursor/skills/contact-dossier/SKILL.md` | "Create a contact", "update contact", "save contact", "build a profile on [person]" |
 | Update Notion Doc | `.cursor/skills/update-notion-doc/SKILL.md` | "Update Notion" / "Sync to Notion" |
 
 These are cross-cutting skills shared across all workspaces. Operational GTM skills (HubSpot, Ordinal, AEO prompts) live in gtm-brain/.cursor/skills/.
+
+## Rules
+
+| Rule | Trigger |
+|------|---------|
+| Contact–Transcript Linking | After processing any transcript, update related contact dossiers and cross-link between `records/contacts/` and `records/transcripts/`. See `.cursor/rules/contact-transcript-linking.mdc` for full spec. |
+
+## Rules
+
+| Rule | Trigger |
+|------|---------|
+| Contact–Transcript Linking | After processing any transcript, update related contact dossiers and cross-link between `records/contacts/` and `records/transcripts/`. See `.cursor/rules/contact-transcript-linking.mdc` for full spec. |
 
 ## Universal Rules
 

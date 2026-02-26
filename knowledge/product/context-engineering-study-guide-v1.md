@@ -3,7 +3,7 @@
 <metadata>
 purpose: Study guide on context engineering for AI agents
 audience: AI practitioners, engineers
-related: ../docs/context-routing.md
+related: ../context/context-routing.md
 domain: research
 confidence: research
 sensitivity: public

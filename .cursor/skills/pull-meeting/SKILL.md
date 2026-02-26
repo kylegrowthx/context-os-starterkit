@@ -190,7 +190,19 @@ For single meetings, write the full file inline. For batch processing or large t
 
 This avoids reading large transcripts into context.
 
-### Step 7: Report Back
+### Step 7: Update Contact Dossiers & Index Files
+
+**This step is NOT optional.** After saving the transcript, apply the full **contact–transcript linking** rule (`.cursor/rules/contact-transcript-linking.mdc`):
+
+1. **Identify** all named external participants from the transcript
+2. **Match** against existing dossiers in `records/contacts/`
+3. **Update existing dossiers:** add transcript to Meeting Transcripts, add Timeline entry, merge any new details, bump `last_updated`
+4. **Auto-create dossiers** for significant new contacts (speakers, decision-makers, repeat contacts) — don't ask, just create with `confidence: low`
+5. **Tag the transcript** with a `## Related Contacts` section linking to all participant dossiers
+6. **Update `records/contacts/INDEX.md`** — add rows for any newly created dossiers
+7. **Update `records/transcripts/INDEX.md`** — add the new transcript entry
+
+### Step 8: Report Back
 
 After saving, confirm:
 - File saved to: `/records/transcripts/<filename>.md`
@@ -199,6 +211,9 @@ After saving, confirm:
 - Duration: <duration> minutes
 - Participants: <count> people
 - Key topics: <3-5 main topics>
+- Contacts updated: <list of existing dossier files updated>
+- New dossiers created: <list of new contact files auto-created>
+- INDEX files updated: contacts/INDEX.md, transcripts/INDEX.md
 
 ## Writing Guidelines
 
@@ -265,11 +280,20 @@ python3 .cursor/skills/pull-meeting/format-transcript.py CACHE_FILE.txt > /tmp/m
 ```
 Then write header sections and append transcript via shell.
 
-### Step 7: Report summary
+### Step 7: Update Contact Dossiers & Index Files
+**This step is NOT optional.** After all transcripts are saved, run the full contact–transcript linking rule (`.cursor/rules/contact-transcript-linking.mdc`) as a batch:
+- Collect all external participants across all new transcripts, deduplicate
+- Update existing contact dossiers with new transcript links, timeline entries, and any new details
+- Auto-create dossiers for significant new contacts (speakers, decision-makers, repeat contacts) with `confidence: low`
+- Tag every new transcript with a `## Related Contacts` section
+- Update `records/contacts/INDEX.md` with any new dossier entries
+- Update `records/transcripts/INDEX.md` with all new transcript entries
+
+### Step 8: Report summary
 After all meetings are saved, report a summary table:
 
 | # | Date | File | Duration | Key Topics |
 |---|------|------|----------|------------|
 | 1 | Feb 9 | `2026-02-09-strategy-sprint-standup.md` | 66m | Client status, kickoffs |
 
-Note any meetings where audio was not captured.
+Note any meetings where audio was not captured. List contact dossiers that were updated and new ones that were auto-created. Confirm INDEX.md files were updated.
