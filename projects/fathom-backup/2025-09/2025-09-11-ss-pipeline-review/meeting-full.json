@@ -1,0 +1,2741 @@
+{
+    "title": "SS Pipeline Review",
+    "meeting_title": "SS Pipeline Review",
+    "url": "https://fathom.video/calls/408293934",
+    "created_at": "2025-09-11T17:00:44Z",
+    "scheduled_start_time": "2025-09-11T16:30:00Z",
+    "scheduled_end_time": "2025-09-11T17:00:00Z",
+    "recording_id": 86649675,
+    "recording_start_time": "2025-09-11T16:36:16Z",
+    "recording_end_time": "2025-09-11T17:00:32Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Hey, Andi, thanks for jumping on.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So this meeting today, just hoping to align on strategy, like how many kickoffs do we want each week, starting with the 29th moving forward.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And then it might be helpful if I start by just showing you what the pipeline looks like, so that we can then go back to that conversation, and also go into HubSpot, so that we can be on the same page about like, how we can use HubSpot together as a source of truth, because my ad hoc notion docs with color, color coding shading is not the best.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Um, yeah, so should I start off with just like, running through?",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, as you're sharing these, I think I would like to know what they've seen, like.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Did we show them augment code?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Because, like, you know, what have they seen?",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "What are they expecting?",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Because that will change the work that we have to do on the front end to either reset expectations or align with what they need.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, like, you know, what's, and also because, like, I don't know, like, I don't know what Base 10 does, for example.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, for big companies, like, are we going to need to impress the hell out of them?",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Because that's also a different level of work.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, DeepGram, despite being editorial, theoretically, like, you know, their bar is here and Marcel's bar is here.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so, like, what's the expectation?",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, there's a subcontext even to editorial versus custom.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, and honestly, why don't we start on this topic?",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Because I think it's really important.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Every client that I'm bringing into a strategy sprint, we're showing them the breadth of what's.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "possible in our conversations, so we're not just showing them editorial and blog examples, we're showing them those ramp examples, right?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "We're showing them what's like a one that I go to, sometimes we show the augment code microsite, sometimes we'll show the web flow integrations pages, but I'm doing like my damnedest and like I'm going to continue to do this to like let them know, base two, like the foundation is editorial.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "What you're seeing in this SW, it's like the strategy sprint, where we'll do some publishing, and we'll figure out if there's some other lanes beyond editorial that we want to think about, but you're paying in phase two, like for editorial.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So is that what you like want me to do in terms of expectation setting?",
+            "timestamp": "00:02:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, I mean, phase one is, like the whole thing has to, if it's, phase one is like, sky's the limit, then phase two ends up being sky's the limit too.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So it's like the whole thing is, is the sky the limit, we're showing them the breadth and they're expecting that we .",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We like bring out the whole buffet or are like, cause Ada can knock out 70 editorials.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like she's, you know, we could do those, but if we're going, okay, and now we have to come up with like a programmatic strategy and get engineering resources and like figure out if we have design resources because they don't have a blog.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That's a big question also, like how much content do they have?",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "What kind of like, do they have a CMS?",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Those kinds of questions because like one of our, I think Relay like doesn't have a CMS and is asking us to like set up their CMS for them.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So like, you know, these are sorts of things where it's just now we have this much less capacity because we have to do this much more work for an existing client.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So the more that we know going in, the better.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Cause in theory, I think we could do three, if we can keep bringing in, if we can keep.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Hiring or the agentic workflows start working, but, you know, every piece that is outside of, like, core editorial is time, you know?",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, so maybe one thing that would help me a lot is, like, a document that outlines everything that we want to know before someone receives a contract from us or, like, signs a dotted line, rather, because then I can just consistently do that every single time.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "But another thing I'm thinking of that might solve this problem of all this demand is, like, maybe the sales side just needs to do a much better job of when they sign the contract, we already know if they're going to be lanes outside of editorial in phase two, as opposed to making that something that happens during phase one.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And we also get them priced, like, accordingly for phase two.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Now, like, I do remember Kyle.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I'm more clear.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So I don't know how it would be like free to close and the strategy sprint unless it's like more.",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, I mean, I think that there are questions that we can ask.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like we can pull some of the questions from kickoff into a sales conversation.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like some of those are, you know, like goal conversations.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "What does your site look like today?",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like so that we can.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And that's like, that's a really easy conversation to have to say, look, we want to be really prepared so that when we go into the first and second conversations, we're hitting the ground running.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And we have like all the context that we need to set up a blog for you or like we've reserved the resources that are going to be required to get you guys up and running.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like that's not, nobody should be surprised by that if they've been involved in like.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I agree.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Those simple questions like the website.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "How much content do you have?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, I agree that  all.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I honestly thought that was already, like, being in a list.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But, like, when you have to do the couple hours of keyword research and, like, the topic, like, all that, the clusters come from hearing what actually matters to the customer.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We basically, like, tried to kick off an ICP process and then have since stopped in the last two months because of, basically because of fundraising.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "But, like, what I think we're all talking about is, like, ICP.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, we don't need to close.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Have we really dequeued anyone from the sales process?",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Not really.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, there's a lot of, all the fields are in HubSpot.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, we made this whole table, this matrix of ICP, including all the things you're talking about.",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Do you have a website?",
+            "timestamp": "00:07:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Do you have a CMS?",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "How much content do you produce?",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, who's going to be involved?",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "And we made them fields in HubSpot so that we could, like, back it up and do it in the sales process and disqualify people.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, maybe we would have disqualified that when you just mentioned it was no CMS.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Because we have, like, along with...",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Of other prospects who are maybe better.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "So I know we need to just like revive that basically.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like I didn't even know, Tyler, you were probably never even brought in on the loop on that.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We made it like very frantically like a month ago.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "But like what has become so clear in these conversations with investors is like they are, I was telling Tyler this, they're drilling into the churn stuff, like drilling into it.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "And the best explanation we have that works is by starting to talk about ICP.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We have a new plan.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We are no longer just bringing in everybody.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We qualify people, which I think is like the intention is there, but like the process is not there yet.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "So we just like, this is why I do not want to move to three a week.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Because like if we enter the world of churn again, we are so screwed.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "And I don't, I personally do not trust that we won't churn if we do three a week with the team today.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "So I would rather us be like myself said, like books.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Six weeks out with people and take more time to like qualify them in advance because we're not even pricing based on the lift either.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We're just like 20K Sprint.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Even if like, what if someone has no CMS?",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Shouldn't that cost more?",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "So I don't know.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "It's like, we need to find the balance, but I agree with you.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I agree.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I can dig in with Daniel.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I mean, I did all customer discovery work at TechSize.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like two years beyond ICP.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "So I can help.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "have seen the matrix, right?",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like the matrix.",
+            "timestamp": "00:09:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "yeah, I've seen it.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "We did all the customers.",
+            "timestamp": "00:09:37"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "This is good.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "it is helpful, but like applying it is different.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, like that's, that was going to be my question.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like this ICP matrix, I've seen this before.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Is this the gospel for like who we want to work with and who I should take down the curve?",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "one.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like we just.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Everyone ranked on all the different metrics.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So you can.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, customers, like, where they sit in all these fields, and then you can understand.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I think, Tyler, what I can do is, like, there are some of these that we've seen where we can, like, where I know that you could dig in and find out more.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, Clerk, if we had known that this guy Jeff was going to be there, like, maybe we wouldn't have signed them.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Or maybe we would have made a different decision.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Because, yeah, like, I can think about the gotchas that we've fallen into so far, where you can, that aren't, like, here's a checklist of questions that I need to ask.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But, like, things that you can probably uncover just in, like, a natural conversation, but that should, like, raise an alert for you.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, they probably have come up already.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "There's two pieces that would, like, help me do what needs to be done for delivery side and also for sales success.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I think it's, like, one, the document.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Of like, hey, Tyler, like, here's the questions we'd love you to get the answer, not even the specific questions, but like, here's the information we need for you before a client signs and moves into a strategy sprint.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And then with the ICP stuff, I think I know enough there that I don't need anything from anyone, and I can just use this ICP matrix and use what I've heard from all the different conversations like we've had here.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I think the only place I'm a little unsure on ICP is like, every time we have a chance to get a logo, that's more of like a well-known logo.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That's my nightmare.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But we're also not even positive at what works yet.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, this matrix, there's still so much nuance to even the ones that rank well.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, town was basically stealth mode, brand new founder, angel investor, super warm, so that discounts some of the rankings.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Biologica, they didn't have a website or a product, but they're like a really good use case for us.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And then there's some random ones that do fit a lot of, so like, there's still like an augment code, for example.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "For gave us full autonomy on the blog page and we made a hidden thing on their website.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So like, I still think that sheet needs a ton of work for us to actually understand who our customers.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That's why we're not saying no yet, because we don't really know until we're doing these things.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I mean, I don't know that much about Augment Code, but I know that the first three months of Augment Code were sort of not fun, right?",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, not that, I mean, we are seeing like good signals and stuff, but was the juice worth the squeeze?",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, think so.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I mean, the first three months was Marcel and I, and it was literally just us trying to figure out how we could help them grow.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Sil to talk to you.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No, no, no.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Sil was always engaged and like talked to us every meeting.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Outside of it, he's super busy.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "He's a CMO of like a company that's raised $300 million and they're in like the race for number one coding agent.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So like he's super busy, but he's always been responsive.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "They had another warm relationship prior, but it was like we didn't have any other work stream besides editorial.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And they'll clear programmatic play for them.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So we had to go figure all of it out.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And even that one was like super unique.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So like, yeah.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I think that's a good example.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like they're in our ICP for sure, augment code, but it's more like sales needs to do the right things to get the information that we need and get the alignment around expectations that we need before it moves into the sprint, right?",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "That's the basis there.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I don't think it's so nuanced because like if we did five articles per week for augment code, they would not be a customer of ours.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And so like, does that mean they're ICP?",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, they're still still.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But we didn't have the, we need to have the opportunity to evaluate that earlier on than saying, oh , they've already paid us.",
+            "timestamp": "00:13:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like we have to do anything we can to keep them.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, like we need the opportunity to have the conversation on whether we want to do the extra work.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Not that we.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We're never going to do the extra work, but that we have to know what's coming in order to schedule properly and to make strategic decisions rather than just saying yes to everyone and figuring it out after.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I completely agree with you.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I completely agree.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And I think we can do a better job at kickoff and during the sprints, but I don't think there's ever been another.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Augment Co was our first ever strategy sprint and our first ever upsell to 50k per month outside of like a regular editorial.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So like it was our job to go figure it out because we didn't know what we could or couldn't do yet.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Now we have some idea, but we can still push back on like a metronome or a monograph or someone who's asking a lot.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like we can do a better job of pushing back.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I just haven't been involved.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So I just don't know if it's like a sales.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I don't think it's a sales issue.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I think it's a more upfront post kickoff and like continuous when there's asks, like we either raise them if we don't know and push back and just not say yes to everything the client's asking for.",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Because Tyler's already setting the expectation up front.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Marcel will come over the top and close and say things.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And we kind of have to walk it back during kickoff and right after the kickoff to, like, set the expectations right.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "In my opinion.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "know, still, like, it's better to know what they're expecting and that we're going to have to walk it back than to be totally blindsided in those conversations.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, it's a much easier conversation to have if you know what they've seen and what they're expecting and how you might be able to position it still in a positive light than to be like, oh, I didn't know you guys talked about that.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I agree.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I didn't know the blind setting was happening.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I agree.",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I think, like, we're going to do, like, 80% of customers should definitely be in the ICP, like, pretty easy.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We know what's coming and then we're always going to have, like, these special situations that stretch us for sure.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Definitely, like, I don't know, George and Kyler, maybe you guys can tag.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, Daniel doesn't have time for this anymore.",
+            "timestamp": "00:15:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "ICP stuff, and, like, someone needs to own this, and, like, it's very I got it.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I got it.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I talked to about it at the event.",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I think, like, the two of you, because this is V1, right?",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, who knows if this is even right, and whatever, needs a million iterations.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Everyone's always iterating on their ICP, but this would be great if we get it, like, start from, like, making sure you both understand each thing, and then work it into Tyler's scripts, and all of that.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "And then, um, this, I think the second thing, Tyler, is just, like, it, once we book for, like, try to book us three, four weeks out, and then, um, you have more time to do this.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, there's no, we've just been rushing to get people in the door for, like, the next Monday, so we're not, we're doing, like, a huge pitch, and then we're not actually, Marcel's, like, here's the world we can do for you, but then we don't ask the question, like, what specifically do you think you want to start with?",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "And it's just, like, here's the world going the sprint kind of thing, so we need to work on, like, that.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I mean, they're always starting with editorial, right?",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Am I wrong there?",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Well, like, it depends.",
+            "timestamp": "00:17:06"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Lovable, no.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Majority.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, majority is, and the exceptions are big logos or super warm relationships that come in with a prior idea, like Udemy or Lovable or Deep Graham.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I should, yeah, I should orient them to editorial, unless it's like, best logo in the world of Lovable and they're just fixated on something.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like, do we want to, like, disqualify any companies, for example, like, their traffic is below X or they only raised a seed round?",
+            "timestamp": "00:17:27"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No, because it's the major.",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, yeah, and I think, like, if they're bought in and they're willing to be patient, great.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But if they're asking you, like, great, so this is going to solve my problem tomorrow, that's a flag.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And, like, that's why for, like, a seed stage customer, especially with churn, I feel like we should tread lightly on...",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Making sure they really believe content is a long-term investment they want to make.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "If they don't, like, I'm not sure we want to push to get them signed, frankly.",
+            "timestamp": "00:18:05"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I don't think that's where we're failing, though.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Or, like, where, like, where the Yeah, for sure.",
+            "timestamp": "00:18:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "majority of the churns were, like, pre-seed.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "For sure.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Were they?",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Oh, they were?",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "See, that's what I wanted a little clarity around, because that's where my assumption was going.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like, these early-stage companies, like, we need to be super cautious with them, because they all jump on board and get excited.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "But they're also, like, a pain in the , because every dollar means so much to them.",
+            "timestamp": "00:18:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "And if they don't believe in what we're doing, like, they're going to churn.",
+            "timestamp": "00:18:37"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, but that's also dangerous, because, like, an engine, a town, and a biological are also seed stage.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah, but, like, those people are Marcel's network, first of all, his friends.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "They've all been very successful founders before.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, the biological people founded, like, friggin' all birds and these...",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like...",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "It's very different if you have an entrepreneur mindset.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "think it's like these fresh founders.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "A lot of them are technical backgrounds, like engineering founders, and they just don't even understand how to go to MarketWorks.",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Those ones stink.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like PromptFu, Breda, all those early ones that churned.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Oh, those are before, yeah.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Tavern will be a good use case to follow because they're super early.",
+            "timestamp": "00:19:18"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "It's literally still all founder-led.",
+            "timestamp": "00:19:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Same thing with that AI.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, so it would be good to like actually validate those things with the new ones we have, seed stage.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Let's bounce back to this real quick because I got two meetings right after this.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I got to run.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Should I do more upfront to establish the additional lanes beyond editorial in phase two and factor that into the pricing before they start a strategy sprint?",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Andy says yes.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "George says no.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Bridget says yes.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "So I mean, why wouldn't we try it?",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I wouldn't, I wouldn't go a hundred percent change everything you're doing, but like.",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "If we have wiggle room right now and time.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "If they're expressing interest in the call in another lane, we're not going to say no to them when they bring it up later.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So they might as well know the cost and the effort up front.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And we might as well know.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Rather than saying, we can do that, but it's extra money and let's put together a second pitch.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like if they're like, PSEO seems awesome, which it seems like a couple of like understories sounds like it was one of them that was like, like wanted us to do PSEO and stuff.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And that came up in the conversations, but they're editorial.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so there was just a mismatch in the onboarding.",
+            "timestamp": "00:20:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "George, why do you say no?",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like no pushback, just curious.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I shouldn't do this.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I just don't know it's going to solve.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Well, I mean, I think it's, I just don't think, like, I don't think it moves the needle one way or the other.",
+            "timestamp": "00:20:51"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, I think we uncover most of what we can do outside of those one-offs, like an understory where they have a problem.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Our relationship, a Udemy, a Lovable, all those ones, we uncover that throughout the early days.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So six of, like, the 50% of the strategy sprint today are those one-offs.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, like, I just think let's try it because we're, it's coming up more than, it's not an anomaly at this point.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, I think, I think maybe, you know, I don't have the phase two pricing, like, updated, but I, maybe I do, right?",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "But I really set their expectations if they're, like, oh, we absolutely want to do this programmatic play around X, Y, Z.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like, okay, sounds good.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "You know, the base pricing for phase two is 12K.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Adding that lane would add 9 to 12K to phase Would add 15K, right?",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "See, that's the other gap I have, is, like, how do we price it?",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "No matter what, like, if we're building PSEO on top.",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "There's some that are 30K, like, Lovable is 30K.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "But you're not going to get someone to pay you more than 30K for two months, so.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "No, but I'm saying, like.",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So if they're saying they want, because Tyler, we're building PSEO in phase one.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I think that's a disconnect that we have right now, is if they're saying they want PSEO, PSEO and editorial are happening in phase one.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So they're only paying for editorial, but both are happening in phase one.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So like, we need to help phase one.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Why can't we push back on that or just do editorial in phase one?",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But those are clients that, that's what we committed to during the sales process with those two clients, with Lovable and with Understory.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, that's what the incoming conversation was.",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And Udemy was a newsletter.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, those were three things that we agreed on during the sales process.",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Nobody told anybody in the strategy sprint that.",
+            "timestamp": "00:22:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Well, I guess the good news there is I didn't do any of those.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "That's wild, but that's kind of what we talked about yesterday, Andy, about fixing that handoff from the kickoff to the actual team, because that was all we talked about on the kickoffs.",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And then, like, second someone isn't there to share the context, it gets...",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "It's lost because people don't read the document or watch the call.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So that's why I'm trying to fix that.",
+            "timestamp": "00:23:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "That's crazy to hear.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "field and HubSpot.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Literally, that's work streams.",
+            "timestamp": "00:23:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I don't know why we don't have that.",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I feel like we need to talk a lot more about this kind of stuff.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah, this is awesome.",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, this is one convo, but we need to talk about it every week.",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I'm in the \u2013 I think we have a little wiggle room now.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "We can experiment.",
+            "timestamp": "00:23:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I would rather not push on three, Tyler.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "I would rather us take extra time and bandwidth and energy and put it into figuring out the sales process.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, there's no need to step on the gas before we're all comfortable with, like, qualification, handoffs, et cetera.",
+            "timestamp": "00:23:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Because otherwise, we are going to  it up.",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, there's no doubt.",
+            "timestamp": "00:23:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "So I would do that.",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "And then, like, the three of you, you should put your heads together and try to find other examples than augment code.",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, I agree we shouldn't just splash up augment code to all of these, like, editorial customers, especially if they're lower ICP.",
+            "timestamp": "00:23:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Bridget McGillivray",
+                "matched_calendar_invitee_email": "bridget@growthx.ai"
+            },
+            "text": "Like, let's find wins we can show.",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I know it's hard to find \u2013 we don't have \u2013 all the customers are early.",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But, like, the more we have other examples is better.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, like, yeah.",
+            "timestamp": "00:24:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I got to run.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:24:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "y'all keep chatting if you need to.",
+            "timestamp": "00:24:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I'm going to just.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh, I need time.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bridget, huh?",
+            "timestamp": "00:24:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Thanks, Tyler.",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:24:14"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Align on strategy for weekly kickoffs and review the sales pipeline, focusing on improving client qualification and expectation setting.](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=10.0)\n\n## Key Takeaways\n\n  - [Need to improve client qualification process and expectation setting during sales to prevent misalignment and potential churn](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=113.0)\n  - [Revive and refine the ICP (Ideal Customer Profile) matrix to better qualify prospects and inform sales decisions](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=254.0)\n  - [Balance between maintaining growth and ensuring quality delivery; team agrees to prioritize process improvement over increasing weekly kickoffs](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=521.0)\n  - [Improve handoff and communication between sales and delivery teams to ensure all relevant information is shared](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=649.0)\n\n## Topics\n\n### Client Qualification and Expectation Setting\n\n  - [Current process shows gaps in communicating client expectations from sales to delivery team](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=649.0)\n  - [Need for a document outlining key information required before client contract signing](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=657.0)\n  - [Suggestion to incorporate more qualifying questions from kickoff into sales conversations](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=369.0)\n  - [Importance of understanding client's existing content, CMS, and resources to better prepare for delivery](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=201.0)\n\n### ICP Matrix and Sales Process\n\n  - [Existing ICP matrix needs refinement and consistent application in sales process](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=700.0)\n  - [George and Tyler to collaborate on updating and implementing ICP criteria](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=565.0)\n  - [Discussion on whether to disqualify companies based on specific criteria (e.g., traffic, funding stage)](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1047.0)\n  - [Caution against blanket disqualification of early-stage companies, as some have been successful clients](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1157.0)\n\n### Pricing and Scope for Additional Services\n\n  - [Debate on whether to establish pricing for additional lanes beyond editorial in phase two upfront](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1180.0)\n  - [Suggestion to test including additional services in initial discussions and pricing](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1200.0)\n  - [Current disconnect between sales commitments and delivery team awareness for some clients (e.g., Lovable, Understory)](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1360.0)\n  - [Need to improve documentation and communication of agreed work streams in HubSpot](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1387.0)\n\n### Capacity and Growth Considerations\n\n  - [Team leans towards maintaining current capacity (2 kickoffs/week) rather than increasing to 3](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1404.0)\n  - [Focus on improving qualification and handoff processes before expanding capacity](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1412.0)\n  - [Concerns about potential churn if team overextends without proper processes in place](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1418.0)\n\n### Examples and Case Studies\n\n  - [Need for more diverse examples beyond Augment Code to showcase capabilities to potential clients](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=734.0)\n  - [Suggestion to find and highlight wins from other clients, especially for editorial-focused engagements](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1438.0)\n\n## Next Steps\n\n  - [George and Tyler to review and update ICP matrix, incorporating it into sales scripts](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=565.0)\n  - [Create a document outlining required information to gather before client contract signing](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=657.0)\n  - [Improve documentation of agreed work streams in HubSpot for better sales-to-delivery handoff](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1387.0)\n  - [Team to have regular discussions on sales process improvements and client qualification](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1396.0)\n  - [Explore and develop more case studies and examples beyond Augment Code for sales presentations](https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf?tab=summary&timestamp=1438.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Create doc - info needed pre-contract sign. Include ICP matrix, editorial focus, phase 2 pricing options\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:04:03",
+            "recording_playback_url": "https://fathom.video/calls/408293934?timestamp=243.9999",
+            "assignee": {
+                "name": "Tyler Pavlas",
+                "email": "tyler@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Compile list of past client \"gotchas\" for Tyler's reference in sales process\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:54",
+            "recording_playback_url": "https://fathom.video/calls/408293934?timestamp=594.9999",
+            "assignee": {
+                "name": "Andi Bailey",
+                "email": "andi@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Collab w/ Tyler - refine/implement ICP process. Update matrix w/ recent customer insights\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:49",
+            "recording_playback_url": "https://fathom.video/calls/408293934?timestamp=949.9999",
+            "assignee": {
+                "name": "George Haikal",
+                "email": "george@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jason Gong",
+            "email": "jason@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Bridget McGillivray",
+            "email": "bridget@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Bridget McGillivray"
+        },
+        {
+            "name": "Tyler Pavlas",
+            "email": "tyler@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Tyler Pavlas"
+        },
+        {
+            "name": "George Haikal",
+            "email": "george@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "George Haikal"
+        },
+        {
+            "name": "Dignory Carmona",
+            "email": "dignory@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Andi Bailey",
+            "email": "andi@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Andi Bailey"
+        }
+    ],
+    "recorded_by": {
+        "name": "Andi Bailey",
+        "email": "andi@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/nDWDqUnoqumXk75U4FBgknSWyMRo1Tqf",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

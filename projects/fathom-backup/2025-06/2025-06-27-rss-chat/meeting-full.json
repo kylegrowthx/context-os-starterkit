@@ -1,0 +1,2374 @@
+{
+    "title": "RSS Chat",
+    "meeting_title": "RSS Chat",
+    "url": "https://fathom.video/calls/337690466",
+    "created_at": "2025-06-27T19:58:58Z",
+    "scheduled_start_time": "2025-06-27T19:00:00Z",
+    "scheduled_end_time": "2025-06-27T19:30:00Z",
+    "recording_id": 71074349,
+    "recording_start_time": "2025-06-27T19:21:50Z",
+    "recording_end_time": "2025-06-27T19:58:41Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So this is an example, they pretty much automate their newsletter creation based all the content that's on their website, and they send out a daily newsletter like 8 or 9 a.m., 11 a.m., and they have this.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "It's pretty much kind of set as a template, and then they have these RSS feeds.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "These are all RSS feeds to kind of give a little snippet of what was most relatable for that newsletter publication, and they have a standard kind of, hey, watch, listen, subscribe, and then they have more RSS feeds here that are configured.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So this is fully RSS pretty much with like some sections that are kind of come in every newsletter.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So this is RSS feed, RSS feed with the CTA, RSS standard kind of block that they've.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "And then this is also RSS feed with a different CTA style, and this is kind of automated Monday through Friday for them.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But it's pulling from their own website.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, from the RSS feed.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "They've got multiple RSS feeds in here.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So this is probably maybe one or two different or three different RSS feeds that they control.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Because one, like each RSS feed might just get one up every morning with the most important article that whatever they want to have in the RSS feed.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So yeah, we were, I work with them on putting these together.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And with a lot of times with RSS, you can just pass in parameters after like you get a base URL for the RSS feed.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then based on what parameters you pass in, you can filter on based on specific kind of content.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can do just to make, I kind of figured it'd be, they'd have more control on their side by just, you can do all of that kind of stuff in.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Our app as well, but I just figured it makes more sense because they can just have control.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They can just change the parameters based on what they want and they can just leave it, you know, set it and forget it in our system.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "This makes sense.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So I guess, I mean, I probably should have started with this question.",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Let me share again.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So what do you all think is the smartest, most efficient approach here based on our mock-up and then the carousel that we want to have at the bottom?",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, yeah, what's your, what's your thoughts?",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Uh, I mean, if you want to have it more like superhuman with that specific touch, I think just fully authored type of thing and that last carousel could be like, um, RSS feed.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But then again, if you want it more design oriented in some sections, cause we do have like block quotes for whatever quotes type of ditches.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "There is an embed from YouTube kind of link, then probably maybe fully authored with some of those features in Beehive.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, there is kind of like a good structure that works, which is top section curated, you know, done by hand.",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, supporting ones can be more RSS.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think as a reader, like, so this bottom one, you can totally do by RSS.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There are certain, like, design flourishes that, like, say with the date, we don't have an icon there.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It would just show the date.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But you could make it so that that is styled the same way all the time, and you're just bringing it in.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bringing in the links themselves and the summaries we'd obviously offer.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can bring all of this in through the RSS, where you just have essentially a title.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it's a one-column design with a title and a, and the description.-column title and and a a title and and a Thank",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That the link is in the title there.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I will say that we've kind of standardized our RSS.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "kind of like small things you want to do with spacing are not necessarily as easy to do because we kind of set, you set your heading size, H1, H2, all that kind of stuff.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so it comes up maybe not as small as that.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So depending on the amount of design control you want to have would determine whether you are going to go for the RSS.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, would it be an issue to get it to look like this?",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, to an extent, it's going to on the RSS.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Down the road, I've been thinking right now, it's like you set all these design parameters.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then it pulls in say like your H2s as your head.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And H2s are usually like, you know, I don't know, like 24 pixel size, so they're big.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One thing that down the road I would love for us to move, and this is kind of like the area that I work in, would be to be able to like determine, to make style choices in the, you know, that would be specific for the RSS and not for the overall style.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm probably not making sense, but it's just like, have a little bit more fine tuning, specifically of the RSS block, or any, any blocks where you might want to have more design.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're not there yet, but I could see us going there.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, RSS.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Manual might make more sense to start.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Manual will give you the most design control right now in our system.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But RSS is typically for like those news heavy orgs with a lot of articles being published, and they want to send it over in a unique way in their template, really easily structured and designed.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So no thrills and just have people click and take them back to the website or their website, if that makes sense.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But yeah, superhuman, all author, I'm pretty sure still all author just from working with them early on.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "And some of these things, but then I think like the date icon, you could kind of get that within like maybe a column in an image or something like that icon type of thing.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "You kind of get pretty close.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "think that that link icon next to the headline, that's going to be a harder one to recreate, but it could be some kind of.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "You mean with RSS, with an RSS feed?",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "With an RSS feed.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And just a regular kind of way.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Even regular, okay.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, because those like images, you could kind of get close.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "It's not going to be maybe exact sizing, which you have on this mockup.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But it will require using like a two column type of structure, putting the title there and putting a little.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "image that would be a certain size that could maybe play.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "reality, those are inline graphics, which are, you know, unless it's like an emoji.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, no, I mean, no worries on this.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "This was just, you know, I just didn't remove it from the V0 mock-up.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, that's why Superhuman kind of uses the emojis heavily in their start.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Those will stick out for people.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Email, as Tim likes to say, it's 1999 technology still.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Coding like it's 1999.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There you go.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There you go.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Ask yourself, it's called like it's 1999 email.",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I know we have one more minute.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So there's two more questions for you.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So while I'm doing these design mock-up, and I have a team that can help me, do you all have like good references or like a page that has good examples?",
+            "timestamp": "00:07:50"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "With newsletters and design and stuff I can get inspiration from.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I feel like I've been key to that.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Collecting a decent amount of great examples.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let me see which ones I could share.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Unless, Dane, you haven't pulled up.",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I've got a couple.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Are you looking for web-specific or newsletter-specific designs?",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "By web-specific, you mean the tool that we'll have?",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I think just a newsletter-specific for now.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I've got to drop to another client meeting, so I'll let you guys go.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks, Tim.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Tim LaTorre",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Good to meet Yeah, you as well.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "bye.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "I'll forward you some.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Here we go.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "If there's any, like, you know, websites or tools you all use to...",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So, again, get inspiration or just know what's working well and what looks good and all that.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "greatly appreciate it.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, let me share mine.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let me share what I have.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I could probably stay on a few minutes, but...",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I'm good.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I don't have anywhere to go.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, so we have, like, the new website builder, but most of these have great design type of, for their newsletters.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I don't even know which ones to look at right now.",
+            "timestamp": "00:09:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I like the collaboration one a lot.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Which one?",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Claymation.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "It's closer to the bottom.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, Claymation one's good.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Upper middle, so their designs are pretty, like, this is the web version of it, but their email looks pretty similar and pretty great.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "And to use great imagery like this is one of my favorites, another costume.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I work really, I work really closely with, um, let me see which one might fit more closely, Coinsnacks, I think they had, they're in the new website builder, but they have like a good structure, and this is all websites, or are there newsletter examples?",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So these are actually, this is a web version of a newsletter example, if that makes sense.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But this is, oh come on, let me just share this with you, if you want to look through some of these.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Yeah, I was going to say, it's easier for us to share the web examples, than it is to share the newsletter examples, because otherwise we just have to forward you a bunch of different newsletters.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Completely makes sense.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Yeah, which one do I often look about the same.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Uh, Tom.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Tim runs their newsletters on ours, but that's different.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "The Mighty is the other one that runs newsletters on us.",
+            "timestamp": "00:11:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "They're more editorial.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let me see if there's anyone from them.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "This guy runs a great...",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Oh, he just had an update.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Not a newsletter for that.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "He's just women's sports has a great newsletter design, so if you like view online.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let me just go back.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I think they're on newsletter.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "They're on Beehive as well.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Should we make Tyler happy and plug Big Desk Energy?",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "That is pretty cool.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, Prof G runs his newsletter.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Again, they're all like different sections.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Which one?",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "The Neuron's pretty good too.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Neuron's great.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, TechPassor runs his newsletters pretty automated.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "He sends it through like a CMS, all custom...",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Through Beehive, but he's got different styles, kind of bullet points.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Are there any, like, when I was thinking, the carousel example of, you know, three quotes, three tweets, three influencers?",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I'm thinking, I think Girlboss right here, they run it on Beehive, but they have kind of this style.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So, like, carousel and staff picks, this is kind of to a point where they're, like, pushing some stuff to whatever.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let me see if they sometimes use a nice carousel type.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let's create our spotlight.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "This is one of our newsletters that one of our teammates runs.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let's see if he has any carousels in here.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Carousels don't really work in email, like those slide-ins.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "It's more of a column structure, like three different pieces.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Let me see what I...",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, I had one that I recreated a long time for, I don't know who it was, but it was a fun one.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Jeez, I have so many.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But it was using, like, art block quotes for a conversation type of thing.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "was kind of fun.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Wait, I mean, again, it just, I thought I had it.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I don't.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But let me see what other ones.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "This is another one.",
+            "timestamp": "00:13:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Oh, something like this.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Okay, okay.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I think this uses our Twitter embeds, if I'm not mistaken.",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:13:53"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "That's pretty perfect.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like, and then...",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "...",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Is there a way to match?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So if it's one Twitter, one's a good quote from a podcast, and then there's a YouTube video that's good.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "It'd have to be four, I'm assuming, like the column structure.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But I could have the same size of the other two I mentioned, like next to the depends on the content that you're pulling from.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "If it's Twitter and that comment is longer, this one has an image, right?",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "It's longer than this one, for example.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, but it goes lower.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But like, so if we're looking at the DeFi data, right?",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "If that's one of the tweets I'm pulling, the right of it, if I want like a quote from a podcast, could I put it to the right and it would fit?",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, so if you have, let's say if you're using a three column one, then you would do, I don't know, which one?",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "A block will come in tags.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "right.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "We could work with two columns or three columns, and then we could feed in other types of content.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And so it could be like a collage of here are the three or five best things we heard this week from people you trust.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, you have to do it in like a column structure.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Damn, I can't plug in my Twitter.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No worries.",
+            "timestamp": "00:16:19"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "mean, like, I think I understand to go edit column and then pull in the Twitter embed, and then if it's just a hard quote, then I just pull in that.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, and then I guess in that same column, if I want to, so we have the Twitter, the tweet here, and then on the red, I want to pull in like a podcast.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Can I pull in the thumbnail of the podcast with the link embedded, and then just like a sentence description below it, and it all fits?",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So, yeah, I think there's also consideration in email having three columns.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Like, if you want to get too much columns, it's bad practice.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "So two columns is probably the best.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "There's a few ways that people do this as well.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "There's",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "You sometimes take a screenshot or a GIF, they make a GIF, so it's more interactive in the email, and hyperlink it.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "That's probably the more powerful way as well that I've seen people use it, versus just having an embed link and then whatever the embed kind of Like a GIF, so if it's a podcast, a GIF of what?",
+            "timestamp": "00:17:06"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Of like the video, like a GIF video, and then you have a certain, yeah.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, you take a screen recording or like a GIF on that specific one, or there's like tools that you could probably pull in or create a GIF from that thumbnail or that video.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "That's probably the most, like the best design-focused way, and then you put that images next to each other, they're all kind of the same, and they're kind of like GIFs.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Some people might add some text inside that GIF, like Canva or whatever.",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "That's probably the better way that's very nice and creative and appealing in like a newsletter style.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "The better way for content outside of like the tweets, you mean?",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Just any...",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Content.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I think that's what I've seen.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "People utilizing GIFs inside email with getting creative.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Whether it is a YouTube video embed, some might not even take a GIF video of whatever conversation, whatever piece of the video, and then hyperlink that so it uploads as an image.",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "That's probably a little bit more powerful than just having an embed that takes them.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I'm assuming there's examples of that in that sheet.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:18:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "But I know there are examples of that somewhere.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "I forgot who uses that.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I'll be scrapping the Twitter embed all together, just like screenshotting the tweet or something.",
+            "timestamp": "00:18:51"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And then...",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Yeah, some kind of, well, the GIF or that Twitter or video, if you want to make it more interactive in email, like have like a simple video interacting, that's where it kind of drives more clicks and kind of engagement with your newsletter.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "That's what I've seen versus just, okay, I have embed in my newsletter, the video drives just more engagement or like that screenshot recording of like a GIF of a YouTube or something more on like Twitter, like people are scrolling and then you stop and then you kind of like have then like click, you know, a little animation clicks on the GIFs.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "That's where it kind of gets people more engaged, if that makes sense.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Viktor Tretyak",
+                "matched_calendar_invitee_email": "viktor@beehiiv.com"
+            },
+            "text": "Appreciate that.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I know we're over time, guys.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "appreciate you sitting on a few minutes later.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No problem.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "George, I know that you're trying to get this done before the end of quarter, so you could have the promotional pricing and all that.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "I know you had a lot of stuff you're working on with, you know, the groups that you're trying",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Clothes and all that, not to mention the people you have in Pipeline and all.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Do you have any update on that side of things on where you're at with stuff, like what your kind of timeline looks like?",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I'm trying to hit your timeline.",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So it's when the end is.",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "It's Friday today.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Tuesday is the end.",
+            "timestamp": "00:20:15"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So I'm pushing.",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I mean, you saw the V1 I have of the newsletter.",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I'm trying to get that.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Not even approved.",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "You show that to the client.",
+            "timestamp": "00:20:27"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I already know they're going to love it.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So I'm just like putting the final pieces on that.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But the end all be all is like if from our yesterday's meeting, if we're actually able to actively manage multiple different client accounts through this VHive.",
+            "timestamp": "00:20:32"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Thanks, Victor.",
+            "timestamp": "00:20:43"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "it.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Then that's great for us.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "It works.",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So I'll definitely have an answer for you by Monday.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "We're just cranking today.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "so this afternoon we have like a final meeting on it.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:20:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "And I know it's probably early for this, but you'd mentioned the way.",
+            "timestamp": "00:20:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "As you grow, wanting to work more closely with our team, you got the CSM packages that I sent over, right?",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I saw those, yeah.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I appreciate it.",
+            "timestamp": "00:21:07"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, no problem.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "a deep look at it yet, but I appreciate you sending them.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Yeah, it's probably a little early for it anyways, but as you start adding on more and more clients, if you want more consultant assistance or people like Victor and Tim to help you with technical things, those are kind of the two options that we offer.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Cool, but do we already get a dedicated person?",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "You do.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "You have a dedicated CSM just kind of like there to help you with deliverability, set up, all of that stuff.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "It's just more like the other offers or if you want like, you know, X amount of hours from someone like Victor per month to help you with, you know, building out custom tech solutions or something like that.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Like, you know, if you wanted someone to build RSS feeds for you and things like that, essentially, that's one package.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "The other is if you want to work with like Tyler, DK, Tyler's our CEO, DK staff, like basically our best newsletter consultants to help you with strategy, not just other things.",
+            "timestamp": "00:21:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "So it's like, how are we growing?",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "How are we monetizing?",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "So those are kind of the two options.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Amazing.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Appreciate it, Dan.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Appreciate your time, man.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Hope you have a great weekend.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "I will talk to you on Monday.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Dane Miller",
+                "matched_calendar_invitee_email": "dane@beehiiv.com"
+            },
+            "text": "Yeah, we'll talk soon.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Have a good Friday.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "See you, Bye.",
+            "timestamp": "00:22:10"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss RSS integration and newsletter design strategies for GrowthX's upcoming newsletter launch on beehiiv's platform.](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=9.0)\n\n## Key Takeaways\n\n  - [Manual authoring provides more design control than RSS feeds for now, though RSS is useful for news-heavy orgs with frequent publishing](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=23.0)\n  - [Email design limitations (like \"1999 technology\") impact layout options; workarounds like GIFs can enhance engagement](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=52.0)\n  - [beehiiv offers CSM packages for dedicated tech support (e.g., Victor) or strategy consulting (e.g., Tyler, DK) as clients scale](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=90.0)\n\n## Topics\n\n### RSS vs. Manual Authoring\n\n  - [RSS feeds work well for news-heavy orgs with frequent publishing](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=23.0)\n  - [Manual authoring currently offers more design control in beehiiv's system](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=23.0)\n  - [RSS limitations: less control over spacing, heading sizes; standard H2 \\~24px](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=247.0)\n  - [Future development may allow more RSS-specific styling options](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=334.0)\n\n### Design Considerations for Email\n\n  - [Email uses \"1999 technology,\" limiting some design capabilities](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=52.0)\n  - [Two-column layouts preferred; three columns can be problematic](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1014.0)\n  - [Icons/images require workarounds (e.g., column structure, emojis)](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=388.0)\n  - [GIFs can create more interactive, engaging content than static embeds](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1088.0)\n\n### Design Inspiration and Examples\n\n  - [beehiiv team has collected strong newsletter examples](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=490.0)\n  - [Highlighted newsletters: Claymation, Coinsnacks, The Mighty, Prof G, The Neuron](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=587.0)\n  - [Web versions of newsletters often available for reference](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=620.0)\n\n### Content Display Strategies\n\n  - [For varied content (tweets, quotes, videos), consider:](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=140.0)\n    1.  Two-column layout for balance\n    2.  Using GIFs or short video clips to increase engagement\n    3.  Screenshots or custom graphics for tweets instead of embeds\n    4.  Hyperlinking images/GIFs to source content\n\n### beehiiv's Additional Services\n\n  - [CSM packages available for scaling clients](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1271.0)\n  - [Options include dedicated tech support (e.g., Victor for custom solutions)](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1293.0)\n  - [Strategy consulting available with top newsletter experts (e.g., Tyler, DK)](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1308.0)\n\n## Next Steps\n\n  - [George to finalize newsletter design mock-up](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1218.0)\n  - [Confirm ability to manage multiple client accounts through beehiiv](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1232.0)\n  - [George to provide decision on moving forward by Monday](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1249.0)\n  - [Dane to follow up with George on Monday regarding the deal closure](https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz?tab=summary&timestamp=1271.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Share examples of newsletters using GIFs for interactive content\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:18:25",
+            "recording_playback_url": "https://fathom.video/calls/337690466?timestamp=1105.9999",
+            "assignee": {
+                "name": "Viktor Tretyak",
+                "email": "viktor@beehiiv.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Finalize V1 newsletter design; present to client\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:17",
+            "recording_playback_url": "https://fathom.video/calls/337690466?timestamp=1217.9999",
+            "assignee": {
+                "name": "George Haikal",
+                "email": "george@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Confirm decision on using Beehiiv for multiple client accounts by Monday\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:21",
+            "recording_playback_url": "https://fathom.video/calls/337690466?timestamp=1221.9999",
+            "assignee": {
+                "name": "George Haikal",
+                "email": "george@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Follow up with George on Monday re: Beehiiv decision\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:46",
+            "recording_playback_url": "https://fathom.video/calls/337690466?timestamp=1246.9999",
+            "assignee": {
+                "name": "Dane Miller",
+                "email": "dane@beehiiv.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Viktor Tretyak",
+            "email": "viktor@beehiiv.com",
+            "email_domain": "beehiiv.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Viktor Tretyak"
+        },
+        {
+            "name": "Dane Miller",
+            "email": "dane@beehiiv.com",
+            "email_domain": "beehiiv.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Dane Miller"
+        },
+        {
+            "name": "George Haikal",
+            "email": "george@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "George Haikal"
+        }
+    ],
+    "recorded_by": {
+        "name": "George Haikal",
+        "email": "george@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/ERxe1bff8KCesqL4EtPxrLzPsUZ3KgLz",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

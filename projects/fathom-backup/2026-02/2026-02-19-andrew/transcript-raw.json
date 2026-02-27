@@ -1,0 +1,1492 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Hey, how are you doing?",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Doing well.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Doing well.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Nice to meet you.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Likewise.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Thanks for taking the time to connect here.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "And hopefully we can figure out exactly what the heck is going on.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Of course.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Of course.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah, we can just jump right in.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "What can I help you with?",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Mostly wanted to chat about our Google Analytics integration and some of the discrepancies that we are seeing from, I think, our UTM structure.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "So there's two issues that are happening, I think.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "It is more so like a loading issue, probably.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "And then the second.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "And second issue is, yeah, our UTMs.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Let me see if I can pull up a little more of some information here.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Have you had a chance to look at our Google Analytics structure?",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "No, not yet.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "You can just give me a quick summary and then I can dive in.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "So, yeah, I'll just start by doing that.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Our site uses Next.js currently.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "It's a headless site.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "We load Google Analytics through Tag Manager that we have at the head of every page on the site.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I guess my question is more so, like, is there a potential issue with the way that the next JS loads pages, like specifically like on relative links that could be causing an on?",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "You see.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "the",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I would need to look deeper, but off the top of my head, I don't think so, because it's a pretty well-known framework at this point in time.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "if there was such a foundational issue, it would be well documented by now.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah, that is kind of what I thought.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "But let me pull up some.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Sorry, just looking through.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "All good.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "All good.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "You can also share your screen and just show me the discrepancy of what you're seeing and what the delta is, and that would be helpful too.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yes.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah, I'm trying to pull up the notes here.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "It's been a little bit since I have touched on.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Sorry about that.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "good.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "good.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "time.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "It wasn't in there, that's right.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Oh, that's very strange.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay, I don't know if I can access it, unfortunately.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "It's the same thing.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Sorry, did you get any context at all for this?",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "No, no.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "That makes a lot of sense.",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Sorry about that.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "All good.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So my role is I sit in a shared strategy team that gets shared across all clients.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So I'm less aware of the client-specific context.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I just build it up when something goes wrong, essentially.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "And I do plug in for people like Joe when they're out of office.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Apologies that I don't have a little more context here.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "All good.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "All good.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "There we go.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Here we go.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Here we go.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "You",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "So let me see, let me know if you can see this and I can zoom in a little bit.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah, I can.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah, so there are some, I think this is the UTM issue here.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "We're seeing a lot of, as you can see, duplicative, like, medium values.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Sometimes, like, there's triple the value.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I'm just confused as to how that could be happening.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "can also, so that is, like, the UTM issue.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I can send over, or we can actually just take a look at the script right now.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Send it here.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "You",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Some triggers that are set up because we use OneTrust as our consent platform, but it's a little mind-boggling because it is loading here.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I can also provide access to this tag manager for you, but I'll also share our code.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "database here.",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah, and it's not like it's anything that crazy.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I can send you this as well if you would like, but it's pretty, I mean, we have the script loading.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "The app, you know, .tsx within the head.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "So that's where I'm getting a little confused.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I'm like, it's not like it's a custom load or anything like that.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Let me take a look at this.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "And if I have any questions, I'm going to follow up on the thread.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "But expect an update by tomorrow.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Great.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "And I can send over.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "So, yeah, there's the discrepancy in GA4 and then the discrepancy in the UTMs.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I can also send this over here.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "It has like the deltas here.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "You can see the variances like sessions and then Google search clicks.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "If you would like to, can also send this as well.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So you just have some more context.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Sure thing.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Just send over everything.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "And we don't have to go back and forth if needed.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "That's.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "What's your role at Outreach, by the way?",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I'm the web manager at Outreach.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Nice.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I'm the senior web manager.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I've never run into this issue.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I've handled a lot of websites.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I've never run into this issue, particularly.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Honestly, I haven't either, and I've been doing this for, like, 16 years now, so that's why I don't have any off-the-cuff answers for you.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I just need to look into it.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "That's very fair.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I dug in a little bit, and I was just like, I don't really know what I'm, what's going, what's going on here.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Also, we've doing this for upwards of close to 10 years now.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "So, I can send you, yes, let me see.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I can also send you this script of the app.tsx file.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "That's too big.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "So, I'll send it in as, I'll just send it.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "file itself.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "And I can also provide context and also add you to our GTM container if that would also be helpful.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Let me follow up on that.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I can just take a look at this tonight.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "And I'll have an update for you by tomorrow.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Update might be that I need to look at it more if it's too oldy, but I think we'll be able to solve this.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Very fair.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Well, thank you for taking a look.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Um, it's really great to meet you as well.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "yeah.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Uh, thank you again for your help.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Uh, yeah, of course.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Uh, thank you so much for providing context.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I know, I know I jumped into it blind.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So, helpful.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "That was super helpful and, for tomorrow.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Happy to chat.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "And if we need to connect again, or if you have any questions, please, please feel free to reach out, whatever.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Um, I'm, pretty available.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I, uh, I'm also Pacific.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "was perfect.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "I don't know what time zone you're in.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I'm in Eastern, but I usually work Pacific hours, so it should be fine.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Arasaki",
+                "matched_calendar_invitee_email": "andrew.arasaki@outreach.io"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Well, thanks.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Take care.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "You too.",
+            "timestamp": "00:11:10"
+        }
+    ]
+}

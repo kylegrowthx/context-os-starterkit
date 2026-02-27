@@ -41,7 +41,7 @@ For each person who HAS a contact dossier:
 
 1. **Add transcript to `## Meeting Transcripts` section** (if not already listed):
    ```markdown
-   - `records/transcripts/YYYY-MM-DD-meeting-name.md`
+   - `records/transcripts/YYYY-MM/YYYY-MM-DD-meeting-name.md`
    ```
 
 2. **Add timeline entry** to `## Timeline` table:
@@ -125,7 +125,7 @@ After all dossier changes are complete:
 
 **In contact dossier** → Meeting Transcripts section:
 ```markdown
-- `records/transcripts/2026-01-28-growthx-coralogix.md`
+- `records/transcripts/2026-01/2026-01-28-growthx-coralogix.md`
 ```
 
 **In transcript** → Related Contacts section:

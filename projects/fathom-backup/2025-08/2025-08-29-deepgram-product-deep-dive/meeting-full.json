@@ -1,0 +1,4366 @@
+{
+    "title": "Deepgram <> Product Deep Dive",
+    "meeting_title": "Deepgram <> Product Deep Dive",
+    "url": "https://fathom.video/calls/394515051",
+    "created_at": "2025-08-29T19:39:26Z",
+    "scheduled_start_time": "2025-08-29T19:00:00Z",
+    "scheduled_end_time": "2025-08-29T19:30:00Z",
+    "recording_id": 83944647,
+    "recording_start_time": "2025-08-29T18:59:57Z",
+    "recording_end_time": "2025-08-29T19:39:19Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Hey, Hasan, how are you doing?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Not bad, not bad.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Give it a minute.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Is it just going to be you from the GrowthX side?",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Okay, and then we're going to have a note taker for recording.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Very cool.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, I'll do a quick intro for myself just before I hop in and stuff because I don't think...",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Were you on our kickoff call, Erik?",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Erik?",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, I was.",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I did the intro at the very beginning, so you might have missed me.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay, okay, cool.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, so I lead product marketing in deepgram.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "asked Pippin, who is on my team to join as well, to just listen in and add color if she wants and stuff.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And we only have 30 minutes, and there's actually quite a bit to cover, so I just want to jump right into it.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "As a quick intro, Erik O'Brien, account strategist.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'll be working with you guys as we get through.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Erik strategy sprint.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Very cool.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So let me share my screen, and then, can you see my screen?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "All right, let me go into slideshow mode here.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "All right, so I'm going to jump right into it.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This call will be recorded for note-taking purposes.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Feel free to just pause me if you have any questions, if anything here is confusing or anything that just stopped me, because I'm going to run through this pretty quick.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is our sort of master sales deck, and there's a lot of slides and a lot of product information on it.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So, yeah, just stop me whenever, okay?",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Sounds good, okay.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So just general info on Deepgram to kick things off.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So Deepgram is a foundational AI company.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "What really that means is we're really heavily research and engineering-led.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Like, we have a huge research team, and what we do is we build these voice models for voice AI.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "kind crowd like right?",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Customers and stuff, and oftentimes what happens is research will build a model, and they'll do research and solve these difficult problems, and then product will productize those models.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But that's sort of like our core DNA is being this sort of research and engineering-led company.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "The founders, they were particle of matter physicists who spit signals into the middle of the earth to do some research.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then those were like sound waves and stuff.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So they basically used that then to build like a speech text like model using end-to deep learning.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that just gives a background of like where we're coming from with this stuff.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Okay, so just quick narrative.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So voice is sort of like this untapped resource within companies, within businesses, within enterprises.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There's all these voice interactions going on on a regular basis.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "All these customer calls, all these like sales calls, business meetings, and it's sort of like stuck in silos.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's sort of this untapped resource.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So when you think about it, there's different use cases and different ways to use the voice, all this voice data on all these sort of like millions and billions of interactions.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So you could build voice agents, you can build agent assists, where you have an agent that basically can summarize a call or like listening in a call and then give a customer support or salesperson real-time assistance on what they should say and stuff like that.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There's voice AI bots and co-pilots.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There's like, if you think about a drive-thru, you can basically automate that and save on the human labor costs by building agents to manage a drive-thru and order-taking and stuff.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then like medical dictation, note-taking, that type of stuff as well.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So all these are just examples of like ways to leverage all that untapped data for the voice data that exists.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And the key thing is like text is really different than voice.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's something that we...",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So when they're looking into, like, just AI in general, and a lot of AI is text-based LLMs and stuff like that, a voice is its own sort of animal and presents a different set of challenges.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we hear that validation from our customers.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Voice is different than text.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And the thing about perception is, it's like when you think about, like, a voice pipeline, so even think about, like, human-to-human interaction, the first thing you do is listen and understand and process what someone's saying before you respond, right?",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So perception is really hard, and it's sort of this garbage-in, garbage-out idea.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So if you don't have the proper perception and proper inputs coming into the voice model, then what you're spitting out or responding with is not going to make any sense at all.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And there is this sort of, like, voice AI maturity curve that we see companies going on this journey or even the market going on this journey where, you know, voice is something that companies already use.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "A lot of, as far as like in their customer support, they have these legacy, you know, phone trees and legacy interactive voice response systems, you know, press zero to talk to an operator, press one for English, press two for Spanish, all this stuff.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You get stuck in this phone tree.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's basically the legacy option that exists today.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They're starting to move into this automated speech-to-text and text-to-speech.",
+            "timestamp": "00:05:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That's still sort of like still aeroplane or robotic, robotic, especially if it's like not a great experience.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But then now we're in sort of like these phases three, four, and hopefully five in the future where it's like becoming very human, like very natural with these voice bots.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then eventually we're getting to these voice AI agents.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This year it's a huge thing around creating voice agents and then agentic AI in the future.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And what makes voice AI so hard and what's it, how is it different than text?",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So when you think about all the things that human can do in, you know, conversation or interaction, they can multitask, they can process multiple types of information.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They have a contextual understanding of the conversation.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They can comprehend and understand what's being said with the nuance, with understanding emotional pacing, cadence, emotional tone, and stuff like that.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Obviously, he's responding quickly.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If an agent doesn't respond quickly, it's going to throw everything off, even if it sounds natural.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then humans can take turns.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I recognize when you're about to interrupt me or you have something to say, I'll stop and listen.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then, obviously, humans can express emotion in the way they talk and then take action from what is heard and what they say.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So those are some of the challenging things.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we're trying to approximate the human experience, and that's what voice AI is trying to do.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But where most systems fall short is basically in all these things.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "All these things are ways that existing voice AI systems are very much challenged.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And we're trying to approximate that human interaction, but they haven't.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So let me pause there because I think we're going to get into like the product stuff there.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Any questions so far?",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "No.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So basically then I'm going to go into our overall platform.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this is a dense slide, but I'm going to kind of go over it in sections and then we'll drill down into each sort of section in terms of what we provide.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we offer a comprehensive voice AI platform.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We think it's a complete voice AI platform to build these sort of end-to-end voice-to-voice experiences.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "One of the things that we think differentiates us versus other players in the market is that we're enterprise-ready.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And I'll go into a little bit of what that means, but when you think about there are some of the more  or other types of AI voice experiences that you're out there, they're focused on sort of like creative use cases like podcasting or gaming or voices, like avatars for different sort of creative scenarios and stuff like that.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We tend to focus on these sort of enterprise use cases, which is more around like customer support.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Or medical triage or stuff like that.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And there's a specific set of requirements that are needed for enterprise, So that's kind of our differentiation.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then there's three core capabilities that we offer.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There's the speech-to-text capability.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There's the text-to-speech capability.",
+            "timestamp": "00:08:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then the speech-to-speech capability.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "The speech-to-speech capability kind of ties together the speech-to-text and text-to-speech.",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And I'm going to go into each of those in detail.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But one thing to note here is that what makes us unique is that we have the ability to customize models and really fine-tune them to specific customer industries and use cases.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we have models for like healthcare, banking, telco, insurance, and so on.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then we're also building customizing models for our customers.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So basically, we can take the customer's data, their proprietary data based on their audio environment, and then we can kind of build them a custom model.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So oftentimes, customers, they start with a base model, and then they move on to a custom model.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And our models can adapt over time.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "To be more fine-tuned according to the customer's data.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And I'm going to go into the differentiation on each of these and kind of explain what it is.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We also offer audio intelligence.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this is sort of taking a transcript and getting some important information or gleaning some important information about it.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So sort of summarizing what's being said, analyzing the sentiment of what's being said.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is for the QA and customer support and customer satisfaction and so on.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Recognizing intent.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We can also do things like detecting if there's certain topics are being said.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We also have this enterprise runtime, which basically, this is also a big differentiator, where we can adapt our models over time, which is something I mentioned.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We can use synthetic data to complement real-world data to also make our models more accurate over time.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We can curate data sources, and we can also do things like hot swapping models without affecting latency and stuff like that.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then we also have sort of the developer toolset that's on top of our whole platform.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So developers can basically leverage our APIs, use our SDKs.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We have sort of this PLG Playground Experience and then also Start Our App so that they can get started.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But our core products are APIs, and that's something that's very important to understand.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we have a speech-to-text API, text-to-speech API, and for speech-to-speech, we have this sort of unified voice agent API.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Another important piece of differentiation is we have flexible deployment.",
+            "timestamp": "00:10:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we can do things like host models on our customer's infrastructure.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So for like healthcare, you think about regulatory and compliance reasons they want to not share data in the cloud.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We can self-host the models.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We also offer cloud APIs for a hosted solution.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We also offer a dedicated single-tenant instance as well.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then on the right-hand side, these are a couple of the very common use cases that people would use a voice-to-date platform.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So I mentioned Realtime Agent Assist.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There's IVR modernization, thinking about those.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I like to see phone tree experiences and moving to sort of a more natural experience, medical transcription, risk management, multilingual workflows, media production, call analysis is another one too.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Security is another important feature as well.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So again, for a lot of these regulated industries like finance and healthcare, we have certifications that basically assure our customers that their data is going to be secure and compliant.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And we offer the APIs, but we leverage our partnerships with a lot of different contact center partners or even technology partners to build out a full application.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So a lot of our partners, they have a conversational AI solution that embeds our APIs.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And this is how we offer a sort of a turnkey solution to some bigger name enterprises and customers who want something more turnkey.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Any questions there on this side before I get into the rest?",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Can you talk about just click on that turnkey?",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Solution versus like trying to build it themselves.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like how many enterprise customers choose that turnkey versus build with you guys?",
+            "timestamp": "00:12:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So if you think about it, the majority of our customer base is actually what we call tech ISV.",
+            "timestamp": "00:12:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So they're basically voice AI.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They're offering a voice AI product and they have a developer teams that basically embed or use our APIs directly into a product and then sell that product to other.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They then sell the product to enterprise customers.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's the majority, I'd say 90% of our revenue and our customer base is sort of tech ISVs.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We are slowly growing our customer base across enterprise and they're the ones who like oftentimes they're like they want more control.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They want to build a solution that integrates with their enterprise systems, but they don't necessarily want to.",
+            "timestamp": "00:12:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You know, because it's such a big, it's a big integrated solution.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They want.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "On a leverage, they want something a little bit more turnkey in the sense that it's not so much turnkey, but they want to use a partner to integrate with all their various systems, if that makes sense, versus just take our APIs and build from scratch.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And you guys have development partners for those that do want to build from scratch or that may need customization with...",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, we're developing relations with the Deloitte's of the world and stuff like that.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Basically, the ones who have tech consulting and implementation resources to be able to do those types of solutions.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But a lot of the times, as well, these contact center partners, they already have relationships with the enterprise.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So the enterprises, they are working directly with them.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So they'll bring us leads and say, OK, we need speech-to-text and text-to-speech capabilities.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So let's work together to build a solution for the enterprise.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So let me...",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let's dive into this a little bit.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So I mentioned this about enterprise use cases.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So what does that mean as far as requirements go?",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "A lot of these are the things that you would think an enterprise is important.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "These are requirements or capabilities that are important to an enterprise, right?",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "No surprises here with a lot of stuff.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They're thinking of not just a point solution, but they want to be able to basically scale as they're growing and stuff.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So they care about very, very much care about accuracy because they're oftentimes doing this for mission critical applications.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They care about low latency, high throughput, being able to scale, cost efficiency is important as well.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Security is paramount, flexible deployment, high uptime, reliability.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They want it to be adaptable and then debuggable as well.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So these are what I would say.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And when you think about like an entertainment or like a creative use case or someone who's like using speech for like subtitles.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Or like a movie or something or like some kind of video.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "For that, it's like, you know, accuracy and low latency, that's not as table stakes for like subtitles for like a video, right?",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "When you think about it.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then things like costs, like if you're building a voice text to speech type output or something for like a creative, like a voiceover for like a movie or a podcast or something like that, you care about more production, like as in production quality and how expressive the voice is versus like, like how much like, like costs at scale.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this is just sort of an example of what we mean by enterprise use cases.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So I have 15 minutes left.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I'm going to try to spend five minutes on each of these sections.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So speech to text.",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let me jump into speech to text here a little bit.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we have basically this model family for speech to text.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We have sort of these base models, which is our Nova model family.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "No, but.",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Nova and Nova 3 are our sort of like core models that our customers use.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Nova 2 is sort of like our, I wouldn't call it legacy, but it's sort of like our baseline products.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Nova 3 is more of a premium product.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We are sort of upselling now and moving everyone over to Nova 3, but there are some use cases and some places where Nova 2 works perfectly fine for our customers, and we'll let them do that.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But I put in here what each of these are for.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So Nova 2 is like a base model.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If this is for like simpler environments where there's not as much noise, not as much importance, if right now Nova 2 has the majority of our language models, that's going to change over time with Nova 3 expanding to have more language models.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But if they want a monolingual solution for like a specific language right now that we support like 35 languages for Nova 2, they pick Nova 2.",
+            "timestamp": "00:16:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But that's going to change over time as well.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Nova 3 is what...",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We kind of default to selling.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's sort of our advanced speech-to-text model.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's sort of high performance.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's for more of these challenging audio environments where there's cross-talk between speakers.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There's like, you think about in a call center, you hear lots of different voices or it's noisy.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It does a real good job of selective listening and cutting out the noise and offering higher accuracy in those environments.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It also offers real-time multilingual.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So in like a situation where there are speakers speaking multiple languages, so you can context switch between the two, there's that.",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then we have the industry-tuned and custom model.",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So I kind of, if you look at this chart, the further you go to the right and up, the more accurate it gets.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And to the right, it's more customized.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So then we have industry-tuned models, like I mentioned, for, you know, we have a healthcare model, medical model.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We have a FSI model, stuff like that.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then custom model is more rare.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So there it goes.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Other custom rare.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They're have",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We tried to cover it with Nova 3, but if the customer's audio environment is just very unique or whatever, we then go towards the custom model.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But these two things, industry-tuned and custom models, those are capabilities that our competitors really don't have.",
+            "timestamp": "00:18:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Amazon and a couple of speechmatics, they do have some industry-tuned models, but they're not as focused on customization as we are.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We actually host thousands of custom models for our customers, some of them switching between the different models for different use cases and stuff like that.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So Nova 3, real quick, I'm going to skip over this side because I'll go over these things.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So I kind of mentioned this, it's like designed for noisy environments, air traffic control, drive-thrus, call centers, et cetera.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We compete very favorably on sort of benchmarks in these types of scenarios.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You can kind of see a couple of the competitors here, Azure, AWS, Assembly.",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Glee is another one that's more speech-to-text focused.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So the big cloud providers provide voice models, and then you have some more point players like Rev.ai and assembly and stuff like that.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Recognize long-tail industry-specific terminology, enhanced numerical recognition.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Again, really important for order IDs or prescription IDs or stuff like that.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Think about how important that is for a customer support scenario.",
+            "timestamp": "00:19:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You can also do things like real-time redaction.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So like if you have PII in your transcript, you want to redact that and protect that sensitive information, we offer that capability as well.",
+            "timestamp": "00:19:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Flexible self-service customization, this is also something unique to us.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Nobody else offers this, is the idea that you can do optimization on certain key terms at runtime.",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So you can supply those in your API calls and up to 100 terms.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let's say it's like your product catalog or your company's jargon and stuff like that.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You can supply that.",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "On time without having to retrain the model.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this is something that's sort of a premium feature that boosts keyword accuracy even more for customers.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Real-time multilingual, I mentioned this about like if there is multiple speakers of multiple languages, think of like a 911 response call or something like that, and someone's going between English and Spanish or something like that.",
+            "timestamp": "00:20:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We offer this sort of real-time support for that context switching.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is also an industry first.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And another thing I would say about number three is that Batch is sort of somewhat of a solved problem for speech-to-text.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's really this sort of real-time speech-to-text where the real innovation is going on.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And that's where our stuff really shines.",
+            "timestamp": "00:20:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If you look at third-party benchmarks, we offer sort of the lowest latency for this sort of streaming speech-to-text.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's a key differentiator as well.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is something new.",
+            "timestamp": "00:20:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We just launched expanded language options as far as like monolingual.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "that's So So So key key differentiator.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So So key differentiator.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Models.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So these European languages are the first set that we just announced, and we're going to be doing more of this throughout the end of the year to support sort of our best-in-class model to support these additional languages.",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And for each of these additional languages, you'll also be able to have key term prompting, so being able to supply terms within those languages to customize it on the fly.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Any questions on speech-to-text?",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Nope.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Next is text-to-speech.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So I'm going to skip over this.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That's an overview slide.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So text-to-speech.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is an interesting one because the big elephant in the room on text-to-speech is Levin Labs.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They are like a dominant player for text-to-speech.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If you do any kind of search on text-to-speech or text-to-speech APIs, they're the first ones that pop up.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They have a lot of funding.",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They do a fantastic job of marketing.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And even when you look at like their SEO and GEO, they show up and they do a great job of content.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's something to really think about within growthx as you're thinking of different ideas is how, I mean, I look at them, even like borrowing ideas from them on what to do.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's something I'd point out.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Where we kind of differentiate with them, again, they are focused on creative.",
+            "timestamp": "00:22:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So if you think about like, if you look at their YouTube channel, for example, it's all about like, how do you use AI voices for video generation and stuff like that, or like, they'll sponsor like the Lex Friedman podcast.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's really, and their messaging is on their webpage is very much focused on creators and stuff like that.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So if you think about creators, it's usually production studios, media entertainment and stuff like that.",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But it's also one-off, one-off developers or one-off users who are building stuff for their own podcast or stuff like that.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Where we kind of differentiate with them.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Again, they have this sort of voice actor style of voices, which is really good for those creative type things.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But that doesn't.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's not that companies don't care about that, but it's not that companies will get dissuaded from using them because of it.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's just that they don't really care as much.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They care more about this sort of natural professional tone for, let's say, a voice agent, for a customer support agent or something like that.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Being too theatrical is actually not what they're looking for.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And that's something anecdotally that we've heard from our customers.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "The key thing with us, we avoid this sort of voice actor style.",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We do a really good job on pausing and pasting around key details like phone numbers, addresses, stuff like that.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We can adjust tone and expression to match sort of these enterprise scenarios.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then in user preferences, we did some testing.",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If you think about customer support use cases, we actually perform quite well against them.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So in the blinded evaluations for these sort of customer service scenarios, the users actually prefer our...",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But if you actually go to the creative scenarios, they prefer 11 labs over us.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We have over 40 voices.",
+            "timestamp": "00:24:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We offer localized accents, multilingual supports coming in Q4 to match with Nova 3 support.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We offer distinct voice profiles, sort of like empathetic, charismatic, etc.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we have, I mean, they beat us on the number of voices.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But again, it's like, how much do enterprises really care?",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We don't know yet.",
+            "timestamp": "00:24:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is where we really shine, is domain-specific accuracy.",
+            "timestamp": "00:24:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And I'll point out some examples.",
+            "timestamp": "00:24:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "handling terms.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is where having really good data sets and speech-to-text actually benefits us on the text-to-speech side.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Because we train our models on these sort of hard terms.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And if you think about 11 Labs, they're going to train their stuff on podcast data, YouTube data, and stuff like that, where people are talking about whatever.",
+            "timestamp": "00:24:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They're not going to train their data on, like, phone calls for, you know, medical...",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "they're to train their on, phone",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Customer Service or something like that.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So whereas we do train our data on that.",
+            "timestamp": "00:25:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:25:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then we're also really good on cost and real-time performance.",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So Eleven Labs, they, again, if you think about creatives, they care more about production quality for, like, a one-off project, not for, like, thousands of concurrent, like, customer service calls.",
+            "timestamp": "00:25:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So that's why, again, like, and they position themselves to be superior for those types of scenarios.",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We also do really well on the real-time performance, too.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Just real quick, I'm going to, let me see if this is going to play.",
+            "timestamp": "00:25:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this is just an example of, like, you have formatted entities and how we compare with Eleven Labs and some of these other players.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So.",
+            "timestamp": "00:25:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Finished by 3 p.m.",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If you can hear this, Eleven Labs.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Finished by 300 p.m.",
+            "timestamp": "00:25:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So they don't train their, they don't train their models as much on this sort of, like, formatted, like, text or whatever.",
+            "timestamp": "00:25:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let me show.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So another example, 608, Birch Terrace, Fairview, Florida, 32067.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then Google is the same.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "608, Birch Terrace, Freewell, Fairview.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Oh, I moved on before I could finish.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, I experience that with Google Maps all the time.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, fair enough.",
+            "timestamp": "00:26:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Any questions on text-to-speech?",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Nope.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay, speech-to-speech.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So we have basically a voice agent API, and I'll of explain what this is.",
+            "timestamp": "00:26:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So you would think it's like, okay, to build a voice agent, you have three main components.",
+            "timestamp": "00:26:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You have speech-to-text on the front end.",
+            "timestamp": "00:26:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You have an LLM in the middle that kind of takes the transcript and then thinks about the response, and then it spits out, it gives that response to a text-to-speech model, and then you hear the response.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So you would think that's the sort of model, this sort of like pipeline that comes in, and that's all you need.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But in reality, that's not all you need.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "don't",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "A lot of orchestration that goes on around all that.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "A lot of developers, they think they're just going to do DIY and just kind of hook everything up together and it's all going to work out.",
+            "timestamp": "00:27:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But that's really not how it works.",
+            "timestamp": "00:27:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You have to manage things like taking turns, manage things like interruptions.",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You have to build sort of this conversational logic.",
+            "timestamp": "00:27:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "What if you want the LLM to do a lookup on some kind of function or look up some data from some other data source and then respond?",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So there's a lot that goes into this.",
+            "timestamp": "00:27:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This green box sort of represents sort of where our voice agent API lives.",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So if you think about the user, they're going to usually call it, use some kind of telephony system like a Twilio or something like that, that handles sort of the call logic.",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Then they're going to pass the audio data to us, which is our Nova 3 speech-to-text model.",
+            "timestamp": "00:27:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We have sort of this end-of-thought voice activity detection as a part of that.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Again, this is not unique to us.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Any kind of voice pipeline is going to have some of this stuff.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Like a turn-taking model, end of thought, detecting end of thought, detecting if a user stops speaking.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If the user stops speaking, or sorry, if it's constantly listening, so let's say we're spitting back out a response, it's constantly listening.",
+            "timestamp": "00:28:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If it hears the user start speaking, it has to basically pause the voice and say, okay, we need to start listening now.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this sort of like voice activity detection, if it detects an interruption, it'll then tell our text-to-speech to basically pause or stop the response.",
+            "timestamp": "00:28:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But you take the text, you take the audio, you produce a transcript from it, and then from there, then you have to start like working with the LLM to actually think about what it is that the user is asking for.",
+            "timestamp": "00:28:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "There are things like establishing context, configuration, conversation history, because with each turn, you want to remember what was happening with the previous response.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Then you basically pass all that information to an LLM.",
+            "timestamp": "00:28:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It's going to do some processing.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Maybe it's going to require looking at RAG, looking at proprietary data, and then finally spitting back out a response.",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But there's all these other features as well.",
+            "timestamp": "00:29:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "How do you update the system mid-conversation?",
+            "timestamp": "00:29:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "How do you update the prompt?",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let's say based on the transcript, you want it to be a different type of agent.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "How do you update that?",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then this thing called function calling.",
+            "timestamp": "00:29:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This is where you do lookups to external systems.",
+            "timestamp": "00:29:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let's say you want to look up the weather, or you want to look up some kind of knowledge retrieval or something like that.",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You do something called function calling.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Again, all this stuff is very complicated to kind of code together.",
+            "timestamp": "00:29:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And when you think about it, if you have all of this separate, it adds latency between each hop or each step in the process.",
+            "timestamp": "00:29:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this is where having us take care of all that in sort of the single unified interface.",
+            "timestamp": "00:29:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It simplifies the developer experience.",
+            "timestamp": "00:29:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It optimizes latency.",
+            "timestamp": "00:29:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It does a lot of things.",
+            "timestamp": "00:29:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Anyways, Vappy also offers this.",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Vappy Vappy",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Sort of like idea, right?",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But the key difference between us and them, they don't own the models, whereas we do.",
+            "timestamp": "00:30:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So you can, so with them, you sort of plug and play different models, but that sort of doesn't optimize the latency the way that we can optimize latency.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Hopefully that makes sense.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We're also cost effective on this.",
+            "timestamp": "00:30:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Vappy is also a partner of ours, by the way.",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We, like, actually try to, like, make sure our models get featured in their platform.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So they also offer our speech-to-text, -to-speech.",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "One of the things with us is we offer a single bundled pricing.",
+            "timestamp": "00:30:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We don't do any kind of pass-throughs on costs, unless you do bring your own TTS, which we also offer as well.",
+            "timestamp": "00:30:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But with a Vappy, with 11labs, 11labs passes through the LLM costs.",
+            "timestamp": "00:30:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "OpenAI is horrible.",
+            "timestamp": "00:30:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Their pricing model is very confusing.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It grows with the context window.",
+            "timestamp": "00:30:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So, but we offer this sort of single pricing.",
+            "timestamp": "00:30:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "No, what you, what you see is.",
+            "timestamp": "00:30:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But you get with the pricing.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Let me quickly get through the other slides.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So this is a couple of other things you have to consider as well and features that we offer.",
+            "timestamp": "00:31:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We offer this sort of turn-taking and the thought, margin handling.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "You can update the prompt or even the voice if you want to switch voices in the middle of conversations, and you can do this sort of function calling.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "All of this is built in, so as a developer, you don't have to custom code all this stuff together.",
+            "timestamp": "00:31:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then we also, and in terms of how to, like, you have to have voice-specific APIs.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We created this benchmark called VACI that measures the things that are important to voice agents.",
+            "timestamp": "00:31:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So latency is obviously an important one.",
+            "timestamp": "00:31:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But one of the important things is, like, you don't want your agent to interrupt you to, like, in.",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If you use a filler word, like, um, or ah, or as you're thinking or as you're looking up your order ID, you don't want the agent to think you're done talking.",
+            "timestamp": "00:31:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So you don't want them to falsely interrupt you.",
+            "timestamp": "00:31:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "At the same time, you don't want them to wait too long before they start speaking.",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Otherwise they...",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Like, breaks the illusion that you're talking to a natural voice agent.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So these are the things that we measure.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And let's see.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Key point of differentiation, lot of, LimeLabs doesn't offer this.",
+            "timestamp": "00:32:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "A lot of people, especially the cloud providers, don't offer this.",
+            "timestamp": "00:32:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But we offer cloud, we offer self-host, we offer dedicated options.",
+            "timestamp": "00:32:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Dedicated option combines the sort of, like, the benefits of both cloud as far as, like, us managing everything for you with the sort of privacy and performance of, like, an on-prem solution.",
+            "timestamp": "00:32:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Again, something very unique to us that nobody else offers.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And, yeah, that's where all three APIs have those hosting solutions.",
+            "timestamp": "00:32:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That's right.",
+            "timestamp": "00:32:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That's right.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And that's it.",
+            "timestamp": "00:32:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We have this sort of playground experience so people can, we have a developer experience where people can try it out in our playground and for free, self-service, try all the different models, play around the voice agents, stuff like that.",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "They can get started very easily.",
+            "timestamp": "00:32:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And we offer those starter kits, SDKs, and all.",
+            "timestamp": "00:32:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Thank Thank Thank",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That stuff to make, streamline the developer experience.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So I'll pause there.",
+            "timestamp": "00:33:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I know I went over by three minutes, but it was just a lot.",
+            "timestamp": "00:33:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:33:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I believe in the kickoff call you mentioned, or somebody mentioned, like 90% of current revenue is driven by speech-to-text.",
+            "timestamp": "00:33:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is that?",
+            "timestamp": "00:33:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That's right.",
+            "timestamp": "00:33:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:33:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That's right.",
+            "timestamp": "00:33:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I'll just give you a quick timeline here.",
+            "timestamp": "00:33:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We launched our text-to-speech.",
+            "timestamp": "00:33:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We launched a text-to-speech, the first version of our Aura model, which was Aura 1.",
+            "timestamp": "00:33:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We actually launched that last year, but it was not very good.",
+            "timestamp": "00:33:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So nobody used it at all.",
+            "timestamp": "00:33:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We launched Aura 2, which is competitive with some of the other players out there, in April, April 15th.",
+            "timestamp": "00:33:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We have started to get deals there, but still, it's like, that's just a new business that's growing.",
+            "timestamp": "00:33:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then our voice agent API, we just launched that in June for in-production use cases.",
+            "timestamp": "00:33:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So those are two just very new use cases.",
+            "timestamp": "00:33:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We've started to get more deals on them.",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That's like all of our content, most of our content and stuff is around speech-to-text.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:34:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:34:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I assume our kind of content going forward outside of like looking at 11 Labs for kind of ideas, inspiration, et cetera.",
+            "timestamp": "00:34:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You guys want a more holistic kind of voice AI approach so that text-to-speech, speech-to-text, voice API, well-rounded.",
+            "timestamp": "00:34:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, for sure.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Key, like voice agents are a very hot topic right now.",
+            "timestamp": "00:34:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So there's lots of content and stuff being a producer on that.",
+            "timestamp": "00:34:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And I think the benefit of voice agents is like it's inclusive of speech-to-text and text-to-speech.",
+            "timestamp": "00:34:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Whenever you talk about voice agents, you have to talk about the other products.",
+            "timestamp": "00:34:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So kind of leading with that, that's important.",
+            "timestamp": "00:34:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But at the same time, each text-to-speech has its own unique topics and stuff like that.",
+            "timestamp": "00:34:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And so does speech-to-text.",
+            "timestamp": "00:34:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:34:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "just saw.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, they just made an announcement on there.",
+            "timestamp": "00:35:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, they're one of the main competitors for us on all three, really.",
+            "timestamp": "00:35:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But yeah, VoiceAgent API, they're very similar to us.",
+            "timestamp": "00:35:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "But you guys beat them on price on every API.",
+            "timestamp": "00:35:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:35:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Well, I don't know so much about the other API.",
+            "timestamp": "00:35:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I like speech-to-text and text-to-speech, but definitely on the VoiceAgent API.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If you look at our VoiceAgent blog, there's a deep dive section on pricing, where we actually reference a third-party blog that talks about their pricing model and how convoluted it is and how it can get out of hand, especially when you add, like, you think about, like, a customer support call that, like, grows in context and, like, a long call.",
+            "timestamp": "00:35:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "It gets completely out of hand.",
+            "timestamp": "00:35:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And every single time...",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Every every single time, you're having to analyze the full context history, and that's how the rising gets out of hand.",
+            "timestamp": "00:36:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I was looking at it yesterday.",
+            "timestamp": "00:36:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "They do it by token limit, not by hour.",
+            "timestamp": "00:36:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so it's just like, okay, well, it's the translation between tokens and how long the call is going to be.",
+            "timestamp": "00:36:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So developers can't, they don't really know how to predict how much it's going to cost because it is token.",
+            "timestamp": "00:36:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And then it's like tokens, like audio tokens are different than text tokens, right?",
+            "timestamp": "00:36:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "How do you measure an audio token?",
+            "timestamp": "00:36:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That's not clear.",
+            "timestamp": "00:36:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That's not clearly documented anywhere.",
+            "timestamp": "00:36:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So if you look at their forums and stuff like that, there's a lot of people like complain about their cost models and stuff.",
+            "timestamp": "00:36:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That's awesome.",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, this is super efficient to make it through all that content.",
+            "timestamp": "00:36:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Anything else that we didn't talk about that you guys want to just mention as part of kind of the ongoing content strategy?",
+            "timestamp": "00:36:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Anything we didn't touch on today?",
+            "timestamp": "00:36:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I think Pippin, she...",
+            "timestamp": "00:36:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "She shared our sales enablement Notion database.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So there's lots of good content in there.",
+            "timestamp": "00:37:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "This deck will be in there, but there's like battle cards and other like sort of internal resources.",
+            "timestamp": "00:37:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Some things you might want to look into from that as a resource.",
+            "timestamp": "00:37:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "And I'll try to add, continue to add more stuff.",
+            "timestamp": "00:37:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I had like, there's a doc that I've been working on, on like programmatic SEO ideas on like, that's something I'd probably want to share with you guys as well.",
+            "timestamp": "00:37:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Just, just, just to feed, feed the ideas.",
+            "timestamp": "00:37:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And yeah, thanks for mentioning that database.",
+            "timestamp": "00:37:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I'm able to access the Dropbox files, but not the Google Doc files.",
+            "timestamp": "00:37:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Ah, yes.",
+            "timestamp": "00:37:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "So some of those will need to be shareable with you guys.",
+            "timestamp": "00:37:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Um, I will see what the best solution is for that, because.",
+            "timestamp": "00:37:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Because.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, I don't want to add our team to, like, requests for every doc.",
+            "timestamp": "00:38:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That would get unruly.",
+            "timestamp": "00:38:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, yeah, that would get unruly.",
+            "timestamp": "00:38:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "We should, maybe that's something we, if there's a one-off or something, we could certainly share with your team.",
+            "timestamp": "00:38:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Or if there's a way to, like, add, instead of making public to anyone, just, like, share with specific people on your team.",
+            "timestamp": "00:38:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "That might be good.",
+            "timestamp": "00:38:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If there's, like, certain docs you want to share.",
+            "timestamp": "00:38:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "I don't know, Pippin, if you have any ideas here.",
+            "timestamp": "00:38:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Pippin Bongiovanni",
+                "matched_calendar_invitee_email": "pippin.bongiovanni@deepgram.com"
+            },
+            "text": "Yeah, think it's a case-by-case thing, because doc permissions are a little bit unruly at the moment.",
+            "timestamp": "00:38:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I'll take a look, and maybe we'll just point out a couple, if we can just get, like, a PDF version of those.",
+            "timestamp": "00:38:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That'd be wonderful.",
+            "timestamp": "00:38:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, if they just...",
+            "timestamp": "00:38:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think this deck specifically would be great.",
+            "timestamp": "00:38:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Yeah, yeah, for sure.",
+            "timestamp": "00:38:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "If there's some high-priority items, just slack it to us, and we can spit out a PDF version or something.",
+            "timestamp": "00:38:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Okay, wonderful.",
+            "timestamp": "00:38:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:38:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasan Jilani",
+                "matched_calendar_invitee_email": "hasan.jilani@deepgram.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:39:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, appreciate the time and the walkthrough.",
+            "timestamp": "00:39:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's super helpful, super in-depth.",
+            "timestamp": "00:39:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we will chat with you guys on Wednesday.",
+            "timestamp": "00:39:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Have a great holiday weekend.",
+            "timestamp": "00:39:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:39:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:39:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thanks so much, Erik.",
+            "timestamp": "00:39:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you, Bye-bye.",
+            "timestamp": "00:39:15"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into Deepgram's product offerings and capabilities for voice AI solutions](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Deepgram offers a comprehensive enterprise-ready voice AI platform with three core capabilities: speech-to-text, text-to-speech, and speech-to-speech](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=437.0)\n  - [Their key differentiators include customizable models, industry-tuned solutions, and flexible deployment options (cloud, on-prem, dedicated)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=447.0)\n  - [90% of current revenue is from speech-to-text, with text-to-speech and voice agent API being newer offerings launched in 2023](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=729.0)\n  - [Deepgram aims to compete on accuracy, latency, scalability, and cost-effectiveness for enterprise use cases](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=717.0)\n\n## Topics\n\n### Company Overview\n\n  - [Deepgram is a foundational AI company focused on building voice models for voice AI](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=102.0)\n  - [Research and engineering-led approach, productizing advanced models for enterprise use](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=131.0)\n  - [Targeting untapped potential of voice data in enterprises (customer calls, sales calls, meetings)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=163.0)\n\n### Speech-to-Text Capabilities\n\n  - [Nova model family: Nova 2 (base model) and Nova 3 (premium, advanced model)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=948.0)\n  - [Nova 3 key features:](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=948.0)\n      - [Designed for noisy environments (e.g., call centers, drive-thrus)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1122.0)\n      - [Enhanced numerical and industry-specific terminology recognition](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1154.0)\n      - [Real-time multilingual support and PII redaction](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1043.0)\n      - [Flexible self-service customization (100 terms at runtime)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1178.0)\n  - [Industry-tuned and custom models available (e.g., healthcare, FSI)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=517.0)\n  - [Expanding language support for Nova 3 (European languages added)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1255.0)\n\n### Text-to-Speech Capabilities\n\n  - [Competing with Eleven Labs, but focused on enterprise use cases rather than creative](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1335.0)\n  - [40+ voices with localized accents and distinct voice profiles](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1447.0)\n  - [Strengths in domain-specific accuracy, handling formatted terms](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1413.0)\n  - [Cost-effective for high-volume, real-time enterprise scenarios](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1507.0)\n  - [Multilingual support coming in Q4 2023](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1456.0)\n\n### Speech-to-Speech (Voice Agent API)\n\n  - [Unified API handling speech-to-text, LLM integration, and text-to-speech](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1588.0)\n  - [Manages complex orchestration (turn-taking, interruptions, conversation logic)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1632.0)\n  - [Features include prompt updating, voice switching, and function calling](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1753.0)\n  - [Offers cloud, self-hosted, and dedicated deployment options](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1934.0)\n  - [Launched for production use cases in June 2023](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1588.0)\n\n### Enterprise Focus\n\n  - [Tailored for mission-critical applications requiring high accuracy, low latency, scalability](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=851.0)\n  - [Security and compliance certifications for regulated industries](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=675.0)\n  - [Flexible deployment options (cloud, on-prem, dedicated instance)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=629.0)\n  - [Partnerships with contact center and technology partners for turnkey solutions](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=713.0)\n\n### Market Positioning\n\n  - [90% of current revenue from speech-to-text solutions](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=729.0)\n  - [Competing with cloud providers (AWS, Azure) and specialized players (Assembly AI, Rev.ai)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1135.0)\n  - [Differentiation through customization, industry-tuned models, and enterprise-focused features](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=1089.0)\n\n## Next Steps\n\n  - [Erik to review Deepgram's sales enablement Notion database for additional resources](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=2259.0)\n  - [Hasan to share document on programmatic SEO ideas](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=2241.0)\n  - [Team to address Google Doc access issues for Erik (case-by-case basis or PDF versions)](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=2263.0)\n  - [Follow-up meeting scheduled for Wednesday to continue strategy discussions](https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9?tab=summary&timestamp=2347.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Slack Hasan/Pippin list of high-priority Google Docs to be converted to PDF, including presentation deck\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:38:24",
+            "recording_playback_url": "https://fathom.video/calls/394515051?timestamp=2304.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Convert requested high-priority Google Docs to PDF, send to Erik; include presentation deck shown in meeting\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:38:37",
+            "recording_playback_url": "https://fathom.video/calls/394515051?timestamp=2317.9999",
+            "assignee": {
+                "name": "Hasan Jilani",
+                "email": "hasan.jilani@deepgram.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Hasan Jilani",
+            "email": "hasan.jilani@deepgram.com",
+            "email_domain": "deepgram.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Hasan Jilani"
+        },
+        {
+            "name": "Pippin Bongiovanni",
+            "email": "pippin.bongiovanni@deepgram.com",
+            "email_domain": "deepgram.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Pippin Bongiovanni"
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/_GC4U3BbzonuMEWh2FsMDz3iyTcQbxz9",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

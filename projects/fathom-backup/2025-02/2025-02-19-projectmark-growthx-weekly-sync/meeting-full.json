@@ -1,0 +1,3100 @@
+{
+    "title": "Projectmark <> GrowthX Weekly Sync",
+    "meeting_title": "Projectmark <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/235631189",
+    "created_at": "2025-02-19T18:34:39Z",
+    "scheduled_start_time": "2025-02-19T18:00:00Z",
+    "scheduled_end_time": "2025-02-19T18:30:00Z",
+    "recording_id": 48017348,
+    "recording_start_time": "2025-02-19T18:02:02Z",
+    "recording_end_time": "2025-02-19T18:34:21Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "What I notice is when I'm publishing the articles, if there is a backlink within the article to another one of our articles that's not published, that article there was not published, it's getting published automatically.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, I just realized that because between yesterday and today, I was going through the backlog and, you know, publishing a bunch of articles.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And when I went back to it, a lot of the articles that were published before were getting published.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And I even asked Tom if he had gone in and published any of the articles because since our developer is on vacation, I figured the only ones that would have asked would be Tom, myself, him, and you, but I talked to you about it last week and you weren't doing the publishing, so I asked Tom and he said that he wasn't doing any publishing because",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "he didn't even access it.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So today I was going over it, and I started noticing that a lot of the articles were getting published, you know, articles that we did in the group were getting published.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And the only difference has been that I've been publishing a lot more articles.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So the articles that are that didn't get published and they're getting back linked into a published article, that unpublished article is getting published.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So let me get it.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So the articles that have the links to the articles that are not supposed to be published, those articles are getting published.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, the articles that were not supposed to get published, they're getting published.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's strange because I'm not sure how is it possible that the because the way the workflow works when it generates our links, we scrape the site map XML, your website's.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "XML where all the links are stored, obviously, but for all the links to be stored in the side of XML, they have to be published logically, right?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Because that's where we get internal links from, essentially, for other articles.",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "We can't add them any other way.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So it's strange to me that that does seem like a bug.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It's strange to me that those links to the unpublished articles are there in the first place.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "This is quite weird.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, I mean, that's the only thing I can see, because some of the authors that weren't published, for some reason they came up as published today, like a bunch of them as published today.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "lot of them I've been publishing, but there were quite a few of them that were not supposed to have been published then.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So what I've been doing is",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I just realized it's probably about 20 minutes ago, half hour ago and what I'm doing is I'm going through, I'm going to have to go through the entire web flow and see why that's happened.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay, yeah, we'll do an investigation on our friends, although this is very new to me, I've never seen an issue like this before, what is happening, so we can run our own.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'm going to say same here, I've never seen this.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I've never seen this happen before.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Very weird.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I mean, I'm assuming that that's the reason because that's the only thing that's changed here, especially in the last couple of weeks.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And other than that, I mean, nothing's changed.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And there's been no updates to a website, for example, because our designer, he's on vacation, he's talking back until next week.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So I don't know, I'll even ask internally if anybody has access to Webflow and is doing any updates to a website to see if that's been affecting it, but who would have to take a look at it.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I'll look at it on my head.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "If you could please look at it on your rent, see if anybody has seen this before, because now I'm going to be through each one of them, one why you want to see what's been published.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And the other thing too is if one of these articles that were mistakenly published, if there's another article back in the into them, you can't publish it.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "What you have to do is you have to archive it.",
+            "timestamp": "00:04:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Oh, wow.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Really?",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And then you archive it.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "problem is once you archive it, that article that was backing me.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I was back into the archive article.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "The back link is still there.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "If you click on it, you're going to take it to a 404 page.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Oh, wow.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, that is an issue.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Have you noticed maybe on how many articles has this happened to these links?",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Or at least which ones, most recent ones, Yeah, there's quite a bunch of them.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "OK, I've only been doing this for the past 10, 15 minutes.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "All the ones that are archived, that the status is archived.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "OK.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "ones, those ones were not supposed to be published, and they were published.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Ah, I see.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Those are mostly on the second page of Serma Helps of Management Planning, Factors, Influence, Custom Construction, yeah.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So I see two archived.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Here I have one, two, five, six, so far.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "other ones, some of them I was able to just put them back as draft, but what I'm going to do is all of the articles that we don't want published, I'm just going to go ahead and archive them for now.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "To see until we can try to figure out what's going on, and after that I'll come back to it.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I can do as you archive, so you can just let me know when you finished archiving all those articles that you don't want to be published.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Once you do that, I can go into every article manually in the back end, and that we so far are pushed into drafts and check all the links, you know, I call the link whether they're pointing to those archived articles or not anymore, just so we don't have any four or fours, you know.",
+            "timestamp": "00:06:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It's going to be a lot of manual labor, but it's the only way I can think of actually.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "There's no way.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'm going to start, I'm going to start doing that myself as well, because there's a here.",
+            "timestamp": "00:07:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I'm going by some of the ones that are in the draft status right now.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I'm going to archive them just to be safe.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And then go through it a function comb and see exactly what happened.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So for example, I just archived a bunch more that I know off the top of my head that it did not supposed to be published or not supposed to be published yet before we do a review.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "But I'm going to have a couple of other things that I've got to do today.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I got to finish up a project case, a client case urgently.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "After that, I'll go back.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I'll try to get back to you, Liz.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay, fine, fine.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay, we coordinate that.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "we archive, know, what is archived, and then I'll go through all the articles that are published on drafts.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I see that you just archived a bunch of most recent articles are, do you do that?",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "they not be published at all, like topics, or is it just not the right time?",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It's just because we haven't gone through them yet.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Just because of that.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, sure, sure.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'll go through them first, because I think those, you know, these, these articles are obviously the most recent ones we generated.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And also, there's a bunch of those that we added images to.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So there's like 30, let me see here in the agenda.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "30 articles.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, 32 in the back.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "The choice is like, yeah, 32 actually, exactly ready to go live.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But obviously,",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "enough for it to go live because of this, but okay, we'll work this around the clock for you, and we'll do that, and then we're going to do the research on why this happens in the first place.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Because again, the way the articles, links are added to the articles is through scraping the side map XML.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's the only way.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It goes through that and sees what links there exists, and they say, okay, I'm going to put this link here with this anchor text, and I'm going to put this link here with that anchor text.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's how it works.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So it's very strange that I'm published articles found their way there.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I know I haven't done any of the publishing, so I can I can vote for that because you told me that not to do that, so I'm not publishing anything.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "just saving everything, everything in drafts.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But yeah, we'll do the research, we'll do the research.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, because what I was going to say is that I thought it was, I don't know it was about because when I started yesterday, when I started going through each one of the articles, I saw there was.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "you know, in that order, I just filtered by the date that it was created.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay, I was going through one by one, but then I started, I was like, Oh, why are they all published?",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "shouldn't all be published.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And the only thing that changed, you know, in between this time was that I started publishing some of the articles that were in the draft.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So I don't know if because of that, because of the the backlinking, if they were automatically getting published, because there were articles that were backlinking too though.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So yeah, I was just trying to think another similar case to this once, but I can't remember exactly what it was just sorry, just trying to brainstorm this situation now after the call.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But yeah, no, this is the first I think for me.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Well, okay, we're going to keep our eyes closed and the future articles will generate.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'm going to keep, you know, double check all the internal links because I thought that's at least, you know, given.",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But obviously it's not so I'm going to keep an eye out on that, making sure that all the right ones are there or that they're not published are not there.",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Which is going to take a lot of manual work, but it's fine until we find a way to automate that as well.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "It's fine.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "It's fine.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, I was also looking through some of the articles and there were quite a few of them that didn't have backlinks in the data.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So if you could check that too, I'm going to send you a list of some of them.",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And yeah, I'm taking a close look at that because there was one of them, don't remember exactly exactly which one it was, that was even saying something to the effects.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Companies that implement CRMs see a 100% increase in revenue.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, so, yeah, there's a bold claim.",
+            "timestamp": "00:12:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Very, very bold claim.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So we've got to look at that and see what's going on.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "If there's a backlink to it to that data, that time we can keep it there.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "But it's not going to take it off because that's a very bold claim.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, no, I'm going to take this very seriously.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "In fact, I'm going to go over all these articles again.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Because what changed recently in our workflows is now we have a next step where we can check, or actually perform a feedback loop or enter some kind of instruction or prompt to the workflow to do stuff, whatever.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "what I guess I should do based on your feedback board.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "the links as well.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "In fact, there is a way to automate that via via this video by I'm taking right now.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I can make a workflow check themselves whether some articles are existing or not and publish or not.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And also what I'm gonna do I'm gonna write a kind of prompt that's really gonna keep those external data in check and I can redo them all and republish them all or re-upload them all into drafts with all those numbers that are now missing.",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "thank you for putting that out.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Thank you for putting that out.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Actually, I'm gonna do that make sure that it's all done by the end of the week for all the articles that we have.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Currently we have interests for you.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So don't worry.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Sound trade.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, awesome.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay, it's good to get the issues out of the way first I think.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And once we start, we really start publishing those articles.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "because I think we haven't actually published some in a while now.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Not in a big batch.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I think we're going to see, we're going to see definitely a big rise in impressions.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "did 23 more clicks over the last week, but obviously we want more.",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But that's because we really haven't done any publishing.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I think there was only like two articles published.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, last week there was only a couple between yesterday and today I published a large batch because I was going through them during the week and then today I just went and published them.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay, then in that case I'm going to check what which ones they are and I'm going to reflect that in the assignments under the published because let me see.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, we have 82 but obviously I changed because some of those are published now.",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So I'm going to reflect that here in the assignments so we know where we are.",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And I see that there were no actually published dates added by Sami.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "before, which is kind of messy, and I want to add that as well, because it's very important to know which of these articles have been published.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So that's also something that needs to be done.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But obviously, the individual looking, individual members for articles are here as well updated.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Something I know you find very important is metadata I have edited or changed meta descriptions and SU titles on another batch of 10 articles now 20 in total have the new and better SU titles, meta descriptions, more actionable with more numbers, like, you know, call to action the kind of urgently formal thing, things in the descriptions and SU titles.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And we're going to see how these perform over time as well.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And obviously, the refreshes are done.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "refreshes have been uploaded to these articles.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I mean, I pulled it back into these articles, and I'm just identifying five more that I'm going to work on.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "and finished by the end of the week as well.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Apparently, just a quick overview of everything else.",
+            "timestamp": "00:16:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Oh, sorry, this is something else.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But yeah, essentially, all the pages have an index.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I've checked that as well.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So that's being done.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, you were talking about issues in Webflow.",
+            "timestamp": "00:16:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So one of the issues I found, which was quite a blocker, I don't know if you experienced it, but I get these constant logging out.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I work in something, and then after a few minutes in the middle of that, I'm just like that for no reason.",
+            "timestamp": "00:16:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, Webflow does that.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, yeah, so that's for you as well.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, it's not just me.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:16:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, that's a bit of a OK, maybe we can't do anything about it, but I just wanted to point that out.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Fine, we work with what we have.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It's fine.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But obviously, also I want to, there's a lot of work to be done, obviously, but for the next week, before the meeting, before Wednesday, I want to present to you another batch of 40 new topics with being very mindful of, no, not technicalities, couple of other things as we agreed.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So, and then we're going to make a clean slate from those topics, and pretty much backlog, I think, backlog, lot of those topics we have here, lodged in the assignments, which I think are pretty technical that are kind of waiting their turn, but I don't think we should, I will reevaluate whether they should be used or not, because like I said, we want to make a clean slate, make the topics more actionable, more top of the funnel, less technical, and I think we can do that with the right research, with the right keyword research, and so that's also coming your way.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "let's say Monday, because I can do this research but in the weekend or the weekend, and then we can go from there as well.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, perfect.",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, I also, I just sent you on Slack the case study space.",
+            "timestamp": "00:18:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "we can use that, you know, to back into any of the articles.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I know there was one of the articles, I can remember off the top of my head, that was referencing, Railco Builders, which is one of our clients that we have a case on.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So if you want to back link to that, that won't be a problem.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Of those cases there, they're not, because those are our old cases.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "We needed case studies.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "They're going to start coming out soon.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "just, one of them, two of them are waiting for approval.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And one of them that I'm going to have to finish writing it as soon as possible.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Because I did a first draft, wasn't happy with it.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So I scrapped the whole thing and started off and scratch again.",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Do you think we can, is there a way we can help with that with writing those case studies?",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I mean, whatever we can do is.",
+            "timestamp": "00:19:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Oh, telemarketers.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "No, no, because they're from conversations that I had with our clients.",
+            "timestamp": "00:19:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So I have my, my note, my fathom note.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So I got to put them together, you know?",
+            "timestamp": "00:19:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Of course, piecing things together.",
+            "timestamp": "00:19:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, it's, it's, it's, your thing.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "But, but definitely, yeah, it's one of, yeah, it's one of those things, you know, people seem to think that content writing sometimes as easy as just typing something on charge.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "If you think we're just true, a lot of things can be done just like that.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "But in cases like this, we're doing a fine case where I interview the client.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, there's no other way to do it than the old school where,",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "you know going back to notes, recordings and you know trying to piece everything together so it makes sense.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "this one usually takes me about a week to week and a half to just write a case study.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "This one took me about two weeks to do it.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I was completely unhappy with the final result.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "tried to improve it but still wasn't happening.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "So I decided to just scrap everything, know, and start off from scratch again.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, you've been there down that many times in my country.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Even before Chad GPT, even before all the assistants, you know, it was just manual labor and then you get a feedback from your editor.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "This is no good.",
+            "timestamp": "00:20:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I do the law.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "didn't even send it, you know, I always, you know, when you're right, it doesn't matter at what stage you are, always going to have somebody else read it because you",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "you know, you're going to get some feedback, some things that are making sense, that really makes sense, but to somebody from the outside doesn't make sense.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "And for example, this one that I'm rewriting, I actually, I didn't even get to send it to Tom or to an old to take a look at it, because I wasn't half with it.",
+            "timestamp": "00:21:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "If I'm not half with it, even though they might, let's say I don't want to send it forward because I, you know, stuff like this, quality is very important to me.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, you know, I hope absolutely.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I mean, but that's what I mean.",
+            "timestamp": "00:21:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "You're right.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Fresh pair wise is very, very important.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I was sorry if something happened to my screen.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Fresh pair wise is important, but because, you know, like I said, I was a content manager, content writer, content editor, many companies before.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So, you know, I can be of any help like that, or just reading through what you wrote and said.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Maybe pointing some things out that maybe you don't see as you're writing because that's that's the most natural thing in the world.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'll be happy to, you know, be a pair of eyes as well.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Extra pair of eyes.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So perfect.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "appreciate it.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It doesn't have to be, you know, connected to what we do with the Air Ops and AI and workflows.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I mean, I can be of help this way as well.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So just let me know.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "do it.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "appreciate it.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "No, of course, of course.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'll be glad to really as we tidy and iron out all these other wrinkles.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Again, thanks for pointing out the issues with the linking with the issue with the stats and figures and numbers and links.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I will start writing on a feedback loop that will really double down on checking these things so that human degenerate articles doesn't have to go through million edits.",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And we'll actually produce those links and credible links, incredible claims as well.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's very important.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So again, thank you.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That was an omission, but thank you for pointing out you will see a completely different result in the next batch of articles.",
+            "timestamp": "00:23:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's a given.",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Awesome, awesome, awesome, guys.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Well, you have anything else you want to talk about?",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "No, that was it.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "You started showing the performance numbers.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "If you could just pull those up again, it's not that the amount of clicks it went up.",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "I even took look at the search console and I can see that the amount of impressions going up and the amount of clicks has been slowly, but it's been going up as well.",
+            "timestamp": "00:23:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "It's going up.",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Personally, I really want us to see us take off with more intensity.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Obviously, we all want that.",
+            "timestamp": "00:23:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Not just getting",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "you know clicks but in precious we want to see you getting leads.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "want to see you actually, know, because at the end the day without leads, without conversions, these are just anti-metrics.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "can have 10 times this number of clicks if you're not getting any leads.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "To that end, I also forgot to mention that I have added all of the CTAs, I think pretty much all of the articles except maybe we need a batch of articles that are kind of the most not recent ones like the most distant ones, right?",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Maybe they're ones remaining but we have those CTAs in place.",
+            "timestamp": "00:24:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "We can brainstorm something else as well, somehow other kinds of conversion rate optimizations rather than those in content CTAs and see what we can do there as well.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But I think when we start because again the publishing was going consistent lately and very kind of you did publish a bunch of articles now but once we",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Get have that consistency of agreed.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Okay, we're gonna publish 10 articles this week We got published 10 articles next week and we do it for sure Once we have that consistency and with the new content strategy in place We're gonna see those numbers really take off and and two-fold three-fold time For as you should Yeah, impressions are going up.",
+            "timestamp": "00:25:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's a good thing.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's something across the board I think more and more people seeing impressions right.",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'm getting reports from people just that their questions are rising in general So It's you know Google thing are us us thing.",
+            "timestamp": "00:25:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Well, maybe it's or something That's good, but I want to see those clicks and I want to I want to get good leads quality traffic And let's work towards that goal Yeah, absolutely.",
+            "timestamp": "00:25:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah There are quite a few like one of they just had up on",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "On the screen that that constructor and industry lead has over 18,000 impressions 11 click So that one is this a whole lot of impressions and yeah and that one to the list of maybe improvements on meta description or Yeah, yeah, yeah With Just checking whether so those are the new metrics.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Maybe that one just fell into the category of the ones with the worst kind of Let me actually see here when you group this like that You see yeah, is from the worst to best Protection industry leads is now Here and metadata.",
+            "timestamp": "00:26:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "That's definitely gonna be if it's not here already.",
+            "timestamp": "00:26:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It's not let's add it here Immediately Because obviously you know you some of these",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "this one, for example, how it's performing now.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "To see this one, it's been edited in that sense.",
+            "timestamp": "00:27:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Construction technology is the second worst.",
+            "timestamp": "00:27:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Let me see if that one is here.",
+            "timestamp": "00:27:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It is.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So yeah, this one is a priority for the next batch, for sure.",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And I'm going to add 10 more.",
+            "timestamp": "00:27:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So we're going to have 30.",
+            "timestamp": "00:27:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, I think that one might even be one of the top articles that was getting the most amount of impressions because the only one that's getting more is the ultimate construction CRM guy.",
+            "timestamp": "00:27:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "there's another one too.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "SEO for construction companies.",
+            "timestamp": "00:27:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah, just sorted them by impressions.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "construction just impressions.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "You're right.",
+            "timestamp": "00:27:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Because that one has",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "were 11,000 impressions and no clicks?",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "No clicks at all, yeah.",
+            "timestamp": "00:28:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:28:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Definitely another one.",
+            "timestamp": "00:28:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "These things change because when we started these metadata optimization few weeks ago, the numbers were different.",
+            "timestamp": "00:28:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I mean, obviously clicks were not different because it's still zero, but probably we had less impressions than they do now.",
+            "timestamp": "00:28:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Instructions to the else process.",
+            "timestamp": "00:28:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Let's see this one, it's here, it's been done.",
+            "timestamp": "00:28:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So we have two good contenders for the next batch.",
+            "timestamp": "00:28:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'm going to put an ETA for Friday, end of the day, for this third batch of metadata optimization because it's obviously something that should be priority.",
+            "timestamp": "00:28:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I know that I see that it's very important to you and I'm going to act according to that.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, because you know, one of the toughest thing is to get the impressions, but since we're getting the impressions, now we've just got",
+            "timestamp": "00:28:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "get the clicks on it, you know, it's the same thing on our website.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Once our designer gets back, we're going to take, I'm going to do a walkover on the website and now take a more CRO focus strategy onto the website because pretty much the only thing that we've had was the button to get a demo which watched the video, it's the same thing.",
+            "timestamp": "00:29:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "But now it's time to take a more CRO focus on it and I was, you're going to have to, if you have any benchmarks of our website that are CRO focused that you've come across or one of your clients that you can share with me so we can kind of use it as a benchmark as well.",
+            "timestamp": "00:29:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "would be Um, yeah, I think we have some kind of background.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "this document that we put together on a company level for the CROs as well.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "We kind of, you know, bombarded, I mean, suggested to the clients, like, maybe you should be doing this at some point, you know, these things.",
+            "timestamp": "00:30:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "have that, I'm going to send that to you and we can read over it.",
+            "timestamp": "00:30:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And I can think of a few clients, my own, that use some of those things to some effect.",
+            "timestamp": "00:30:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And then we can go over it.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "mean, maybe even if you want, we can set a separate call actually early next week, if you want, just for this topic, just to go over these examples of doing it, what they're getting out of it and what we suggest as a company.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Because there's a lot of thing you can, lot of things we can beyond the CTA's in content and that kind of thing, know.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Oh, that would great.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:30:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'll set the call.",
+            "timestamp": "00:30:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'll set the call with Alice, who does it on our end.",
+            "timestamp": "00:30:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Let me know which time works for you Monday or Tuesday.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And for me, Tuesday is a better round this time.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, around this time for me on Tuesday, maybe little bit later.",
+            "timestamp": "00:31:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "OK, we're going to set up a CRO call, definitely, then, for sure.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:31:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Looking forward, because we do have ideas on that end.",
+            "timestamp": "00:31:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "So we're going to discuss.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:31:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:31:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:31:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "OK, guys, if that's everything, I don't want take any of your time anymore.",
+            "timestamp": "00:31:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "But we have a lot of work to do, a lot of work to do, some of the work we wish we didn't have to do, like, with the Intelli.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "You know what?",
+            "timestamp": "00:31:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "It's how it goes.",
+            "timestamp": "00:31:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "It's probably a good job.",
+            "timestamp": "00:31:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:31:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "I'm going to keep you updated on the progress for sure tomorrow and Friday, just so you know where we are at.",
+            "timestamp": "00:31:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "We're not going to ghost you until next week.",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "And I'll have the call set up for CROs for Tuesday then.",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Sounds great.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Awesome guys.",
+            "timestamp": "00:32:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Thanks so much.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Have a good day.",
+            "timestamp": "00:32:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Talk to you.",
+            "timestamp": "00:32:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrej Vidovic",
+                "matched_calendar_invitee_email": "andrej@growthxlabs.com"
+            },
+            "text": "Take care.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gus Oliveira",
+                "matched_calendar_invitee_email": "gus@projectmark.com"
+            },
+            "text": "Bye bye.",
+            "timestamp": "00:32:07"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Address unexpected article publishing issues and discuss content strategy improvements for ProjectMark.](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1.0)\n\n## Key Takeaways\n\n  - [Unpublished articles are being automatically published when linked from other published articles, causing workflow disruptions](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=23.0)\n  - [Content quality issues identified: missing backlinks, unsupported claims, and ineffective metadata impacting click-through rates](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=39.0)\n  - [New focus on conversion rate optimization (CRO) for website and content strategy to improve lead generation](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1432.0)\n\n## Topics\n\n### Unexpected Article Publishing Issue\n\n  - [Unpublished articles are automatically getting published when backlinked from published articles](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=102.0)\n  - [Gus noticed \\~20 articles unexpectedly published in the last couple of days](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=329.0)\n  - [Issue seems tied to recent increase in article publishing activity](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=72.0)\n  - [Andrej will investigate the cause, as it's an unprecedented problem in their workflow](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=142.0)\n\n### Content Quality Improvements\n\n  - [Several articles found lacking backlinks or containing unsupported claims](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=690.0)\n  - [Andrej to implement a feedback loop in the workflow to double-check links and credible claims](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=757.0)\n  - [20 articles have received updated, more actionable meta descriptions and SEO titles](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=919.0)\n  - [CTAs added to most articles, with a few older ones still pending](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1455.0)\n\n### Performance Metrics and Strategy\n\n  - [Impressions are increasing (e.g., 18,000+ for \"constructor and industry lead\")](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1560.0)\n  - [Click-through rates remain low (e.g., 11 clicks from 18,000 impressions)](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1680.0)\n  - [Focus on improving metadata for high-impression, low-click articles](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1670.0)\n  - [Andrej to prepare 40 new, less technical, more top-of-funnel topics by Monday](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1021.0)\n\n### Conversion Rate Optimization (CRO)\n\n  - [Current website mainly uses \"Get a Demo\" and \"Watch Video\" CTAs](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1740.0)\n  - [Plan to implement a more CRO-focused strategy on the website](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1768.0)\n  - [Separate CRO-focused call scheduled for Tuesday to discuss benchmarks and strategies](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1794.0)\n\n## Next Steps\n\n  - [Gus to archive articles not ready for publication to prevent unintended publishing](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=366.0)\n  - [Andrej to manually check and fix backlinks in published and draft articles](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=403.0)\n  - [Implement automated checks for article existence and publication status in the workflow](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=757.0)\n  - [Andrej to update 10 more articles' metadata by Friday, prioritizing high-impression, low-click content](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1714.0)\n  - [Schedule CRO strategy call for Tuesday to discuss website optimization](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1852.0)\n  - [Andrej to send CRO benchmark document and examples to Gus before the Tuesday call](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1813.0)\n  - [Continue monitoring and addressing the unexpected publishing issue](https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy?tab=summary&timestamp=1889.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Investigate root cause of unpublished articles being auto-published. Check sitemap XML scraping process. Implement fix to prevent recurrence.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:01:35",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=95.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Archive all articles not meant for publication yet. Notify Andrej when complete.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:04:16",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=256.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Manually check all published/draft articles for incorrect backlinks to archived articles. Remove/update 404 links.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:06:32",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=392.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Review articles flagged by Gus for missing backlinks/data. Update with correct information, focusing on verifying bold claims (e.g. 100% CRM revenue increase).",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:11:27",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=687.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Implement feedback loop in workflow to auto-check article links, published status, and data accuracy. Apply to all current articles in drafts.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:12:26",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=746.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Research and create 40 new topic ideas. Focus on actionable, top-of-funnel, less technical content. Present to Gus by Monday.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:50",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=1010.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Optimize metadata for 10 more poorly performing articles (incl. \"Construction Industry Leads\", \"SEO for Construction Companies\"). Complete by Friday EOD.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:26:41",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=1601.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Schedule CRO-focused call with Gus and Alice for Tuesday, slightly later than current meeting time.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:43",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=1783.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Compile and share CRO benchmarks, examples from other clients, and company-level CRO document with Gus before Tuesday's call.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:43",
+            "recording_playback_url": "https://fathom.video/calls/235631189?timestamp=1783.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Tom Deane",
+            "email": "tom@projectmark.com",
+            "email_domain": "projectmark.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Gus Oliveira",
+            "email": "gus@projectmark.com",
+            "email_domain": "projectmark.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Gus Oliveira"
+        },
+        {
+            "name": "Prateek Gupta",
+            "email": "prateek@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Muhammad Sami Uddin",
+            "email": "muhammad@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Andrej Vidovic",
+            "email": "andrej@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Andrej Vidovic"
+        }
+    ],
+    "recorded_by": {
+        "name": "Andrej Vidovic",
+        "email": "andrej@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/ST8v83NLkMqZsq7qi-_sy3-18VG2DjGy",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

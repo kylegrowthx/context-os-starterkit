@@ -8,7 +8,7 @@ role: Chief Marketing Officer
 hubspot_contact_id: 241186418662
 hubspot_company_id: 102599424958
 confidence: high
-last_updated: 2026-02-25
+last_updated: 2026-02-26
 </metadata>
 
 ---
@@ -110,10 +110,12 @@ last_updated: 2026-02-25
 | **Feb 23, 2026** | Third meeting: Partnership Next Steps. Marcel presented AI workflows, fact-checking agents, Augment Code case study. Brian committed to internal planning and next steps by Friday. |
 | **Feb 23, 2026** | Brian and wife Katie attended Warriors game on Marcel's VIP tickets (Chase Lounge). Surprise Dubs win over Jokic/Nuggets. Brian thanked Marcel warmly via text. |
 | **Feb 25, 2026** | Brian texted Marcel: meeting "helped crystallize how we can think about GrowthX work." Aiming for next steps by Friday. Marcel mentioned BBQ once deck is done. |
+| 2026-02-13 | Calendar meeting: [FTF] GrowthX <> Coralogix @ Yellow Door |
 
 ---
 
 ## Meeting Transcripts
+- `records/meetings/2026-02-13-[ftf]-growthx-coralogix-@-yellow-door.md`
 
 - `records/transcripts/2026-01-28-growthx-coralogix.md`
 - `records/transcripts/2026-02-18-growthx-coralogix-partnership-deeper-dive.md`

@@ -1,0 +1,3084 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Hey Estev\u00e3o, I was looking at your billing RFC, we might as well talk about it while people are joining, if that sounds good.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, sure, let's do it.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I don't think, I don't see anything that is particularly like jumps out, this looks good.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But very minor things, like we have a webhooks pattern that we currently do, that we persist the payload and then process it afterwards.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "In your code snippets, I believe you're processing it in line, which probably is fine.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, that's a good point.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I was thinking yesterday about it and like the issue, the issue...",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "The of enqueuing those to be processed later is that we could lose the linearity of those events.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "We can have events being processed in parallel, right?",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Like if multiple workers start getting those.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "That's why I left in line, but if you have any ideas.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "The good thing is that Stripe usually retries the event if it fails on our site for some reason.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But yeah, perhaps you could keep track of those that fails.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I do have ideas, but nothing that we need to implement right now.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I would assume Stripe sends like a timestamp with the event of sorts.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "We can persist that and then sort webhooks by that.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Like there's a, I think, I don't think Psychic supports this.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "on the free tier, but SolidIQ definitely does, which is there's concurrency keys.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So you can limit the concurrency to like, oh, if it's a Stripe thing, then process it like one at a time and in order.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, that would work.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But let's not, let's not complicate it.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Hey, Stevie.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Hey.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "We're just talking about the...",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "The billing, RFC.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So on, just to wrap that up, I think we can do inline.",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "That's fine.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Maybe just like delegate it to a Poro or something, just like a different class, just so that the controller is not like mixing things like with different processors for different webhook sources.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And then...",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Honestly, yeah, go ahead.",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "next Bye.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Sorry, I will try that gem that you mentioned to me, the pay, because if it works nicely for what we want, yeah, like most of this work doesn't matter, like the RFC, but I will try.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I just wanted to do a RFC without considering, so I go through the whole thing, like trial and upgrades and so on.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But I will try it.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Hopefully that will work.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, I think worth taking a look.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I'm not like super hard set on using the gem.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I believe it's probably going to be less flexible, like if we ever want to do something fancy with subscriptions, which the gem models.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So like that's great, because then implementing Stripe might be like a 10-minute thing if we use the gem.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But then if we want to do something fancy and the gem doesn't support it, then there's like we're going to need to fork it and et cetera.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So something to weigh.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "The one other.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Another thing I didn't see, I might just be missing it, is when we're only ever setting the pricing plan to free in your code snippets, I believe.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "We're not, the pricing plan in our database.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "For example, I see handle checkout completed.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I would expect to see some sort of like, oh, look up the plan by Stripe price ID and then set that inside check that.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Which part are you seeing like that?",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And the webhooks?",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "The webhooks, let me check.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I see there's a handle checkout completed.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Fine, works.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And we don't ever update the workspace to a different plan.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Let me, okay.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, I think we have it because so this RFC, so what I did first is actually I have like a full long plan that goes into detail about the controllers like to create the Stripe sessions and to redirect to the checkout and receive.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I didn't put it here because it was too long and I was not sure.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I think it's considered there.",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Like when we create the session, we already set up the workspace plan for it.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But I will check.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Let me just...",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Before checking out?",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, like when you create a checkout session, let me take a look.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, but do we not have to solve it right now?",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I'm just assuming like if we're ever going to update the pricing plan in our database, it's at that point that the new limits would apply.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I think we would want to apply it after like the payment succeeded.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So that would be in a webhook.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I hope I had a comment.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So just because it's going to be like slightly unusual, I'll say what I'm thinking there.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "We have obviously a pricing plan model and that has a method called publicly available.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So pricingplan.publiclyavailable, that returns an array of plans that are publicly available.",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So you should be able to call .find on that array and be like .find by Stripe price ID.",
+            "timestamp": "00:07:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And once you find it, you're like, okay, what's the ID for this plan?",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And that's what you were persistent to the database.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So that's how you swap the plans.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "That's what I'm thinking.",
+            "timestamp": "00:07:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And then one wrinkle there is we would use different price IDs for environment.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I think we could just make the pricing plan instances respond differently depending on the RailsAMF.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So it would just be a conditional inside the Stripe ID method, and it would be like, if it's production, then do this one, anything else, do that one.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And that's how we can test in sandbox environments with the same plans.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "It's just they have different IDs for production and anything else.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, on my plan, I was thinking on using the Rails credentials because we already have those for all the environments, but it's not a credential like we could do.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, I think inline might work because this is the sort of thing that you want to be able to see quickly, like, oh , they were making a mistake.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "It's right there, and it's not confidential, so it's fine.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I think it's not confidential.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "No, they're practicing.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I did.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Cool, nice.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, I think that's it.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Everything else, honestly, looks good.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So I wouldn't oppose implementing this.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I also wouldn't oppose using the gem if you think that would be a worthwhile investment or not investment because it would probably be quicker to implement but more difficult to maintain.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, I want to try, like, if it is, like, I just took a quick look on the guide and I saw, for example, what we mentioned about the email, like, it's expecting to be, like, to be attached to a model that has an email.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Like, we could delegate the workspace to have an email to, like, the owner of the workspace or whatever.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, I will try just to see if, like, there's a, like, I need to twist it a lot to fit what we want.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "If it's, there's a lot of twisting, then that might not be worth to use right now.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But I want you to.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I would be surprised if it requires a lot of twisting, because I know the author, he's good, and he usually does architect things with that sort of modularity in mind.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I would be surprised.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I would assume it's just a matter of adding a macro to the model, like what's called pay customer or something like that, and also like an email method.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And I would assume that's it.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "If we go that route, I would advise, we don't currently have a notion of a workspace owner.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I would advise putting that in a different method, like workspace.owner, and just return like the first user or whatever.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And then the way, the reason for that would be once we do have an owner, we just change the method, as opposed to like changing everything about the plumbing.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Makes sense, makes sense.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I don't think I have anything else on the RFC, so good to go there.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, no, no problem.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I think it's just us.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I do think it's just us.",
+            "timestamp": "00:11:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I don't know why they tortured me by putting this so early.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I think changed the time to an hour earlier, and I'm like, what?",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Didn't Daniel just complain about it being too early yesterday?",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And now I realize why, because, yeah, he declined all the meetings.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Well, there you go.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, apologies.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I'm not awake.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:11:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "No worries at all.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Do we want to just quickly go through the linear, like, the changes since yesterday on linear?",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, I think that'd be helpful.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Stuff's happening pretty fast, so it's good.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I can start, if that sounds good.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So, I...",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Completed that ticket that was sort of all-encompassing.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I commented on it.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I just commented on it saying, like, okay, we talked about a bunch of things here.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Let's treat this ticket as the competitor changes backfill.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And that's finished.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I completed the ticket, and then I created other tickets for the rest of the issues.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I do think...",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Oh, no.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I was going to say one of them was a blocker, but no, I changed my mind on that.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "created two tickets that aren't completed.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "The rest were completed.",
+            "timestamp": "00:12:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I just created tickets to track the work.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And they're both in the Stabilize Week label.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "One is switching workspaces requires a refresh.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "That's definitely weird and something we should address, but not something that impacts outside customers yet.",
+            "timestamp": "00:12:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So that's why I did...",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Um...",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And, what was the other one?",
+            "timestamp": "00:13:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I would totally know that if my brain was online.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Oh, here it is.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "No worries.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "The prompt count meaning is not clear.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "It represents the amount of prompting probed out of the total when it seems like it's just So, it's just something to do there.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "do think just like a slash and a number might be enough.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But, anyway, nothing blocking.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So, I created those two.",
+            "timestamp": "00:13:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And then, to wrap it up, what I was working on last night and planning on wrapping up this morning is this.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Again, a stabilized weak ticket, not a blocker, which is odd.",
+            "timestamp": "00:13:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But,",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "does require significant architecture, so that's why I tackled that.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And it's, I talked about it yesterday, so I won't go into too much detail, but it's fixing the subcategory overview charts so that they obey the subset of prompts chosen by the workspace.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So to be clear, this would be, okay, this is this workspace.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "It has some tracked competitors.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "How are those competitors performing on the subset of prompts that belong to the main subcategory?",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "It's weird.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Like, it's a lot to process, but I think that's what we want because the alternative is doing, how are the competitors doing on all the prompts chosen by this workspace?",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And that's just the main competitors tab.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "That's what it is.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Right, right, right.",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So this would be, same thing, how are the chosen competitors doing on the prompts chosen by this workspace that are, that belong",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Long to the subcategory.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I think that makes sense.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I think so too.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But I just, data is hard.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Like sometimes Daniel or Marcel will come in and be like, no, that doesn't make sense.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I mean, as, yeah.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I mean, I think as a user, that's what they're going to want to see because like a brand could have so many different product lines and they want to be able to see how their, you know, content's performing for those specific product lines.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And they belong to different subcategories.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So against like their competitors in those subcategories.",
+            "timestamp": "00:15:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I think that makes sense.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Like I'm pretty confident, I'll say.",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, me too.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And then the last thing I'll say is wrapping, after wrapping up that work this morning, I'll again, tackle a non-blocking ticket, but that requires re-architecture, which would be not duplicating brands anymore.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And once we have that, I do believe that is the last like big architecture change that I see us having to make before launch.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So that after that, I can move on to like all of the other things that I consider, quote unquote, less splashy, which is all the other tickets.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "That's it for me.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I can go next.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So yesterday, in the morning, was tackling a bit of small tasks and bugs and fixes and improvements to the onboarding.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "And in the afternoon, I was focused on the RFC for the billing.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I started with a large plan and what I shared in the RFC is like mostly the overview of the architecture of it.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So I planned this afternoon to be focused on it.",
+            "timestamp": "00:16:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I still have some minor things that I want to work regarding to onboarding and competitors, because once I start...",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "With the billing, I would like to be more focused on it and not be like back and forth.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:17:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So, Stevie, I left a comment for you on Liner about, for example, the suggested competitors.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "That's the PR, Jose, that we were just discussing on the channel.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So we should now be showing all the brands, even if we don't have a public profile for that brand.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So, yeah, let me know if that's working properly.",
+            "timestamp": "00:17:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Like I tested, but just let me know if this is what would be needed.",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "There's just one update.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "It's minor, but it's in relationship with the logos.",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So basically, we're using brand fetch to fetch the brand logos.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "And for some domains and subdomains, they don't return good results.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "For example, there's one.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "One startup here called Ask Cody, that the logo is a random dude.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I think it's from their review section.",
+            "timestamp": "00:18:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So they got the picture of this guy and this is the logo.",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "And I was, yeah, so I saw that they responded me.",
+            "timestamp": "00:18:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I'm not very happy with their response.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "They say that that's a technical issue, blah, blah, blah.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I'm trying to argue with them that if we could solve it somehow.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But I think for that, we would need to explore other options.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Or I was thinking maybe a stopgap solution would be for us to, in the admin panel, we override the brand logo.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Instead of using brand fetch, like for the ones that we see, for example, cloud code is super, yeah, it's super common.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "We should have the logo for cloud there.",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Maybe just upload to RS3 and we don't use brand fetch for that.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So that would be a stopgap solution.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Because I think that if we go to other providers, we will run.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "stopgap stopgap solution.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So stopgap",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Across the same stuff, because this is a hard issue.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "For example, the cloud, I think I know why they're not fetching the logo.",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "If you go to cloud.com, it performs a redirect to cloud.ai.",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "It's the same for code.cloud.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So basically all the providers need to do a lot of strategies to make sure that they fetch the right logo.",
+            "timestamp": "00:19:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So not very optimistic that changing from brand fetch is going to work.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So maybe the manual override would be like a more, it's manual, but it's a more precise solution.",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Oh, sorry.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I was just going to say that would be helpful, especially for our current customers, because just to give a little feedback on that, the EM didn't even want to show the, do a demo because for hyper-exponential, because it's one of their",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Our customers' logos, and they said that they knew that they would fixate so much on that being wrong, that they wouldn't even, like, pay attention to anything else.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And I think that's a fair assessment, and, you know, a customer, like, an external, like, new customer would probably feel the same way, and it just degrades trust.",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So if we can fix that somehow, I don't know, like, even if we do a manual override, though, we'd have to do some kind of audit to get ahead instead of being reactive on that.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, I agree.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "That sounds good.",
+            "timestamp": "00:20:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I was going to say that for what it's worth, like, the amount of redirects is kind of like what we do to, to obtain the citation URLs, the final ones, the result ones.",
+            "timestamp": "00:20:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So it's like, I'm a little bit disappointed that people aren't, like, doing it in the, in.",
+            "timestamp": "00:20:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Actual products that they offer, but then again, I don't know how much money there is in this sort of like API, so maybe it's just not a priority for them.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I understand.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But yes, I agree.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "We can have that override.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I think we'll run in any way for the reasons that Stevie just mentioned.",
+            "timestamp": "00:21:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Just a question, Stevie.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Is this a blocker right now?",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Because for the competitors, I think it's okay if we don't show a logo or two.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I think it's not that critical.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But for customers, yeah, that's pretty bad.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Showing the wrong logo, especially if it's one of their customers, that's really, yeah, that's not good.",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And it's not like they're, you know, they're not paying us, so it doesn't help us reach our goals, you know, specifically like our revenue goals for, check that for Q1.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "But it, yeah, it's, I mean, eventually, we'd probably want to do add-on.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And, you know, like expand those, you know, internal accounts with, with some kind of revenue stream.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So, but yeah, it's, um, oof, that's a tough one.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I mean, if we were able to even remove the logo, like, but yeah, I mean, I don't know.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I'm tempted to say it's a blocker just because it does degrade trust a lot.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I don't think like it, this is a heavy lift, maybe, maybe an hour of work.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Uh, it's okay because we already have active storage, uh, S3 should be just like UI and, and some conditionals.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "That's, that's fine.",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Uh, I will create the task on the, on the blocker.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I will not assign to me if someone else have time to tackle that.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Um, but yeah, I can do it later.",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "we can double, I'll double check with Daniel and, uh, Marcel to make sure that my assessments.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So, maybe worth mentioning, I was testing out onboarding yesterday, and I did meta, called.com, I think, and the description came back empty, the short description.",
+            "timestamp": "00:23:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I wasn't sure if the, I was doing something else in parallel, so I didn't like check if the workflow failed or something, but maybe worth it.",
+            "timestamp": "00:23:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Meta.com?",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, is that the actual, because I checked meta.com, is that the actual Facebook?",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Okay, we'll try it with it, yeah.",
+            "timestamp": "00:23:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "it.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, that's what I used, meta.com, and then the description came back empty, so I was like, hmm, seems like a big enough company that we should be able to pull out.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Was this like after the basic research or duplicating from it?",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So I showed the CTA, and it asked me what my domain was, and I did meta.com, the very next step.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "It's like, oh, it's investigating.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "It pulled the logo, that was correct, and I did, yes, this is my domain.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And then it was like, let me fetch the actual profile, and it came back blank.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "it was like meta, and then nothing, like where they're supposed to be like a blurb that was like empty, and it was just a continue.",
+            "timestamp": "00:24:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Okay, thanks.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "I will check it out for meta.",
+            "timestamp": "00:24:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I don't know if anybody saw this.",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I just put it in the chat, but I ran into an issue in the admin.",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I don't know I I",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Panel on doing the brand research.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So I don't know, like there is a little bit of a bug in the workflow, in the basic research workflow.",
+            "timestamp": "00:25:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I did a little investigation, but I had a dinner to go to, so I didn't have time to really look into it.",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "But, and, like, I mean, I can look at the logs in Render, but I can't, like, access the console to, like, debug anymore on, like, the check that side.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "But anyway, it just kind of, so the, it looks like it's happening in the basic research.",
+            "timestamp": "00:25:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "There's a lot of failed jobs there.",
+            "timestamp": "00:25:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And I'm not, again, I'm not sure exactly what's happening.",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So, if anyone has time to check that out, or I can kind of dig into it later today, if I have time.",
+            "timestamp": "00:25:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "It's just that the, again, there's, like, a lot of failed jobs there, and it just.",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "It kind of pings indefinitely.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Stevie, you mean the temporal jobs?",
+            "timestamp": "00:26:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, sorry.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "For the workflows.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I think for what it's worth, that might be the exact same thing that happened with Meta.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "That's what made me think about it.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I'm like, oh, yeah.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So if a temporal workflow fails, we're not handling that gracefully, essentially.",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Not in the admin and not in the onboarding.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I'm surprised it's failing, though.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "We're not doing anything like, maybe, oh, you know what it might be?",
+            "timestamp": "00:26:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Like, if it fails to fetch the website for some reason, like, oh, bot detection or something like that.",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, I was testing early.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Like, yesterday, I haven't tested the basic research, but it was working fine.",
+            "timestamp": "00:26:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "And I didn't touch the workflow.",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "The thing that I touched is...",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "don't So, one those",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "The brand lookup endpoint that we have, but I tested it, it was working.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So basically our brand lookup was fetching brands and returning the brands to output, like to the workflow that didn't have any data, like the description, the profile.",
+            "timestamp": "00:27:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "So I just put it like more restrictive, we just return brands that we have data for, otherwise no point.",
+            "timestamp": "00:27:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "But that's the only change that I did then.",
+            "timestamp": "00:27:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "That's weird.",
+            "timestamp": "00:27:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Can you send a link?",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "where's the, where are the jobs?",
+            "timestamp": "00:27:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Sorry, Jose, go ahead.",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, no, I was just going to say, I don't think, I don't think this, this is a recent thing.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Like, I remember Marcel saying that research would hang.",
+            "timestamp": "00:27:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "And his impression was that it was still running after days and days and days.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And we reassured him like, oh no, that's like, it most definitely failed.",
+            "timestamp": "00:27:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "We're not like active.",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah, it's failing silently.",
+            "timestamp": "00:27:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "It's just not, yeah.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I know beinguko she divert,",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Okay, yeah, this is something to investigate, I think.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Probably, what we're looking for is probably in the temporal logs.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But we need to check soon because those aren't, they don't have infinite lookback.",
+            "timestamp": "00:28:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I think it's just a couple days.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And that's under the check that, yeah, I'm not sure about, like, the new organization of things.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "To be honest, I'm not sure either, because this, we recently deployed a check that output thing, render it, and I don't know, I don't think we're using that yet.",
+            "timestamp": "00:28:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "But anyway, there's two places to check, so it's going to be one of those two.",
+            "timestamp": "00:28:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:28:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I just deployed a massive dependency update.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "So let me know if anything's broken.",
+            "timestamp": "00:29:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "I did some testing, but you never know.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "And I think, I mean, that's it for me.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Does anyone have anything else?",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, I'm good.",
+            "timestamp": "00:29:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Yeah, I don't think so.",
+            "timestamp": "00:29:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I've just been testing, like the admin, or I mean the onboarding, sorry, the onboarding flow.",
+            "timestamp": "00:29:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "And then, yeah, and then I'm moving on to, not sure what I'm gonna, probably just like the, the workflow or workspace.",
+            "timestamp": "00:29:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I need coffee.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Anyway, just doing the manual testing.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "I think Leo's kind of setting up, like.",
+            "timestamp": "00:29:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "The automated testing, but I'm doing the manual, kind of the manual testing of things.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:30:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:30:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:30:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Well, we'll catch you guys tomorrow.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:30:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Okay, bye.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Stevie Kim",
+                "matched_calendar_invitee_email": "stevie@growthx.ai"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jose Farias",
+                "matched_calendar_invitee_email": "jose@growthx.ai"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:30:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Estev\u00e3o Mascarenhas",
+                "matched_calendar_invitee_email": "estevao@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:21"
+        }
+    ]
+}

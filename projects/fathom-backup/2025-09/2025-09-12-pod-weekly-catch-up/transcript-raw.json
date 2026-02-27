@@ -1,0 +1,2860 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just wanted to catch up with everyone.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If there's anything that, obviously, there are some things that are going to spill over the next week.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just generally, you know, please make sure that Airtable is up to date.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Because if it's not, you know, it creates a lot of other problems in terms of reporting, cetera.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So please just make sure fields are filled, statuses are moved.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "For Strapi this week, Usman, I moved some of the articles to add to stage based on, you know, which ones were good to go, et cetera.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "From next week, please just make sure you do that.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So as soon as an article is marked, like, good to go or something, just push it into the next status so that it's not, it doesn't look like we're working on 10 things at the same time.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I've done that.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Some of the other articles are remaining.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I guess we can catch up about that.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But please, for everyone, please remember to update your engineering requests and keep...",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Following up with them, repeatedly, and Usman, I know we have a couple for Strapi that we just need to follow up with them about, so please remember that.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Other than that, I think that's pretty much it.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There is the Galileo thing, which we can discuss shortly, but before that, just wanted to check, is there anything else you guys wanted to bring up, or any questions, et cetera?",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Well, look, you will be out for two weeks, right?",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "And sometimes there are issues with Looker, so just like it was back then, when you returned, everything was messed up.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "I've seen that you sent the Notion file of the Looker, and does it include some common things that get messed up in Looker, and how to fix it?",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Not really.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The new Lookers are pretty stable, I don't think.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "there's going to be any issues.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The only issue will...",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the reason the old looker was breaking was because the dates that we were choosing in there was, I think, it was too far a range, basically, to be old looker.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So like there was a date range limit within which the data would be displayed.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If it was more than that, the thing would just say like data source issue or whatever.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "In the new lookers, I don't think that's going to be an issue.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If you do see that happening again, just reduce it to maybe one week or something like that.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That should fix it.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If even that breaks, you can ask Suleiman to take a look at it and fix it.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If even he can't fix it, just go with, I guess, GSC screenshots.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We can get away with it for one week.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Suleiman, mean, the publisher?",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Suleiman, the publisher, yes.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Suleiman, Wow.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "He's been helping me build a looker.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So any issues, you can check with him.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, good to know that.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Any other questions?",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes, not.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "For the Galileo stuff, yeah, I think, Ismail, you have best insight into that.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't know if anything can be outsourced, but, yeah, what do you think?",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But, yeah, Ismail, would you mind giving us sort of like, or giving me, I should say, like a quick TLDR of the process for what we're doing?",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And it sounds like Isra just hasn't been responding, so I want to understand what her function was.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And then, yeah, we can kind of back into it from there.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So the other thing is that some of...",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "The older Galileo's blog, most of them are broken.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "After the migration from, what was their previous?",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "Sanity, so from Sanity to Fremont, all our stops got broken.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "And the task was that we have to go into Sanity, open the old blog, then look for the missing content, and then update it in Fremont and all that.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "So, the process for just an article takes about 10 or 15 minutes, and currently we have like 35 blocks to go through.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "So, the entire list was about 70, about, Yisra got that down to like 35.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "And we have about 35 pieces left.",
+            "timestamp": "00:04:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And when we're going through and determining what's missing and updating it in Framer, what are the things that are typically missing?",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Like, is it something where like, if we just have an SOP, we could...",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That's the fun thing.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "We can't really come up with an SOP because in some articles, you'll notice the entire content is missing, in some bullets are missing, in some ECT images, like, it just kind of takes, like, going through the entire article, seeing what's missing, going to the old blog and bringing everything back.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Do you mind, by any chance, I know this is tedious, I'm sorry to put you on the spot, but would you mind, since we have the time, like, sharing your screen potentially and showing, like, just because I'm thinking, if there's, like, a perfect prototype of, like, we want all of them to look like this blog, or if it's, like, there is, like, a version that's correct, I'm trying to think, like, if I could step in and do a portion of it, you know?",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So, that's the thinking.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I just want to get my arms around what the process is.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I wouldn't volunteer yourself.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Really?",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The reason we gave it to Isra, it's, like, really tedious work, like, Isra.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like in some things, the images need to be moved over, et cetera.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Since it's not our blogs, I'm thinking one, we can maybe bring it up to Jackson on Monday on thread and just be like, well, you know, this is taking longer than expected because the blogs are like, you know, it's pretty like everything's different.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There's no standard process.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "How soon do you need it?",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We think it'll take us another month or something.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, that sounds good.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "If that's like the timeline that we're comfortable with, that's what I'll share with them.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I also might just shoot the message over today and give them a sense.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Like this is kind of like a bonus thing.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So while I don't want us to retract it, I also think it's fine to say like, it's going to take us a little bit.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "It's going to take us this long.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Does that work for you?",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Otherwise, we need to split up the work a bit.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And then now you and I can kind of talk about what feels feasible for you.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I don't want it to become like.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So I'll check in with you, just like if we are going to split it, depending on what the timeline is, blah, blah, blah.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "regarding assigning the work, I think we can give it to Suleiman.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I know Suleiman has like a freelancer assigned to him by Andy.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the publishing workload starts for him on Thursday and Friday.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So Monday to Wednesday, he's pretty much, his workload is lowered.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I think we can give it to him and just have it on a linear ticket and have him and the freelancer execute it.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, that sounds perfect.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Let's try that.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So I'll still message Jackson and give him a sense that it might take a little bit longer.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And then in parallel, we'll tag in Suleiman.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think that would be the best way forward because, yeah, honestly, I don't think there's going to be capacity for us to kind of do this because it's like, it's super tedious work.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "for you not be doing the super tedious stuff, too, if we have anyone else to tag in.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, cool.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Okay, that was my question around delegation.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I was like, maybe we can tag him in.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So, okay, cool.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Let's do that.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Crisis averted.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I'll let Jackson know just to give us a little bit of breathing room that it might take a little bit longer and see if that works for him.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But since it means that they don't have to do it, I'd imagine they'll be fine with it.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "We'll see.",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Anything else?",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Like, Vivek, either that's on your to-do list to run through or also, like, team, obviously, Vivek will be out for a couple weeks.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And he's given me great context on, like, you know, when you typically share articles, what's typically expected for those reviews.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But are there any questions or things that, like, you want to chat through while you have both of us here?",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Otherwise, I know you have context.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "on it's fun.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I can always, like...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Message you, and we can clear things up if needed, but I just want to give you the opportunity if there's anything.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Not about processes.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "I had a question about Galileo.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Vivek, do you remember the issue of no hallucination index that Galileo had on SERPs?",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think that was being fixed.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "For the homepage, Galileo AI started showing up.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "For like 95 pages, it will be fixed, but there will be some pages that would still keep the issue.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "It just needs time just to accelerate this.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "I've identified only one URL.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "I've been going through this and monitoring and requesting re-indexing on Search Console.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "So if I bump with same problem for other pages, we just have to request re-indexing, and that's it.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "But the main issue is images, the logo icon.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "He's still not present, and that's basically the issue of Framer, I guess, but there should be some fix.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "But why people choose Framer?",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "What's wrong with people?",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Why Framer?",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "No, I guess about Framer.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I think the logo thing, he had responded in there, right?",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "He basically left a link to the logo, I think, and that's the best solution we had, so they can't do anything about that, beyond that.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Should I dig up more?",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Because like normal CMS, they won't give you trouble for this.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "They give you the internal link, and you drop within your site, and it's clear for Google, and it shows up.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Here it's complicated.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This is an additional thing.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I wouldn't waste time on it, to be honest.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If they bring it up, we can say like, okay, the logo is the issue, and it's a Framer issue, and we can leave it at that.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But troubleshooting Framer is nowhere even close to what we're doing,",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Okay, Vivek, the audit, technical audit that we mentioned before, should I prioritize this for next week, just to clarify?",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just run it.",
+            "timestamp": "00:11:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There was one issue we saw which came from Scrunch, which was that the JS version and non-JS version of their homepage is very different.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if I remember you and I had spoken about that as well.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, that's better.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That's a big, tough issue.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If we can flag just that issue in SF, I don't know if there's a way to isolate that.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But I would say run a very basic technical audit.",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think it gives click depth by default, right?",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Any 404s, any redirects, broken redirects, etc.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think that should be fine.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "JS versus non-JS, if there is an easy way to do it, let's do it.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So yeah, it's not super.",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The technical audit was mainly because I was worried about the performance dropping, but that was an issue on their end.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's fine now.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So run it.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's good to send it.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But if it's clashing with RAMP or the other issues on which you got tagged from the sprint team, then forget it.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "And additional question, Vivek, about the RAMP and the publishing.",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Like, Victoria will review the SEO patch.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "And we have this flow set up, right, in the atlas for publishing.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "And does it align with the non-internal data template?",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Oh, .",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That's why we decided to not publish.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "What I discussed with Victoria when you were out was she needs to figure out how the data wrappers will work because some of these vendors will not be present in their snowflake.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So she needs to figure that out.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Once she lets us know what the structure is, then maybe we go to Marcus and say, hey, listen, it's basically the same flow, except we don't have these steps present.",
+            "timestamp": "00:13:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I think it shouldn't take him like four months this time, but, you know, we can still, we have Suleiman now.",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I think we can send smaller passes to manually publish and test with the automated patch.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Oh, sorry.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Just to jump in there.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Is that one where we should be, like, should I be paying Victoria next week or the week after for that?",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Or is it kind of like to our benefit that it might take her a little bit longer to review?",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'd say it's to our benefit.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Well, I'm going to just like not, not.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, might be best.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "You had a follow-up question.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Vivek, next question about ramps.",
+            "timestamp": "00:13:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Sorry for the overload.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "I've seen you shared this.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Schedule with me for new vendor pages, and are we creating the assignments ourselves, or will Victoria will handle it?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "No, we created ourselves.",
+            "timestamp": "00:14:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's pretty simple.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Okay, just wanted to clarify the responsibility side of it.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "And have you shared this spreadsheet with me?",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "But we had this on Monday call.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Maybe I'll revise the call and find the...",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think I did.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I may have...",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think I dropped it in the bookmarks, in the internal.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Oh, yeah, yeah, exactly.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "don't remember.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Ramp extended categories for vendors.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "okay.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "it was.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Essentially, if in doubt, check bookmarks.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There's a ton of stuff.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "At some point, we need to organize those bookmarks.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But for now, it's just a big dump.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah, everything's there.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Rick, can I add something?",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Go ahead.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Well, for high-level approaches, will I share it with...",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthxlabs.com"
+            },
+            "text": "Yes, that's how we've been doing it, yes.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, one more question, sir.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthxlabs.com"
+            },
+            "text": "I saw your comment in a strapeze external channel to Gurzhar.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthxlabs.com"
+            },
+            "text": "So why are we talking about that CT image?",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthxlabs.com"
+            },
+            "text": "Because I thought the workflow is about infographics.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The workflow generates images.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That's how, you know, that's what it's supposed to do.",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's, the workflow doesn't necessarily generate just infographics.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That was my understanding of it.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the way it works is, like, it generates those images just like Napkin does.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But it should be able to generate images based on their Figma board as well.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That was part of the original spec I had sent.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If it's not doing that currently, that's a defect.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We need to flag it to Stevie and Kurtz.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So since it's not doing it right now, that's why I asked Gurzhar, can you just send.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "As the CTA, the image.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So for next week, you'll need to update it for all the comparison pages.",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So we are supposed to generate that launch rate image?",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthxlabs.com"
+            },
+            "text": "No, she will send us the image.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We just need to add it as CTA in the comparison pages.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So we'll be publishing, I think, five or six comparison pages this week.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So three older ones and three that are in the queue.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And then, so we'll be publishing that without the CTA this week.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Next week, when we, for next week's pages, we include the new CTA.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And we update the older published comparison pages with that new CTA image.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Guys, for Rapid, I've noticed that we've been identifying new audiences.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "the for them.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "And when I was doing it.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "For two articles, I was going through the older messages of Ismail just to understand what categories was there.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Do we have some document where we just list these, all audiences that are relevant for Rapid?",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "They have, broadly speaking, two audiences.",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "One is general payment ops audience, and one is, depends on the article itself.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if you see something that says something like merchants, for example, or anything to do with merchants, then it's basically merchants, right?",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "One more thing you can look at is if the article category says something like high-risk industry, then we focus on high-risk industries specifically, that will be the audience.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But a lot of their articles are just general payment audience.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So for example, the stablecoin, the LATAM stuff is all general payment audience.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "And Vivek, one more thing, like when I was out on vacation, Tiago mentioned about our editorials that we should include more technical details.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "I think it was the code.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "So should I reframe some points during my article generation?",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Just prompt wise to say, whenever it's relevant, please put the code before, because before that we were not doing this.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think we can do it after the SOW is discussed, because, yeah, for now, let's just keep running.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's not disruption.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "All clear.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And Mara, just as an update, I was going to cover this on R-Sync, but just as an update, I walked Nika through the sort of the strategy building thing in Airtable that we've spoken about in case, you know, we need to do it.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that will be done.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I'd also be curious about that.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "So maybe.",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "I'd",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, maybe I'll review the call or something, just so that you don't have to spend time discussing it with me.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But, cool, thanks for doing that.",
+            "timestamp": "00:19:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I'll share the recording with you after the call.",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And then I think the only other thing that could be useful for this group to chat about would be, so if Rapid does share, we obviously shared that, like, ICP persona template with them.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "If they, which I don't expect, but if there's, like, a super fast turnaround.",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And they've made up their mind on XYZ, other personas that they want.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That would be, I'm assuming, net new, and we can discuss, like, which articles to apply, which new ICPs to, and then we'll just fine-tune from there.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But let me know if there's anything else that I should keep in mind for that process.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I'm assuming we would just create new artifacts and go from there.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, think the artifacts that we updated, the articles that we're...",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Largely writing for them.",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "They're still for a general audience.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So even if they send us a new ICT, I think general audience applies.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And the only work that will need to be done is we will have to develop content assignments for those personas and clusters.",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But, you know, we can handle that once I come back.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just keep status quo until they send it.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, I pick one, Vivek.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "So for gadgets and model of pages, so is that going live next week?",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "Are we starting to update the pages?",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:20:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So for next week, we will be sending the pillar pages, as I said, which is just a refresh.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The week after that, we might have to start sending the model pages.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I will include some in the...",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I haven't heard updates from them, to be honest.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "honest.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So what I'll do is I'll include some just to, in case he comes back, not next week, but the week after that, in case he comes back and says they're ready, I'll include like two or three of those, but I'm not, I haven't heard anything else yet, so we'll just have to see.",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right, good stuff.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Anything else?",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Any other topics?",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "No, I guess that's it.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Good stuff.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Vivek, well, I know we'll have more chatting today, but have so much fun on your vacation.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I will.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Which country are you visiting?",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": "nika@growthxlabs.com"
+            },
+            "text": "You'd definitely be visiting some country.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'm going to Peru.",
+            "timestamp": "00:21:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Peru?",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Wow.",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'm going to Machu Picchu, so I'm doing the hike and everything.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Wow.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Wow.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I've always wanted to go, so I'm.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Doing that.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And I'll be in Peru till early December.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So my background is going to change again.",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Wow.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'll be there for a while.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So cool.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I can't wait to hear about it.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Also, I know it's not the most exciting part, but they have quite a few like llamas, right?",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So send us some pictures.",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "They have llamas and it's at a pretty high altitude.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's like 4,000 meters, basically the trek.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the best way to deal with altitude sickness is to chew coca leaves, which is what cocaine is made from, of course.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that's going to be interesting.",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's going to be very high energy.",
+            "timestamp": "00:22:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Looking forward to it.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Can't wait to see pictures.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Ismail Ajagbe",
+                "matched_calendar_invitee_email": "ismail@growthxlabs.com"
+            },
+            "text": "Well, thanks for the great work.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I hope you have a great weekend.",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Bye, guys.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:23:03"
+        }
+    ]
+}

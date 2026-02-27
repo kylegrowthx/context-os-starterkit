@@ -43,9 +43,11 @@ Veronica Ortiz participated in a Q&A session with the broader Coralogix team to 
 | Date | Event |
 |------|-------|
 | 2026-02-23 | Partnership intro: GrowthX AI workflows and collaboration model |
+| 2026-02-13 | Calendar meeting: [FTF] GrowthX <> Coralogix @ Yellow Door |
 
 ---
 
 ## Meeting Transcripts
+- `records/meetings/2026-02-13-[ftf]-growthx-coralogix-@-yellow-door.md`
 
 - `records/transcripts/2026-02-23-growthx-coralogix-partnership-next-steps.md`

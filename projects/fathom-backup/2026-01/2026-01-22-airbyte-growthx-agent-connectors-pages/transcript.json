@@ -1,0 +1,3410 @@
+[
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Hello.",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "Hey, Kirkland.",
+    "timestamp": "00:00:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "What's up?",
+    "timestamp": "00:00:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "Oh, just another day in paradise, man.",
+    "timestamp": "00:00:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "This meeting is being recorded.",
+    "timestamp": "00:00:10"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hi.",
+    "timestamp": "00:00:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "I brought Kirkland with me here.",
+    "timestamp": "00:00:36"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes.",
+    "timestamp": "00:00:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "guys.",
+    "timestamp": "00:00:42"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm trying to feed some camera.",
+    "timestamp": "00:00:45"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Oh, my God.",
+    "timestamp": "00:00:48"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, it's fine.",
+    "timestamp": "00:00:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's fine.",
+    "timestamp": "00:00:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I can see you guys, so.",
+    "timestamp": "00:00:54"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:00:57"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thank you.",
+    "timestamp": "00:00:57"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thank Thank",
+    "timestamp": "00:00:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I can give some context of what we are trying to talk here.",
+    "timestamp": "00:00:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we have some connectors pages on docs and data repo and we want to build actual landing pages for those connectors on our main domain, our main website.",
+    "timestamp": "00:01:06"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And there are certain parts on that landing page where we need to, let's say something like code secrets, right?",
+    "timestamp": "00:01:23"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And whenever the code gets updated in GitHub repo and docs, it should also automatically update on the webflow CMS.",
+    "timestamp": "00:01:33"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So how can we automate the whole process and generate those connectors landing pages automatically from GitHub repo and our docs, which is hosted in Docsaurus, right?",
+    "timestamp": "00:01:44"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "from Webflow CMS.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Ian, you have, if you want to add it to you.",
+    "timestamp": "00:02:03"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I can give some context here.",
+    "timestamp": "00:02:07"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, the connectors we're talking about are, I think right now we have about 20 of them.",
+    "timestamp": "00:02:09"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In time, we're probably going to have 100 and then 1,000.",
+    "timestamp": "00:02:17"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, it's a task that I think we don't want to manually create all these webpages for.",
+    "timestamp": "00:02:21"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The docs for these connectors, currently, are auto-generated.",
+    "timestamp": "00:02:30"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, we basically, we have a template and then we spit out a markdown file based on whatever the connector does.",
+    "timestamp": "00:02:35"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then that markdown file, we just import into DocuSaurus, the same way we would any other content.",
+    "timestamp": "00:02:46"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, I think the question here is like, what is the best way to bridge the gap between.",
+    "timestamp": "00:02:53"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "know, So, find",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Between what we're currently spitting out, and what Webflow, I guess, needs so that we could find a way to automate this.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I don't think the format has to be Markdown.",
+    "timestamp": "00:03:11"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, we do have something we could use today, but I feel like Markdown is maybe the wrong format, and having, like, a more structured import of some kind, like a JSON file might be better.",
+    "timestamp": "00:03:15"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But, yeah, there's some, there's some different ways we can do it, but I think that is sort of where we're sitting today.",
+    "timestamp": "00:03:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Can I just, like, kind of share my screen to make sure I know what we're looking at here?",
+    "timestamp": "00:03:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Sure.",
+    "timestamp": "00:03:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, like, there are these connector docs.",
+    "timestamp": "00:03:43"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Are these the pages that we're talking about on the docs.airplane?",
+    "timestamp": "00:03:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Uh, no.",
+    "timestamp": "00:03:52"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:03:54"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "If you head over to the AI agents section.",
+    "timestamp": "00:03:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:03:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Just go back to docs.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This here?",
+    "timestamp": "00:04:03"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:04:04"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, then agent connectors.",
+    "timestamp": "00:04:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, so these are the ones that we're auto-generating right now.",
+    "timestamp": "00:04:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And we're auto-generating this content here currently as Markdown, and then there's this also coming from...",
+    "timestamp": "00:04:12"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All this is coming from GitHub, or...?",
+    "timestamp": "00:04:20"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Wow.",
+    "timestamp": "00:04:24"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:04:25"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Have you shared the engine repo with them before?",
+    "timestamp": "00:04:25"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No.",
+    "timestamp": "00:04:30"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "haven't shared it.",
+    "timestamp": "00:04:30"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, so these files are actually coming from GitHub repo.",
+    "timestamp": "00:04:32"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm going to share it.",
+    "timestamp": "00:04:39"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:43"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:04:44"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, so right now, we just sort of...",
+    "timestamp": "00:04:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "When we brought in the connector publish workflow, it publishes the connectors, their source code, and, like, any...",
+    "timestamp": "00:04:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay, so these files here, then, are already connected to these, or there's some manual step in it?",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, there's another automation after that, that sort of takes whatever's in that repo and puts it into DocuSource.",
+    "timestamp": "00:05:10"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We can totally cut DocuSource out of the equation, it doesn't matter.",
+    "timestamp": "00:05:18"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's how we present it to our end users, but, like, it doesn't have to factor in the equation at all.",
+    "timestamp": "00:05:22"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we don't want it to.",
+    "timestamp": "00:05:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Erik?",
+    "timestamp": "00:05:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And the idea is we're trying to figure out how to get this all into Webflow?",
+    "timestamp": "00:05:31"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, to do a different type of landing page?",
+    "timestamp": "00:05:36"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Can you add Copland in the Slack channel or share your screen?",
+    "timestamp": "00:05:40"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I have shared those two links.",
+    "timestamp": "00:05:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, sorry if I'm asking dumb questions.",
+    "timestamp": "00:05:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I just want to make sure I'm clear on it.",
+    "timestamp": "00:05:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "To the Figma file?",
+    "timestamp": "00:05:52"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, not Figma file.",
+    "timestamp": "00:05:54"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I have shared just now.",
+    "timestamp": "00:05:56"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Can you check?",
+    "timestamp": "00:05:58"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "think.",
+    "timestamp": "00:05:58"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:05:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In the growthx.ai.",
+    "timestamp": "00:06:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "Oh, yeah.",
+    "timestamp": "00:06:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Ah, okay.",
+    "timestamp": "00:06:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yes, okay.",
+    "timestamp": "00:06:15"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we have created one landing page, so we have a landing page structure in mind.",
+    "timestamp": "00:06:17"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So now we have generated this manually, but we want to make sure we automate this whole process.",
+    "timestamp": "00:06:23"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "whenever the things get submitted in our GitHub repo, on that connector, the code or anything, that should automatically get updated in workflow as well.",
+    "timestamp": "00:06:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yes.",
+    "timestamp": "00:06:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And so, yes.",
+    "timestamp": "00:06:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:06:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So there's already automations that are essentially doing this on the doc site.",
+    "timestamp": "00:06:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "We just need to also get that set up where, when things are changing, we're also updating these pages on Webflow.",
+    "timestamp": "00:06:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That's essentially the thing that's not done.",
+    "timestamp": "00:06:56"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The piece that we need to do.",
+    "timestamp": "00:06:58"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's a deal.",
+    "timestamp": "00:06:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This has, this is just one page we have created essentially.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yep.",
+    "timestamp": "00:07:03"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And pretty much everything you see on this page, like it already exists in the docs.",
+    "timestamp": "00:07:04"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:08"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In some form, it's just like...",
+    "timestamp": "00:07:09"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Need to parse and organize and structure it in the right way.",
+    "timestamp": "00:07:11"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:16"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:07:18"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And if you look at the GitHub link, you can see there is a folder called connectors and you can see all the connectors there.",
+    "timestamp": "00:07:20"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:29"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "those are the same details which you see in docs.",
+    "timestamp": "00:07:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Mm-hmm.",
+    "timestamp": "00:07:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Mm-hmm.",
+    "timestamp": "00:07:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:07:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "This is making sense to me now.",
+    "timestamp": "00:07:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "This is very clear.",
+    "timestamp": "00:07:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I'm trying to think of...",
+    "timestamp": "00:07:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "what the best way to do that is.",
+    "timestamp": "00:07:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "All those automations you're running now, where did those live?",
+    "timestamp": "00:07:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Are those like...",
+    "timestamp": "00:07:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, some sort of cron job?",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Is it through something like N8N?",
+    "timestamp": "00:08:02"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, where are those happening?",
+    "timestamp": "00:08:04"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "GitHub Actions.",
+    "timestamp": "00:08:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "GitHub Actions, okay.",
+    "timestamp": "00:08:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So in theory, there's no reason we couldn't just set up another GitHub Action that connects to Webflow that has some sort of AI step in the middle, right?",
+    "timestamp": "00:08:08"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In theory.",
+    "timestamp": "00:08:16"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes, kind of.",
+    "timestamp": "00:08:18"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yep.",
+    "timestamp": "00:08:19"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, we would, yeah, basically, we would spit out whatever assets we need, and then there would be, like, another one.",
+    "timestamp": "00:08:22"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like a merge to Webflow workflow or something that would just handle all the rest of it.",
+    "timestamp": "00:08:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, we could totally do that.",
+    "timestamp": "00:08:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:08:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, because there's a, you know, Webflow is not too hard to work with, but there's a, there's some funny little things with there.",
+    "timestamp": "00:08:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I'm just, yeah, I'm thinking, Eric, we, go ahead.",
+    "timestamp": "00:08:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I was going to say, I'm not, I'm not at all a Webflow expert, like, never, never even used it, actually, but in my brief chat.",
+    "timestamp": "00:08:53"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "History with ChatGPT, it was pretty emphatic that I, that we should not use Markdown for this purpose.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yes, it's impossible.",
+    "timestamp": "00:09:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, what we'll have to do, so we have, for example, with Webflow Publishing, like we have a bunch of workflows that take content.",
+    "timestamp": "00:09:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Essentially, you just build the object, the request object that's going to be sent to Webflow to match whatever fields it needs to be.",
+    "timestamp": "00:09:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "The AI is pretty good at turning Markdown into that structure and making sure all the fields are filled out, like that part's not too crazy.",
+    "timestamp": "00:09:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, we just kind of have to figure out, okay, GitHub action happens when something's pushed.",
+    "timestamp": "00:09:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Then we do some sort of transformation somewhere, and then somewhere pushed to Webflow.",
+    "timestamp": "00:09:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I just have to think about, like, how we want to get that set up.",
+    "timestamp": "00:09:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, I don't know if we want to, like, expose some sort of endpoint so we can hit our workflows that already are connected to your Webflow, right?",
+    "timestamp": "00:09:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And And so just sort of, like, paint.",
+    "timestamp": "00:09:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Making those when something happens.",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That's not something we've done a ton of, but it's not impossible, or if there's like a better way of going about it, that's just what I'm trying to think about.",
+    "timestamp": "00:10:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I don't think it's too hard to do, as long as we have like really strong opinion about what that final landing page looks like, right, and like where the .content gets pulled in, how we shape that, and that looks like we're like pretty much there.",
+    "timestamp": "00:10:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Maybe I should just go look at what the Webflow page, like the structure looks like really quick.",
+    "timestamp": "00:10:26"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I can also share my screen and explain if you want.",
+    "timestamp": "00:10:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Sure, I'm going to try to log into Webflow, but yeah, if there's any other.",
+    "timestamp": "00:10:37"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So let me first show you.",
+    "timestamp": "00:10:43"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thank you.",
+    "timestamp": "00:10:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thank you.",
+    "timestamp": "00:10:48"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Can you see my screen?",
+    "timestamp": "00:11:09"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So this part what you are seeing here, this is basically this.",
+    "timestamp": "00:11:13"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Then if you see this version information, these are basically a few tags which we'll create.",
+    "timestamp": "00:11:22"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This we can add easily while publishing in Webflow.",
+    "timestamp": "00:11:37"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "First it will be in draft, we'll review and publish.",
+    "timestamp": "00:11:41"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So this is something it's easily, this will be a static thing.",
+    "timestamp": "00:11:43"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's same on all the pages.",
+    "timestamp": "00:11:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This code is basically which you are seeing it here.",
+    "timestamp": "00:11:49"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We will update our code.",
+    "timestamp": "00:11:54"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So Jan has shared the latest code.",
+    "timestamp": "00:11:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That installation usage.",
+    "timestamp": "00:11:58"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's the same thing.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This part will change.",
+    "timestamp": "00:12:02"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This is what we are seeing, supported entities and actions.",
+    "timestamp": "00:12:04"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This we are pulling from here, entities and actions.",
+    "timestamp": "00:12:08"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's just showing in a different way in a landing page, in a box.",
+    "timestamp": "00:12:12"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Then this is a normal, which will be same in all the pages.",
+    "timestamp": "00:12:19"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And what you are seeing, these prompts are here.",
+    "timestamp": "00:12:24"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "These are the prompts.",
+    "timestamp": "00:12:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yes.",
+    "timestamp": "00:12:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yes, yes, yes.",
+    "timestamp": "00:12:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That makes sense.",
+    "timestamp": "00:12:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And I'm just looking at the...",
+    "timestamp": "00:12:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Wait a second.",
+    "timestamp": "00:12:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Can you hit that again?",
+    "timestamp": "00:12:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "We were just looking at that example prompt.",
+    "timestamp": "00:12:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So that's not...",
+    "timestamp": "00:12:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Hold on.",
+    "timestamp": "00:12:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Am I missing something?",
+    "timestamp": "00:12:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "No.",
+    "timestamp": "00:12:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So that is not in the CMS template.",
+    "timestamp": "00:12:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That's actually hard-coded into the page.",
+    "timestamp": "00:12:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I think.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So we'll need to change that.",
+    "timestamp": "00:13:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I don't think there's any way to edit that content through the CMS.",
+    "timestamp": "00:13:05"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we have asked our Webflow developer to make sure that we can edit this.",
+    "timestamp": "00:13:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That is not the case yet.",
+    "timestamp": "00:13:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So we just need to change that.",
+    "timestamp": "00:13:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Which is not hard to add a ton more fields.",
+    "timestamp": "00:13:24"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:13:30"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "After that, this is a static.",
+    "timestamp": "00:13:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "This will be same.",
+    "timestamp": "00:13:33"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This is basically messaging and positioning.",
+    "timestamp": "00:13:35"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This will also be the same.",
+    "timestamp": "00:13:38"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Later, when we'll have pages for each frameworks, then we'll just link those here.",
+    "timestamp": "00:13:40"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But for now, it's just a placeholder and it will be same in all the pages.",
+    "timestamp": "00:13:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And after that, I think this is not there in FAQs.",
+    "timestamp": "00:13:51"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Right?",
+    "timestamp": "00:13:56"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like this is not there in DOCS.",
+    "timestamp": "00:13:57"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I can't hear.",
+    "timestamp": "00:13:58"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So these...",
+    "timestamp": "00:13:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This we have to add manually and that's fine.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "We just have to update I think it's what?",
+    "timestamp": "00:14:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "The same five questions on every page and we're just updating the answers.",
+    "timestamp": "00:14:05"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Is that right?",
+    "timestamp": "00:14:10"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes, correct.",
+    "timestamp": "00:14:11"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So it will be the same.",
+    "timestamp": "00:14:12"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So it will be like, we use the same thing, same component in all the pages.",
+    "timestamp": "00:14:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yep.",
+    "timestamp": "00:14:20"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So the same thing, yep.",
+    "timestamp": "00:14:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:14:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That all makes sense.",
+    "timestamp": "00:14:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I think the only thing missing on the web, I'm just looking at like the fields in the CMS.",
+    "timestamp": "00:14:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I think just that example prompts is the one thing that needs to be added.",
+    "timestamp": "00:14:31"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I have asked today because this page has been live today.",
+    "timestamp": "00:14:37"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I asked the developer today to make sure that we can edit this.",
+    "timestamp": "00:14:42"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "think probably by tomorrow or Friday, he will update that.",
+    "timestamp": "00:14:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Very cool.",
+    "timestamp": "00:14:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I'm to think about.",
+    "timestamp": "00:14:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "you.",
+    "timestamp": "00:14:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And then, actually, the entities and actions, maybe I missed this because I was looking at too many things at the same time.",
+    "timestamp": "00:15:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Is that all static, all of that stuff?",
+    "timestamp": "00:15:08"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No, this will keep changing.",
+    "timestamp": "00:15:11"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:15:14"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We have that data, too, though, that we can use.",
+    "timestamp": "00:15:14"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I guess, like, a word of warning, maybe.",
+    "timestamp": "00:15:19"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "These connectors are going to change, like, so often.",
+    "timestamp": "00:15:23"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, the team that's working on this stuff is just super productive.",
+    "timestamp": "00:15:27"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's a very, like, early pre-product market fit kind of situation.",
+    "timestamp": "00:15:31"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "like, this stuff's going to get updated a lot and sort of be prepared for that.",
+    "timestamp": "00:15:36"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And in many cases, that'll just be, like, new entities and new actions.",
+    "timestamp": "00:15:42"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Or it could be the entire code interface to work with and changes, like in the camera, Hmm.",
+    "timestamp": "00:15:45"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, yeah.",
+    "timestamp": "00:15:56"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We want to be, I guess, careful to...",
+    "timestamp": "00:15:57"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "you not be too rigid in how we approach this?",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, basically, whenever we add more entity or actions, it should also reflect.",
+    "timestamp": "00:16:07"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Because this page will be very frequently updated moving forward.",
+    "timestamp": "00:16:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Right.",
+    "timestamp": "00:16:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Something like, yeah, okay.",
+    "timestamp": "00:16:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, an entity and actions are there and that just becomes whatever list is over there.",
+    "timestamp": "00:16:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "We just need a flexible number of those, I guess, in the way that the CMS is set up.",
+    "timestamp": "00:16:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "There's different ways to do that.",
+    "timestamp": "00:16:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "You could just have, like, a hundred of them and just only visualize the ones that have content.",
+    "timestamp": "00:16:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Or, I guess, you could try to do some kind of, like, two separate...",
+    "timestamp": "00:16:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I don't really know how a webflow would play with that.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "You might just need a unique field for each entity and each set of actions.",
+    "timestamp": "00:17:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "If that changes often, could get a little finicky.",
+    "timestamp": "00:17:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But otherwise, I don't think there's anything too crazy there.",
+    "timestamp": "00:17:17"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I think there's a limited number of actions.",
+    "timestamp": "00:17:20"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like it'll never be 100.",
+    "timestamp": "00:17:26"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It'll be like, I think we're going for like a certain number of verbs.",
+    "timestamp": "00:17:27"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:17:32"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Probably end up being like 8 or something.",
+    "timestamp": "00:17:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, okay.",
+    "timestamp": "00:17:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:17:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, this all makes sense to me.",
+    "timestamp": "00:17:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, I guess the things that are standing between us and getting that done are just finishing the changes you already asked for.",
+    "timestamp": "00:17:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So whenever the webflow CMS changes get made.",
+    "timestamp": "00:17:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And then working out how we want.",
+    "timestamp": "00:17:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I guess then, you know.",
+    "timestamp": "00:17:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "know, us.",
+    "timestamp": "00:17:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "You",
+    "timestamp": "00:17:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That's just a workflow that does a good job of taking the doc site and turning it into the Webflow format, which shouldn't be that hard, but may take a little finagling, and then figuring out how to get that workflow to auto-run on GitHub Action.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And I'm kind of saying all this out loud for the transcript later, so I can have the notes.",
+    "timestamp": "00:18:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But I think that's right, right?",
+    "timestamp": "00:18:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, once we get those things sorted out, I think it's pretty much solved.",
+    "timestamp": "00:18:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Because logo for the companies, is that something I can pull from?",
+    "timestamp": "00:18:31"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:18:37"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Those connectors logos are there in CMS.",
+    "timestamp": "00:18:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yes.",
+    "timestamp": "00:18:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So right now, the logo is another little thing, but the logo is an image upload.",
+    "timestamp": "00:18:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I think it will need to be a reference field instead, so we can reference the connectors collection and get the ID of that connector and pull its logo.",
+    "timestamp": "00:18:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Go that way.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I remember we had to do that, Erik, in another content type we were doing at one point where, like, if it just said it's an image upload, I can't just pull the URL through the API.",
+    "timestamp": "00:19:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But if it's a connector or a reference field, it's kind of finicky.",
+    "timestamp": "00:19:12"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But I should look.",
+    "timestamp": "00:19:17"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I actually don't know, but the connector specification might actually include an image.",
+    "timestamp": "00:19:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, so it does.",
+    "timestamp": "00:19:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So I'm just looking here, right?",
+    "timestamp": "00:19:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So this is the CMS for these agent connectors, right?",
+    "timestamp": "00:19:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And right now, the logo is just an image upload.",
+    "timestamp": "00:19:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "If you make this, you can do it on the actual, like, design of the page, but you turn that into a connection or a reference field.",
+    "timestamp": "00:19:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I keep using the wrong word.",
+    "timestamp": "00:19:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "By name or by ID, you have to do it.",
+    "timestamp": "00:19:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And this has a connector image that's already been uploaded.",
+    "timestamp": "00:19:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And so we can just reference this image file.",
+    "timestamp": "00:19:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "In the agent connectors, there's somewhere we already do this, I forget which thing it is, might be industry pages, I don't remember, but there's somewhere where we already do something like that, it would just be like adding a, like a multi-reference to reference the connectors field, or the connectors, wherever they are, connections, okay, changes like that, there's connectors, and then you can, in the layout of the page, reference that logo instead of the upload, I don't know, is there anything else we could actually do, is there any other information we could just pull from here to make that use?",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, well, what I'm wondering is, like, if this, if the connection,",
+    "timestamp": "00:20:55"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "If the specification includes an image, it probably lives in an S3 bucket or something.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I'd have to check.",
+    "timestamp": "00:21:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "You would wish, but it lives on the Webflow CDN.",
+    "timestamp": "00:21:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I'm sure there's an S3 bucket somewhere, but these are manually uploaded into Webflow for all of these.",
+    "timestamp": "00:21:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "If there's an S3 bucket we can pull from, that works too.",
+    "timestamp": "00:21:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:29"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm not sure if I have to check.",
+    "timestamp": "00:21:30"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I just...",
+    "timestamp": "00:21:32"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I know...",
+    "timestamp": "00:21:32"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, I see the logos on the platform that we're building, so I'm kind of like...",
+    "timestamp": "00:21:33"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I feel like these guys would not be manually uploading them for every connector, but I could...",
+    "timestamp": "00:21:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, I guess you have a point.",
+    "timestamp": "00:21:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Maybe they're like...",
+    "timestamp": "00:21:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "If they're uploading them through an API, they may be pulling them from somewhere else, which might be slightly easier than trying to pull things by ID.",
+    "timestamp": "00:21:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Because basically with Webflow, like, what I would have to do is export the whole...",
+    "timestamp": "00:21:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Connectors collection, and then, like, look up by name, match by ID, and then pull the reference by ID.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's not hard, it's just kind of cumbersome.",
+    "timestamp": "00:22:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So if there's somewhere else that that lives, that would be even easier.",
+    "timestamp": "00:22:12"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No promises, but potentially, I have to look into it.",
+    "timestamp": "00:22:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, for sure.",
+    "timestamp": "00:22:22"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, so what can we give you guys that would cut the maximum number of steps out of your process, and get you as close as possible?",
+    "timestamp": "00:22:27"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, since we're talking about fields and stuff, and structured data, like, like, would JSON be more helpful than a markdown file?",
+    "timestamp": "00:22:39"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, what, what's your ideal?",
+    "timestamp": "00:22:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "The idea is, like...",
+    "timestamp": "00:22:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I mean, not, I mean, if it's easier for you, that's great, but at the same time, like, it is so easy for me to take this markdown file, right, and just turn that into this structured page.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, this being in JSON does not make that any easier, because I'm sure, right, like, you would have to have it be exactly this structure for it to act.",
+    "timestamp": "00:23:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Actually save a step, because, like, I'm still going to have to process it with an LLM unless it is perfectly structured, which I don't think is really possible, at least with, like, the FAQs and stuff, like, I don't see where those are going to end up, like, I don't even think those are easier, right?",
+    "timestamp": "00:23:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Something else, So we're going to generate those already, right?",
+    "timestamp": "00:23:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, passed this.",
+    "timestamp": "00:23:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And answer these questions grounded in the full reference doc is probably the right way to do that.",
+    "timestamp": "00:24:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, yeah, really all I need is to make sure that the CMS is, like, set up to have all those fields that we want changed.",
+    "timestamp": "00:24:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So I think at this point just these two sections just need to have fields that are how you want to handle the entities.",
+    "timestamp": "00:24:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, if there are different numbers of these, like, what the actual structure here looks like.",
+    "timestamp": "00:24:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, is it like the FAQs where there's just a bunch of them and some of them sometimes are left empty and therefore not rendered?",
+    "timestamp": "00:24:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Or do we want to do that differently?",
+    "timestamp": "00:24:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:24:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "Asana has, like, 22 different entities.",
+    "timestamp": "00:24:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, so I don't know what the right way to do that part is, really.",
+    "timestamp": "00:24:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That would probably be, like, the Webflow part.",
+    "timestamp": "00:24:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Again, I know Webflow, but not, like, enough to know a better way than just setting up, and then in terms of the actual automation, I guess, I don't know if it's easiest for me to try to set up some endpoint that a GitHub action can hit, or if you want us to manage that action as well, like, I don't know, access-wise, how you want that all to go, but just figuring out that piece of it.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I mean, it's an open-source repo, so perhaps the easiest thing is just for you to set up a cron job and just say, look at this repo and see what's in it, like...",
+    "timestamp": "00:25:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Oh, yeah, yeah.",
+    "timestamp": "00:25:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I guess I don't actually need...",
+    "timestamp": "00:25:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It doesn't have to happen exactly on push, right?",
+    "timestamp": "00:25:44"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like...",
+    "timestamp": "00:25:50"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Well, do you want that, or would, like, once a day be a sufficient update cadence?",
+    "timestamp": "00:25:51"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We do the docs every two hours.",
+    "timestamp": "00:25:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:25:57"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, like, I don't know what your...",
+    "timestamp": "00:25:58"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "...",
+    "timestamp": "00:25:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "If you want it to be that fast, or if once a day is, one day is fine.",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:26:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That actually, like, yeah, because if it's just an open repo, I can just hit that from our end and hit Webflow from our end and not really even have to touch again.",
+    "timestamp": "00:26:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Actually, that makes way more sense.",
+    "timestamp": "00:26:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:26:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Great.",
+    "timestamp": "00:26:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, that actually makes this way easier.",
+    "timestamp": "00:26:20"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So what will be the next step?",
+    "timestamp": "00:26:25"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you need anything from us?",
+    "timestamp": "00:26:27"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Or, like, you can share that in Slack also.",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, make a list.",
+    "timestamp": "00:26:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, I think it's just those couple of changes to the CMS, like, the collection itself, just to make sure all the fields are available to edit.",
+    "timestamp": "00:26:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And then from there, I think we can pretty much do all of this without, and I don't think we're blocked on anything for you guys, other than that one piece.",
+    "timestamp": "00:26:43"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I think what you can do is you can just pick one.",
+    "timestamp": "00:26:55"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right.",
+    "timestamp": "00:26:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Connector, and try to automate that and publish that, see if there is anything next, can fix the page any time, fix it, yeah.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That was what I was thinking.",
+    "timestamp": "00:27:09"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Just us know, then once you make that push live on Webflow, can see.",
+    "timestamp": "00:27:10"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "From there, take it forward, yep.",
+    "timestamp": "00:27:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Excellent.",
+    "timestamp": "00:27:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yes, that sounds great.",
+    "timestamp": "00:27:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, Erik, I'll probably just set up a workflow that we can just run manually first, just like fire it manually to go check a connector and push it to Webflow.",
+    "timestamp": "00:27:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Make sure that all works, maybe try it two or three times.",
+    "timestamp": "00:27:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And once we're like, okay, this works, then we can just set up an automation to scan for, I guess we'll just scan for which folders have been changed or which commits have touched which folders is probably the right.",
+    "timestamp": "00:27:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Or would folders be updated even if there's not a meaningful difference?",
+    "timestamp": "00:27:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Just because I don't want to like overrun this and change things too much.",
+    "timestamp": "00:27:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Much, if there's not actual changes to the...",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I think folders will not change if there's not a meaningful change, because the public skips connectors that haven't changed.",
+    "timestamp": "00:28:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:13"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Should be, yeah, like if there's a change, it should be a little change.",
+    "timestamp": "00:28:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:28:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That's kind of what I was thinking.",
+    "timestamp": "00:28:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Well, actually, I guess we could, no, no, because there's a changelog file in the repo, right?",
+    "timestamp": "00:28:22"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yep.",
+    "timestamp": "00:28:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, I could, in theory, just look at that, and look to see if there's a more recent change there.",
+    "timestamp": "00:28:30"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes, I think that'll work.",
+    "timestamp": "00:28:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I was trying to think of a best way to know when something changes.",
+    "timestamp": "00:28:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's a strong indicator.",
+    "timestamp": "00:28:54"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I can't think off the top of my head of a time.",
+    "timestamp": "00:28:56"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It would not update the changelog.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, yeah.",
+    "timestamp": "00:29:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "OK, cool.",
+    "timestamp": "00:29:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Then I think I have what I need to get started on this.",
+    "timestamp": "00:29:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "What is the timeline that you guys need?",
+    "timestamp": "00:29:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Is this like a we need this done immediately?",
+    "timestamp": "00:29:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Is this like, hey, in the next couple of days, like what timeline are you hoping to have this done by?",
+    "timestamp": "00:29:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Just so I can try to figure that out.",
+    "timestamp": "00:29:27"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like next week, Monday, Tuesday, you take time.",
+    "timestamp": "00:29:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "OK, very cool.",
+    "timestamp": "00:29:33"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, because currently what we are doing, we are just publishing this manually.",
+    "timestamp": "00:29:37"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But because there will be more and more connectors, there will be a point where we'll be having 100 plus connectors and it's tough to manually publish each of these pages.",
+    "timestamp": "00:29:42"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we have to automate the process.",
+    "timestamp": "00:29:54"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This is for...",
+    "timestamp": "00:29:58"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "for...",
+    "timestamp": "00:29:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "for...",
+    "timestamp": "00:29:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "...",
+    "timestamp": "00:29:59"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "...",
+    "timestamp": "00:29:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, makes sense, sometime next week we can have this done, I think.",
+    "timestamp": "00:30:01"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And if you need feel free to ping on Slack, we can again connect next week if you want to connect.",
+    "timestamp": "00:30:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay, awesome.",
+    "timestamp": "00:30:17"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Sounds like a plan.",
+    "timestamp": "00:30:20"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thanks for joining the call.",
+    "timestamp": "00:30:21"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I know it's a very short notice.",
+    "timestamp": "00:30:24"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I thought it would be easier to unblock things.",
+    "timestamp": "00:30:27"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yep.",
+    "timestamp": "00:30:31"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thanks for your time.",
+    "timestamp": "00:30:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, I don't think this is too complex.",
+    "timestamp": "00:30:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I genuinely think I can throw a chat of this transcript into Claude and get us at least 80-90% of the way there and then clean it up.",
+    "timestamp": "00:30:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So I don't think there's anything too crazy here.",
+    "timestamp": "00:30:44"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yep.",
+    "timestamp": "00:30:47"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:30:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Erik O'Brien",
+      "matched_calendar_invitee_email": "erik@growthx.ai"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:30:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Thanks, everybody.",
+    "timestamp": "00:30:49"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Bye.",
+    "timestamp": "00:30:50"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "you.",
+    "timestamp": "00:30:51"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "See you.",
+    "timestamp": "00:30:51"
+  },
+  {
+    "speaker": {
+      "display_name": "2 - Yellowstone",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Bye.",
+    "timestamp": "00:30:54"
+  }
+]

@@ -1,0 +1,2510 @@
+{
+    "title": "Knapsack <> GrowthX Weekly Sync",
+    "meeting_title": "Knapsack <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/180858619",
+    "created_at": "2024-11-13T20:07:57Z",
+    "scheduled_start_time": "2024-11-13T19:30:00Z",
+    "scheduled_end_time": "2024-11-13T20:00:00Z",
+    "recording_id": 35438888,
+    "recording_start_time": "2024-11-13T19:32:35Z",
+    "recording_end_time": "2024-11-13T20:07:10Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Hey guys, it's going on, it's going on, waiting for Mark.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks snowfall, and that's signing up on misery, but there's no rainfall in India or Pakistan.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Have you guys, right?",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, yeah.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's hailstorm, so there's like just literally ice falling.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Have you guys seen snowfalls?",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "not fun.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I'm worried about your vehicle, if it's parked outside.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "like they have basement parking so that's yeah they it's like the whole country is built for snow prevention snow corolling yeah so and then if there's outdoor spots but then you have to just clean the snow which is not fun and Canada Kennedy is more colder than the US right yeah who works in the orthosight so it's uh minus 30 minus me oh yes it's like if you guys are beard or hair well i don't have hair but uh and mark hey mark yeah you're okay hello yeah uh sorry mate oh good we're just talking about winters minus 30 minus 40 how's it going so well yeah thank you",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, so I mean, I think I'm talking to myself about like what we do going forwards, but why don't we put that off to one side.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I still have to think a little bit more about that.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And yeah, dig in from where we are and and also just get a sense check, like a status check, you know, number of articles performed things like that.",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Totally.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I can share my screen and yeah, that conversation is completely separate.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In other words, that's above my pay grid.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Marshall just asks me for feedback and like, how's it going?",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then he reaches out to folks to understand what the future direction is that obviously doesn't impact anything without we are doing.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I wanted to, yeah, Sammy has a lot more details, but just some things that I'm seeing and I wanted to draw perils.",
+            "timestamp": "00:02:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sammy, do you want to share your screen while I sign myself back in?",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sure.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, as for the progress so far, we have 126 clicks on the blogs that we have produced and we have around 13,000 plus impressions so far.",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This has been like a testing print throughout the journey and we heard this is quite last week which we discussed and it took our impressions to around like 1000 a day but even like you know that died down because one of our ranked on top for multiple long-term queries.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Our traffic has like subsequently go so if we exclude this spike we can still see a growing print in both the clicks and impressions.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that is a good sign as far as, you know, the traffic is concerned, I put these screenshots from SEMrush and it shows us that we have been doing traffic substantially since November started and like this is only mid of November and we can see that this month is where we can essentially say that our things have like stepped up on to the next level.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We are getting around 482 people to visit our website.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Again, this is an estimate and since like this is only from November 3rd to November 13th.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, this is just an estimate but the overall traffic that we are getting is good.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Other than that, the metric that we SEO professionals look at is the number of organic keywords that we are generating.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The articles that we are putting out, how many queries are generating.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "of those articles and whatever people are searching for what series we are appearing for and for that since October till up till now we have like around 56 organic keywords in which there are different keywords for different positions so we have keywords that are ranking for the top three there are keywords that are renting ranking for different other positions so that is like somewhere this this quadrant is showing that other than we have general keywords that are ranking for somewhere around 2200 and we will be looking at that in detail as per the top ranking keywords that we have and for the queries that they are ranking for we have these pieces that are ranking for different positions so for example what AI can handle the most amount of data that is ranking number one on google on this query the article that we made for this and then there are other articles around you know mostly that they have to do like if you look at",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "from the perspective from cluster-wise, then these have to do with specifically AI automation and how you can create one of those automations, which is like one of the core vision areas for knapsack to grow in future.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So these are the queries that we are ranking for and these are the tough positions.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There were other keywords that were ranking for let's say position 10, position 12, position 14 I did not include it because we are only at the pieces that are getting the most amount of impressions and that happened to be the ones that are on the first page and essentially in the top five.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So these are the queries that our articles are ranking for.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If we look at our top performing pages of full time, we have this AI predict crypto market trends, how accurate AI is able to predict crypto market trends and that blog got us 32 clicks so far.",
+            "timestamp": "00:06:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it got around 2,500.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the first day it got 1000 impressions and so far the impressions have like accumulated to 2.5 so that one day was a spike but even after that it is like doing steadily.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Other than that we have different blogs that we published in the beginning are now also getting clicks for example we have seven clicks on the meeting preparation send a sentiment analysis blog.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There is a blog that doesn't have a lot of impression count because it was recently produced but it has a high click through ratio higher than most of the articles that she produced so that is like how to create an AI using my book or using a Mac that was the essentially word that is like we are getting impressions for other than that we have AI for you know Pharaoh portfolio rebalancing again these are financial topics and then then some other top of internal topics so this is like the performance for the overall performance if you have any",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "was just like so far, I can entertain those.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, go ahead Jimmy.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, I was just if you have any questions when I had my stuff working on the other side.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So after your comments or questions, I can address those.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'm just curious.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So these are the ones, this is to be clear, these are the top clicks, right?",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "necessarily the top impressions, but the top impressions also the top clicks.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Like, is there one that had a really high impression, but not lot of clicks?",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, there are blogs that have low clicks for high impressions.",
+            "timestamp": "00:08:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "example, the AI investment banking, it is one of the blogs that has gotten one of the most impressions.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It didn't get any clicks in the past.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We've got two, so I'm happy it's working.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Again, there are other blogs there.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For example, AI in banking, that is around like 1,800 impressions that has got one click.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It didn't get any clicks before.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I guess banking.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's some something with, you know, AI and banking, you know, if you're looking at these topics, these are getting good impressions, but lower clicks.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There might be multiple reasons for that.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But as we get more data, we will be able to understand why that's happening.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "However, there are blogs that are like under 50 and they are still getting two or three clicks.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So all all, you know, it depends on the topic and it depends on the type of the content that is already there on the search engines.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sometimes you have high impressions and low clicks, but sometimes there are low impressions and high clicks.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For example, how to create AI using a Mac.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So there are, you know, these are different variations and, you know, you have to do this to study the data and see what's working best.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And Mark, this is just me pulling data to support some of the hypothesis from you and Sammy.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I've excluded that crypto because that was an outlier.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "just so we have the data balance.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, it seems like we're getting about eight to ten clicks a day now regularly.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "which is good.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So September to mid-December, so this is the slow phase and I'll compare the other side that I usually go back to.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But impressions have constantly been rising, so 500.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So 10 clicks a day, 500 impressions on the side.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In terms of high impressions, is where it's hit or miss.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's on different verticals, different everything.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So where you are in your journey, is you are probably somewhere here now, which is September 12.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is every.io to do small business banking, so B2B, user base, all that stuff.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then same process where there were one or two clicks, but then once you start getting that data, it's now getting 50, so 50, 60 clicks, and then impressions, like 5,000 impressions.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's just like we know how to the next two to three months.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "is again, repeat the process.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We got you from one to two clicks to 10 clicks.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now goal is to get you to 50 clicks and just study the data.",
+            "timestamp": "00:11:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And what that looks like on SEMBrush, which I know you're a big fan of, so your organic traffic is being reflected here.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I did have the backlink from every, which is the company that I'm just showing you.",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in terms of the keywords that you're ranking for, you can obviously sort of set in Google.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is all of your investment banking automation, super relevant finance team meeting ideas, notebook, LM data privacy, how to fix all these things.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But also what SEMBrush would show you is the long tail queries that Sammy was talking about, most of my data will AI affect auditing ISO.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it seems quite relevant, the document reading, all of that stuff.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "a ranking position one and two for these longer tail.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now it's just like how do we dissect these queries into smaller which are more volume and then- Can you run one of those queries by the way?",
+            "timestamp": "00:12:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just want to check something.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Is that what happens when you click on it?",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Does it run?",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll just pull it up and search similar.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So since I'm in Canada, I'll just push this here.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If I search, how do we fix the way that's presented?",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Like it says napp.ai, but our name is Napsack.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "What's the- Can you talk to Cooper about it?",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yes, I guess he was saying he doesn't understand what he would need to change.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And so I feel like this is just something we need to dig into and figure out.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay, we have a technical SEO person on team.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I will just escalate this to them right now.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And get it resolved so he will know.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is like-",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "domain migrations and everything.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I just feel like this should be an easy win for us because if I see this right now it does not inspire confidence right that there's like a just a URL no title different from the actual URL.",
+            "timestamp": "00:13:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah it might be holding back the like throughs.",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe yeah that's definitely a possibility so I'll escalate it.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We actually just just hired a full-time person for technical SEO and then people are just coming up with that request like hey I had this broken too.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we are usually a type like a content agency but now we're like becoming SEO well AI-led growth so that's where you'll hear us talk about ad bound and bad things and whatnot just outside the scope of content piece but yeah happy to escalate and I'll add person Nika if you see him join the channel that's basically what's happening.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It'd be great to just dig in and get that done.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah so really appreciate that overview and so where",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We with the number of articles right now.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I believe you're at 200.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, we're close to 100 with 160 170 something.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so 177 published 30 in the considering phase.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so we're like half right there.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is where we feel slightly more comfortable now.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Escal increasing the number of content pieces we push.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Obviously approved by you and then earlier, it was just a matter of you didn't want to risk that much.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But this is what we're doing for these things like 20 30 articles.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But now we're doing more lines of 100 for these guys.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "it's just like pages, rinse and repeat whatever is not working.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cut out that fat and keep it moving.",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I guess I mean really what we should be doing once we go live.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So we're looking at going public next week.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "We should be I mean, actually even now.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "We're joining the way list.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "should be tracking these inbounds for conversion on our website in Google Analytics, right?",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And I don't think we're doing that right now.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So not just Google Analytics, but what CRM are you using?",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Have a spot.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "OK.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So the first entry URL, yeah.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So whatever form submission company, it usually builds out that journey of how this user found you.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can build a report, and this is exactly what it will look like.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So view, blog, and sub-edit demo.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is for another client.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So without content, they had eight.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now they have 17, and this is Q4, just one month in.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is how you can start to attribute a lot of the ROI.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And yeah, I think we're going to have this when we launch with web stacks.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Right now, our version of Webflow does not include HubSpot integration, and we haven't upgraded because we are moving.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "the web stacks, so that's really what you can You could just, without upgrading webflow, you could just have this app here integration.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I did that, like.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I wrote it.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, it'll just, even on the free here of Zap here, you have 1,000 tasks.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So any webflow submissions, just triggers, and you get a upspot entry.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK, that's great.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So OK.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, they can be good too, because really what we are, are optimizing now, middle, bottom of the funnel is, know, are people downloading and starting to use our tool, right?",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So we really want try to figure out which of these, which content is actually driving the right behavior in terms of people downloading.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we can use our data to scale our content production.",
+            "timestamp": "00:16:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's always like, well done.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, so now we're sort of flying blind.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I mean, I don't know, I feel like, um, Jimmy, I need like another second with you to like, do that zap or your thing and to wire it all up.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you're up for that, it's great to do that.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I mean, I've been rewatching our video, by the way, for the clay thing and it's too much information.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It was very dense.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "was great though.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I've now, I've gotten like 80% through setting it up.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "It's working well.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I've got the, um, for every inbound on our website, they're automatically getting a email now.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "so I'm, uh, it's working.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "It's, uh, protocols and a call with me with another founder arena.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I gave a similar call about backlinks and everything and pretty, pretty good message like, hey, you should sell a course.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I know you'll buy now.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I should sell it like a $200 or $500 course on just like how to do clay for B2B founders.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Uh, yeah.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think the RB to be founder was.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "talking about how they're doing webinars now on this thing, they like, they and Clay are like working together because they're realizing this is something that a lot of people want.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, Mark, you could be my beta customer for my HubSpot course too.",
+            "timestamp": "00:18:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Whatever I can do to help, I'm happy to help.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I think that's how we are evolving as a business.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's not just AI-led content, AI-led growth.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like, how do you diversify doing outbound backlinks and all that stuff?",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know if I shared this piece with you, but so, have you seen this Excel sheet with like...",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, it's kind of nice to do matchmaking for backlinks.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Is that what you're doing here?",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Oh, no.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So that was a separate sheet that was for, yeah.",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that was the one that you saw for, yeah, this one is Pratik and I are working on this client-firework.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They like...",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "of their childhood success, startup success, SoftBank invested like $250 million into them, right?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just based on growth and everything.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we were doing content, and this is like how your content and backlink initiatives will go.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you see in the last two years prior starting content, they had 21 backlinks that they had built, but since you started scaling content, it has 25 backlinks.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the number of backlinks that generate in the first two years of not backlinks versus doing backlinks is like two weeks versus two years for the same output, right?",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you go to I think a life hacker or Android police, which are pretty reputable sources of bestlaw.com, they're citing these articles.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's like another boost.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once you go public, your tech crunch coverage is all of that stuff would really like fuel the fire.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so how did these come across?",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Was it through a PR push or what was the mechanism?",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So this is some of it was like specific.",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "precision I've found where similar to I've run campaigns you reach out to companies for content collaboration opportunities and the other ones are just the type of content we're doing so if you're doing let's say lifefire was short with your stats fatigue and wrote this article so this is lifefire and you'll see they started talking about firework which is fine what it was short for so once you pick up some fraction it's like very easy for us to duplicate this type of thing to catapult into newer levels of domain authority building and like just get it just lift an entire site up so all of these articles now that it's getting backlinks any internal link we point from within the article to the main page their entire site would get lifted specifically for the keywords so that's like the entire content game yeah",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I guess I'm still missing.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "How did the backlink happen in the first place?",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I'll treat plus organic.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, OK, OK, so and who does that outreach?",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Did you do the outreach or did the company?",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "similar to are you setting up outbound campaigns for outreach?",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can set up back on campaigns to reach out to copies.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, OK, got it.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, and so yeah, I appreciate you sharing that.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And actually with that outreach, I had a fairly tactical question for you, Jimmy.",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Like we don't want to burn our main domains.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "What do you do when you grab like it sounds like the bank of like 20 email addresses you're cycling through.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Did you buy whole bunch of domains on named people and set them up?",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yes, or yeah, it's actually did that 20 domains.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So 10 domains, two email addresses within each domain, set them from warming up for like two weeks, where you're sending about 30 to 40 emails per day per account.",
+            "timestamp": "00:21:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then once you pass a normal.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is you just start loading up email lists, subject lines, all that stuff.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like, I would love to do, don't call it Backlink Exchange.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Some people have found on that now.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It used to be called Backlink 2010, but now it's just like content collaboration.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So anytime somebody responds, it's like, hey, we can start off with a simple Backlink Exchange and then later do content opportunities.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so just to be really clear, you're just going out.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "There's no aggregate tool you can use.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "You're just going out and going to Namecheap, buying a bunch of domains and then creating emails, your Google workspace for those different things.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "That's what you're doing, Right, getnapsack.com, getnax.io, all that stuff.",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "right, right, good to know.",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "All right, yeah, so should we talk a little bit about content going forwards, like what we're doing?",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I'm realizing last time I talked a little bit about transcription, I think I was on my way into a meeting and wasn't able to go through it.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "in a lot of detail.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "just want to make sure.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I like the direction you guys were going in terms of like talking about the actual product more and I think this transcription private meaning private note-taking thing is a really critical thing.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I actually have some mocks on it which might be useful for you to give you a sense of what we're talking about.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What would be what would be most I did not create an article on private meeting transcription yet because I wanted to you know there more from you and we had other profits there so that was compensated.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "However we did create two to three articles on you know how knapsack you know is helping enterprise use and we are also talking about knapsack security which feature as well like data privacy feature as well.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There were some articles before that and we are going to go for",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "for articles that are around knapsack.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "However, I still would like to have a good bunch of top of the funnel pieces, especially the pieces where we are showing how the users or the users can get the most out of creating automations for themselves.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So those types of articles are performing very well.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think that the direction should not be abandoned, that should be there.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I was looking at the ICPs and obviously we are writing mostly for AI, for financial professionals and for the healthcare people.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I would want to go in a direction where I would be talking more, to these ICPs, but then again, I can include other people as well, just to be on the sake of going a little top of the panel.",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For example, I think lawyers, lawyers,",
+            "timestamp": "00:24:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "or also like get blurs and not knapsack score ICP but like they also have like this concern where whatever information that they have is like sort of private and they wouldn't want to upload all of those things on the internet or on the cloud so I'm not exactly selling knapsack to them but I'm selling the idea that you know the how they can help in whatever they do in processing all those case files and logs that they have because they also handle lot of data and then you know then I can also play a privacy angle there so majorly what I'm looking at is like looking at other niches talking about how AI can be beneficial for those niches then talking about how to use like how to create that mindset where you can create automations for yourself whatever profession you have with whatever like work that you're doing you can use automation to your advantage and then there was this strategy",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "that is being followed by Zapier and others so for example there are like let me share the air table and we can see this chair as well so yeah so there were there were the other companies they're doing it in a way that for example they provide AI solutions and automations and all of that and they have a specific product that deals with specific list of use cases however there are things that their product cannot do that is like out of the scope of what their product offers however that is within the domain of automation within the domain of the you know AI and all of that so what they do is like for example they create these tutorials or these article pieces where they talk about how they can like the user or the reader can use a particular method or a system and you know do X or Y for them",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, essentially even if Knapsack is not offering that, it is like sort of, you know, getting people getting more eyeballs on whatever you are producing or whatever you are offering so that these people then come and engage with your website and ultimately they discovered Knapsack and even if they weren't looking for that query initially, they look at what Knapsack is capable of doing and then they go through the other blogs and the material that we have produced, our goal is to bring them to the running page which is like in the call to action for most of the blog pieces that we have.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that is also another direction.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What I'm trying to say is that we can do the pieces where we are talking about Knapsack and its offerings and whatever features and functionalities we have.",
+            "timestamp": "00:27:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have talked about meeting prep, we are talking about, you know, private transcription as well in the future articles, then we have articles that have to do about, you know, creating your own automation, your own workflows, doesn't have to be tools.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "specific it has to be you know just the mentality or just this system of it like how you can create a workflow for yourself and do whatever like this for you then there are other ICPs that we can target not essentially with knapsack but whatever AI has to offer to those ICPs and then there is like the port direction where we can talk about whatever like is not like within the scope of knapsack but it is within the scope of AI or automation so we can also pitch that from a very top of the panel so I guess we can have like a mix and match approach where we can do a bunch of everything in creating the right balance so we can get more eyeballs and graphics.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah I'm open to that I think that that prioritization though is important right I do think right now we need to spend some time on describing the knapsack functionality to enable the medium and bottom of the funnel to capture more intent because you know I think right now it might be hard for people to understand.",
+            "timestamp": "00:28:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "understand what Knapsack is doing.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I think, can I share my screen because I do think that I want to, we're running over, I hope you're okay on time, but I do want to make sure that you understand what we're talking about here because this is actually important.",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I think, and again, in terms of ICP right now, initially, it's really around the compliance officer and the people in financial services, like the RAs who are not allowed to upload transcripts to cloud, right?",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So this is where there's a big need for a private note-taker because the tools like Fathom that you're using or Rediam that I'm using, those tools are not actually relevant for them, they're not allowed to use those tools, right?",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And so I just want to give you a sense of what we're building here so you can actually write about it.",
+            "timestamp": "00:29:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So basically, a note-taking automation would pop in, that note-taking automation would allow you to start.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And then while you're-",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "In the while you're in the meeting, you can chat and take notes directly and afterward the meeting, get a summary and the transcript.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "What's important is that when you take notes, it augments your notes into a final version.",
+            "timestamp": "00:30:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So that's really what we're talking about here.",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "We're talking about a turnkey automation that allows you privately without sharing your transcript.",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "transcription is happening on device.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "The AI summary is happening with ephemeral compute or on device, so that data is not shared anywhere.",
+            "timestamp": "00:30:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So this is really what we're talking about.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And I think when you're writing about it, I would basically first of all talk about the fact this is like one of many automations.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I would talk about the fact it's compliant with books and records is the main FINRA rule that it is compliant with.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And the fact that it is a comprehensive AI powered thing that will save a lot of time in terms of note-taking.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And that it can augment your own notes, right?",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So you can type your notes in and it'll actually augment those notes with the AI.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Trying to figure out where, here we go.",
+            "timestamp": "00:31:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "you write your own notes in, it'll augment those notes with the AI.",
+            "timestamp": "00:31:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So, is that clear to you?",
+            "timestamp": "00:31:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yes, yes.",
+            "timestamp": "00:31:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "get, like, value explaining.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "was getting all those sections that we can create and how we can, like, streamline this into an article and explain how this actually works.",
+            "timestamp": "00:31:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I'll include the screenshots as well because that will give more insight.",
+            "timestamp": "00:31:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, that's really final.",
+            "timestamp": "00:31:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I'm trying to think of, like, whether it's smart to include screenshots because we're still iterating on the screenshots.",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I'd worry a little bit.",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "that people would think this is the app, and then it's not actually the app.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "That would be, Is that a problem, maybe we could just update the screenshots later on?",
+            "timestamp": "00:32:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, that can happen.",
+            "timestamp": "00:32:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, so I'll give you access to this, this Figma.",
+            "timestamp": "00:32:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And then you can basically go through and take whatever you need from the Figma to help you.",
+            "timestamp": "00:32:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "That would be very helpful.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep, no worries.",
+            "timestamp": "00:32:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so yeah, that's it, like from my end.",
+            "timestamp": "00:32:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that we are going good.",
+            "timestamp": "00:32:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if we continue with the data that we are getting with all the things that we are producing, if we make smart use of that, I think that we will be able to scale this first.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "other because what I am looking at from like the impression count and everything uh you know exclude the last 35 clicks that we got from the AI crypto blog we still had 22 clicks from the rest of the blogs and compared to that we have like 47 clicks individually like within this week so this is like a double growth on the number clicks and we are getting around uh seven to ten clicks per day which is like which is coming from six to seven hundred impressions daily and I guess you know even like we've extrude that outlying uh growth spike we are still doing way much better than what we were doing in October and I think that the site has took off it has finally understood what topics we are talking about and how uh relevant we are to the icp that we are getting to it so I guess at this point of time if we experiment with the articles that are related to knapsack and if we do other bunch of articles that",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Muhammad Sami Uddin",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "have to do with automation, which are like middle of the funnel or top of the funnel, all of those will work, you know, side by side to create a good amount of traffic, relevant traffic that you can further convert into, you know, leads and business eventually.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay, well, appreciate that insight.",
+            "timestamp": "00:34:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Thanks for your time and we'll see you next week.",
+            "timestamp": "00:34:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, thank you.",
+            "timestamp": "00:34:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Bye bye.",
+            "timestamp": "00:34:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Bye bye.",
+            "timestamp": "00:34:28"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Knapsack and GrowthX to discuss content strategy and SEO performance.](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=13.0)\n\n## Key Takeaways\n\n  - [SEO performance is improving, with 126 clicks and 13,000+ impressions so far](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=189.0)\n  - [177 articles published, 30 in consideration phase; team comfortable increasing content production](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=852.0)\n  - [Need to set up proper tracking of inbound leads and conversions via HubSpot integration](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=900.0)\n  - [Focusing on describing Knapsack functionality, especially private note-taking feature for compliance-sensitive industries](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1720.0)\n\n## Topics\n\n### SEO Performance Update\n\n  - [126 clicks on blogs, 13,000+ impressions](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=189.0)\n  - [Growing trend in both clicks and impressions, excluding one outlier spike](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=230.0)\n  - [SEMrush estimates 482 website visitors from Nov 3-13](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=240.0)\n  - [56 organic keywords ranking, some in top positions](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=300.0)\n  - [Top performing page: \"AI predict crypto market trends\" with 32 clicks, 2,500 impressions](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=403.0)\n\n### Content Strategy and Production\n\n  - [177 articles published, 30 in consideration phase](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=852.0)\n  - [Team comfortable increasing content production rate](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=859.0)\n  - [Balancing Knapsack-specific content with broader AI/automation topics](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1560.0)\n  - [Focus on describing Knapsack functionality for medium/bottom funnel capture](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1720.0)\n  - [Targeting compliance officers and financial services professionals as initial ICP](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1469.0)\n\n### Technical SEO Issue\n\n  - [Discovered issue with how Knapsack appears in search results (URL/title mismatch)](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=733.0)\n  - [Jimmy to escalate to technical SEO team for resolution](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=771.0)\n\n### Lead Tracking and Analytics\n\n  - [Need to set up proper tracking of inbound leads and conversions](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=900.0)\n  - [Plan to integrate HubSpot with Webflow using Zapier](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=917.0)\n  - [Importance of attributing ROI to content efforts](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=947.0)\n\n### Private Note-Taking Feature\n\n  - [Mark shared mockups of private note-taking automation](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1742.0)\n  - [Compliant with FINRA \"books and records\" rule](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1756.0)\n  - [On-device transcription and AI summary for data privacy](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1830.0)\n  - [Ability to augment user's own notes with AI](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1869.0)\n\n### Backlink Strategy\n\n  - [Discussion on outreach campaigns for backlinks](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1292.0)\n  - [Jimmy shared example of successful backlink growth through content (Firework case study)](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1634.0)\n  - [Tactical advice on setting up outreach email infrastructure](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1308.0)\n\n## Next Steps\n\n  - [Jimmy to set up Zapier integration for HubSpot lead tracking](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=917.0)\n  - [Sammy to create content on private meeting transcription feature](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1933.0)\n  - [Mark to provide access to Figma mockups for content team reference](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1933.0)\n  - [Continue balancing Knapsack-specific content with broader AI/automation topics](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=1560.0)\n  - [Resolve technical SEO issue with search result appearance](https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ?tab=summary&timestamp=733.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Escalate technical SEO issue re: incorrect URL display in search results to tech team",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:12:40",
+            "recording_playback_url": "https://fathom.video/calls/180858619?timestamp=760.9999",
+            "assignee": {
+                "name": "Jimmy Pal",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Wire up tracking for website conversions in Google Analytics",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:14:49",
+            "recording_playback_url": "https://fathom.video/calls/180858619?timestamp=889.9999",
+            "assignee": {
+                "name": "Mark Heynen",
+                "email": "mark@knap.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Set up Zapier integration for HubSpot to track inbound leads from website",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:40",
+            "recording_playback_url": "https://fathom.video/calls/180858619?timestamp=940.9999",
+            "assignee": {
+                "name": "Mark Heynen",
+                "email": "mark@knap.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Assist Mark with Zapier setup for HubSpot integration",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:56",
+            "recording_playback_url": "https://fathom.video/calls/180858619?timestamp=956.9999",
+            "assignee": {
+                "name": "Jimmy Pal",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Share Figma access for note-taking automation mockups with content team",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:32:02",
+            "recording_playback_url": "https://fathom.video/calls/180858619?timestamp=1922.9999",
+            "assignee": {
+                "name": "Mark Heynen",
+                "email": "mark@knap.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Cooper, Mark (Knap)",
+            "email": "cooper@knap.ai",
+            "email_domain": "knap.ai",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mark Heynen",
+            "email": "mark@knap.ai",
+            "email_domain": "knap.ai",
+            "is_external": true,
+            "matched_speaker_display_name": "Mark Heynen"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Muhammad Sami Uddin",
+            "email": "muhammad@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Prateek Gupta",
+            "email": "prateek@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Prateek Gupta"
+        }
+    ],
+    "recorded_by": {
+        "name": "Prateek Gupta",
+        "email": "prateek@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/x_Gc44EYS9X6CRkNW-PYxJraeFMmH_aJ",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

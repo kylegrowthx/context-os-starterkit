@@ -1,0 +1,4276 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "All right, got Kirkland back on.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "I just want to enter Dorian here really quick.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So Dorian is my manager.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "wanted to come in since we're nearing to decision time to kind of slow down, make sure we have all of our ducks in a row and all of us move fast and break things.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So he said, okay, let's make sure that we have everything in place first.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So I'll give it over to you, Kevin and Dorian.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "Kevin has your answers.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So yes, yes.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So I wanted to start with that just before like the enterprise SEO portion.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So I did get clarification on basically just how we capture that data within AIO.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I know the first question, Kirkland, I think you asked was around this prompt generation piece.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So specifically like the topics, the keywords and how we capture these prompts.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So they clarified on that.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "It's mainly out of our keyword magic tool here.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So as you can see, like we would filter that down by question.",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So we would start.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "With a keyword with a term, and basically filter that down to questions, and then specifically through advanced filters here, just focus around like, you know, AI overview, but most commonly asked questions in Google around that specific keyword.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then, of course, when it comes to just, you know, the standard AI, like, you know, AI data across these LLMs, that is just from an API integration we have set up with each platform.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So like sentiment, just everything we have in here, like positions, that's all through an API integration we have with these AI platforms.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So any additional questions just on AIO in general?",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "like, so I guess we're digging into this a little bit, like, if I'm going to use ChatGPT, stop, or web, like what model it's using, kind of.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So over time a little bit.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So like, let's say, you know, we're 4.0 now and it goes to whatever they're going call the next one.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So three months from now, I'm tracking that like in these charts, when I look at my citations over time, like, what would that look like when it's like a different model every few months?",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so it could change.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "It could kind of like mess up the position a little bit if ChatGPT updates to a different model.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Now, at the same time, I feel like once they do that update, it's going to capture a lot of the same information at first.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, but my question is like, how's that shown in the reporting?",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I know it's going to be like months from now and maybe I'll have a different way of reporting, but like, will it be the same line, you know, like in terms of like my mention percentage?",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so like, like, as you can see here, we track like a lot of different forms of ChatGPT, for example.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So again, if they add just like a new version, you would just kind of add that within the prompt tracking.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And it could be different.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like, again, GBT40 mini to, like, you know, like, 01, for example, as we see here.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Sorry, Jason, am I understanding that correctly, your question?",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think so.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, you're answering it, like, partly, but I guess, like, in the monitoring and reporting dashboard part, like, you can go there.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I know you report, like, oh, what's my presence here, right?",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, as a percentage, I think.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so, like, share of voice, for example.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, so share of voice is across, okay, it looks like you can do it across model, but if just wanted to know, like, what it is for, like, OpenAI, ChatGPT, can I do that, like, to group all those together, you know?",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so we could do that a couple different ways.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "One could be you would just filter one by one here based off of those AI platforms you're tracking those prompts in.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We could also do model comparison here.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let me just tab over here.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And if I get rid of the model.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We can just kind of see our share of voice across whatever AI platform we're tracking here.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, again, like if they add, if ChatGBT adds another version, for example, we can track that and just see like our number of mentions up against our share of voice in those specific models.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "Jason, I think it's going to be kind of, if we think of it similar to like when Google updates, you know, we don't know exactly what they're updating or what, you know, they're not telling us what to do after the updates.",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So, you know, when you see the changes after those updates, I think it's going to be similar if that's what you're asking.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So you would just see.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "I feel like I'm just not communicating.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's okay.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We can move on to this.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Let's look at the.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Dorian Foster",
+                "matched_calendar_invitee_email": "dorian.foster@semrush.com"
+            },
+            "text": "Jason, are you trying to measure the differences between the two as they make updates?",
+            "timestamp": "00:04:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "differences.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I guess for us, like, like I want to see some continuity, like for our clients, right?",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like the task from them, like, hey, help me get cited more in ChatGBT.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Not, hey, help me get cited.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Or in ChatGPT 4.0, right?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So when I report that, like I'd like to show a line or however, you know, over a year, it doesn't matter how many models have come and go as the default model for ChatGPT that like shows that trend.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So that's my question.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like if I can kind of like follow those models in one, you know, and then just show kind of our progression based on like the default ChatGPT kind of answer.",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "If I was using the web or the desktop app, which is what we'll use, right?",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like you guys are using the API.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's just a proxy for like what I get out of the desktop app.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Kind of like a not imperfect proxy, but that's all you can get.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Dorian Foster",
+                "matched_calendar_invitee_email": "dorian.foster@semrush.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Dorian Foster",
+                "matched_calendar_invitee_email": "dorian.foster@semrush.com"
+            },
+            "text": "So you want to see cumulative data for each individual one and regardless of the update is what it sounds like.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Dorian Foster",
+                "matched_calendar_invitee_email": "dorian.foster@semrush.com"
+            },
+            "text": "Am I?",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Dorian Foster",
+                "matched_calendar_invitee_email": "dorian.foster@semrush.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Dorian Foster",
+                "matched_calendar_invitee_email": "dorian.foster@semrush.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, I think I understand.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So it's just.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Being able to like just drill it down, or you'd rather just see them all compared next to each other just from like a time frame.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, maybe I could follow up and like I'll try to type it up in email.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't want to take, you know.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, yeah, no, that's fine.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, we could drill more into that.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Again, I can kind of bring that back to the product team and we could see if we would have a way to do that.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But I know primarily today we just want to look at the core SEO platform.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So I do want to clarify, I mentioned this last time, but as of June 1st, you can buy the AIO platform stand alone.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "It used to be tied into the enterprise SEO platform.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But, you know, like I know there were some helpful things within here, for example, that we maybe wanted to focus on.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I know a lot of the stuff, Marcel, is also built kind of within your core platform, but we could definitely see what we can",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Help out with that's available just within this enterprise piece, because what you're spending right now currently, it's kind of already within this price range with all those extra seats you're paying for, and this kind of more has like a system of you can add as many viewers into these specific workflows as you want, and then there's a certain amount of admin users that can set up the workflow.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So really the primary upgrade on top of core with this is that it just gets to the point.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So for example, like, you know, I take your client example, Abnormal AI, you know, we measure March through May there, for example, and we can see that just overall traffic and very high level data, but really drill down that specifically why that has occurred.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So like, you know, for example, we could see, you know, specific keywords, which we won traffic through, you know, or identify a problem, for example, where we lost positions and therefore traffic.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Really just identifying the biggest keyword impact.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then, of course, we can see that specific impact on subfolders, on specific parts of the site.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "You know, right down specific pages, we can really kind of just lay out the site map there and again, see that traffic impact.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then, of course, we can, you know, cluster those into groups of keywords that we might want to target on, adjust the associated content with.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, for example, like a group of value keywords, their associated target pages.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then, you know, of course, like maybe we want to target these top two that haven't had a significant traffic change.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But we know from the past, for example, from past experience that, you know, they've contributed a significant amount of traffic.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, you know, maybe we want to target on those.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But really just to kind of diagnose like what's occurring, slightly high level, the issue, and then we have the sub reports on the side.-tributory, the",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Again, if you wanted to go into keyword intent changes or like a SERP summary, for example, drill down to AIO from that perspective.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "These are just some of the options we have available here.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "From a reporting aspect, prospecting with new clients, I've seen this used a lot of different ways here.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Any questions on this?",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "If you go to the pattern table, like this one, is there just like a...",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "set number of insights that can appear here?",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I've seen a lot of different pattern insights added for this.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like, for example, sudden ranking loss is one we'll sometimes get.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Now, it hasn't generated for this specific one because there was no big kind of group of keywords that contributed to a sudden ranking loss and therefore tracking loss.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's really cool.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Do you know how many, like, patterns plus insight, like, kind of...",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I don't know the exact number.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, I can send you over that exact list after this.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I'll just have to pull that from our documentation.",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That'd be helpful.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let me take a note of that.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Add in table.",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Basically, like stuff like this, we kind of just do annually right now.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "This is nice.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I mean, that's like really the big upgrade of this is just like these reports, they take about like five minutes to generate.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So it just gets straight to the point.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "you everything you need to focus on.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Really just diagnosis like the issue of, you know, why you won or why you lost.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Now, like I know you, I know Marcel like told us before that you have your own like internal content workflow, like really when you take a list of the keywords, how do you currently address like that content, like know what to change?",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I can take you through this a little bit first.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Maybe you can kind of tell how it compares.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Do you think that would be helpful?",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:11:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Perfect, yeah.",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And just like all this stuff, like insights, even this, as you go into it, like what's available in the API?",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Because it's like generally how we try to work is we try to automate things, right?",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So being able to access some of this stuff is really I see.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "that's where it could get a little tricky because we do have everything to be exported out via CSV.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But there is no like API that would just automatically just pull this out with you having to come into the platform.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like this kind of stuff would be more like PDF, but most of it like these keyword lists are CSV.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But again, it would just kind of like get you just right to that list right there.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And it would just be very easy to export this out right here, just like that.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's what we would have here.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then I know you can kind of connect that within the platform.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But it's no, like, traditional API integration like the core platform has.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I know they kind of like to keep just everything from that perspective in-house.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Got it.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But, yeah, this content analysis summary here, like, if we take a list of keywords that we want to target, we can see the current position, the current content score.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So that kind of goes off of the score Google uses to rank the quality of content.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then we have the average top five competitor content score of their content with that associated.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "How does \u2013 what goes into that content score?",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So there's a lot of different things that go into it.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So if I \u2013 like, if I just go into this content editor, for example, let me just create a quick content brief.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "One second.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "It's like a keyword relevancy spam score.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, like, you know, to avoid \u2013",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Keyword dumping, for example, you know, this is like your proprietary kind of like thing.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I know it's defined off of, I believe it's called like Google's birth algorithm.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so I mean that's something that we've basically modeled it off of how Google, like, you know, what they look for in content basically.",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And yeah, so it's like a relevancy score, spam score, keyword coverage, like word count.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And we can really drill into that in these specific words.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like if I just go into abnormal here and the associated content, it's going to give you like all those terms to add must-haves versus good-to-haves.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then we have that market comparison.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So like in this case, it's picking up on their old URL, it looks like, that's still really capturing the top of the shelf there.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Because I know they recently kind of just rebranded.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's now .ai.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Um, still migrating.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But you know, like we can see like, again, if it was another example where it wasn't like still migrating like this, we could kind of just see the competition, the relevancy score, like word count, basically what's working for them, where they're ranking.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And this kind of just factors all of that in.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And you can just adjust that content.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Um, just within this content editor here.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Oh, wait, like, could you go back to that?",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I was going to ask like, okay, if you tell me I have a bad score, like where's the place to action on that?",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So yeah.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So yeah, it's, let me try refreshing this because I've never actually seen this happen before.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Um, maybe it's just not, I think it's a duplicate, uh, keyword that's picking up on like two content pages.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And this specifically, it's just picking up on a video.",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Um, so this would more, or so be like, you know, if we did like email spoofing, for example, let's do one of the good ones.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Just give this a second to load.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But really, that's where we can kind of bring in just that article and adjust it with the recommendations and try to increase that content score.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then for the AI overviews in SERP, is that a part of the enterprise product or is that part of the AIO product?",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Sorry, the AIO in...",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You know how you search for stuff now and the top results sometimes is just like an AI-generated summary from Google?",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Do you guys track that at all?",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, oh, is my link, even if it's on the fourth page, but it's getting picked up in the AIO review.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "In AIO.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's primarily going to be through this AIO tool.",
+            "timestamp": "00:15:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So that's just going to be like the Google AIO review.",
+            "timestamp": "00:15:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, that's where we can track that.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then is there like for a particular keyword, is there like a indicator on the enterprise product that tells me like, oh, this is a SERP that kind of has that at the top now, you know, which I know is like reduces click through for everything once that happens.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so there is some SERP features that we have available here.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let me go into this features summary here.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let's see if we get anything.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Oh, that's right.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I'm in the AIO account.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's why.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "One second.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so this is really where we can drill down like, you know, for your specific brand right here, we can go to AI overview.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And just, you know, track those affected keywords with the associated URLs that are being impacted by that specific.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let's a SERP result.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "SERP feature intent.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Sorry, where is the AIO stuff here?",
+            "timestamp": "00:17:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, yeah, this is just drilling down in the keywords that are, so it seems like it's a lot of, like, knowledge panel, but somewhere in here it's picking up.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "it's like a tag there.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, it's AIO.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yes, that is a way we could track that.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's in the What Has Happened report, and, again, that's going to be just, like, the time period that you select to analyze that.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let's see if this is right.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:17:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So this is right here, and, you know, like, as you can see, we have the relevancy score.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We want to keep that spam score low.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Just, you know, mainly the metrics that Google looks at, and then, of course, like, the terms we can add, maybe we can, like, decrease on some of these keywords to lower that spam score further.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But, of course, we could do this with, like, you know, subtopics or headings also.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So really just kind of based off.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "What Google is looking for and what's working for the competition, what's really working for the top competitors.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We also have this feature, we can improve text with AI.",
+            "timestamp": "00:18:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We'll see what it could do with this because this right here is rather high already.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But if we do like revise for SEO, for example, it can regenerate some of the content and try to get that score higher.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We could see what impact that has.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then, of course, that can just be implemented right within the platform.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But while that's loading, like based off of what you've seen from this content perspective, how's that compared to what you currently have in platform at the moment?",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Good question.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, we kind of automate a lot of this.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We try to look at the SERP and then see, like, are we missing any sections or, you know, potential questions answered by other articles that we're not answering.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, Uh...",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Uh...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Uh...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Uh...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I see.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So just through like the core API using like, for example, just like SEMrush keyword data, like I know we have some content writing tools within core, but I know they specifically aren't available via API.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So is it more kind of like using our API to like feed something that you've built internally to kind of just automate that content writing process?",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I mean, if we could do that, that would be great.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think this is like kind of interesting.",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We do plenty of like, like, it's not all automated, like we'll kind of create an outline and then a human goes in and, you know, we'll create kind of like a first draft and then a human will go ahead and kind of like edit it.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It really like goes back and forth between editor and like LLM.",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I see.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But I mean, almost anything, like everything you've showed, like if there was an API, feel like we would make use of that.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like I like the patterns.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's feedback I've been giving too, so I can note this again.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "you.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But, like, I know specifically, like, SEMrush, when they have a content tool like this, I know this specifically is something they want to keep in-house.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But, again, you would have just an unlimited amount of users you can add to their given projects.",
+            "timestamp": "00:20:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, like, your clients could even come in here and just access their reports and view them if that's a way you want it to go.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Otherwise, like, all of this could be exported out, but it's going to be more manual to your specific, to implement your platform.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "No, I mean, I think it's good.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I wasn't expecting to be able to, like, export this, you know, to kind of the value of your product.",
+            "timestamp": "00:20:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Could you show more on, like, let's see, show more on, like, the research phase, maybe?",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, if we had a new client or, like, you know, we're just starting or we're trying to sell a client or trying to do some work to, like, come to the client prepared.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yes, that's mostly going to be the what has happened report that I used here.",
+            "timestamp": "00:20:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, again, like.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "If you're prospecting a client, you could say, like, let's see how you performed in the first quarter of this year or over the last couple of years.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And that's when, you know, you can really kind of diagnose the issue and kind of write out a plan here.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, I mean, that's how I've seen, like, agencies use this in the past, for example, where, you know, if they identify, like, a traffic drop-off, for example, they could be like, listen, like, if we focus on these keywords, these have lost traffic.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let's try to regain those positions and adjust the content by bringing, you know, maybe these top, the top 10 of these, or even the top 100, if we wanted to do it in bulk, into the content analysis to see specifically what we could change in the content to kind of.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "And the forecast would be helpful, too, right?",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That would be helpful.",
+            "timestamp": "00:21:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, I don't think we've covered that yet.",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But that would be, so this is basically a calculator you can use.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I just factor in basically, like, what you would expect.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, I mean, this is a...",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "The sample size that I used, I believe like the keyword losers list, you know, around 5,000 keywords there.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But if we captured all of those and we kind of stuck to this criteria here.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So if it's a high keyword difficulty, we're going to capture position number five.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "If it's low, we'll aim for one.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But really the big part here is going to be the RPC model.",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So that's, you know, return per click.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So I've actually used some AI platforms to calculate this for like their specific market on average, especially if it's like an e-commerce company or something of that sort.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "You know, what's like the typical RPC for like, you know, maybe I'll like page the domain and then I'll say like in this market or general.",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I also see, sorry to cut you off, but I also see just in the sidebar the A-B analysis.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, could you share that a little bit?",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Because I guess a lot of times we do is like, I mean, when we come in, we got to prove ourselves a little bit.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So, you know, we say like, oh, hey.",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Refresh some of your old stuff just to show you like that'll actually help improve things, you know?",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, let me jump into that.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "haven't had a workflow set up for that today, but we can jump into just one of the examples we have here.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Wait, so what is the workflow again?",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "These are just like the standard SEO workflows that we have within the platform.",
+            "timestamp": "00:23:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, again, that's going to be for like, you know, diagnosing, you know, performance over time.",
+            "timestamp": "00:23:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, what has happened?",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's basically like a report, almost.",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yes, yeah, exactly.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We can set up reports here, which you can really kind of like customize.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like, if I just jump in here real quick, let me give that a second to load.",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "We call it a workflow, Jason, because I'm thinking it's because we're showing you what all could or should be done.",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "And so this is the workflow.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "need to work on these keywords.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So I think it's just...",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Correct.",
+            "timestamp": "00:23:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then, like, everything else...",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Everything else in here is going to be just, like, tracking performance over time.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, like, under the project level, if you set up, like, a keyword, like, a hierarchical keyword structure that you want to track under, like, specific categories, like, that's something that you could track, like, under, you know, like, search performance, for example, as we see here on the left.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then you can connect, like, your DSC.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's something that we took a look at last time, like, when we were seeing the impact of AI, just, you know, on keywords that we're ranking for in general, and how much traffic we're losing out when those keyword positions have stayed the same.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's, like, data that we can get connecting our insights with GSC or even, like, you know, Google Analytics, for example.",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "If you wanted to connect that and kind of get, like, an SEO PPC analysis and see potentially, like, what paid keywords you could move over to organic and kind of.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "You know, save some revenue on from that perspective.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So like for this one, let's see, so URL, keyword, and then you're measuring that over time.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:25:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "you define the URLs, I just dump a list in there, is that?",
+            "timestamp": "00:25:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Correct, yes.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So it's going to be dumping a list of URLs, or you can dump a list of keywords in.",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "There's a lot of different approaches you can kind of target here.",
+            "timestamp": "00:25:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "If you just do the specific URLs, that's just going to capture the associated keywords they're ranking for.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But, you know, of course, you can kind of compare those two test groups over time.",
+            "timestamp": "00:25:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And, you know, just see like what kind of impact that it's had, you know, when just kind of taking those two approaches here.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And again, it's going to be just traffic, position, it's going to be the standard stuff.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Sounds great.",
+            "timestamp": "00:25:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, tracking that from a group perspective.",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "What else?",
+            "timestamp": "00:25:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So this is helpful also.",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, there's there's a million.",
+            "timestamp": "00:25:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "a",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Things we can do in here.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I guess if you just hover, like, what exactly is in here?",
+            "timestamp": "00:26:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I know we don't have time to go through all, but just, like.",
+            "timestamp": "00:26:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so, like, search performance.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "This is what I mentioned.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And if you just, like, track a list of keywords over time for a client here, and we can really kind of just drill those down to specific, like, you know, parent tags to child tags to the specific keyword groups.",
+            "timestamp": "00:26:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And just measure our share of voice, our brand awareness over those specific groups of keywords.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And, again, like, this is something that we can generate just every time it's run.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then just get, you know, just, like, kind of update the client on this from a reporting perspective.",
+            "timestamp": "00:26:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, so you've got market analysis, page speed, pretty self-explanatory.",
+            "timestamp": "00:26:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Oh, so on Google Analytics, could you share, I guess, what.",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "What exactly do you guys do here?",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:27:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I have to make sure it's set up for this specifically.",
+            "timestamp": "00:27:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Some of these, we don't have the Google Analytics connected.",
+            "timestamp": "00:27:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Let me see if we have it for Amtrak.",
+            "timestamp": "00:27:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Doesn't look like it.",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Sorry, I wasn't expecting to jump into this today.",
+            "timestamp": "00:27:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I would have had an example already, but that's...",
+            "timestamp": "00:27:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Sounds all good.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I didn't know what you guys offered.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Lowe's.com.",
+            "timestamp": "00:27:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'm trying to think, like, I guess what I was trying to see, like, a lot of times we're trying to kind of connect traffic to kind of, like, down-funnel things, like sign-ups, lead forms.",
+            "timestamp": "00:27:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And just the way Google Analytics is, it's, like, very painful.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So we end up making a bunch of, like, liquor tables, but then the liquor tables aren't, like, super flexible, so, you know, not everyone can update them.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So I just kind of want to see, like, what you guys can do there.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I see.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "A concrete example is like, there's literally seven events that you can put in a bucket and call conversion, just because the way they track it, like every demo page is a different event, and in Google Analytics, it's like a huge pain in the  to make that a funnel.",
+            "timestamp": "00:28:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I see, it's tracking specific events and...",
+            "timestamp": "00:28:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, I think it'll be better if I could just maybe send over, just find a better example of the data we have available here, but I know this report, for example, it's really just identifying, for example, this company, I don't think they have a PPC approach anymore, but if they did, it would be potentially bringing those over to what keywords would be beneficial to bring over to SEMrush.",
+            "timestamp": "00:28:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then all this stuff you've shown, I think last week, I don't remember if you guys mentioned you would send over the pricing or anything like that.",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, what exactly is the price based on?",
+            "timestamp": "00:29:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, is it number of projects, users, like a thousand SEO tests, you know, like where exactly are the limits?",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so we would have to find out how many clients you would want to set up projects for, how many keywords you would want to track across those projects.",
+            "timestamp": "00:29:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Of course, like whether or not you want AIO, because that's another thing, like how many clients would you want to bring into that AIO platform, for example?",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like, would you want that Google Analytics and GSC connection?",
+            "timestamp": "00:29:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And, like, I know one thing that we haven't talked about is, like, our technical crawler, too.",
+            "timestamp": "00:29:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Is this an integration that you would want, it kind of goes, I guess, more...",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "It can crawl a million pages, for example, rather quickly, but it really prioritizes your website health score and kind of clusters those into specific issues, and then how much you can gain in site health.",
+            "timestamp": "00:30:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, just on this, let's do LCP.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "If you click that, what exactly are you guys saying about that?",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, let me just open this section real quick.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Sorry, my internet is very slow again today, I think because it's storming outside.",
+            "timestamp": "00:30:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Everybody's on the internet locally.",
+            "timestamp": "00:30:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, so we can drill down those specific pages, but we can get even more insight like in web vitals.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So like you said, the LCP, for example, like we can filter by the pages.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "With the highest LCP that are being impacted by that.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, for example, like 11 seconds here and then really drill down into those file sizes that are causing, you know, might be kind of causing low load speed there.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "You can also connect your GSC and just bring in like some of those engagement metrics.",
+            "timestamp": "00:31:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So to see like the most clicked pages, for example, and really just identify, you know, those Google Lighthouse metrics here.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Also, like single page analysis, I know this tends to be helpful.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So if we went into like the forecast, if we want to take like the highest forecast URL, let's just, let's go with the subfolder here.",
+            "timestamp": "00:31:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Second place.",
+            "timestamp": "00:31:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And let's say we adjust that page from a content level.",
+            "timestamp": "00:31:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We can also just drill.",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I'm from a technical aspect too.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Just give that a second to load.",
+            "timestamp": "00:32:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Play performance, disability compliance.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, primary errors, like the file size for this URL is very big.",
+            "timestamp": "00:32:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then we can drill down into those specific issues.",
+            "timestamp": "00:32:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "With all of this, you would have a CSM also, a write CSM.",
+            "timestamp": "00:32:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "You can help you make sense of these technical issues.",
+            "timestamp": "00:32:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then also just an enterprise CSM also, who can help you kind of just set up the workflows.",
+            "timestamp": "00:32:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I think I'm like pretty, like I have a good sense of the features.",
+            "timestamp": "00:32:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think enterprise honestly looks pretty good.",
+            "timestamp": "00:32:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think the AIO stuff just can lead, to not be as good as some of the other platforms we're looking at.",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "What specific platforms, like Profound or?",
+            "timestamp": "00:32:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, Profound and Scrunch, basically.",
+            "timestamp": "00:32:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think it's like the way it's presented, slightly not as good.",
+            "timestamp": "00:32:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then, I guess you said there's no API, right?",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Which I think that one's going to be the thing for us.",
+            "timestamp": "00:33:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Does Profound have an API for this?",
+            "timestamp": "00:33:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:33:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think they do, right, Kirkland?",
+            "timestamp": "00:33:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Profound and Scrunch both have one, I believe.",
+            "timestamp": "00:33:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": "kirkland@growthx.ai"
+            },
+            "text": "Probably.",
+            "timestamp": "00:33:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": "kirkland@growthx.ai"
+            },
+            "text": "I'm not 100% sure on Profound.",
+            "timestamp": "00:33:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": "kirkland@growthx.ai"
+            },
+            "text": "I know Scrunch does.",
+            "timestamp": "00:33:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:33:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, I can take that internally and just see if we were to add an integration like this.",
+            "timestamp": "00:33:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Just, like, what the time frame would be on that.",
+            "timestamp": "00:33:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I mean, let me know, I guess.",
+            "timestamp": "00:33:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Just for what it is, I mean, it's quite a bit more expensive.",
+            "timestamp": "00:33:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And also, it just seems to lack some of the stuff we need.",
+            "timestamp": "00:33:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Just being transparent.",
+            "timestamp": "00:33:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then, yeah, but I mean, on Enterprise, I guess if you could tell me.",
+            "timestamp": "00:33:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, I don't think I got any of the pricing stuff you guys shared last week to review.",
+            "timestamp": "00:33:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But, like, I just want to know, like, what exactly are my limits?",
+            "timestamp": "00:33:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like...",
+            "timestamp": "00:33:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "like...",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's It's",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "We were going to get that to you today.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "He had to go and talk with management.",
+            "timestamp": "00:34:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So you didn't miss anything.",
+            "timestamp": "00:34:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So yeah, since we only have a few minutes, Kevin, if you want to get into the pricing and then go from there.",
+            "timestamp": "00:34:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So there's basically different tiers.",
+            "timestamp": "00:34:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "We have bronze, silver, gold, and then platinum.",
+            "timestamp": "00:34:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I think you would be on the, based off of what we heard today, it would be more the silver tier.",
+            "timestamp": "00:34:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And that would also be with this right integration.",
+            "timestamp": "00:34:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So would you be looking for this crawler here?",
+            "timestamp": "00:34:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Something like this?",
+            "timestamp": "00:34:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Good question.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It looks useful, but I don't know, like, the other one that I would get, how it compares to that if I would really need this one.",
+            "timestamp": "00:34:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So maybe, yeah, maybe don't include this one for now.",
+            "timestamp": "00:34:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, we have Screaming Frog and we usually run that.",
+            "timestamp": "00:34:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So maybe in general we're okay.",
+            "timestamp": "00:34:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Because like a lot of what Screaming Frog does, this can replace, and it's basically incorporated to that silver.",
+            "timestamp": "00:34:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Package anyway.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That normally starts around, I believe it's like 82,600.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But we would also have to iron out like how many projects you would want, how many keywords you would want, so on.",
+            "timestamp": "00:35:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And that's annual also.",
+            "timestamp": "00:35:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, could you share just, I guess I'm just not super clear on what's in each package.",
+            "timestamp": "00:35:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:35:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So like what information do you need for me to like show me like my options, I guess, at this point?",
+            "timestamp": "00:35:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, I think from here, the best case would be if we could like, if we specify again, how many clients you would have just in the platform, how many keywords for each client, that would be helpful, whether or not you would want to bring again, that technical aspect, just under one platform here, just a technical aspect.",
+            "timestamp": "00:35:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, like an estimated, like how many pages you would need to crawl.",
+            "timestamp": "00:35:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then what we can do.",
+            "timestamp": "00:35:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Just really finalize a price and we can put it in like a nice PowerPoint slide and send that over.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's helpful.",
+            "timestamp": "00:36:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Just with like the details of how we reach that price point.",
+            "timestamp": "00:36:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I mean, the enterprise platform, it's very like we have those tiers, but it's a very it's very like customized pricing.",
+            "timestamp": "00:36:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I got it.",
+            "timestamp": "00:36:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "OK, so for me, a number of clients or a number of projects.",
+            "timestamp": "00:36:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:36:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And that would include like, hey, if I'm doing sales and I have like 20 customers in that pipeline, each of those are project as well.",
+            "timestamp": "00:36:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Is that so I've seen like I've seen a lot of agencies do like, you know, they'll have a project for each of their clients and they might have like an extra project or two for prospecting where they can kind of just switch those in now.",
+            "timestamp": "00:36:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like, you know, just like, for example, just like insert a domain.",
+            "timestamp": "00:36:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I mean, like that that's for prospecting, that's going to be more so like these SEO workflows, like the what has happened.",
+            "timestamp": "00:36:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And that's just going to be like one service token rather than a project.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So I don't even think you would necessarily need to set up a project for prospecting most of the time.",
+            "timestamp": "00:37:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I think you'll be able to get most of those insights out of like just generating this.",
+            "timestamp": "00:37:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "See, like that's like useful, I guess, like just service token concept.",
+            "timestamp": "00:37:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like I kind of want to know like what even consumes that, you know, is that info that you're going to give me?",
+            "timestamp": "00:37:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Because all these features you've shared, like some of them, I don't even know how many times I want to use it.",
+            "timestamp": "00:37:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And if you're telling me I got to like double my service tokens or something, like I just want to know that ahead of time.",
+            "timestamp": "00:37:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So like what has happened?",
+            "timestamp": "00:37:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And again, we could kind of include how that breaks down in the proposal.",
+            "timestamp": "00:37:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But like what has happened every time you run that, that's going to be one service credit.",
+            "timestamp": "00:37:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "And then like, for example, like, you know, the content portion, that's going to be basically per keyword.",
+            "timestamp": "00:37:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So for example, know, that might be a hundred, like if you do a hundred keywords within the content analysis.",
+            "timestamp": "00:37:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "That's going to be 100 service tokens, for example.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So that's how that's priced out.",
+            "timestamp": "00:38:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "These other ones is just per report.",
+            "timestamp": "00:38:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Now, like the tiers, come with a certain amount of service tokens, but we also kind of sell those on top in bundles too.",
+            "timestamp": "00:38:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So we can just kind of find out how many you would need, and then, of course, just put that into the cost more from a bundle perspective.",
+            "timestamp": "00:38:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, that's fair.",
+            "timestamp": "00:38:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So for me, a number of projects, a number of people, and a number of keywords, and then whether I want the technical crawler.",
+            "timestamp": "00:38:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:38:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, that's everything we need, and then we can send that over.",
+            "timestamp": "00:38:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:38:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, that's fine.",
+            "timestamp": "00:38:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'll get that over to you, I think.",
+            "timestamp": "00:38:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that's all the questions I have.",
+            "timestamp": "00:38:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then, yeah, I think that's all the questions I have.",
+            "timestamp": "00:38:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then on the AIO stuff, I guess, I think I'm...",
+            "timestamp": "00:38:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, I'm interested in testing it, I guess, but just right now, like, I can't see us using that over Scrunch or whatever we're picking.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So talk to your team.",
+            "timestamp": "00:39:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, if there's anything, you know, to work out there, like, I'd love to just, like, play around with it, because I guess, candidly, I feel like you guys will build the better product eventually.",
+            "timestamp": "00:39:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I just don't know when that'll be.",
+            "timestamp": "00:39:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "It's still in its early stages.",
+            "timestamp": "00:39:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Like, launched this, like, a month or two ago, and I know their primary focus lately has been adding, like, different markets and languages into the platform.",
+            "timestamp": "00:39:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So, but I know the next step is going to be, like, you know, like a content workflow, kind of like what we have from the enterprise SEO platform, something like that, just more from, like, an AI perspective.",
+            "timestamp": "00:39:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So I know it's going to grow very quickly, especially over the coming months.",
+            "timestamp": "00:39:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "So that's definitely something we can keep an eye on.",
+            "timestamp": "00:39:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But we do not currently give trials on that.",
+            "timestamp": "00:39:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Now, know.",
+            "timestamp": "00:39:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "can't",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Anytime you want to see that again, you can shoot over a client example.",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "I can plug in that example and we can take a look through the workflows together again.",
+            "timestamp": "00:40:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "But I know they are pretty strict when it comes to trials, unfortunately.",
+            "timestamp": "00:40:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, sounds good.",
+            "timestamp": "00:40:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I'll that info over to you and then whenever you can share the pricing, we can go from there.",
+            "timestamp": "00:40:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "Yeah, I'll send you an email with those questions.",
+            "timestamp": "00:40:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "I know you wrote them down, but just in case you forget.",
+            "timestamp": "00:40:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "And then we'll get that over to you as soon as possible.",
+            "timestamp": "00:40:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "And I know you said you were comparing, were needing, you wanted to get things going, you know, quickly.",
+            "timestamp": "00:40:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So what is your plan on decision-making process once we get pricing and we go from there?",
+            "timestamp": "00:40:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I guess I think about the enterprise thing separate from AIO.",
+            "timestamp": "00:40:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But the AIO, I feel like it just doesn't seem good enough.",
+            "timestamp": "00:40:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So that one, we're probably going to go with another tool.",
+            "timestamp": "00:40:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then the enterprise stuff, I don't know.",
+            "timestamp": "00:40:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, whenever you get it to us, like maybe.",
+            "timestamp": "00:40:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "A week.",
+            "timestamp": "00:41:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I still need to chat with, like, the team here.",
+            "timestamp": "00:41:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'll show them this recording just to see what they think about it.",
+            "timestamp": "00:41:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "Yeah, and if you want to get, I mean, some of the people that are going to be, like, the admin or the, you know, the heavy users in enterprise, if you want to get them on a call separately and I can, you know, get one of our product excerpts to kind of go through some of the tools with them just so they can see it as well.",
+            "timestamp": "00:41:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "So it's kind hard to conceptualize.",
+            "timestamp": "00:41:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "Yeah, I'll offer that up to them.",
+            "timestamp": "00:41:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, they can all jump on the call and, like, if they have individual questions.",
+            "timestamp": "00:41:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:41:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Do you guys do, like, I mean, maybe we could even do that async.",
+            "timestamp": "00:41:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, do you guys do, like, Slack connect or just a big email thread and I can add them and they can ask questions?",
+            "timestamp": "00:41:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Yeah, we've done combined Slack channels in the past, so that's definitely something we can do.",
+            "timestamp": "00:41:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, if you do that with just, like, me and then I can invite anyone that's interested in asking questions, maybe we could do that.",
+            "timestamp": "00:41:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:41:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:41:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:41:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:42:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kevin Batchelor",
+                "matched_calendar_invitee_email": "kevin.batchelor@semrush.com"
+            },
+            "text": "Thank you so much for your time, guys.",
+            "timestamp": "00:42:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": "kirkland@growthx.ai"
+            },
+            "text": "Thanks, guys.",
+            "timestamp": "00:42:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Amber Hamilton",
+                "matched_calendar_invitee_email": "amber.hamilton@semrush.com"
+            },
+            "text": "Yeah, have a good one, and we'll get that over to you ASAP.",
+            "timestamp": "00:42:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": "kirkland@growthx.ai"
+            },
+            "text": "Thanks very much.",
+            "timestamp": "00:42:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Dorian Foster",
+                "matched_calendar_invitee_email": "dorian.foster@semrush.com"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:42:09"
+        }
+    ]
+}

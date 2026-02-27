@@ -1,0 +1,3709 @@
+{
+    "title": "Webflow <> GrowthX Weekly Sync",
+    "meeting_title": "Webflow <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/305530720",
+    "created_at": "2025-05-21T18:10:33Z",
+    "scheduled_start_time": "2025-05-21T17:30:00Z",
+    "scheduled_end_time": "2025-05-21T18:00:00Z",
+    "recording_id": 63963286,
+    "recording_start_time": "2025-05-21T17:30:33Z",
+    "recording_end_time": "2025-05-21T18:10:18Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Today, I was going to invite you.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Oh, it's a shame.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I'm missing all the fun by being in the Midwest.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I like Chicago.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We were there last year.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, we're there in the summer, though.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Well, yeah, I mean, you would never come here between the months of like October and April, but the rest is great.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I grew up in Toronto, and I feel like out of all the cities I've visited, Chicago feels the closest, like in terms of architecture as well.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yeah, I my friend's wife is from Toronto, and so we go up there.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "She has a lake house and Toronto feels like a smaller Chicago.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, it's definitely something smaller.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Should I get started?",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Anyone else from your side today, I think?",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Anushri's going to show up.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I think Vivian will show up, but we can see.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Art, I saw the notion.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, maybe we could start there.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And I want to just make it a discussion.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I could tell, just share from our perspective, you know, information, architecture, and how we think about it.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Just to kick it off.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But, I mean, I think in general we're somewhat on the same page about the problems, you know, like how things are organized.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So I think there does need to be kind of an iteration there from the SEO perspective, which I think is what we want to bring to this discussion.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, really, there's no, like, prescribed way.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's just, like, are things logical?",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You know, is there kind of one version of a particular topic that's not, like, duplicated and spread across everywhere?",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And as much as possible, I think, you know, not to bury things many layers deep, especially if you care about kind of organic discovery of it.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think really, like, principle.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "know, know,",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's generally what we try to follow.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think based on that, I just had a very rough suggestion.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think for me, the focus is at the top level for the developer property, like what different lanes I think should exist.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So I think for me, documentation for sure should be a bucket.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "The organic content, I think, should live outside of that.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I call it learn.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "can call it blog.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then I think you should have resources and support as the other two buckets.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I've seen some people pull out events and video, but I think high level is the most important thing.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "to separate organic content that's not really about Webflow and the documentation.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then the documentation itself, I feel like you guys probably have stronger thoughts here, but I think the thing that stood out to me was, I think, for most people, like API reference.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "differences are kind of separate from the guides themselves.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And I think for you guys, that makes sense as well.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Just as a Webflow user, I think the guides are more use case centric.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And for any use case, I don't think it maps one-to-one to an API.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think Stripe is in a similar spot where, let's kind of take a look at them.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Let's see, Stripe Docs, where they have a bunch of different APIs, but what they focus on is kind of use cases, you know, are you using it for automation payments, money management, and then if you do APIs, it's like almost a totally different property.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think they do like the most separation, you know, which I don't know if it makes sense for you guys, but I think for, yeah, for me, I thought that made sense just to separate like the different use cases, especially since I feel like you guys are You're out of here.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like today, it's mostly app developers, but I think you guys care about the full stack front end engineer now.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think the MCP server, I'm not exactly sure which use case that falls in, but I think just calling it out separately is interesting.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't know if commerce is like a big use case, but I've seen some people separate that out.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I mean, and then for me, you know, I've been thinking about like, okay, where does the content that we were initially thinking about publishing live?",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Try to add some stars for that, but I think the, you know, one of the big bets is organic content.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that lives in this kind of blog category.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think some of this integration stuff I was thinking about, and I think that should live in docs.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Because, I mean, I feel the audience there is predominantly like developers.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "There should be a call out, you know, hey, if you're just looking for a way to like low code or no code, integrate this in a button, in a button click, like go to the market.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But I think the main audience, just having written the one for Stripe, you really have to be a developer to use that integration.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then another tactical suggestion we had from the very beginning was these code snippets.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I was trying to find a place for that.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that's a guide, shouldn't be mixed in with the API documentation, shouldn't be mixed in with all the blog content as well.",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, and I'll stop there.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then we thought about, I mean, was for me just like the different use cases, you know, and what that journey would look like.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And like, I think as much as possible, you don't want to like hop between the sections.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You should be able to find your answer, you know, down one path and not have to go like down a level, up a level.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think right now it's kind of what you have to do, hopping between like API docs and guides to like try to get something done.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, so I'll stop there.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I know you guys are working on this as well.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, what do you guys, this is kind of in line with what you guys were thinking.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think for me, maybe the priority is like.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We want to create a bunch of content for you guys.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think that's why we were brought on.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think without kind of a solid home for it, it feels like almost putting, you know, like jumping too far ahead to just start turning on the fire hose.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So I want to make sure we're aligned.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And I'm really glad we're taking the time to discuss this because I agree.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "We walked into turning on the fire hose without understanding the different types of content that we're going be making and the purpose or where it's going to live.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And that sets a lot of the intent and changes a lot of what we're trying to do.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So I appreciate that.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "What I am seeing of there's a, I like the nested structure of it.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I would agree integration pages are going to be naturally more technical.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Now you could be a non-engineer as long as the guides are really clear how to put together, like how.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "How many people implement Tag Manager on their sites who don't know anything about it?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "That is a domain, but I do agree with you that the documentation section, I think it's really crowded with this many nested arrangements, and I've been trying in my own mind to figure out how do we nest all of these different, very distinct ways of interfacing with us.",
+            "timestamp": "00:07:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so I don't know what documentation is.",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I think I'm going get too crowded, personally, with that much type of six degrees of separation to a final section, but I'm open to IA evaluation on that one.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "What I would love to discuss with you is how you're structuring learn.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "There's a section of organic content.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "so much.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So what do you believe organic content would be in the context of developers?",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, that's a good question.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I would say like high level, the structure of Learn should just be kind of a fairly traditional blog.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I can show some examples there, but like, you know, you have categories within.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And I think out of all the companies I've looked at, I think Canva was one that kind of had the structure.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So their dev site, which I don't think is perfect, but like, you know, they have documentation and then they have their own Canva blog and then they have their developer facing blog.",
+            "timestamp": "00:08:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't like the look of it, but I think, you know, keeping that as a separate section instead of mixing it with guides makes sense to me.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then as far as the content goes, just, let's see.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "As far as the content",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We mapped a few topics.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think Vivian reviewed it briefly.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "If I can share.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think it would just be kind of like, hey, if I'm a developer and I'm in my journey of trying to figure out how to create a website for my company, what are the things I'm researching?",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So, like, some examples, you know, if I'm looking for the best CMS for, like, Next.js, you know, I think we should write a guide for that.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think there's, like, maybe technical issues you run into as you build your website, like, you know, maybe server side versus, like, client side for certain implementations of things.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, I would want to write as well.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that fits on the developer blog.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, there's, like, topics that are kind of in the middle, which I think maybe I would leave Vivian to decide, like, hey, we're creating a listicle of, like, top tools for X or Y.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Top have the CMSs, top have the CMSs for, you know, like a learning management site or something like that.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, that might make more sense on the blog.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, but, I mean, I think that's generally how I was thinking about it.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't think we've really mapped out, like, the universe of, like, organic content for developers yet.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But SKU technical, if it has a code snippet in it, it should be there instead of the, you know, the main blog.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I would like to, if we are moving in this way of organic content, which I absolutely don't, why am I using double negatives?",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I agree with this methodology.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I would, I would want to define more clearly what a guide is.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And because this degray area here bleeds too close to a guide in the current way we're doing guides.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so I would want guides to be a much more linear, this is how the API works.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "These are the nuances of the API to be aware of, or the nuances of our SDK, or the nuances of our whole system.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And the organic content is much more, here's what you need to know about engineering on adjacent Webflow.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And that is the SEO play.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "That makes sense to me in a lot of ways.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And I'm looking at this content ideas.",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Now, is that shared with us?",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Can I click on that and explore that?",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "At least it's a bullet here.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "If it isn't, I'll make sure it's shared.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Yeah, since I agree with Colin, I think for...",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "These content ideas, there are, there is a lot that, you know, we need to figure out whether it should live on a good developer's blog or the blog.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "And I also am seeing just a few overlapping with existing articles on our blog already.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "So I can go in and slide those.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "But yeah, I think we need to be a little bit more prescriptive about where, what type of content goes where.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And Vivian, I, let's, let's for a second in this meeting with the team on board.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Is there, and this is, I haven't done any web marketing in years.",
+            "timestamp": "00:12:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Is there any value in theoretically duplicative content, but one is, but the audience and the actual, the actual writing differs?",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So if there is a defining.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "actually, no, I think I understand.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "If we have a topic on, say, CMS, is there a difference between having content for a general audience versus a more technical audience?",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Yeah, I would actually argue that there isn't because when you're searching, you typically would search for very similar keywords.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "And Google isn't distinguishing, okay, well, this is a more technical audience, this is like the searching.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Like, we can't really target a specific persona who's searching.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "So I think we just need to, for like this type of content, we need to be like thinking more long tail versus like content.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So then to my question, this is to Jason and the powers of your, of GrowthX's content delivery system.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "If the, if, if there is actual functionality to go into a technical level.",
+            "timestamp": "00:13:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "That can be now educational beyond just SEO keyword matching and usefulness on our page rank.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Is it feasible that your content can be educational to the degree that a developer or an engineer would need to understand in order to actually drive value and actually help build against Webflow systems?",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I think there's a spectrum there.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think the line that is hard for us to cross right now, but we're trying to figure out, is when it gets to the place of opinionated code that has to be run, I feel like right now we don't have a great system to make sure that that's right and that that works.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But like educating about concepts, you know, taking things that exist in your",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Documentation already and just kind of like tuning it for a certain use case.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that we can definitely do.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So Vivian, my question would be, if there are duplicative blogs or duplicative pages of or Webflow community blog and we wanted to write an article that either can supplement or improve with a deeper level of technical understanding, I think there is still a value if we can actually have opinionated code snippet injection, explainer on that one.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Would we rather have that be an update or enhancement to our core content or do we have a link out from Webflow core community blog to a supplementary blog on Dev Webflow that says",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "How to use Enterprise CMS in your architecture.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "I think that would depend.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Like if we have like a more informational type of article targeting like a specific head term, then we want that article to be comprehensive.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "And we wouldn't want to cannibalize that article with like another page, for example.",
+            "timestamp": "00:16:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "So I think it would be beneficial to update or enhance that article with the information for like developers.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "And for like more technical like code snippets or like specific how to do this in Webflow, then I think that would want like a link out to another page.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I feel like we'll just have both examples in here.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's probably harder without a specific example, but do the keyword research stuff.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You'll see like, oh, enterprise CMS, there's only one term and it's like low volume.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, one article.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's high volume and you see related questions.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Maybe there's a case for like, you know, another article targeted to developers.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then I'll say with like all this LM tracking that we're going to add, what we might see going forward is like, you know, certain prompts like are citing like a certain flavor of article that doesn't necessarily map like one to one.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's a Google search.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And if we start seeing more stuff like that, I mean, again, we'll take this as we work on it, but there might be more cases to just have developer flavored one and kind of a regular one.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So I'm looking at all the starred sections that we believe GrowthX can tackle.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I would want, I have, I think the learn section makes total sense.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I think that is, and Glossary would be a massive index page of these are the Webflow terms, these are the Webflow structures, and here is how you can go deeper on it.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I think that's a beautiful index page.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Oh, sorry.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Interrupt.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "I just also wanted to add that we do have a Glossary on University.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "A Glossary of Dev terms?",
+            "timestamp": "00:18:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "There are some Dev terms on there, but I don't think it's not being maintained right now.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "We had built that out a couple of years ago.",
+            "timestamp": "00:18:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "So I think there could be benefit in moving that also into here.",
+            "timestamp": "00:18:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So, and I think our case studies and our user stories is an enhancement of organic content.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I think all that makes a lot of sense.",
+            "timestamp": "00:18:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And if there was a firehose, point, I would say that's the domain we should really lean into right now.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Now, the integration.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "integration.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Things page.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "We're still hashing out what the hierarchy and the layout of that should be, where it should live.",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "There's an open debate on that.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "But if I'm looking at what one section is of that, learn makes sense to me.",
+            "timestamp": "00:19:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "If I look at then this subsection of documentation, I think there's more to explore here of the different use cases and how we actually want to make it surfaced.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And what I would love, though, is a little bit of homework of how we how we not cannibalize or challenge our existing content in an organic content spray.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And either that is, do we, for the time being, identify which topics and articles are cannibalistic of core Webflow blog?",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Do we?",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And then Vivian, I'd love if you can help with this of helping derive the strategy of So,",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Do we have content to be supplementary on dev and have an interlink between the two content pages?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Do we just enhance the core page?",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "How do we actually give growthx the initiative to plan that?",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's kind of like work we're doing in parallel, but I think you should leave it up to us to figure out if there's an article already, we have your sitemap.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Let us do that.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think there'll be kind of a clear separation of like, okay, this one is totally, you know, not cannibalizing.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "There's no content for it yet.",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That, I think, will just be in the green.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Stuff that's read, you have an article, and it's pretty clear there's not enough search intent for there to be another one.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We'll just, I mean, we'll still map it out because I think it's helpful to have there, but we'll just put that on the, you know, do not publish section.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then the stuff in the middle, I think, is where, you know, feedback from you, Vivian, would be helpful.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like, there's maybe a case for a developer, kind of focused one.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And those, yeah, we can have a discussion.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We'll just do it async in the Airtable, I think.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Would that work?",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Yeah, that works for me.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "I think if we can include like a, just like run those topics through to make sure like there's no ranking article already.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "And then like have maybe include a column to denote like where they should live, whether it's the blog or the dev blog.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So, yeah, maybe some topics you think make sense to write still, but live on the blog.",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "that's what we can have as a column.",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And I totally agree.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like I think like the integration pages doesn't make sense to write until we know where they are.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think there's still this question mark in my head.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "feel like you guys should probably steer of like, is it a landing page?",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Is it a doc or is it, you know, should it even exist?",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I feel like that's still on the table as well.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Should it exist is definitely a yes, because there.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "There's a novelty of integration's core user is a lesser technical Webflow client.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "They are trying to connect things that don't directly connect, and we're guiding them through the most common ways that we've seen they need to connect to us.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's also a common search term.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "was digging around since you mentioned that you did the Affirm talks.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "like, look around there.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think you guys had something here as well where you did this like a bunch of permutations of different kind of integrations you can add this here, something like that.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And the way we did that one was every time we established a Novelet, I kept up with the solutions consulting team at Affirm.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I, they, they were, they would keep an active role of, did we, did we.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It asked about this platform.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "If so, then we had the running list.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Okay, now we need to put it together.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I believe integrations also played the same role in Webflow.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's just a lesser loved index right now.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "But it's common.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So the value is there.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "The discoverability is missing.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And part of this is wondering, how much do we make this front and center?",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It could fit on a dev blog.",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "There's also consideration of have its own standalone subfolder of Webflow core.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "That is just, we connect to all these systems already as a standalone promotion.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And what I'm bringing up is, may I share for a second?",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "There's a consideration of like how fintechs are now, or really anyone who's doing major IPAS is promoting saying.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "what",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "We have all these integrations.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And maybe this is a whole marketing value page of saying, we have everything you already want.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And if you said, well, yeah, I do use zero accounting, then there's even a sub page that says, yeah, here's the basics that we do.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And then there is even a sub page to explain how do you integrate it?",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Like, there is a world of reconsideration that I want to at least have an internal discussion on to see what integrations, what, how we can make integrations become a better value prop and having a just finding a home for it shoved off from the side.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Because we have a lot of content, we can explain how to do all these things.",
+            "timestamp": "00:24:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "We can even say, with some categorizations, what does your website want to do?",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Now, I'm not looking at RAMP, but I could pull up Stripe page two for it.",
+            "timestamp": "00:24:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's, what do you want to build?",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "What do you want to connect to?",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And there's a world of saying, well, show me your accounting.",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Or in Webflow's use case, show me all of your CRM.",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Show me all of your e-commerce.",
+            "timestamp": "00:24:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Give me all of your whatever-it-may-be categories, and then we have this adjustable page.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Now, we do that already for templates, and we do it for pulling all of our different blogs, but if we go to our templates library, we do...",
+            "timestamp": "00:25:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "not showing your screen.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Oh, wait, no, you are.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "There's a way that we can mirror this for integrations, and I wonder if this adds a lot of value.",
+            "timestamp": "00:25:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so that's why I'm saying let's take a breather on integrations, but I don't see any reason to take a breather on organic SEO content that would be searchable content in the learn section of our blog.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And I think that what we have in the learn section, once we figure out the glossary can work in parallel, but the content itself off of our...",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Search in the developer technical realm, I think, is much more free reign to focus on.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And we could definitely align on that information architecture and then figure out how to support it with adjacent indexing and cross-linking pages.",
+            "timestamp": "00:26:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that makes sense to me.",
+            "timestamp": "00:26:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So I guess just taking those two as separate work streams on the blog, who is the right person?",
+            "timestamp": "00:26:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "The about the blog is we don't really, our current, there's going to be a little bit of a how do we readjust our docs to actually have that blog and that structure.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So the articles we would write don't have a home yet, but...",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think Vivian mentioned maybe they could live on the blog while we figure that second piece out.",
+            "timestamp": "00:26:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So I think from our side, we will just start writing them.",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I saw somebody from your team who already reviewed one of the...",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Right, yeah, had one of our freelance editors review it.",
+            "timestamp": "00:27:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "I think if we want to move forward with publishing on the blog, we should probably choose the topics that are most suited for the blog versus publishing more of these technical pieces and then having to move it over to the dev blog later.",
+            "timestamp": "00:27:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Got it.",
+            "timestamp": "00:27:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then, yeah, and then as far as getting that path on the website created, what does that involve and how can we support?",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Yeah, I think the best case would be if we can probably, if you have a workspace in Webflow already, we could probably just copy our blog project so that you have like the CMS template and then you all could stage it and then I could export and move it over to our blog.",
+            "timestamp": "00:27:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Could we invite them as a guest as a Webflow agency?",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "I don't think we have...",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "I I",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "We on our blog production, but let me just verify with our web team if that is possible, because we have our other agency working on the blog too, and they don't have access.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "This is a setup that we have for them.",
+            "timestamp": "00:28:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "So they have like a separate blog project just for staging, and then I will export and then import it into our blog.",
+            "timestamp": "00:28:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Got it.",
+            "timestamp": "00:28:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, that makes sense.",
+            "timestamp": "00:28:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then I guess what I was mentioning was like on the developer site to have a slash learn.",
+            "timestamp": "00:28:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So to have a slash learn, we have full, how we would do that is it would take a couple of weeks, because we'd want to try to get a couple rewrites of our nav in at the same time.",
+            "timestamp": "00:28:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "But the entire dev site is hosted on Fern, which is built off of a Git that we manage.",
+            "timestamp": "00:28:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So it would be restructuring.",
+            "timestamp": "00:28:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "With our tactical engineering to actually restructure the site.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so it's totally fine to reiterate the site multiple times over, but we don't want to just add one slash resource.",
+            "timestamp": "00:29:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "We don't want to do it in a wider range.",
+            "timestamp": "00:29:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so I'm pushing the team to align on information architecture over the last two weeks, and we're going to push forward to get that through in June.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so we will have a lockdown view probably the next two weeks of what the nav is of developers.",
+            "timestamp": "00:29:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And from that point, then, we can start having these folders and these layouts.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, that sounds good.",
+            "timestamp": "00:29:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So it sounds like it's on your side.",
+            "timestamp": "00:29:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "will say we have a pretty good developer and designer.",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "If you guys needed that resource, then they could get access to just push that along.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So let me know there.",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yeah, I will let you know there.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Thanks for that.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'll spin around.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I guess for us, it's just like, you know.",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Let's work up front to build a machine that produces the content and get the site to a place, and we're fine supporting that however we can, because I think it's one time, especially for a client as big as you guys.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:30:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So I think those are the main things.",
+            "timestamp": "00:30:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So we'll kind of continue to produce content.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We'll set up a Webflow space, and then I guess I'll send you the email, Vivian, so you can...",
+            "timestamp": "00:30:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Yeah, just invite me, and then I'll connect with our Web team to see if we can get a copy of the project into your workspace.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "And yeah, like for the topics, just let me know which ones that we're planning on moving forward with, and I can take a look.",
+            "timestamp": "00:30:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We'll clean the topics and send that over, and then there's going to be a list of prompts that we want to start tracking going forward now.",
+            "timestamp": "00:30:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Who's the best person to show that to for approval?",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I can look at that.",
+            "timestamp": "00:30:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "guys have more to...",
+            "timestamp": "00:30:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'll send in the channel, but I guess I'll know who to bug if nobody looks up.",
+            "timestamp": "00:31:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivian Hoang",
+                "matched_calendar_invitee_email": "vivian.hoang@webflow.com"
+            },
+            "text": "Well, I got a hop, but thank you.",
+            "timestamp": "00:31:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Anything else?",
+            "timestamp": "00:31:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I think that's a good start from that point.",
+            "timestamp": "00:31:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I'm going to try to get this layout plan established.",
+            "timestamp": "00:31:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Hierarchy is going be a little bit confusing for the time being.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so I think at least we have a methodology that gets some content going and we start able to add some value to search.",
+            "timestamp": "00:31:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that's a good idea.",
+            "timestamp": "00:31:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I think the docs part, yeah, it seems really hard to restructure given what it's like right now.",
+            "timestamp": "00:31:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Well, it's not hard to restructure.",
+            "timestamp": "00:31:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's hard to align on a go forward strategy that it's, it's actually relatively simple.",
+            "timestamp": "00:31:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So, Thank",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's pretty much like MySpace.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's really just coming down to how do we actually want to lay this out because constant reiteration is a massive problem.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So we want to make sure we do this in a couple of steady waves and not broken up by independent parts.",
+            "timestamp": "00:32:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And I mean, if I look at all the moving parts right now that are on Webflow dev, my problem is that, yes, we do want to have slash learn.",
+            "timestamp": "00:32:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "But also I want to not have double version control of our core systems.",
+            "timestamp": "00:32:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I want to have our references not compete with our guides.",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Like there's a slash learn probably just makes sense here.",
+            "timestamp": "00:32:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "But I also don't want slash learn to be impacted by these breakdowns.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So there's just too many call and actions.",
+            "timestamp": "00:32:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And that's where I'm trying to figure out how do we make this a better experience?",
+            "timestamp": "00:32:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And that's why.",
+            "timestamp": "00:32:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "You're getting lost in the thrash.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:33:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "How many different groups of people do you have to kind of align?",
+            "timestamp": "00:33:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's actually zero.",
+            "timestamp": "00:33:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "The problem is there's no one to align with, and I don't, and I'm seven days in, so I really don't want to be the dictator coming in saying, this is where we're wrong.",
+            "timestamp": "00:33:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "But it's just there's so many buttons.",
+            "timestamp": "00:33:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "It's just too many buttons.",
+            "timestamp": "00:33:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And that's where I'm trying to figure out how to play this better.",
+            "timestamp": "00:33:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, no, but I agree.",
+            "timestamp": "00:33:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think there needs to be a structure.",
+            "timestamp": "00:33:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think it's pretty clear there needs to be more information, but like, just like, where does it, where does it go?",
+            "timestamp": "00:33:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That sounds good.",
+            "timestamp": "00:33:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's just you.",
+            "timestamp": "00:33:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "remember, this is an aside, but like, one of the projects I worked on at a firm was just removing, like, two fields from the lead form, and that took like three months.",
+            "timestamp": "00:33:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Don't don't ever tell.",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "There were like eight groups to align.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, we ended up removing a few because we wanted to like enrich them, right?",
+            "timestamp": "00:34:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But like there's just so many knock-on effects of like not having a bit of information risk to sales.",
+            "timestamp": "00:34:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "This group is lean enough that we have a lot of, we have autonomy, but part of autonomy is making sure you're making the right decisions.",
+            "timestamp": "00:34:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And that comes from asking a bunch of local experts.",
+            "timestamp": "00:34:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:34:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "that we'll learn should be right in the top here.",
+            "timestamp": "00:34:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "If guides fall under learn, I think that would be fine too, but I'm just trying to figure out this world.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So I'll get a better opinion in a week.",
+            "timestamp": "00:35:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:35:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, know you asked the question kind of earlier in the call, but to me, the separation of like learn and guides is like, if it's about Webflow and specifically setting up Webflow, that should be in the umbrella of docs.",
+            "timestamp": "00:35:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And if it's about a topic that's not necessarily Webflow, you know, if I'm searching for it and my intent isn't to just like, hey, how do I set up Webflow?",
+            "timestamp": "00:35:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Like that should be in learn.",
+            "timestamp": "00:35:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So when you're talking about it, are you saying that this core page?",
+            "timestamp": "00:35:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:35:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So there would be docs and then learn would be separate.",
+            "timestamp": "00:35:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like learn would almost be its own little log, you know, the same way how stripe.dev and docs.stripe.com is like two separate things.",
+            "timestamp": "00:35:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Totally so.",
+            "timestamp": "00:35:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Now see that, that's right.",
+            "timestamp": "00:35:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I was trying to also navigate, but my problem is that the first thing you do is you go here, and then there's no way, there's no clear way to navigate back to what learn would be.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And so I need to figure out the total interoperability of this main site, because also our forums go to a totally separate section.",
+            "timestamp": "00:36:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I mean, you have two forums, you have that.",
+            "timestamp": "00:36:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "The discourse, and I think you have another support forum as well.",
+            "timestamp": "00:36:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Do we?",
+            "timestamp": "00:36:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I didn't even know.",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I thought it was only discourse.",
+            "timestamp": "00:36:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You have forum.webflow.com.",
+            "timestamp": "00:36:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "What is this?",
+            "timestamp": "00:36:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's new to Oh, wait, no, that links back to discourse.",
+            "timestamp": "00:36:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Okay, never mind.",
+            "timestamp": "00:36:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:36:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think I just saw that URL somewhere.",
+            "timestamp": "00:36:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I was like, yep.",
+            "timestamp": "00:36:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So I'm trying to figure out how to have this site work with this site.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And the thing is, is the developer's core page is Webflow and the doc site is Fern.",
+            "timestamp": "00:37:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So moving between these two is this is a navigation problem that I'm trying to figure out, which is why I'm saying, I don't know if I can get learn structured appropriately in both.",
+            "timestamp": "00:37:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And I need to go meet with the engineering team to see what is actually feasible.",
+            "timestamp": "00:37:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I have a meeting coming up next tomorrow on what is actually possible to consolidate these things.",
+            "timestamp": "00:37:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Because my goal is actually to consolidate information, not have this breadth of so many buttons and then the buttons don't link back.",
+            "timestamp": "00:37:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And how do you get to the marketplace now?",
+            "timestamp": "00:37:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "You realize you want to make an app.",
+            "timestamp": "00:37:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Like that's my domain problem.",
+            "timestamp": "00:37:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "And I guess my question for SEO or any flywheel here is.",
+            "timestamp": "00:37:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "did.",
+            "timestamp": "00:37:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I that around.",
+            "timestamp": "00:37:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Going",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So a radical change to the docs with a bunch of 301s, that does take page rank, right?",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I think in general, the good thing is docs don't really serve organic traffic.",
+            "timestamp": "00:38:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like you're the only authority, for the most part.",
+            "timestamp": "00:38:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I know there's other companies that try to write about Webflow, but for the most part, if you restructure docs, you'll still stay number one, because who else is writing docs about Webflow?",
+            "timestamp": "00:38:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But restructuring organic content that isn't about Webflow, that would hurt.",
+            "timestamp": "00:38:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But right now, there isn't any, so I think we're okay.",
+            "timestamp": "00:38:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "If you want to move docs, I'd say you're pretty safe to do so, and within a week, everything will be as it was before you moved it.",
+            "timestamp": "00:38:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Outstanding.",
+            "timestamp": "00:38:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "That's really great to hear.",
+            "timestamp": "00:38:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:38:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Well, this is the domain I'm playing in.",
+            "timestamp": "00:38:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "So being able to have your...",
+            "timestamp": "00:38:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "We're worth being able to focus on the sections that we all agree are absolutely fixable.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "While this gets solved, I think, gives us the right range to start delivering on our target goals and still be able to work in parallel.",
+            "timestamp": "00:39:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay, sounds good.",
+            "timestamp": "00:39:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think that makes sense.",
+            "timestamp": "00:39:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, just let me know how we can support, I think, especially on the design and dev.",
+            "timestamp": "00:39:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We don't need Webflow developers, but if it's like a code-based site, we have pretty good folks who can help.",
+            "timestamp": "00:39:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I you move fast.",
+            "timestamp": "00:39:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I will, I may follow up on that depending on what I get from my team's capacity.",
+            "timestamp": "00:39:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "That's good.",
+            "timestamp": "00:39:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Thank you, y'all.",
+            "timestamp": "00:39:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "I appreciate it.",
+            "timestamp": "00:39:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "See you later.",
+            "timestamp": "00:39:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:39:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Colin Lateano",
+                "matched_calendar_invitee_email": "colin.lateano@webflow.com"
+            },
+            "text": "See later.",
+            "timestamp": "00:39:43"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss Webflow's developer content strategy and information architecture, focusing on organic content creation and site structure improvements.](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Agreement to focus on creating organic content for a developer blog/learn section while site structure is being finalized](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=372.0)\n  - [Need to restructure developer documentation for better user experience and information hierarchy](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=426.0)\n  - [Plan to set up a separate Webflow workspace for GrowthX to stage content before importing to Webflow's blog](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=707.0)\n\n## Topics\n\n### Content Strategy and Information Architecture\n\n  - [Proposed structure: Documentation, Learn (blog), Resources, and Support as top-level categories](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=137.0)\n  - [Separation of API reference from guides within documentation](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=170.0)\n  - [Need for clear distinction between guides (Webflow-specific) and organic content (general developer topics)](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=224.0)\n  - [Glossary suggested as an index page for Webflow terms and structures](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1080.0)\n\n### Content Creation and Publishing Process\n\n  - [GrowthX to start writing content, focusing on non-cannibalizing topics](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=486.0)\n  - [Content to be temporarily published on main Webflow blog until developer site structure is finalized](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1607.0)\n  - [Vivian to help determine which topics are suitable for blog vs. dev blog](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1621.0)\n  - [GrowthX to set up Webflow workspace for content staging](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1649.0)\n\n### Integration Pages\n\n  - [Ongoing discussion about the structure and placement of integration pages](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1139.0)\n  - [Potential for creating a standalone subfolder or marketing value page for integrations](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1432.0)\n  - [Need to improve discoverability and value proposition of integrations](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1399.0)\n\n### Site Restructuring Challenges\n\n  - [Current developer site hosted on Fern, built off a managed Git repository](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=2226.0)\n  - [Need to align on a forward strategy to avoid constant reiteration](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=2054.0)\n  - [Colin working on finalizing information architecture in the next two weeks](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=2108.0)\n\n### SEO Considerations\n\n  - [Restructuring documentation unlikely to significantly impact SEO due to Webflow's authority on the subject](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=2289.0)\n  - [Organic content restructuring could potentially hurt SEO, but currently not an issue due to lack of existing content](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=2310.0)\n\n## Next Steps\n\n  - [GrowthX to clean and send over content topics for review](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=707.0)\n  - [Vivian to connect GrowthX with Web team for Webflow project access](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1649.0)\n  - [Colin to finalize information architecture plan in the next two weeks](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=2108.0)\n  - [GrowthX to send list of prompts for tracking to Vivian for approval](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=1853.0)\n  - [Explore possibility of GrowthX supporting site restructuring with their developer and designer resources](https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A?tab=summary&timestamp=2358.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Clean up content topics list, send to Vivian for review\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:05",
+            "recording_playback_url": "https://fathom.video/calls/305530720?timestamp=1205.9999",
+            "assignee": {
+                "name": "Jason Gong",
+                "email": "jason@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Review content topics list from Jason, flag any issues\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:57",
+            "recording_playback_url": "https://fathom.video/calls/305530720?timestamp=1257.9999",
+            "assignee": {
+                "name": "Vivian Hoang",
+                "email": "vivian.hoang@webflow.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Email Vivian re: setting up Webflow space for content staging\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:30:12",
+            "recording_playback_url": "https://fathom.video/calls/305530720?timestamp=1812.9999",
+            "assignee": {
+                "name": "Jason Gong",
+                "email": "jason@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Connect w/ Web team re: copying blog project to GrowthX workspace\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:30:19",
+            "recording_playback_url": "https://fathom.video/calls/305530720?timestamp=1819.9999",
+            "assignee": {
+                "name": "Vivian Hoang",
+                "email": "vivian.hoang@webflow.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Send list of tracking prompts in channel for approval\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:30:35",
+            "recording_playback_url": "https://fathom.video/calls/305530720?timestamp=1835.9999",
+            "assignee": {
+                "name": "Jason Gong",
+                "email": "jason@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Establish layout plan for dev site, focus on info architecture\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:31:08",
+            "recording_playback_url": "https://fathom.video/calls/305530720?timestamp=1868.9999",
+            "assignee": {
+                "name": "Colin Lateano",
+                "email": "colin.lateano@webflow.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Kelly We",
+            "email": "kelly.we@webflow.com",
+            "email_domain": "webflow.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kirat Chhina",
+            "email": "kirat.chhina@webflow.com",
+            "email_domain": "webflow.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Sydney Go",
+            "email": "sydney@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Daniel Lopes",
+            "email": "daniel@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Rachel Wolan",
+            "email": "rachel.wolan@webflow.com",
+            "email_domain": "webflow.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Anushri Gupta",
+            "email": "anushri.gupta@webflow.com",
+            "email_domain": "webflow.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Darin LaFramboise",
+            "email": "darin.laframboise@webflow.com",
+            "email_domain": "webflow.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Vivian Hoang",
+            "email": "vivian.hoang@webflow.com",
+            "email_domain": "webflow.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Vivian Hoang"
+        },
+        {
+            "name": "Colin Lateano",
+            "email": "colin.lateano@webflow.com",
+            "email_domain": "webflow.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Colin Lateano"
+        },
+        {
+            "name": "Jason Gong",
+            "email": "jason@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Jason Gong"
+        }
+    ],
+    "recorded_by": {
+        "name": "Jason Gong",
+        "email": "jason@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/iy1B4C5a2ChR1z-7z3ApUzcbhja-kx_A",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

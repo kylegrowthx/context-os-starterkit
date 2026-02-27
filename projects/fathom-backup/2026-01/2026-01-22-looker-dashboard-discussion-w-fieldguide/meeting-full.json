@@ -1,0 +1,1361 @@
+{
+    "title": "Looker dashboard discussion w Fieldguide",
+    "meeting_title": "Looker dashboard discussion w Fieldguide",
+    "url": "https://fathom.video/calls/539596563",
+    "created_at": "2026-01-22T17:41:41Z",
+    "scheduled_start_time": "2026-01-22T17:30:00Z",
+    "scheduled_end_time": "2026-01-22T18:00:00Z",
+    "recording_id": 116409099,
+    "recording_start_time": "2026-01-22T17:30:31Z",
+    "recording_end_time": "2026-01-22T17:41:14Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Nice to finally meet you.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah, likewise.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I feel like we've been going back and forth in linear and Slack for a while now.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "No, thank you.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I think for what we're trying to do in Looker, oh, Lindsay just hopped on.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hi, Aida, can you hear me?",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Hi, yes, hi.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, hi.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you for hopping on.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm good.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Good, good.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "rate or?",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "You can call me Aida.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That's fine.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, yeah, I have Talal here.",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, Talal is...",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "He is our resident technical SEO expert and also analytics expert, and he has been customizing your Looker dashboard for these past couple of weeks.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And yeah, I just wanted to get on a call with you to get a better understanding of what you want to see in this view.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'm going to go ahead and share my screen so you can just kind of talk through it and we will let you know, you know, how we can do it.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And yeah, what are the next steps?",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Could you scroll down a little bit quickly?",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "think Lindsay just dropped off.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What's What are you?",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "particularly you.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sorry, my Wi-Fi is really going in and out, so I'm going to turn off my camera just so.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "No worries.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I had the same thing yesterday.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "What was the last thing you heard?",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just the introduction.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Got it.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I know.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Today, I thought we could all just get together.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I've shared the view that we've been working on together.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And, yeah.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "We would just love to hear what you would like to get from this view and just how we can help build that for you and Looker.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And thanks for hopping on.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Call, I'm sure it's much easier to do this in person than back and forth.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "My main concern is I have built and launched paid search for field paid search campaign in the last week of September.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay Walker",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so, what I would like to do is that paid service is getting to not taking off.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Aida, you're muted, yeah.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Aida, sorry, Lindsay, but it's like you're coming in and then you're like, it's super choppy, so we're having struggle.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, no worries.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It's just really important to hear everything.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Now we can't, like, we can't.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "A single detail.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "By the way, for the latest comments she made, she's just reading the chart wrong because clicks aren't higher than sessions because clicks are on the left axis and sessions are on the right axis.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "And especially for the chart underneath the last one.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah, the branded clicks and the branded sessions are on the left axis and the branded impressions and ad impressions are on the right axis.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So that's the right way to view it.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah, I'm sorry.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "I'm at my mom's house and I think the Wi-Fi is not great here.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So my apologies.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "No, no, I got it.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I have the same thing when I go visit my parents.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So I think as I was saying, like I'm managing paid search and what I want to make sure and be able to show is that.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "But the paid search, the spend that we're doing in paid search branded terms is adding to the queries and not taking away from, we're not just cannibalizing from organic paid search terms or, you know, branded terms.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "My main point is to prove that it's additive and not, you know, we're not cannibalizing.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "And so what I, I think my main thing is what I'd like to do is, is make sure that our impressions are increasing overall and that our clicks total are increasing.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "And, and I think my, my main thing with those is that I want to make sure that everything is on the same axis so we can, or, you know, the same relative scale so I can see relative to organic where paid is.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "If that makes sense.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Um, yeah, so like, uh, what changes would you like us to make?",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Do the current view that would help you determine that?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah, I think if we, that monthly view, just I think the axes are different.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So they're both clicks, right?",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So they're organic clicks and paid clicks.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So what I'd like to be able to do is be able to look at the relative, you know, maybe even a stacked bar chart or just put these on the same axis rather than different axes.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So I can see, you know, because right now one axis is slightly off from the other, or at least it was, right?",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So basically put both of these on the x-axis and remove the axis on the right completely.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Just so we can see, you know, if totally what the difference is, you know, numerically.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "I can make that change.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Great.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "And then the other one, I, you know, the weekly view is same deal.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "That one.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "And just the scale is very small all of a sudden.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "And then this one, I think what I'd like to do is have impressions.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So it looks like the impressions are lower than the clicks, which doesn't make any sense for organic and paid.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So for this graph, what we're doing is we're comparing two sets of numbers that are wildly different.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So the clicks are in the orders of thousands and the impressions are in the order of tens of thousands.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So what I've done is that I've, the branded clicks and the branded sessions, you need to look at the left Y-axis to view them.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "And for the branded impressions and the ads impressions, the right Y-axis is the one that you should be looking at.",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So if you hover over any of these numbers, like you can see, like the clicks and the sessions are like 1,000 and 3,000, while the branded impressions and ad impressions are like 44 and 98,000.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So those are.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "They're, like, pegged to the right Y-axis, and the clicks and the binary sessions are pegged to the left Y-axis.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "So that's the way to read the graph right now.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Okay, gotcha.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah, so what I would like to be able to do is to, like, immediately look at it and see, like, if impressions are going up, are we continuing?",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So maybe if we can change the clicks to click-through rate and have that on the separate axis, it would be easier to see, like, as impressions are going up, are we still maintaining our share of clicks, right?",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Okay, I can try doing that, but I think, like, adding, like, a third set that's measured completely different might not be super useful.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "For reference, I did try tinkering with that, but, like, if that's in percentage, then let me see what I can do, but I might just have to create a new graph, and you would have to super...",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "If you want to get that view, because otherwise it's going to get messy.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Yeah, you can get rid of the clicks.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So just have impressions and then CTRs.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So that'll tell us, like, as impressions rise, are we losing CTR, you know, so we're not capturing the same proportion of clicks, or are we maintaining the level?",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Yeah, makes sense.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Fabulous.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Talal Syed",
+                "matched_calendar_invitee_email": "talal@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "I think that was it.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Nope.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "That's it?",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Glad we were able to help.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I will keep you updated.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I think, I don't know if, are you a part of our external channel with Fieldguide, or are you just in a DM with me and Yasin?",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "I think I'm just in a DM at this point.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, no worries.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, we can keep it that way.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I will DM you when.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And the updated version of the report is ready.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And yeah, we can take it from there.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Okay, I appreciate this.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "I mean, I don't even know if this kind of thing is in your remit or under scope.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So I really appreciate your partnership with us.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "I mean, I think it all is going towards helping management see that, you know, the investment we put in paid and SEO is valuable.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So I really appreciate your partnership.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "No, no worries.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And we want to, we want to do the same thing.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "So it does help us as well.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you, Lindsay.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Lindsay",
+                "matched_calendar_invitee_email": "lindsay@fieldguide.io"
+            },
+            "text": "Bye.",
+            "timestamp": "00:10:38"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Refine the Looker dashboard to prove paid search value.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=184.0)\n\n## Key Takeaways\n\n  - [**Goal:** Prove the new paid search campaign (launched late Sept) is additive to organic traffic, not cannibalizing it.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=184.0)\n  - [**Action 1:** Unify axes on click-comparison charts to show organic vs. paid clicks on a single, relative scale.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=364.0)\n  - [**Action 2:** Replace clicks with Click-Through Rate (CTR) on the impressions chart to show if click share is maintained as impressions grow.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=492.0)\n  - [**Comms:** Aida will notify Lindsay via DM when the updated dashboard is ready for review.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=579.0)\n\n## Topics\n\n### Proving Paid Search Value\n\n  - [**Problem:** The dashboard's dual Y-axes obscure the relative performance of paid vs. organic channels, making it difficult to prove the paid campaign's value.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=323.0)\n  - [**Objective:** Demonstrate that paid search spend on branded terms is additive to overall queries and clicks, not cannibalizing organic traffic.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=291.0)\n\n### Dashboard Refinements\n\n  - [**Monthly/Weekly Click Charts**](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=364.0)\n      - [**Issue:** Dual axes prevent a direct, relative comparison of organic vs. paid clicks.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=323.0)\n      - [**Solution:** Unify both metrics on a single Y-axis.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=364.0)\n  - [**Branded Impressions & Clicks Chart**](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=425.0)\n      - [**Issue:** The dual-axis view (impressions vs. clicks) is confusing because the metrics are on vastly different scales (thousands vs. tens of thousands).](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=425.0)\n      - [**Solution:** Replace clicks with Click-Through Rate (CTR) on a separate axis.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=492.0)\n          - [**Rationale:** This directly shows if the click share is maintained as impressions increase, proving the campaign's efficiency.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=492.0)\n\n## Next Steps\n\n  - [**Talal:** Implement the dashboard changes:](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=355.0)\n      - [Unify axes on monthly/weekly click charts.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=364.0)\n      - [Replace clicks with CTR on the impressions chart.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=492.0)\n  - [**Aida:** Notify Lindsay via DM when the updated dashboard is ready.](https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y?tab=summary&timestamp=579.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Update Looker: combine organic+paid clicks on single axis; remove right axis; replace clicks w/ CTR; DM Lindsay when ready",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:53",
+            "recording_playback_url": "https://fathom.video/calls/539596563?timestamp=353.9999",
+            "assignee": {
+                "name": "Talal Syed",
+                "email": "talal@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Aida Kne\u017eevi\u0107",
+            "email": "aida@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Aida Knezevic"
+        },
+        {
+            "name": "Talal Syed",
+            "email": "talal@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Talal Syed"
+        },
+        {
+            "name": "lindsay@fieldguide.io",
+            "email": "lindsay@fieldguide.io",
+            "email_domain": "fieldguide.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Lindsay"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        }
+    ],
+    "recorded_by": {
+        "name": "Team GrowthX",
+        "email": "team@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/ZX9os7ZAtaK-5LkTAQMQ5F3EZ2MkVE6y",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

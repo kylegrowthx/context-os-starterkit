@@ -1,0 +1,1122 @@
+[
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "I'm running around to do various things, but all right.",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "How about you all?",
+    "timestamp": "00:00:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "Good, good.",
+    "timestamp": "00:00:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "Same exact thing.",
+    "timestamp": "00:00:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yeah, I'm here in San Francisco and it connects neo-ops, so it's kind of cool.",
+    "timestamp": "00:00:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Nice, nice.",
+    "timestamp": "00:00:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "So, yeah, for today, I mean, we're basically going to discuss the build process for the CVE pages.",
+    "timestamp": "00:00:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "I shared the template with everyone, but I'm going to drop the link again in the chat.",
+    "timestamp": "00:00:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "And, yeah, mean, Andy, you can take it away with any questions that you have.",
+    "timestamp": "00:00:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "And I think Marcus, you know, can figure out how he can best support.",
+    "timestamp": "00:00:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:00:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "No, I think this, like, feels like it has the information, obviously, that we need.",
+    "timestamp": "00:00:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "I mean, I think the question becomes, like, uh...",
+    "timestamp": "00:00:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "First of all, how are we actually pulling in this data?",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "How often is it refreshed?",
+    "timestamp": "00:01:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "So on and so forth.",
+    "timestamp": "00:01:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "kind of what the back end would actually look like.",
+    "timestamp": "00:01:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Okay, so we're going to have a workflow, so that will be the process we can trigger as needed.",
+    "timestamp": "00:01:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "And the workflow starts from getting the information, processing, and populating the template, and then publishing.",
+    "timestamp": "00:01:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "So that's the workflow.",
+    "timestamp": "00:01:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "just have to define which are going to be the first ones we're going to start.",
+    "timestamp": "00:01:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "And then...",
+    "timestamp": "00:01:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Okay, so great.",
+    "timestamp": "00:01:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "You want to pick, like, do you need a specific CVE number that we can, we're going to generate?",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yeah, just to have the most different ones or because the template has a lot of information, not all CDs, we have all the details, so just to have a good example, so we have, like, okay, one that has a lot of information, a lot of like that, one that has just a little bit, just have some examples.",
+    "timestamp": "00:02:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Then we do the process of getting all the data, processing, and putting the template, and maybe a lot You're doing that with APIs, right?",
+    "timestamp": "00:02:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Sorry?",
+    "timestamp": "00:02:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "You're using APIs to get the data?",
+    "timestamp": "00:02:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yes, so you've got, like, three websites, so you can see how we can access it, if it's API or scraping.",
+    "timestamp": "00:02:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:02:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "If the data is going to be well organized, then we can make sure, because we have.",
+    "timestamp": "00:02:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "All right, so the challenge now is to see if we can get, like, the privilege, right?",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Just as everyone, we have security metrics.",
+    "timestamp": "00:03:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "If we can get every detail correctly from the source, it should be API or scraping.",
+    "timestamp": "00:03:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "So that's, like, the most challenge to get the information.",
+    "timestamp": "00:03:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "OK, all right.",
+    "timestamp": "00:03:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "That makes sense.",
+    "timestamp": "00:03:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Andy, do you have, like, a list, like, because you're closer to the industry than we are, are there any, like, specific CVEs that you think would be a good place for us to start?",
+    "timestamp": "00:03:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "I don't know, like, or we can just, I can just go and do some, like, keyword research and see which ones are interesting from, like, a volume standpoint.",
+    "timestamp": "00:03:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "But, yeah, just curious.",
+    "timestamp": "00:03:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "I mean, I would just pick one.",
+    "timestamp": "00:03:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Like, to me, the initial is less about, you know, search volume and traffic, more about figuring out kind of what the process is for building these.",
+    "timestamp": "00:03:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "And, and.",
+    "timestamp": "00:03:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "And.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Maintaining them.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "So I think we just pick one and run with it.",
+    "timestamp": "00:04:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Marcus, do you want to do the one that I picked out in the template?",
+    "timestamp": "00:04:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Does that seem like a good one for you?",
+    "timestamp": "00:04:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yeah, I started kind of doing that already.",
+    "timestamp": "00:04:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "I got through the CV, went through the three websites.",
+    "timestamp": "00:04:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "was going through every field we have in the template and see where is that information exactly.",
+    "timestamp": "00:04:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "It's easy to get the correct information because some content I'm going to generate, but other must be correct as the original source.",
+    "timestamp": "00:04:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "So I was checking every API.",
+    "timestamp": "00:04:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "So yeah, I can do that.",
+    "timestamp": "00:04:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "can start with that.",
+    "timestamp": "00:04:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "But this doesn't have a lot of information on the NBD website.",
+    "timestamp": "00:04:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "So it seems very limited.",
+    "timestamp": "00:04:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "So probably I would try to find one that has.",
+    "timestamp": "00:04:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yes.",
+    "timestamp": "00:04:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "A big one that has all the details so I can see.",
+    "timestamp": "00:04:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "We populate that in the template, so without having the process of getting the data, processing and publishing them, then if you need to, you just have to rerun it, our workflow, and update data.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay, so is the updating, I mean the rerunning, that's something that we would have to do on our end, right?",
+    "timestamp": "00:05:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yes.",
+    "timestamp": "00:05:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay, so that answers the question for you, Andy, so it would have to be triggered by us.",
+    "timestamp": "00:05:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:05:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yeah, can, if the data is reorganized, we can try to trigger a refresh, we can have a daily process that goes through the API and see if there's any change.",
+    "timestamp": "00:05:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "We just have to define, oh, this is the most reliable source of information in Sydney, so just have, like, the most reliable source.",
+    "timestamp": "00:05:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "for you",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "For those details, then we can automate some of this question.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:06:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "I think we could probably do some automation.",
+    "timestamp": "00:06:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "I don't know what kind of cadence would be best, but one that maybe triggers, I don't know, is like, is once a month, is that enough?",
+    "timestamp": "00:06:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Like, maybe just to do, I mean, from a CVE standpoint, I guess once the CVE is published, they release updates and patches, but at one point, the CVE is kind of like a done deal, I guess.",
+    "timestamp": "00:06:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "So, not sure if we would need to update it, like, consistently.",
+    "timestamp": "00:06:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:06:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:06:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Ideally, there is some sort of trigger where, you know, something changes, then on, like, it's almost like if there's an update to the NVD page or our sources, then it kind of triggers a corresponding update for us.",
+    "timestamp": "00:06:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "But I don't know how possible that is.",
+    "timestamp": "00:06:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:06:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Like, just confirm the most reliable source that I can check if they have, like, APIs that will get, like, a notification when something is changed that we just, we, we like, three sites right now as source, so you just have to query, maybe you have a CVE, then later you've got an entry on Xbox DB, so I don't, you just have, like, partial updates, so maybe you have to keep it.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "We're watching three, the three websites to see this in a new day.",
+    "timestamp": "00:07:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay, that makes sense.",
+    "timestamp": "00:07:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "So, I guess the next question for me is, Marcus, like, with your schedule, when do you think we could, like, have the first CVE ready?",
+    "timestamp": "00:07:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Yeah, okay.",
+    "timestamp": "00:07:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "I just need some time.",
+    "timestamp": "00:07:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "I, I, will be working on today to, to, to, to have our",
+    "timestamp": "00:07:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcus Derencius",
+      "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+    },
+    "text": "Oh, details on the templates, if I can get out the details, it can be fast, maybe I need today to have a mother-sized date, that should go through.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay, okay, that makes sense.",
+    "timestamp": "00:08:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "I'm trying to think, I don't think I have any other questions.",
+    "timestamp": "00:08:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay, Andy, is there anything else that you might need from us?",
+    "timestamp": "00:08:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "I know you mentioned a security SME that's on your team, so.",
+    "timestamp": "00:08:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Yeah, I mean, I think that once we get to having kind of a built version, you know, I'll definitely loop in some of my colleagues, but I think the information is pretty straightforward.",
+    "timestamp": "00:08:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Obviously, we'll need to talk about design at some point as well, but I think we got to get, figure out how the data will flow, and then we can.",
+    "timestamp": "00:08:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Have a conversation about design and what will be, you know.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Maybe the publishing, how are going to copy our image file or are we going to send you a connective to GitHub and share Yeah, I have a call with some of my engineers tomorrow to kind of talk through things like this, I think.",
+    "timestamp": "00:09:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Like, so I should have a more clear sense after that conversation.",
+    "timestamp": "00:09:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Okay, great.",
+    "timestamp": "00:09:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Anything else, Jacob, did you want to cover anything?",
+    "timestamp": "00:09:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "I mean, this is the obviously the number one priority.",
+    "timestamp": "00:09:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "And then I think the it's more of just putting top of mind, but with the kind of opt out, just making sure we're wrapping up anything.",
+    "timestamp": "00:09:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "And looking forward to, you know, the next month, like what, what do we need to do?",
+    "timestamp": "00:09:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "Can we help execute on?",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "What other things can we support?",
+    "timestamp": "00:10:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "So don't hesitate to bring those things to us, but we also should be proactively looking at that.",
+    "timestamp": "00:10:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "think Aida's on top of the day-to-day with the other content things as well, but I just want to make sure we have enough time to tie up any loose ends or projects we've started in other places.",
+    "timestamp": "00:10:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "I know we started or at least drafted some other things on the PSEO side that probably have value down the road, so we want to make sure you can get as much as possible, obviously.",
+    "timestamp": "00:10:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "definitely that's all.",
+    "timestamp": "00:10:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "However, we can support with those things so you're set up for success beyond the next month too.",
+    "timestamp": "00:10:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "So just keep those things in my brain and then probably collaborate more like async when both sides just think about what that means and what is missing, what we can add.",
+    "timestamp": "00:10:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "So yeah, just don't hesitate.",
+    "timestamp": "00:10:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "I think it's the overall thought.",
+    "timestamp": "00:10:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "I want to offer as much as we can over the next month.",
+    "timestamp": "00:10:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "We're still definitely partners for that time.",
+    "timestamp": "00:10:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "And yeah, so I just to say that.",
+    "timestamp": "00:10:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "I'm going put that out there, but there's probably some things that will come out of that general sentiment.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "I appreciate that.",
+    "timestamp": "00:11:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Thanks, Jakub.",
+    "timestamp": "00:11:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Yeah, we'll think through on our end.",
+    "timestamp": "00:11:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "mean, obviously, the other big thing is getting the CWB series published.",
+    "timestamp": "00:11:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "That's, again, going to be a major topic of conversation for tomorrow's call.",
+    "timestamp": "00:11:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "It's, yeah, just definitely things aren't straightforward right now without kind of the CMS.",
+    "timestamp": "00:11:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "So we're figuring it out as we go.",
+    "timestamp": "00:11:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "But, yeah, appreciate that sentiment, and we'll definitely kind of take you up on it.",
+    "timestamp": "00:11:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:11:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "And, again, that can apply to, like, we've been doing kind of ad hoc stuff here and there because you all have a bunch of balls in the air.",
+    "timestamp": "00:11:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "So same thing, you know, we'll get to as many of those as we can if they come up.",
+    "timestamp": "00:11:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthx.ai"
+    },
+    "text": "So, yeah, I'll get my end on those, but keep it in mind.",
+    "timestamp": "00:11:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Andy Drukarev",
+      "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+    },
+    "text": "Okay, awesome.",
+    "timestamp": "00:11:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Okay, perfect.",
+    "timestamp": "00:11:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "So, yeah, Marcus, just keep us updated.",
+    "timestamp": "00:11:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "I am going to be out of office all next week, but you can...",
+    "timestamp": "00:11:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "We can coordinate with Jakub.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "If anything comes up, just let him know.",
+    "timestamp": "00:12:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "But yeah, I'm looking forward to seeing how it all works, like how it's all put together.",
+    "timestamp": "00:12:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:12:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Thanks, guys.",
+    "timestamp": "00:12:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "See you next week.",
+    "timestamp": "00:12:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Thanks.",
+    "timestamp": "00:12:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Kne\u017eevi\u0107",
+      "matched_calendar_invitee_email": "aida@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:12:16"
+  }
+]

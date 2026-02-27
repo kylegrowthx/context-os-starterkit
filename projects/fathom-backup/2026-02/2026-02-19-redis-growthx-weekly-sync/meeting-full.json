@@ -1,0 +1,2225 @@
+{
+    "title": "Redis <> GrowthX - Weekly Sync",
+    "meeting_title": "Redis <> GrowthX - Weekly Sync",
+    "url": "https://fathom.video/calls/571614080",
+    "created_at": "2026-02-19T22:37:58Z",
+    "scheduled_start_time": "2026-02-19T22:00:00Z",
+    "scheduled_end_time": "2026-02-19T22:30:00Z",
+    "recording_id": 123902064,
+    "recording_start_time": "2026-02-19T21:59:25Z",
+    "recording_end_time": "2026-02-19T22:37:49Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How's the week going?",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "It's going okay.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I'm mostly going to be off camera.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I've been sick.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I decided I am a superhuman and did not take, think, uh, did not...",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I'll listen to my body and my body today is like, I'm going to force you.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "So I'm in bed, but I want to hear what's going on in this side of the world.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Hey, you know, I think Megan got an email from someone from your company and then she's like, are we doing this?",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I was like, I think we are.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "But I was going to ask you about it.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Let me see what it was about.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "It was about the email that I, it was like, I think your growth newsletter.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Check that is live and 10 free strategy sessions.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "And it was talking about, it was talking about how you guys launched something where you can see, I I you're helpful.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I don't Thank",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Our tracking, basically, instead of just the prompts that we pick, it's able to track prompts across different categories.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so I can just pull it up here and show you guys.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's probably a lot easier than trying to imagine what I'm talking about.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So there's different categories that we can put you guys in right now.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You guys are primary category of database management systems.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But from a category level, we kind of track different prompts for each category, really focusing on kind of the evaluation and decision-making criteria of like, what questions might those buyers be asking?",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I think so we're preparing preparing on.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "My e-staff review for the quarter and anything you can share from here that like you think, you know, would lack of a better way of saying it, blow the execs away.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Or, you know, give them a little bit of like insights that they hadn't, they haven't seen before and gives them a little bit of comfort that we, that we got this.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Anything you can share that, like, I think that would be really helpful.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep, absolutely.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I can pull together some insights, even from our historical tool we've been using is called Scrunch.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So this is what we used for the last few months prior to launching Check That.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And really what we were seeing here is competitive presence for Redis when we first started was about 44%.",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And now we're about 50%.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "This actually might be pretty.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "pretty good.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "That's a really good part.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "But yeah, especially because on the right side, you also have like the Mongo, Milvus, Reet Mand, yeah.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I love it.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "It's good.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So this is where we've been tracking things historically.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "With the new tool, of course, with the new product launch, there's going to be bugs, unfortunately.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so as I've had this, like your analytics are being updated for the last couple days as I'm trying to check this.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I've also seen like once we switched categories, we got a bunch of jumbled data.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I'm having the engineering team hop in here and take a look.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, but I can pull together insights from Scrunch and see kind of a, like this competitive presence, which is, you know, how often do you show up in the prompts that we're tracking on a daily basis?",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then also, sorry, go ahead.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Sorry, no, go ahead.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then I can also see like if any of our articles that we've published, like the net new ones.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "new",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Starting to be referenced, like in these, like, what is semantic caching is one that's, I think we refreshed recently.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so it's starting to show up with other competitors, but I'll pull together like a better insights of everything we have here.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "That would be super amazing.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Like, I think Fung-Lin like this, we don't need to do more than just say this.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Oh, are you guys searching from Scrunch to check that then?",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Like, to check that?",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So check that is our internal.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We built this one.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Oh, you guys both checked that.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:07:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so what we're, you know, the larger vision is that instead of having you, like, set up a new instance from scratch and have to come up with all these new prompts, you can literally just come in here and, like, add prompts from the shared library of everything.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Whatever kind of category you want, and so you can just pick these, and once you upload them to your account, then you get all the historical data that comes with it to see kind of, have we been mentioned in these categories historically?",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Do we want to add new prompts to track specific, like, product releases and new mentions, or if we're going into a new category, we can just go and kind of pick up these new prompts and add them to your account.",
+            "timestamp": "00:08:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So instead of starting from scratch, you get to have all this historical data that's populated into your overview section.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But as I said, brand new launch as of two weeks ago, so we're still working out some kinks with it.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So in the meantime, I have scrunched this as kind of a default to go back and make sure we can track the prompts that were, I think we, when Cody was still here, he gave me access to.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Profound, and I went in there and copied all the prompts and then uploaded them up here.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we should have a one-to-one parity of what you guys are tracking in Profound.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah, because I believe that's what the scrunch was off, data was off of, was off of our Profound data.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, yeah.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, yeah, more to come on, check that.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's, right now, we're giving everyone, like, a 90-day trial to have to, A, fix the kinks and try to get everybody onboarded.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Once we get past 90 days, I'm still trying to figure out, like, what the go-forward plan is.",
+            "timestamp": "00:09:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Since we've been providing scrunch as part of the program, my questions around that are just, are we going to continue to offer this as part of, like, our ongoing reporting conversations.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, more to come on, check that overall.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But for the time being, it's at least registering all the prompts that we have tracked in Scrunch and being able to track new ones from different categories.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So quick updates on the content side.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We're at 49 total published, so we've crushed out the backlog.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "There's only four left in PMM review.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think they're mainly the competitive pieces.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm just looking at our content OS to double check.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But, yeah, two of them are competitive, and then two are hybrid search and vector database versus traditional database.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But other than that, we had nine articles published last week, five more this week.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we're getting on a really good cadence.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "cadence.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "go.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "yeah.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "There are three.",
+            "timestamp": "00:12:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "One, I haven't moved yet, because we're just waiting on the image, the diagram for.",
+            "timestamp": "00:12:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So that one's actually already reviewed.",
+            "timestamp": "00:12:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "just need to add the image.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "My internet's not letting me log into assignments, but yeah, I would take a look at those.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I would take a look at the three Fathom PM and review.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'll just pull up my other screen again.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, looks like they were assigned to Jim.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "What was the other?",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "What was the third one?",
+            "timestamp": "00:12:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Vector database versus traditional database.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Can I see?",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Is that Jim also?",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "All three.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so we're investigating this, like I said, kind of across all accounts, but it is something for us to keep tracking.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "We actually have a paid advertising agency, and we've actually been working with them because I think Google might have just announced that they, I could try to find it and send it over, but we also did notice that our direct traffic went haywire, like the last December and January, where we saw this like crazy, like doubled amount of sessions.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "They said that our agency, they say that Google put some announcement that there's just like a lot of bots coming in from Singapore.",
+            "timestamp": "00:15:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I think it's Singapore, if remember, so they were able to filter it out on our reporting side, but within GA4, they're filtering it out for our reporting, but I'm guessing maybe that's the same, but I think these bots might just...",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "look.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes, Singapore is number two.",
+            "timestamp": "00:15:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah, and I think it's like the primary bot.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I can try to find the, I'll need to find the, sorry, there's like a group of us that's been talking about these bot issues.",
+            "timestamp": "00:16:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "But it's for us, it's actually the screen resolution was 1366 by 1366.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, that one's also up there.",
+            "timestamp": "00:16:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, it's all a lot of traffic.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah, these are bots.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "The 1366 by 1366 with bots coming from like China and Singapore.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "The 800 by 600 or 800 by 800 is the one we're seeing kind of consistently.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And if you look in like a little bit deeper, engagement time is like one to two seconds.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So it is definitely a bot kind of coming, screen grabbing and then moving on.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah, I just shared, I just shared.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "A Google support ticket, a Google support post, talking about these bots.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "It used to be from Singapore, and I think now it's coming from China.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I will take a look at this and also share with our team as they're looking into everything.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Um, but regardless, um, overall, we're still seeing, even if we take direct traffic out.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And email and all the other stuff, we're still seeing a really good trend line of organic, um, traffic continue to go up.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Obviously, this is this week, which isn't done yet, but, um, still seeing the trend line of week over week compounding growth.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "How should I about it from, um, how should I think about it in terms of, like, obviously we care about, again, we care about the growth.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "We care about...",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Traffic, growth from LLM, and then we care about conversion as a primary.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah, like this is the one I was looking at.",
+            "timestamp": "00:18:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Where it doesn't, I guess this is part where it's not just a steady incline.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, this one, we do see a little bit of sporadic kind of up and down overall, as long as we continue to see kind of the trend line go up, then we're feeling pretty healthy.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And really it's ChatGPT, Gemini Perplexity, Claude is a really hard one to get a referral from just because unless you have web browsing on, they don't provide any citations.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So more of a kind of platform nuance for them, but ChatGPT is I think about 90% of all LLM referral traffic.",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So it's good we're seeing a good split between Perplexity and Google too.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then conversions we did.",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So what is semantic caching is a refresh that we did and multi-agents versus single agents.",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So good to see continuing traffic.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "think we've got like one extra conversion compared to the last time I showed you guys the data.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I don't know why these aren't registering visually, but overall still tracking for kind of goals for February is to kind of, at least double.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think we had two in January.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So try to get four to five conversions.",
+            "timestamp": "00:19:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then lastly, I did take a look at just like the last year of hand raiser events.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And a lot of what I noticed was they're coming from product pages.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I think when I do hand raisers, when I do hand raisers, and I do only growthx articles, I don't think there's any coming through.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No, none yet.",
+            "timestamp": "00:20:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "So that's why the piece is a little more scary for us, since we've been seeing a pretty sharp, like, organic to find in MQLs and hand raisers from organic, and this is where we were hoping for growthx to kind of bring up.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, and that's, so I was looking at kind of all the different landing pages that have hand raiser events, and a lot of it is, like I said, from product pages.",
+            "timestamp": "00:20:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It can load.",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm also, as a side note, trying to get our team to change to something else besides Looker.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is this loading times where we spend most of our time doing reports and it's way too slow for us?",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I should, like, look at it.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "It will only be a three, but, like, I can kind of self-serve, but, yeah, yeah, I know what you mean.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, so these are a lot of the landing pages, like Docs, Solutions.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And what, I guess what the TLDR is, there's probably a couple blog posts overall that are leading to hand raisers, like, what is Valky?",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But, I think...",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Something for us to kind of start thinking about more strategically is, you know, if we want to focus on hand raisers, then it might make sense for us to think through how we enter some, like, CTAs or callouts in the body itself versus a lot of what we're doing right now is having, like, the CTA or, like, talk to Redis at the very bottom of the article.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So more so kind of, I guess, a question back to you guys is if we want to explore putting some of those, like, CTAs and callouts earlier on in the article, maybe around some more of the technical pieces that we typically link to.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Like a more, like, book a meeting?",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, and we can experiment with different CTAs, like, book a meeting or talk to an expert or kind of different ways to...",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "you saying?",
+            "timestamp": "00:22:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Like, putting it as a...",
+            "timestamp": "00:22:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Like, kind of like as, like a section break within the article.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay, yeah, yeah.",
+            "timestamp": "00:23:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "We've, we've talked about that a while ago, because that was actually also an, yeah, it was also kind of like an advice we've been given.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I think we're struggling with the design.",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah, we only have it in the very bottom and obviously the top nav and that's it.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, yeah, something like with one of my clients, we do it like right after the intro, just so it's like priming them as they're reading to think about it.",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Other places are kind of midsection if we just want like a visual break to add CTA, like call out box, especially after we get like into the real time infrastructure requirements and challenges.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like right after this, we could put another one.",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Once you get into month three and four, conversions start to become a focus.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Months one and two and even into three are really like, are we getting impressions and clicks and engagement time?",
+            "timestamp": "00:25:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But those are typically with smaller, less mature clients.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You guys are a little bit further along.",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I think we can definitely experiment quicker as long as we're aligned on kind of what we want to experiment with and be able to track those experiments over time.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I can bring it up to our brand team about their thoughts on like adding like a section break.",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "So I can bring that up to our brand team.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I'm actually meeting with them tomorrow.",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I can ask them.",
+            "timestamp": "00:25:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I can ask them either if they can design it with Insanity and then use this and just use that template or if that's something that we would do.",
+            "timestamp": "00:25:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Or if that's something that they would want to do.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, that works.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then we're happy to do it either way.",
+            "timestamp": "00:26:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, if you guys want us to take a crack at it, like, I'll just show you a quick example.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, error by one of my other clients.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, just, literally, this is all just code for their new agent engine.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But, so these are things we can build really simple without any, like, new components that need to be built.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But we'll kind of take the guidance from your brand team as how they want to go.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "How come for that error by article, it's not on their blog.",
+            "timestamp": "00:26:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "It's like a separate landing page.",
+            "timestamp": "00:26:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, they, we publish about 12 to 15 articles a week for them.",
+            "timestamp": "00:26:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so, a lot of it is meant for just organic.",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Debating who to use as authorship for our articles, I was looking at, like, some of the clients that are using GrowthX and just who they use authors, and I came across Airbrite, and I was like, wait, it's just, it's just like, I was there's no way to see who's writing every week.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "No.",
+            "timestamp": "00:29:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "As you watch your product.",
+            "timestamp": "00:29:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:29:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "That's how I was curious.",
+            "timestamp": "00:29:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Like, you guys are just doing it.",
+            "timestamp": "00:29:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "But I guess you interview him, and then you grab those.",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, we use basically those interview transcripts as, like, proof points to, like, base it on factual evidence of what we can say and not say.",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So it's definitely a whole custom pipeline we built just for him.",
+            "timestamp": "00:29:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:29:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:29:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I know we got one minute left.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Anything else top of mind or things I can work on?",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'll definitely pull together that AI kind of visibility summary for you.",
+            "timestamp": "00:29:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:29:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "And I would get those three pieces.",
+            "timestamp": "00:30:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I'll ping Jim.",
+            "timestamp": "00:30:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:30:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Because once those are done, then we don't have a backlog.",
+            "timestamp": "00:30:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It should be awesome.",
+            "timestamp": "00:30:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "I know.",
+            "timestamp": "00:30:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "That'd be great.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:30:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thanks, Funland.",
+            "timestamp": "00:30:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thanks, Reet.",
+            "timestamp": "00:30:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Hope you feel better.",
+            "timestamp": "00:30:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Fung-Lin Wu",
+                "matched_calendar_invitee_email": "funglin.wu@redis.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:20"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Review performance and strategize for the upcoming e-staff review.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=297.0)\n\n## Key Takeaways\n\n  - [**AI Visibility Up:** Redis's AI competitive presence rose from 44% to 50% (Scrunch data), a key metric for the e-staff review.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=335.0)\n  - [**Content Backlog Cleared:** 49 articles are now published; only 4 remain in PMM review, assigned to Jim.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=619.0)\n  - [**New CTA Strategy:** To drive hand-raisers, the team will test placing CTAs mid-article, moving beyond the current bottom-of-page placement.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1320.0)\n  - [**Bot Traffic Identified:** A surge in direct traffic was confirmed as bot activity (from Singapore/China, 1366x1366 screen res) and will be filtered from reports.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=910.0)\n\n## Topics\n\n### AI Visibility & Reporting\n\n  - [**Goal:** Generate impressive insights for the upcoming e-staff review.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=297.0)\n  - [**Key Metric:** AI competitive presence increased from 44% to 50% (Scrunch data).](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=335.0)\n  - [**New Tool:** GrowthX launched \"Check That,\" an internal tool replacing Scrunch.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=447.0)\n      - [**Vision:** A shared prompt library with historical data for easy setup.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=463.0)\n      - [**Status:** In a 90-day trial with known bugs (e.g., jumbled data after category switches).](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=521.0)\n      - [**Action:** Erik will use Scrunch data for the e-staff report while Check That is debugged.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=521.0)\n\n### Content Performance & Strategy\n\n  - [**Publishing Cadence:** 49 articles published; 4 remain in PMM review (assigned to Jim).](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=619.0)\n  - [**Organic Traffic:** Shows a healthy, compounding week-over-week growth trend.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1045.0)\n  - [**Bot Traffic:** A recent surge in direct traffic was identified as bot activity.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=910.0)\n      - [**Source:** Singapore & China.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=910.0)\n      - [**Signature:** Screen resolution 1366x1366, 1-2 second engagement time.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=976.0)\n      - [**Action:** GrowthX will use this info to filter data; Fung-Lin shared a Google support post on the issue.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=910.0)\n  - [**LLM Referrals:** ChatGPT drives \\~90% of all LLM traffic.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1111.0)\n  - [**Conversions:** GrowthX articles have not yet generated hand-raisers.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1177.0)\n      - [**Analysis:** Hand-raisers originate from product/docs pages, not blog posts.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1177.0)\n      - [**Solution:** Test placing CTAs mid-article to capture intent earlier.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1320.0)\n\n## Next Steps\n\n  - [**Erik:**](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1789.0)\n      - [Compile an AI visibility summary for the e-staff review.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=297.0)\n      - [Share bot traffic details with the GrowthX engineering team.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=910.0)\n  - [**Fung-Lin:**](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1789.0)\n      - [Ping Jim to complete PMM review for the 4 remaining articles.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=738.0)\n      - [Discuss mid-article CTA design with the brand team.](https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a?tab=summary&timestamp=1320.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Compile AI visibility summary (Scrunch+Check That; competitive presence, new refs) for Reet/Fung-Lin",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:24",
+            "recording_playback_url": "https://fathom.video/calls/571614080?timestamp=324.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Review GA4 bot support post from Fung-Lin; share w/ GrowthX team",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:46",
+            "recording_playback_url": "https://fathom.video/calls/571614080?timestamp=1006.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Discuss mid-article CTA section-break w/ brand team; report back to Erik",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:25:23",
+            "recording_playback_url": "https://fathom.video/calls/571614080?timestamp=1523.9999",
+            "assignee": {
+                "name": "Fung-Lin Wu",
+                "email": "funglin.wu@redis.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Ping Jim re: 3 articles in PMM review",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:50",
+            "recording_playback_url": "https://fathom.video/calls/571614080?timestamp=1790.9999",
+            "assignee": {
+                "name": "Fung-Lin Wu",
+                "email": "funglin.wu@redis.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Andy Varshneya",
+            "email": "andy.varshneya@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Allison Gregory",
+            "email": "allison.gregory@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Megan Boone",
+            "email": "megan.boone@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Fung-Lin Wu",
+            "email": "funglin.wu@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Fung-Lin Wu"
+        },
+        {
+            "name": "Alexis Ruiz-Pedregon",
+            "email": "alexis.ruiz@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        },
+        {
+            "name": "Reet Mand",
+            "email": "reet.mand@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Reet Mand"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        }
+    ],
+    "recorded_by": {
+        "name": "Team GrowthX",
+        "email": "team@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/v3je9vmSPwoWdD9XTkiHDRoEMJDm4v2a",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

@@ -1,0 +1,2420 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "We're almost outnumbered by the bots.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Yeah, now we have more.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Anyway, but you were saying that you had an example that might be slightly more on brand.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I'm not saying it is amazing or anything, but I can share this in our chat.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I may need to give you guys access to this.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Maybe not.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Oh, wow.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Oh, so I mean, it's definitely, yeah, this is.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Yeah, I started just like kind of building it out based off of the existing leaderboard.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That's great.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So we can definitely take components from this too and then just obviously make it more broad.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Per model, but the individual modules for the different categories and stuff will be something we can use per model and make it just a little bit more broad.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Just wanted to share this in case it was at all helpful because I did it and then Prateek obviously never had the time to update the actual leaderboard.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So, yeah, the leaderboard itself has to live on hugging face for other reasons.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So, but I think this adaptation of like a model comparison hub and individual pages is a good way to kind of get some owned traffic from it and still have the primary leaderboard on hugging face.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Yeah, I'm not saying we have to like recreate the whole thing.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I guess that was another one of my questions.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "How much data are we going to need to like capture?",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "For this, like, is it going to be, like, real-time updating data?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Like, is this the type of thing where it's, like, there's just, like, a data set that we're going to upload, and then it's going to reference that?",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I guess in terms of just complexity, how is that going to work?",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That is a good question.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That is a good question, because if it could be something that we upload and update that way, it would be much more useful, so we don't have to, like, go back and do massive updates manually, but I'm not sure how be a way to just pull it from hugging face, because it's all there, obviously, right now.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I just don't know if there's an easy way to grab all of that.",
+            "timestamp": "00:02:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Vivek slash Mara, have y'all ever worked with a client where it's been...",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Where it's been...",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Sort of a circumstance where it's like data that gets updated automatically versus like building a bunch of pages at first and then just kind of letting them live for a while?",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Or what have you all seen work in the past?",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So with Ramp, which we're doing for them, it's live.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "They have live and static elements.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if you look at the overview page, which we're calling the model card page, so to speak, the 4% higher, wait, let me share my screen, this might be easier.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So these little blocks, okay, so these things here, the 4% higher, 6%, whatever, I believe this is real time.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I mean, it's not like, you know, a ticker or whatever, but it updates on its own.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But these graphs over here, they're not planning on changing them anytime soon.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "My guess is it's going to be like a...",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So it's both static and dynamic.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Given the AI space, I don't think the six-month update is ideal just because of how fast it moves.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Real-time would be amazing.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But, yeah, if that's not an option, I would say weekly at least.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You know, I don't know.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Mara, what do you think?",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I would agree.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I would say, like, you know, best-case scenario, well, I don't have necessarily the experience with the cons that might be attached to this.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So there's probably things that I'm overlooking.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But I feel like, you know, as many elements that can be live is ideal just so that it's updated in real-time.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So I feel like that's the preference.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But I know that's a little bit more complicated to implement.",
+            "timestamp": "00:04:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Yeah, we'll have to think about that.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "For sure, from like a logistics perspective of how we can have that data be real-time.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And that is also dependent on how often Pratik is updating those results.",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "We can.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't know if this helps, but we can always have like a little notice on the page itself that says next updated on whatever, you know.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that sets the expectation that people, I mean, it's all about UX.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That's where I'm coming from.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So they know that, okay, this is when it was last updated.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This is when it will be next updated.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the expectation is set.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And Google appreciates that too.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That would be one other element too, where if that is also updated live, that also could be useful for us just from the perspective of the content always being graded as fresh, you know, because if it has a date in it.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So that would be one other pro there if we have that little.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "like I think.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So,",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That definitely makes sense.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So let's start this document now.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Obviously, we're going to need a header slash subheader with probably some sort of visual element at the top.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I'm guessing some form of model card that's dynamic just because that would be easy to implement on every page and kind of gives people the gist before they actually dive into the info.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Model card.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "We will need a \u2013 we'll probably want that updated date in the header area just so it's also clear.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "We'll a header.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "header.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "a header.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "need a We'll need need a We'll We'll need a header.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Dynamic model card.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Last updated date.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Let me think of what else.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I think for the second component, I do quite like ramps, real-time updated cards that are there with the different statistics.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And I think we can do that and honestly just break apart some of the different takeaways from the leaderboard itself to do that.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So as far as the content depth on the page, what have y'all seen work in the past?",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Like, do we want to go heavy on supporting copy and treat it more like an SEO blog in that sense?",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Do we want to go heavier on, like, some of interactive elements with briefer copy?",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "What do you guys think would be a good call there?",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think for these kinds of pages, we treat them as product pages.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So more interactive and then just link to them from all our blogs so that Google gets the idea.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Copy, I think.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But we should support more.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And besides, I think if, you know, I'm saying this because looking at the intent behind people searching for these things, they don't want to sit there and read stuff.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "They rather look at graphs.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah, and that helps the, that helps the overall workload for sure.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Well, with that in mind, let me look at the leaderboard again and think about the different graphs and different things that we're going to want there.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah, looking at the, the Figma, like the, the redesign that Jeffrey has in there, I think that's pretty much the, the model overview page right there.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like we can literally copy paste it because it's got really good data in there and the design looks great.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, it's only the, the versus stages that will need some engineering.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "yeah.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "yeah.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "yeah.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "In of getting the data in there, like comparing one model to the next.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that I think is the more complicated task engineering-wise.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But yeah, I think for overview pages, the existing...",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Sorry, I'm not a designer.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't know what to call this, but the wireframe is not a wireframe, but whatever, the model.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think that works.",
+            "timestamp": "00:10:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So maybe not so many buttons, but we can replace the buttons with text, maybe.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But yeah.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I think that makes sense for sure.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I think from this design, the only thing that we would probably need to do is maybe just reconfigure the header a little bit, just so we can have like a little bit more space for a model card.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And just probably like left a line, copy, right a line, the image, and we can probably get away.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So with that.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Thanks, Jeff.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Good job.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Pass, Jeff, coming through.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "We didn't expect you to have just like something beautiful already to go.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "One of the things I've known for, I guess.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That and your perfect teeth.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Or lack thereof.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Sorry, I'm like rubbing my jaw.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Oh no, I bet.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Crazy.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So you have to get the crown fixed today?",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "They did a crown and then I had like three fillings on like, I don't know.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "They like put this like rubber thing in your mouth that like keeps your mouth open and like my jaw is just like so sore.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I know what you mean.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Oh.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Oh, I'm sorry.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Far too many shots in my mouth, too, because, like, they did it, like, they gave me the shots, and then I was like, oh, yeah, I'm definitely still feeling that, and then do another round.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "One shot in the mouth, usually too many, you know, like, anything above that is definitely too much.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Do you have any other questions, Jeff, like, for us, or anything else that we should talk about?",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And Jackson, sorry, I'm sure you have some questions as well, but is there anything else that we should provide or could answer?",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So, I guess I haven't really worked closely with y'all before.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Am I going to just kind of be, like, taking care of the design aspect of this, and then, you know, you guys will be working with Jackson and maybe Connor on, like, some of the content and the things like that?",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Like, how do, I guess, support either of the projects overall?",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, typically, like,",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "We have the, we front load the design conversation so that we can understand what elements will be on the page.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And then we work backward from there and just make sure that we're helping, like, populate.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And then also, of course, like, sharing input on, like, best practices just from the other accounts that we see.",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "But that's generally how it works.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I hope that, like, answers your question.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "No, I think it, I think that does.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "For me, with design, like, I think it's important that Jackson and I figure out the content, right?",
+            "timestamp": "00:13:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So, like, figuring out which one of these segments from the leaderboard do make sense to be on the overview page.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Because it sounds like we're going to need to have separate comparison pages.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Is that correct?",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:13:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So, it's going to be, like, the hierarchy is, like, one main page and then there'll...",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Will be subpages off of that?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Is that correct?",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's not necessarily a subpage, but in the backend, I guess when you're pulling data, they will be related.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, it's not gonna be a child page or anything.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'm thinking, let me, again, I can show you the ramp example as to how they categorize this.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So this is like their landing page, so to speak, and I'm thinking we could have something similar, like model comparison hub, whatever you wanna call it.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the header, the hero section here, and then over here, these are all the overview pages, right?",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I click into this, this is gonna have like the model cards, et cetera.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "They have these alternatives, which these pages don't tend to do well, so we're not recommending it.",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But then, you know, these are the comparisons, right?",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So this versus this and so on.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So these are like kind of separate.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Ramp actually classifies it as a child page, if you see the URL, but that's for data purchases, because they have a lot of reusable elements on this page that pulls in from the master folder.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if we need it for that, we can certainly go ahead and do it, but from a, you know, at this point, I don't think it needs to be a child folder.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, that's great.",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Sweet, that makes sense to me.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "The pages that will need the data, it's not the overview page, it's those comparison links that someone will be clicking on.",
+            "timestamp": "00:15:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Well, the overview will need the data that's currently on the leaderboard.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So everything that you're displaying for a particular model is performance across sectors, the benchmark performance, etc., domain performance, all of this.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We will need that on the overview page, the versus page, it will just be comparing this model's performance.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And it's, again, the same issues, but this versus this, so, you know.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "it.",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So engineering-wise, that's why I was saying, like, the versus pages might be a bit trickier because you're going to have to get to data sources.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But I think the overview pages, you already have it.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You know, it's just your leaderboard, but you just have to isolate it to one particular model, and then we get it in there.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Okay, so we need the overview page, then a template for the comparison pages, but we can pretty much just reconfigure the actual redesigned leaderboard draft that you have for the individual model pages, and that should be pretty quick.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Jeff, given your current bandwidth and projects in flight, what do you think is a reasonable due date for us to assign for a V1 for this?",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Well, think the more important question is, when do you need it to go live?",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Because typically, I'll say something, and that doesn't matter.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So you let me know.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Damn, God.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Host Dentist Jeff is spicy.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Let's see here.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I'm just being real.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I'm just being real.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I love that.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That's what we're here for.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I mean, this is very high priority for us from a traffic perspective, and it's going to help us broadly start to capture some more different intent traffic that I think would be a good call and make the whole team happy.",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I think if we could get the templates into the growthx's team, into the hands of the growthx team by early next week, mid next week, I think that would be, I think that would be good.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Let me look at...",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Let me look at all of the other things in play right now and kind of start weighing them a little bit more.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Let's see here.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Ideally, I was thinking like the 11th or the 12th of August.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So a workflow perspective, what makes sense for you guys, Mara slash Vivek, because I know that this will be a lot of like a lot of work to get all of the pages populated.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And I'm trying to think of like what we should get you guys first to start front loading some of that.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And then just so we can kind of like divvy up the different effort here.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So we're like ready to go.",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "As quick as possible, and then can kind of give Jeff a little bit more time for like, like if we get you the template for individual model pages, would you guys be able to get started on that?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And then we have Jeff have a little bit more time to do like the overview.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Yeah, I think so.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, you just give us the templates and because from our end, it's really just figuring out where the text goes and what we need to generate.",
+            "timestamp": "00:19:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And we'll build the flow on our end.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So yeah, if you can give us even the wireframe, that'll be great.",
+            "timestamp": "00:19:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It doesn't have to be like super pretty or anything.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We just need to know what text goes with.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just a map.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So I think if we want to start with the individual model paid wireframe and just cleaning up that and then trying to have a version of that, I know Jeff is also working on SEM landing pages with me this week.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And that's our immediate top priority.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "So let's try to get that over the finish line this week, Jeff.",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And then maybe you can switch gears into this next week after that's done.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And once we actually have a version we like and then can rebuild those pages ourselves in Framer so you don't have to do any more design there.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So I have a question.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I don't know if it's for you, Jackson, or for the GrowthX team.",
+            "timestamp": "00:20:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "But if we're looking at our current leaderboard, there are lots of ways to sort things.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Like the UI, like UX, like when you're clicking on something and things are changing, it's not exactly clear where that's happening or how that's happening.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Have you guys built anything with this much data that actually makes sense?",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Because to me, this is kind of a mess.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Thank Thank Thank Thank Thank Thank",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It is a lot of data, but I think a lot of the complexity comes, I might be wrong here, but I think the complexity is coming in, the sorting that you mentioned, because it's highlighting every single model at once, whereas our page will just have, you know, the overview page will have just one model.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, that kind of tells me that the data is present, we just need to sort of maybe remove the filters and replace it with the actual data from the, whatever data that you have in the model itself.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I might be wrong, but yeah, just correct me if I ask.",
+            "timestamp": "00:21:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think that sounds right.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So, the overview page will be specific to each model that we are highlighting, is that correct?",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "So we wouldn't need a lot of the sorting and filters that we have on this leaderboard.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Correct.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:22:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "yeah, just, I mean, we can walk through each section, for example, like, looking at it, like, on top, you know, you have the model capabilities, visualizations, real-world performance.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't think we'll need that part.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "First part, the first thing we will need is probably the domain performance analysis.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like, I really like that graph.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You know, I don't know what it's called, but, you know, the thing where it's here and there or something.",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Waving my hands a lot, but yeah, that one.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Then, yeah, the cost, performance, efficiency, speed, accuracy, like, yeah, all this is great data.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We'll just need to, like, have some text in the boilerplate text in there with some SEO-relevant terms.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I think that would be the.",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, so I think the data is in here.",
+            "timestamp": "00:23:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We just need to remove the filters and the interactive stuff and things would be good to go.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:23:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "I think that's all the questions I have.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "If I have more, I'll bug Jackson and then he can bug you guys or I can bug you directly, whichever one is works.",
+            "timestamp": "00:23:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeffrey Gardner",
+                "matched_calendar_invitee_email": "jeff@galileo.ai"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "then Jeff, are you in the growth X channel to our Slack channel?",
+            "timestamp": "00:23:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "check.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "I think Jeff is in there.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "remember.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "He is.",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That's great.",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "That way, if anything comes up, we can, we can chat in there.",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Um, for next steps, I will compile, uh, some of the different things we talked about.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Once these Gemini notes come through, I will create a shortcut ticket.",
+            "timestamp": "00:23:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "a idea.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "Sign that out to you, Jeff, and then we can kind of talk about next steps as soon as we get that SEM landing page done.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jackson Wells",
+                "matched_calendar_invitee_email": "jackson.wells@galileo.ai"
+            },
+            "text": "And then we can just start working on the template once your backlog is cleared and get this going.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That's good.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:24:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:24:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Well, thank you, guys.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I appreciate the time.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, nice to meet you both.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Bye, everyone.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Cheers, all.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Cheers.",
+            "timestamp": "00:24:30"
+        }
+    ]
+}

@@ -1,0 +1,3164 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Going on at a high level on the reporting side, but when it comes to, like, there are obviously, like, nuances, and it's client-specific on, like, which things we want to highlight, and then obviously, like, certain things that we don't want to necessarily, like, create expectations around.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "So, I was thinking we could use Tavern as an example, and we could maybe just run through, like, Looker, GSE, and Scrunch, and you could just give me, like, for each of those, kind of a view into, like, what, when you look at those and think about those, like, a client and how you might, the things you want to share in a meeting, and kind of the guardrails, I guess, around that, like, if we could almost do, like, a simulation, that I can then, because I can then apply that to other clients.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep, I'm just pulling all the different tabs up so I can walk through.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Tavern's going to be different just in being very new, obviously.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's just start.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in the looker, I'm almost always just immediately going to our own content.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And overalls, fine.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or cohorts is fine.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I really just am looking at overall sessions.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think engaged sessions, I'm honestly not even sure how we're exactly measuring that.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'm just looking at the purple bar, generally speaking, especially early, like engaged sessions, telling me like what people are doing on the page.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm assuming there's an engagement, right?",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're not even.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thinking about closing this gap at all, like that's a much more mature thinking.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You we talked about this kind of curve that they had earlier.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm also typically doing this year to date just to see it stretch out further.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Even a client that's had traffic all year, I kind of want to see that trend and you can shorten it over time.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But, you we had, I think we talked to Matty last time kind of at this stage, and then we're seeing this little bit of a drop.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Honestly, you can look at, like, it's probably an interesting exercise to pull up like 10 lookers across different clients that have been more extensive.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like this is 200, nearly 200 clicks seven weeks in.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't think I've seen better here for a week.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "So this is really good.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, that's what we're looking for.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Our cohorts doesn't tell us anything differently, though it does break down.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So theirs is actually pretty useful.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because we do have pretty distinct content types that we can track and see where this growth is.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The case-based stuff is just working really well.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There seems to be no competition and a lot of search volume.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we're just looking at, Matty, what do we want to do for the next two months?",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Showing this view particularly, then getting into the individual URLs.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's probably pretty useful.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I typically pair this view with the scrunch view if there's something to talk about because we've got both sides of the LLM views.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So looking at, I don't really care.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know that anyone has any, maybe there's like a use case or like a company type where you'd care more about one of these versus another.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But really, it's changing every week, it seems.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like you'll see Claude pop up for three weeks and then literally disappear and you can like tell that they changed their kind of methods for a minute.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I just.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I see this going up and to the right and same thing.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Look at this.",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you won't see very much of anything at this stage.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'm usually, like right now, I wouldn't show very much on the LLM front.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just there isn't.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then I'd come over to scrunch and it probably is about the same, but...",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah, it's like, because they're so early, like basically a brand new website.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "One of you took over, they had five blogs and new company versus someone like Filebine who's been around for a minute.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I feel like in the LLMs in general, this is like what I mean about kind of oversharing.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "It's like, I don't want to get the client hooked on really thinking about LLM citations at this point.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You also want to make sure who we're targeting content-wise.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We do want to see if that specifically is showing up in search for Tavern.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so I would probably a monthly addition for the first few months just to ensure that we're seeding Scrunch properly.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, right now, I mean, zeroes across the board.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't even know if that's true just because of the way that, like, where those prompts set up to match the content that we've targeted.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, you know, you, like, here, this date, we see a 0.4%.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, that's fine if that continues or if we start to see that trend, we can start to call that out that we're seeing growth there.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I'm really, I would stay away from Scrunch right now.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah, because we actually have the, we obviously, like, the way that we thought about the content strategy is that it's almost like feature-led, like, clusters.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "So, we have, we've been smashing retrieval.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "We're starting to add demand.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "we're starting to",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Letters and chronologies, and these could almost be like the seed prompts that then we, that's like the way that I would think about it.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Like, let's get queries or prompts underneath each of those to match the content.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah, I love that.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I think that's really smart.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then it does, like, same thing as doing that with the cohorts here, basically matching those.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, and, because then you'll be able to tell, like, we did clusters around three of your product features or functionality or whatever we're calling it.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, okay, we're growing in this area.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We haven't seen any growth here.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is that, like, and then we can tell, that a competition issue?",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is that our content issue?",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, then you can start to diagnose, but as best as you can, align these to features and, you know, pieces of their product that make sense, and then align that over to scrunching.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Everything will just create much clearer path.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "on what's good, what's bad, and then give you a set of action items afterwards.",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But if those aren't aligned or it's not tagged properly, you just end up doing a ton of manual research and trying to connect a bunch of dots that aren't fully one-to-one, and this is going to be your best case or your best chance at creating some advantage there.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I know you did it.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The way you explained it is exactly how I do it.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Do you happen to know if there's a, like, masterclass on file somewhere on, like, setting up, you know, playing around in Scrunch?",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I played around in a little bit in Strategy Sprint, but I've looked, like, through Notion, and there's no, like, SOP-type document that I can find or video or, like, Loom or anything like that.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, would you ping Jason Gong to see if there is?",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't think there is, but perhaps something was created before, and if not, that's something we should create.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah, I'll follow it up.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me know if they're either direction.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "GSC, what am I looking at here?",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I defaulted 12 months because I'm looking at some other things, but for them, I really wouldn't.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we talked about it with some client, but the impressions, like, I am turning that off largely right now with the September 15th kind of change.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We really had a good week there for them.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is, like, the type of thing where I don't know what happened here.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But otherwise, if we can attribute these spikes to our content, like, it's kind of a nice screenshot or graph to show them, like, things have taken off really quickly.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's more of a get excitement.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For them, they're like real insights.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then comparisons, you can do them at a bunch of different stages, obviously, 28 to 28, or the last month, the last month.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think I'll manually set this for other clients.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I put this in a spreadsheet for, or an spreadsheet, a presentation for other clients, just to concentrate them where I want them concentrated.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You don't have to do this, it probably is a waste of some of my time, but then I can have like my numbers ready, and I can just grab the views I want.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like in here, I'm not using landing pages, I'm not using cohorts, I'm really not looking at conversions most of the time, and I don't want them to like, let's go look at that.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, like let's go spend time where there's nothing.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What was I saying?",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, and then for them, I just do a monthly, a regular cadence monthly.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I set, like I'll.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Take the time to make this October versus September, so we just have clear things, but for our purposes, we can look at 28 days and then clicks and impressions.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Obviously, the impressions got murkier and you want to spend less time here, but in this early stage, impressions are the best indicator.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Impression growth and keyword growth are the best indicators that we'll have more traffic one day.",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Google is testing us.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "seeing more traction in general, and so this growth is awesome.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, that's percentage-wise a huge, huge chunk, and we're also seeing, like, this is not what's so typical in month two is the click difference, so I typically have those percentages, and then you can look at the query level to see where we're seeing the growth.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It is good that they're seeing a ton of branded stuff, but then let's look at the individual pages and is there anything thematically we can see?",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know what they're doing here.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "feels like they must have done some sort of...",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If effort or something's working, like, this is great, we would want to know what other marketing they're doing, do they have influencers somewhere, do they run some sort of paid campaign, but this is great, and then within, like, more of our content, like, these obviously aren't the biggest numbers, but they still do matter when we're looking, settlement, settlement, you know, like, the actual cases, we can just see those anecdotally, those are the pages that are really working.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you can, you'll know the content pretty well, so, and you can tell, like, zeros, these are more new things, but if it's the cluster level, the, like, time of publishing, some of those other pieces are factors that you may have, be able to pull insights from, like, everything we're publishing in the beginning of September is now taking off, right, or this cluster is really starting to work.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, like, with Tiro, one of my clients, we kept seeing, like, anything related to AI was in these kind of growing pieces, so we've extended.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "anything related.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, like, they didn't have big keyword volumes, so we just kept doing more content around dental and AI because we kept seeing that in the title.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's at least worth a look here.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sometimes you can find something.",
+            "timestamp": "00:13:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I've had clients just, like, showing them this list that they make a connection that I didn't.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sometimes that can be useful.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then, oh, here you go.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It did do some pay traffic at some point.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know if that corresponds with something there, but I'll look at Ahrefs or Simrush, and sometimes keywords are growing in a way that either mirrors or, like, impressions don't look as good, and you can show that off.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's keywords, let's see, specific pieces, or, like, we're really growing in our top three or top four to ten or something.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll often, like, uncheck these to see if I can find a pattern there.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then SERP features, this has been a winner with clients, but I like to get to, I don't SEMrush.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, yeah, like come here, then overview, and then, I guess they're turning things off.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you can find like AI overviews have really spiked or something, or, you know, Show them like graphs of them in the AI overview or something like that, Yeah, show them that, show them how we're, like, that's your qualitative, here's your quantitative, get that excited.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Tiro, again, as an example, he's like, please send me, if you find us in an AI overview or a featured snippet, like send it, I can send that to the team, they get excited, like it's great for momentum or morale.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so, finding some things like that, that can be done at the, or regular reporting, or if you're finding those in the, you know, in between stages, it can show little wins outside of.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just like traffic's growing.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's good.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I guess there's more to what you do reporting for different purposes.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But in regular, I need something for the first meeting of the month, which I'm doing this week actively.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Those are typically where I'm starting.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Obviously, we didn't get to see much with Scrunch.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Who would be worth It's like regularity of, you know, it's obviously like already when a client's in a good spot, like Tavern, for example, I feel at the moment, like Tavern, we're almost having meetings just to like show that we're, you know, just to keep contact because the meetings are very straightforward.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And there's not a lot of like, they're happy with the work.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "There's not a lot of like feedback.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "It's just an update.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "How often do you think that like...",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Reporting should be a part of every weekly meeting or it's more like maybe monthly or like you said, the first of the month.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I like the monthly further into the relationship for sure.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We, you know, we have more to talk about.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have a hundred different URLs.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "can look at what's following, which right now with like Tavern, it's like basically everything's up and we're just trying to get you to publish stuff.",
+            "timestamp": "00:16:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, you know, there's less to report on, so you don't need, and there's less in the agenda.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So showing the, there's like two sides.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like if that last week was just like an aberration and we built a ton of excitement around last week and then it all falls back down or like it was one URL on it.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There is a risk of like over sharing.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "They do expect the growth every week.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, I think it's about setting that expectation of like, this is really a positive signal.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, of course we want to caution, like there will be these spikes and we'll see.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We want to get to months three and four so we can see the larger trend line.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So as long as you're explaining those things and not saying like, this is going to continue forever, which obviously wouldn't, but that's like the only risk with sharing early.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think we did share at month four or week four and then like week five it fell.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "like, oh, where is that?",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is it like failing now?",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's just like, it's just expectation.",
+            "timestamp": "00:17:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think right now it's perfectly fine.",
+            "timestamp": "00:17:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if you're finding, I'm trying to give you like a number of like micro views to look at.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And there's probably others and depending on like what you're seeing, but for Tavern, it's like, here's eight places to check before a call.",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That probably takes five minutes.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if you can find like a little win or something like here's momentum, this is cool.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like this is the keywords you want to see.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We start to grab like, even with scrunch, we start to see a little.",
+            "timestamp": "00:17:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "little bit of traction around one of the features.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, okay, this is momentum.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, this is an early signal.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, those are the little things that you don't have to, like, have a full report or even spend too much time.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just like, Maddie, I found this.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, I wanted to show it off.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Feel like it's a good signal with where we're at.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the larger, like, definitely can show the looker.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can do that weekly.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, it might be like what we were doing with a lot of clients.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like an enemy would kick it to me.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's do reporting.",
+            "timestamp": "00:18:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, it's up again.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, didn't do a deep dive.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, you know, like, the weekly traffic is up 3%.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, that's not worth.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It was like, you know, we were forcing it in.",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you do have the, it's like still worth checking in at this stage, especially if it's growing.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then, but it's those extra little, like, two more minutes of reporting work.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you can find something, can, that's where I think a little more value comes in.",
+            "timestamp": "00:18:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, I would probably use it as a touch point.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Use it as a word.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thinking about you and keeping tabs on stuff, we know what's going on with your account.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then as you get into months three and four, start to do deeper dives, because that's when you'll see some content just hasn't worked, right?",
+            "timestamp": "00:19:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like 25 to 75% of the content will be getting no traffic.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Some stuff will have had traffic for weeks or a month and then have fallen off.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, does that need a refresh?",
+            "timestamp": "00:19:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is there something else we're missing?",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, that kind of times naturally to the, like, refreshing of strategy, I think.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, we need to look at where we go next.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's do the deep dive first, talk through what we're seeing and why.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe there's insights from the clients and then they will get up and kind of give them options of refreshes, new content, extend clusters, et cetera.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And then just quickly, like, on Innoil, because it's been such a, like, change, I'm wondering...",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Where like, I know obviously Akina asked us to be tracking conversions a bit more, but then there's been all these site issues.",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Can you just help like contextualize what, like where we should expect in a world to be at the moment and like how much of that kind of work will have affected, you know, if they suddenly start asking about growth or like performance, you know, how much of, all of these changes affect that.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, we have seen a lot, like all the redirects and things, there's just cannibalization between their state level pages.",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so we should be, and we kind of did see this in, well, I can't tell, but like the two weeks after we started doing the redirects, did see purchases like shoot up.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe I'm trying, there's risk of me trying to connect.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Two things that are unrelated there.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We really hadn't seen many conversions.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then a lot of these kind of went into place.",
+            "timestamp": "00:21:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We were seeing these.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I would, they're asking about this, but I really wouldn't be so focused here at this stage.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We do want to see this growing over time, but it's like such a small, and that even if you have like four, one week, zero, the next week's very plausible, like within the range, like your same exact traffic may turn, go zero, eight, four, like that's Scribe was when we were doing paid.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like when you first start to see that, you just have to be patient and hopefully they're, oh, what is this?",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's showing money.",
+            "timestamp": "00:21:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah, I know.",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I saw that today.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "was kind of, that's like the, that's like the purchase has become other than the clicks.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's interesting.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I would want to look at, especially if we can clean or like separate this a little bit, like state level.",
+            "timestamp": "00:21:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I guess that is just location.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's called, but we do want to watch this, especially after redirects, and I would, well, I guess it's early, I would just double-check that.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The new URLs are what's in Looker here, and we may even want to separate.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How would we do that?",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It'd be worth putting a ticket in for Suleiman, though.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We had these URLs and these URLs, and even the third batch, and, like, what I would want to do if I was doing, like, large batches of redirects, yeah, have, like, the three sets, and then track those over time.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So even if it's non-growthx, plus old growthx, plus the current state, so we can see how the traffic to each segment of those has moved over time.",
+            "timestamp": "00:22:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can kind of see that here, but we can't tell with, like, growthx's URLs.",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Does...",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Does...",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Did we know...",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Does...",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They built a section of them, then we supported them building a section of them.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I see.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But to me, this looks like we redirected and the traffic moved over to these pages.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think this does look good, but you need to know the other sections of...",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Does that, like, view kind of make sense?",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, like...",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Georgia Mental Health.",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "So that's the old...",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So there's old slash availability.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Those don't show up in your look right now at all because they were created by Interlo.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So...",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This...",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This version does show up.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It was created by, it should show up.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's growthx created.",
+            "timestamp": "00:24:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Got it.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then this is the new URL, which we do need to make sure it's reflected.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But what I would want is like another tab here.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oops, sorry.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Another tab.",
+            "timestamp": "00:24:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just like state level ketamine page redirects.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you would have like a stacked bar graph or three lines with old interwell, old growthx, new growthx, and watch the three URL, like the three cluster, the three cohorts and how they change over time.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because ultimately we want more trap.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All the traffic should be going to these pages now.",
+            "timestamp": "00:24:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's the goal.",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we want any of the traffic that was going here or here, to be going here plus, right?",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the goal is to.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Send all the traffic to the pages that we want, but then because we've cleaned that up, it should be more, these things are performing even better, but at least reaching the old.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can like kind of get that with how we've set, I mean, you can just, it's like the availability, you can kind of get these, so you have city level pages.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh my gosh, sorry, I thought I was sharing my window.",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I guess I went off and on.",
+            "timestamp": "00:25:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The way that these URLs are structured, you can kind of get this, but it's noisy because of state or city level, these, I guess you can get, it's just not, like the URLs aren't great, so you have to do.",
+            "timestamp": "00:25:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Could I mean dash, yeah.",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think you can get this largely.",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So clicks and then these are falling, that's good, that's what we want.",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's the last.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, only a couple of clicks as we've lost those other ones.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's the nervousness to me.",
+            "timestamp": "00:26:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So these clicks are gone, so we need them to move to here, which they're starting to, but it's really early.",
+            "timestamp": "00:26:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it looks like, honestly, I've lost some stuff.",
+            "timestamp": "00:26:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's also because the redirection set up properly, and so instead of things in their sitemap, quickly clicks aren't down terribly, but they're probably up in other places.",
+            "timestamp": "00:27:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, good.",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Not redirecting.",
+            "timestamp": "00:27:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so there's more technical stuff there, but that's what we would want to be showing them, is that these three sections are now morphed into one, and that that traffic is stabilized and ultimately growing, and then we would start doing that for other pages as well.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I do wonder on the, I was thinking about this there for InnoWell, like, do we, the cadence is low, the programmatic template that I've made, like, we could publish more, and I'm worried that, like, at two a month.",
+            "timestamp": "00:27:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "We're kind of, we could be like setting ourselves up to fail a little bit.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I don't know how you think about that.",
+            "timestamp": "00:28:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And to be fair, haven't, I know that SoW is kind of unclear and we have all this programmatic stuff, but two a month, I feel like, I don't know if we're going to, yeah, if we're doing ourselves a disservice.",
+            "timestamp": "00:28:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Capacity, like, discussion aside.",
+            "timestamp": "00:28:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I think we are.",
+            "timestamp": "00:28:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we should be doing more.",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We, you know, we scoped out this big old conditions hub and the plan was to do a bunch of that.",
+            "timestamp": "00:28:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if this is just the substitute for conditions hub, like, I know that they basically have asked us to pause that, but we are, there's so much content that we can do.",
+            "timestamp": "00:28:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's just three years of content, even just for ketamine alone.",
+            "timestamp": "00:28:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if we can figure out the capacity, I would move that up because, and it's a discussion with Andy on SoW, but it does, it did seem like she was in agreement that it should be higher very shortly.",
+            "timestamp": "00:28:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once we sort of, like, they're not asking for it.",
+            "timestamp": "00:28:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can buy her.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it a couple of weeks, but really we need to be there by Thanksgiving, definitely by the end of the year.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah, I think it's, I think it's, I think it should be doable.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "mean, yeah, it should be doable.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Like this week I will start asking, well, Patricia's only working four days, but I think we can up it.",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And yeah, I was thinking like, especially these, you know, I wrote like two of these ketamine therapy pages.",
+            "timestamp": "00:29:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Like today in an hour or like 45 minutes.",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "just needs, so it's, so that's like very scalable.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And it almost feels like when I'm doing it, it's like.",
+            "timestamp": "00:29:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Okay, cool, so basically I will...",
+            "timestamp": "00:31:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "hear you on, like, ramping them up a little bit.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I'm on the same page, and I will, like, make a judgment on capacity, but if we can, then we'll just start over-delivering a little bit.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Yeah, I just was...",
+            "timestamp": "00:31:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I wasn't quite clear if it's, like, Tavern expects five a week, and with the condition hub, like, up in the air, then...",
+            "timestamp": "00:31:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I just don't...",
+            "timestamp": "00:31:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I'm wondering whether they're going, like, why are we only getting two?",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I guess the redirect thing has taken up a lot of bandwidth, but...",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "That seems to be fixed now, so we should get back to.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, it's largely fixed.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "just think one of their biggest pages needs to be redirected ASAP.",
+            "timestamp": "00:32:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That was dropped by their person.",
+            "timestamp": "00:32:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we do need to move the cities over to, yeah, the cities to the new format.",
+            "timestamp": "00:32:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, do we still, are they, did they do this last batch or did we actually execute on that?",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Akina hasn't replied to us.",
+            "timestamp": "00:32:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "So you sent that message on Friday where we shared like all that information, but I think we still need, my understanding is that we need this, get access to then do it.",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, but they also just did it, so I don't know what.",
+            "timestamp": "00:32:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:32:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Well, we can also, tomorrow, and just, like, because it seems like Israel will be able to do it very quickly, but, yeah, it's slow on there.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "It's slow from them.",
+            "timestamp": "00:33:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Very slow.",
+            "timestamp": "00:33:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:33:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Well, I think that's good for now.",
+            "timestamp": "00:33:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Oh, yeah, and then you mentioned to, like, flag stuff outside of scope, like, Seat.",
+            "timestamp": "00:33:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And the tool thing is, like, the way that, like, it's structured and all these, like, alternatives.",
+            "timestamp": "00:33:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "For goodwill, I'm, like, going in and doing a lot of this, like, stuff in Webflow myself just to, yeah, I'm going to record a loom for Suleman so that he can do it.",
+            "timestamp": "00:33:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "But to be honest, like, there's been so many moving parts, and, like, it's just, it's been more efficient for me to do it because I've been deep in it.",
+            "timestamp": "00:33:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "But, yeah, I wonder, like, if the toolpath, something that I just...",
+            "timestamp": "00:33:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "If the tool pages are their best performing pages, then whether we should suggest to them pausing the glossary and just ramping the tool pages.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Because five a week is like, I I don't know.",
+            "timestamp": "00:34:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Maybe that's too urgent for me.",
+            "timestamp": "00:34:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We should do that because if they're all worried about conversion, the glossary just won't ever.",
+            "timestamp": "00:34:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We had a pretty strong glossary at ActiveCampaign and it's like good for some things, but it is always the worst converting thing because it's just so top of funnel, right?",
+            "timestamp": "00:34:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like you're just hoping for a volume play and glossaries are also kind of being killed by LLMs.",
+            "timestamp": "00:34:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Obviously not completely, but yeah, if you would put that as a note, I can talk through that, but we should make that recommendation.",
+            "timestamp": "00:34:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "These are working.",
+            "timestamp": "00:34:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "These convert really well.",
+            "timestamp": "00:34:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have a lot of ground to cover.",
+            "timestamp": "00:34:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I mean, we also kind of...",
+            "timestamp": "00:34:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "The nature of the way that they are interlinked, we kind of have to ramp it because otherwise alternative pages have to wait until five tools have been published and we have all these categories.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "They've sent over a whole list of new categories and when we were chatting last week about listicles, etc., we can write listicles on the best whatever category of tool or the rest of Q4.",
+            "timestamp": "00:35:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And then link it, like link them really strongly with the tool pages.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "It just seems like Glossary is like, they're not looking at it.",
+            "timestamp": "00:35:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "You know, we just, it's just a programmatic play from us.",
+            "timestamp": "00:35:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "The tool pages are as fast.",
+            "timestamp": "00:35:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And if we can do 10 a week until the end of the year, you know, then like, yeah, that's all.",
+            "timestamp": "00:35:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let's do it.",
+            "timestamp": "00:35:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's put that on the agenda.",
+            "timestamp": "00:35:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can both talk through that.",
+            "timestamp": "00:35:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I think that's, I forgot we're still doing Glossary over there, very frankly.",
+            "timestamp": "00:35:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "That one's an easy one.",
+            "timestamp": "00:36:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:36:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let's do that.",
+            "timestamp": "00:36:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll have some more.",
+            "timestamp": "00:36:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll send over something on the recommendations today.",
+            "timestamp": "00:36:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we have that for the agenda tomorrow.",
+            "timestamp": "00:36:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:36:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I'll nudge your keynote in a while just on your message and see if we can't get a response tomorrow.",
+            "timestamp": "00:36:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:36:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "And so we can get Israel off and running on that.",
+            "timestamp": "00:36:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:36:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:36:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:36:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's super helpful.",
+            "timestamp": "00:36:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let me know.",
+            "timestamp": "00:36:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, as they come up, just don't be a, don't be, feel free.",
+            "timestamp": "00:36:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Anything specific, like any more of these use cases will be helpful to go through.",
+            "timestamp": "00:36:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe we do one later with like more traffic and things so we can, you know, go through that.",
+            "timestamp": "00:36:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But just let me know how I can support.",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Happy to.",
+            "timestamp": "00:36:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Anytime.",
+            "timestamp": "00:36:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "I'll be asking a lot of stupid questions for sure.",
+            "timestamp": "00:36:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": "matthew.alves-hill@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:36:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep.",
+            "timestamp": "00:36:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks.",
+            "timestamp": "00:36:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:36:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Take it easy.",
+            "timestamp": "00:36:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:36:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:36:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:37:01"
+        }
+    ]
+}

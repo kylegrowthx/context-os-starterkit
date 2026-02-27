@@ -1,0 +1,3493 @@
+{
+    "title": "Deep Dive (Adam Harris & Jeremy Moskowitz)",
+    "meeting_title": "Deep Dive (Adam Harris & Jeremy Moskowitz)",
+    "url": "https://fathom.video/calls/364838263",
+    "created_at": "2025-07-29T17:45:32Z",
+    "scheduled_start_time": "2025-07-29T17:00:00Z",
+    "scheduled_end_time": "2025-07-29T17:45:00Z",
+    "recording_id": 77159120,
+    "recording_start_time": "2025-07-29T17:01:48Z",
+    "recording_end_time": "2025-07-29T17:45:24Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Hey, Adam, hey, Aida.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Hi.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "How are you doing?",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Doing all right.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Doing all right.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Doing all right.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Hey, all right's better than most, I'd say.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I think we're just waiting on Jeremy.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Jeremy may be able, I don't know if he'll be able to join for the whole time, so we can go ahead and get started.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "have a, sweet.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Diva, he has a hard stop in 30, I think he said, right?",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I think so, yeah.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And we were on an executive meeting and we were all jumping over from there, so I don't know.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I he had to hop back on that for a hot second.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No problem.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Well, um.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "We can jump right in.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "mean, I think first would be helpful is maybe a quick intro from you, Adam.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "got a one-liner.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No, not in a bad way.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Sorry, I did research after the one-liner.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But tell us a little bit more and then we can go ahead and set the stage.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah, my name is Adam Harris, Director of Product Marketing here at Outreach.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Jeremy is my immediate colleague.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So he runs kind of a platform and solutions marketing team.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I run one half of our product, kind of more product-focused product marketing team.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "we're all in the name of Tucker.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Been doing technical product marketing for the better part of a decade.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so I always like to joke, I'm the nerd that bring on the calls to talk about nerd stuff.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So that's why talking about nerd stuff.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah, I've been at Outreach for about a year and a half, over a year and a half at this point in time.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "why it's been recently.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Familiar with like, actually very familiar with like our product architecture, roadmap moving forward and kind of like what we build and why we build and who we build it for, which I assume that for you all is probably the most important thing that we want to get to.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So, yeah, happy to happy to dive in whenever you, whenever you want and however you want.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Amazing.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I think Jeremy is just joining in now, which is great.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Just in general, we're never going to have enough time to get all the expertise out of your head.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So if you do have like materials, any documents, decks, presentations, video recordings, like anything you think would be helpful, we'd love it.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "What we're trying to do here on our side is go as deep as possible with these experts, these like vertical experts, and try to get all that expertise, synthesize it, and then use it in our workflows.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So essentially, you know, if you get expertise in each part of the org, then you understand how you're talking to the people, what you're saying.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And the style and tone you're using, you put that all together and you get really good output and outcomes.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And so that's what we are doing and what we do.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And so, yeah, treat it as like a word dump, expertise, vomit, however you want to put it.",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "We'll keep the questions broad and just get as much info as possible.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So, Jeremy, I think we just did a quick intro.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Andrew, we'd love to hear a little bit more.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Hi, nice to meet you guys.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "I'm Jeremy Moskowitz, Director of Portfolio Product Marketing.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "So I like to say that my team tells the one plus one equals three story of outreach.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Adam's team are all BU owners.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "They're mapped kind of one-to-one with individual products.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "My team is slightly less technical, but we think about how each of those products connect together to, you know, fold like Voltron and add more.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Or value together than they would on their own.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Not sure if the Voltron, you guys might be a little too young for that Voltron reference.",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Anyway, you're talking about documentation.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Has our messaging document been shared with you?",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "So that's a lot of the area where my team lives.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Um, um, but there, um, you know, as, as sometimes we have new things we're working on kind of like one pagers, anything like that.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Um, but that has a lot of kind of like the core messaging in there that we'd look at.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Amazing.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Amazing.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Aida, do you want to jump in?",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "know you're going to be the familiar faith that they're going to be seeing for the next couple of weeks.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, I'm Aida.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'm a senior managing editor at GrowthX.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I work with George and a couple of other people on our team to onboard new customers, set them up with a content strategy and set a benchmark for content quality.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, I usually join like weekly.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'm all up in the Slack channel, so you'll probably hear, see my name pop up quite a bit.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, yeah, it's a little bit about me, but we're doing these product deep dives.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "We feed them into our AI workflows and into the artifacts that we use to generate content.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, like, the more granular you get in your answers, the better the output is going to be and the better our strategy is going to be because we're going to have, like, a clearer idea of what we should be targeting and talking about.",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Well, where would you like us to start, I guess, is the bigger question right now.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I've got a few decks I can share.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I can talk through what works best for you all.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, I think talk, if you want to take us through a deck and we can keep it general and we can pry in with questions if we have, and then I have a whole list of other, plenty of more questions that are specific.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But that feels like jumping around to start so we can anchor on this deck.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah, let's start with, this is just our first call deck, and we can speak to a number of different aspects within the first call deck, specific to the Notion app that you shared, George, with the agenda itself.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So we can kick off talking about product architecture, if you all want, or at least product philosophy.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So we do have five core modules represented here as workflows or workflows across the top of this here.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And the philosophy being, Jeremy, correct me when I go wrong, my brain's dead right now.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "We just came out of two-hour planning, guys, so bear with us.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I'd say that, actually, I'll start from the bottom up.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The philosophy here is that engaging with customers is no longer the job of point solutions, and is dependent upon a couple of things.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Making sure that your system of action, so, like, everywhere you touch and everywhere you engage with.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Data to make a decision about what the best next action is and bubbling all that up from individual actions taken on behalf of AEs, so account executives, salespeople, CSMs, what have you, all the way up to the decisions that are made by team managers, how they coach, how they manage their teams, to revenue orchestration.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So the job taken place by, the job done by sales leadership, CROs, customer success leaders, and such.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So each of those actions is informed by different data points.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And because of that, I'd say the most important thing is this data cloud architecture mentality that we have.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Basically bringing in every single possible touchpoint of data to inform, or at least be surfaced within one single pane of glass, surface, whatever idiom you want to use here.",
+            "timestamp": "00:07:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And I'd say, we can get into a little bit.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Differentiation here as well, but the big thing is that Outreach already has your engagement data, the emails you're sending, the responses to those emails, the messages that you're sending, the activities that you are doing within Outreach is a treasure trove of first-party data.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "In addition to that, because we have engagement and interaction data along with that, so how often you're messing around with your forecasts, all the call recordings and meeting recordings that are being brought in through KIA, our computational intelligence tool, these are all additional data points, both structured and unstructured, that live within the Outreach data cloud.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And you supplement that, or you combine that with CRM data, so all, so the very structured data in Salesforce, dynamics, to make sure that you are syncing up your prospects, your account records, so on and so forth, to basically combine all that together into synchronized.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "To sync the engagement data, those touch points, those signals associated with that with the prospect and account records.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then you layer on more first-party data, e.g.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "a lot of the data warehouses that live within a lot of these large, actually small and large enterprises, your product data, your usage data, other repositories, maybe like support ticket data coming in, being pulled in from your Databricks, your Snowflakes, that once again, it's that kind of third, it's that first-party data warehouse that doesn't live in CRM, but it also doesn't live in your engagement data either.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then lastly, kind of the big turn or the big shift that Outreach has made within the last year is starting to leverage third-party data.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So we already leveraged third-party data by basically pulling in different data points from your intent data providers, know, six cents demand base, and pulling a lot of stuff.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Then through your CRM, but now with the advent of agentic AI and the, I'd say, strategic imperative to build signals, to build really dynamic signals and really, sorry, to build really dynamic signals and act upon those signals forces us to, I shouldn't say forces us, but develop the need for us to engage directly with those third-party data providers.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "E.g.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Explorium, ZoomInfo, Sales, Intel, that has a lot of that firmographic and demographic data that, once again, isn't always updated nor accurate within CRM, within your data warehouses, or even within your engagement data.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And the concept here is that once all this is working together, one, it's fact-checking each other, so you're getting accurate outputs, and you're able to triangulate signals in a more accurate, in a more accurate basis.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You're able able able able",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We to load all that data into the platform by which you could take action upon that data.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So this is where the automation layer comes into play.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So what are the rules that we put in place for how we inform our target personas, whether it be, once again, kind of your first, your frontline sales manager, your AE, your sales leader, what can you do with that data to make sure that they are, that the platform is servicing the right insights and therefore recommending the right actions to those users.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "For example, with an AE, it may be, hey, we know that you have, this is your book of business, or we're going to help you build your book of business.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We're going to help you prioritize whom to reach out to at any point in time.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We're going to help you prioritize how to reach out to that person.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And we're going to help you craft the message that you use to reach out to your list of prospects, list of contacts, whomever it may be.",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So alternatively, I shouldn't say alternatively.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "In addition to that, for frontline sales managers, some of those signals, some of those data points may be, hey, we know that coaching is very important to you.",
+            "timestamp": "00:12:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We know that rep onboarding is very important to you.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We know that there is inconsistency in your sales process.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "What are the signals, what are the data points that we can pull in from compensation data, from your CRM data to make sure that all your reps are performing at a similar level, that they are being given similar amounts of unbiased, structured feedback throughout their sales process.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then if we go further to like the sales leader, the sales leader persona, kind of that higher level executive persona, you know, what are we doing to make sure that we're flagging risks and deals and opportunities?",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So what are the signals, what is that, what are those data, what are those data points telling us?",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So once again, if Jeremy is sitting there as a CRO, he knows based off of what the platform is telling him, these are the deals most at risk.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "These are the deals that we need to dive into.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And here's how it's, it, it may.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It impacts your forecast.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Therefore, here's how it may impact the outputs that go to your executive peers, your board, your CEO, something along those lines.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So it all comes back to that architecture of everything is being pulled from this data cloud, the outreach data cloud.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And there are a lot of nuances as to how some of these data points are pulled into records, how some of the data, how that data interoperability actually functions.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "But that is the, I'd say, the working thesis for what we are using, for what we are building on the platform.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Now, from, all right, I'm going to stop there real quick.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Questions, comments, concerns before we keep moving?",
+            "timestamp": "00:13:39"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No, none for me.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "mean, that was a lot of information, but it's very clear, or it's starting to become very clear now.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "So, not if I just looked at this deck, but your explanation was phenomenal.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Is that the right altitude of technical, of, like, detail we need for this purposes?",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah, yeah, exactly.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "To add really quickly, like, one thing that we always want to avoid in terms of content quality is just making vague statements about a product.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That really, the deeper we could go in, the more detail we could provide, the better.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So, yeah, I really appreciate this.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I will go into the kind of the AI layer, which I think will be very interesting to all of us.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then we can talk about the workflows as well.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And we'll talk about those workflows kind of in tandem with each other.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "I'd say, ultimately, one thing before, maybe you can give them an overview just because this is SEO.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "The existing product categories that Outreach kind of absorbs into our platform, because I think that'll give them direction on, like, where to target.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "And this may not be in the deck.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "This may just be, like, going to the website and showing the capabilities page.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Because, like, I think Adam Haley...",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Haley...",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "But on this single platform piece, there's, you know, there's like five or six different point solutions that our software can replace.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And I think that would be helpful for you guys to understand.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Definitely.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So let's, let's, let's talk about that consolidation right now, actually, before we hop into what that can, how we execute upon that consolidation.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Come on.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I will, if I can.",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So there, there are a number of different, I, you know, you ask a different analyst every day about where, what, what we consolidate on, you know, you're going to get a different answer.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "my very humble opinion.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then ultimately, you know, the product category that we are in, depending on whether or not you ask Forrester, whether or not you ask Gartner, it's going to be revenue action orchestration.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "be action.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "you.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Revenue orchestration platforms, what have you.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Inside of there, I would say you have probably four different points of consolidation.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "First and foremost is your sales engagement platforms, your sequencers.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So, you know, where Outreach really started that from the get-go way back in, what, 2014, Jeremy?",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "2013?",
+            "timestamp": "00:16:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Like 2013, 2014?",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "2014, launched.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "then, Adam, maybe visualize it, mouse down the platform submenu.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "No, no, no.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "You can it on the main nav.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Just so they can see these and map them.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so, like, you know, we consolidated from, you know, sales engagement.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We pulled in, I'd say, historically, sellers would work out of Salesforce, right?",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So, they'd be expected to prospect, they'd be expected to manage deals, and they'd be expected to roll up their forecast, basically, what the heck are they doing and what the heck?",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And how is that going to impact their quota attainment all within Salesforce?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So all this ecosystem of applications came about because everyone realizes that working within Salesforce, which is a glorified database, a glorified spreadsheet, is not effective, nor is it visible, nor is there the ability to easily take action.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Now, Salesforce these days would argue against that, but once again, that is neither here nor there right now.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So the categories as follows, sales engagement, and I would include within that, to a certain extent, of like that account management, deal management kind of category as well.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So once you have successfully prospected into an account, what do you do with that?",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "How do you make sure that that account is followed, is how do you make sure that that deal or that opportunity is progressing properly?",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "What are the indicators by which you can understand if that deal is healthy or not?",
+            "timestamp": "00:17:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Once again, in the past.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Usually doing it out of Salesforce, going into Salesforce notes, coming through 20,000 fields.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Actually, think our field's limited to like 75 to 100.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So a little bit of hyperbole there.",
+            "timestamp": "00:18:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "But coming through fields to understand directionally what is the status of this account, what is the status of this opportunity, and where do we go from there.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "In addition to that, and I'd say like the three pillars that Abhijit always puts up is the second big category is conversation intelligence.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So we, at some point within the last decade, we recognize that everyone's having conversations via phone.",
+            "timestamp": "00:18:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Everyone's having conversations via conference calls and WebExes and Zoom meetings.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "What is that first-party data that you can pull out of those conversations to inform and perhaps progress and sync that data back to the CRM to continue the deals and opportunities moving forward?",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And that conversational intelligence data, or that conversational intelligence kind of category started off as similar.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And has moved quickly into coaching and using that data to continuously improve the processes by which a sales team is taking, once again, regardless as to where the engagement is from prospect and all the way through account management.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And from that, you can glean insights as to, you know, what are the top trends that your salespeople are talking about?",
+            "timestamp": "00:19:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Are they following specific sales methodologies?",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Are they asking the right questions?",
+            "timestamp": "00:19:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "From an external data standpoint, what questions are being asked of the sales team?",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Where are deals losing momentum?",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You know, what sort of like competitive pressure are we feeling?",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "All these different, I'd say more qualitative insights that are being taken from conversation to conversation can now be aggregated into a more quantitative view to understand the data trends associated with.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "What, what conversation?",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "station.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Conversational intelligence, check that out.",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then lastly, I'd say the white whale for a lot of organizations is pipeline and revenue forecasting.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So the workflows that are targeted primarily at the kind of middle managers on upwards into sales leadership or I'd say revenue leadership at this point in time is aggregating all those activities, all those conversations, and aggregating all that qualitative data into quantitative insights to give indications to what deals are in pipeline.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Are those deals real?",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Do they have any chance of actually of closing and being able to connect once again, those activities into some reasonable facsimile of an accurate forecast at the end of at the end of the quarter, at the end of the year.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The pain point primarily being that, as all of us know within sales, account management, customer success for decades, it's been a guess.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It is my salesperson told me this.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "They think they just went golfing.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "No, I just went golfing with Jeremy.",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Jeremy was super friendly.",
+            "timestamp": "00:21:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And yeah, we did a handshake deal on the golf course, said that, yes, this deal will close by the end of the quarter.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We all know that the estimation of pipeline could be way, way off.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We may close a $20,000 deal instead of a $2 million deal.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I may not know that Jeremy also has two other stakeholders that he has not run approvals through.",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "That's going to delay that close by a quarter at least.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "All these things, once again, pulling this back into the system so that everything is talking with each other and that you're using the engagement, the conversational data, and the, once again, all the rest of that first and third-party data to understand where those pipeline, where those forecasts are going.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "What did I miss, Jeremy?",
+            "timestamp": "00:21:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I know we're 23 minutes into this as well.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "No, you nailed it.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "I think as you are thinking about that from a product category, and if you look at our site, Adam kind of mentioned it, that the big four are sales engagement, conversation intelligence, forecasting slash revenue intelligence, and AI agents.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "But a lot of these things here correspond to some of the features and keywords that you might see, or smaller capabilities you might see within some of our competitor platforms.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "So index on those big four, but just know that each of these will probably be relevant to the keywords that you're trying to get the product in front of.",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, perfect.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Other piece that's just, if you're spending time on our existing website, Adam, do you want to scroll down to the by role kind of footer?",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "This is less findable on our website.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "Site, but it is helpful all the way down to the footer.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "You, yeah, by the, on the left, you heard Adam voicing this over during his overview, talking about like all the different people who use it, like the sales leader, the CRO, VP of sales, they care about it for essentially like visibility and deal risk.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "But all of these other personas, you know, from pre-sales to post-sales to operations who are kind of connecting the plumbing and organizing it all and inspecting the whole process, they're all users of Outreach for each of those different use cases he was hitting on.",
+            "timestamp": "00:23:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "And so like, I would encourage you to, and some of this is in that messaging house, you know, these pages aren't the most up-to-date messaging, but I'd say it's like 75% of the way there.",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "And it'll give you a really good insight into like pain points, what they care about, why they use Outreach, why Outreach is better for them, and like thinking about these different folks.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "And while we're speaking about this, I want to, you know, a common, because I've been in Outreach for about four years, and a common trap that we fall into with search agencies is if you look at the data and you look at where our footprint is today, you will tell us, hey, just like lean into this sales engagement thing and this SDR thing.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "And, like, we don't want to erode that, but, like, we're really focused on some of these wider use cases, the CRO, above-the-line closing forecasting stories.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "And so we need to find a way to balance, like, being data-driven with where other data is maybe telling us to go.",
+            "timestamp": "00:24:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jeremy Moskowitz",
+                "matched_calendar_invitee_email": "jeremy.moskowitz@outreach.io"
+            },
+            "text": "So just wanted to kind of throw that in, because oftentimes these engagements have gone off the rails when folks just really want to index on, like, what the existing data is telling us to do.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, absolutely.",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I think we were talking about this in the kickoff call as well, where Hadassah kind of mentioned that, you know, what the...",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "The purpose right now, a big focus is on like expanding and like increasing awareness in the market that you're not just an SDR tool, like you're not a point solution.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So that is definitely something like that's on our radar, but thanks for flagging that.",
+            "timestamp": "00:25:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yes, thank you.",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And I'm sure that Havas also flagged for you and like one of things that Jeremy's team is really doubling down on is this concept of consolidation.",
+            "timestamp": "00:25:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so like our thesis here is the point solutions, I'd say our thesis has evolved.",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The point solutions kind of consolidation argument started off as like, oh, you just, you know, don't spread out your spend over like six different tools because that's inefficient.",
+            "timestamp": "00:25:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Like toggle tags, whatever, like don't bounce back and forth.",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Our argument nowadays is it's not just an efficiency measure from like what are your users, what are your users engaging with on a day-to-day basis.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It's an efficiency of like how you build your AI.",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And because our thesis is that.",
+            "timestamp": "00:25:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "AI integrated throughout the end-to-end workflows associated with revenue, whether it be forecasting, whether it be deal management, or conversational intelligence, coaching, what have you, is that having that data cloud as the foundation of your AI is fully dependent on having all of your systems connected to each other.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And ideally, have all those systems be one system, e.g.",
+            "timestamp": "00:26:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Outreach, in one way, shape, or form.",
+            "timestamp": "00:26:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so, once again, I'll stop using the word thesis, because it makes me sound like a prick.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "But the whole, I don't know, I feel like I should have a hat on.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:26:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The, like, the concept there is that, and the argument that we've made to customers recently is, if you are not leveraging every single bit of data that you have available to you, you're having to either pull that data into one place and shoot it off into five or six different tools, all with disparate.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And inconsistent AI experiences throughout there, or you're getting incomplete data that's building your AI functionality within your systems.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so that's where I'd say like on your additional points within that notion app, we get to this concept of like, all right, AI across the sales cycle, AI across the revenue cycle, what does it actually mean?",
+            "timestamp": "00:27:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And our perspective is that AI is there to be integrated into different workflows at different levels.",
+            "timestamp": "00:27:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And one of the questions you all have is like, how do you differentiate between deploying AI agents and more of an autopilot mode versus AI assistants and more of a co-pilot mode?",
+            "timestamp": "00:27:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And the answer that we always say is, it depends.",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It depends on the appetite of the customer to have different levels of autonomy.",
+            "timestamp": "00:27:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "For the AI to have at different spots along their workflows.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It also depends on the different segments of the different customers that that customer wants to deploy AI.",
+            "timestamp": "00:28:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And in fairness, there are things that we can deploy our AI agents for that dramatically speed up the ability to build lead lists, to score, to understand who to reach out to.",
+            "timestamp": "00:28:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Yes, George?",
+            "timestamp": "00:28:27"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Oh, gotcha.",
+            "timestamp": "00:28:29"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "No, just stand by to Jeremy.",
+            "timestamp": "00:28:29"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Oh, yeah, that's right.",
+            "timestamp": "00:28:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "He had dropped the bottom.",
+            "timestamp": "00:28:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So it really impacts or it is impacted by like what the customer wants.",
+            "timestamp": "00:28:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I'd say that's a big thing for us is we have the, say, compliance, security, and data, data and regulatory capabilities associated with an enterprise application where we can keep our LLM separate from being used out onto the broader web, Yeah.",
+            "timestamp": "00:28:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So from a data integrity standpoint and basically keeping your information private, that's a huge, huge deal for us.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And once again, those very granular levels of control as to like which assistant is turned on when, which agent is turned on when is very important to us because we don't want to peanut butter spread into our own philosophy across all of our customers because we understand they are very, very different and very different in what they're looking for.",
+            "timestamp": "00:29:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So, you know, how we message that unified platform story against point solution competitors, like I said, it's that evolution of just point solutions are bad, best of breed is not the way to go, platform is the way to go, but it's more so how do you want to deploy AI?",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "How do you want to control that AI and how do you want to build and build and kind of make sure that AI is doing exactly what you want it to, not hallucinating, not pulling in random things from the web, not being biased.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "That's a big part of why we're building the way we are.",
+            "timestamp": "00:30:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:30:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Let me blow this up real quick.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so a big part of this is, you know, this mineral section, you know, revenue agent, forecast agent, deal agent, yada, yada, yada.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Those are, this is a marketing slide.",
+            "timestamp": "00:30:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So it is not, it is not explicit as to like where these agents are deployed, but I will say from a workflow standpoint, we view the revenue cycle as being comprised of five different workflows.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Forecasting plan, basically understanding at a, at a, at a high level, where do you want to go, who you want to target, why do you want to target them, being able to map out and game out.",
+            "timestamp": "00:30:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "If we go after this segment, what is this going to look like?",
+            "timestamp": "00:30:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "If we go after this segment, what is this going to look like?",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so we have a lot of different levers and a lot of different reports that allow dynamic forecasting.",
+            "timestamp": "00:30:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So that.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Once again, based off of all that data that you have available to you, what can we most accurately predict to be the pipeline and revenue outcomes associated with this level of activity here, this level of activity here?",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The second aspect of that is consistency and rep productivity.",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And that's where coaching teams comes into play, making sure that a tagline that Jeremy came up with is, outreach, let every rep sell like your best rep.",
+            "timestamp": "00:31:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So what are the best practices that you're pulling in from across the organization?",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Selling is inherently a human activity.",
+            "timestamp": "00:31:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It is about connecting people to people to fill demands.",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And it's something that AI and it's something that robots cannot do effectively.",
+            "timestamp": "00:31:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So building that relationship is really, really crucial.",
+            "timestamp": "00:31:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "But how you build that relationship and how you express your value, how you ask for the sale, how you manage that deal, it can't be very structured.",
+            "timestamp": "00:31:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It can be very, should be very consistent.",
+            "timestamp": "00:31:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Across any customer touchpoint.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And that's where coaching teams comes into play.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So making sure that AI is informing what questions are being asked, how you're responding to inquiries, how you're responding to how quickly you're developing as a rep, even to the extent where, you know, what is your product knowledge?",
+            "timestamp": "00:32:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Like, how effectively are you adhering to your sales methodology, MedPick, Medic, whatever, you know, force.",
+            "timestamp": "00:32:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I can't remember any others at this point in time.",
+            "timestamp": "00:32:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "But being able to coach your teams consistently is a direct result of, you know, being able to identify what those teams should be doing in the first place.",
+            "timestamp": "00:32:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Managing deals is what I was talking about beforehand, e.g., all right, once you have a deal in place, what are you doing from a conversation standpoint, from an engagement standpoint, to evaluate the risk associated with the deal?",
+            "timestamp": "00:32:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It's great.",
+            "timestamp": "00:32:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You have the...",
+            "timestamp": "00:32:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You have the fish on the hook, but how are you reeling them in?",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And all the different signals that you get based off of engagement data, based off that conversation data, can give you insight into sentiment associated with the people who are on the call, so people you're evaluating with, activity, e.g.",
+            "timestamp": "00:33:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "like, hey, this contact is more or less ghosted you, that's going to kill your deal health.",
+            "timestamp": "00:33:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And in addition to that, being able to rectify a risky deal effectively, so what are the channels you're using to reach out to that person, what are the triggers that you're using to identify whether or not you need to, when you need to take action, and once again, kind of standardizing and improving the productivity and improving the effectiveness of your sales team or of your revenue team.",
+            "timestamp": "00:33:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then prospecting, engage accounts, and retain and expand are two sides of the same coin.",
+            "timestamp": "00:33:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We're obviously...",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "This is all about engagement.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "This is all about understanding who you need to reach out to, building the lists, employing AI to help build the lists, help write the demo scripts or write the call scripts for you, write the emails, write the LinkedIn messages, and making sure that you are hitting that person with the right message at the right time.",
+            "timestamp": "00:34:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then retain and expand is, okay, sales is circular.",
+            "timestamp": "00:34:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It is not a linear process.",
+            "timestamp": "00:34:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "As soon as you are done capturing that sale, what are you doing to keep that customer happy so that when that renewal slash upsell conversation, that cross-sell conversation comes around, you're not starting from ground zero.",
+            "timestamp": "00:34:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so you're using similar tools within Outreach, e.g., the engage mode, the AI agents to, once again, build call scripts, build meeting agendas, build, you know, write emails on your behalf to push that motion forward into, okay, we're going to make sure we keep your...",
+            "timestamp": "00:34:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The business, quarter after quarter, year after year, and so on and so forth.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "This next slide is probably a little bit more specific as to the use cases by which we categorize each of these workflows.",
+            "timestamp": "00:35:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So in forecasting and planning, we have four primary use cases, pipeline inspection and management, and then revenue forecasting, and then planning and replanning.",
+            "timestamp": "00:35:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So all of these kind of work within each other.",
+            "timestamp": "00:35:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Obviously, you need to inspect your pipeline.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You need to have full visibility into your pipeline to understand how you're going to manage it.",
+            "timestamp": "00:35:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so pipeline management helps you, once again, identify those deals, identify those opportunities that are healthy, unhealthy, and help direct activity to your teams as a revenue leader.",
+            "timestamp": "00:35:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Say like, hey, we have this segment that is not doing very well.",
+            "timestamp": "00:35:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "What are we going to do to beef up the capabilities associated with that segment, with that team?",
+            "timestamp": "00:35:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then being able to...",
+            "timestamp": "00:35:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "to...",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Forecast that activity out into, all right, what sort of revenue are we achieving at any point in time?",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "As I said before, much of this was a guessing game or your forecast never hit.",
+            "timestamp": "00:36:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "were either, you know, it's what, you know, a third, a third, a third chances.",
+            "timestamp": "00:36:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You're either going to hit exactly what you said you're going to do, or you're going to way overshoot your forecast, which in that case, it's a great surprise.",
+            "timestamp": "00:36:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "or, but our argument, even if you overshoot your forecast, it means you didn't plan correctly.",
+            "timestamp": "00:36:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "means that you're still getting incorrect signals about what deals are going to close when, or the worst case scenario is you undershoot your forecast.",
+            "timestamp": "00:36:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You made promises before you hired based off of what this forecast is going to do.",
+            "timestamp": "00:36:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Now, what are you going to do?",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Now you have to lay off people.",
+            "timestamp": "00:36:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You have to fire people.",
+            "timestamp": "00:36:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "You have to, you know, restructure your marketing team, restructure your sales team.",
+            "timestamp": "00:36:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "That is the worst case scenario.",
+            "timestamp": "00:36:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And then that impacts planning.",
+            "timestamp": "00:36:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The more consistent, the more accurate and precise your forecasts are with pipeline and revenue generation, the better you can.",
+            "timestamp": "00:36:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The better you can plan, the more confidence that you'll give to your teams, the more confidence you'll give to your executive stakeholders to resource appropriately moving forward.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Question for you, George and Aida, do you want me to go through the other four or do you need me to stop talking?",
+            "timestamp": "00:37:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I would love to know, this is incredibly helpful, I would love to know, is there a specific team or a couple of teams that are a priority from like a marketing perspective or, you know, that are just a bigger driver of deals?",
+            "timestamp": "00:37:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Can you rephrase that question?",
+            "timestamp": "00:37:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "It's like our target ICP, like who we, who we target for this stuff for like outreach, who, who is responsible for, for targeting?",
+            "timestamp": "00:37:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "No, yeah, who you're targeting, like there are different teams here.",
+            "timestamp": "00:37:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So when we were thinking about like content strategies, this would be a great way to.",
+            "timestamp": "00:37:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Organize it, like organize the content in terms of like the revenue team.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So if there's, is there any priorities here?",
+            "timestamp": "00:38:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Executive leadership.",
+            "timestamp": "00:38:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So historically, I'd say specifically sales leadership.",
+            "timestamp": "00:38:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So what we deem as above the line sales leadership.",
+            "timestamp": "00:38:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Historically, Outreach has had great success getting into SMB and mid-market accounts for BDR teams.",
+            "timestamp": "00:38:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So because we came into the market as a sequencing tool, we would go to BDR managers and say like, hey, I know that you have to send 500 emails a week.",
+            "timestamp": "00:38:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We're going to help you do that.",
+            "timestamp": "00:38:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We're going to help you do that at scale.",
+            "timestamp": "00:38:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We're going to give you reporting metrics on that.",
+            "timestamp": "00:38:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:38:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Done.",
+            "timestamp": "00:38:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We'd sell five seats, 10 seats, 20 seats.",
+            "timestamp": "00:38:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "The focus now, and because say competitively, we were getting pushed out in accounts because we had not made the jump from talking with those BDR or SDR managers all the way up.",
+            "timestamp": "00:38:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "To sales leadership, we are absolutely focusing on those sales leaders, so upper-level sales management, so that we can generate those relationships, say like, hey, we know we can fix your forecasting issues, we know we can help you manage deals, and that drives adoption amongst account executives, basically regular salespeople, so like the non-BBRs.",
+            "timestamp": "00:39:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I'd say we have, and you all probably know this, but Gong, one of our number one competitors, excellent adoption amongst the AE community, because once again, that's sales, that's call reporting, those are call insights, all things that executive leadership and AEs want out of that, because they're like, oh, hey, quickly summarize the call that I just did with my stakeholders.",
+            "timestamp": "00:39:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "AE's are generally not prospecting at the same rate that XDRs, so BDRs and SDRs are, and even if they are, they're doing it.",
+            "timestamp": "00:39:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "They're doing it somewhat manually, and they're not using a quote-unquote sequencing tool like Outreach.",
+            "timestamp": "00:40:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And because of that, what we are seeing is sales leadership says, hey, we have two tools.",
+            "timestamp": "00:40:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "have Gong that our AE teams are using, and we have Outreach that our XDR teams are using.",
+            "timestamp": "00:40:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Which one should I keep?",
+            "timestamp": "00:40:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And there are many instances where the AE leader, the enterprise AE leader says, I just drove you, I just drove 50% of your entire revenue attainment.",
+            "timestamp": "00:40:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "All my sellers say, don't get rid of Gong.",
+            "timestamp": "00:40:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And meanwhile, the BDR leader says, we drove 100 meetings.",
+            "timestamp": "00:40:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Can't really tell where that revenue went, but we had a lot of activity.",
+            "timestamp": "00:40:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Generally, that BDR manager is not at the same level politically within an organization that the enterprise sales leader, the mid-market or commercial sales leader.",
+            "timestamp": "00:40:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And so the sales leader, the global sales leader says, okay, we'll just use Gong.",
+            "timestamp": "00:41:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "They say they can do more or less the same things or we'll get or we'll go back to prospecting by by hand, essentially.",
+            "timestamp": "00:41:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Aida, that was a very long answer to your short question.",
+            "timestamp": "00:41:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Does that help?",
+            "timestamp": "00:41:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yes, yes, absolutely.",
+            "timestamp": "00:41:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:41:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So I'd say in addition to that, so sales leadership, AEs, and BDR leadership, what we are being asked to identify now is customer success teams with that retain and expand kind of account management motion is another category of people, of teams that we are focusing on because of our ability to once again, kind of hit that full lifecycle to address that full customer lifecycle engagement strategy where our own CSMs are using Outreach.",
+            "timestamp": "00:41:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We are actively engaged with CSM teams moving forwards, but I would say at the end, most of the time, those CS...",
+            "timestamp": "00:41:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Leaders roll up into a revenue organization.",
+            "timestamp": "00:42:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "So we're still trying to hit at that CRO, global sales leader type of goal.",
+            "timestamp": "00:42:05"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:42:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Amazing.",
+            "timestamp": "00:42:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "George, any questions from you?",
+            "timestamp": "00:42:15"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "None that will be able to be answered in less than a minute.",
+            "timestamp": "00:42:19"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "But I can dive into, if you can send over this deck, that'd be fantastic.",
+            "timestamp": "00:42:22"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "I this was very helpful, though.",
+            "timestamp": "00:42:27"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Like Aida was saying, we can already see kind of the direction the content strategy can take when we start implementing some of this.",
+            "timestamp": "00:42:34"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "And the priorities make sense, too.",
+            "timestamp": "00:42:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I'll send this deck over.",
+            "timestamp": "00:42:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "My team is working on five different kind of workflow decks as well that get more granular in the product and that actually call out features.",
+            "timestamp": "00:42:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We should have those done by the end of this week.",
+            "timestamp": "00:42:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "I'll send those over once we get those approved.",
+            "timestamp": "00:42:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Proved by everything as well.",
+            "timestamp": "00:43:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "But that way, if from an SEO standpoint, from a content generation standpoint, if there are specific things, specific use cases that you want to call out or build content upon, you can use those decks to build those out as well.",
+            "timestamp": "00:43:02"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Love that.",
+            "timestamp": "00:43:15"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "Love that.",
+            "timestamp": "00:43:16"
+        },
+        {
+            "speaker": {
+                "display_name": "George Haikal",
+                "matched_calendar_invitee_email": "george@growthx.ai"
+            },
+            "text": "The level of specificity here was amazing.",
+            "timestamp": "00:43:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Thank you, Adam.",
+            "timestamp": "00:43:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "We appreciate it.",
+            "timestamp": "00:43:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:43:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Thanks so much for the time, y'all.",
+            "timestamp": "00:43:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And let me know if you have any questions.",
+            "timestamp": "00:43:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Feel free to ping me in that channel.",
+            "timestamp": "00:43:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And either Jeremy, Andy, or I are happy to hop on.",
+            "timestamp": "00:43:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "And answer to that.",
+            "timestamp": "00:43:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "All righty.",
+            "timestamp": "00:43:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Much appreciated.",
+            "timestamp": "00:43:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "so much.",
+            "timestamp": "00:43:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Thanks, y'all.",
+            "timestamp": "00:43:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Adam Harris",
+                "matched_calendar_invitee_email": "adam.harris@outreach.io"
+            },
+            "text": "Bye.",
+            "timestamp": "00:43:35"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into Outreach's product architecture, positioning, and AI capabilities with Adam Harris and Jeremy Moskowitz from Outreach.](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=5.0)\n\n## Key Takeaways\n\n  - [Outreach consolidates multiple point solutions (sales engagement, conversation intelligence, forecasting/revenue intelligence, AI agents) into a unified revenue action orchestration platform](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=360.0)\n  - [The platform is built on a comprehensive data cloud architecture, integrating first-party engagement data, CRM data, and third-party data sources](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=456.0)\n  - [Outreach is shifting focus from SDR/BDR teams to targeting executive sales leadership and expanding use cases across the full revenue lifecycle](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1524.0)\n  - [AI is integrated throughout workflows, with flexible deployment options (autopilot vs. co-pilot) based on customer needs and segments](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1660.0)\n\n## Topics\n\n### Product Architecture and Philosophy\n\n  - [Five core modules/workflows: Forecasting & Planning, Coach Teams, Manage Deals, Prospect & Engage Accounts, Retain & Expand](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=382.0)\n  - [Data cloud architecture as foundation, integrating:](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=451.0)\n      - [First-party engagement data (emails, calls, activities)](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=480.0)\n      - [CRM data (Salesforce, Dynamics)](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=521.0)\n      - [Data warehouse information (product usage, support tickets)](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=552.0)\n      - [Third-party data (firmographic, demographic)](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=629.0)\n  - [Automation layer applies rules to surface insights and recommend actions](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=666.0)\n  - [AI integrated throughout to enhance workflows and decision-making](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=858.0)\n\n### Consolidation of Point Solutions\n\n  - [Sales Engagement: Prospecting, account management, deal management](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=970.0)\n  - [Conversation Intelligence: Call/meeting analysis, coaching, trend identification](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1099.0)\n  - [Pipeline and Revenue Forecasting: Activity aggregation, deal health assessment](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1203.0)\n  - [AI Agents: Enhancing various workflows (e.g., lead list building, scoring)](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1588.0)\n\n### AI Implementation Strategy\n\n  - [Flexible deployment between autopilot (AI agents) and co-pilot (AI assistants) modes](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1660.0)\n  - [Customizable based on customer appetite for AI autonomy and target segments](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1676.0)\n  - [Enterprise-grade security and compliance capabilities](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1740.0)\n  - [Granular control over AI feature activation](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1747.0)\n\n### Key Workflows and Use Cases\n\n1.  Forecasting & Planning\n      - [Pipeline inspection and management](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1131.0)\n      - [Revenue forecasting](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1161.0)\n      - [Planning and replanning](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1214.0)\n2.  Coach Teams\n      - [Consistency in sales approach](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1895.0)\n      - [Rep productivity improvement](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1880.0)\n3.  Manage Deals\n      - [Risk evaluation](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2002.0)\n      - [Engagement data analysis](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=1986.0)\n4.  Prospect & Engage Accounts\n      - [List building](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2042.0)\n      - [Multichannel outreach](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2051.0)\n5.  Retain & Expand\n      - [Customer satisfaction](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2081.0)\n      - [Renewal and upsell facilitation](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2101.0)\n\n### Target Audience Priorities\n\n1.  Executive Sales Leadership (primary focus)\n2.  Account Executives (AEs)\n3.  BDR/SDR Leadership\n4.  Customer Success Teams\n\n## Next Steps\n\n  - [Adam to send the presented deck and additional workflow-specific decks (expected by end of week)](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2567.0)\n  - [GrowthX team to analyze materials for content strategy development](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2554.0)\n  - [Follow up in Slack channel for any additional questions](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2606.0)\n  - [Schedule further deep dives on specific topics as needed](https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh?tab=summary&timestamp=2610.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Send current deck to George/Aida\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:42:34",
+            "recording_playback_url": "https://fathom.video/calls/364838263?timestamp=2554.9999",
+            "assignee": {
+                "name": "Adam Harris",
+                "email": "adam.harris@outreach.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Send 5 new workflow decks (more granular, feature-specific) to George/Aida after approval (ETA end of week)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:42:36",
+            "recording_playback_url": "https://fathom.video/calls/364838263?timestamp=2556.9999",
+            "assignee": {
+                "name": "Adam Harris",
+                "email": "adam.harris@outreach.io",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Jeremy Moskowitz",
+            "email": "jeremy.moskowitz@outreach.io",
+            "email_domain": "outreach.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Jeremy Moskowitz"
+        },
+        {
+            "name": "Adam Harris",
+            "email": "adam.harris@outreach.io",
+            "email_domain": "outreach.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Adam Harris"
+        },
+        {
+            "name": "Aida Kne\u017eevi\u0107",
+            "email": "aida@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Aida Knezevic"
+        },
+        {
+            "name": "George Haikal",
+            "email": "george@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "George Haikal"
+        }
+    ],
+    "recorded_by": {
+        "name": "George Haikal",
+        "email": "george@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/ApJiiHCUK6m12cvELmMJ85G9QW8sT4eh",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

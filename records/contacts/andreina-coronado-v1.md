@@ -43,9 +43,11 @@ Participant in GrowthX-Vizcom engagement reset call. Present alongside Marcel Sa
 | Date | Event |
 |------|-------|
 | 2026-02-23 | Meeting: Jordan Taylor <> Marcel Santilli (contract reset) |
+| 2026-02-13 | Calendar meeting:  Jordan <> Marcel |
 
 ---
 
 ## Meeting Transcripts
+- `records/meetings/2026-02-13-jordan-marcel.md`
 
 - `records/transcripts/2026-02-23-jordan-taylor-marcel-santilli.md`

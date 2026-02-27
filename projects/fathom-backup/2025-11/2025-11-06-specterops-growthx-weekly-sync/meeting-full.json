@@ -1,0 +1,2092 @@
+{
+    "title": "SpecterOps <> GrowthX - Weekly Sync",
+    "meeting_title": "SpecterOps <> GrowthX - Weekly Sync",
+    "url": "https://fathom.video/calls/464892382",
+    "created_at": "2025-11-06T18:48:47Z",
+    "scheduled_start_time": "2025-11-06T18:30:00Z",
+    "scheduled_end_time": "2025-11-06T19:00:00Z",
+    "recording_id": 99812389,
+    "recording_start_time": "2025-11-06T18:30:55Z",
+    "recording_end_time": "2025-11-06T18:48:37Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Hey, there.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's on mute.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Hello.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Hi.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "How are you doing?",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I'm good.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I'm pretty good.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I'm going to be on.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I'm trying to squeeze in my lunch.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "It's a hectic meeting day, and it just arrived, so I'm going to be off camera for a little bit, but I'll be on.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah, happens to us a lot.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Don't worry about it.",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "And, Erik, I hope you saw the \u2013 sorry for moving the schedule of our product walkthrough so much.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Our SE, who's going to lead it, had a couple of customer calls that happened last minute, so I shipped it to 5.15 p.m.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "East Coast time, so I think 2.15 your time?",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm Midwest, so still before 5.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Okay, awesome.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yeah, sorry for the late call, but it was the only time to get it done, and I'd rather have it sooner than later.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I've actually got a call at, like, 6 o'clock tonight with a different client, so \u2013 Okay.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "They're the ones making me stay up late.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Duly noted.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm glad I'm on your good side.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Are they on the West Coast?",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Well, I think we can get started.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I've added you to the agenda, so you should get it in your email.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "It should be an email from Notion.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, updates from last week.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We did get feedback from the team on the calibration blog that we delivered.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We've gone through and implemented feedback.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We've kind of, like, responded to every comment.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We haven't resolved it yet.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We haven't resolved any comments yet.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But just in case anybody else wants to, kind of, provide feedback.",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But let us know if this is it.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Like, if anybody else is supposed to provide feedback.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I think that's it.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I know I tagged in Sev.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I think in the chat yesterday, in the Slack channel yesterday.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "But if he hasn't got feedback, I don't want to hold up the process any further.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "He could probably be part of the review process moving forward.",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, okay, that makes sense.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "All right, I think then we can just close out the feedback, and then we're going to move, like, change the status in Airtable to just ready to publish.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then we can, yeah, like, move forward with staging that blog in your CMS.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then we are working on three additional blogs at the moment.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So we're working on lateral movement, lapse exploit, and how to detect golden ticket attacks.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So we are hoping to deliver those, like, early next week.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then we can kind of start, like, scaling.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We want to get to five per week.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And I think, like, doing three kind of helps us, like, get enough feedback without, like, overwhelming you with, like, five blogs at a time.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then I think we can also set up, just to make these reviews easier, we can set up an automation in Airtable.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "It will just send emails to a specific, like, list of people every time an article is labeled as, like, reviewing.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So I don't know, like, who should I add to that list?",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Like, probably Sev.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yeah, Sev, Kirsten, and Jason will probably be the best.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "And then I wouldn't necessarily rely on all three of them to review, but if you could get two out of the three, that would be, that would be good.",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I know it's, depending on the week, things, people are pretty slammed, so I don't want to hold up the process too much.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "And then I'll try to review as much as well.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Probably not to the layer of technical expertise, but just kind of looking at like overall kind of brand tone and feel.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We can do that moving forward just to make things easier.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then you have approved like 16 topics to get us started.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So we have like a backlog of 13 for the next two weeks, which is pretty good.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I know Kirsten did flag that there could be some potentially duplicate topics.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I'm going to go through and kind of double check because the keywords should all be like unique.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We do try to provide keywords that are related to each other, but we try to stay away from, try to verify that like there aren't any duplicates.",
+            "timestamp": "00:04:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "The titles could be sometimes like similar, however, the titles that are provided.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Like in the content OS, they are just like draft titles.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So when we actually create these blog ideas, we upload a list of target keywords that we manually research.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then we use our article generation, our assignment generation pipeline, which is connected to a SEMrush API.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And the API gives us information about the top ranking content.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then the AI basically generates a title that could meet the search intent and that is quite similar to the top ranking content.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And it's gotten better.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Like I distinctly remember because I've been at GrowthX for almost a year.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Like a year ago, the titles were just, I had to rewrite them every single time.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "These days, the titles are a lot better right off the bat.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But we still do change them because we change the structure.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We might like add something or remove something and we want to like make sure.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But the article, like the title is accurate.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So just wanted to flag that.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So I'll go through that and just like make sure that there's nothing in here that's like potentially duplicative.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then for, okay, so we are working on three blogs and we have set up an image generation pipeline for the blog posts that we're working on.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So we kind of used the existing imagery that you have on your blog.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And this is like what it looks like right now.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So I can actually like expand a couple so you can see better.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I like these.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah, they don't seem like they're not.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I think when we say like images are AI generated, I think sometimes people get a little bit hesitant.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "But yeah, they're like six fingers or.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "No, no, no.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We tried to stick to graphics because the AI just does a lot better at graphics and illustrations than human beings.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I think like we get, so per article, like it's going to generate like at least like five or 10 different options.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So we try to pick the best option out of the bunch.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And we also like upload that to your CMS.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, you know, you don't have to like provide images of your own.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I think if this looks good to you, I mean, I can also share these examples in Slack and then the rest of the team can weigh in.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "If you have like a designer on your team, they can also kind of share some feedback because these images are generated using a pretty detailed prompt that our designer Katja creates and then it's upload.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then GPT actually creates these images, so we can always like adjust, for example, if like the castles, if they look a little too playful, like a little too childish, we can like add an instruction to make sure the imagery is like professional, doesn't include any like playful elements.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yeah, honestly, think, now that you bring it to our attention, if any of those images were to probably get any scrutiny, would probably be the castles.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "So, but please run that by Rick and Kirsten, and then maybe Bryce.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Bryce probably will have a strong opinion about the images as well.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, okay.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "But I do like the other ones.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, okay, yeah, that's helpful.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I can share them in a Google Drive.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then did I ever, okay, this is our test, but.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Um, did I ever, um, show you how the article generation process looks like?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "No, I have not.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "No, okay, I can actually do a, like, quick walkthrough, um, because we do have, like, the Argentic pipeline, um, set up right now.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, um, this is Atlas, this is our, like, content generation platform that we built in-house.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Um, we've had it for about, I think, three to four months, um, and we're kind of constantly improving it as we get new clients, new cases, new use cases emerge, and we're constantly, like, just trying to improve it.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Um, so we basically have, like, two article generation pipelines set up.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "One is the Argentic one, and then the other one is the standard one.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So far, we've been, um, using the standard one for a lot of our clients.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Um, but where it falls short, or where we had to improve.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "It wasn't the research step.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So up until now, we've been using perplexity to do the research.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So it's been like the process is divided into like multiple steps.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So the input is like a keyword.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We give it like it could be anything.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "It could be like a golden ticket attack, for example.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, sorry, I have to hide our faces.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then, you know, we kind of like click through all of these steps.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And at first, it will generate like a draft, like a brief.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And it connects to a Sermarsh API.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "It researches the top ranking content.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And it gives us suggestions on like the keywords that we should include.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "What are like the sections that the article should cover.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But typically, we will also heavily like audit this step.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So,",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And, like, we might completely change the outline, depending on our, like, using our own manual research.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then we will run the deep research step, which takes the outline, and then it uses perplexity to find all the information the AI needs to actually write an article that's in-depth and isn't shallow.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then it generates an outline that we review, and then the draft, we review the draft, and then we, you know, deliver it to you.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But the Argentic Pipeline, and that's the one that we've actually been using for you, it does the research step differently.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "So let me just actually go right here.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So we give it a keyword, and then it uses a different researcher called",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So it's a more advanced research tool than perplexity, and it can find information, it can find a lot more information than perplexity, basically.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But what's really interesting about this step is that it will research a specific topic, and then it will ask itself questions about the answers.",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So it's grading its output at the same time.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, for example, let me actually inspect so you can actually see what the process looks like.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, for example, we gave it these instructions, like we're writing an article to cover this topic, this is the direction for the article, so we give it like a very kind of specific instructions.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then it generates a research plan.",
+            "timestamp": "00:12:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So then it gives, like, it generates a research objective.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So it identified that.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "It's supposed to create a comprehensive technical guide explaining the differences between zero trust and least privilege, and then it's going to generate questions that it assumes it needs the answer to provide information about this topic.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then it collects the answers, and then it evaluates the research quality.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, for example, for the first question, the score is 0.8b8.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "meets criteria, but it also identified gaps.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, it realized that it was missing, like, specific cost breakdowns, that it could benefit from more detailed vendor integration specifics beyond Microsoft, and it also, like, had limited discussion of change management and stakeholder buy-in strategies.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then, like, it's going to go back, and if it did not pass, it's going to go back and try to find more information to actually plug those research gaps.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, it's basically generating questions for the reason.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "search, then it collects the answers and then it grades those answers and tries to figure out, okay, what are the other questions that I could ask?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And our fact checker, sorry.",
+            "timestamp": "00:14:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So our fact checker step is also like more advanced, and it's better than in the regular pipeline that we had.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So it's really able to catch any statements that are inaccurate or just cannot be verified.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And if a statement cannot be verified, it's going to change the paragraph to say like, while industry practitioners recommend this course of action, there is no documentation supporting the claim that X is going to result in Y.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then we can spot that and be like, okay, like we can remove the section or we decide what we're going to do with it.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So it just allows us to kind of, you know, kind of be more, have more confidence in the output.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "It's pretty cool.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "But it basically like",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Runs like from the research and then it kind of adds internal links and add the, adds the, generates the draft.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So yeah, from like end to the end process, like it's very controlled by us.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So it's, I do like always like to show it to the people that we work with because you never really like know what we do behind the scenes.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And now when you see like where we work, I think it gives you like a better idea of how we generate content.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And if you have any ideas for the content that you want to create on the website, you know, you're always like welcome to share and, you know, you know how our process works.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So I think it might be even easier to kind of come up with ideas.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yeah, this is very helpful.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Yeah, cool.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I'm going to get out of here because I think someone's generating, so I don't want to mess anything up.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then what else is what else?",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "What else?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, we did share the images.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "I need to just check to see if the Looker dashboard is working properly.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Let me just take a look right now.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Might not be validated yet.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I'll double check.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "We just need to be granted access again.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yeah, think he tried to do it this morning.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "He said that he approved.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Know if you don't see any changes this afternoon and I'll follow up with them and provide me whatever instruction you think is needed to get it done.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "So, yeah, next steps.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We're going to resolve the comments on the calibration blog.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We're going to...",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Draft it in your CMS.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We're not going to publish.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "We're just going to leave it there.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And then you can take a look and see if it looks good and you can push it live.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "And we're also going to be in touch soon with the new blogs.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Cool, cool.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Do you have any other questions?",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Anything else you wanted to cover today?",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Nope, not on my end.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "And then I'll see you this afternoon or this evening for me, Erik.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep, absolutely.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Knezevic",
+                "matched_calendar_invitee_email": "aida@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:17:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right, thank you.",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "See you.",
+            "timestamp": "00:17:35"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Sync on blog content progress, review processes, and production pipeline.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=73.0)\n\n## Key Takeaways\n\n  - [The \"calibration\" blog is approved for staging; GrowthX will implement feedback and prepare it for SpecterOps to publish.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=85.0)\n  - [GrowthX is drafting three new blogs (\"lateral movement,\" \"laps exploit,\" \"golden ticket attacks\") to test the review process before scaling to five per week.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=158.0)\n  - [A new Airtable automation will notify reviewers (Sev, Kirsten, Jason) when an article is ready, requiring feedback from only two of the three to prevent bottlenecks.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=194.0)\n  - [GrowthX demoed its \"Argentic\" content pipeline, which uses a self-correcting research agent and advanced fact-checking to ensure technical accuracy.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=535.0)\n\n## Topics\n\n### Blog Content & Review Process\n\n  - [**\"Calibration\" Blog:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=85.0)\n      - [Feedback implemented; comments will remain open for potential final input from Sev.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=85.0)\n      - [Status in Airtable \u2192 \"ready to publish.\"](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=137.0)\n      - [Next: Staging in SpecterOps' CMS for final review before publishing.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=137.0)\n  - [**New Blogs in Progress:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=158.0)\n      - [\"Lateral movement\"](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=158.0)\n      - [\"Laps exploit\"](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=158.0)\n      - [\"How to detect golden ticket attacks\"](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=158.0)\n      - [Delivery target: early next week.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=158.0)\n  - [**Review Workflow Automation:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=194.0)\n      - [An Airtable automation will email reviewers when an article's status is \"reviewing.\"](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=194.0)\n      - [**Reviewers:** Sev, Kirsten, Jason.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=213.0)\n      - [**Rationale:** Requires feedback from only two of the three to prevent bottlenecks from busy schedules.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=213.0)\n      - [Meshach will also review for brand tone.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=240.0)\n  - [**Topic Backlog:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=257.0)\n      - [16 approved topics provide a 2-week backlog.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=257.0)\n      - [Kirsten flagged potential duplicates; GrowthX will audit the list.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=257.0)\n      - [**Context:** Draft titles are AI-generated based on SEMrush data; final titles are manually refined to ensure uniqueness.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=267.0)\n\n### AI-Generated Images\n\n  - [GrowthX's new pipeline generates graphics and illustrations, which perform better than AI-generated photos.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=376.0)\n  - [**Feedback:** The \"castle\" images may appear too playful and require refinement for a professional tone.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=459.0)\n  - [**Next:** GrowthX will share examples in Slack for feedback from Rick, Kirsten, and Bryce.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=459.0)\n\n### Content Generation Pipeline Demo\n\n  - [Aida demoed the \"Argentic\" pipeline in the Atlas platform, designed for technical accuracy.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=535.0)\n  - [**Process:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=750.0)\n    1.  [**Research Plan:** Generates an objective and questions for a topic (e.g., \"Zero Trust vs. Least Privilege\").](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=750.0)\n    2.  [**Self-Correction:** Collects answers, then evaluates them for gaps (e.g., missing cost breakdowns, vendor specifics).](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=796.0)\n    3.  [**Iteration:** If quality is low, the agent asks new questions to fill gaps, repeating until the research passes.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=828.0)\n    4.  [**Advanced Fact-Checking:** Verifies statements and flags unverified claims, allowing manual review.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=848.0)\n  - [**Benefit:** This process provides high confidence in the technical accuracy of the final draft.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=848.0)\n\n### Admin & Logistics\n\n  - [**Product Walkthrough:** Rescheduled to 5:15 PM ET today (2:15 PM PT) due to a last-minute customer call for the SpecterOps SE.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=29.0)\n  - [**Looker Dashboard:** Access is pending. Meshach will follow up with the team if the issue is not resolved today.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=964.0)\n\n## Next Steps\n\n  - [**GrowthX:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=1014.0)\n      - [Resolve comments on the \"calibration\" blog and stage it in the CMS.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=1014.0)\n      - [Deliver three new blogs (\"lateral movement,\" \"laps exploit,\" \"golden ticket attacks\") early next week.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=158.0)\n      - [Set up the Airtable review notification automation for Sev, Kirsten, and Jason.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=194.0)\n      - [Audit the topic backlog for potential duplicates.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=257.0)\n      - [Share AI-generated image examples in Slack for team feedback.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=459.0)\n  - [**Meshach:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=964.0)\n      - [Follow up on Looker dashboard access if not resolved today.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=964.0)\n  - [**Erik & Meshach:**](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=29.0)\n      - [Attend the product walkthrough at 5:15 PM ET today.](https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v?tab=summary&timestamp=29.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Close Notion comments on Calibration blog; set Airtable Ready to publish; stage in CMS",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:02:06",
+            "recording_playback_url": "https://fathom.video/calls/464892382?timestamp=126.9999",
+            "assignee": {
+                "name": "Aida Knezevic",
+                "email": "aida@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Set up Airtable automation to email Sev, Kirsten, Jason on Reviewing; require 2/3",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:03:03",
+            "recording_playback_url": "https://fathom.video/calls/464892382?timestamp=183.9999",
+            "assignee": {
+                "name": "Aida Knezevic",
+                "email": "aida@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Review 16-topic backlog for duplicates; verify unique keywords",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:04:16",
+            "recording_playback_url": "https://fathom.video/calls/464892382?timestamp=256.9999",
+            "assignee": {
+                "name": "Aida Knezevic",
+                "email": "aida@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Share AI image examples in Drive; post Slack link for Rick, Kirsten, Bryce",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:07:28",
+            "recording_playback_url": "https://fathom.video/calls/464892382?timestamp=448.9999",
+            "assignee": {
+                "name": "Aida Knezevic",
+                "email": "aida@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Verify Looker dashboard access; if not working, Meshach follow up w/ Looker team",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:53",
+            "recording_playback_url": "https://fathom.video/calls/464892382?timestamp=953.9999",
+            "assignee": {
+                "name": "Aida Knezevic",
+                "email": "aida@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Kirsten Gibson",
+            "email": "kgibson@specterops.io",
+            "email_domain": "specterops.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "enguyen@specterops.io",
+            "email": "enguyen@specterops.io",
+            "email_domain": "specterops.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Aida Knezevic",
+            "email": "aida@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Aida Knezevic"
+        },
+        {
+            "name": "Bryce Hein",
+            "email": "bhein@specterops.io",
+            "email_domain": "specterops.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Meshach Cisero",
+            "email": "mcisero@specterops.io",
+            "email_domain": "specterops.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Meshach Cisero"
+        },
+        {
+            "name": "Jason Wolfe",
+            "email": "jwolfe@specterops.io",
+            "email_domain": "specterops.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "tgomez@specterops.io",
+            "email": "tgomez@specterops.io",
+            "email_domain": "specterops.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/2xe6hon5pCAn37eGpHhAUFr_ysnczY_v",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

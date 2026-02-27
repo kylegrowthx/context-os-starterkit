@@ -1,0 +1,916 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "she's gonna I'm going to record this meeting so she can see everything.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "No problem.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "And what do you use that?",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So we actually use a tool called Prismac.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "I'm not sure if you're familiar with",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "basically a headless tool, I think it's similar to Contentful, if I've ever worked with something like that, but yeah this is kind of the main phase when you log in.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "I guess you want us to just walk you through, do you have specific questions or what's the easiest way to kind of handle this?",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "Well, I guess this will also depend on the type of content that we will be working on.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "So if it's a blog article, then we would need to publish on the blog, if it's, you know, if we're launching a new page, then I think that you will be handling that internally.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "So yeah, I'm not entirely sure because we are yet to agree on the strategy, but I just, I don't know, let's just see how these things works.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Okay, sure.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "So, guys, can you give me just like one minute overview of what we are trying do?",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "to do.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "I wasn't participating in any meeting site, check the website, but what's our goal?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Sir, so growth X is an agency that we've enlisted to help us with, primarily SEO.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "I'm the main, yeah, the main engagement that they've been hired for is programmatic SEO, right, versus editorial SEO.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So editorial SEO would be more like blog posts, programmatic SEO would be more like our city level local lending pages, that kind of thing.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So I guess that's kind of the background.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "think we can quickly couch on both, but I guess the growth X team wants to get, you know, I'm understanding of our CMS, how it works.",
+            "timestamp": "00:02:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Ultimately, their goal is to be publishing content programmatically, which is something we've done a little bit of, but yeah, I guess that's",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "the idea to kind of bang around a little bit here and show them what's going on.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "What do you think this makes sense to late?",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Should we be talking about the ghost pipes, or how are city level pages actually?",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "I guess we can look at the structure of one of them, or what do you think makes sense?",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Yeah, we can check one, but basically, so Prismic Ricks is from the block perspective, so each section is one leg of block.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "So while you are building the pages, you need to add all of the content blocks, which you can see here on the left side, and for each content block, this is like pre-made stuff where you can add like a heading, subheading, any tags,",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "and the content block, you can assign different pages and so on.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "The same thing, what you can do from the UI, you can also do from the API.",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "So they have, I think it's called either merge or something like that.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "At the end, the API is for a migration.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "I mean, we already put some of this stuff for the migration, where we map certain parts of the content in some Excel, so we create page out of that based on a grid design.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "So not sure how you do it, but you can do it both manually and you can do it through the APIs, especially if you are thinking from the perspective of having the same design.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "for all the pages like the same blocks, but you will just change your content in the blocks itself.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "So yeah, that's the voting proposal.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Well, that's the idea.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "We will basically have, let's say, a static page.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "And the only thing that we will be doing is creating the content itself.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "So basically, we will start with first update in the series.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "that page is already built out.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "So our job here would be to actually add the content.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "So like this is the example of a city level page.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "It has a few blocks on it right now.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "One of them is kind of the main, let me pull up the the same, what am I looking at?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So we're looking at and Santa Clarita, right?",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So if I go here, yeah, cool.",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So basically what's going on here is this first search filter block is just something I think we always need on the page.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Is that right?",
+            "timestamp": "00:06:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "It's this first thing here.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "And then you have the bread crumbs block next.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "And then the results, which is the actual dynamic results.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "And then below that you have the insurance panel, reviews panel, FHU panel, right?",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So you'll see insurance reviews FHU basically.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So yeah, so there are a lot of pages live now.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "You could add or edit content.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "as well as kind of like take this template and launch new pages as it may be a factor.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "There are also, I guess, some sort of some settings in here, probably like this is how you map the data state actually.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "The availability parents take California and make sense to me.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "This was also, yeah, that shouldn't change on any page.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "No meta description.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "That is almost none of these pages have them.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "think though we are building them and dynamically generating them dynamically when they're not in Prismic.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So it's not quite as bad as it seems, but we do have.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "ability to populate this field and change the title in the meta description.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "And then, don't think this is going to be really relevant.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "But yeah, so this is the basic structure of a city level page.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "State level page is going to be the same, but without like the mapping, like your psychiatry, New York.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "mean, I'm sorry to sign a page.",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "We can, we can probably give you some recording or something, how to, how to update some of these things.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Because, yeah.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "We have some rules in here.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Super helpful.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "So you see a state level page is the same, but there's no parent state assigned to it.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Hi guys.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Filip Babic",
+                "matched_calendar_invitee_email": "fbabic@helloinnerwell.com"
+            },
+            "text": "was late.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I was having Internet troubles.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But, yeah, I think once we have, like, this is pretty, it's kind of a standard meeting that we have set with clients to kind of walk through the CMS and see how they publish.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But for you guys, given that you're not kind of going the traditional editorial blog route, it might make more sense.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "This is a great starting point and this is really good for us to know.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "It might be more helpful, like, once we know the direction we're going for content, we can kind of map out, this is where we're thinking it would go, this is, you know, this is the page we would need, this is where it would live, blah, blah, blah, and then we can either have another call and see exactly where the content we're doing is going to live and how we get it there or we could do a loom, something like that.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But it is helpful for us to kind of see the backside and how, you know, honestly, just to know which publisher we need to use versus, like, you know, someone who has little bit more experience, but yeah, this is really helpful.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But yeah, because you guys, we're going kind of a different way.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "with programmatic versus editorial.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "It might be more helpful to touch base after we have like our game plan set.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I didn't really think about that one.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "What scheduled it, but yeah, this is helpful.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Do you have any follow-up?",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "As as like publishing?",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Well, no, when it comes to the CD-level pages, we're good.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "Okay, this is basically a template.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "But yeah, one way, because we are thinking about different ideas for your content, so we would definitely need one more meeting.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, we're kind of going a little bit on a different route, which is fine because it's way more interesting in some respects.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But yeah, it might be a little bit different as far as publishing goes to because we have kind of a strategy.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "We want to lay out and chat through with you.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then I think we'll probably have a much clearer path of like, we're not just jumping on a CMS and publishing a blog, which is kind of our standard route.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But yeah, I think that's all we needed, sorry that I was late and appreciate you guys kind of taking the time to at least get our mind going on what you guys is back and looks like.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "No, that sounds great.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Yeah, we are excited to dig in.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "I guess you guys have access to this, I think already, Prisma.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "But yeah, if you guys have any questions as you dig in, let us know.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Anthony Mangia",
+                "matched_calendar_invitee_email": "anthony@helloinnerwell.com"
+            },
+            "text": "Okay, sounds great.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:11:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bisera Stankovska",
+                "matched_calendar_invitee_email": "bisera@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:11:32"
+        }
+    ]
+}

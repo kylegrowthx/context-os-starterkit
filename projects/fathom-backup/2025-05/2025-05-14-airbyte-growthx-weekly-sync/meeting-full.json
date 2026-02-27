@@ -1,0 +1,1484 @@
+{
+    "title": "Airbyte <> GrowthX Weekly Sync",
+    "meeting_title": "Airbyte <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/299327604",
+    "created_at": "2025-05-14T19:12:04Z",
+    "scheduled_start_time": "2025-05-14T19:00:00Z",
+    "scheduled_end_time": "2025-05-14T19:30:00Z",
+    "recording_id": 62665806,
+    "recording_start_time": "2025-05-14T18:59:44Z",
+    "recording_end_time": "2025-05-14T19:11:45Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, I always have these configuration issues when I'm into some...",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah, that sounds weird.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "So you're on track for anything with them this week?",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "I'll come up again, sorry.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Are you on track with them this week to deliver?",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, we're pretty good.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "So for this week we have...",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "We already have six refreshes, two new articles, two refreshes to be pending for publishing.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "And seven...",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "That's the thing.",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have seven articles from last week pending to...",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hey guys.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Oh, hello.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Hey, how's it going, Tamari?",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hey, hi.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How are you?",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Pretty good.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Pretty good.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What about you?",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'm doing great.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Mario is in Executive Offsite, so I'm not sure if he'll join.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's fine.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can begin.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Well, nothing really new to cover.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just, you know, if you want to talk through anything.",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, just let me open the agenda and if I have anything to discuss, we can.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah, so we're definitely looking into, you know, the mistakes and little stuff like that.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're going to clean that up.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Focus a little more.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sometimes you miss stuff when you're trying to ramp really quickly.",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "But yeah, we're going to be more diligent in that regard.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, that generally happens mainly during the refreshes, right?",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "So the workflows is fed by the information.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "And that you currently have online that it's outdated regarding the connectors.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "So it grabs that and sometimes, know, that part of the job is finally, we can meet it.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "But, you know, thankfully, you were also looking at them and I already applied the changes.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "yeah, and you were using Aerobs to generate content or ChatDBT API?",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "It's actually half and half and also surf ratio, right?",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "So we have both first of the flow with Aerobs, but we can rely just on that because we want to have the 80 plus on Surfer SEO.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So from there, we go to Surfer SEO and then we go to ChatDBT and just ignore it.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Got it.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Got it.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And Surfer only suggest you about those internal linking, right?",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Surfer does that for you?",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Surfer does.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "I mean, we can rely both on Aerobs or Surfer SEO.",
+            "timestamp": "00:02:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Surfer SEO tends to be better regarding the linking.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we generally go with Surfer SEO at this point.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is there anything new that you guys are working on in terms of SCA in terms of...",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This visibility and all those stuffs.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm not sure if you know that, but we have been using a tool called Profound, so you must have heard about it.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we purchased it, I think, two months back and I've been using it continuously.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you know, right, like search trend is changing.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So everybody is just, it's not anymore click-based, it's more of a visibility-based because people are just getting those answers in top of the results in AI overviews and they're just collecting the information and closing the window.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's just more of a visibility than clicks and across all the industry domains, clicks have been dropping, if you know these goals such concerns.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like most of the clicks are dropping because of these things, this change.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I think like AI traffic will keep growing at the time.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have been seeing some growth there.",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And some of the clicks as well as some leads.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think, yeah, like, interesting times ahead.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yes, I think I actually saw someone from our team talking about that, that clients want them to follow the AI mentions and stuff like that.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Do you want us to dig in to see if we can find something about that, too?",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Or are you okay with, like, the tool you're using?",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Or do you want, you know, we can maybe see if somebody from us, from the company, has an insight.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm currently happy with Profound, but if you have any insights to share, feel free to share.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because in this meeting, we can best talk about all these new things that I found or you found, like anything.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "I'm going to ask around then.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Poke around and see the people who are asking for that stuff and who's knowledgeable on that and see if you can get some info.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe they're using the same thing you are.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, because I know four, five tools in the same segment.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have used it.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I like every one, like every tool, but I feel like Profound stands separate because they have a great UI, they have a great product team, and they help to rebuild and reshape their, like, they launch new features every week, so they have great team, so yeah, I like Profound, but I have used other tools also, like, I'm not sure if you heard about it, called zipt.dev, so there are all three tools.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, AirOps has written, yeah, not AirOps, you know, Daydream?",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, Daydream.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so Daydream has written an article about this, and there you get all the AI visibility into this list.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Oh, cool, I'll check that out.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "These are the new players in the market, because, yeah, visibility was not there, so now everybody wants to build that product and capture the market.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so there are many new tools.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "tools.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "So are you seeing any, like, correlations between the stuff you see in that and, like, what's going on on the site, like, conversions and traffic and stuff like that?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so how Profile does this, basically, you have to choose 10 clusters or 10 main topics.",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Around those, they will be sending prompts.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Every day, let's say, 400.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in a week, there are 2,800 prompts for one topic and, like, thousands of prompts in a month, right?",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And from that data, they analyze the output and then they score your visibility, give a percentage.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, how Airbyte is doing in perplexity, how Airbyte is doing in Microsoft Co-Pilot, how Airbyte is doing in chat repeat, how Airbyte is doing in AI overviews.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They are also trying to...",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So...",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Include other AI platforms like Cloud, I think, Brock or DeepSeek, something like that, they can't integrate everything in one group.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So one by one they are doing, but currently there are four major AI platforms, Chargability for Flexity, Microsoft, and I think Google AI Overviews, that is, they have.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And also they report on sentiment.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For example, if you know for a DevTool, Reddit is very important.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So when you see some positive sentiment, that is also the report.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "When they see some negative sentiment that GPT or any other AI tools is reporting, that also they report.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can see your positive and negative sentiment of your product and you can actually work on those to fix so that you get better positive sentiment across all the AI platforms.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you solve those problems, you know AI will give and talk positively about your product.",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's cool.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Lots of interesting things.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah, so I think the next tool then would be to kind of connect that with, you know, trying to figure out how it plays out on your website and, you know, how it's influencing stuff that users are doing.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, we have connected our website to that tool recently this week, so this was a new thing, so I can now see multiple things, but I'll dig deeper to see like traffic percentage, how many humans referred to the website, all the stuff.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "that's cool.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, page index by AI bots, all those stuff, I guess.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Awesome.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Those are cool, yeah.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah, share that with us.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah, so I mean, for this meeting, all really is...",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "You know, if you have any comments and if you just want to quickly check the recommendations that Nico made.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so I'm currently leaving all the articles that is there in the sheet, so I think I'll finish those by sometime, like by end of the today, Nicolas, then I think you can go ahead and publish everything.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think next set of topics you can pick from that list, which I share new topics, as well as there are some in the air table as well.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I think we have the pipeline for at least next one month.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then I think once you come up or Jacob comes back, we need to think what are the new topics that we can create.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you have, like if you are doing keyword research or finding new topics, feel free to share with me.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I can review those.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Also, I also do this keyword research and review things every month once.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So once I have my list, I can share that with you as well.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Perfect.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, you have the two markets.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "They want to see it, and they want a resetter.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "And the ones that got a chance by the ticket during the review.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "really tough to get tickets.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm a Manchester United fan, so I follow soccer.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, awesome.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Let's watch it then.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Let's hope it's a good one.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's gonna be awesome.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:11:29"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think UCL final will be a good one between Inter and PSG.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, guys.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we are good here.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll just review those and see what you're back in next couple of weeks.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Yeah, and just let us know in Slack when you need anything.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, sure, sure.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Okay, guys.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Thanks a lot.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Have a good day.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, you too.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cheers.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "a lot.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cheers.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cheers!heus projects, hello, hello, hello, you too.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I love time.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "4 - Redwood",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You",
+            "timestamp": "00:12:00"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Airbyte and GrowthX to discuss content production, SEO strategies, and new AI-driven visibility tools.](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=17.0)\n\n## Key Takeaways\n\n  - [Content production on track: 6 refreshes, 2 new articles, 2 pending refreshes, 7 articles from last week pending](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=41.0)\n  - [Shift in SEO focus: From click-based to visibility-based metrics due to AI-driven search results](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=199.0)\n  - [New tool adoption: Profound for AI visibility tracking, showing promise in sentiment analysis and multi-platform visibility](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=183.0)\n\n## Topics\n\n### Content Production Status\n\n  - [6 refreshes completed](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=48.0)\n  - [2 new articles produced](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=48.0)\n  - [2 refreshes pending publication](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=48.0)\n  - [7 articles from previous week still pending](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=55.0)\n  - [Workflow challenges: Outdated connector info occasionally causing errors in refreshes](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=120.0)\n  - [Content generation: Using mix of AirOps, ChatGPT API, and Surfer SEO (for 80+ score and better internal linking)](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=139.0)\n\n### SEO Strategy Shift\n\n  - [Industry-wide trend: Clicks dropping due to AI-powered search results](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=199.0)\n  - [Focus shifting from click-based to visibility-based metrics](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=199.0)\n  - [AI traffic showing growth, impacting leads](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=240.0)\n  - [Profound tool adoption: Tracking visibility across AI platforms (Perplexity, Microsoft Co-Pilot, ChatGPT, Google AI Overviews)](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=404.0)\n  - [Sentiment analysis: Monitoring positive/negative product mentions on platforms like Reddit](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=443.0)\n\n### AI Visibility Tools\n\n  - [Profound: Primary tool in use, praised for UI and frequent feature updates](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=300.0)\n  - [Other tools mentioned: zipt.dev, Daydream](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=294.0)\n  - [Profound functionality:](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=371.0)\n      - [Analyzes 2,800 prompts/week per topic (10 main topics)](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=386.0)\n      - [Scores visibility percentage across AI platforms](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=395.0)\n      - [Reports on sentiment (positive/negative)](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=443.0)\n      - [Recently connected to Airbyte's website for deeper analytics](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=505.0)\n\n### Content Planning\n\n  - [Current pipeline sufficient for next month](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=568.0)\n  - [Need to plan new topics once team is back](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=572.0)\n  - [Open to shared keyword research and topic suggestions](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=579.0)\n\n## Next Steps\n\n  - [Tamari to finish reviewing articles by end of day](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=546.0)\n  - [Nicolas to publish approved content](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=546.0)\n  - [David to inquire about internal insights on AI mention tracking](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=258.0)\n  - [Team to select next set of topics from shared list and Airtable](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=561.0)\n  - [Continue monitoring Profound data for correlations with website performance](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=505.0)\n  - [Share Profound insights in future meetings](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=488.0)\n  - [Maintain open communication via Slack for any immediate needs](https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE?tab=summary&timestamp=707.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Ask team about AI mentions tracking tools; compare w/ Profound; share insights w/ Tamari",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:03:57",
+            "recording_playback_url": "https://fathom.video/calls/299327604?timestamp=237.9999",
+            "assignee": {
+                "name": "David Galic",
+                "email": "david@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Review articles in sheet by EOD; inform Nicolas when complete",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:55",
+            "recording_playback_url": "https://fathom.video/calls/299327604?timestamp=535.9999",
+            "assignee": {
+                "name": "4 - Redwood",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Publish articles after Tamari's review; select next set of topics from shared list & Airtable",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:04",
+            "recording_playback_url": "https://fathom.video/calls/299327604?timestamp=544.9999",
+            "assignee": {
+                "name": "Nicolas Fernandez",
+                "email": "nicolas@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Tanmay Sarkar",
+            "email": "tanmay@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Nithin M ",
+            "email": "nithin.mahalingam@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mario Moscatiello",
+            "email": "mario.moscatiello@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "david@growthx.ai",
+            "email": "david@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "David Galic"
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Nicolas Fernandez",
+            "email": "nicolas@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Nicolas Fernandez"
+        }
+    ],
+    "recorded_by": {
+        "name": "Nicolas Fernandez",
+        "email": "nicolas@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/69i9sfS2xK7qXd4uUS5nocA4yP3gdCBE",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

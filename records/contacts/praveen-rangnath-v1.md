@@ -34,10 +34,12 @@ Marcel Santilli (GrowthX CEO) is a Deepgram shareholder and former CMO. Praveen 
 | Date | Event |
 |------|-------|
 | 2026-02-10 | Meeting: Deepgram Strategy Sync with Marcel (61 minutes) |
+| 2026-02-10 | Calendar meeting: Deepgram Strategy Sync |
 
 ---
 
 ## Meeting Transcripts
+- `records/meetings/2026-02-10-deepgram-strategy-sync.md`
 
 - `records/transcripts/2026-02-10-deepgram-strategy-sync-praveen.md`
 

@@ -1,0 +1,2971 @@
+{
+    "title": "Automation sync",
+    "meeting_title": "Automation sync",
+    "url": "https://fathom.video/calls/448924600",
+    "created_at": "2025-10-21T15:23:12Z",
+    "scheduled_start_time": "2025-10-21T15:00:00Z",
+    "scheduled_end_time": "2025-10-21T15:30:00Z",
+    "recording_id": 95635954,
+    "recording_start_time": "2025-10-21T15:00:58Z",
+    "recording_end_time": "2025-10-21T15:23:05Z",
+    "calendar_invitees_domains_type": "only_internal",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, you're actually right on time, so.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, yeah, so I'm trying to, so basically the background is that we have a client who can't access Google Docs, and they also have a really extensive subject matter expert review of every piece of content right now, and it's just been like a disaster, because it's like some people are in the Google Docs, and they're creating copies of Docs in their, like, Google Teams, and putting some stuff in Notions.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And so what I've done, let me see if I can find it, is, like, create a space, and this is not the right Notion doc, but I'm going to find it, to create a space in Notion where we can route all their content.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "But I think the challenge is, like, sort of connecting the content OS.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And sort of to the notion, whoops, that is not the right thing, to the notion doc.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Wow.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, yeah, here we go.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I think the way I've set it up now, I just did this yesterday, is like, so the planning would be stuff that's like in production right now, because they want, or about to be in production, because they want their subject matter experts to be able to add comments to some things that like might be more product, closer product.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then it would move into like a subject matter expert review, and then it would go for the final like CMO review.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And so what I've been trying to do is, A, when we move something, like basically to be able to create the article, like I don't know if it's even possible in Airtable to have it like, when the status changes, like to create the document here, like you would in Google Docs.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, yeah, 100% you can, yeah.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then also like how.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "As it moves through, they'll like status here to have it also be updated in Airtable, just so there's always kind of one source of truth.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like I've used both.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'm not like a super pro user.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I'm also like, if it feels like you, I know you have tons of these automations.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So if it feels like there's a better way to organize this, I'm like open to anything.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, think.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So basically Airtable's listener is one way.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So it can automate things in Notion, but Notion cannot automate things in Airtable, if that makes sense.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So we can use Zapier to kind of bridge those two things.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But that would take, like, I mean, I don't think it'll take too much, to be completely honest with you.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So I'll just show you what I had set up for my CMS at some point.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then let me know if that kind of is what.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So you can do this in Airtable now, but I did, I did do this in, so it is possible with either thing anyway.",
+            "timestamp": "00:03:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So what I did for my CMs at some point was anytime I added anything to idea pending, it would go into here.",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So these are all automations from Slack, I mean, from Airtable.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And did you do this directly or did you use Zapier?",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like, did you use that to do this or did use Zapier, but Airtable now has it.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So I did this before Airtable had the AI automations.",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So I know that this is 100% possible in Zapier.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I am almost certain it's possible in Airtable because I have the same setup for Google Docs now.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like Google, I have all of this in Google Docs as well now, instead of putting it into a Notion.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I just have Airtable put it into the Google Doc that it creates, and then it also keeps a record of in Airtable.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So it's a",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "All in one interface.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So is this kind of what you're looking for?",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Is you just want it to create the doc?",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Essentially?",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "think that is And then have it linked.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And do you, like, when you're doing editing, do you, have you been doing it in Google Docs?",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Or have you been doing it directly in Notion with that setup?",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I've been doing it in Google Docs.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "You haven't.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Most my customers, thankfully, are okay with Google Docs.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And I actually had one of my customers not okay with Notion.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Or Airtable.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "God.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It's so funny.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I feel like the no Slack, no Google Doc.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It's like I forget how to operate in that.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Well, there's that one customer that doesn't do Slack, right?",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Just email?",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "That would drive me crazy.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "That's the same customer.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, is this hyperexponential?",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yes, it's hyperexponential.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This is yours.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So, you're an angel.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay, let's see.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Is Notion on here?",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It wasn't on there.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I think when I was trying to set this up yesterday, I think their AI assistant was just like not working too.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, I couldn't tell if I was breaking, like it was just couldn't do the things I was asking.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, my assumption was I had to go in and do it through Zapier.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Then you would have to do it through Zapier, you're right.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So, I actually quite like, and what do you want to do?",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like, how are you going to, that's an interesting image to pop up.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Wait, what do I want to do?",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Sorry, I got distracted.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I think it's Teams, I think is the one that we have to pay to count for.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So, what do you want to do to create the notion?",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And Doc, do you want it to like pull from a Google Doc?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "That's a really good question.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Or you just want it for recording purposes?",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "What?",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think it's like, I think, can it pull from Airtable?",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like I'm trying to, although I guess if we're editing in Google Docs, it probably makes more sense for it to pull from Google Docs, actually.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I'm trying to like figure out how we can eliminate, because it seems crazy to have it, have like Airtable, and then we do our internal editing on Google Docs, and we have to move everything to Notion.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But I, maybe there's no way around that, that might just be what we have to I just, so when I had to do it, tools at GrowthX Labs, is that the one?",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Is it tools?",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I forgot which one I used to automate, but I have all of the things on here.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So you've just seen my password.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That's smart.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Luckily, my memory is not that good.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "If it's not written down, it's gone instantly.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Well, you have it on the Fathom recording.",
+            "timestamp": "00:07:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "ADHD has been strong recently.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay, so I do have it on one of the accounts where I have it set up.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So that you can just, like, you're not starting from zero.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It might be tools.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, God, what's happening here?",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Why are there so many things?",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, this is what I'm so that makes sense.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Maybe a Google Doc makes more sense because then it's, like, the content is still complicated enough that we're doing our edits in a Google Doc and not directly in Atlas.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So it might make more sense, I guess, for it to pull from the Google Doc into Notion then when we're ready to create the client-facing doc.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, that would make sense, I think.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "it.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So the way that you want to do this is you're going to have Airtable, have a watcher on Airtable so that every time you update a record, and this is up your filter, that filters for that specific status that you're looking for, and then to create an item in Notion, right?",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Then this is what you want?",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then, so I have the name here, the title, and then you can put in the content if you want.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But the way that I would set this up is that, let's edit this up, as soon as it creates, what's it called?",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "As soon as it senses or sees something, hears something, then you would want to create a doc.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Google Doc.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This was crazy yesterday when everything was down.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So I would just create a document in a specific folder.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I didn't",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I don't want to append text.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Sure, create document from text.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then I don't have a sign in.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So let's sign in, I guess.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It's been a while since I've used Zapier because Airtable has been actually really good.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I just didn't know it didn't get the notion.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And honestly, the AI assistant Airtable has been really good at helping build these two.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I've not used the AI assistant Airtable.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It was really good.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I should do that.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That is exciting to test.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So create document from text.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then usually I would put, so if it's going to be, it's going to be internal, right?",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, we'll start.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So the Google Doc would be internal and then the Notion Doc would be external.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "We basically move out of Google Doc once we're ready.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yes, of course it can copy and paste.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Um, and then it would be, eh, what is happening?",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Cause it's already here.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then I would just add in the name.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Internal and the name.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then now how do I exit you?",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then here's where you'd put in the markdown.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So whatever content you want.",
+            "timestamp": "00:10:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But because, so this is, you do this thing first, right?",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then I don't know why you would have to do that, but then, yeah, I think you would have to insert all the stuff that you want in here.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So the folder that you want formats, whatever.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then I think there is a way for you to, when you create this, like, so add in another listener here to filter for another change.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So if it goes into, I don't know, move to Notion or something, then this, instead of having it from text, create data.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Create data source item.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then what is happening?",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Um, configure.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So instead of having, yeah, the data.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This source here, you can select the Google Doc that you created.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Basically, it's not loading for me, but you can select the Google Doc that you created somewhere here.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then the content as well, you can use it from here.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This one.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So just use the text.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then I've not set it up.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But yeah, so the content, you can just use the text in here and that'll just port everything over into Notion.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then if you want like a record in Airtable, so what I have set up for LightSource, it's basically this is what's going to happen, is I have a separate table for internal and external drafts.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So what you can do is after this doc is created, link it back to Airtable and say, add it back into this column.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And I'll do that.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So create the Google Doc and then add the internal link to Airtable.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then when you move it to whatever the next status is, like Ready for Notion or whatever, or Ready for Review, create the Notion, append all the text.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "From the Google Doc, add the link to the Notion back into Airtable.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So that is something that you can do through Zapier.",
+            "timestamp": "00:12:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yes, that's how I work.",
+            "timestamp": "00:12:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So that this is all, so that it's all automated.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, it's just, it's a lot easier that way so that you don't have to go back and forth.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Can I ask you one question while we're in your Airtable too?",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I see you have the approval checkmark.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Have you, I've had, we tried to set that up, but I couldn't figure out like how to actually let the clients check.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It's like they weren't allowed to interact with that column.",
+            "timestamp": "00:12:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "In that way.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I couldn't figure out where the permissions were wrong.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Because they have editor, like they have editor ability.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So what happens is when, say you should, when you go to publish or when you go to launch the interface, click on the share button and you should be able to see like who has access and then go into it actually.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then this is probably not on editor.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It's probably still on commenter or view only.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So just, this is hyper exponential?",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "No, this was relay.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I thought I was being really smart and, like, creating less work for them, and then the box didn't work, so.",
+            "timestamp": "00:13:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, so I actually troubleshooted it on the call because it was like, oh, .",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, so we, like, tried to add a proof check and it just wasn't a.",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, you don't have an interface for Relay.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Or maybe I just don't have access to that interface, which is why I can't see it.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This is the Relay content OS, right?",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "This is what you're talking about.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes, yeah.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That's light source.",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Sydney, what is happening?",
+            "timestamp": "00:13:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "One more time.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, we didn't have interfaces set up on that.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I wasn't sure, is that something that most people are doing for.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "For client approvals, I think I inherited all these Airtables because I came in when they were partway through a strategy sprint.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, I think it's just me and Carrie, to be really honest.",
+            "timestamp": "00:14:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, but you guys seem to be the ones who are like conquering process.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I'd like to know what you're doing.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I know.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Carrie is, I'm not.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That's she says about you, though.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, okay, so you do have, okay, so you have the approved column here, but they don't have status or whatever, right?",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, it's like they can't check the checkbox.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, so what is happening here is that your permissions for, what would be?",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It would be for a, Dave.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "They're all on commenter.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So we're not actually allowed to, like you can, like ability-wise, can switch it to editor.",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But we're technically not allowed to do that.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Because they have to pay for the seat.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Because you have to pay for the seats, which is why we usually",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Usually put an interface in here.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, so if I add an interface, then that allows them to interact with it in that way instead?",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yes, and then you can.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And so what I have set up for LightSource is, God, so many back buttons.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So the way that I've shared this interface is I only share it for the interface.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "They have editor access, but only to this interface and not the base or not the data.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, and then we don't have to, they don't have to pay for their seat if we do it that way?",
+            "timestamp": "00:15:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yes, from my understanding and from what it says on the public air table page, what is this?",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, so they only have commenter position.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "They only have commenter permission on the actual data source, but on the interface, they do have editor status.",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And I just think it's just easier for them as well to just be able to see.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like if they want to see what articles are ready for their review, they can go into here and they can tell me immediately if they want it to revise or publish.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So it's a lot easier for us as well.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Just keep it all in one place.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, that's way easier.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, it is.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, that's great.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Now, the next step is for them to use it because they didn't watch the video I sent them on how to use it.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like I spent a good like 30 minutes just automating everything and setting everything up for them.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like it was easy because I've already set it up for different customers.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But yeah, we got on the call and they're like, so I don't know how to use this.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And I'm like, video, it's like two minutes.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I know, it's no way.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I know, I'm thinking, I feel like I'd like to put that for everyone, but I feel like for Hyper Exponential, I'm not even going to bother.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "There's like no way they're going to go in.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It's like they need everything pushed to be an email in their inbox to like interact with But they do Notion.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "They do Notion though, yeah.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I think if I can, I'm hoping if I can get stuff into Notion, then they'll actually kind of use it.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It's bad.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "bad.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "We'll see.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I find that a little bit weird.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "They do.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It seems weird to be, yeah, especially to be Notion users, but not use Black seems like crazy.",
+            "timestamp": "00:17:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, because Notion isn't, it's not the easiest interface to get used to.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It's not the simplest by any stretch.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "No, such a blank slate, which is what's amazing about it, but I feel like it's easy to get lost in there.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like, I love Notion.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But I also like nerding out about these kinds of tools, so, I mean.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But if I wasn't on email, I mean, if was on Slack.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "To not be on Slack, I feel like to be doing emails feels crazy, but.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, well, thank you.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "This was super helpful.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'm going to try to set this up.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Maybe I'll bring my questions to your automation.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I actually don't know what we're doing tomorrow to sync with Carrie because she just messaged me.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And she was like, you want to help me host this?",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I'm like, okay.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I thought we were going to like talk this week and plan.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then suddenly I got an invite to host a workshop and I'm like, oh, I guess we're doing it.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think if you just walk through the automations you've set up, like some of them, I didn't even know that they were possible or they existed.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So maybe everyone except me knows, but I feel like it's going to be even, it's going to be pretty helpful just to like know what you're doing and how you're using it and making all the tools talk to each other.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think especially for people who have just come in, because it's like starting and you're getting started on everything.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then to also have everything be manual, it's like you have to reinvent it all yourself.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That's fair.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That being said, setting up the automation does take some time and there is a learning curve.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I feel like it'll be great.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I'm excited.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "The other thing you may want to do, which just popped into my mind, is if you want to make it easier on your CMS to move statuses between each other, especially if you're going to set up the trigger for porting everything from a Google Doc into a Notion Doc.",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "What I have done is, again, to make this system as simple as humanly possible, is in the internal channel, I have it set up so that it just tells Tamara when something is ready.",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It has a link to the draft and a link to Airtable.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then if she clicks on the Airtable link, of course, sharing is paused because why would I not want to share my screen?",
+            "timestamp": "00:19:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "There it is.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It automatically opens an Airtable here so that she can just immediately move to ME review from the screen without having to look for the record in Airtable, without having to verify that she's sending over the right thing.",
+            "timestamp": "00:19:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, and that just, it also makes it easier for me because so I get the notification here that says, hey, this is ready for your review and then click Airtable here and I can just send it back to her as well.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And I have another automation set up.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think that's what I have set up because either you or Carrie told me.",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "about it.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It's great.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I really like it.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Which is awesome, but I think I should make a new column for the internal and external draft, like I'm realizing, so we don't risk getting the wrong thing sent to clients as well.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, I, yeah, this is super helpful.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "the hard way on that.",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I sent an internal draft and they're like, oh, we can't access it.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'm like, oops, sorry, wrong link.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "By design.",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I know, I know.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "With Hyper Exponential, it's like their, their keyword is like super, their content is super focused right now.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So it's like every keyword is like, feels like it's a slight variation of itself.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And right now, I'm trying to keep track of like, what's what article.",
+            "timestamp": "00:20:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I'm like, I'm just waiting for us to make some dumb mistake.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, well, I've made that mistake already.",
+            "timestamp": "00:20:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, you know, I probably have to.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "No, I'm pretty sure you're great.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Honestly, all the new, all the new Emmys and NCM seem very put.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And I'm like, hmm, my cohort was a little bit scattered.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like both you at Katya are doing amazing.",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Like I can't believe how just fast you've adjusted and started producing so much content and performing at such an amazing, amazing rate already.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, oh my God.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Well, it's nice to hear that.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It's a nose feel like that from the outside.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Katya keeps saying that too.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'm like, honestly, I just, you're an engine.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I don't know what, what, what else you can improve here.",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, there's space.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Well, you know, all of us have space, but yeah.",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Well, thank you for this.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'm going to take an, I'm going to attempt to build that myself.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then maybe I'll select you when I have a question because anything has gone wrong.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I'm sure nothing will go wrong.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But if you need the, what I had already set up before, just, it won't be exactly perfect.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It's in the tools, tools sign in.",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Arin Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "There should be in one password.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Tools.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And the tools sign in.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I'll try it.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'll try it from there.",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "See you.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:22:05"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Automate content workflow for a client who cannot use Google Docs.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=5.0)\n\n## Key Takeaways\n\n  - [**Automate the Airtable \u2192 Notion workflow using Zapier.** Airtable's native automation cannot write to Notion, making Zapier the necessary bridge.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=148.0)\n  - [**Use Airtable Interfaces for client approvals.** This enables clients to interact with the database without needing paid editor seats, which they cannot access.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=735.0)\n  - [**Create separate \"Internal Draft\" (Google Doc) and \"External Draft\" (Notion) links in Airtable.** This prevents sending clients the wrong version and is triggered by status changes.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1203.0)\n  - [**Set up a Slack notification with a direct Airtable link.** This allows the CMS to instantly update a record's status, streamlining the review handoff.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1126.0)\n\n## Topics\n\n### Problem: Disjointed Content Workflow\n\n  - [A client (Hyperexponential) cannot access Google Docs, forcing a manual, disorganized workflow across Notion, Teams, and Google Docs.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=5.0)\n  - [**Goal:** Create a single source of truth in Airtable by automating content creation and status updates in Notion.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=120.0)\n\n### Solution 1: Airtable \u2192 Notion Automation\n\n  - [**Tool:** Zapier, as Airtable's native automation cannot write to Notion.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=148.0)\n  - [**Workflow:**](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=480.0)\n    1.  [**Trigger:** An Airtable record's status changes (e.g., \"Ready for Notion\").](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=480.0)\n    2.  [**Action:** Zapier creates a new Notion page and populates it with content from the corresponding Google Doc.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=480.0)\n    3.  [**Action:** Zapier updates the original Airtable record with the link to the new Notion page.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=684.0)\n\n### Solution 2: Streamlined Client Approvals\n\n  - [**Problem:** Clients with \"Commenter\" permissions cannot interact with Airtable fields (e.g., check an \"Approved\" box). Upgrading them to \"Editor\" is not allowed, as it requires a paid seat.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=735.0)\n  - [**Solution:** Use an Airtable Interface.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=735.0)\n      - [**Mechanism:** Share an interface with \"Editor\" access, while the client's base permission remains \"Commenter.\"](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=909.0)\n      - [**Result:** The client can interact with the interface's fields without needing a paid seat.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=909.0)\n\n### Solution 3: Efficient Handoffs\n\n  - [**Problem:** Manually finding and updating records in Airtable for status changes is inefficient.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1126.0)\n  - [**Solution:** Use a Slack notification to streamline the handoff.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1126.0)\n      - [**Mechanism:** An automation sends a Slack message with a direct link to the Airtable record.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1126.0)\n      - [**Result:** The CMS can click the link and instantly update the status, eliminating the need to search for the record.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1126.0)\n\n## Next Steps\n\n  - [**Bailey:** Build the Airtable \u2192 Notion automation using Zapier.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1065.0)\n  - [**Bailey:** Create separate \"Internal Draft\" (Google Doc) and \"External Draft\" (Notion) link columns in Airtable.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1203.0)\n  - [**Bailey:** Set up a Slack notification with a direct Airtable link for status updates.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1126.0)\n  - [**Bailey:** Use the \"tools\" sign-in in 1Password to access Sydney's existing Zapier setup as a reference.](https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB?tab=summary&timestamp=1295.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Add Airtable columns for Internal Draft Link and External Draft Link",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:19:52",
+            "recording_playback_url": "https://fathom.video/calls/448924600?timestamp=1192.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Sydney Go",
+            "email": "sydney@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Sydney Arin Go"
+        },
+        {
+            "name": "Bailey Seybolt",
+            "email": "bailey@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Bailey Seybolt"
+        }
+    ],
+    "recorded_by": {
+        "name": "Bailey Seybolt",
+        "email": "bailey@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/YjsrodvPk8C4kvGtMTXxPfGc8XkWufBB",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

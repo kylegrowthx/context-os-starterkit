@@ -17,7 +17,7 @@ Knowledge base for GrowthX. Not a codebase — no app, no build step. The produc
 | `context/personal/` | Who Marcel is — user manual, psych profile | Working directly with Marcel |
 | `knowledge/` | Study guides, reference materials, AEO research | Deep research or learning tasks |
 | `pipeline/` | research/ → scratchpad/ → outputs/ (flows forward only) | Creating any deliverable |
-| `records/` | Transcripts, customers, downloads | Search only — never bulk-load |
+| `records/` | Transcripts, meetings, customers, downloads | Search only — never bulk-load |
 | `sources/` | People and sources indexes | Finding experts or references |
 | `prompts/` | Reusable prompt templates | Building AI workflows |
 
@@ -45,11 +45,19 @@ Cursor auto-discovers skills from `.cursor/skills/`. For Claude Code, reference 
 | GrowthX Writing | `.cursor/skills/growthx-writing/SKILL.md` | "Write", "draft", "edit", or "review" content |
 | File Naming | `.cursor/skills/file-naming/SKILL.md` | Creating or renaming files |
 | Post to Slack | `.cursor/skills/post-to-slack/SKILL.md` | "Post to Slack" / "Send a message to [channel]" |
-| Pull Meeting | `.cursor/skills/pull-meeting/SKILL.md` | "Pull meeting" / "Get transcript from Fireflies" |
+| Pull Meeting | `.cursor/skills/pull-meeting/SKILL.md` | "Pull meeting" / "Get transcript from Fireflies" — master orchestrator that chains enrich + link skills |
 | Research to Study Guide | `.cursor/skills/research-to-study-guide/SKILL.md` | "Research [topic]" / "Create a study guide" |
 | Contact Dossier | `.cursor/skills/contact-dossier/SKILL.md` | "Create a contact", "update contact", "save contact", "build a profile on [person]" |
-| Contact Dossier | `.cursor/skills/contact-dossier/SKILL.md` | "Create a contact", "update contact", "save contact", "build a profile on [person]" |
+| Competitor Brief | `.cursor/skills/competitor-brief/SKILL.md` | "Competitor brief" / "competitor analysis" / "competitive research" / "research [company] as a competitor" |
 | Update Notion Doc | `.cursor/skills/update-notion-doc/SKILL.md` | "Update Notion" / "Sync to Notion" |
+| Sync Meetings | `.cursor/skills/sync-meetings/SKILL.md` | "Sync meetings" / "Pull calendar" / "Log meetings" / "Meeting history" — also runs weekly on schedule |
+| Fathom Backup | `.cursor/skills/fathom-backup/SKILL.md` | "Backup fathom" / "Download fathom meetings" / "Continue fathom backup" / "Batch download" / "Get all meetings" |
+| Convert Fathom Transcript | `.cursor/skills/convert-fathom-transcript/SKILL.md` | "Convert fathom" / "Fathom to transcript" / "Import fathom meetings" / "Process fathom dump" |
+| Enrich Fathom Transcript | `.cursor/skills/enrich-fathom-transcript/SKILL.md` | "Enrich fathom transcript" / "Clean up fathom" / "Fix fathom speakers" / "Production-ready fathom transcript" |
+| Enrich Fireflies Transcript | `.cursor/skills/enrich-fireflies-transcript/SKILL.md` | "Enrich fireflies transcript" / "Clean up fireflies" / "Fix fireflies transcript" / "Production-ready transcript" |
+| Link Transcript Records | `.cursor/skills/link-transcript-records/SKILL.md` | "Link transcript" / "Update meeting record" / "Sync transcript contacts" / "Link contacts to transcript" / "Post-process transcript" |
+| Scrape Website | `.cursor/skills/scrape-website/SKILL.md` | "Scrape website" / "scrape site" / "download website" / "crawl site" / "convert website to markdown" / "site to markdown" / "archive website" / "pull all pages from" |
+| Scrape Website | `.cursor/skills/scrape-website/SKILL.md` | "Scrape website" / "scrape site" / "download website" / "crawl site" / "convert website to markdown" / "site to markdown" / "archive website" / "pull all pages from" |
 
 These are cross-cutting skills shared across all workspaces. Operational GTM skills (HubSpot, Ordinal, AEO prompts) live in gtm-brain/.cursor/skills/.
 
@@ -58,12 +66,7 @@ These are cross-cutting skills shared across all workspaces. Operational GTM ski
 | Rule | Trigger |
 |------|---------|
 | Contact–Transcript Linking | After processing any transcript, update related contact dossiers and cross-link between `records/contacts/` and `records/transcripts/`. See `.cursor/rules/contact-transcript-linking.mdc` for full spec. |
-
-## Rules
-
-| Rule | Trigger |
-|------|---------|
-| Contact–Transcript Linking | After processing any transcript, update related contact dossiers and cross-link between `records/contacts/` and `records/transcripts/`. See `.cursor/rules/contact-transcript-linking.mdc` for full spec. |
+| Skill Registry Sync | After creating, renaming, or deleting a skill in `.cursor/skills/`, update the skills table in **both** `CLAUDE.md` and `AGENTS.md`. See `.cursor/rules/skill-registry-sync.mdc` for full spec. |
 
 ## Universal Rules
 

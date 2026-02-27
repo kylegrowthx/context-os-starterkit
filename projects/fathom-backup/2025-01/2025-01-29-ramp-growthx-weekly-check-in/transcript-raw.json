@@ -1,0 +1,2276 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "It's so we went for a bike ride, but also wanted to have our stuff ready and everybody using so I can't glad yet today we were able to fix some of the issues as well.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "That's great, that's great.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I did have some questions and ideas about the refresher workflow just before I'm done.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "the idea is that we have different types of refreshes, right, so I think right now the refreshes the way it's built, it's built for articles that are already doing well and just need a little enhancement, right.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But the thing is when we usually refresh articles for SEO, we have these different buckets.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We also have articles for example that has zero traffic that are not doing anything whatsoever.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So those are basically rewrites, but they kind of need like basically that's a real electron scratch, but they still need",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "that SEO research and everything, right?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I think using one flow for each thing might be just an overuse of resources.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But yeah, just have some ideas about that.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, I can show you how behind the scenes how we could adapt to that.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Hey, everyone.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "How's Hello.",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Hello.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "Nice to meet you all.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "He's finally.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, is Daniel.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "He's our CTO.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "He's joined the call, like I said, just to show what's going on behind the scenes with our refresher flows and some of the more technical stuff that I wasn't able to explain to Victoria.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that's basically it.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Are we waiting for Luke?",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "know Abby said she won't be joining.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Oh, there he is.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "OK.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There he is.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Oh, I think one thing is like I have a hard stop but I don't know if you saw that.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "for another meeting.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So maybe I could just start with the refresher, explain everything, and then you take over from there.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Sure, yeah, go ahead.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Ooh, if I'm showing my screen, then we changed a lot of things actually this weekend.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So what I'm showing now, it's an improvement what we were already using before.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So let me share my screen and then give you, and you can ask questions.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I'm going to put the screen to the side here, but I can still see what the error is coming there.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But the main thing that we do, like the refresher now, it's very similar to our, has always been very similar to our main article generation that starts with a researcher.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But the refresher has some steps in between where you can input what kind of refresh you want to do.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like in this case, I'm starting with this URL from RAM, this article.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "from you all, and then we have the topic of the article, the company name in this case, and whatever I want to pass for context, additional context, and then we run a basic SEO check that will double check the primary keywords of the article, keywords, and the search volume, and some other metrics that will like organic keywords like this, it's nothing, nothing super fancy here, it's just a regular call to sem rush, and then we also do a page SEO analysis using data for SEO, so we combine both, and then return the result.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So this is, we can pull more data if we want, if there's anything that you want more information, we can pull from here, and then the refresher really starts here, so we have a researcher, and the researcher the way it works now, like we changed this quite a bit last week, so before it was, it would trigger a few calls to something that's",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "similar to perplexity and a guy called u.con and we would combine the results store in the database and write an article from there.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And the refresher, we basically write a new article from scratch.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we use that article to try to merge with the existing triple.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we, we pull the existing article, clean it up, remove all the sidebar, the header, all that stuff, get a clean version of that existing article that you have.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then we write a new article from scratch.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then we have a bunch of instructions that you can control to say, like, I just want to pull in more statistics.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So I want to write a new intro.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I want to update this, this data from 2020, 2020, 2025, based on the research that we do.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And the researcher, that's the thing that I think we can control quite a bit.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like, especially for the refresher.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So if you have an article that's talking about something like a bunch of examples of something.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Something that happened where some kinds of expenses and things are changing a little bit, but you have an IP of how it's going to refresh, what kind of data you want to add.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You can basically come here and say this is actually the sheet.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We have a, it's actually missing a column, but we have a column that we can add for research guidance.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So the research guidance can be anything you want, so essentially it's the goal of the research.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So if you want to research specific kinds of questions, you can add in research guidance and that will be an input to the researcher.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then the researcher, what happens behind the scenes is this.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we'll do the job of doing something that a human would have to spend hours doing.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So before we break down the goal that you said, so if you came up with like, I don't know, maybe five questions or you have like a paragraph describing what you want to research, it will come up.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We'll turn that into like five",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "six questions for u.con and we're going to run all six and then extract the sources that were used for you to write that answer.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We don't use the answer from from u.con.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We expect the sources that they used to write the answer and we scrape everything.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we scrape all the sources.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "like in the case of, let me see this one, it's probably open here.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You can see all the, this one I didn't run but like I have this one here that has a researcher and we would go through all the sources.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like in this case you see like my goal here was I need to write an in-depth article about this topic and whatever I, in this case I just came up with the government because I didn't give a research guidance but after that we'll go and scrape all the sources.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have five questions here that were created from that goal and for each one it was pulling URLs and scraping the URLs and putting them in the database and then we use those",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "chunks of the the articles that were scraped to generate the final article to generate actually a for a refresher research sheet so that in this case here let me go back and like let me know if you want me to explain something further or to if something's not clear but the researcher finishes and then we get this we get the refresher refresher sheet with a bunch of topics like this one is a very basic one that was just running for tests but if I actually define the guidance I can have a very long set of facts in effect of URLs or statements or things that we can use for the next step so the next step is refresh instructions this one is empty but refresh instructions what we support now are things like this let me show you real quick the refresher instructions by default are these so",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "and update our data information with the refresher sheet, things like statistics and data, industry trends, expand the content, new sections, and deepen existing points.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But it can be anything.",
+            "timestamp": "00:08:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like you could say, update the conclusion, as long as the data is in the refresher sheet, and that we did the research properly, and we put the right parameters.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And so this will generate another set.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have, after that, will run that refresher sheet with those instructions with, like an expensive model.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "run it all one, which is like slower, but we'll try to merge the two articles based on those instructions.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then from there is the same steps that we have from the other, or other part of the generation we have, that we can do like internal linking, we can do all those steps.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "that make Did I go too far?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "No, this is super helpful.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "And then, have you ever seen success in like giving for the five questions or whatever, that was the result of the researcher step?",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Like, have you seen success in mixing input from non-researcher, like us, into that?",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Is that like another area we should like try to focus feedback on?",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "That would work 100%.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, like, that's another thing we could do here that I think would be like even better results.",
+            "timestamp": "00:09:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, in this case, I didn't run with the new refresher.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, this refresher sheet here is not what we're going to get now.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, we're going to get a one that's like a lot easier.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, you could come here and delete everything if you want or like, write whatever you want as the fact sheet that will be used to update the new article.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You could extend this.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You could do your own research on the perplexity or from your internal documents or whatever you want.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And you can add all here and you can double down that.",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And you can hear in the refresh instructions you say, you can say, I want to do this with that data, know?",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So then it will follow like very close.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So it's all about the kind of like giving the right input in the research guidance, updating the research sheet and giving the right inputs for the refresh instruction.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "And then, yeah, I think that covers a lot of feedback around like structure and it's like outline for like voice and tone and all that, like when is that coming into play?",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "like, are we giving the right format of like feedback?",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Yeah, the voice and tone is something that we work at the end.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So that's where the.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "article becomes, the article processing is more similar to the normal one, so we have at the end, we have a post-processing phase.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we can, the post-processing does both, like an SEO validation and do some checking on tone.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "we can turn off the SEO validation if you think you don't need, because it's already an existing article.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So there's an option to turn that off, and I think basically it doesn't have that on the columns.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "There's like, essentially, fast and false to SEO check, and the styling of the writing is like, it's super important to get it right.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So that's the thing that I think we can work together get it right.",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like, for example, this one, it's not a, this is just an example one that we use for demos.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But if you know exactly what kind of writing you want, we can tune this to be precisely, to be better.",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like, essentially,",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "The best way to get the right results for the writing style is to get a bunch of quotes of like and when to use those quotes, like if you're explaining something, here's an example, if we were talking about an introduction here's example, so we can put that together, and that would work for both the article generation and the refresher, so it's worth us spending some time on the polish instructions for the after processing, if that makes sense.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So just to add a little more complex look, a lot of the feedback that Victoria gave us in this round for the tuning articles was in terms of tone, how to follow the style guide, etc.",
+            "timestamp": "00:12:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That is something that we added within the feedback grid that Daniel just showed, so we can modify it at that stage as well, so it's really something that can be added as an input at any point, and we can literally tell the flow like, okay, rewrite it according to these guidelines, and that's basically how the tuning articles came about, and that's why initially we saw",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "to say like one article for feedback.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We don't do a lot with it.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We essentially use that to calibrate what sort of inputs we want to give at each set of those folks.",
+            "timestamp": "00:13:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that's kind of the process and that's why we do one first and then we deliver the rest.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Anyone else have any questions?",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "one question I have I guess on that part you explained about the rewrite and one thing I noticed is the some of the sections remain similar to the original article and then we introduce new sections that cover similar topic but in a different angle.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "So for example in one section we have benefits of X, Y, and Z and in the following section that we introduced it's why doing",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "x, y, and z.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "So it's a different angle, but still covering the same topic.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "So maybe that's something we can play with, or that initial step, or what would be the best way to address this?",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "Yeah, like that ideally would be on the both ends.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like in the beginning, in the refreshing directions, we can say something like the kinds of sections we want to add, and the kind of we don't want similar sections, or if we want to extend that has to be on this exactly h2, so add an h3, you know, or add a 2h3, you can control it like that granular level, or you can just say, don't add content that's similar, and we can do that on that big first step, and we can also do it the final step, we can do on the feedback column that we're talking about.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So feedback column is essentially, if you would open this in a notion document, and you can select the chunks of the article, so we could select a section that",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "have the sort of like some sort of like a duplication, essentially, and ask, merge this and make them more streamlined or more cohesive, know?",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we can do that at chunks.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So that's something that a lot of our editors didn't know that we had support for that already, but we are leveraging that more.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So the last couple of weeks, we made that a lot better, and now you can actually control a paragraph level and you can pass a bunch of feedback.",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like for the refresh idea, we do both ends.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "The history before, and refresh instructions, actually, refresh instructions, and then add a feedback level afterwards.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "So how much of the art do we have an idea of how much we are rewriting at least for this batch versus small adjustments to improve?",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "So I can answer that.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That really depends on the article's current performance and",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "how based on the research that we do, how much of the current article, what percentage of it already sort of is competitive enough to sort of rank height based on the research.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if there's a huge gap between the current article and the research, a lot of it gets rewritten, but if the current article addresses a lot of the topics that we're already seeing based on the research, not a lot is changed, perhaps the statistics will be changed, they'll be updated a little bit.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "For this particular batch though, I will say, aside from the first one, which was growth versus net profit, the rest of them, there were substantial rewrites because some of the content was either not as comprehensive as what we found online based on the research.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So you will see generally for this batch, generally longer articles and more sections like diving deeper into the topic.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think, Victoria, you had a question, just a final one, Daniel, before you pop up, we can add a question, RAM uses internal tools, Leoscope, etc, which does an SEO analysis.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If you could talk a little bit more about the SEO tracker and how that compares to those tools, kind of how that does the same job of validating SEO reliability and all that.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, so like, that's something that we've been actually updating in the past couple of weeks, and we want to add even more.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, like, right now, the steps, I can actually show real quick a couple of steps that we do, and we can, like, we want to improve this.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, if you have things that you think are performing better, let us know, because I want to, we want to really improve all the API calls we do here and make it a lot better.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, we don't have to use any other tool, and the flow will do everything.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, we have, so the two APIs we have access that we use is quite a bit, and this flow will be.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "broken links or slow resources loading and things like that and then we combine both things.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We don't surface everything here so here we only surface the primary keyword so the first keyword that came back from that call to SEMrush and we surface the I think is like four or five secondary keywords and the total search volume but all the data is available so if there is anything that the team thinks is important to raise to this level here we can do that.",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Does that answer the question?",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yes that's helpful thank you And like we are just to report that we've been like all the way to this point we are kind of limited to the extent of what kind of sophistication we could add because our ops is not a programming environment but with this",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "migrating a lot of our harder workflows to our own infrastructure stuff like the researcher now for example we run 30 scrapes at once in parallel and everything is done in one minute so that's why I was saying like we can move the SEO checker to our own infrastructure that's the plan already and if we want to use a bunch more APIs if you have like things that you want to check if you want to go on just your analysis or if you use another tool like let me know we can probably integrate that into the whole system and surface that here and use that in the process so like now we can do things a lot more advanced than we were doing before without slowing down the writing process like before we are sometimes hitting like 30 minutes to write the full article this is just how slow some of the the two links we're using more but now it's like one minute you know so we can add more that that makes sense anything you're using internally anything that's part of the process that you think it's important for SEO for RAM let us know and we'll figure out where to to add that in the process",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "Yeah, I actually tested the first one I ran through clear scope, and this core was good.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "So I'm curious to see how the other ones will compare, and I'll let you guys know.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "And then we can go from there too.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:21:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "got to go.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "That's pretty sure, but it was nice to meet everybody, and yeah, if you have any other questions or feedback, let us know and we'll figure out.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Thank you, Daniel.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Nice to meet you and thank you for explaining.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Victoria Naef",
+                "matched_calendar_invitee_email": "victoria.naef@ramp.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Bye bye.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I guess I'll run through the agenda.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So we sent this out before and just generally running through the performance real quick.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "block pages, again, just like last week, it's kind of holding steady.",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We hope that the tuning pages as we can scale that up that.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "have an impact.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The per diem pages are increasing, the clicks stay relatively the same.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Generally, we're seeing the North Carolina Texas, Louisiana are the two performers, top performers, and that's been generally holding steady even as we did January.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The expense category pages are where the highest jump is in terms of impressions and clicks.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "A lot of this, of course, was driven by the pages, the bulk pages that we released around Jan 15.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We're still looking at it on a monthly basis.",
+            "timestamp": "00:22:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I've linked to the spreadsheet over here, which just shows the delta between, you know, before and after.",
+            "timestamp": "00:22:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This is still on a monthly basis, and it's not on a biweekly basis because we've not had actually two full weeks to sort of compare it.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the next week, we'll be able to look at it and just divide it cleanly between the weeks and see exactly which pages are",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "benefited from the republish and how those trends are going.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Generally speaking though, we're seeing the page-related with gifts and clothing bar employees.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "These are the top performers.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There's been a huge spike in office cleaning for some reason.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That's been the highest driver of impressions, but very low CTR mainly because a lot of the searches are around office cleaning near me, office cleaning supplies and that kind of stuff, which is obviously not the target sort of intent.",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Tasks and products, this end was working on the vendor pages, scheduled to be delivered by tomorrow.",
+            "timestamp": "00:23:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I do think there were some changes in the way that data was presented.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think we had a couple of rounds of feedback over there, and that's why we're sort of having to rework it a little bit and sort of rewrite those particular sections.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The e-turing",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "articles I sent them over today so do let us know how that goes and that's the that's the progress so for any questions I can answer before we move on to the next.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Oh good from my end.",
+            "timestamp": "00:24:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Yeah I was just helping to talk about the treasury topics.",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Yeah that's there's nothing else.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Okay yeah I I'll just share for a second if that's okay.",
+            "timestamp": "00:24:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "I'm not set up to share.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Okay I think I can just share it.",
+            "timestamp": "00:24:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Okay got it.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "So I was just looking at some of topics first question do you have the keyword research around the ones that you listed yet or is it just like.",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "brainstorming for now.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "These are largely brainstorming.",
+            "timestamp": "00:25:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "were going to dive deeper in after this discussion.",
+            "timestamp": "00:25:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Yeah, I just took a look and like for this one, what I was seeing was like there's some search volume around small business treasury management.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "I don't know about other like company size ones, tools for target persona.",
+            "timestamp": "00:25:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "I think that with some of these there might be just a larger topic that covers it like just a general best treasury tools, best treasury software.",
+            "timestamp": "00:25:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "So I just want to see if there's any search volume around them like specifically for CFOs because I found some pages that exist when I searched that but they don't",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "of any traffic that appears in H-refs at least.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "So just helping that we can get some, like, if these are ideas that you're going to finalize, like if you have any keyword with the search volume.",
+            "timestamp": "00:26:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "And then for these two, Luke, I wanted to take your take, like, do we think IRS form viling and like these specific forms around like business interest.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "It's kind of like a tax compliance thing.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "So would that be more like accounting?",
+            "timestamp": "00:26:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Yeah, that we should investigate.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Definitely, I don't know, the treasury sense doesn't, so like, treasury CTA might not be the best one there.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "We might want to do something more around work reconciliation or like even expense management.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "I think that one might be standalone, but I think there's a lot of opportunity there.",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "And like, we don't necessarily help.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "with filing.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "So that's why we haven't prioritized it in the past.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "But I think like preparing filing is where we really help in our treasury product will not cope with it.",
+            "timestamp": "00:27:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just I did have a follow-up question about the treasury.",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "One of the things that was kind of throwing off the research initially when we were brainstorming is that the product as is presented on your page, and again this is just based on what we saw on the landing page.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It looks like the savings account for businesses.",
+            "timestamp": "00:27:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But treasury is something else and it has when you search for treasury and you search for like treasury application and software and all this, there's a lot of institutional finance applicability that goes into it.",
+            "timestamp": "00:27:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "For example, a corporate trader is managing ethics inflows and outflows.",
+            "timestamp": "00:27:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Obviously that doesn't apply to RAM.",
+            "timestamp": "00:27:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I think that's why some of these searches are bit more geared towards not exactly your persona.",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We were wondering if could send us a little more details about the product that will help flesh things out bit more and we can dive deeper into some of that.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Sure, yeah, there's that good explainer that we have that I can send.",
+            "timestamp": "00:28:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "I'll find that later.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Yeah, we have a lot of details on the product.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "You are right though, it is mostly a cash movement type function.",
+            "timestamp": "00:28:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "It's not a full flesh treasury product.",
+            "timestamp": "00:28:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Okay, so in that case, would it make sense to go off for like, I don't know, business savings accounts or something like that?",
+            "timestamp": "00:28:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "would be, yeah, that's something, we only have couple minutes, but just talk about that.",
+            "timestamp": "00:28:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "I was looking at like different banks, business savings accounts, rates.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "The only thing is like, for a lot of these, if I",
+            "timestamp": "00:28:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "through the SERP for this is going to look like all Chase pages.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "There's nothing like just answering that question.",
+            "timestamp": "00:29:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Like sometimes with the search like this you will get like a Quora or forum post or like Wallet Hub or something.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "But for this like I'm just seeing the listicles of like best savings accounts and Chase pages.",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "And then for others that have like much lower search volume, there's like there's nothing that's coming up here.",
+            "timestamp": "00:29:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "So I think I want to search it looking like just Wells Fargo pages again.",
+            "timestamp": "00:29:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "So I am curious, I don't know Luke, what do you think?",
+            "timestamp": "00:29:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "do we think there's potential here?",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "If this like there's search volume for this specifically that it doesn't look like these article types really exist.",
+            "timestamp": "00:29:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "I mean that could be a good opportunity.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "think like yeah, I think this is where if",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "You all think you can you know Actually get the information around these even if it just goes into a single tool but Yes, that is something we were hoping to like get the information for all of these anyway so that we can put it into some kind of comparison table and that would be Like there's searches around that comparing rates.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "So if we can't do individual articles Being able to just have all the rates would still be good.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Do you think that's something that you guys would be able to help with?",
+            "timestamp": "00:30:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "We'll we'll look into it for sure.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It sounds like we'll have to scrape a bunch of pages and get that in so Yeah, I oh, sorry I'm just gonna say like I could provide a list of the specific accounts The bank the bank names",
+            "timestamp": "00:30:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "basically, right?",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "then, yeah, yeah, that would help.",
+            "timestamp": "00:31:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We can we can explore that.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We don't have a dedicated flow for it, but I think I can speak to Daniel and we can see if we can get something up.",
+            "timestamp": "00:31:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Send over this list.",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Yeah, if not, I think like, I mean, those like those topics that you suggested are solid, I just don't know if there's like a wide, like as Ali said, if there's like a wide programmatic play there, um, unless like volumes are very high and like surfs are very distinct for like, by industry or title, we see that, um, like that cannibalization hurts other posts or like other URLs within the topic.",
+            "timestamp": "00:31:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "So we're a little, we tried to with cards, you guys, you guys did it.",
+            "timestamp": "00:31:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "With the industry stuff, we, we did see that like, not necessarily hurt, but like, definitely confuse Google bit, um, we're early.",
+            "timestamp": "00:31:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "stuff that like wasn't, it wasn't strong enough, but otherwise those topics are really good and actually up to you if you want to have growth x just to go take a shot at those.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ali Mercieca (3)",
+                "matched_calendar_invitee_email": "amercieca@ramp.com"
+            },
+            "text": "Yeah, I think once we just see like if you can provide some like search terms those and then we'll look at the volume and see if they're distinct topics.",
+            "timestamp": "00:32:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:32:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "But yeah, the, I think like we we're like adding to our scraping like technology quite a bit.",
+            "timestamp": "00:32:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "But I think like there's a lot of potential if we're able to like start with a very value add data set around rates and like the whole company will start to use it.",
+            "timestamp": "00:32:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "And that's, that's what we're hoping to move towards providing a lot of this year.",
+            "timestamp": "00:32:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "So yeah, curious to hear what'all there.",
+            "timestamp": "00:32:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Yeah, sounds good.",
+            "timestamp": "00:32:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, if you could send us the.",
+            "timestamp": "00:32:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "a lot of details and the list of banks and then we'll also dive deeper into the search volumes or what we suggested and yeah it was just an initial brainstorm list because we didn't because you've mentioned you had something so we don't want to duplicate anything but yeah we'll get that out yeah is it fine to send those high spot pages okay also not and I'll send you a list of my like keywords around banks and go from there awesome great this was helpful um and one last question like for that like extremely complicated uh air ops workflow is that something growth x would like share with us we're like starting to use air ops a bit more for like some internal workflows and like we're just like curious like even just from a configuration standpoint like best practices and stuff is that something like y'all would commonly like share I know that's like essentially your product but um I can check with Daniel and",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But I think in terms of setting up best practices and everything, we can definitely set up a call.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Just more examples, even if it's not a production workflow, some of that grid-based, step-based workflow calling, we're trying to do more of.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Let me know if you guys want more.",
+            "timestamp": "00:34:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:34:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'll go up and get back to you.",
+            "timestamp": "00:34:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Daniel's more than willing to share stuff.",
+            "timestamp": "00:34:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "He loves it.",
+            "timestamp": "00:34:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:34:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Luke Tubinis",
+                "matched_calendar_invitee_email": "ltubinis@ramp.com"
+            },
+            "text": "Thanks, Sean.",
+            "timestamp": "00:34:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thanks, everyone.",
+            "timestamp": "00:34:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:34:37"
+        }
+    ]
+}

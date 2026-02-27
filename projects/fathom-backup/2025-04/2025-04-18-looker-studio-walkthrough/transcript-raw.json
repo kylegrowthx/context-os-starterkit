@@ -1,0 +1,340 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Hey, team, so I just wanted to show you how this recording dashboard works really quickly.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So this is the library studio dashboard, and this is all our growth and performance with depression, click, CDR, average, whatever.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So what I've done here is, sorry, the window in my using.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So what I've done here is, I've set up formulas in this page to pull from data that I get from Google search console.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "data is also Google search console, Google analytics, and Google analytics data.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Back data currently is from Ahrefs, so it's not as accurate as I'd like it to be, but I'm working on figuring that out.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But anyway, so here what I've done is, impressions clicks and click theory, we'll go to",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Google search console data, then the way that I pull this is I go to search, make sure this one, tools, extensions, search analytics sheets, are you open sidebar?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then basically I do a third console request.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So this is strappy, and then change up the dates, whatever I'm not going to do at this time, just in case.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then what I'm going to do is group dimensions by page and query.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then I added a filter.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So want it to have blog, then I added a query filter.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Sorry, let me just copy and paste.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And this one does not want to remove all branded keywords.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Clary doesn't match.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This one contains.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then I ask it to replace keyword data because the sheet I set up for it.",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So that it should retrieve all of it.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then all of this information should now feed the master report.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So for example here, this, the full URL you can find it here.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Where is it?",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So this ranking at number 86 and I have it set up so that it pulls the one we're ranking the highest for per URL.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So this one for example, that one's the same.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So and then I do it for all of the sheets.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "impressions, CTR, average position, all come from this sheet, clicks and press CTR position, pages and organic pages from Google Analytics, views, then organic.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I have it set up so that it filters for the session medium, position, keyword position is from, oh no, it's wrong, it's a total keyword.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So this is from HRX, and it's not super accurate as well, which is why it's all blank for now, because I'm still trying to figure that out, top keyword position, and then I have a weekly data report that it basically sums all of the data in here as soon as the date to date is past, the date to date is past a week from the date in here.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So here I'm still editing these, so as you'll see, and then every time the week is over, I just say the week is, every Monday basically, I just copy.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "copy the values in here, and then paste it as a value instead of a formula so that doesn't change and it stays static, and then it shows up in looker looking like this basically.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Sorry, not that.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It shows up in looker looking like this.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I've not updated this.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "updating these term branded keywords, which is why these aren't done yet.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "then, yeah, so it should end up looking like this, basically.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This is set so that it pulls data from the sheet.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "If the published date of an article is within the week, then it'll show up within last week, it'll show up here, it's set up for Monday to Sunday, week on week performance, and all of this as well.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Impressions clicks, all of this come from the weekly sheet.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This one comes from the month, the master report, and this also comes from the master report.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "basically, our customers can scroll through all of their articles, publish, and then all of the stats that we pulled for them.",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And this is on a week by week basis as well.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Hope that helps.",
+            "timestamp": "00:04:56"
+        }
+    ]
+}

@@ -1,0 +1,3927 @@
+{
+    "title": "GrowthX Feedback Deep Dive (Cody Carmen & Matt Turner)",
+    "meeting_title": "GrowthX Feedback Deep Dive (Cody Carmen & Matt Turner)",
+    "url": "https://fathom.video/calls/334780063",
+    "created_at": "2025-06-25T20:10:27Z",
+    "scheduled_start_time": "2025-06-25T19:30:00Z",
+    "scheduled_end_time": "2025-06-25T19:55:00Z",
+    "recording_id": 70563409,
+    "recording_start_time": "2025-06-25T19:31:33Z",
+    "recording_end_time": "2025-06-25T20:10:12Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Operations of our delivery team, thinking about our progress against deliverables, performance generally with our partners, and starting to think about how we might improve that or change things going forward and really setting clear strategy, especially because now, and if we have time at the end of the call, I can show you, we've moved over to our new internal platform to run our workflows on our own code base.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And like our own workflow base.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we can do a little sneak peek of that if you haven't seen it yet.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But really, these are like, feedback calls for anything and everything that has like been bugging you that you want to change, like, this will help us set direction going forward.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I'll like take it back to the team and we'll take these things into account.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So I know very little.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "About like the background of the partnership.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So I'd love to like just take a step back, understand how you came to GrowthX and goals for the business and the partnership when we got started.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Matt, want to tackle that one.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I think that's my territory.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So nice to meet you.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Good to hear that you guys are starting to do this kind of best practices.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We knew you when, so long ago.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "November, just November of last year.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "When Marcel was juggling on a unicycle going downhill, it was great.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That is actually a little bit of our perspective.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So let's see.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "November, 2024, I think is when we first literally just engaged.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We got a reference from somebody.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So Marcel had started this with three or four customers, very much a handful.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Um, and Matash, who's not on this call, who's, who's.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Overall VP of product marketing had a connection that said, you should look at this.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And what was on our minds at the time was we know we're going to be lean in marketing.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We knew there's just signs on the walls all over the place.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "In fact, everywhere saying AI, AI, but it wasn't AI.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It's just the fact that the reality is you need to be much more lean.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we were very frustrated with our ability to scale out content creation with sort of a more traditional route.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So Prophecy had invested in sort of a contract writer, SEO optimization, taking a theme.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And you can actually see it in the data, like taking a few things and really pushing on them.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we were getting organic traffic, but it wasn't going fast enough.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It wasn't keeping up with topics.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So then we just went into we're going to get the most critical things out for our field.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So we had almost, not almost none, but there was a phase of no organic traffic.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We had to ramp that back up, but we didn't want to go back into the relatively manual.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Effectively, our feeling was we're ending up rewriting everything that's happening, but it's happening at way too slow a pace.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we know we want to leap into the world of AI generation.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So I actually had done, I actually poked into, I'm going to get all the different tools and stuff, but Aerofs or these kind of generation tool sets.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "that's sort of proving it out on my own and be like, okay, I could see that that might work.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And in parallel, we were talking to Marcel who said, yeah, that's Bones, but what I'm doing is I'm building a whole new kind of company on top of that.",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And that was very attractive to us.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Probably before, you know, we were like, oh, are we ready?",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We were ready.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we actually made the decision to just leap in with you guys.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I believe our kickoff was something like December 1st of 2024 and just leap in and get going.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Even though, you know, we had lots and lots of questions.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so that's kind of the perspective of where we got to.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "personal preference, knowing that this we needed to change, thinking about this way of creating content and our overall, and I could share actually, this is really, we did a little deck that I shared with you guys, justifying this, saying, you know, like, hey, what does it mean?",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And it was all about the process.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It was all about the fact that this is going to streamline the process.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It wasn't actually like it was going to be less end work, and it is turning out to be much less end work.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But we expected that we'd have to review and edit a lot of content.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It was a process up front.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "What are we right about?",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "How can we reduce friction on new ideas?",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "How can we generate new ideas?",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we were very like, it was a totally manual one-off process to get anything off the ground.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so we were really attracted to the idea of, you know, structuring that, automating that, and then",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You know, kind of, we can talk about results, but I think that we pretty much not only proved about the process, but also gotten into the, so I kind of look at the diagrams, they're all set up, like, what are you going to write about?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then actually writing and editing.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And, and we've kind of now covered both, but our actual focus was on this reduced friction to get ideas, even just into a draft.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, yeah, totally.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So that was early.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It went, it went, it's been going crazy since then.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But yeah, that's the, that's the background.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I don't know if that would be helpful to you.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I, there's a pun.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Unfortunately, we probably shared too much, but yeah, if you want to dive into history, I can show you the stuff we prepared in December.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "No, I mean, I would love to see that.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That sounds amazing.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I am curious.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Wait, you had said something.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh, so you said you had like lots and lots of questions when you got started.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So like, what were your expectations getting going?",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And yeah.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Right.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So does, is volume going to just mean.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Unnecessary, or is volume the really, first of all, what's the right way to go?",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Because, I mean, Marcel came in, and we were understanding this, and he was giving some examples of people publishing, I don't even know, really kind of sounding crazy to us numbers, 40, 50 blogs of articles a week or something like this.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we were at the point of doing one or two, maybe three a month.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So we had a lot of questions about volume in terms of quality, in terms of what we were saying.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then we had a lot of questions about this, the theory of this.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Is this really going to result in us generating more ideas, or will it end up just piling into, oh, we have to go fix everything, we have to go fix everything.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So I think those are probably our biggest questions was, what really is the right approach?",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Which, particularly just the volume idea was kind of scary for us.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then...",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And yeah, the reality of what was going to, what was it going to take on our side?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You can imagine if we're looking at that and we're thinking, well, we're not going to scale up and we didn't, Cody joined us much, much later.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You know, how would we ever know what's in 40 articles a week?",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And, and, and that's actually a little bit of the story.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We ended up publishing our first article sometime mid January and we started, we actually slowed everything down and look, we're going to do two or three.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We're not at, we're like six or seven.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And it's, it's more kind of appropriate for our, our scale, but, um, not knowing that it was, it was interesting to see whether we were going to be able to keep up.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "was like, if you generate, you know, 40 or 20 articles, how are we ever going to review them?",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, and so how's the rest of that proven out?",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So I guess like the question of what is the right way to go?",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Well, I mean, I can kind of hand, I mean, I'm going to, I'll take it to a midpoint and then Cody can kind of take over.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Um, we.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Definitely normalized into, it's okay to go a little slower.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We've always had a little bit of trouble really understanding the target and the topic generation.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So what are we talking about?",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Where are we getting to?",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "There's a lot of fluctuation on that.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we actually added a step.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We got to a point where there were like 100 topics.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And we weren't really able to.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So we're like, okay, can you.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then they got categories.",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And the categories still weren't fixed.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So we kind of said, okay, guys, before you go, you guys whittle that down.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But now we actually added a whole step where we look at, on a regular basis, something like 15 topics.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then give the go ahead to write it.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And I think that that's been one of the biggest learning is going upstream in the process.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So that we can, you know, get the volume, but actually take care of, you know, catch things faster.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So I think that was probably a big learning.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "you.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then the, you know, refining them and learning how to edit them, but also just the teams being able to ramp up and create things that didn't need a lot of guidance.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You know, somewhere in the first few weeks were pretty rough, both the output and the topics.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Then there was a period where we were like, okay, these are just the wrong miracles.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So you guys are generating the wrong things.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Right.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then we kind of normalized where, when Cody came in, kind of normalized into a, okay, we're going to go upstream and look at topics and, and look at articles and have kind of, but, you know, we, we've also had to structure a workflow on our side and, and a certain amount of capacity to, um, to manage it that I think is actually reasonable, but we had to kind of learn that.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So Cody, I mean, that was a couple months ago and then Cody took over.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So yeah, I, yeah, yeah.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So, you know,",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "The content operations manager, I, my, my start date was March 17th.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I was like in growthx calls like that week or the next.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And, you know, kind of basically shadowing Matt starting to add input over the next few weeks.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I don't know, five, six weeks ago is probably when we handed it over to me being main point of contact where, you know, Matt is still the, the, the far more experienced, you know, person as far as like the technical side of it.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So Matt is still involved and I'm asking Matt questions when we get into the kind of the technical weeds on the like, where is the line?",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I think that's been something that we've been trying to figure out is the going up as Matt described as like going upstream and approving topics beforehand has mostly been the way to determine like, where is the right technical level for our audience?",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We have a very technical product.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We're not only trying to sell to engineers though.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So like, where's the, where's that line at?",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Um, and you know, we occasionally still run into a topic that we reject for being too technical or the.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We get into the writing and we leave comments saying, hey, this section, this section, this section, this is more in the weeds than we need to get.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I would say I have watched that process continue to be refined.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I think that we have continued to hone in on where the sweet spot is.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "The topic cluster thing has been a little bit of a kind of trust the process thing for us.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I have been pretty willing to embrace the, and I think Matt overall has, but he can speak for himself if he disagrees.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "But I've been relatively willing to embrace the, like, we have topic clusters.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And yes, there's keyword research behind this, but we are not showing you keyword justification for all of these.",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "This is the modern SEO practice.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I've been pretty in touch with that and comfortable with it.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I think that we have seen a little bit of internal friction at prophecy on the, like, I don't understand what the strategy is, like, why.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like, what are the keywords they're hitting?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I'm like, we're hitting topics.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yes, there's keyword research behind them.",
+            "timestamp": "00:12:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "But like, we're not writing this blog optimized for these keywords, this blog optimized for this one.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like that, which, you know, that's, that's the approach SEO is, you know, changed on.",
+            "timestamp": "00:12:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah, but I do think that for some other people on our team, that has been a little less, been a little less inherent trust in that and kind of wanted to see more of the, the rationale behind it.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So that's something that my mind does jump to when I think about our kind of topic process.",
+            "timestamp": "00:12:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "But largely, I would say that the seeing large bunches of topics has worked for us.",
+            "timestamp": "00:12:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I rarely am rejecting anything.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I am, I will say that I think I'm more often like punting on it and leaving it there and, you know, asking questions to Matt, but then, you know, depending on his time, you know, his availability, you know, as he kind of hinted at, small lean team, where even with, you know, growth X doing a lot of strategy for us, not just execution.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "For us, you know, sometimes the delay is just on our end on, I can approve certain sweet spot topics and certain ones that I'm unsure of.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So that like, I'm unsure of this one, I think that there's probably still some room to kind of keep cleaning up the, hey, here's the use, here's the, here's the case for this one.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Why, you know, sure, prophecy or bring your kind of institutional knowledge to the table on it.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, a lot of that, a lot of that, that topic, this seems completely wrong.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Well, actually, if you look at this way, and there was a fork, like we would, we would actually sometimes win the argument, if you will.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But we also learned a lot about why that topic was really there.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I guess, Cody, I just want to, I do want to echo the, you know, how that math of like these articles, hitting these keywords, and these people are reading it.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It isn't, I wouldn't give up on that.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I think that.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We've been kind of looking at the end results, but people do want to get into those details.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And I think that's something, I don't know what you guys are planning, but much more visibility on what these clusters mean.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It was sometimes puzzling because we would try to debug a topic that seemed way off, and we'd end up in some totally different part of the data world.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I'm like, oh, this isn't right at all.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But I don't really know if that's how we got there.",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "was just like the keywords and the associated organizations that had stuff.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "was just like totally off.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I wouldn't say that's...",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, no, no.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I'm just saying that that...",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So I think we've actually sort of walked away from trying to figure that out because the actual results are fine.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But it is a hard to explain to people who think they have a lot of expertise in it or are a little...",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "More sort of mathematically or like one plus one equals six.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And, you know, we have that a lot in our engineering heavy organization.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay, this is really helpful.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And it actually makes me even more excited to show you the thing at the end, to show your new platform at the end, because I think it's going to like help get to the bottom of some of this.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But I want to like talk about the partnership writ large in terms of like relationship management and process for like post keyword generation and like in terms of like calibration and publishing.",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I know you slowed down the process just so that you could have more time on the editorial side.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But was that just because you wanted to take the time to calibrate like the technicality of articles?",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Or was that about like the quality in terms of like AI output was was not good enough?",
+            "timestamp": "00:15:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And you needed to hone in on, like, tone and things like that.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You know, Matt can maybe talk more to early state on that.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But, you know, I mean, I've been here for a few months now.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I definitely still saw a \u2013 what I was comfortable with when I joined, it was like we had gotten to the point where it was like three to five articles.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Probably usually four to five that we're reviewing.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And now we're more like five to seven that I think some of that has happened pretty \u2013 I would say it's happened pretty organically in the, like, I didn't ask for more.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I just started approving more things and more topics and was sending, I think, fewer things back with edits.",
+            "timestamp": "00:16:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So we had fewer articles getting pushed into a second week before they were ready for staging.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I called it out a couple of times where I felt like we hit a milestone of I delivered specific feedback on \u2013 aside from, like, topic-level feedback or, like, technical detail feedback, I provided some specific you.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Feedback a few times on the like, here is an area where I want prophecy proof, or here is an area where on this length of a blog, I want to come back, I want to call back to prophecy a little more often, or I want to do this, whatever it was, there was a couple of other like kind of stylistic-y choices that we, you know, talked about.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I have been very happy with consistency after feedback in the writing process, and I called it out on a couple of calls, we're like, hey, this day, like, I dropped off six comments last week, and on the blogs this week, I did not drop off the same comments, like, which for me is big.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So on the writing quality side of things, we have, I think, we, it allowed us to ramp a little bit more, and I think now we're kind of at the point where some of that is, you know, we have occasionally asked for help with a different type of project, and I'm pretty sure we're just at or near, like, capacity limits on our contract.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Basically, without, you know, we have, we have, you know, occasional weeks where like, I forget to look at anything until Friday, because I've been swamped.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And like, Ismael's like, or Rebecca, or someone's like, hey, will you review these?",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I'm like, right, yes.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I do that, like, it's been that a lot more than, like, I don't think the quality is keeping up, and I'm spending crazy time in edits.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That's, yeah, just sort of totally this, the other, you know, very seldom have to double check that.",
+            "timestamp": "00:18:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And even when I was, even when we were having some wilder swings, it wasn't about the quality.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It was just, this isn't a topic for us.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yes, this is the wrong topic.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And that's why we're kind of going upstream to try to see whether we could catch things earlier or refine that.",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I think that's gotten a lot better.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I think it's kind of normal in our space, too.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We're, we're at the, we're at the, were, you know, prophecy.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "It isn't just in the data space.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We are in a very particular place where a bunch of different data practices and tools kind of merge.",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And it is, I would not expect anyone to immediately understand the differences between, like, you know, when we say data preparation versus someone else, and when we say data governance versus someone else, that takes some time.",
+            "timestamp": "00:19:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So, I don't know.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "There's a lot of, you know, look, we're talking about driving a car.",
+            "timestamp": "00:19:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And you guys gave us an article about how to rebuild a carburetor.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so that's a big gap.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But sometimes we are actually able to quickly, but it was all conceptual and strategic, not like the actual way you wrote it wasn't good.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Right.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay, that's super, super helpful.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "In terms of, like, the performance of articles and how you think about, like, data and the plan going",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Going forward, what are or aren't you seeing in our deliverables on performance?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "One thing we're definitely seeing in deliverables on performance is that when we, sometimes when we're discussing it, we have a new ask for like, hey, can you show us this next time?",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Can you show us this next time?",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And we're getting it every time.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So unless there's like a technical hiccup for some reason.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So as far as responsiveness and like the interpersonal side of discussing performance and reporting, that's all been phenomenal.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like today, we just even asked like, hey, we've been focusing on other stuff.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I want to kind of go back to individual blog performance.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I want to start breaking this down by like the topic clusters we've proposed where we can refine strategy again.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like let's do another strategy round of what the topic clusters are sometime in the nearest future.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Let's start talking about it.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We don't know when, but like, and you know, that's a, like Vivek has added that section to the report.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We're already, according to Slack, and like, you know, so we're going to be rocking and rolling on exploring that, you know, like live on a call next week.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So, and I think there were some growing pains on the like, how do you want to present, how does prophecy want to be presented to you on performance versus like, don't read the report at us, do this, that, you know, that happens.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I thought that got straightened out pretty quick as well.",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You know, was longer term thinking about success.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I think something that we have asked for and gotten, you know, some people have higher standards on this one than others and understanding of SEO.",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Benchmarks are tough.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "It's really hard to know what success looks like for other customers versus us.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like, we've definitely had some people ask me like, what should I be seeing here?",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like, it's just trending up and to the right.",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That's great.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like, is it trending upwards fast enough compared to other people?",
+            "timestamp": "00:21:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Is this good?",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Is this bad?",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Is it just okay?",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And...",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I recognize that that is a tough target in the SEO world as AI is impacting search and, you know, with all of that.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And also with the, like, if you have 100 customers and nine of them are SaaS companies that are doing something highly technical, you have a smaller sample size for, like, internal benchmarking.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "It's not something I'm stressed about day-to-day talking to GrowthX.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It is something that we're going to continue to get questions on.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "That, from a, like, long-run stickiness perspective of GrowthX would be, I'm sure, useful for you all.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Not saying that, like, we're not happy with the direction things are trending, but, like, if someone asks me right now, is GrowthX doing well?",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I would say yes, because of this, this, and this.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And if they double-click into the numbers side of it and say, well, why?",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Please-bye.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Are you happy with that specific number?",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I would say it's SEO and it builds over time and we're trending up.",
+            "timestamp": "00:23:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And yes, I do want to see it hockey stick a little bit harder at some point, but I'm comfortable with the time frame that it hasn't yet.",
+            "timestamp": "00:23:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Different people at the organization will have different reactions to that response, depending on how long out it's been.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You know, right now, June, everyone's pretty happy with that.",
+            "timestamp": "00:23:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Um, December, I, you know, I can't speak for people, but when I'm trying to renew a contract, people are going to be a little more, uh, they're going to be, uh, they're going to interrogate the figures.",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And, and, and the, the big thing is just, I know, and I know you want to get to showing us stuff.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So, but on reporting, it's context.",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So Cody, you were talking a lot about what does this mean?",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Is it good?",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Like, you know, that's like the old George Carlin joke.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That's, I know I'm dating myself, but he used to say the sports scores.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Five to seven, 15 to 29 and six, an incomplete score.",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You know, like we don't, there isn't, there isn't bigger context that we need to keep.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "One of things I've done that I've shared with the team is look across all of our traffic over time and help, and helping us, even with what data we do have, which is us.",
+            "timestamp": "00:24:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I think I'd like to put that into the mix where, you know, you can now say like, yeah, we're entering in, it's very clear in some of this data that we're entering into more organic traffic with fewer hot articles.",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "articles.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, we have a lot of and versus what our previous highs were all just like three or four articles.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So context, and not just with the industry, but even in terms of our overall content is I think what I'd like to see more of, it's much more defensible.",
+            "timestamp": "00:24:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "When you can say like, you know, since growthx, we've had a really a change in this way or that way.",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And it, you know, and like Matt alluded to, like, it does look like we are overall seeing that and that growthx is a statistically significant portion of our success, that we are happy with that, we're going to want it to keep.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Improving over time because that's how SEO works.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Since you're recording it, this is the lifetime of everything we've ever recorded on Prophecy.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And you can just see a very different, this is the growthx era here.",
+            "timestamp": "00:25:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah, that's great.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But these spikes happen and they're not, that has to do with other things.",
+            "timestamp": "00:25:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We get spikes when we have events.",
+            "timestamp": "00:25:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We're always going to have that.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "There's going to be behavioral.",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We know that's going to happen.",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Overall, growthx looking a heck of a lot better than this time last year.",
+            "timestamp": "00:25:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So, you know, that's even before where these were all about pushing one or two articles really heavily.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So, anyways, I know you want to show us stuff in like three minutes.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "don't know if you can go over a little bit.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I can go over a little bit if you guys can.",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I really want to see what's coming up.",
+            "timestamp": "00:25:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We've been hinting at it and I think, yeah, I think.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I think like to your point and what you guys are pointing at, something that we're starting to talk about internally now is as we have these.",
+            "timestamp": "00:25:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "to about We're about the few",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And that have been around that have like started to build up this really critical mass of content, we can start to dive in with you.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I'm like, we're all in San Francisco this week, just at an onsite to talk about the strategy for the next few months is what like digging into a few articles.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And just like you said, you were pushing a few articles less about like pushing them places and more about building in like more gated content from things that you see are performing well and diving into like really niche places where you guys can own the domain authority and start to like build like longer tail content on that stuff.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And have then you can show like a really clear user journey and funnel on like the pieces of content that you know are going to be a little bit more evergreen and really be relevant to the business and show conversions.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So that's like something that we can start to do too for you given like how.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "How much content we've started to build up.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And that's really attractive.",
+            "timestamp": "00:27:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "The overall growthx as a content strategy partner and not as an SEO execution agency.",
+            "timestamp": "00:27:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I have felt that way the whole time when we discuss things.",
+            "timestamp": "00:27:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "is, you know, this is not directives from Prophecy and you are executing on it, which is what we want.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like it's not worth the money if it's not that way.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So these types of initiatives that you guys are working on, that's a lot of what has us excited about like potential with GrowthX because, yes, our focus right now is SEO and the blog, and that's going to be the vast majority of stuff we publish.",
+            "timestamp": "00:27:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "But if you all can help us in other ways, we are certainly very open to it.",
+            "timestamp": "00:27:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, let me jump in.",
+            "timestamp": "00:27:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Give me just a second to pull it up and show you specifically the new platform, which I think will.",
+            "timestamp": "00:27:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I'll be able to give you all access to in the next, probably, I would say, like early fall.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We just moved over from having our workflows hosted in AirOps to this last week.",
+            "timestamp": "00:28:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So it is pretty new.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But to your concern about our, like, ability to really hone in on artifacts and think about making sure that, like, the context is right so that we're using the right topics.",
+            "timestamp": "00:28:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We're building artifacts into our own platform now so that they can be taken into account, like, directly in the code and directly in the workflows, like, one-to-one.",
+            "timestamp": "00:28:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we're building out our comprehensive audience personas, which have, like, version history.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We'll see, we've got, like, version history on how we can continue to tweak these, like, right in the platform.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And we'll start giving you, like, access and working on these, like, on our calls.",
+            "timestamp": "00:29:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So you can say, okay, like, this is, like, these are the audience personas.",
+            "timestamp": "00:29:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "This is how, like, biggest pain points and frustrations.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, these are the people that we're talking to.",
+            "timestamp": "00:29:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And we, and, you know, this is incredibly comprehensive, as you can see.",
+            "timestamp": "00:29:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And we can tweak these as you see fit.",
+            "timestamp": "00:29:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, this is an edit button right here that, like, then goes and edits it on the back end that feeds into all the prompts that we're pushing through AI as we're generating topics and content.",
+            "timestamp": "00:29:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So then it will take into account these personas as we start to do, like, article generation ideas or assignments, which is, like, where the assignment reads come from.",
+            "timestamp": "00:29:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we're taking this input and move on.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "input.",
+            "timestamp": "00:29:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So if you look at this, like, you can see these are all the this is all the stuff that goes into that input.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we're pulling company context, audience personas, all of this writing guidelines, all of this gets pulled in and then the assignments get put out.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So you can start to say, no, like, we don't want to talk to, like, a staff level engineer at the most technical level.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We want to talk to, like, a different persona.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We want to hone in on, like, our writing guidelines are less technical.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we can start to change the artifacts alongside you and you can start to see kind of what goes into writing guidelines, right?",
+            "timestamp": "00:30:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Because that's going to really affect, like, the tone of the topics and what topics end up coming out of that, like, assignment brief.",
+            "timestamp": "00:30:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, you know, Ismail added this on, like, the end of last week.",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "This is all, yeah, as I said, like this is, and this is week two of us working as platforms, so these artifacts will continue to be refined, we'll keep showing them to you, and they'll start to be put into the different pipelines.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, like refreshers, could do podcasts, like articles from like your content that you're generating for podcasts, and we have like, we can come up with different versions of these workflows to see what works best for you.",
+            "timestamp": "00:31:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, it's not just going more upstream, it's allowing us to go deeper at every level of the process, and you to go, like, come along with us on that journey.",
+            "timestamp": "00:31:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:31:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, so.",
+            "timestamp": "00:31:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So, when you guys say giving, you know, us access, like, what is, I know we're very over at this point.",
+            "timestamp": "00:31:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "If you have a second, like, what are, what's the, I guess, the goal when you give us access, like, potentially in the fall?",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Is this so we have a place that we can review what's going on in the artifacts and provide feedback?",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Is this a, like, what are you guys intending for your customers here?",
+            "timestamp": "00:32:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, so, you know, right now we're working in, like, Notion, Airtable, and this place.",
+            "timestamp": "00:32:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We'd like for us to have kind of a one-stop shop for us to be going back and forth and really partnering on all parts of the process, like, as we're pinging the different AIs.",
+            "timestamp": "00:32:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, like, you can then see in here, just you get a better look under the hood and you can play with these workflows eventually, like, when we give you access.",
+            "timestamp": "00:32:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Or you can just say, like, we trust you, but it's to give everybody a little bit more control at every stage.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "You can maybe start to generate your own pieces.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I think it, like, for us, we don't know because we don't know how much people will want to do, but we do have, like, especially, like, our earlier partners.",
+            "timestamp": "00:32:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You guys, you're interested in how this happens, what gets done.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so if you want to play with, okay, what's the output?",
+            "timestamp": "00:33:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "If we say that our ICP is person X instead of person Y, you can start to see experiment just by playing with our artifacts and things like that.",
+            "timestamp": "00:33:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then we'll have version history, so you can go back and forth.",
+            "timestamp": "00:33:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So it's just giving you more control and more of a look at every step in the process.",
+            "timestamp": "00:33:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Right.",
+            "timestamp": "00:33:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And I know you guys are functionally doing this to replace Aerofs.",
+            "timestamp": "00:33:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I had actually sat down with some people on your team when we were looking at Aerofs a little bit for our own kind of internal workflows.",
+            "timestamp": "00:33:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And so I knew some of this was coming just because I know you guys saw some limitations in Aerofs as well.",
+            "timestamp": "00:33:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You know, are you anticipating building out the project management stuff that's in here to replace Airtable as well?",
+            "timestamp": "00:33:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Or is this still going to be a...",
+            "timestamp": "00:33:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like, we work in Airtable.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "There are links to this brief or whatever if we want to review it directly.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like, do you have an idea yet on what that workflow is going to look like?",
+            "timestamp": "00:34:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Or are guys a little early for that?",
+            "timestamp": "00:34:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I think, theoretically, like, yes, it'll be the former of what you just described.",
+            "timestamp": "00:34:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, yes, everything, like, including Airtable would happen in here.",
+            "timestamp": "00:34:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But, like, practically, I haven't seen wireframes.",
+            "timestamp": "00:34:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:34:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Sure.",
+            "timestamp": "00:34:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Might take a minute before.",
+            "timestamp": "00:34:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Like, that's, like, a 2026 problem, probably.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:34:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And, you know, and I certainly, I'm definitely interested in, you know, at some point, getting access and playing around a little bit.",
+            "timestamp": "00:34:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I don't know if you guys are planning on, like, selling usage credits or anything where you can, in your account, go spin up your own stuff, too.",
+            "timestamp": "00:34:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Or if you're going to just, I have no idea what your business plan for this toolkit is, but we're certainly interested in being kept in the loop on that.",
+            "timestamp": "00:34:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You know, we are, you know, we've evaluated air ops, we're evaluating Jasper right now, like we're, we're going to talk to some other people.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You know, we have some desire to be able to go do some of our own, you know, turning wrenches ourselves and not just assigning asks to the growthx team.",
+            "timestamp": "00:35:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So, you know, that's, that's something I'm thinking about at the moment, at least.",
+            "timestamp": "00:35:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, yeah, really, I wanted to say to augment.",
+            "timestamp": "00:35:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah, yeah, 100% to augment.",
+            "timestamp": "00:35:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, very important point there.",
+            "timestamp": "00:35:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, totally.",
+            "timestamp": "00:35:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, and just like pointing out here, you know, like we're looking at keyword analysis.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And like, these are the things that are going into that keyword analysis, right?",
+            "timestamp": "00:35:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And if you want that keyword analysis to go deeper, like, I don't have like access to inspect at this and this like, that I'm logged into, but you can go into the code.",
+            "timestamp": "00:35:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And you can say like, okay, now add like this other piece of keyword analysis that's important to us.",
+            "timestamp": "00:35:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I want to look at it, right?",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Are you guys getting your keyword data from SEMrush or?",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, I know we use SEMrush.",
+            "timestamp": "00:36:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I think there's like, I mean, watching Marcel do it, there's like four different things that he goes back and forth from.",
+            "timestamp": "00:36:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I was saying it's like making cheese.",
+            "timestamp": "00:36:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like you just like keep like filtering it through the cloth.",
+            "timestamp": "00:36:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Interesting.",
+            "timestamp": "00:36:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I like it.",
+            "timestamp": "00:36:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "He was like, that's a weird analogy.",
+            "timestamp": "00:36:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But now you know it too.",
+            "timestamp": "00:36:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So sorry.",
+            "timestamp": "00:36:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "No, yeah, I'm into it.",
+            "timestamp": "00:36:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I'm going to use it.",
+            "timestamp": "00:36:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So like, it's just like, it's never.",
+            "timestamp": "00:36:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You know, that's going to be, that's going to be really, that's going to be a metaphor.",
+            "timestamp": "00:36:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We're going to go forward, Cody.",
+            "timestamp": "00:36:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It's like making cheese and you're asking me which cow it came from.",
+            "timestamp": "00:36:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That's not the, that's not what this is.",
+            "timestamp": "00:36:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:36:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We're going to force that into a big pillar piece of content and lose some interest.",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:36:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:36:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "But yeah, this is, this is super cool.",
+            "timestamp": "00:36:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "I definitely would love to get like the periodic updates on what's happening back there, how you're anticipating that impacting the day-to-day with your client.",
+            "timestamp": "00:36:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "man.",
+            "timestamp": "00:36:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Are you going to be giving clients direct access and for what use cases?",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "You know, that is those types of things for us are interesting.",
+            "timestamp": "00:37:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And, you know, I certainly also, you know, I know that the I know you've been doing stuff with without just air ops for a while now and that it's been a kind of a gradual transition off of air ops.",
+            "timestamp": "00:37:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So I also, I guess, you know, I'm hopeful that, you know, the move is when everyone's ready and that it's stable and, you know, that we don't see quality dings.",
+            "timestamp": "00:37:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "In the same way that, like, we trust the process right now.",
+            "timestamp": "00:37:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "We've got a new kind of a day-to-day account team and we trust they're all onboarded.",
+            "timestamp": "00:37:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So, you know, you guys are juggling a lot of things, but it seems like so far, you know, all the balls are still in the air.",
+            "timestamp": "00:37:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:37:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Well, that's good to hear.",
+            "timestamp": "00:37:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I think, like, as Daryl takes over and as we've done some of these account transitions, like, we've been telling the team the first thing that you want.",
+            "timestamp": "00:37:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Do is like to reset is like, let's go through, like, they'll give you like, he'll share his screen and show you that article, like the artifacts and the work so that you can kind of see how that works and actually go step by step and not get like a seven minute, like, peek, but he can talk you through that and you guys can align on what you want it to look like and keep tweaking it.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "So he'll keep showing this to you.",
+            "timestamp": "00:38:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:38:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That's good.",
+            "timestamp": "00:38:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:38:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Thank you guys for your time.",
+            "timestamp": "00:38:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "was really nice to meet you.",
+            "timestamp": "00:38:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:38:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Great meeting you.",
+            "timestamp": "00:38:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Good to meet you.",
+            "timestamp": "00:38:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "And yeah, thanks.",
+            "timestamp": "00:38:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Thanks for going over.",
+            "timestamp": "00:38:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Yeah, of course.",
+            "timestamp": "00:38:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Thanks, Matt.",
+            "timestamp": "00:38:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Carmen",
+                "matched_calendar_invitee_email": "carmen.cody@prophecy.io"
+            },
+            "text": "Bye.",
+            "timestamp": "00:38:35"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Gather feedback on GrowthX's partnership with prophecy.io to improve content strategy and delivery.](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Prophecy.io partnered with GrowthX in Dec 2024 to scale content creation using AI, moving from 1-3 articles/month to 5-7/week](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=231.0)\n  - [Content quality and relevance improved over time through upstream topic approval and feedback cycles](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=496.0)\n  - [GrowthX is viewed as a strategic partner, not just for SEO execution but overall content strategy](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1624.0)\n  - [New GrowthX platform will provide more transparency and control over content generation process](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1688.0)\n\n## Topics\n\n### Partnership Background and Goals\n\n  - [Prophecy.io engaged GrowthX in Nov 2024 to scale content creation](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=105.0)\n  - [Wanted to move from manual process (1-3 articles/month) to AI-assisted (40-50/week)](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=142.0)\n  - [Initial concerns about volume vs quality and ability to review high output](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=393.0)\n  - [Normalized to 5-7 articles/week, focusing on right technical level and topics](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=438.0)\n\n### Content Generation Process Evolution\n\n  - [Added upstream topic approval step to ensure relevance](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=496.0)\n  - [Improved calibration on technical depth and Prophecy-specific content](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=633.0)\n  - [Saw consistent improvements in writing quality after feedback](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=540.0)\n  - [Shifted from keyword-focused to topic cluster approach for SEO](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=706.0)\n\n### Performance Reporting and Benchmarks\n\n  - [GrowthX responsive to requests for new performance metrics](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1209.0)\n  - [Challenge in providing industry benchmarks due to Prophecy's niche](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1301.0)\n  - [Desire for more context on performance relative to Prophecy's historical data](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1424.0)\n  - [Overall positive trend in organic traffic attributed to GrowthX partnership](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1500.0)\n\n### New GrowthX Platform Preview\n\n  - [Moving workflows from AirOps to proprietary platform](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1688.0)\n  - [Building comprehensive, editable artifacts (personas, guidelines) into system](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1730.0)\n  - [Will allow partners more visibility and control over content generation process](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1930.0)\n  - [Potential for partners to experiment with different inputs and see results](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1967.0)\n\n## Next Steps\n\n  - [Schedule deep dive on new GrowthX platform features with account team](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=2050.0)\n  - [Discuss strategy for leveraging accumulated content (e.g. gated content, niche topics)](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1568.0)\n  - [Continue refining artifacts and topic selection process](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=1730.0)\n  - [Explore potential for Prophecy to access platform for internal content workflows](https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX?tab=summary&timestamp=2083.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Share deck from December justifying GrowthX partnership with Andi Bailey\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:20",
+            "recording_playback_url": "https://fathom.video/calls/334780063?timestamp=320.9999",
+            "assignee": {
+                "name": "Matt Turner",
+                "email": "matt@prophecy.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Review and provide feedback on new topic clusters in next week's call (as mentioned by Vivek in Slack)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:44",
+            "recording_playback_url": "https://fathom.video/calls/334780063?timestamp=1244.9999",
+            "assignee": {
+                "name": "Cody Carmen",
+                "email": "carmen.cody@prophecy.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Keep Prophecy team updated on development progress of new GrowthX platform, esp. re: customer access plans\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:36:38",
+            "recording_playback_url": "https://fathom.video/calls/334780063?timestamp=2198.9999",
+            "assignee": {
+                "name": "Andi Bailey",
+                "email": "andi@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Matt Turner",
+            "email": "matt@prophecy.io",
+            "email_domain": "prophecy.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Matt Turner"
+        },
+        {
+            "name": "Cody Carmen",
+            "email": "carmen.cody@prophecy.io",
+            "email_domain": "prophecy.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Cody Carmen"
+        },
+        {
+            "name": "Andi Bailey",
+            "email": "andi@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Andi Bailey"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/zmEEFpNyVZMs3yQNHhAzR5stu18316sX",
+    "crm_matches": {
+        "contacts": [
+            {
+                "name": "Cody Carmen",
+                "email": "carmen.cody@prophecy.io",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/111712070622"
+            }
+        ],
+        "companies": [
+            {
+                "name": "Prophecy",
+                "record_url": "https://app.hubspot.com/contacts/341940338/company/63923784687"
+            }
+        ],
+        "deals": [],
+        "error": null
+    }
+}

@@ -1,0 +1,3221 @@
+{
+    "title": "Strapi<>GrowthX Weekly Sync",
+    "meeting_title": "Strapi<>GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/289329889",
+    "created_at": "2025-04-30T17:16:46Z",
+    "scheduled_start_time": "2025-04-30T16:30:00Z",
+    "scheduled_end_time": "2025-04-30T17:00:00Z",
+    "recording_id": 60061286,
+    "recording_start_time": "2025-04-30T16:31:30Z",
+    "recording_end_time": "2025-04-30T17:16:28Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Is it just us today?",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthx.ai"
+            },
+            "text": "I think Victor should jump on.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "me see.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "He should jump on.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Maybe he's running a little bit late, but we could probably start.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So I have a couple of updates for you guys.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I'm really sorry, I didn't finish that, but I'll add that in later.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So quick content updates for this week.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Our strappy fact checker is, it's working, but so I know Theo, you brought up a couple of limitations of errors that we had in our articles.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "our strappy checker, basically my understanding is correct, goes through the articles and checks for strappy specific content.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So if there's anything wrong with what we talked about with strappies offerings or strappies features, then it will catch those details.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But we're still looking for a solution for how to catch a very specific web developer knowledge data.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So I think you called out code for real JS, is that correct?",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That's correct.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "That's So we're going to-- I should just- Exactly.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Just Just",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, I think it's actually the one you caught was really interesting, and I spent a bunch of time with our engineering team, figuring that out, it's like, like a bit legacy, it still works, it's not necessarily like wrong, but it's not something you would try to promote, right?",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Because it's kind of like it's supported, but it's a legacy, and I think first stuff like that, we're currently how we're solving it, is we actually have like a decent developer just like reviewing now to try to catch stuff like that, and then I think we're trying to figure out a version of the fact checker that can pick up stuff like that, because we ran it with the current one, and it's like, it doesn't pick up things like that, you know, because it's really nuanced.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Yeah, and I think it's not just for React, okay, like for most technical contents, I think we could also extend the fact checker to give us codes that are like up to date or current, although like you said, we probably are not promoting them.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "So, yeah, but I would.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "I love it if it's more accurate, like, one for a strappy AI, so, yeah.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And how did, I'm just curious, how did you catch that one in particular?",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, are you personally, like, you're pretty, um, like, are you front end developer theater?",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It feels very, very, very technical.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "He's very, very Okay, good.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "You might not, you might be shy about it, but he built some projects before, like, with front end and strappy and some mechanism.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "he tried to have developers on our marketing team to help with that stuff.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Well, yeah, I mean, just want to let you know we're working on it, but, like, that one, honestly, just to be transparent, it's like a pretty tricky one that we're trying to figure it out.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, at scale anyway, right now we're just using humans to try to catch it.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, okay, sorry.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I lost the window again.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay, and then, so that's the update for the back checker.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then, so for content production this week, we sent over a couple of articles, and I know a couple of them are published.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I we only have three that aren't published so far.",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I did want to ask, is there a way for me to create drafts in our, in this draft, ECMS.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So, if, like, the integration page is published, can I rewrite the data and say that it is a draft?",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "After it's published, currently, I believe, you're in the draft before, so you're not able to do that.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So, if you make changes and you click Save, will auto-publish the new changes.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay, so, can I then send the integration pages to you, like, this way as we've been doing through Google Docs, and then you can check it for me, and then I can upload it, or entirely up to you guys how you want to do that.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Yeah, what would work for you best I I feel like if we are able to have you I'm assuming as you expecting the review first.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Yeah Yes, I think we just have it in one place, which is this trap be back and so that when you're done I could review them if it's good Right, so this is for existing content.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So that's like a new integration.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Yeah, it is being trapped Because I don't yeah Do you prefer using the draft in Google Docs or do you prefer an air table feel What was the okay?",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I prefer it to be in mud down.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Okay, like let it be in mud down if it was supposed to come down fine or if Google Doc supports it or preferably hack dot MD like I'm not That notion notion to post mark",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I can send them over to Ocean Docs then moving forward.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That's good to know.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then let me know how you want to deal with publishing if you want me to put it in or anything like that.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then the next thing I wanted to show you guys about the comparison page template proposal.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So really quick to go before that to open this or me.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Before we do that, I wanted to show you the performance of your comparison pages.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And this is why this is the next like these are three avenues that we want to go for.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So we want your new content to be optimized and optimize integration pages.",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then finally optimize your comparison pages.",
+            "timestamp": "00:07:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And let me see how do I do this.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So here is your dashboard.",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I believe number",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "is comparison page performance.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So this is just your performance over the last month.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But the thing is, you are getting clicks in traction.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And your average positions aren't bad for your comparison pages.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But I think the thing that's holding your comparison pages back is that there's not a lot of content there.",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So if people click to see a table, they go.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And which isn't ever a good signal to Google.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And so it was meant that I worked on your comparison page template this week.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And this is what we thought would work best for your content.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So just a quick overview of who the two CMSs are.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "In this case, decided for two non-stirly CMSs.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So you could show you how we plan to integrate Sharpie in.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This headline can change any other way.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then again, subtitle, just so that it's right there up front.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This should ideally have a.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "a very specific, like, plus point for either Strapi or the CMS on page, and then this is where your CMS will come in.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So before everything, these are all going to be keyword optimized.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So all the content up here will be optimized.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "People jump in.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It's going to be very short as well.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then, as for the structure, so what should you choose between the two?",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then right at the bottom, why Strapi is still the ideal alternative, just so that, you know, if people are going to get this far, then you might as well plug in Strapi.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "If they've scrolled this far down, they're interested in your content.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "There are some sections that we're not 100% sure on.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So, for example, how they perform in action, that one will probably be a Strapi only.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So if it's like Strapi versus Contentful, then you'll have this section in.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But if it's a Contentful versus Better CMS, we won't have the same because I don't.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Don't see the point.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "just adds noise.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "For the feature, break down.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "to have a table, and then also the content in text, but so the question that I have here for you is that can you have a table on the page, or would it just be better if we gave it to you as text instead, because both work fine SEO wise.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So I do have to double check with my team how, because I believe the data gets pulled from the Excel spreadsheet that I shared with you for the comparison, so it doesn't, I don't believe, I'll have to double check to be sure, I don't this in a way of doing things, we would have to kind of talk to Maxime or Nodum who's helping us with the website to see how quickly they could update",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "this to be able to basically have this as markdown.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Hey Paul, let's start a thread on the group  channel and looping in Maxim so that you can just chime in right away.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Yeah, I think it was Maxim we implemented it.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "And the reason why we did it was a spreadsheet is for like ease of maintainability.",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So that's my concern here.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Like we move away from that spreadsheet like it becomes like a bit harder to to update.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So that's the concern and another piece of feedback is like I think in the table we should always have like a strappy as a column.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So that way like people always kind of referencing strappy like regardless.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I think it would that's like a fix I wanted to do anyway but since we're working on it.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "awesome.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah that makes sense.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "That was actually the other thing I wanted to ask you about these pages is if",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "We want to stop you to be in there from the get-go.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Because the quick comparison right at the top would be what I assume is what you're pulling from the spreadsheet.",
+            "timestamp": "00:12:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Correct.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So if there is a way for us to create content around that spreadsheet, that would be the ideal way to do this.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "you have your, basically, your no time to value.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "This is your most valuable thing, is right up top, and it's always going to be updated.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then everything else, we try to make it as evergreen as possible.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So the feature breakdown probably won't change.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Use case probably won't change those kinds of things.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "The feature changed quite a bit, that's the thing that changed.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Often, yes, people want teachers.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah, but we can try to make it as general as possible, if you get what I mean.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I'll try to see how we can do that.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "We don't want a feature breakdown.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "We don't need to have that part either.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So you can just have a very quickly, which should you choose?",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And then some best use cases, what we're going to go for.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "So that way, you don't need to change much.",
+            "timestamp": "00:13:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I think where you had that, we can make it so that it's not really in the weeds of the feature, but more like the architecture level.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "There's some fundamental differences that are not going to change.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So I think we kind of uplevel and longer too deep on the features that.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, I think one thing, just an idea, like one thing we do after we understand I guess how this all works with the info getting pulled in is think about how we could even help keep that updated, like browser agents and scraping and workflows.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think how up-to-date the information is we'll probably factor into how all these rank.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "know, like we're going to shy away from talking about pricing and things that are rather than, I think, it would hurt.",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But I think there is some complexity to getting that work.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And so we can make that a V2.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, let's do it.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I mean, I even see some stuff where our features are not up to date.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So I want to also make sure we have internally.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "It should be owned by Nicholas, who's a product marketer.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "That's kind of a product marketing topic, competitive battle calls.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "so yeah, we should look at it.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I know we're using the Google Doc.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "And I'm assuming it just iterates through the thing and posts and generates the table in our front end.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "But just want to wonder, is that still the best mechanism to use or something like air table make it a little bit more easier, especially if you're thinking of doing something where you auto scrape and update the information?",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "We could.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "mean, if you guys.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Oh, it's on the growth side, if you tell it, it would be a lot more easier to maintain if we move the table to air table, like we can do that, that's no big deal.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I think let's start that thread, let's see how you guys are doing it now, and then we can trigger it out.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think air table definitely would work better, but I know we use air table and we pay so much money to them, we almost don't want to recommend it, so we can trigger it out.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay, the last thing that I wanted to share with you guys is so for next week.",
+            "timestamp": "00:15:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Currently we're working on all the articles that Theo sent into the chat, we did some keyword research on those as well to make sure that we're really targeting the right keywords and the right intents with our articles, and then these are the current ideas that are in air table.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I'll send you the OS again, if you want to check them in our meeting doc, you can definitely see them and just tell me, or highlight or bold which ones you think will.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "work best.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "For the integration pages, I appreciate if you tell me which ones you want me to work on first for this week, like if all of them are good, then we'll start working on all of them this week.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "If not, then we'll pick the next 10 that look good to work on.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "I remember last week you saying calling out the Gatsby wasn't the best example to present to you guys, so it'd be nice if you can tell us which ones work best.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "then for comparison pages, we can start generating the articles before we have the infrastructure set in place so that we can just plug it all in as soon as it gets going, or we can also put that on hold depending on what you guys want to do.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "But basically these 10 comparison pages that I pulled out here, I got it from your Looker Studio report, the ones that are currently getting a lot of impressions, the top 10 I pulled it from here, so that we can start working on those and hopefully getting more impressions to those as well.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthx.ai"
+            },
+            "text": "Yep, that makes sense.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I think we'll",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "get a better idea of the page structure once we have that thread going.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "You could start generating the content, the high level stuff that's not feature related.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "think we can get started with that.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "One thing that I came to mind for me and Paul and I was guessing this earlier today is for the content, the new articles.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I think we have an opportunity to play with a long tail of use cases for Strapi.",
+            "timestamp": "00:17:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "It's one of the big benefits of Strapi is how versatile it is compared to other systems that are a lot more opinionated and so that makes it a good fit for things like quizzes and things like LMS or all kinds of internal tools and so I think there is an opportunity there from COS 10.2 to try to rank for some of the use cases.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Because we don't really do use cases justice on our website.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "have high level one, it's just like talking to website as if all websites are created equal.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "But it's not the case.",
+            "timestamp": "00:18:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "People actually look for software that are more bespoke to a specific case.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I shared earlier, and I can share it again.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "With Paul, I'm shared in Slack.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So we have it for the record.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So I just like right now.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "This is actually from our competitor, Directus.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "And they have this pretty cool blog post that lists about 100 different use cases.",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "And they're categorized within different categories like of apps.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "And so I think just foot full start, but I feel like it would be good to lean in on that.",
+            "timestamp": "00:18:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Because I feel like the.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "in terms of like intent that we would capture like folks that are if they have like software for LMS.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I'd love to strap you to rank for those keywords.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I've seen I think there's like an awesome strappy or something like a repo and then I see you have like a showcase on your website now like I guess for you like where does this fit in that kind of.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah so that's a very good question.",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So we have a showcase like actually website I've built using strappy.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "It's kind of like a you know like and so we it's not super I don't think like many people use it and you know that that's a different thread we should make sure like it's easier.",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Right now like people have to submit pull request it's a little bit like yeah it's not super intuitive and so yeah okay the awesome repo has been used to like that's how we started like five years ago but like we don't really use it anymore because like a lot of those things on",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "awesome repo actually have been moved to the site.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So like in there, you have a lot of plugins, now we have a plugin marketplace.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So yeah, that one's deprecated.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "The other one is not deprecated, but not very accurate.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Nice.",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:20:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'm trying to think like, yeah, the level just sits, I guess showcase is like complete website, but like personally, one of the use cases could be like as simple as like a, see like a logo carousel or something where the logo sit in like some CMS collection within Strapi and then you're giving somebody like example of how they would do that.",
+            "timestamp": "00:20:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I think the goal is let's say I'm a user and I'm building something and like, I want to build a, you know, product e-commerce store and you kind of have like the the long tail like search for, you know, doing the research like Strapi, well, maybe not Strapi, but e-commerce or someone's like, I'm building a yoga studio app or something that's more specific to maybe to like a niche of a product of their building and to showcase that's",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "could be used for it.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So sometimes like, you know, people might search like, uh, you know, web builder or hotel website template or like the idea is to have it like more specific to hit and like long tail words where someone who's thinking of building something, they might search whatever that, uh, you know, need is, and then we want to be able to rank for that stuff.",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Also the shot like, yeah, go ahead.",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean to interrupt.",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "No, that's okay.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I'm done.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "done.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So yeah, I should another link in the GOSX channel.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "It's like how retool does it.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Um, think they do a good job at like, um, so they actually I think have like template in this case, which is, uh, which is, you know, what we would have to think about.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Um, actually like, now that I am thinking out loud, but like, um, we are building a, um, one thing that will be announced at StrapiConf in two weeks.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "this strappy AI architecture that you can build as if you can prompt to build a content structure.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So it would be kind of easy for us in that context to just have just use the AI architect to create the content model for a long tail of components and dynamic zones.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So I'm thinking like we could like get to a place where we have something similar than retail.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "Yeah, I'm trying to think about that.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think like strappy is just interesting because like I guess a lot of these when you think about the intent when you search for a template it's like more of the front of it but for you guys it's like the content model behind it.",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So yeah I mean like that is when someone even if they search for like a content building of store like they're still going to have a backend and so just matching strappy and kind of defining like how",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "That would look like in strappy, I think would be very useful and ultimately like Yeah, go ahead.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Oh, I was gonna ask like Like for these pages like what would you imagine that experiences for the for the user like would there be a?",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Path for them to kind of spin that up with strappy or it's more just kind of informational Hey, you were building an e-commerce site, here's how you do it using stuff as not crappy but like when you get to the part of like Well, I mean like like to me like I don't think you could have a front end without having a back end and strappy is a back end and so it's like when someone's building an LMS yoga studio app a Map whatever app that tracks dog walkers.",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "It's like the idea is that you could talk about that use case and all of that could be powered with strappy and I think that's what like there's a looting to use that strappy is so My brain is personal to that like like you could use in so many different use cases that some people might not even be",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "where that you can use it and like almost like spaces.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So like the idea is think of any idea of an app, like strappy could be the backend for it.",
+            "timestamp": "00:24:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Let us do some research.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think I want to untangle the intensity.",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Because like we have a, we're going to be like bolt is our customer.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And for them, what we're doing is like, you want to have this template marketplace, right?",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's just full, like a bunch of stuff.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then I think usually how those are set up is like, you just have a crazy long tail.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "There's a lot of duplicate stuff like that.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But then the stuff that ranks in a lot of cases is like the collection.",
+            "timestamp": "00:24:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So like, oh, here's a collection of portfolio websites, right?",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then under that will be like, literally like a hundred portfolio websites that individually would not rank.",
+            "timestamp": "00:24:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Same as how a camera does it.",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like none of their templates rank, it's like a collection.",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So you're kind of almost setting up this like template marketplace thing.",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's one way of like going after this kind of template and then yeah, but I guess, know, you guys don't necessarily have that yet, and I don't know if it makes sense to do that.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So let us think about how to do that.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "The way I think about it in the short term is like maybe we can, you know, crawl, walk, run kind of approach.",
+            "timestamp": "00:25:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "It's like what we discussed here, I think it's a longer term work stream where we need to kind of sort like whether we want to invest on this because we there's a lot of other pieces to it.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I think it's a more of a longer term goal.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "In the short term, what I would suggest is like treat it as a deontical level that let's identify, okay, what are like some of the top use cases, keywords that already rank.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "And for instance, LMS is starting to become a bigger, bigger and bigger use case for us.",
+            "timestamp": "00:25:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "we starting to sign customer, that'd be the LMS was driving because LMS system like software like socks, like the traditional ones.",
+            "timestamp": "00:25:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So I think there's a",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "It's ripe for disruption.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "So let's identify where those use cases are in volume, and then prioritize a couple of articles that try to rank for those keywords.",
+            "timestamp": "00:26:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Victor Coisne",
+                "matched_calendar_invitee_email": "victor.coisne@strapi.io"
+            },
+            "text": "I think it's a quick warning in the short term until we build the bigger.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "OK, we'll send over some keyword ideas so we can get that started next week if that'd be Let's do it.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "OK, and we're at time, almost three minutes.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Usman Ghani",
+                "matched_calendar_invitee_email": "usman@growthx.ai"
+            },
+            "text": "I did have quick question.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So I just want to make sure that everybody's in terms of work deliverables is on the same kind of place.",
+            "timestamp": "00:26:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So it makes it easier for everyone to manage stuff.",
+            "timestamp": "00:26:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "if it's content that already exists, you guys just going to create the draft, notion, and share it with Theo.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "But if it's new content, I think the easiest thing to do is actually add directly in Shrapi, where Theo could work on it right from there.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "It just makes it much easier.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So I just wanted to reiterate that just for myself.",
+            "timestamp": "00:27:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "And then another thing, a while ago, we kind of talked.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I know you're going to the tradition page, but creating created content.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So having three different or four different types of resources could be a YouTube transcript.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "It could be two blog posts and kind of using that to generate articles.",
+            "timestamp": "00:27:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Is that something that we're able to start doing now?",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "And if so, well, I guess, can we start doing that now?",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "be my first question.",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So for that one, I think I might have missed that combo, but you would provide the kind of seed material.",
+            "timestamp": "00:27:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "here's a YouTube video we made, or here's a webinar.",
+            "timestamp": "00:27:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:27:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "it could be like any content.",
+            "timestamp": "00:27:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "And this was a conversation we started before you started.",
+            "timestamp": "00:27:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So maybe in a transition, you just wasn't mentioned.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "But the idea was,",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So I don't know if you're familiar with like no book LM It's a Google thing which allows you to point to five different resources and they'll generate on audio like podcasts So like we want something similar for like blog post writing.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So that way, you know Sometimes like we might not have like an original idea, but you know We'd look at four different articles that were like oh, would be kind of cool and useful to care about community And so like give you those three resources You know to write a You know article based like curated content and it doesn't all have to be shrappy later I think you just think that ranks them You know drive them.",
+            "timestamp": "00:28:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Um, and then in terms of like how it's you they're you still thinking for kind of SEO Or what is it more would it be more for like something else like it it?",
+            "timestamp": "00:28:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I believe like and I would be correct me if I'm wrong, it's still be like for blog writing It's just basically instead of coming up with Idea where you have like why?",
+            "timestamp": "00:28:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "main idea you pass it to like the AI and the AI writes the article based on whatever the key concept of this idea is to have a created approach where we could point to five, four, three different resources and it creates a whole new article based on that.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "And again, it could something that could bring an ad value.",
+            "timestamp": "00:29:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So that way, it's not just original articles written by AI based on one theme, but it's cool created content that may be trending.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Like for instance, maybe there's four different articles in four different places, but it all makes sense to be like a cool like one blog post.",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:29:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Interesting.",
+            "timestamp": "00:29:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I mean, we can explore that.",
+            "timestamp": "00:29:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "mean, like, I guess, you know, conceptually, like, anything could be an input creating a piece of content.",
+            "timestamp": "00:29:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, for other customers, like we ingest like white papers and podcast transcripts and YouTube transcripts.",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "but I guess if you have like a specific idea, maybe to share that and then we can go from there, because I guess typically how we do the SEO part is like we, we have an intent.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "you know what your product does and we just kind of research that space to see what keywords are there and then we just write for those.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So yeah I guess like for me like it would be like you know you make content that's about the product but you make content that may be trending or is kind of like discoverable content that may not be specific to strappy but you know that other people are searching and then you know so that's kind of like the idea was thinking so you you have these buckets like one it's like this is about the product to like this is you know for a current user so that through it's like this is for you know discoverability specifically to get people to come to the website just think out loud but that would be like the idea like so sometimes like when I'll use Twitter as an example like you know like sometimes I find content where it's like someone made a post but it's like curated content of some interesting things and I'm like oh that's kind of cool.",
+            "timestamp": "00:30:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "then you get interested in that person or so like do something like that for our blog and website.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I think I understand.",
+            "timestamp": "00:31:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Maybe we could like do another call and we can like dig a little deeper.",
+            "timestamp": "00:31:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean it sounds like pieces of it is like right now we don't really have like a live feed that kind of is like time sensitive.",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like for example if something goes viral on twitter about some concept you know like like we want to have a listen.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It doesn't have to be like that crazy.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "It's just like you know P.O.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "and I we saw few cool articles that we thought would be interesting for our community and so we want to use those those datasets to create a whole new article which is created content that could rank for let's say we saw something interesting about you know bolt versus v0 versus whatever instead of like you know like and basically combine those",
+            "timestamp": "00:31:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "together and create a new article that covers those topics in a created way.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:32:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I think I understand it.",
+            "timestamp": "00:32:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You just want a way to drive the types of content we're publishing a little bit more.",
+            "timestamp": "00:32:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "What would that look like just in the channel if you just throw on, hey, are some cool things we read recently.",
+            "timestamp": "00:32:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Would that be your interface with us that we're looking forward to?",
+            "timestamp": "00:32:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It could be.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "From your standpoint, it's how you build the tool.",
+            "timestamp": "00:32:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "For instance, did this for my own personal project I had where I'm just able to point to four or five different documents and it will just auto-generate a summary of those things with key or research and sourcing topics like.",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "He and I are doing stuff, but sometimes it's not just us coming up with these ideas.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Sometimes it's just cool stuff is already happening, and there's already content around it, so source that content to create curated content that we could add as additional content on our website, so that we could increase the volume of how much stuff you're posting.",
+            "timestamp": "00:33:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Yeah, and we could add another meeting if you want to talk more about it.",
+            "timestamp": "00:33:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I think I'll understand it a little bit more of what exactly you mean, because there's different purposes for publishing.",
+            "timestamp": "00:33:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "SEO, generally, try to make sure that we're not publishing duplicate stuff, for a particular topic, maps to a keyword and search intent, and then there's other purposes like topics that are just interesting and time-sensitive that might not rank like that you want to publish.",
+            "timestamp": "00:33:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "push as well.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So what I've seen, like, I forgot what website it was, but they literally had like a resource, like, like, I forgot what they got, I don't think they call it a resource, but basically it's, like, it's also a headless CMS company, but they just published content on, like, you know, if you do something similar, like server site rendering, or like something like this, like, they're trying to hit as many keywords.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "And so, like, the idea is creating, creating content around, like, some sort of, like, in this case, like, you're, you're telling us what to publish or, like...",
+            "timestamp": "00:34:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So when I think of curation, like, so sometimes, like, like, like, for me, like, let's say, I want to search something, and I'm like, I gotta go there, I gotta go here, I gotta go there, I gotta go here.",
+            "timestamp": "00:34:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "And then sometimes you just have a blog post that's just, like, all the things that are interesting.",
+            "timestamp": "00:34:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "thing in the space that I'm interested in in one place like it's basically content that would be interesting for like stuff around front-end development stuff around tailwind but the idea is that stuff picks you know couple of different resources and writes that article about it it's like oh yeah yeah okay I think I finally know it instead of like kind of what we do now is like we take all this and we kind of repackage it as our own but instead you're looking for almost like an article that's like a gateway or like a kind of like a collection of things like hey if you're interested in this go here here's what it's like not necessarily kind of like almost way label it but point to these nice kind of existing resources is that I think think what Paul is trying to say is that let's say we are writing an article on next JS optimization or performance so we want to look like get the best",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "like I have a good taste in like what it means to like write well for this like only based this on you know documentation from this site.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yes this resource that resource like don't kind of go everywhere.",
+            "timestamp": "00:37:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean like transparently you know what we do is like we kind of take a topic we break it down and then you're right we use the combination of like deep research searching scraping to come up with like the base I guess building blocks to then create the article.",
+            "timestamp": "00:37:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah I think what you're looking for is the ability to like kind of for all of us to steer that a little bit more like hey yes you know only use Wikipedia as striped documentation whatever it is.",
+            "timestamp": "00:37:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Exactly yeah that's what I meant by curation but okay I've got so we're kind of carrying away this probably different yeah exactly.",
+            "timestamp": "00:37:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah yeah no people know that I think we might even yeah if we don't have like like I'm trying to think of the right interface for this I can only have our content OS and all the keywords in it in there that could be one or like if you just dump it to slack we can figure it out but one way we could do this is like we have a key.",
+            "timestamp": "00:37:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then we could just add a call and it's like, you know, what do you think are the best resources that cover this today and then we can kind of like narrow what we use like in our research, you know, to come up with our version of that article, like with that, you think with that cover, what you're thinking.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "In terms of like, if it fits, you know, exactly, like picking five different resources and benefiting new content from it, yeah.",
+            "timestamp": "00:38:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:38:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So, okay.",
+            "timestamp": "00:38:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then we should also have one where like, it's not necessarily writing an article that you just think like, these are good and useful.",
+            "timestamp": "00:38:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then, you know, you give us the resources and then we figure out what the output is.",
+            "timestamp": "00:38:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Because I guess like, usually for this SEO stuff, you're writing for a certain intent for a search, that's probably what steers it more than anything.",
+            "timestamp": "00:38:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But I guess like, I guess like the idea would be like, know, we talk about making sure like we have more quality.",
+            "timestamp": "00:38:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "the articles and sometimes if you have certain data sets that already automatically in the workflow and to do the best that you can't, but sometimes you're like, oh, well, we're writing an article about next year's, next year's just improved their documentation.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I want you to use their improved documentation for this particular article.",
+            "timestamp": "00:39:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "So that's like idea for us to be able to pick and choose a little bit more.",
+            "timestamp": "00:39:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like you said, have a little bit to that.",
+            "timestamp": "00:39:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, we these conversations are really helpful.",
+            "timestamp": "00:39:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We already try to figure out how we can only use stuff that's published in last six months and then only for code base it on official documentation, blah, blah, Yeah, and the goal is not for every article, but the word makes sense, because it's a high level we're adding that layer in.",
+            "timestamp": "00:39:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It sounds like you guys just have good ideas and you read things for that as well.",
+            "timestamp": "00:39:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "don't know exactly what that flow looks like.",
+            "timestamp": "00:39:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "maybe for now, like, if you see a topic that we're going to publish soon and you have opinions on like, hey, based on this, you can either throw it in Slack or just type, I think we would call them if not, we'll add it in the content OS.",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "then, that's what we get, so we'll kind ahead.",
+            "timestamp": "00:40:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, so I think it'll be a great idea.",
+            "timestamp": "00:40:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "It's like, to add a column in Content OS, top, like article you're working on, we could add additional resources that could kind of help you get, you know, fine-tuned a little bit.",
+            "timestamp": "00:40:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, and then I think on the new content idea side, think Theodore, you know, does a really good job.",
+            "timestamp": "00:40:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, he's always sharing kind of ideas for new things to publish.",
+            "timestamp": "00:40:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like feel free to do that as well.",
+            "timestamp": "00:40:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "when you do, if you share a little bit more about like, where the idea came from, what you think is a good resource that covers that topic, we can also factor that in what info we use to like generate the article.",
+            "timestamp": "00:40:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You think that would work.",
+            "timestamp": "00:40:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I think so.",
+            "timestamp": "00:41:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "we could add that extra thing in the content OS and we could start doing it right away just to kind of give you the little bit more direction with recommended resources.",
+            "timestamp": "00:41:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I added the URL in.",
+            "timestamp": "00:41:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It's right beside the assignment status.",
+            "timestamp": "00:41:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "It says inspiration articles.",
+            "timestamp": "00:41:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And if anything is set to 03 generating article generation, that means that we're already working on it.",
+            "timestamp": "00:41:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "If it's an 01 considering, that means this idea is for you guys.",
+            "timestamp": "00:41:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "if you want to approve it, goes to ready to start.",
+            "timestamp": "00:41:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "And if you want to add ideas at the ready to start stage, you guys are approving networks as well.",
+            "timestamp": "00:41:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Sorry, I want to understand.",
+            "timestamp": "00:41:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "I was trying to, I approved some topics today, but I wasn't so sure, although I saw the colon for approve or reject something.",
+            "timestamp": "00:41:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "and like okay let me confirm yeah approve yes or no so if that's where i should go like when i go to considering i could approve the or should i go to ready for publish sorry you're muted see me no we heard you um i don't know if you want to quickly share your screen to give a little more context all right let me show my screen so can you see my screen yep so yeah so Sydney was like she already added some topics on a table that i should approve so this column here tells me i should approve them",
+            "timestamp": "00:42:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "which I've done for some but I'm not so sure if this gets like moved to the ready for publishing section or as you just like leave them for you to check back later.",
+            "timestamp": "00:43:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Yeah this yeah sorry so I think there was a misunderstanding when this board was set up so the view that I'm on actually has that column hidden so I'll just unhide it for me and then I'll do put it to the next stage.",
+            "timestamp": "00:43:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Thank you for doing that.",
+            "timestamp": "00:43:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay it is something like this like you want me to approve some topics how do I do that because I know I asked before and yeah yeah this this works if you want to just add the topic approved it works if you want to change the assignment status to ready to start that works as well it's entirely what's more convenient to you.",
+            "timestamp": "00:43:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:43:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Okay cool thank you.",
+            "timestamp": "00:44:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Theodore ONYEJIAKU",
+                "matched_calendar_invitee_email": "theodore.onyejiaku@strapi.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:44:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Okay so I'm so sorry for taking over 15 minutes of your time but as really productive chat and we have a lot of ideas for next week and we're excited to get those started.",
+            "timestamp": "00:44:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Is there anything else?",
+            "timestamp": "00:44:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "I just want to say last thing if you have any questions just ping me directly I'm the answer and whatever help they need to get you need to kind of help us keep moving forward.",
+            "timestamp": "00:44:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Paul BRATSLAVSKY",
+                "matched_calendar_invitee_email": "paul.bratslavsky@strapi.io"
+            },
+            "text": "Okay awesome thank you thank you so much.",
+            "timestamp": "00:44:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "Thanks thank you.",
+            "timestamp": "00:44:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sydney Go",
+                "matched_calendar_invitee_email": "sydney@growthx.ai"
+            },
+            "text": "All right thanks for coming up.",
+            "timestamp": "00:44:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:44:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:44:37"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Strapi and GrowthX teams to discuss content strategy, SEO optimization, and workflow improvements.](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Strapi fact-checker working well for Strapi-specific content; exploring solutions for web developer knowledge gaps](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=126.0)\n  - [New comparison page template proposed; discussing implementation and maintenance strategies](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=436.0)\n  - [Focus on long-tail use cases for Strapi to showcase versatility and improve SEO rankings](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1040.0)\n  - [Exploring curated content approach for blog posts to increase volume and quality of published articles](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1577.0)\n\n## Topics\n\n### Strapi Fact Checker and Content Accuracy\n\n  - [Fact checker effectively catches Strapi-specific content errors](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=126.0)\n  - [Exploring solutions for highly technical web developer knowledge gaps](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=158.0)\n  - [Currently using human reviewers to catch nuanced technical issues](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=192.0)\n  - [Theo's technical expertise valuable for content review](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=251.0)\n\n### Content Production and Workflow\n\n  - [Some articles published, others in progress](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=310.0)\n  - [Discussing draft creation process in Strapi CMS](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=319.0)\n  - [Agreed to use Markdown format for content drafts (e.g., Notion, Hack MD)](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=402.0)\n  - [Exploring options for maintaining comparison page data (spreadsheet vs. Airtable)](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=872.0)\n\n### Comparison Page Template and Performance\n\n  - [New template proposed with structured sections (overview, CMS comparison, feature breakdown)](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=514.0)\n  - [Discussing inclusion of Strapi in all comparisons for consistent referencing](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=700.0)\n  - [Aiming for balance between maintainability and SEO optimization](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=576.0)\n  - [Considering automated updates for feature comparisons in the future](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=898.0)\n\n### Long-tail Use Cases for Strapi\n\n  - [Opportunity to showcase Strapi's versatility through specific use cases (e.g., LMS, e-commerce, internal tools)](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1049.0)\n  - [Discussing approach: individual templates vs. collections of use cases](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1522.0)\n  - [Short-term focus on identifying and prioritizing high-volume use case keywords](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1538.0)\n  - [Long-term consideration for building a template marketplace or showcase](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1343.0)\n\n### Curated Content Approach\n\n  - [Proposal to create articles based on multiple existing resources](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1577.0)\n  - [Aim to increase content volume and quality while maintaining relevance](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1577.0)\n  - [Discussing workflow for suggesting and approving curated content ideas](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=2400.0)\n  - [Considering addition of \"inspiration articles\" column in Content OS for team input](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=2476.0)\n\n### Content Approval Process\n\n  - [Clarified workflow for approving topic ideas in Airtable](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=2597.0)\n  - [Options to mark topics as \"approved\" or change status to \"ready to start\"](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=2638.0)\n\n## Next Steps\n\n  - [Implement Markdown format for content drafts](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=402.0)\n  - [Start thread in Slack to discuss comparison page data management with Maxim](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=662.0)\n  - [Research and propose long-tail use case keywords for prioritization](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=1538.0)\n  - [Add \"inspiration articles\" column to Content OS for team input on curated content](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=2476.0)\n  - [Continue approving and working on proposed content topics in Airtable](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=2597.0)\n  - [Schedule follow-up call to discuss curated content approach in more detail](https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe?tab=summary&timestamp=2397.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Review new content drafts in Notion",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:58",
+            "recording_playback_url": "https://fathom.video/calls/289329889?timestamp=358.9999",
+            "assignee": {
+                "name": "Theodore ONYEJIAKU",
+                "email": "theodore.onyejiaku@strapi.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Send integration page drafts via Notion docs moving forward",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:06:53",
+            "recording_playback_url": "https://fathom.video/calls/289329889?timestamp=413.9999",
+            "assignee": {
+                "name": "Sydney Go",
+                "email": "sydney@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Start thread in group channel, loop in Maxim re comparison page structure",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:51",
+            "recording_playback_url": "https://fathom.video/calls/289329889?timestamp=651.9999",
+            "assignee": {
+                "name": "Paul BRATSLAVSKY",
+                "email": "paul.bratslavsky@strapi.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Resend Airtable link for content ideas to team",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:41",
+            "recording_playback_url": "https://fathom.video/calls/289329889?timestamp=941.9999",
+            "assignee": {
+                "name": "Sydney Go",
+                "email": "sydney@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Send keyword ideas for LMS and other top use cases",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:26:06",
+            "recording_playback_url": "https://fathom.video/calls/289329889?timestamp=1566.9999",
+            "assignee": {
+                "name": "Sydney Go",
+                "email": "sydney@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Victor Coisne",
+            "email": "victor.coisne@strapi.io",
+            "email_domain": "strapi.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Victor Coisne"
+        },
+        {
+            "name": "Golzar Yaghoubpour",
+            "email": "golzar.yaghoubpour@strapi.io",
+            "email_domain": "strapi.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "paul.bratslavsky@strapi.io",
+            "email": "paul.bratslavsky@strapi.io",
+            "email_domain": "strapi.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Paul BRATSLAVSKY"
+        },
+        {
+            "name": "theodore.onyejiaku@strapi.io",
+            "email": "theodore.onyejiaku@strapi.io",
+            "email_domain": "strapi.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Theodore ONYEJIAKU"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jason Gong",
+            "email": "jason@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Jason Gong"
+        },
+        {
+            "name": "Usman Ghani",
+            "email": "usman@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Usman Ghani"
+        },
+        {
+            "name": "Sydney Go",
+            "email": "sydney@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Sydney Go"
+        }
+    ],
+    "recorded_by": {
+        "name": "Sydney Go",
+        "email": "sydney@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/k_MdUJay7PksQppEwGEGoEivQRHVjipe",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

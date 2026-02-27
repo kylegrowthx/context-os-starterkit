@@ -1,0 +1,4182 @@
+{
+    "title": "Interview with Shahram Monshipouri - Backend Engineer (API + Runtime)",
+    "meeting_title": "Interview with Shahram Monshipouri - Backend Engineer (API + Runtime)",
+    "url": "https://fathom.video/calls/271783650",
+    "created_at": "2025-04-09T22:58:49Z",
+    "scheduled_start_time": "2025-04-09T22:00:00Z",
+    "scheduled_end_time": "2025-04-09T22:50:00Z",
+    "recording_id": 56494161,
+    "recording_start_time": "2025-04-09T22:03:06Z",
+    "recording_end_time": "2025-04-09T22:58:31Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I'm sorry for like rescheduling, rescheduling, you're so many times.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, actually I did, I rescheduled last time.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Sorry for that.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "You know, when you need to fix it as quick as possible, you know, and you cannot do anything and you don't know how long does it take.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "It looks like a tiny thing, but it takes time.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Sorry for that.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I know.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I'm so sorry.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "No, I think that thing happened.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "It's always, yeah, it's not at all.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have, I got booked.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I usually booked 15 minutes, but we don't have to use the whole time.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "It's just in case.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I was thinking like maybe today that I'm usually like getting.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "know people before we put into the process and you get to know me a bit as well.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I can walk you through some of the things we're going to see if things we have as potential projects and things like that excites you and then you're not going have to just move into the normal interview process with like meet with one of our engineers and all that.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "that sound good to you?",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Sounds great.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, like today maybe I maybe what I could do is I could give you like a little bit of my back story like some like five minutes of that and then you can back on your end as well.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "There's like a lot of stuff on your story that's like interesting like I was user of Charlie O for a while for example but for two years of your side of things.",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, so like my my back story I'm originally from but I'm from the south east in Brazil and in the program most of my pretty much my whole",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And that a lot of desktop stuff in the beginning got super interested in the UI side of things, um, a lot of, um, uh, that's like, uh, rich, what we did, like, single page apps today, early 2000s, and then got super interested about, uh, on Rails, like Ruby on Rails, 2006, 2007.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "was growing super fast and brilliant at that time.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And I was mostly interested in how you could ship something on that side, at full stack, uh, fast, and like some of the other things that were doing were not like that.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So yeah, I was very much focused on the inside of things.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, so I did, uh, we went heavy on the Rails community, helped do a lot of stuff locally, like conferences, ended up helping organize the bazir, the conference, uh, the main event for the, for the country.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And, and then did a bunch of like, uh, around Rails and, some of the things involved, like the product.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "development and just general, like, project management, things like that.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But there's, like, it's heavy on, like, at the time, like, 15 years ago, like, almost 20, actually.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And it was very heavy on the government and the corporate stuff, like, enterprise.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And not so much that started up.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And like, that's what I like doing.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "It's just like, product development, working closely to a consumer or, or if it's going to be B2B, something that's, like, not corporate, super huge enterprise and ended up getting that up with the Brazilian market and sent the message to the, I had a list of product companies that I was excited about that I wanted to, like, essentially bone, like, figure out a way to work for them, even if it was for free.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, like, I had just sold my consulting shop to another consulting shop in Brazil, had some money saved and my plan was just, like, a year doing a sabbatical and just, like, traveling around, to improve my English in the process and learning.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "in the different product management, product development, started in different places.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "First place I had to do was the guys from 27 signals, the guys that created were going various.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And base camp, they had like the main two was base camp, no matter if you've heard of them.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And they had just invested in a coding boot camp, was actually the first coding boot camp, was the company that came up with the concept.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And they had made an investment in this company.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "They were teaching a lot of Rails related things, and I volunteered to work for them for three.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "That's how I ended up moving to the US.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "long story short, did a bunch of product development for them, then I joined, if this and that, I don't know if you've heard of it, but it was like a great cursor of Zapier.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And yeah, I was there for joining the staff like a public engineer, then switch to lead the team, or the web to me.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then that's what you had a product after that.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Did that for a couple of years and then switched to, that was my experience like running a bit of some things on the VC side.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then I wanted to go back to like, that you bootstrap something again.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So I, at the time, Basecamp was spinning off a bunch of their products.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So I joined one of the, this product's ever been spun off and did that for the last setting years.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we managed to like scale the business.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "never really grew best at two million dollars in ARR, but it was a nice run for the, the, the sizing of things.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But eventually you had to the point where both the market, like the, with the, the market shift for like AI things becoming so, so, so possible.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like I was always playing with it.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So even before GPT 3.5, when like was actually like, okay, this is a very viable.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I was playing with different language more.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "This is even before large language.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we could never really get like super great results for what I was trying to do.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But the moment, 0.5, 0.5 is just OK, is very obvious.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I finished one product in either of canopy using a chatbot, using my rag, using my vector database, trying to convert all the video content that we had into text that you could chat with.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And that worked out really well, but ended up being just like a feature inside of a larger product.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And I wanted to do something that was a whole product was enabled by what we can do now.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And the company was not set up for that.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I decided to take a sabbatical and just study a bunch of stuff.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I was mostly focused in like prompting engineering and all the different techniques to get accuracy, right?",
+            "timestamp": "00:06:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Because that was one of the challenges I had for a canopy in my previous company.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "sure like always using this stuff from the rag and like getting the sources right, to get in.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "all that stuff, getting the tone of the language right.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I was just figuring out how to do like an engineering pipeline of today's tangents, like evaluations and all that.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then I was studying that.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "at that time, met Marcel.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So Marcel was coming from my co-founder.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So Marcel was coming from the other angle.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I was coming from a product, can't be viewed with this.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And Marcel was coming from a marketing side.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like, what can I do to enable my marketing team, essentially?",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And he had built a bunch of publications in the past, like IBM, Fresh Corp, for HP.",
+            "timestamp": "00:07:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And they all had this similar structure where you have editors, have writers, have content managers, you have the whole set up with almost like a magazine or a newspaper.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "like so much hand off like desks and like so many things that you have to like, rupture.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then he started doing that for the company he was working at as a CMO.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But AI first.",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And that's",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "really, like what usually would take like years for them to do, he was able to do like in months because of the volume and the quality of the output that was able to do.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So was just like blasting creating articles automatically was just like adding people, like automating what's possible and adding people in every step of the way.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And he did that and like he realized that he tried to teach that and that didn't like teaching was hard.",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like many companies would be like, okay, that sounds great.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And they would attend their workshop and they paid for workshop.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So he like made a ton of money and selling workshops and how to do AI enabled marketing.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But they all wanted someone else to do it for them because they didn't have the skills and all that.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So he started doing that as a service and grew super fast.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like he ended up having like a million dollars in revenue in like a couple of months.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And he started in May.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I met him in August and I joined him September like right.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "to imagine.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And everything was like six together as like no code or local tools where you'd like to do the LLM pipeline using graph based UI and things like that.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And it just wasn't scale scaling for like the 20-ish clients we had.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We had like in clients, but we are adding like five clients almost like three months.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So I ended up rewriting the whole thing very similar to the infrastructure we had at my time at ADIFT where you had like a runtime or essentially distributed systems.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "had all these APIs that can't fail at any time.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Any dog that we try and the back off and all that.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And build that on top of this infrastructure called Temporo.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So build a layer on top of Temporo.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we build a product to trigger all the workflows and manage all the AI pipeline.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And make sure what we've been doing.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we've been able to now we have a 40-ish",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "five clients.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We've been able to grow pretty well.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "The whole company now, we have 50 people.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I can show you the work chart and all that at the end, but we have a ton of people on the services side and we're starting to build the product team now.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So the product team, like we've been in the product team, grass, like in the past couple of months after we fundraised.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we've shipped all the way to like six million dollars just ourselves.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "It's just me and another programmer part time.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And now we one, one, two, five engineers and one designer to start being made.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So everybody's just ramping up.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So it's very new.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "everybody's still getting their bearings.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "that's where we are in the just and I can show you everything.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I can show you like that.",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Walk you to the platform.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "It's missing.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We have that's more vision.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "If you have any questions immediately or if you want to, we leave the questions for the end too and I will have a bunch of questions for you for sure and your story is very interesting.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Sounds great.",
+            "timestamp": "00:11:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Thank you for sharing that.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Actually, I studied computer science in Sweden.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "My major was on distributed system and security, so I built a protocol for the distributed system to come to securely communicate and those kinds of things and I used to be PhD students but I couldn't finish it because of financial things.",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I came to US in 2013 like 12 years ago and I started working in startups because I like to build things.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I don't like to spend years on one button in a large core.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I like to learn things.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I like to do things.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I like to build things.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "That's why I always love to be in a startup.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I work with a",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "company called Talent Circles, which was on enterprise model for $4,500.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "they were building like three hiring human resource software.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "For them, back then there were no LLMs or such those kind of things.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So it was hard for them to find the right candidate.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So back then there were no software in the market.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Right now there are a ton of them.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "back then with our software, they could put like one menu applicant in the system and they can put the job posting and system with AI, could tell them, okay, those 10s are best ones for you to move forward and interview of those 10 things.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And we had a lot of other tools around it, like to capture information, you know, sourcing the talents, mean, like video interviews, questioners, assessments, flight porting, etc.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "of those tools they need to.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "It is essentially not actually ATS because it is for after hiring, but yeah, pipelines, everything for hiring, identifying the whole thing.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Oh, did you start?",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "what did you join when did you join?",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like, you're a co-founder that company?",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Like, I think, you know, were like, they were like three year old startup when I joined them.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, but you were like, yeah, purely, uh, yeah, they, on the company's 2013, early 2011, it's early 2011, I was joining in mid 2013.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I was there for a while, and then I left the company because of accusations and those kinds of things.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Oh, again, why?",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Uh, yeah, they had a plan.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "to go, you know, with another company called Atrium.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So yeah, they try to scale down the company, I mean, the constant everything.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I love the company.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I joined Chartio and my job was, you know, when they hire me, the VP of engineering, there were no CTO or C level in Chartio for some reason.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "We had to want to CEO and the rest was like VPs.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So the VP of engineering, she hired me to boost the conversion rate.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So we identified that we check everything and we find, okay, the bottleneck is about sources because there are not that many sources of bringing data.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I started building a lot of integrations and ETL pipelines and those kind of things for Chartio too.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "You know, add like one hand",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "plus sources of data to bring all together in one data warehouse to give charts of all of that, and that was my task.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I did that.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And, you know, we doubled the conversion rate in like few months, like five, six months, and that works well.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So that was my project for a while.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "helping different companies with small and large, know, a small and medium-sized startups helped them to scale and, you know, get security certificates on those kind of things.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And I was in charge of the client, know, our company was like, U.S.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Canada kind of consulting company.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So we had offices in Canada and U.S.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I was in charge of a Canadian project,",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "who wants to build something similar to open tables, if you know open tables, something similar to that for Canada, and it was a zero to one project for me.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I was in charge of like six engineers, one designer, one tester, like a total of eight other engineers to build the whole thing for them, restaurant panels, tablets, user models with, you know, job location, et cetera, cetera, cetera.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I was in charge of that project, and later I joined my last company.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Back then, it was called needle health, not standard practice.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But when I joined them, were two co-founders.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "One was product, the other one was sales, and they were not technical.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they hired me to build the whole thing for them.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And.",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "they just had a power point.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So when I asked, okay, what can I see about what do you do?",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And they just have a power point and that's it.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So we start with a power point and an idea and they raise some money because they know what they do and they're very, you know, good at what they do and with the good background.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they trust them, they give them money.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "we had money.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And what we built was by now pay later for medical expenses, if you know a firm or similar to a firm, but for medical expenses.",
+            "timestamp": "00:17:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And we were giving it to employees as an employee benefit.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they can pay for medical expenses to certain amount based on our contract with the company without having any other policies or something.",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And they could pay us back in like 12.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "month with zero interest.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "That was our pleasure.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "They hire another engineer with me in the same time this name is Paul.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So we both together built the whole thing like in less than four months or so and we start expanding it and we built lot of teams around it and we start selling it and that was a very very good product.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "We had a card and they can pay we did and we checked it and payment was good so we go to a lot of security and stuff.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And for that platform we start doing something else as a bonus extra feature which was called smart builds so they could upload the builds and they start uploading the builds for us.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "for payment, but we find that, okay, there are a lot of problems in those bills, let's process them, we call them smart bills.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Our system with AI could tell them if there is any problem in the billing.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I mean, if they overcharge it, if it's not right, if the coding is not right, et cetera, and everybody loves it.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But because our company was on like employee benefits, it was hard for them to sell because they had like previously in the year for selling, and it was hard to sell the whole thing as a startup, so they decided to keep it.",
+            "timestamp": "00:19:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they find that the smart bill is very interesting part, but the payment in employee is not interesting.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "It doesn't sound interesting to people, so they let the sales team and outstanding",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "goes away, and we start together again, another zero to one, the same for people like two co-founders, me and all together, again, in some company, but we change the company name to start a practice, and we build something else just dedicated to billing.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So, we build something called practice, which is a generative voice AI agent medical billers.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So, if you know, if you go to medical hospital or doctor, they need to build your insurance, and that's very complicated, because even you don't know what is covered, what is not, and that's on purpose because, you know, they don't want to pay and those kinds of things.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And billing is also complicated, so they all source it to medical billers.",
+            "timestamp": "00:20:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So, they have billing departments or they source it to medical billers.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So, there is a medical biller somewhere, and they need to,",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Pick up the phone, stay online, know how bad is those calls.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "they need to wait online, who has very complicated IVRs to get to somebody.",
+            "timestamp": "00:21:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "They need to verify themselves, need to give information, they need to verify they are authorized to get information because it's etc.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "They need to ask questions about coding, etc.",
+            "timestamp": "00:21:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "They need to get information to process that bill, to know how much they can charge, how much you need to pay, etc.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And that's very time consuming, and they barely can handle like 7-8 page patients per day.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "medical bill, because they need to call, insurance, and verify all of those things.",
+            "timestamp": "00:21:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But with our system, they import everything, they press a button like 200 calls, away simultaneously to different insurance companies, pass IVRs, do all of those things.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Capture, talk to those humans, capture information, put back in the system for",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they have all the informations they need for all the patients so they can focus on feeling not calling, so they can handle life.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I don't know, 50, 60, 70 patients per day instead of 7 or 8, which is awesome for them.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they love it and we grow very quickly and everybody loves it.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So that was a good success story but up to this point I had like 30 to ones.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "One was the man like the Canadian client for open tables and another one was maybe a little after that was standard practice.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But the reason behind me leaving is when they hired me, you know, it was like 2009, he was trying to make the hired me a remote person.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "was in California, they were in New York, but",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "After that they start hiring everyone in office and they want everyone to be in office and I was in California And so I was down the 31% so they said okay.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "What do you do?",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Where was the company located?",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "They're not here near New York City.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Oh, New York, okay And they so what do you want to do when I come here or Okay, I've come and they offer me a high-key drill and I said, okay, I'll take you So that's why I'm looking Yeah, that's it.",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "No, it makes sense.",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like you Have a few questions actually like if you Going back to charty.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Oh, so you join day the company Was that right at the time they were getting acquired or like Like few months before I just",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "leap right before requisition are you left before the acquisition but so that they were doing really well was a very cool product and it was very very useful at the time I think there was not a lot of like competitors where you had like a now now a days is like just a few more but that was one time that all the competitors got bought and you could only use like the studio meta base and like a few other yeah look look here look here look here select how many people they had at the company when you joined pretty much out already right oh yeah like 50, 45, okay was it based here or was it based on Francisco okay yeah okay remember that so you were in charge of building the the sources and doing the API integrations for API part lines, data engineering, those kinds of things",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Okay, and like what was the stack it was like a quiet or high ton Java back and I mean JavaScript content And how was the the project structure worry like did you have like a that that sounds like a pretty important part of like a well-developed product already and you came in with large large responsibility and Like what was the set up there?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You had like it was just you running the project and you have the or you have the time with you I own that park.",
+            "timestamp": "00:25:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So actually was me and another engineer, but she left for Materna to leave so actually I finished all thing And what's the I wonder if that's the project like or in general What's the project that you think was like the most technically challenging project that you worked on because like that sounds interesting The one that you just did recently also like sounds really interesting a lot of interesting stuff like what was you think is the most",
+            "timestamp": "00:25:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, I think standard practice was the most interesting one to me because of timing, because when we started doing that, it was very early, so there was no best practice, no good documentation.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "knows what to do.",
+            "timestamp": "00:26:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "All the libraries pending quickly, so when we built something with the library, day, and before that, I was building things based on the design, so I know the UI is going to look like this, the data is kind of that, those are the events, with this one, it was an agent talking on a phone with somebody else.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So we start with no understanding of how the product should look like, and we start from somewhere else.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "We start to see if that's even doable, and when we build the product, when we build the agent, who can tell.",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "from then we start thinking, okay, how then now how we can make a UI to interact with this agent?",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So then we start building the interface and those kind of things, but we start from somewhere else, there are no best practices, there are no good use case for understanding how we should use, I mean, the library is we go through a lot of codes and read them and back them, you know, put a lot of tickets on GitHub for developers to fix things, you know, it was a different word, was challenging.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I mean, here's what's the architecture there, like, did you have like a like an LLM pipeline or you have like a like a texture feature of this voice API in the mix, like what did you guys use, like what's the here's a what's the architecture?",
+            "timestamp": "00:27:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, at the beginning we start experimenting to see if that's whether or not, so we start with off of the shelf and models, like of an AI.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "a bunch of operators.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "No, open AI for LLM, we start with different and we use play at the beginning.",
+            "timestamp": "00:28:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But when we find that it's doable, then we work on getting hit complaints, so we find that, okay, play is not HIPAA compliant.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I'll play the sales, the sales, enabling to get played, HD back then, so play AI now.",
+            "timestamp": "00:28:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But yeah, we switched it to something else, which was DeepGram and people say, oh, that's two robotics.",
+            "timestamp": "00:28:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "then, Cartesian was around, so we moved to Cartesian.",
+            "timestamp": "00:28:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But for the modems, we use, like, out of the shelf modems, we built the whole part line on the 13s and rides and other things around it.",
+            "timestamp": "00:28:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But later, when we built things, so we had a lot of optimization and et cetera, and find that, okay, we'll pay",
+            "timestamp": "00:28:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "of our money to open AI.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "we start self-hosting ourselves, going with different models to improve the speed and efficiency and those kind of things.",
+            "timestamp": "00:29:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Because for us, it was a human talking on the other side of the line.",
+            "timestamp": "00:29:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And there are examples, I mean, concenters.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So if they don't hear something for two seconds, they hang up.",
+            "timestamp": "00:29:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And so we need to be very, you know, quick.",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And it was medical information.",
+            "timestamp": "00:29:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "we need to be very precise and not vaccinated.",
+            "timestamp": "00:29:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, that was the complication probably.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And the quality was bad because there are other countries and other persons are talking in the same room with, you know, about the same subject.",
+            "timestamp": "00:29:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "That was another part.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Accent was another barrier and a lot of chicken safety was in place.",
+            "timestamp": "00:29:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But that was a",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "challenging project, but that was fun.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Here's like, how did you guys manage the LMM orchestration?",
+            "timestamp": "00:30:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Did you use something like Langchain or like, did you roll out your own or?",
+            "timestamp": "00:30:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Because the backend was in Python, right?",
+            "timestamp": "00:30:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I think it has a lot of infrastructure, not a lot, but there's like some infrastructure going on for LMM management already.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "How did you guys manage?",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "We use Langchain for some parts.",
+            "timestamp": "00:30:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "We built some other parts on ourselves because it was not one system that was like few services working together at the time.",
+            "timestamp": "00:30:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But for the alarm part, we use Langchain and we'll migrate to the Langgraph later, which is Langgraph plus Langchain later.",
+            "timestamp": "00:30:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "How did that?",
+            "timestamp": "00:30:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I haven't tried Langgraph yet.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "have used Langchain before, but not Langgraph.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Is that, are you guys happy with the result?",
+            "timestamp": "00:30:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And well, it's good for complicated scenarios.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "If it's easy, it",
+            "timestamp": "00:30:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "at overhead and you know more complexity but if it's complicated it makes your life way easier because you can build reusable parts and that's I mean we have a lot of tools but it's not good for like simple economic tasks it's good for complicated tasks if you want to have everything very controlled which was the case for us because it was medical all right that makes sense the key is like one thing that I'm always curious about people like when they're sharing their stories and all the like you have a ton of experience there any person that has like a ton of experience like this there's always like projects that didn't go the way they they want it and like if you like to share like one of those examples and what do you have done different like maybe it's like from the past or maybe like something's from the more recent things like what the project didn't go",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Well, it was the one we did for the Canadian client, because they tested with you users, they didn't launch it because of, you know, probably financials or investment issues or something.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, it was working good on our side, but it was a failure for me because, you know, when you build something and nobody uses it, it's a failure, you know.",
+            "timestamp": "00:32:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "When you build something and everybody loves it, it's a good thing.",
+            "timestamp": "00:32:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But you, you are on the consulting side when you're doing that, right?",
+            "timestamp": "00:32:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "like they, they come with like with the idea and then you build and then they are responsible for the, for testing it out or?",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, we've been able to suffer for them.",
+            "timestamp": "00:32:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they were like a team of, you know, a company like sales, marketing, et cetera, cetera.",
+            "timestamp": "00:32:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "They also the product to us to build the human for them.",
+            "timestamp": "00:32:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they were not taking it on their way.",
+            "timestamp": "00:32:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Just.",
+            "timestamp": "00:32:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "on it.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Executives and marketing themselves.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Okay, that makes sense.",
+            "timestamp": "00:33:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, that's the challenge with consulting.",
+            "timestamp": "00:33:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You've built so many things that never out of your control, the success of them.",
+            "timestamp": "00:33:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yes, but that was a very cool product.",
+            "timestamp": "00:33:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "really like it, but I cannot show it to anyone, and that's bad.",
+            "timestamp": "00:33:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "What's your preference?",
+            "timestamp": "00:33:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "sounds like you've been, essentially, it sounds like you've been full stack on all these projects.",
+            "timestamp": "00:33:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You can do UI side things too.",
+            "timestamp": "00:33:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "What's your preferred part of the stack and how do you submit?",
+            "timestamp": "00:33:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I find it with everything, because I'm a circle guy.",
+            "timestamp": "00:33:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "wear all the dual sets before, so whatever it takes, I can take that role.",
+            "timestamp": "00:33:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, I used to do, like, see thoughts, I mean, stack, operations, front-end, back-end.",
+            "timestamp": "00:33:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "even mobile.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Nice.",
+            "timestamp": "00:34:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, that's, that's, that's definitely via a valuable, uh, Aztec skills to have, especially in, in our setting when you're a small team in everything.",
+            "timestamp": "00:34:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Uh, like, what's the key as well?",
+            "timestamp": "00:34:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Do you have the, like, probably, like, our stack is today, we have, uh, TypeScript for the, for the LLM orchestration.",
+            "timestamp": "00:34:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We use Python, uh, we use all the native SDKs that, uh, the, different LLM models have.",
+            "timestamp": "00:34:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we use pretty much everything we use opening, who's in traffic, we use crop in some cases.",
+            "timestamp": "00:34:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Uh, we're probably going to be adding more of one soon.",
+            "timestamp": "00:34:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we use this distributed system called temporal that uses the, uses types, and we use the TypeScript, uh, SDK.",
+            "timestamp": "00:34:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "it's like, it's like, it's like script on the one side.",
+            "timestamp": "00:34:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And so that's the.",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "part that has to perform all the operations.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then we have anything that's user-facing is React, in TypeScript as well, on a separate code-based.",
+            "timestamp": "00:35:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we have the backend is in Rails for the database or agent for the execution of the LLM jobs and all that.",
+            "timestamp": "00:35:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But like, yeah, the LLM work is all done in TypeScript.",
+            "timestamp": "00:35:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Okay, and the React side of the thing is we are using, what's almost like becoming the standard, this day is like, Chad Cien, K-O-N and like we're not using none of the, we're not using routers, we're not using next, yes.",
+            "timestamp": "00:35:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We're just using the components for that C-N.",
+            "timestamp": "00:35:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Here's what are your, what do you think of this stack?",
+            "timestamp": "00:35:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "If you would be like comfortable and if you'd this stack, you'd be happy to work with, or if you.",
+            "timestamp": "00:35:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I like Chatsian is a nice project so before Chatsian I was doing the same thing actually because it's good to have your component somewhere.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "It's better if you can use something out of the shell which is very customizable so I like the concept and I think it helps a lot to build a very clean use interface so I like it and you know I don't have any strong preference for CRA or NAICS or whatever so to me all of them are the same I mean NAICS is better if you want to have like public facing or SEO etc but if you don't want to have public facing I personally believe like not going with NAICS make you more scalable because you can host it on CDN but some people do",
+            "timestamp": "00:36:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I agree, some people agree.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "don't have any strong preference about, you know, the NAICS versus CRA, but I like both.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But I like Shotzi and as well.",
+            "timestamp": "00:37:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "What's like, have you had the...",
+            "timestamp": "00:37:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "That's like another thing.",
+            "timestamp": "00:37:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "It's just like, what are your...",
+            "timestamp": "00:37:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "what's the important for you in the project and in the company to do well?",
+            "timestamp": "00:37:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like what's like your most same?",
+            "timestamp": "00:37:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Main culture speaking or kind of projects you like working or like it?",
+            "timestamp": "00:37:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Well, to me, Tim is the most important part, as I told you, so I joined that company with two co-founders and a product for it.",
+            "timestamp": "00:37:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "That's it.",
+            "timestamp": "00:37:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And we didn't even stick to that same idea.",
+            "timestamp": "00:37:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "We did get something else, but to me, Tim is the most important part because if you have a good team, if you can communicate, effectively if you can collaborate well.",
+            "timestamp": "00:37:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "you can build a company.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "If you have a good idea, a lot of money, bad thing, you don't get anywhere.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I like to work with people who know what they do.",
+            "timestamp": "00:38:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "mean, not right off the college, so I know I like to work with people who know doing the three work for one and the three, where it's that's my personal preference.",
+            "timestamp": "00:38:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So the four people, do standard practice, right?",
+            "timestamp": "00:38:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "like, what was the set up there?",
+            "timestamp": "00:38:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like, you were the technical side, you probably, and then you had like another programmer, right?",
+            "timestamp": "00:38:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then you had the two founders.",
+            "timestamp": "00:38:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "We found there's one with sales.",
+            "timestamp": "00:38:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "He was from Goldman Sachs, Harvard Business School.",
+            "timestamp": "00:38:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "mean, other one was product.",
+            "timestamp": "00:38:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So he was like president.",
+            "timestamp": "00:38:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "He was like consultant for Microsoft and",
+            "timestamp": "00:38:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "large companies and he was very, very into product, but he was not technical.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So they hired me to build the technical parts for them and they hired another junior developer with me, which is super similar these days after two, three years.",
+            "timestamp": "00:39:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "this is very small.",
+            "timestamp": "00:39:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So we both together built a product, I mean, the technical part, I mean, the other co-founder helping us to design and, I mean, lay out on everything, which was great.",
+            "timestamp": "00:39:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "like his design, and I mean, the other co-founder, he was very into selling there, pitching it, concrete.",
+            "timestamp": "00:39:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:39:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So you got to work with the product person really close to come up with the feature that have to be built and like ideate and other projects and scope it and actually keep the right thing.",
+            "timestamp": "00:39:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "But I mean, all the techniques.",
+            "timestamp": "00:39:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "decisions was up to me but we know we want to go with Python because the other co-founder I mean he knows a little of Python and my other engineer he was only Python person so we agreed on Python and we know it's good for you know back in development and those kind of things because there are good toolkits around Python for that but I mean the front end I've type of script because yes you can you can be able to be Python but doesn't make so yeah yeah I agree that makes the guy a reactor stage is almost like this standard why you don't go to it it's just a bad idea and do you like what what excites you next like what are you looking for in your next company and which stage are you at of the of your search to me the most exciting part is the team and working on the product that people like",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "or I think they may like, so I try my best for them to like it, but if there is something that's solve a problem, people likes it.",
+            "timestamp": "00:41:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "I mean, that's an enjoyment for me because whether I build something, people like it, they give good comment for me, it's like going to our point.",
+            "timestamp": "00:41:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So for me is a lot of enjoyment.",
+            "timestamp": "00:41:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I always seek that enjoyment to get also.",
+            "timestamp": "00:41:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "That's why we can suffer in those three.",
+            "timestamp": "00:41:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "That's good.",
+            "timestamp": "00:41:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "One question as well, those same lines, like what do you think like a weak spot that you have?",
+            "timestamp": "00:41:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "what's like one thing that you could develop or that you don't like doing or you prefer someone else to do or?",
+            "timestamp": "00:41:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Oh, my weakest spot is I cannot stop.",
+            "timestamp": "00:41:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, even at night I wake up and I shake.",
+            "timestamp": "00:41:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "take on things instead of sleeping.",
+            "timestamp": "00:42:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So I really work on that, but I was not really successful.",
+            "timestamp": "00:42:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So last night I was reading something like for terribly in the bed, in the bed.",
+            "timestamp": "00:42:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "So because my mind was just keep processing pains.",
+            "timestamp": "00:42:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "That's the thing to see.",
+            "timestamp": "00:42:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I have kind of this in my bra going to bed super late wake up early and all that.",
+            "timestamp": "00:42:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, even if I wake up and read things, because I'm thinking when I in this book about the problem.",
+            "timestamp": "00:42:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yep, I have a similar issue.",
+            "timestamp": "00:42:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, let me see.",
+            "timestamp": "00:42:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I think we went through just like some of the questions that I had, you talked about your story.",
+            "timestamp": "00:42:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So anything that you want me to share any questions and yeah, anything for me.",
+            "timestamp": "00:42:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Yeah, I'd like to know more about your product.",
+            "timestamp": "00:43:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "don't know how much you can share, but as much as it's a public or it's possible to share.",
+            "timestamp": "00:43:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, everything actually that we have is private.",
+            "timestamp": "00:43:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So the way I was thinking about our business is like a lot of companies are like they stand the way of building companies so far.",
+            "timestamp": "00:43:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Our product has been to create UI, create a SaaS product and you put out there and people come in, they try to use.",
+            "timestamp": "00:43:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then you have to do with engagement, you have to deal with activation, who gets to the right funnels and how do they churn and what caused them to churn and all that.",
+            "timestamp": "00:43:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we're trying to like flip things and especially because of the way things are today.",
+            "timestamp": "00:43:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "like you have, like you said, I think they're changing so fast.",
+            "timestamp": "00:43:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So you might be using a model today, there's another version of this model that maybe they're using in different like",
+            "timestamp": "00:43:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "change the standard model to have not a thinking stat and an output stat.",
+            "timestamp": "00:44:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like that takes a couple of days to fix depending on your setup, or may take a whole month, depending on software.",
+            "timestamp": "00:44:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "That's just like one example.",
+            "timestamp": "00:44:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And it's just happening like across the whole area.",
+            "timestamp": "00:44:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, and that's way too fast, like way too fast, and we're too unstable to build a normal thing that you give to the user and I can have to change that because now there's another way to do it.",
+            "timestamp": "00:44:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, what we're trying to do is just have like a services layer, and we have a product team internally and we build the product for them.",
+            "timestamp": "00:44:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, if there's a marketing team that wants to be AI-enabled, they hire us, our services team, what they want, and then they use our product.",
+            "timestamp": "00:44:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, we have an internal platform that we're building for our team.",
+            "timestamp": "00:44:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So, it's almost like our team is our research, our R&D team, and our PMs all.",
+            "timestamp": "00:44:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "same time.",
+            "timestamp": "00:45:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And because of being able, being so close to the services team, we can do things that are more technical that you would never do to like a traditional user.",
+            "timestamp": "00:45:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have today that I can show you now, which is open here.",
+            "timestamp": "00:45:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We have another layer that we create workflow.",
+            "timestamp": "00:45:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So the idea like for example, like out of the work that we do pretty much any work from recruiting all the way to content creation, there are many steps of the way that you have seen their procedures.",
+            "timestamp": "00:45:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like if you're going to do content creation, for example, you might start with a topic that you want to write about.",
+            "timestamp": "00:45:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And you might have some ideas for how you want to write that, the article you're going to write.",
+            "timestamp": "00:45:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But you need to do a research, you know.",
+            "timestamp": "00:45:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like even before you do the research, you want to know what you need to research first.",
+            "timestamp": "00:45:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And before that, the only input you might have is just like, this is the topic.",
+            "timestamp": "00:45:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Like if you start from the topic and the next thing you need is understanding that topic just enough to write a valuable article about that, that's a workflow.",
+            "timestamp": "00:46:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So I can start by, okay, if my topic is, let's see, let's see if there is any, this is a good one.",
+            "timestamp": "00:46:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So actually let's go back to this one.",
+            "timestamp": "00:46:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So let's say the topic that I need to research is on how AI enhance this hospital resource management and reduces operational cost.",
+            "timestamp": "00:46:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "If I start with just this, there is a bunch of things that I might need to learn more about this.",
+            "timestamp": "00:46:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "like the next thing would be, okay, I need to, what are the things related to this that are relevant to me?",
+            "timestamp": "00:46:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like then we come up with a bunch of questions.",
+            "timestamp": "00:46:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "you're just thinking, yes, how would you do that as a person?",
+            "timestamp": "00:46:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So when I come up with the questions first and then call us like this large amount of data about this, this topic.",
+            "timestamp": "00:46:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And you want to do that by performing multiple researches.",
+            "timestamp": "00:46:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "in complex workflows together.",
+            "timestamp": "00:48:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And these workflows are mostly LLM chains.",
+            "timestamp": "00:48:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "think of this as like a, like if you were using land chain would be like one large land chain here, another one here, another one here, and they all sit together.",
+            "timestamp": "00:48:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And every step of the way you have the opportunity for a person to step in here and change the values.",
+            "timestamp": "00:48:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So that you have a human in the loop and every step of the workflows.",
+            "timestamp": "00:48:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And they can rerun that step.",
+            "timestamp": "00:48:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we built the state where we are, we built the orchestration and the way to write the workflows.",
+            "timestamp": "00:48:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have a TypeScript framework that replaces, like it's think of it like land chain, but more temporal.",
+            "timestamp": "00:48:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So like land graph uses the land chain, the company internals at runtime, we're using temporal as our runtime and we build a bunch of abstractions on top of it.",
+            "timestamp": "00:48:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So essentially we have our own link chain with our own way of using a bunch of APIs that we need.",
+            "timestamp": "00:49:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we need APIs for image generation, so we're using things called recraft, protocol recraft or AI.",
+            "timestamp": "00:49:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "use dozens of things like this from SEO related things all the way to image generation to fact checking or grounding APIs.",
+            "timestamp": "00:49:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we have a way to write the workflows, every workflow is like a folder with a handful of files and a way to write the prompts.",
+            "timestamp": "00:49:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we have a code generator that generates the workflows for us, so we can create.",
+            "timestamp": "00:49:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have like, this will eventually become an SDK and open source project, we I think, like we are going, looks like we're going to be able to go in that direction.",
+            "timestamp": "00:49:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "And this is what's running here.",
+            "timestamp": "00:49:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have, but our clients, they don't see this, they don't use this.",
+            "timestamp": "00:49:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Our team uses things like a clay or.",
+            "timestamp": "00:49:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "In our case, we're using the SQL AirOps.",
+            "timestamp": "00:50:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "AirOps is very similar to Clay, like a spreadsheet experience, and trigger API calls to our backend.",
+            "timestamp": "00:50:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "The backend is doing all the reconstruction and we have like 50-ish, like not all of them are public here, but we have like 40-ish workflows.",
+            "timestamp": "00:50:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "They are reusable.",
+            "timestamp": "00:50:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Some are specific to certain clients.",
+            "timestamp": "00:50:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "let's say for example, a client is onboarding and we need to learn how they write.",
+            "timestamp": "00:50:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we have like a workflow that will take in a bunch of URLs that they have, we scrape all the URLs, and create a list of like the format that they write.",
+            "timestamp": "00:50:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we use that to fine-tune the message of the content that we generate at the end.",
+            "timestamp": "00:50:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Or if you want to generate a repurpose, let's say somebody has a webinar and you want to generate an article off of their webinar, we have something for that.",
+            "timestamp": "00:50:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We have things like translation, we have like this is the webinar I was talking about.",
+            "timestamp": "00:50:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "is one of the documentations, not properly generated, but we already have a documentation as well.",
+            "timestamp": "00:51:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "like all these are in code, so let me see what this going to do.",
+            "timestamp": "00:51:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Competitive research one is interesting.",
+            "timestamp": "00:51:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah, competitive research one is kind of an agent, runs in like an agent mode that will enter a loop and keep doing the research until it finds, it's used like perplexity and keeps it trading until it finishes and then creates a list of competitors.",
+            "timestamp": "00:51:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "There's no change with image here.",
+            "timestamp": "00:51:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Nobody ran that image.",
+            "timestamp": "00:51:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But the UI for now that we're using, we are using like air table, air ops and clay.",
+            "timestamp": "00:51:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And the main thing is how we create the workloads.",
+            "timestamp": "00:51:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We are now in the UI to replace air table and air ops across and that's what the team will be using on day to day.",
+            "timestamp": "00:51:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And that's one of the challenges we have now.",
+            "timestamp": "00:51:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And using all those external tools, not ideal.",
+            "timestamp": "00:52:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "have a bunch of things that we are collecting and improve the experience, iterating on the content in line and all that.",
+            "timestamp": "00:52:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But so far, the angle has been like, do we run?",
+            "timestamp": "00:52:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "How do we pretty much automate every functional company without the mindset of removing people out of it and still represent the kind of complexity we need here, without having to build the GUI, like stuff like N8N or Zapier, even if, where you drag and drop things together and you build these graphs, know?",
+            "timestamp": "00:52:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I don't think going there doesn't have, like, like, drawing code.",
+            "timestamp": "00:52:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But you have things like vellum and some other tools where you stitch together LLMs.",
+            "timestamp": "00:52:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And it just doesn't scare to the complexity we needed.",
+            "timestamp": "00:52:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "So we ended up building the framework, like I said, and that's where we are today.",
+            "timestamp": "00:52:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "That's the current state of things.",
+            "timestamp": "00:52:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "plan is to build a few products around us.",
+            "timestamp": "00:53:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "the first one is a vertical about marketing, like I said, content marketing, helping our team create the great content at scale, and we have some other verticals around the tackle as well.",
+            "timestamp": "00:53:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Does that give you like some color of like the direction things?",
+            "timestamp": "00:53:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:53:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:53:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You have any other questions or anything else I can share on the bottom?",
+            "timestamp": "00:53:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "No, I'm good.",
+            "timestamp": "00:53:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Thanks for asking.",
+            "timestamp": "00:53:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "You said everything.",
+            "timestamp": "00:53:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:53:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:53:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Thanks for participating in the process.",
+            "timestamp": "00:53:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Thanks for like the interest in chatting with me and like, and also like I said, like it's catching you so many times.",
+            "timestamp": "00:53:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Sorry about that.",
+            "timestamp": "00:53:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:53:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I'll check with the, I'll call the break up the team here and I'll follow up with you being there with all the next steps and everything.",
+            "timestamp": "00:53:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "That's all right.",
+            "timestamp": "00:53:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Hello.",
+            "timestamp": "00:53:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "One last question.",
+            "timestamp": "00:53:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "You're basing and you're basing in the air.",
+            "timestamp": "00:53:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "I tell you, live in.",
+            "timestamp": "00:53:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "All right, me see.",
+            "timestamp": "00:54:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Nice.",
+            "timestamp": "00:54:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:54:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:54:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Where is your office?",
+            "timestamp": "00:54:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We have an office now in a China basin, but we're moving to South Park.",
+            "timestamp": "00:54:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "But it's kind of it's always going to be remote.",
+            "timestamp": "00:54:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "To serve boats per company, the office will be more for events.",
+            "timestamp": "00:54:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we have like five or six people here in the city.",
+            "timestamp": "00:54:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And we come to the office usually on every Tuesday that everybody's there, but it's required.",
+            "timestamp": "00:54:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We want to stay remote.",
+            "timestamp": "00:54:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "There's so many great people available everywhere.",
+            "timestamp": "00:54:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And like so many companies are forcing people back into the office.",
+            "timestamp": "00:54:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And that creates a perfect opportunity for us to hire people that have the experience like you had.",
+            "timestamp": "00:54:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And then during COVID, move to somewhere else and don't want to move back to their Francisco.",
+            "timestamp": "00:54:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "We're tapping to that.",
+            "timestamp": "00:54:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:54:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:54:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:54:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:54:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "And I'll follow up with you soon and today or tomorrow at the latest.",
+            "timestamp": "00:54:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:54:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Daniel Lopes",
+                "matched_calendar_invitee_email": "daniel@growthxlabs.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:54:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Have a great rest of your day with a pleasure.",
+            "timestamp": "00:55:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "you.",
+            "timestamp": "00:55:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:55:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:55:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:55:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Shahram Monshipouri",
+                "matched_calendar_invitee_email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com"
+            },
+            "text": "Bye",
+            "timestamp": "00:55:06"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Introductory interview with Shahram Monshipouri for a Backend Engineer (API + Runtime) position at growthx.ai](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=9.0)\n\n## Key Takeaways\n\n  - [Shahram has extensive experience in full-stack development, distributed systems, and AI/ML integration across various startups](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=84.0)\n  - [growthx.ai is building an internal platform for AI-enabled marketing services with a focus on workflow orchestration and LLM integration](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=657.0)\n  - [The company culture emphasizes remote work and values experienced engineers who can work across the stack](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2256.0)\n\n## Topics\n\n### Shahram's Background and Experience\n\n  - [Studied computer science in Sweden, specializing in distributed systems and security](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=674.0)\n  - [Worked on multiple startups since 2013, including Talent Circles (HR software), Chartio (data visualization), and Standard Practice (medical billing AI)](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=696.0)\n  - [Expertise in full-stack development, AI integration, and building products from zero to one](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=706.0)\n  - [Notable projects: AI-powered talent matching, ETL pipelines for data sources, and voice AI for medical billing](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=1111.0)\n\n### growthx.ai's Product and Technology\n\n  - [Internal platform for AI-enabled marketing services](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2591.0)\n  - [Uses TypeScript for LLM orchestration, Python for backend, React for frontend](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2810.0)\n  - [Temporal for distributed system runtime, custom workflow framework similar to Langchain](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2920.0)\n  - [Integration with various AI APIs (e.g., image generation, SEO, fact-checking)](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2947.0)\n  - [Current focus on building UI to replace external tools like Airtable and AirOps](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=3002.0)\n\n### Company Culture and Work Environment\n\n  - [Remote-first with an office in San Francisco (moving to South Park)](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=3246.0)\n  - [Values experienced engineers who can work across the stack](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2256.0)\n  - [Emphasis on building products that solve real problems and delight users](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2460.0)\n  - [Fast-paced environment adapting to rapidly changing AI landscape](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2629.0)\n\n### Technical Challenges and Approach\n\n  - [Building a flexible workflow system to handle complex AI-enabled tasks](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=1670.0)\n  - [Developing a custom framework for LLM orchestration and API integration](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2921.0)\n  - [Balancing automation with human-in-the-loop capabilities](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=1755.0)\n  - [Scaling to handle diverse client needs across marketing and other verticals](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=2597.0)\n\n## Next Steps\n\n  - [Daniel to follow up with Shahram about next steps in the interview process](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=3226.0)\n  - [Potential technical interview with another engineer from growthx.ai](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=3226.0)\n  - [Further discussion on specific role responsibilities and team fit](https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd?tab=summary&timestamp=3226.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "Shahram Monshipouri",
+            "email": "monshipouri+c4e74qtcvf_hb@events.workablemail.com",
+            "email_domain": "events.workablemail.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Shahram Monshipouri"
+        },
+        {
+            "name": "Daniel Lopes",
+            "email": "daniel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Daniel Lopes"
+        }
+    ],
+    "recorded_by": {
+        "name": "Daniel Lopes",
+        "email": "daniel@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/xNnHmJsTdsiwGHybsm21b9h1sH1StpQd",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

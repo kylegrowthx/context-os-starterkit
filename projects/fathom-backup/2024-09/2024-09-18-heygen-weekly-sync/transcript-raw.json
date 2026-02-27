@@ -1,0 +1,3684 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "to mark all that stuff in there, but that should be live today now.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that all makes sense to me.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The one thing I threw into the feedback section late last night was we talked maybe a little bit about this, and maybe Marcel and I talked about this too, is I want to also showcase more agent.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I know it's possible, and what I've done, and this is where I wanted to talk to you about workflows, is before connecting with you all, I kind of did one start to finish of like, hey, here's the newsletter we wrote.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Feed this into GPT, what's a prompt that gives me a script.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now I have a couple of script structures we've used, templates in agent that we've used, et cetera.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I know I can also use the avatar API to programmatically fire from AirOps to agent, and then return a video back to AirOps.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We could also programmatically create videos for a lot of these blog posts too, is where I'm going with this.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We don't have to do that to start, but I want to put that idea out there.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If we can figure out what the right prompts are, what the right script is, I'm very confident this is.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "be especially now with O and maybe experimenting with that also.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We love the challenge.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We've never done it, but I'm sure we will.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "right.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "want to be the first one.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All is talking about selling to Reddit.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm going to cook something up for y'all.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just want you to help me do it first.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And let's do it fast and let's do them some FOMO.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I have a couple of programs.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "My next focus is HAGEN for marketing agencies partnering with some new joiners on marketing.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I want to start with the partners working with me first because I ideally I want them to be best at HAGEN.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's a dish context for you and we can kind of kick things off from there.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The only things I was preparing for you today, dream meeting of you context was what language should we support from a product set because we don't have good documentation.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it does this up internally.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then what's our R by GOs?",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because let's prioritize the GOs that are going to pay us the most.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "As the feature changes for translation pairs, ideally we support everything.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's kind of the other context that I wanted to provide you.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I can give you better inputs for the content creation side of things.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Got it.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hold.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How can you find my join for this?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "My concern coming out of our last call was the standard direct free structure makes sense if you're a one product company.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But when you have like a translation product and then you have like video creation products, I wonder if we need to think about things a little bit differently from that approach or whether we fragment or separate them out.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't have an answer for you yet but an open question on my side because I think I want to showcase both catalogs for inspiration but I suspect some are more relevant to some visitors than others.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So something goes to improve.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I can tackle that one right off the back.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It was like what started as a misinterpretation on my part.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So Deep Brand now has acquired Poist or they acquired Poist two, three months back.",
+            "timestamp": "00:02:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So they have, you can set variable call to actions.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So based on the category of product people are visiting, you can trigger different CTS, right?",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if somebody is doing",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "the audio-video conversion, we can just send them to that.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's all that stuff.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Customizations can be done, so I'm not too worried about that piece of that.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, that can be taken care of.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In terms of the feedback that you had for the articles, I think the last section is we have a watermark video online with Page N.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the call to action is towards the end.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can, in our content workforce, we can move it up to the second bit of it.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we can have inline widgets or sidebar widgets, which can do stuff.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like you said, right?",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The stuff that's going to make it rank, it's more so of the content and lots of images.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "yeah, there's a pass as we've ever moved from signing to kickoff to the first set of articles.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if you can publish them live, I could have been standard.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So as we start to enrich these pieces, I don't know when we publish them.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm not going to let this timeline slip.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think this is a great story for me.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Manly thought is like, I know I'm going to re",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "do the different stuff.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it's fine to get started before that.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think organic traffic is pretty weak as is the only feedback I have, particularly if it's not on the first page I've noticed.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can see an article that I did for the last newsletter.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I only moved it to the latest section very recently before that it was not getting a ton of traffic although organically publishing that video on YouTube got me a thousand views, no promotion or anything else like that.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's why I think video is the other key to amplifying and driving traffic back to the blog and organic discovery.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think if we can do it program dramatically, that's for most bullish.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If we can do it programmatically, summarize blog posts, we technically are building a product that does this too.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'd rather use AirOps with the API.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "gives us more granular controls, customization around script, nuanced zone, things like that.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we can do a much more killer job and make it super engaging.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I'm pretty sure everyone is going to want this very quickly.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right, right, for sure.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think if you have the same set of keywords incorporated in those videos, that obviously adds lot of SEO to that adds back to this and we get more",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "wrong page engagement, it's going to become a virtuous cycle.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's my plan.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Beautiful.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let me talk to Marcel and the Arabs team.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know if you or Mekhan are going to build the API with me.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I can obviously help.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have some components.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The piece where I'm hoping Marcel can help with more is like, I can give you the template that I use, the script that I use.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's make it a little bit better.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then figure out what are the right problems to give it a little bit more life, make it better than what I did.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm leaning on the content expertise, make it super engaging, make it as you optimize all that jazz.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I'll help with technical blockers.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "API is pretty straightforward.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "then even Mekhan can help if we hate it, basically.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And again, trial account, all that stuff.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just let me know what account you guys have.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll update you to a trial.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll make sure you're taken care of and all that stuff.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we'll talk agencies, partnership, and all that stuff.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once we get the stuff live, I really want to get the directory up month one.",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's good.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, so consided, I can promise.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The articles look good.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "for you, so we'll do the rest of the six articles.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All three to the rest today, basically, I skimmed through the first one very quickly, by and large, it looks good.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Try to just leave comments, basically tag you, what's the best way to give you feedback if I have any?",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "On the little seat, it might come towards the end of the night right before when the inspiration strikes, but I'll get you that very quickly.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We hired globally, so what I'd like to say is we are available 24-7.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's you can tag Bissera, Sidera, so both of them are leading the account, and then I'm obviously here to work with me, Cotton Marcel on a strategy piece of it, along with Pratik.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, we got like six-seven people handling all this stuff, so super excited about that thing.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so that will provide tips on how to do it.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I can give you my prompt and everything else, but again, I'm going to make it a lot better.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This was before 01 preview.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is my first pass.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just wanted to see can I do it live from very minimal human intervention because then we can automate.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I want to do a proof of concept.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we can make it a lot better, but I'll give you my proof of work.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK, now that'd be super helpful.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I haven't seen many growth effects being as heads on as you, which explains a lot as to how fast you can move.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Otherwise, it's almost like, hey, let's do this fancy piece of it.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't need consultants.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I need more hands on deck.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I know what we need to do.",
+            "timestamp": "00:07:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Marcel and I, and all of us on the team, saying we're two, like Marcel's.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "He starts rolling his eyes any time.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Stop people talk about strategy in his deep gram stuff.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's all good to see more folks.",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I want to be small, so I don't care about strategy.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right, so perfect.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we've got a bunch of these things.",
+            "timestamp": "00:07:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So final lines and languages.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'm going to give you some context on that real quick.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I can talk for about a beginner.",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So basically, I got this doc from our.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "TTO, because I knew there's no damn good documentation on agent.com.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're going to fix some of this.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Logs will help.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we have one API, V2 API.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is 176.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They're pretty similar.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So these are all the languages available.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So theoretically, we can have language pairs for each of these to each of these.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So 173 combinatorial, let's say 173 times 172.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Did I not type it right?",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "no, sorry.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's commonly.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me do a quick one.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But basically, you get what I mean, it'll be like, yeah.",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll have a huge directory pretty quickly.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That'll be like 29,000.",
+            "timestamp": "00:08:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I only want to prioritize this based off of who pays us because it's great to get the traffic.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I want to make sure we're grounding our efforts in what's driving revenue, what's driving high value signups.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And for me, I value signups or business email signups from US and EU today.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're a global company.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "get traffic from India.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We get traffic from Brazil, Russia.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Obviously, I don't want prioritize Russia, but I don't want to lose anything either.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's a little contentious one.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But the one I want.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I wanted to show you the next is like, what is kind of the breakdown by GOs?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is why I want to focus it on North America and then EU.",
+            "timestamp": "00:09:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Those are the top two GOs.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Third or fourth is Asia little bit, but it's all over the place.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The languages are maybe not the best quality as the other ones.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's a limitation of foundational models today, period.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They're improving, so we won't focus on them, but this is roughly going to map back out to what languages do we want to cover first?",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because again, you can see the same thing broken out by this is probably US English speaking, so English to X language.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is Brazil, so Portuguese could be one, know, we hit the list goes on.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "French, German, Spanish, Italian.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we can basically use this to help help determine what the ranking order is on what we want to create in the directory and where we put some extra effort also.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So is this helpful context?",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I have this basically country map and then of course we have language map and then we can probably do something with GPU to figure out what's the right pairings.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, and I think The sanctions and everything for Russia all of that stuff comes into play for your product for payments Yeah, yeah I don't want sales to focus on it sales lead does not focus on it But I'd also don't like lose the world traffic of one day they do get ameliorated and things like that so it's like Not it's low priority for me, but like I think we leave no surface area in touch basically I want to win everything in the space I want to be cool docs rule docs does not distinguish between everything.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I like it So focus on us and EU and then languages and those areas or go countries are technically not a focus But I had another part that I was looking for about what are the toppling which is people are using today Russian is one of them.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't I think it's a lot of mal actors bad to use potentially.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah Traffic share SEO.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's hard.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's a hard balance.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're gonna do but I again priority is gonna be us That's where I want the most sign up to come from and that's where we'll optimize start localizing content next year also",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, actually if folks don't discriminate, we welcome everyone.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We don't care if you're saying they're not.",
+            "timestamp": "00:11:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You have to have to widen that.",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's why I'm like, yeah, come regardless.",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's not lose anything.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:11:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's good.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is something that you've sent over these instructions to an econ as well because he'll be building those programmatic pages for languages.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, not yet.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I invited him to this call.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll send him the fathom also.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think he's helping me with a couple of hot fixes on the site right now.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What which part for context, just the directory piece, basically, I flocked it to him briefly last night that, Hey, this is my concern, basically, like, Hey, we're promoting two different products, basically.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Two very different search intent sometimes.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't, I wonder for fitting a square into a round hole kind of situation here, trying to do everything in one with the imperfect design where we don't get the optimum engagement.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't want to slow down too much, but I'm wondering if there's anything quick we can do in terms of.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Even structure hierarchy how we think about promoting that out But my concern is now you can see if we do programmatic for languages.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's going to blow up very quickly That's thousand pages.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't have them all but I want the top ones at least to be discoverable So even if that's top 10 20 you etc.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Still a lot Yeah, I don't know which avatar video tools will start with first.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think I shared this with you already Jimmy, let me share my screen again But basically I had one of my teams basically go in there and help me out with the keyword difficulty basically from the Vdio tool list So if you haven't seen it already, I got them to add that in here somewhere.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, yeah, that's a one.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's just great Yeah, so like after video product VT I'm gonna do it a couple VT ones, but Presumably we'll do these all programmatic list.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll support them all but the structuring of the content That's the open question for me.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How do we do that best?",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right, okay.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, I think add photo to video.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "are the ones add back",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "background.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Those are the ones that we've done in for the information articles.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:13:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I like how you're doing that also.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "saw that.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So anything we can start to see initial clicks and whatnot, we can definitely do that.",
+            "timestamp": "00:13:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in terms of next steps then, we'll finish those 10 articles, we'll send this recording to Nikon.",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll sync up with Marcel.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "He's giving a talk to Ram right now as you speak in New York.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'll sync up with him if he has without and then we can probably do a group call and having me cut in would be super helpful here.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'm going to take some time away from being a pot leader to build something badass with us.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's do the next best thing.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I hate being a talk to you.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think this is great but I want to take things to the next level and that involves injecting more agent into it, which is where the programmatic API beast comes in.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then, like,",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I said, right, these recordings will be sent to the Sara user.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "we'll move it up and how quickly do you think we can get to the programmatic piece?",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If I can unlock the API component piece of the bill, is that something we should think about programmatically inserting into the first batch?",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't want to delay it for too long because again, everyone's going to build this eventually.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's not it's not rocket science.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just have a home court advantage being at a company that's doing this the best.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'm kind of curious, quickly, you think we can use our avatar video API if I can work with you on the prompts because basically you have what I need, blog post article, I'll work my prompts into the script.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have an avatar video template.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can pick some good public avatars.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have some new stuff coming that's amazing, actually.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "the next week or two, and I want to use this to showcase that is what I was thinking.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, if you could send us whatever you have, I think we just hired a full-time badass engineer, Daniel, who's going to be also working on these improving his workflows.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you can send us whatever you",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "where you have, we can tell you how to improve it further.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we have a lot more prompting resources now.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, that'd be like a good next step.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Are you going to share your prompt learnings with me also?",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is that a trade secret?",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm sharing some of mine with you.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, you have access to it.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You have access to the brains behind it.",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "pick up brains all day long.",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we'll share the address on problems too.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Problems.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A bit cool, because I like playing around with it myself.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'd love to see if I can just upon them, some of them with my own way and my own time.",
+            "timestamp": "00:15:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Best way to spend Friday night in my opinion.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I'll see if it's under problems in my opinion.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sorry.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Best way to spend a bar computer, my opinion.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like our metro.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, Perfect.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I just ran into G on the bar a couple of weeks ago, which",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's funny because know he's over there at ramp right now with Marcel.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's why I was talking to him this morning, giving him ramp updates.",
+            "timestamp": "00:16:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So those guys are aggressive too.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But you guys are more aggressive, by the way.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How does it go?",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, Nikon, just to catch up, these are the action items now, and I was just discussing.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So he's working a bunch of prompts in Adrops to programmatically insert video within the blog pieces.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "These are the initial articles that we have information articles.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll just be moving the page and component of it to the top.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But everything good from our end in terms of launching.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then I think he wanted to finalize languages and geographies, so it focuses on the US and EU.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, I forgot to tell you.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I was telling Nikon, I'm open now to switching CMSs.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "don't want to slow things down, obviously.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I think we were considering, maybe, like, was it neplify?",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then what was the whole thing?",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Contentful or something like that so that reverse cell basically something like that potentially for this But we're gonna need to move quick I don't want to slow things down and getting things started so probably parallel track things I just wanted to throw that out as an FYI in case that helps us go any faster Okay, so Nick any thoughts of that all good on your end Yeah, I don't think it's applies too much to you all maybe just if it's going to be Switching from web flow.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "It's just like some training But I see the air pops things.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm assuming they're gonna rely on the CMS integration piece or whatever They might need to build something custom there if we do something else And it'll be a simple API endpoint I assume but Yeah, I think like it might might change thing that There's different way that like rich text is handled by different",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "So, if you are going to be implementing something that's programmatic, it will probably need to be fine-tuned, but I don't think it'll be anything crazy.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Okay, and then the only other one I was telling Jimmy is, I want to put Hagen front and center.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, even if we don't get it on the first pass very quickly, we have some big avatar video improvements coming up in the next week or so, basically, I'll get early access to the vault.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I wanted to programmatically generate videos for each of our blog posts and be able to feature them at the top of an article, basically.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, that's the other new ones.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "threw it in Slack, but I figured, let me just say it more explicitly here.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, I know we have the template design.",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just think about how we might programmatically inject a video that we received back from Hagen into those.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think the team's working on the share page improvements you already discussed, Nicon, or I got from you all.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I don't remember if we'll have embed resources ready to go or if I'll need to figure out EPI to download, hosted YouTube, whatever in that last mile piece.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, that's the only thing that's ending on my side, but I wanted to throw out some template design, and then the only thing",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The other piece I brought up with Jimmy was number of languages we support.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just got the latest list.",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "My only concern there is it could be 29,756 per mutations of pages that we have.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the directory structure we had in mind, that's very conducive to like, hey, there's these types of apps, things like that.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Not so much for like, here's a catalog of languages for translating and also these other tools.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm a little bit concerned.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's too noisy and may lose some of the intent we had to start.",
+            "timestamp": "00:19:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But open question from my side, keep in mind I'm very sleep deprived today.",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Yeah, I don't necessarily, in my opinion, I don't think we need a directory for that.",
+            "timestamp": "00:19:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Like, I think it's all going to be, you know, intent based search.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "So like, I don't think there's, there's like much value in like going to a home page that just says all the languages that can be searched.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Or they can be trained.",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Like maybe we just want to.",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In the directory and then you could just have like some sub pages basically linking Like you know the the design you propose like if you had one for translation basically and that could house like the different translation Well, that's what That that's what the design have you shared the design with Jimmy and I was waiting for you I Jimmy so con actually sent me a design Let quickly check Do you have the link hand income I Need for your mute",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "let see I have it in one of my tabs here you guys kind of audio is kind of going in and out it's pretty bad uh here I'll share my screen I found it uh here we go here's the thing no your audio is going in and out then yeah I will share my battery on my computer just that's all right you've been in the marathon with me so uh won't hold that against you in any way I really appreciate it but uh here is the design oh nice the only thing I was telling him is I want to think if there's a way we can have more like maybe like customer carousel slider and like ratings logos that kind of thing can prove schema markup but general structure I like um it's very clean and simple actually I think he made some changes to it since we talked like it a lot",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I was going to share this internally, probably their CEO, because he's very excited and eagerly watching this project.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But all in all, it looks pretty good to me, actually, it with internal design team first.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But my only feedback was around maybe we do badges, ratings, and logos somewhere, but open to other feedback here.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think this gives us a lot of flexibility with the rich tech structure.",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "can put a video first.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "great.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "like he caught my late night musings already.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I don't know if his audio is better.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "let him speak to himself.",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we're good now, right?",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Much better.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "OK, Yeah, I think the reason why I said I don't think we need the directories, because each listing page would be its own kind of directory, where if you click the dropdown, you could then change to the available languages.",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "So I don't know.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "I think to start, maybe this would be really clunky.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "And probably not the best navigation experience.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "So, maybe we just like only do the detail page, and it is just like however many thousand we worry about.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Yeah, several thousand actually.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "going to be like two thousand something, 176 languages, 29,000 pages, not going to promote them all.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "promoted ones will be the top ERRGO ones, they'll be discoverable, you can search for them, you can use them, you can use this like directory search to get to it basically is what I'm envisioning.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "what I'm doing, we're just going to dab this out, like we're starting to dab on this for this specific template.",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "What would be helpful is if the growth effect scheme could like provide me some context into some of the content that we're going to put here, that way like we can start seeing this actually come together in terms of like are we going to need this table of contents here?",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Are they going to be applicable?",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Do we cut it?",
+            "timestamp": "00:23:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "If there's going to be images, what that will be.",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Looks like we can actually start seeing this kind of like ultimately come together and then this one on the right hand This is just for like any generic tool long-form content style So there's like two templates one is specific for Video translation and then this one is like could be anything under the Sun So Nikon we can the So right one yeah, no problem.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "already have the articles all good the one the left template The step one two three so we can provide a table of contents I think step one two three is probably more of a product marketing ask we can provide you to a lower view Maybe that's the same as this, but I can ask GPT for it.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like the same.",
+            "timestamp": "00:24:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just did that fake use with GPT So it's pretty sure it be the same for all of them for product Stuff right for product teachers Are you talking about I thought you were talking about the one two three right here?",
+            "timestamp": "00:24:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, yes, that's right One for every pair you have no matter what",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, but would this be specific to your product?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, it's the exact same workflow.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like, it's that generic.",
+            "timestamp": "00:25:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, yeah, we can make it even more specific, like step one, uploaded here, step two.",
+            "timestamp": "00:25:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can have GIFs, Jews, but I guess it's not Essentially, Jimmy, he's just saying like the first three steps are always going to be the same for all the languages.",
+            "timestamp": "00:25:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "So it's just fixed.",
+            "timestamp": "00:25:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK, I was saying more of a generic thing where we're talking about, let's say, image to text generation or something like that.",
+            "timestamp": "00:25:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's where it will get different, right?",
+            "timestamp": "00:25:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That just makes sense.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's probably more for this one, I think, because that one you're right.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll be able to showcase like different product specific functionalities and drive versions from there.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This one probably is a better fit for that, is what I was thinking at first.",
+            "timestamp": "00:25:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK, yeah, then we can probably, if it's just languages we're doing it for, we can make it, I think, different enough where we have different languages.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can probably include some GPT-generated.",
+            "timestamp": "00:25:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "description about the different countries so to make the content more unique so okay all good there let's win the space yeah okay so what um just so we can close loop on that the additional content here is going to exist would be like some FAQs which will just like the headline like nothing fancy um and then what other content Jimmy are you guys thinking would come in here so we can do uh if you can send us this template we can reproduce this in air-ups i will just build a grid and then for all the languages and pairs we can uh do that okay i'm going to drop this in there um and then we can run with that",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "All right, but also and then Jimmy you you did the ones for the articles just want to make sure like that the articles are actually probably going to be using the blog template with it which is slightly different.",
+            "timestamp": "00:27:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Then the one that you're looking on the right am I understanding that correctly.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Yeah, that's a one so we have those right.",
+            "timestamp": "00:27:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There are articles rather than tools or.",
+            "timestamp": "00:27:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:27:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "The articles would use like the blog template which is on the sidebar there.",
+            "timestamp": "00:27:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "can.",
+            "timestamp": "00:27:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Oh, sorry.",
+            "timestamp": "00:27:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Let me steal the thunder.",
+            "timestamp": "00:27:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Oh, So it would just be like, yeah, you're like typical blog author time read time.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So whatever you guys have can go in here.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "It sounds good.",
+            "timestamp": "00:28:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:28:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we'll get you the final batch.",
+            "timestamp": "00:28:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Actually, now that you have any feedback, produce a rest of the batch with the articles.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If we don't hear anything back, we can still upload the first batch.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we hit those deadlines.",
+            "timestamp": "00:28:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll talk to you more.",
+            "timestamp": "00:28:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Do you need graphic self at all for like the blog post imagery, stuff like that.",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have like the new design kit stuff.",
+            "timestamp": "00:28:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "can make asks new creative person is brand new.",
+            "timestamp": "00:28:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So he's probably getting asked from everyone.",
+            "timestamp": "00:28:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm going to try to sneak this in.",
+            "timestamp": "00:28:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The ones that I want to get.",
+            "timestamp": "00:28:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, please.",
+            "timestamp": "00:28:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll take you up on that offer.",
+            "timestamp": "00:28:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We need as much as possible to make them look beautiful.",
+            "timestamp": "00:28:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because he gave me a simple one for text.",
+            "timestamp": "00:28:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know if he has more specific visual guidelines than that.",
+            "timestamp": "00:28:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll follow up there.",
+            "timestamp": "00:28:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And do you guys have like a camera or tablet library?",
+            "timestamp": "00:28:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "all right.",
+            "timestamp": "00:28:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "just can move it around.",
+            "timestamp": "00:28:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Kind of I was getting him to make me.",
+            "timestamp": "00:28:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One, I will show you quickly.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have this, hang on one second.",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I got this from him.",
+            "timestamp": "00:29:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Nikon saw me messing with this last night.",
+            "timestamp": "00:29:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I am not a great designer.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I've learned how to go around and poke around with cards.",
+            "timestamp": "00:29:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we have like these different colors, splash treatments.",
+            "timestamp": "00:29:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can basically use these for different sorts of cards in the directory and then just do simple text overlays if we want to keep it super simple.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can make it more fancy than that, of course.",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I don't want to be able to go faster.",
+            "timestamp": "00:29:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know how much of dependency this is to get to something that was like as nice as what Nikon was proposing in his design.",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because his was like much more bespoke imagery.",
+            "timestamp": "00:29:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's going to take us a bit of time, resourcing, we're just spinning up some contractor help there.",
+            "timestamp": "00:29:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's my only copy up.",
+            "timestamp": "00:29:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right, okay.",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think if we could start with basic, we can always find rich somebody there.",
+            "timestamp": "00:29:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I like how you're just like, MVP approach of blog articles in directory.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, get it going.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, I'm like, the video is going to be the more compelling piece.",
+            "timestamp": "00:29:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, and that's...",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "the bigger one.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "don't care as much about the videos, what's going to drive back to organic juice.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Awesome.",
+            "timestamp": "00:30:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So getting that housing, no promotion, like imagine if we have a lot more of these, that's a lot of extra traffic.",
+            "timestamp": "00:30:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And again, where this site is not even optimized, they're helping us rebuild this.",
+            "timestamp": "00:30:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So a lot of upside here, I think we're very conservative on our forecasts.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I hope so.",
+            "timestamp": "00:30:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's good for everyone.",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So perfect.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You'll send us the prompts for the video insertion programmatically.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll send you the articles, all good from our end.",
+            "timestamp": "00:30:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then did you make any comments already?",
+            "timestamp": "00:30:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I was going to see if I can make an account for Hagen.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I was going to see if I can transfer over the template that I used.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It might be a day or two till I can get it into your account.",
+            "timestamp": "00:30:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But basically, we have the video creation template and everything we could potentially use with the API.",
+            "timestamp": "00:30:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "then I can basically close the August newsletter that I put together using prompts, that way you have full context of how I built it.",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can kind of",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I could really make it a little bit better, basically, because again, just did a crucial concept.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Get it live.",
+            "timestamp": "00:31:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Can I actually ship something that we use?",
+            "timestamp": "00:31:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Great.",
+            "timestamp": "00:31:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now let's scale it in the center.",
+            "timestamp": "00:31:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'll do this right after the call.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Create the account.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll ping you.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then if any account will send us the templates, so we'll create AirOps grades for step one, step two, step three, all of that stuff.",
+            "timestamp": "00:31:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, perfect.",
+            "timestamp": "00:31:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll talk about the agent for marketing agencies with Marcel and Nikon another time.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I want to build it for us first and then we can talk more about that idea.",
+            "timestamp": "00:31:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm going to spin something up with our partnerships team.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "See if I can make it enticing for you all.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Marcel has a tendency to call me late at night.",
+            "timestamp": "00:31:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just talking about work.",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have a weekly 101 on Mondays, but he never comes to that.",
+            "timestamp": "00:31:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "He walks up calls me.",
+            "timestamp": "00:31:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll add you to the WhatsApp call.",
+            "timestamp": "00:31:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One of those.",
+            "timestamp": "00:31:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:31:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:31:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll see you guys later.",
+            "timestamp": "00:31:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nikan Shahidi",
+                "matched_calendar_invitee_email": "nshahidi@webstacks.com"
+            },
+            "text": "Cheers.",
+            "timestamp": "00:31:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Awesome.",
+            "timestamp": "00:31:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks lot.",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "See you guys.",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:31:56"
+        }
+    ]
+}

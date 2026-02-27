@@ -1,0 +1,2770 @@
+[
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "else is joining or not but yeah okay um well I guess we can kick then if you're not sure if anyone else is gonna join um yeah oh there's just a couple more people to let in I think burn out my joint maybe for Jimmy but I don't know if they're joining so yeah Jimmy's joining now okay cool and then I can give you some background and Jimmy okay Jimmy nice to meet you nice to meet you Happy Monday happy Monday to you too uh where are you guys based by the way?",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I'm in Vancouver okay I'm in Toronto but the rest of the teams in uh California and everywhere else I've got it got it okay good tonight uh way headquarters here in the UK but we are folk all over the world including the US and Canada nice so your day is ending I'm just beginning yeah it's something about that",
+    "timestamp": "00:00:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, well, I can give you a little background on why I reached out if that would be a good place to start.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, so I just joined like three weeks ago basically, and I'm just starting to put together like really light models for the year of just like a sales plan and a headcount plan, things like that.",
+    "timestamp": "00:01:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So my initial like need is just that I'm having a hard time because I have no audio experience of like basic funnel metrics.",
+    "timestamp": "00:01:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "I'm used to sales for I'm used to having like BI tools and we don't have anything like that.",
+    "timestamp": "00:01:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So I wanted to understand like what's the, to what extent can I do reporting in audio itself?",
+    "timestamp": "00:01:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And then I have like, so that's one thing.",
+    "timestamp": "00:01:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "just like I want to pull out like number of deals created by month or like moved into each stage by month.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So I've like sort of like cohort based.",
+    "timestamp": "00:02:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So that's one thing.",
+    "timestamp": "00:02:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "The other thing I wanted to ask about like we could do that one next is like just simple things like requiring certain fields like validation like the Salesforce like validation rules concept and then just like the last thing would be more about integrations like just like we're gonna be I'm sure we'll get more tools over the next few months so like what can we so so my past company we use like high touch to write into Salesforce from other things so like to what extent can we do that sort of a workflow or like pull data out.",
+    "timestamp": "00:02:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "own like I'm just curious like getting it out and in what are the options so anyway that's what I've been thinking about yeah okay that gives me really good context then um just tackle a couple of those points so um what I would say is the from the use cases that you had around reports i have to see any issue okay maybe that's all training yeah i don't know if you've seen the yattio academy but that could be a good place to start uh you can also log a ticket in platform to support as well they can help you build out these reports um but nonetheless i can walk you through how to actually build these reports and maybe that might help as well um and then just from a integration perspective um we do have a native integration with high touch so you can",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "get your data warehouse to to Attio without needing any usage of the API, but the API is open for you to connect with.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And also, Zapier, we have a really extensive connection list with as well.",
+    "timestamp": "00:04:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So if there is anything that you want to connect to Attio, it's even native, you connect to the API or Zapier, and I'll tell those options.",
+    "timestamp": "00:04:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, good.",
+    "timestamp": "00:04:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And then for getting data out, it like into a warehouse, it's what are people typically doing?",
+    "timestamp": "00:04:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So I suspect it's one of these reverse ETL type solutions, but maybe I could defer to someone on my product specialist team for more information.",
+    "timestamp": "00:04:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So could you maybe elaborate on what data you want to get out of that warehouse?",
+    "timestamp": "00:04:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "I'm sorry, like getting edited into the warehouse.",
+    "timestamp": "00:04:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Oh, data into the warehouse.",
+    "timestamp": "00:04:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, so I think it would be the same thing, right?",
+    "timestamp": "00:05:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So you want to use a reverse ETL.",
+    "timestamp": "00:05:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "That's typically how I hear other customers that are getting their data in and out of our TON to those data warehouses, yeah.",
+    "timestamp": "00:05:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, and so you have like five tran, there's some others that have an adio connector as well.",
+    "timestamp": "00:05:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:05:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:05:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:05:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "I'll figure that one out later, more curious that I can do an adio first without having to do.",
+    "timestamp": "00:05:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:05:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Go.",
+    "timestamp": "00:05:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Maybe just before we get into that, it'd be really helpful just to give me some background on your company.",
+    "timestamp": "00:05:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And if you can tell me about the business model, I can really think about, you know, how we can map that in the CRM, because we have a really flexible data model and we make it really easy for you to personalize that here.",
+    "timestamp": "00:05:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:05:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "yeah, all of that context will be helpful.",
+    "timestamp": "00:05:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:05:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And I'll try my best at my, this is my interpretation at least.",
+    "timestamp": "00:05:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Oh, it's not like traditional SAS.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And it's kind of like a hybrid agency SAS model.",
+    "timestamp": "00:06:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So to the customer's perspective, it looks like an agency where they have an account team running workflows for them and updating them on the progress.",
+    "timestamp": "00:06:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "But internally, it looks more like a SAS company with a full product engineering team, eventually building out a suite of products or APIs or whatever that we're going to sell.",
+    "timestamp": "00:06:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So currently, it's a pretty low volume number of customers, high deal value.",
+    "timestamp": "00:06:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "We don't really even have a sales org other than Bruno and Jimmy, who are also managing accounts and things.",
+    "timestamp": "00:06:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "user-wise, there's probably maybe five to ten of us in Adio, just updating stages and dates and adding the deal records, obviously.",
+    "timestamp": "00:06:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Nothing else is really like feeding into audio as far as I know.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "We're not like auto creating anything with like a chili piper or something like that.",
+    "timestamp": "00:07:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, what else would be?",
+    "timestamp": "00:07:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Oh, and they're typically like annual contracts.",
+    "timestamp": "00:07:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "the deal records themselves should be pretty simple.",
+    "timestamp": "00:07:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:07:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:07:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So a new contracts, and I think Jimmy, and who else, sorry?",
+    "timestamp": "00:07:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Just like Marcel, the CEO himself is selling a couple of like, like, I would call Jimmy and Kyle and these people, like, they're kind of like managing the accounts as well.",
+    "timestamp": "00:07:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Like, it's all inbound.",
+    "timestamp": "00:07:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So it's just like, basically the CEO is helping to sell.",
+    "timestamp": "00:07:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "and Bruno is helping to sell too.",
+    "timestamp": "00:07:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Got it, got it, got it.",
+    "timestamp": "00:07:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, that's really, really helpful and bound.",
+    "timestamp": "00:07:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And what's happened in post sale as well?",
+    "timestamp": "00:07:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Is there any kind of onboarding?",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Is there custom success team?",
+    "timestamp": "00:08:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, there's sort of like the account team that's managing the relationship.",
+    "timestamp": "00:08:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "One thing that we do that I would love to change is that we use notion extensively for like, like we basically have redundancy between audio and notion.",
+    "timestamp": "00:08:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Like the account teams are in notion updating notes there and like this health of the customer and meetings and all of that.",
+    "timestamp": "00:08:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And I'm sure we can use happier to like make them talk eventually.",
+    "timestamp": "00:08:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "But we sort of have this like other side CRM going on in notion.",
+    "timestamp": "00:08:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:08:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "that's why our audio like I don't think it's after the close.",
+    "timestamp": "00:08:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "It's not really being updated unless there's a churn isn't to mind.",
+    "timestamp": "00:08:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Interesting.",
+    "timestamp": "00:08:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And by the way, I think sorry to go slowly off topic here.",
+    "timestamp": "00:08:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I'm not sure actually saw a workspace of yours.",
+    "timestamp": "00:08:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "What's the growth XAI, is it?",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:09:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Wonderful.",
+    "timestamp": "00:09:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:09:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "there's a bit of a, so I thought there were two records of yours, Bridget McAvory, growth XAI, and then another one at growth X Labs, possibly.",
+    "timestamp": "00:09:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Oh, yeah.",
+    "timestamp": "00:09:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "We're just switching domain, so they both- Yeah.",
+    "timestamp": "00:09:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "No, it's not a big deal.",
+    "timestamp": "00:09:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "But there was one that had no workspace associated with it.",
+    "timestamp": "00:09:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And so I wasn't aware that you actually had an active subscription with us.",
+    "timestamp": "00:09:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So- Oh, okay.",
+    "timestamp": "00:09:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "That's right.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "E-mailed.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "I said, like, who's my account manager?",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:09:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Sometimes you have people that come in, and even if they don't have a situation you're just like on sale, demon.",
+    "timestamp": "00:09:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And I'm not going to buy you because- Yeah, Okay.",
+    "timestamp": "00:09:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, no, that's fine.",
+    "timestamp": "00:09:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "But it's-",
+    "timestamp": "00:09:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I can help you today as well for the next few minutes that we have, but also we can get some onboarding session sessions scheduled for you as well.",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:10:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So the onboarding team, if you've not spoken with them already, this is really their bread and butter.",
+    "timestamp": "00:10:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So it should be them delivering this type of session than myself.",
+    "timestamp": "00:10:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "I got it.",
+    "timestamp": "00:10:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:10:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "email aliases are confusing.",
+    "timestamp": "00:10:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "That's the second time this has happened to me in three weeks.",
+    "timestamp": "00:10:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:10:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And I think because you used to made a talk to sales request as well, but it makes total sense because you just didn't know who the right person was right.",
+    "timestamp": "00:10:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So, no, that's not something for us to think about.",
+    "timestamp": "00:10:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, that's always my, I always just go to the talk to sales and like help.",
+    "timestamp": "00:10:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Totally fair, totally fair.",
+    "timestamp": "00:10:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:10:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Well, look, let's try and really deliver some immediate value value to you today.",
+    "timestamp": "00:10:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "then as a next step, we'll.",
+    "timestamp": "00:10:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "that you speak into the onboarding team.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "OK, so, yeah, OK.",
+    "timestamp": "00:11:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So maybe you could tell me about the reports that you want to create, where you're struggling, or would you prefer for me to give you a share screen on the demo?",
+    "timestamp": "00:11:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, that's perfect.",
+    "timestamp": "00:11:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And like, maybe we can just use the example of, like, closed one by month.",
+    "timestamp": "00:11:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Close one by month.",
+    "timestamp": "00:11:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And again, this is where the onboarding team come in, because they are the best specialist.",
+    "timestamp": "00:11:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "OK, whatever example you want to use, but I just want to know, it seems so limited, compared to what I can do in Salesforce, like the filtering and stuff, so.",
+    "timestamp": "00:11:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, OK.",
+    "timestamp": "00:11:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I'll show you what's possible.",
+    "timestamp": "00:11:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Just give me a moment.",
+    "timestamp": "00:11:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And also, Bruno and Jimmy, you don't have to, like, stay if this is not interesting to use.",
+    "timestamp": "00:11:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jimmy Pal",
+      "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+    },
+    "text": "And we'll get a proper onboarding setup.",
+    "timestamp": "00:11:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jimmy Pal",
+      "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+    },
+    "text": "Oh, that's fine.",
+    "timestamp": "00:11:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jimmy Pal",
+      "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+    },
+    "text": "Yeah, that's fine.",
+    "timestamp": "00:11:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jimmy Pal",
+      "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+    },
+    "text": "I'm just eating at the same time.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay, so in a demo instance here, and firstly, I thought maybe it might be helpful just to see the other possible array.",
+    "timestamp": "00:12:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So you can create some really nice looking reports in ATO.",
+    "timestamp": "00:12:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "can create line charts, bar charts, pie charts.",
+    "timestamp": "00:12:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I know you come from Salesforce Bridget, and I find this is 10 times easier to create reports on.",
+    "timestamp": "00:12:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "also for me, you can report any attribute in ATO.",
+    "timestamp": "00:12:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So you can see we can get the custom ARR ranges.",
+    "timestamp": "00:12:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Number of deals in stage, average time in status, you've got sales funnels, forecasted revenue, and there are some other customer success, but to report deals in stage, right, according to the actual stage attribute.",
+    "timestamp": "00:12:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So I don't, in terms of the use cases that you had, I don't see any reason.",
+    "timestamp": "00:12:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Can you go up to one, sorry, go up like one more, I think it's one more, that number of qualified deals each month.",
+    "timestamp": "00:12:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Can you just click on that one and I can see like how it's built?",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:13:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Is this sounds like what you're looking for?",
+    "timestamp": "00:13:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, I guess like, I don't, I just don't see on the right, like, oh, maybe that monthly dropdown, like I'm just trying to get, it can even be making sure you choose the correct data source as well.",
+    "timestamp": "00:13:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So you can see, you can choose from the different objects there on the left hand side, companies, people, et cetera.",
+    "timestamp": "00:13:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "This is, you report on wherever the data lives.",
+    "timestamp": "00:13:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And so that object is the data source.",
+    "timestamp": "00:13:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Like, would you know how to make this one weekly, for example?",
+    "timestamp": "00:13:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, you can just change it like.",
+    "timestamp": "00:13:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So, so okay.",
+    "timestamp": "00:13:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "that toggle, okay.",
+    "timestamp": "00:13:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, you'll be able to, okay.",
+    "timestamp": "00:13:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And you.",
+    "timestamp": "00:13:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, I guess, yeah.",
+    "timestamp": "00:13:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, I think maybe what would be, yeah, for the next call, I will like put a list of reports, I'm going to build as an end up, that's what we can do.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, I think that's a good idea actually.",
+    "timestamp": "00:14:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And then the question, are these like shared or these mined?",
+    "timestamp": "00:14:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "These are shared, yeah.",
+    "timestamp": "00:14:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, so anything, can I, is there both options?",
+    "timestamp": "00:14:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So there, I believe there is a way for you to create private reports, I could be wrong, build me.",
+    "timestamp": "00:14:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jimmy Pal",
+      "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+    },
+    "text": "I think that's a shared button, yeah.",
+    "timestamp": "00:14:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, you can set your permissions here, who has access, yeah, you can create private ones.",
+    "timestamp": "00:14:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, perfect for like, not relevant at all today, but like for commissions and stuff, I imagine.",
+    "timestamp": "00:14:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:14:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, and then how, do you know where I would go to like make fields required?",
+    "timestamp": "00:14:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So like, this is.",
+    "timestamp": "00:14:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "This is something that the team is working on, and...",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Oh, it doesn't exist.",
+    "timestamp": "00:15:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So there are some required fields, but then if you are looking to make any attribute a required field, for example, then that's something that the team is working on.",
+    "timestamp": "00:15:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "But, for example, we hear use cases like updating, making sure a deal has all the valid information in it before it progresses to the next page, right?",
+    "timestamp": "00:15:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "You can create workflows so that the deal moves, bounces back to the previous stage, if it doesn't have all these attribute fields.",
+    "timestamp": "00:15:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "That's what we do it out.",
+    "timestamp": "00:15:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So, was that the use case that you had in mind, or...",
+    "timestamp": "00:15:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, I just noticed, like, if I wanted to put like, and make it required.",
+    "timestamp": "00:15:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:15:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Just stop that.",
+    "timestamp": "00:15:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "That's up reporting down the line, like, if it's missing, then it's good.",
+    "timestamp": "00:15:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "like there's new deals ending.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:16:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, you can you can create workflows for that.",
+    "timestamp": "00:16:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I can send you a loom video on one that will go through the deal stage type of use case that I mentioned, but it could apply to anything.",
+    "timestamp": "00:16:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And that sort of looks like Zapier, right?",
+    "timestamp": "00:16:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Like, that's right.",
+    "timestamp": "00:16:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:16:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:16:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So people and then people are do you have a concept of leads versus contacts or is it just people and there's just one?",
+    "timestamp": "00:16:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, we just have people.",
+    "timestamp": "00:16:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So again, coming from your socials background, I understand where you're coming from.",
+    "timestamp": "00:16:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I use Air Force for the last seven years before I joined out here and leads, we convert into contacts, right?",
+    "timestamp": "00:16:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "We don't make that distinction.",
+    "timestamp": "00:16:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "You have people.",
+    "timestamp": "00:16:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And that's based on anyone that you've interacted with or anyone in your team.",
+    "timestamp": "00:16:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And also the other important distinction here is around deals as well.",
+    "timestamp": "00:16:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Because for example, where leads would also convert into deals.",
+    "timestamp": "00:16:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "we just have deals right from the very beginning.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And so if you take a look at, oops, I went to the wrong view.",
+    "timestamp": "00:17:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "If you take look at these labels at the top here, you can imagine that at the very top of the funnel, you would just have a lead stage and then it would progress all the way through to close one, something like that, right?",
+    "timestamp": "00:17:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So you never have a lead convert over into a deal.",
+    "timestamp": "00:17:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "It would just come through as a deal from the very beginning, but you just define it as a lead according to the deal stage.",
+    "timestamp": "00:17:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, that's another thing that some people from Salesforce get up on.",
+    "timestamp": "00:17:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, because some people use it for different emailing, right?",
+    "timestamp": "00:17:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "building campaigns around leads versus contacts.",
+    "timestamp": "00:17:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Like if you wanted to send the emails to all of the people who are prospects versus customers, you would then pull people association.",
+    "timestamp": "00:17:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "with people.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, I guess how it would work.",
+    "timestamp": "00:18:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "yeah, you could you could build a report based on everyone in a certain stage.",
+    "timestamp": "00:18:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So anyone that's in a particular stage, right?",
+    "timestamp": "00:18:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "You have people not in any stage?",
+    "timestamp": "00:18:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Like legit prospects, there's no deal whatsoever.",
+    "timestamp": "00:18:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So they could be in those stage or they could just be in a kind of unqualified stage.",
+    "timestamp": "00:18:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So maybe if I show you here, you can see these type of deal stages, right?",
+    "timestamp": "00:18:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And yeah, these...",
+    "timestamp": "00:18:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, so you would only ever add someone into audio if there was a deal to associate them once?",
+    "timestamp": "00:18:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "The people that you speak with via your email are going to sync into the platform anyway.",
+    "timestamp": "00:18:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So if you just have an email interaction.",
+    "timestamp": "00:18:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Someone that they may not necessarily have a need or deal stage attribute assigned to them Okay We'll be we'll have a deal stage associate with them So then the only way to know the difference would be that this like deal stage attribute would be Like oh, you're in the deal I see yeah, I'm in deals.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah Okay Can you click on people like Singushes People who have a deal associated or not So let me just head back to my oh, they're not It's just yeah, so so you can see here that this is so we're in the people object.",
+    "timestamp": "00:19:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, okay, and you can add Associated deals here as well you can see if if anyone is actually in or associated with the",
+    "timestamp": "00:19:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "with that type of view here.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Ultimately, when you go into those, I sign people onto the deal if that makes sense.",
+    "timestamp": "00:20:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "if you have a lead, you would define that in the deal stages and then assign people after.",
+    "timestamp": "00:20:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And then just back to that required field thing, I just popped into my mind is like, so it will let them save the record, but then it will afterwards, it will just like bounce back to the previous stage sort of thing.",
+    "timestamp": "00:20:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Like if there's no way to like not let it save, I see.",
+    "timestamp": "00:20:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, so imagine if I wanted to update this, let's say I just wanted to update, uh, let's just go with the value and I wanted to update it.",
+    "timestamp": "00:20:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And if I wanted to leave it empty and I wanted to drag it across to evaluation with this workflow that I'm describing to you after I leave it, it would it would bounce it back.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "fast, like while you're still staring.",
+    "timestamp": "00:21:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Immediately.",
+    "timestamp": "00:21:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Immediately.",
+    "timestamp": "00:21:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "It's immediate.",
+    "timestamp": "00:21:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "But it works the same way as the required field type attribute, just a different way of.",
+    "timestamp": "00:21:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Does it tell you why it bounced it back?",
+    "timestamp": "00:21:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Like a sales force throws the air.",
+    "timestamp": "00:21:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I know you mean.",
+    "timestamp": "00:21:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I know you mean.",
+    "timestamp": "00:21:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I think a pop up will.",
+    "timestamp": "00:21:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Open up on the bottom right of your screen if I remember correctly.",
+    "timestamp": "00:21:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "What's the timing on that feature?",
+    "timestamp": "00:21:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Because that's like a big.",
+    "timestamp": "00:21:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Here we are coming from.",
+    "timestamp": "00:21:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "It's on the way.",
+    "timestamp": "00:21:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I don't have an exact detail to share with you.",
+    "timestamp": "00:21:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "But I believe it's sort of first off of this year.",
+    "timestamp": "00:21:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Another question was like, I was in, so reports is where I would build reporting in there.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Oh, no, sorry, sorry, sorry, I'm jumping around.",
+    "timestamp": "00:22:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "One question first, I went into our deals and I was kind of like adding filters and stuff and then it was like save for everyone or make a new version, is that like, if you go right into the main deals tab on the left, that is everybody's view.",
+    "timestamp": "00:22:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Right, yeah, And then you could really easily like change it for everyone.",
+    "timestamp": "00:22:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, potentially.",
+    "timestamp": "00:22:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "You could create lists that have access permissions as well.",
+    "timestamp": "00:22:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "But if you're in the deals, then I guess ultimately it's just encouraged to ensure that.",
+    "timestamp": "00:22:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "people have created their own views, so using different filters, and you can add them to favorites, and so they just spend time in their views on the left-hand side, where they're in every day.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So when you hovered your mouse over deals, is that where the where did the where did that?",
+    "timestamp": "00:23:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "the top left, I see there's like gonna be a list.",
+    "timestamp": "00:23:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, yeah, yeah, yeah, so you can add two favorites here.",
+    "timestamp": "00:23:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:23:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So what are lists?",
+    "timestamp": "00:23:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Lists are effectively a subset of these objects, so these objects on the left-hand side, right, think of that as your source of truth or your database, and you can imagine if I wanted to get if I'm a VC, because this is a speech of VCs all the time, and they want to see a list of their investments and the audit in their portfolio companies, they can just create a list like this, and that pulls from this company object.",
+    "timestamp": "00:23:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "you can see here.",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So you can see there are templates that come out of the box with these lists or you can start from scratch and then it's going to ask you what objects you want to use as the source and these are primarily used if for example I see teams that have used their limit of of objects and so they want to create lists instead because they can create any more objects or if they for example have something like a one-off type of view like an event or a dinner that's coming up and it's just going to be for one time they can just create a list for that based on the people object.",
+    "timestamp": "00:24:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So those are the kind of times that I see people use these lists and yeah ultimately it's just a subset of your objects but you can add as many lists as possible.",
+    "timestamp": "00:24:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay okay cool and you ask you can add",
+    "timestamp": "00:24:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "automatically add people to the list through a set of criteria or it's you automatically add people to a list, yeah, with workflows, yeah.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, oh, with the workflows, right?",
+    "timestamp": "00:25:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:25:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And so workflows are like, I mean, just thinking of it as like, is that like, if that then do this within adios, all the objects, what sequence then is that, that's just email?",
+    "timestamp": "00:25:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "This is that email and capability, yeah.",
+    "timestamp": "00:25:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So you can create a number of different steps in the email.",
+    "timestamp": "00:25:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And then they will just continue to receive those emails until they reach into the sequence, or until they meet the  and criteria on the wrong side.",
+    "timestamp": "00:25:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Oh, interesting.",
+    "timestamp": "00:25:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So for inbound teams like yourself, I think this could be helpful.",
+    "timestamp": "00:25:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Where, for example, talk to service requests come in, or the account managers, any requests that they want to follow up with, like onboarding, they can add",
+    "timestamp": "00:25:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "People went to some kind of onboarding, kind of paying like this.",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So, obviously you guys use adio extensively as adio.",
+    "timestamp": "00:26:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "How is your talk to sales set up?",
+    "timestamp": "00:26:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "there something needed with an adio to capture a talk to sales form into an opportunity or are you using like a chili piper?",
+    "timestamp": "00:26:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So, yeah, good question.",
+    "timestamp": "00:26:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So we use type form.",
+    "timestamp": "00:26:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "We have a native integration with type form.",
+    "timestamp": "00:26:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "so when people submit a talk to sales request on our website, that automatically breaks a lead or a deal, right?",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "what I mentioned earlier.",
+    "timestamp": "00:26:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And then they go through a workflow and it just gets routed accordingly based on, you know, robin, that type of thing.",
+    "timestamp": "00:26:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:26:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Do you have lead routing in adio?",
+    "timestamp": "00:26:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, workflows.",
+    "timestamp": "00:26:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:26:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Everything is done in workflows.",
+    "timestamp": "00:26:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "We built.",
+    "timestamp": "00:26:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "hundreds of leaves internally.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "All right, I get the audio pitch.",
+    "timestamp": "00:27:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "I get it now.",
+    "timestamp": "00:27:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, like, most, yeah, okay, I would need to try it, right?",
+    "timestamp": "00:27:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "most, I've always had like us separately routing from who, what's like in the form is in HubSpot and in the leads, I could chili fiber and then it's all getting fed, you know, it's just complicated, there's a lot of tools.",
+    "timestamp": "00:27:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:27:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Okay, I mean, I do in terms of myself as a salesperson, 99 times out of 100, these deals are created automatically.",
+    "timestamp": "00:27:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I've maybe created a handful of deals myself.",
+    "timestamp": "00:27:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Like I'm talking like manual entry.",
+    "timestamp": "00:27:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I very rarely have to manually enter a deal, very rarely have to manually create a contact or a person.",
+    "timestamp": "00:27:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And everything is automated from lead routing to seeing leads come up in.",
+    "timestamp": "00:27:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "certain lists, right?",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "All of that is done automatically.",
+    "timestamp": "00:28:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And I would assume you can make a workflow to automatically close deals that are stale and stuff like that.",
+    "timestamp": "00:28:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah, you could do that.",
+    "timestamp": "00:28:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:28:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Absolutely.",
+    "timestamp": "00:28:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "That's what that's what we do.",
+    "timestamp": "00:28:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "So if a deal hasn't been touched in six weeks, I think it just moves to close loss.",
+    "timestamp": "00:28:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "If we don't get in touch with someone, it moves off after six weeks.",
+    "timestamp": "00:28:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "And it knows that because you have a Gmail integration to see all the Yeah, you can see that it can see that there was no meeting that took place.",
+    "timestamp": "00:28:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "And that, you know, it's been in that stage for six weeks.",
+    "timestamp": "00:28:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So it moves to close loss.",
+    "timestamp": "00:28:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Is that a field last activity date?",
+    "timestamp": "00:28:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I don't know exactly how to build that workflow.",
+    "timestamp": "00:28:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "But the field, you can use the attribute last interaction.",
+    "timestamp": "00:28:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:28:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay, I need to jump.",
+    "timestamp": "00:28:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "But it would be awesome if you can set and show me that to one important person.",
+    "timestamp": "00:28:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, I really want to build it up.",
+    "timestamp": "00:28:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "I want to use this to the.",
+    "timestamp": "00:28:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "So, the more I can be able, better, yeah, yeah, so I'm definitely not one of the experts here, so you'll be a much better hand.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "No, that's okay.",
+    "timestamp": "00:29:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "mean, I still got value out of this.",
+    "timestamp": "00:29:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Sorry, I were already a customer, so.",
+    "timestamp": "00:29:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "No, probably going to help you, but I appreciate it.",
+    "timestamp": "00:29:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "then, yeah, I'm not on basis, and then I'll look up the university thing, like you mentioned, at the university.",
+    "timestamp": "00:29:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "at the academy.",
+    "timestamp": "00:29:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, at the academy.",
+    "timestamp": "00:29:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Oh, that's a better.",
+    "timestamp": "00:29:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Yeah, cool.",
+    "timestamp": "00:29:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:29:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "Well, thank you very much, Jared.",
+    "timestamp": "00:29:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "No worries.",
+    "timestamp": "00:29:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I'm glad that was helpful.",
+    "timestamp": "00:29:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jared Hall",
+      "matched_calendar_invitee_email": "jared@attio.com"
+    },
+    "text": "I'll reach out to the team and hopefully they'll be in touch with you very soon.",
+    "timestamp": "00:29:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:29:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:29:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Appreciate it.",
+    "timestamp": "00:29:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "No worries.",
+    "timestamp": "00:29:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Take care.",
+    "timestamp": "00:29:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:29:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:29:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Bridget McGillivray",
+      "matched_calendar_invitee_email": "bridget@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:29:44"
+  }
+]

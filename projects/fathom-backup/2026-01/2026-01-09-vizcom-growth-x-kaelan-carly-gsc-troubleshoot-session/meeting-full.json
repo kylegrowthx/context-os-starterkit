@@ -1,0 +1,1022 @@
+{
+    "title": "Vizcom <> Growth X - Kaelan / Carly GSC Troubleshoot Session",
+    "meeting_title": "Vizcom <> Growth X - Kaelan / Carly GSC Troubleshoot Session",
+    "url": "https://fathom.video/calls/526030223",
+    "created_at": "2026-01-09T19:10:08Z",
+    "scheduled_start_time": "2026-01-09T19:00:00Z",
+    "scheduled_end_time": "2026-01-09T19:40:00Z",
+    "recording_id": 113181669,
+    "recording_start_time": "2026-01-09T19:03:45Z",
+    "recording_end_time": "2026-01-09T19:10:02Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Hello.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "How's it going?",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "It's good.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "How's everything going with you?",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Sorry I have to be off camera.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "I'm on my phone right now, but yeah, nice to meet you.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Nice to meet you, too.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So I noticed something today when going on the vizcom site, the URL changed.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Are you aware of this?",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "From what?",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "From HTTPS to HTTPS www dot.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Oh, interesting.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "We did just switch over our site yesterday.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Oh, you did.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So the Google search console wasn't picking up on it because it didn't have the www.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "But now that it's the HTTPS, I believe it's...",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Starting to pick up on some pages.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Nice.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So that's good.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "But I mean, obviously it was just yesterday.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "So hold on.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Let me just make sure.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "I'm just looking at.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Are you going to be able to see my screen if I share?",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Can you see my screen?",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Hold on one second.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "There?",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Yes, I can see.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So when I'm looking at the site, this is the vizcom site right now.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "And I just want to do, and it looks like you redirected all the pages.",
+            "timestamp": "00:01:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "I'm is",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Which is good if you changed the site yesterday.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So now it's the Make It Real site.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So the issue was it was the www before.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "But now the referring page, this is kind of odd that the referring page is whatever this is.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Is this the staging site?",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "No, this is the real site.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Maybe they forgot to fix something here.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Let's switch from framer to webflow.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay, got it.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "If I'm looking at the pages, it's saying that none of the pages are indexed.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So this is one thing in order to be found, obviously, we have to do.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Maybe we need to resubmit the sitemap.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "sitemap.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "We",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "It's not saying anything about Core Web Vitals.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Let's see if there's a performance.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Well, it's showing up.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "At least this part is showing up.",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So that's good.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "You're not going to have any performance though because pages aren't indexing.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So I'm not sure if you can check on that and make sure that in Webflow that the pages are actually indexed.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Do you have, let me see the site.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So I submitted this site map on January 5th.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "The status is a success.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So that's good.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "I didn't even realize it was going to change to this specifically.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So that's, I'm pretty happy that that is the case.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Let me just grab this real real fast.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay, so it's not indexing.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "We're going to request indexing here.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "And the page was able to be fetched, so that's good.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So this kind of fixed the problem that we made this call for anyway.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "So my only suggestion would be to make sure that the pages are indexed.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Yeah, I don't really have too much context with Webflow, so you might have to reach out to Emily for that.",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay, got you.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "And she might be...",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "She might be...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Or, yeah, Emily or, you know, Mara or whoever else on the marketing team.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "What I'll do, I'll reach out to them to make sure that the pages are going to be indexed.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "If I have any more issues with the Google Search Console or anything changes, I will let you know.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Yeah, let me know.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "I just got to make sure that these are being, ah, there you go.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "See?",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "You are now available on Google.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So hopefully we'll pick up some performance over the weekend.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Let's just test.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "I'll resubmit it on Monday and see.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "The more we resubmit, the better.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So it'll just, it'll be crawled more.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So hopefully you'll see some of the information on Monday.",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Okay, awesome.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Do you have any questions for me while we're here?",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "No.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "I think I'm all good.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "I'm glad that it was resolved even before the call.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "So, yeah, I was able to get that done.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carly Piekos",
+                "matched_calendar_invitee_email": "carly@growthx.ai"
+            },
+            "text": "If I have anything or anything pops up, I will reach out.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Have a good one.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "You too.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kaelan Richards",
+                "matched_calendar_invitee_email": "kaelan@vizcom.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:06:15"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Troubleshoot Google Search Console (GSC) indexing issues for the vizcom.com site.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=16.0)\n\n## Key Takeaways\n\n  - [**Problem:** A site migration from Framer to Webflow broke Google indexing by changing the URL from `https://vizcom.com` to `https://www.vizcom.com`.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=16.0)\n  - [**Solution:** A live GSC URL Inspection fixed the immediate issue by forcing Google to crawl the new URL, making the page \"available on Google.\"](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=247.0)\n  - [**Action:** Carly will contact the marketing team (Emily/Mara) to confirm Webflow's indexing settings are correct for the entire site.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=278.0)\n\n## Topics\n\n### Problem: Site Migration Breaks Indexing\n\n  - [A site migration from Framer to Webflow broke Google indexing by changing the URL from `https://vizcom.com` to `https://www.vizcom.com`.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=16.0)\n  - [**Impact:** GSC reported zero indexed pages, preventing the site from appearing in search results.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=163.0)\n  - [**Positive:** The migration correctly implemented 301 redirects, preserving SEO value from old URLs.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=109.0)\n\n### Solution: Live GSC URL Inspection\n\n  - [Carly's live GSC URL Inspection fixed the immediate issue by forcing Google to crawl the new URL.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=247.0)\n  - [**Outcome:** The page was successfully fetched and became \"available on Google,\" confirming the URL change was the root cause.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=247.0)\n\n## Next Steps\n\n  - [**Carly:**](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=278.0)\n      - [Contact Emily or Mara (marketing) to confirm Webflow's indexing settings are correct for the entire site.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=278.0)\n      - [Resubmit the sitemap on Monday to accelerate crawling and collect performance data.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=339.0)\n      - [Report any new GSC issues to Kaelan.](https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR?tab=summary&timestamp=307.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Email Emily/Mara re: Webflow indexing; confirm all pages indexable",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:04:27",
+            "recording_playback_url": "https://fathom.video/calls/526030223?timestamp=267.9999",
+            "assignee": {
+                "name": "Carly Piekos",
+                "email": "carly@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Resubmit sitemap in GSC",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:28",
+            "recording_playback_url": "https://fathom.video/calls/526030223?timestamp=328.9999",
+            "assignee": {
+                "name": "Carly Piekos",
+                "email": "carly@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "andreina.coronado@vizcom.co",
+            "email": "andreina.coronado@vizcom.co",
+            "email_domain": "vizcom.co",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "kaelan@vizcom.com",
+            "email": "kaelan@vizcom.com",
+            "email_domain": "vizcom.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Kaelan Richards"
+        },
+        {
+            "name": "Carly Piekos",
+            "email": "carly@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Carly Piekos"
+        }
+    ],
+    "recorded_by": {
+        "name": "Carly Piekos",
+        "email": "carly@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/ru1XoZZPBxb79wm6bc-RpnbXKNF-oDGR",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

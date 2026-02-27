@@ -1,0 +1,2970 @@
+[
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "This meeting is being recorded.",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And so I think there's two best ways to do it.",
+    "timestamp": "00:00:30"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And you let me know which you'd prefer.",
+    "timestamp": "00:00:35"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "I think first, like overall, and based on the meeting we today, like getting to a version one of how Surge works, right?",
+    "timestamp": "00:00:37"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "We already kind of covered the customer process from onboarding to actual delivery.",
+    "timestamp": "00:00:45"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "But I guess the how we work from the platform side, how you use it and leverage it and at what stages, as well as the Surge or process.",
+    "timestamp": "00:00:49"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "How you evaluate them, how they're delivering their work, what they're seeing on their end.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "I think those are two things that I want to dive deep on.",
+    "timestamp": "00:01:04"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And then we can put together the entire story.",
+    "timestamp": "00:01:07"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So that's the first part is the story.",
+    "timestamp": "00:01:10"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "then the second is the value props and differentiators of your tech and then showing it.",
+    "timestamp": "00:01:13"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "I'm assuming a lot of it's through the platform.",
+    "timestamp": "00:01:22"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So it's like showing us how it works or how you'd normally run the process through it.",
+    "timestamp": "00:01:24"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "That's kind of the two things that I was thinking.",
+    "timestamp": "00:01:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:01:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That sounds good.",
+    "timestamp": "00:01:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Let me start with maybe an end-to-end demonstration of what it looks like when a customer makes a specific request for data, how we use our platform to produce that data.",
+    "timestamp": "00:01:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then that will tie in also to what the Surger themselves sees.",
+    "timestamp": "00:01:51"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Does that sound good?",
+    "timestamp": "00:01:55"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Sounds fantastic.",
+    "timestamp": "00:01:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:01:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So...",
+    "timestamp": "00:01:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "All right, let me pull up.",
+    "timestamp": "00:02:03"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Is the wired like a fashion statement?",
+    "timestamp": "00:02:07"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Is it because of the Bluetooth or yeah?",
+    "timestamp": "00:02:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Dude, it is about dependability.",
+    "timestamp": "00:02:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "No batteries, 100% consistent.",
+    "timestamp": "00:02:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Just plug that  in.",
+    "timestamp": "00:02:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "No AirPod routings to my  phone and stuff.",
+    "timestamp": "00:02:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Just I plug these in and put them on.",
+    "timestamp": "00:02:26"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "We're good.",
+    "timestamp": "00:02:28"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Do have the dongle?",
+    "timestamp": "00:02:28"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "It has the dongle to USB-C?",
+    "timestamp": "00:02:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "No, it's actually straight into the headphone jack.",
+    "timestamp": "00:02:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's old school.",
+    "timestamp": "00:02:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's like, it's great, man.",
+    "timestamp": "00:02:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I messed around with other things, but I settled here because it's just, can't mess it up.",
+    "timestamp": "00:02:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Not broken, don't fix it.",
+    "timestamp": "00:02:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Exactly.",
+    "timestamp": "00:02:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Also think most like AirPods just kind of sound like trash.",
+    "timestamp": "00:02:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "The mic sounds really bad.",
+    "timestamp": "00:02:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Not that this one sounds incredible, but it sounds decent.",
+    "timestamp": "00:02:54"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "It does sound better, yeah.",
+    "timestamp": "00:02:57"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Also, like that can't be good for you.",
+    "timestamp": "00:02:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It'll come out.",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "In five years, like, all the stuff is on screen time and map or whatever.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Like, that's going to all come out.",
+    "timestamp": "00:03:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:03:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So let's see.",
+    "timestamp": "00:03:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "This is a...",
+    "timestamp": "00:03:08"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "I'll share my screen and show you what a request looks like from a customer.",
+    "timestamp": "00:03:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I'm sorry.",
+    "timestamp": "00:03:20"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "You're good.",
+    "timestamp": "00:03:22"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And you have a hard stop in 19 minutes, yeah?",
+    "timestamp": "00:03:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I can go a bit longer, but not too much longer.",
+    "timestamp": "00:03:26"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "got it.",
+    "timestamp": "00:03:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:03:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "God damn it.",
+    "timestamp": "00:03:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I got it.",
+    "timestamp": "00:03:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I got it.",
+    "timestamp": "00:03:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I got it.",
+    "timestamp": "00:03:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "You",
+    "timestamp": "00:03:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:04:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "This is a little bit, this is actually a verbatim customer requests.",
+    "timestamp": "00:04:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So this is them.",
+    "timestamp": "00:04:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They want some data from us.",
+    "timestamp": "00:04:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "This is what they send to us.",
+    "timestamp": "00:04:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So what they're telling us is we like some raters, aka surgers, with a background in finance.",
+    "timestamp": "00:04:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We want them to write prompts that you write to a large language model, attaching an SEC filing like a 10K or 10Q.",
+    "timestamp": "00:04:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And asking a question about that.",
+    "timestamp": "00:04:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we just want the prompts here.",
+    "timestamp": "00:04:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And we want the human, the surgers to write what the ideal answer would be.",
+    "timestamp": "00:04:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So that's the task at hand.",
+    "timestamp": "00:04:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We have to go out and find people that have a background in finance, have them go find SEC filings, which they give a little bit of instructions on how to actually go find the documents they're looking for.",
+    "timestamp": "00:04:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then ask questions about those SEC filings.",
+    "timestamp": "00:04:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then also supply that correct answer to those questions.",
+    "timestamp": "00:04:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They have a couple different categories.",
+    "timestamp": "00:04:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "of questions they want people to ask.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So this is a fairly straightforward request, but this is verbatim what we've gotten from a customer in the past.",
+    "timestamp": "00:05:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That's all we get from them.",
+    "timestamp": "00:05:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And sometimes it's even less detailed than this.",
+    "timestamp": "00:05:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Sometimes it's way more detailed than this, but let's just call this an average amount.",
+    "timestamp": "00:05:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So from there, we need to use our platform to spin up basically UI and interface that's gonna go let Sergers complete this task and allow us to make sure that the data quality is high.",
+    "timestamp": "00:05:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So the kind of core non- thing that the Surge platform does is it allows us to spin up these labeling UIs super quickly to gather exactly what this customer is looking for.",
+    "timestamp": "00:05:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So let me find an example of that.",
+    "timestamp": "00:05:46"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And to be clear, this is like one of the main differentiators of the five.",
+    "timestamp": "00:05:52"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "It's the access you have to these experts.",
+    "timestamp": "00:05:55"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "it's an question.",
+    "timestamp": "00:05:59"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "and",
+    "timestamp": "00:05:59"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "The answers are given you, and then how streamlined do you have the process?",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Yeah, it's the streamlining of the process, and it's the combination of we have a very powerful platform, and we have access to all the right people.",
+    "timestamp": "00:06:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Yep.",
+    "timestamp": "00:06:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So, let's see.",
+    "timestamp": "00:06:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "All right, so.",
+    "timestamp": "00:06:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "One second, that's not what I wanted.",
+    "timestamp": "00:06:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That's not what I to do there, sorry.",
+    "timestamp": "00:06:41"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "You're good.",
+    "timestamp": "00:06:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That's what I want.",
+    "timestamp": "00:06:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "All right, so.",
+    "timestamp": "00:06:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "In some ways, like, the UI creation part of our process is not that dissimilar from a Google Form Creator, right?",
+    "timestamp": "00:06:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like, you're just.",
+    "timestamp": "00:06:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Picking and choosing, oh, I want a multiple choice question.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then now I want a free response question or whatever.",
+    "timestamp": "00:07:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's very similar to that, but it's just made for labeling Gen AI data.",
+    "timestamp": "00:07:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So in this, I'll show you the finished project first.",
+    "timestamp": "00:07:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So basically what we have here is on the left hand side, we have all the instructions that someone on our team wrote to tell the servers what to do.",
+    "timestamp": "00:07:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So it doesn't suffice to just show them what they can't just take the brief.",
+    "timestamp": "00:07:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "You got to basically look at the brief and be like, all right, what's all the ways people are going to F this up when we give it to them?",
+    "timestamp": "00:07:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Where are they going to go wrong?",
+    "timestamp": "00:07:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Okay, there's a requirement here that you can only use documents from October 23 or later.",
+    "timestamp": "00:07:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And I can see people messing that up.",
+    "timestamp": "00:07:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And so you got to anticipate that and then write your own instructions to, you know.",
+    "timestamp": "00:07:51"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And how long is that?",
+    "timestamp": "00:07:58"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "How long is like the...",
+    "timestamp": "00:07:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Creating the instructions in the setting of the UI.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That should be it.",
+    "timestamp": "00:08:03"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "We should be able to do all that in a day or a couple hours.",
+    "timestamp": "00:08:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:08:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So, so Karina here, one of the members of our team, she has written all these instructions.",
+    "timestamp": "00:08:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "She's explaining the different types of prompts we need, the documents to use, like various important reminders.",
+    "timestamp": "00:08:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's just like, you know, a spruce up version of the brief.",
+    "timestamp": "00:08:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "we can get some examples of what's good, get some examples of what's bad, what to avoid.",
+    "timestamp": "00:08:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then over here on the right-hand side is our Google Form.",
+    "timestamp": "00:08:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's, okay, I got to put the name of the company for the first document, the filing date.",
+    "timestamp": "00:08:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's all very basic stuff.",
+    "timestamp": "00:08:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We might have some validation in the backhand that, like, ensures that this is a date in the right format, like some regex stuff.",
+    "timestamp": "00:08:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then here's where your prompt goes.",
+    "timestamp": "00:08:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Here's where your ideal answer goes, and you're off to the races.",
+    "timestamp": "00:08:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That's basically it.",
+    "timestamp": "00:08:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So that's like, that's the super, again, super unsexy, just basically, what are we actually doing?",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We're writing these instructions, we're putting together these UIs, we're launching these out to a group of servers, we'll get to that later.",
+    "timestamp": "00:09:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then they see basically something, they basically see exactly this, and they're going through this process and filling things out.",
+    "timestamp": "00:09:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Where it starts to get a little interesting, it's like, okay, so it's a little interesting that we have our own platform.",
+    "timestamp": "00:09:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "There's some companies, like I think Mercore, for example, that doesn't have their own platform.",
+    "timestamp": "00:09:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So all they can do is send people to the company's platform.",
+    "timestamp": "00:09:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "The company platforms are always really, really  , really hard to use, and it will take them literally weeks to create something like this that we can create in a few hours.",
+    "timestamp": "00:09:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So right there, we can move a lot faster because we have this tooling able to go quickly.",
+    "timestamp": "00:09:40"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Is that your answer to the person who's taking that side, which is like, hey, I just want these five Harvard lawyers in three hours?",
+    "timestamp": "00:09:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Yeah, it's like, okay, we can give you, someone can give you five Harvard lawyers in three hours.",
+    "timestamp": "00:09:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But where are they going to",
+    "timestamp": "00:09:59"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "do the work?",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And how do you know that work is actually good?",
+    "timestamp": "00:10:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we can, we can answer those questions.",
+    "timestamp": "00:10:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we have this platform.",
+    "timestamp": "00:10:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Scale had a platform too.",
+    "timestamp": "00:10:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It was just a lot worse, worse, harder for them to collect good data and harder for like workers to get paid and whatnot.",
+    "timestamp": "00:10:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we had this platform and then we can also, the thing that's going to be the hardest to explain to people, but is also the most important to explain is why does this platform allow us to produce higher quality data than not using the platform?",
+    "timestamp": "00:10:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Right?",
+    "timestamp": "00:10:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Why can't you just take three Harvard lawyers and put them on your  Google UI or whatever, or put them in a spreadsheet and just have them do the work there?",
+    "timestamp": "00:10:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "What do we, what's the value add of the platform?",
+    "timestamp": "00:10:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And there's no single answer to that, except we, the, the real answer is we, it's the signals thing.",
+    "timestamp": "00:10:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We've built many, many different signals into the platform that allow us to determine if someone is ultimately doing good work or not.",
+    "timestamp": "00:10:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So here's a quick one.",
+    "timestamp": "00:10:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Um, we've built,",
+    "timestamp": "00:10:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Well, we can call out to any large language model on our platform natively.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And so we can have these LLM helpers, basically.",
+    "timestamp": "00:11:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we have this LLM helper here that's going to look at the document you uploaded earlier.",
+    "timestamp": "00:11:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's going to determine if it's actually a 10Q or 10K.",
+    "timestamp": "00:11:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's going to determine if the date was correct.",
+    "timestamp": "00:11:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And it's going to determine if we inputted the name, filing date, and the form type correctly.",
+    "timestamp": "00:11:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So right there, again, this is not , but it's like we have this AI thing that is helping you make sure you're actually doing work well.",
+    "timestamp": "00:11:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And this is happening for the surgers.",
+    "timestamp": "00:11:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So they themselves are pressing the check documents button.",
+    "timestamp": "00:11:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And their platforms definitely don't have this.",
+    "timestamp": "00:11:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And they're not going to set it up for any old project.",
+    "timestamp": "00:11:40"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And then this is wrong, right?",
+    "timestamp": "00:11:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "You're evaluating the surgers against that as well?",
+    "timestamp": "00:11:44"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Say that again?",
+    "timestamp": "00:11:48"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Like if, you know, the surger got number two and number three wrong, and they have to go back and redo it, you're evaluating them on that as well?",
+    "timestamp": "00:11:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:11:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we know, um, uh,",
+    "timestamp": "00:11:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Yeah, although in this case, this is completely hallucinating, but in any event, assuming it wasn't, yeah, we can see, like, how often they're using this and kind of the results of it.",
+    "timestamp": "00:12:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Got it.",
+    "timestamp": "00:12:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So, anyway, we end up launching this project.",
+    "timestamp": "00:12:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We launch this project, and it goes out to a team, a specific team of workers on our platform.",
+    "timestamp": "00:12:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So, we have all these teams of, you know, sets of people on our platform, the scientists, the mathematicians, the coders, the poets, the bakers, the people in Australia, the people in the UK, and we can intersect them in any way.",
+    "timestamp": "00:12:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "it's like, God, we need coders in the UK who have at least five years of experience in the real world.",
+    "timestamp": "00:12:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So, it's super fluid from that perspective, and we have, like, other ways to very easily filter our workforce.",
+    "timestamp": "00:12:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like, this is our workforce page.",
+    "timestamp": "00:12:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We could say, hey, I want to see everyone that is...",
+    "timestamp": "00:12:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "A member of this top coders team.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So everyone that's a member of that and signed up, you know, before a certain time and their average review score is above this on these certain projects and they're from this country.",
+    "timestamp": "00:13:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So it's super, allows us to query all this super easily and get the best team for any given project, right?",
+    "timestamp": "00:13:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can see how much money people have earned, they're currently working, all this stuff.",
+    "timestamp": "00:13:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And so, again, I don't think other platforms have this in any way sort of like we do.",
+    "timestamp": "00:13:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So it's very easy for us to filter our workforce to the absolute best people for any given project.",
+    "timestamp": "00:13:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Okay, so we launched the project and then I'll go to the Surge review in a second.",
+    "timestamp": "00:13:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But essentially, they see a dashboard just like I am looking at a dashboard of lots of different projects that people on our team are running.",
+    "timestamp": "00:13:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It looks very similar to the Surge.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They're seeing a bunch of projects that they could work on with their pay rate, what they might want to do.",
+    "timestamp": "00:14:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They're seeing these titles right here.",
+    "timestamp": "00:14:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So if I'm a worker, I see this project was launched.",
+    "timestamp": "00:14:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's paying $27 an hour.",
+    "timestamp": "00:14:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I go and I do the tasks.",
+    "timestamp": "00:14:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then on our side, we are watching the results come in.",
+    "timestamp": "00:14:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So this is our results viewer, which customers can see.",
+    "timestamp": "00:14:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And this is basically a table of all of the submissions that we're getting and all the data in there.",
+    "timestamp": "00:14:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So the company name, the filing date, the prompt, the answer, and all that stuff.",
+    "timestamp": "00:14:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So that's how we're viewing the data.",
+    "timestamp": "00:14:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then basically, we just have a ton of signals that we can look at, again, to help determine if the data is good or not.",
+    "timestamp": "00:14:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And this is one of the challenges we're going to have.",
+    "timestamp": "00:14:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "There's no one thing here.",
+    "timestamp": "00:14:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's a bunch of different stuff we're doing that...",
+    "timestamp": "00:14:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Each thing on its own was maybe not that interesting, or maybe it is, I don't know, maybe we can make it interesting.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But combined together, it's a super powerful thing.",
+    "timestamp": "00:15:05"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So I'll give you some examples.",
+    "timestamp": "00:15:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we have a page called Surger Analytics.",
+    "timestamp": "00:15:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And the analytics are telling me, for each person here, how many responses did they submit in this project?",
+    "timestamp": "00:15:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "How many have we rejected so far?",
+    "timestamp": "00:15:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we may manually look at it and say, this isn't any good.",
+    "timestamp": "00:15:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So how many have we rejected?",
+    "timestamp": "00:15:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "What was their median time spent on this project?",
+    "timestamp": "00:15:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Their review score, if it was reviewed by other people, which is another quality signal.",
+    "timestamp": "00:15:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then how do they fare against the sort of the average for the rest of folks in the project?",
+    "timestamp": "00:15:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So here we can quickly see outliers on like, hey, who are the people that are taking the most amount of time?",
+    "timestamp": "00:15:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Who are people that are taking the least amount of time?",
+    "timestamp": "00:15:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That in and of itself doesn't actually tell you if they're good or not.",
+    "timestamp": "00:15:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They can be taking a ton of time because they're scamming you or they could be taking a ton of time because they're really freaking good.",
+    "timestamp": "00:15:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Thoughtful, yeah.",
+    "timestamp": "00:15:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Right.",
+    "timestamp": "00:15:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Or they could be taking no time because.",
+    "timestamp": "00:15:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Because they are rushing through this, or they could be taking no time because they're brilliant, and this is easy.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So, again, it's not no one signal is going to tell you exactly how this works.",
+    "timestamp": "00:16:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But when the culmination of them all becomes really, really powerful.",
+    "timestamp": "00:16:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Here's another thing.",
+    "timestamp": "00:16:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I can go to, let's go to Benjamin Baker's profile.",
+    "timestamp": "00:16:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So I click into his profile.",
+    "timestamp": "00:16:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And I'm going to see a ton of information on Benjamin Baker that also allows me to understand who the heck this guy is and whether I should trust his work.",
+    "timestamp": "00:16:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So I can see how much he's earned lifetime on the platform, how that relates to other workers.",
+    "timestamp": "00:16:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I can see how long he's been on the platform.",
+    "timestamp": "00:16:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I can see the number of teams we've put him on.",
+    "timestamp": "00:16:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So how many teams have our internal people put him on?",
+    "timestamp": "00:16:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And I can see which of those have been marked as low-quality teams versus high-quality teams.",
+    "timestamp": "00:16:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I hover over this, and I can see, okay, this guy's actually been removed from eight different teams.",
+    "timestamp": "00:16:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "He's",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We put on eight teams that are essentially like removal teams, saying we don't want to work with this team anymore.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And if I'm looking at it, I see a bunch of different codenames.",
+    "timestamp": "00:17:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "see Volps and Bonito and Tide and Meta and Zebra.",
+    "timestamp": "00:17:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Okay, he's basically worked on most of our clients, and he's been removed from a team on almost all of them.",
+    "timestamp": "00:17:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That makes me a little sus of what's going on.",
+    "timestamp": "00:17:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But then I have other metrics.",
+    "timestamp": "00:17:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "He has had 878 of his tasks reviewed by other surgers, and his average score is 76, which is decent.",
+    "timestamp": "00:17:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "On other, we have these honeypot tasks that we insert into the projects where we have a known answer, and we test if people can get the known answer correct.",
+    "timestamp": "00:17:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "He's got 95% of that.",
+    "timestamp": "00:17:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That's pretty good, too.",
+    "timestamp": "00:17:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can see that in his lifetime, we have rejected 12% of his work.",
+    "timestamp": "00:17:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That's pretty interesting.",
+    "timestamp": "00:17:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can see that when he reviews other people's work, he usually gives, on average, a score of 80%, which is not a good sign.",
+    "timestamp": "00:17:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It basically means that he is not being critical.",
+    "timestamp": "00:17:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "He's probably rubber stamping stuff.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then we can see every project he's ever participated in in his lifetime.",
+    "timestamp": "00:18:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And we can go over here for a sample of his work and just look at directly his work on a bunch of different projects that he's done.",
+    "timestamp": "00:18:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can see all the messages he's sent in chats to us, which is zero here.",
+    "timestamp": "00:18:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can see what projects are currently available to him on his dashboard.",
+    "timestamp": "00:18:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can see all the gold standards.",
+    "timestamp": "00:18:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "These are the honeypot questions.",
+    "timestamp": "00:18:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can see his responses to all of those.",
+    "timestamp": "00:18:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can go to his LinkedIn.",
+    "timestamp": "00:18:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can read his bio.",
+    "timestamp": "00:18:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And so we have all this really rich information about him.",
+    "timestamp": "00:18:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "If we want to, we can also, asking your question around their view, can impersonate him.",
+    "timestamp": "00:18:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So now this is exactly what Benjamin Baker sees.",
+    "timestamp": "00:18:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "These are all the projects on his dashboard.",
+    "timestamp": "00:18:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I mean, he has like 50 things that he could work on.",
+    "timestamp": "00:18:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And he could click into any of these and, you know, start doing the work on that.",
+    "timestamp": "00:18:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So.",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So at a project level, we have all this information about all the work being done on our finance project.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then we can also see all this user-specific information.",
+    "timestamp": "00:19:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We can also go back and watch his sessions, like every keystroke he makes on the platform.",
+    "timestamp": "00:19:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then we have some off-platform quality analytics, too.",
+    "timestamp": "00:19:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like we have certain dashboards that are looking at how likely it is that any given person is using AI a bunch to do their work, which we don't want because we need human work.",
+    "timestamp": "00:19:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So there's probably even more than that.",
+    "timestamp": "00:19:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But that's like all the quality signals that we are combining to determine, like, if we should trust someone's work, how much scrutiny to give them.",
+    "timestamp": "00:19:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then also there's just a ton of we're going to look at a lot of the data ourselves.",
+    "timestamp": "00:19:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we've gotten these 30 responses here, 30 responses.",
+    "timestamp": "00:19:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And what we did, what Karina did in this case, was she launched what we call a rate.",
+    "timestamp": "00:19:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Review project, which is now she's sending out the same responses to be reviewed by other people.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "maybe we select other surgers, any team of surgers we want.",
+    "timestamp": "00:20:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So it could be one way we could do this is I collect these 30.",
+    "timestamp": "00:20:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I look at some of the results myself and I pick out three people that are doing Phenelan work.",
+    "timestamp": "00:20:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I make them my review team and I send this rate and review to those three people.",
+    "timestamp": "00:20:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And I say, look, I trust you guys because I saw how good your work was.",
+    "timestamp": "00:20:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And now whenever we run this project, I want you three to look at everything we do.",
+    "timestamp": "00:20:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like that's one way to do it.",
+    "timestamp": "00:20:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "There's other ways to determine who's going to be the review team too.",
+    "timestamp": "00:20:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But so those all get reviewed.",
+    "timestamp": "00:20:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And in the results viewer, we get these review scores.",
+    "timestamp": "00:20:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So this is the checkboxes score up 100, basically a thumbs up.",
+    "timestamp": "00:20:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "This line is basically medium, 50%, like take it or leave it.",
+    "timestamp": "00:20:49"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "The X is, this is not good.",
+    "timestamp": "00:20:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So we've gone through this data set and selected, there's like.",
+    "timestamp": "00:20:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "This one has the X, like something about it is wrong.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We're probably just going to reject it, so we can reject this.",
+    "timestamp": "00:21:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That goes kind of against this little mark against Benjamin on his record.",
+    "timestamp": "00:21:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And we go through this to make sure this is all looking really high quality.",
+    "timestamp": "00:21:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then we ship it off to the customer, and they see something similar, minus they don't actually see like our review scores and our review process.",
+    "timestamp": "00:21:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So, and that's the end of the process.",
+    "timestamp": "00:21:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like we send this data set off, they see it.",
+    "timestamp": "00:21:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Actually, I can just show you exactly what they see.",
+    "timestamp": "00:21:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "This is the customer view now.",
+    "timestamp": "00:21:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So they basically see the title of the project, some high-level analytics when they're available.",
+    "timestamp": "00:21:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then the raw data set, they can take it off our platform in a CSV or a JSON, or they can do it via the API.",
+    "timestamp": "00:21:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And that's basically the process.",
+    "timestamp": "00:21:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "the thing that we have historically been very quiet about and very vague about is...",
+    "timestamp": "00:21:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Is...",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So what is going on between when you guys get a spec and when you deliver this data back to us?",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like customers, they understand we have a platform.",
+    "timestamp": "00:22:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They may understand that we're going to write some instructions for them.",
+    "timestamp": "00:22:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They may understand that we are going to put together a team of the top workers and make sure that it's like the right people are working on the project.",
+    "timestamp": "00:22:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "But what is everything else that Surge is doing to be great?",
+    "timestamp": "00:22:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And in the past, we've been hesitant a little bit about that because it's for sure true that as soon as you start sharing any type of detail, people just want more information.",
+    "timestamp": "00:22:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "They want to nitpick your process and they start looking less at the end result, looking at this actual data and being like, great, this is exactly what I was looking for.",
+    "timestamp": "00:22:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And they start questioning the process like, well, did you get it reviewed by one person each or two people each?",
+    "timestamp": "00:22:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "What happened if one person said it wasn't good, but one person said it was good?",
+    "timestamp": "00:22:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And we're basically like, dude, don't worry about any of that.",
+    "timestamp": "00:22:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We're going to do all that work and then you're going to see something great at the end of the day.",
+    "timestamp": "00:22:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Of course, the downside here is that if they don't know what we're doing, they can't really value it.",
+    "timestamp": "00:22:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Because as much as we want everyone to be looking at data and saying, oh, my God, Surge did such a great job, the only way you can know that we did a great job here is to actually, like, take 15 minutes out of your day, read these prompts, read these answers, maybe go look at the filing yourself and be like, oh, they got the answer right.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like, there's no objective one single thing that instantly is just like, cool, like, this is perfect.",
+    "timestamp": "00:23:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's all kind of vibes-based.",
+    "timestamp": "00:23:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "so that's where, like, I don't know, McCord gets points for having their McCord doxing or something because they're demonstrating externally.",
+    "timestamp": "00:23:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We know what we're doing.",
+    "timestamp": "00:23:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We're being really thoughtful about this.",
+    "timestamp": "00:23:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Whereas there's probably some people that have spent tons of money on us that are like, I have no idea how Surge does it.",
+    "timestamp": "00:23:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Maybe some people like that.",
+    "timestamp": "00:23:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Maybe some people are like, what am I paying for?",
+    "timestamp": "00:23:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So is all that helpful?",
+    "timestamp": "00:23:45"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Really, really, really helpful.",
+    "timestamp": "00:23:48"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And I think there's, I mean, we both know there's somewhere in between of the silence and open sourcing everything where this how we work can be communicated in a way.",
+    "timestamp": "00:23:49"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Like, language is a little more vague, but still...",
+    "timestamp": "00:23:58"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Super impactful.",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So that's what this meeting was for.",
+    "timestamp": "00:24:03"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "I think I got plenty of information.",
+    "timestamp": "00:24:05"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Like this was super detailed.",
+    "timestamp": "00:24:08"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So I appreciate it.",
+    "timestamp": "00:24:09"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "And now it's on us to go figure out, okay, how do we package and communicate this?",
+    "timestamp": "00:24:10"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "I guess, is there anything else that sticks out in terms of evaluations, quality checks, differentiators in this last minute here that you've got to call out?",
+    "timestamp": "00:24:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I think that the thing where Edwin's always been really interested in positioning us as a technology company, and I totally understand why.",
+    "timestamp": "00:24:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "We don't want to be seen as just another BPO-style vendor that has a bunch of people working in spreadsheets.",
+    "timestamp": "00:24:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I totally get that.",
+    "timestamp": "00:24:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And then there's a flip side of that, which is, but also part of our secret sauce is not just the human element of the surgers, but it's our FTEs, honestly, who are overseeing this whole process and steering it.",
+    "timestamp": "00:24:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And every data collection is unique in some way.",
+    "timestamp": "00:24:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And so you need this, like.",
+    "timestamp": "00:24:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "That has really good intuitions, can look at data and instantly know whether it's good or bad, and then can use our tools effectively to create really great data.",
+    "timestamp": "00:25:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And so I think there's a risk of, like, if we do this correctly, what customers and the public at large would come away with is, Surge has amazing technology being leveraged by geniuses, basically.",
+    "timestamp": "00:25:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And it's not just, oh, if I just bought this technology, I could just do this myself.",
+    "timestamp": "00:25:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "If I could just build this technology, I could just do this myself.",
+    "timestamp": "00:25:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Or if I just hired geniuses, I could do this myself.",
+    "timestamp": "00:25:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I think it's really, like, the combination there of, like, you're not just paying for our tech, you're paying for, like, our genius.",
+    "timestamp": "00:25:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And part of the genius is we've built this amazing tech.",
+    "timestamp": "00:25:42"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So that's going to be a little even including the access to experts at scale.",
+    "timestamp": "00:25:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Not even that.",
+    "timestamp": "00:25:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Like, that's, like, the third piece of it.",
+    "timestamp": "00:25:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "It's, like, our technology, our super genius internal folks, and then our amazing workforce.",
+    "timestamp": "00:25:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And...",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Those three things together allow us to produce this amazing data.",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "And, yeah, I don't know that that message is out there at all right now.",
+    "timestamp": "00:26:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "So that's what I would like to get across.",
+    "timestamp": "00:26:14"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Thank you for the masterclass, man.",
+    "timestamp": "00:26:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "I know you have to jump.",
+    "timestamp": "00:26:19"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Yes, sir.",
+    "timestamp": "00:26:21"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "No problem.",
+    "timestamp": "00:26:21"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "was great.",
+    "timestamp": "00:26:22"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Awesome, man.",
+    "timestamp": "00:26:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Appreciate it.",
+    "timestamp": "00:26:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Scott Heiner",
+      "matched_calendar_invitee_email": "scott@surgehq.ai"
+    },
+    "text": "Let me know if you need anything else.",
+    "timestamp": "00:26:27"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Appreciate it, Scott.",
+    "timestamp": "00:26:28"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Have a good one.",
+    "timestamp": "00:26:28"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Thank",
+    "timestamp": "00:26:30"
+  }
+]
