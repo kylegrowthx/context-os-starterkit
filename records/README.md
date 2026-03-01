@@ -8,10 +8,16 @@ These contain meeting transcripts, client documentation, and external reference 
 
 | Directory | Contents | Size |
 |-----------|----------|------|
-| `contacts/` | Personal CRM — people, relationships, interaction notes | New |
-| `transcripts/` | Meeting transcripts from Fireflies | ~57 files |
-| `customers/` | Client-specific documentation and engagement history | ~54 files |
-| `downloads/` | External content (Lenny's Podcast transcripts, etc.) | ~290 files |
+| `meetings/` | Structured meeting data organized by YYYY-MM folder | ~1,944 files |
+| `customers/` | Client documentation — `active/` and `churned/` subdirectories | ~420 files |
+| `downloads/` | External content (Lenny's Podcast transcripts, etc.) | ~427 files |
+| `contacts/` | Personal CRM — external contact dossiers | ~244 files |
+| `contacts/employees/` | Team member dossiers organized by department | ~61 files |
+| `transcripts/` | Enriched meeting transcripts from Fireflies | ~186 files |
+| `prospects/` | Past prospect research, deal rooms, deliverables | ~24 files |
+| `slack/` | Slack channel index | 1 file |
+| `assets/` | Shared media assets | 1 file |
+| `email/` | Email archives (placeholder) | Empty |
 
 ## How to Use
 

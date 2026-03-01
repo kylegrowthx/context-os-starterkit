@@ -17,6 +17,7 @@ SEO and AEO (Answer Engine Optimization) unified. Ranking factors, keyword strat
 | [seo-ranking-factors-study-guide-v1.md](seo-ranking-factors-study-guide-v1.md) | SEO Ranking Factors — Google leak analysis |
 | [keyword-optimization-clustering-study-guide-v1.md](keyword-optimization-clustering-study-guide-v1.md) | Keyword Optimization & Clustering |
 | [semrush-seo-audit-study-guide-v1.md](semrush-seo-audit-study-guide-v1.md) | SEMrush SEO Audit — technical audit methodology |
+| [page-level-scoring-methodology-v1.md](page-level-scoring-methodology-v1.md) | Page-Level Scoring — automated 0-100 scoring from SEMRush, Lighthouse, DataForSEO, a11y, SquirrelScan |
 | [prompt-taxonomy-and-ontology-v1.md](prompt-taxonomy-and-ontology-v1.md) | Prompt Taxonomy & Ontology — CheckThat classification system |
 
 ## Subdirectories

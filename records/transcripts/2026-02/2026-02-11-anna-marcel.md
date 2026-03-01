@@ -1,40 +1,81 @@
-# Anna <> Marcel
+# Anna Baird <> Marcel Santilli
 
 <metadata>
 date: 2026-02-11
 time: 20:30 UTC
 duration: 33 minutes
-organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Anna Baird
+organizer: Marcel Santilli (marcel@growthxlabs.com)
+participants:
+  - name: Marcel Santilli
+    role: CEO
+    company: GrowthX
+  - name: Anna Baird
+    role: Advisor / Former CRO
+    company: Portfolio (Semrush board, Tiki board)
 fireflies_id: 01KH6QZSQF7F1JWYNAS52N10Y8
+source: fireflies
 transcript_url: https://app.fireflies.ai/view/01KH6QZSQF7F1JWYNAS52N10Y8
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel and Anna Baird (advisor/former CRO) discussed the most urgent hiring gaps at GrowthX: a sales leader, strategic finance person, product manager, and marketing leader. Anna can offer ~2 days/week of support, focused on candidate screening and sales pipeline structure. Key constraint: Bridget is taking maternity leave from late April through mid-August, creating a critical gap that needs to be closed with leadership hires in the next two months.
+Marcel and Anna Baird (advisor, former CRO with board commitments) discussed GrowthX's critical hiring roadmap and operational risks. Four roles are urgent: sales leader, strategic finance person, product manager, and marketing leader. Anna committed to ~2 days/week focused on candidate screening and pipeline coaching. The core constraint: Bridget (operations lead) takes maternity leave late April through mid-August, creating a 4-month operational gap that must be closed by hiring strategic talent within 8 weeks.
 
 ---
 
 ## Context
 
-Anna Baird is a trusted advisor to Marcel — a former CRO-type executive with board obligations (Semrush, Tiki). These sessions are a mix of strategic advisory and practical help. Anna has limited availability but is offering focused support on hiring and operational cadence. The meeting happened during a period of active sales momentum (10 deals closed recently, 53 deals in pipeline) but with clear capacity and leadership gaps.
+Anna Baird is a trusted strategic advisor to Marcel with deep go-to-market and operations experience — former CRO at Outreach with board seats at Semrush and Tiki. These advisory sessions blend strategic guidance with hands-on recruitment and operational support. The conversation occurred during a period of strong sales momentum (10 deals closed in 4 weeks, 53 in pipeline, Tyler closing at ~$50M ARR run rate) but facing acute capacity and leadership gaps. Anna has limited availability due to board commitments (Semrush board meeting this week, Tiki in March) and personal/family obligations (daughter's graduation and a medical procedure in spring/summer), which she addressed directly in negotiating the scope of her involvement.
 
 ---
 
 ## Relevance
 
-**To GrowthX Services:**
-- Sales team risk: Tyler (founding AE) can close ~$50M ARR annually but has a 3-week honeymoon in March. Nigel is on the team but not yet fully ramped. Need a third AE and a sales manager.
-- Bridget taking leave from late April through mid-August — highest priority operational risk. Erickson can cover some workload as her right hand; need coverage plan before she leaves.
-- Jeff (former head of RevOps) is consulting 10 hours/week to improve pipeline structure and reporting.
-- New head of CS (Taylor) is being offered a role.
+**To GrowthX Services (Core Revenue):**
+- **Sales leadership gap (most urgent):** Tyler (founding AE) individually closes at ~$50M ARR run rate but cannot manage pipeline complexity, renewals, or team scaling. Nigel recently joined but not yet ramped. Missing piece: a player-coach sales leader to manage 3-6 AEs and establish forecasting/deal strategy cadence. Tyler will be unavailable for 3 weeks in March (honeymoon), creating immediate risk.
+- **Operations/finance gap:** Bridget (ops backbone: contracts, MSA reviews, upsells, accounting handoffs, hiring coordination) takes maternity leave late April through mid-August. Erickson can cover accounting/legal, but structural gaps remain. Need strategic finance person to own pipeline forecasting, deal structure, and cross-functional cadence.
+- **Sales pipeline hygiene:** No formal deal strategy reviews, inconsistent forecasting, contract/renewal bottlenecks concentrated with Bridget. Jeff (RevOps, former head at Upkeep) consulting 10 hours/week to improve structure and reporting.
+- **Customer success:** Offering role to Taylor (new head of CS) to build retention and expansion motions.
 
-**To CheckThat:**
-- PM role identified as urgent: need someone to translate Marcel and Daniel's product vision into market-ready releases, manage beta customers, and coordinate releases.
-- Data science hire (Jacob Cutter, verbally accepted) will accelerate product capabilities — overlaps with what was discussed in the Jason weekly.
+**To CheckThat (Strategic AI Product):**
+- **Product manager (urgent):** Need full-time PM to translate Marcel and Daniel's technical vision into market releases, manage beta customer feedback, coordinate release cadence, and own market narrative. Currently missing.
+- **Data science (filled, high impact):** Jacob Cutter (verbally accepted; formerly Conversation AI lead at Salesforce, full-stack ML engineer) will significantly accelerate product capabilities and competitive positioning.
+
+**To GrowthX Overall:**
+- **Marketing leader (Plan A: Harmony):** Demand gen and sales partnership specialist; formerly worked with Anna at Outreach. Strong cultural fit. Focus: demand gen, sales enablement, messaging.
+- **Chief of Staff (future consideration):** Deferred past end of March when other priorities are more stable.
+
+---
+
+## Decisions & Commitments
+
+**Anna Baird commits to:**
+- Candidate screening and interview participation for finance and sales leadership roles.
+- Weekly/bi-weekly sales pipeline reviews with the team to establish forecasting cadence and deal strategy discipline.
+- Hiring support for product manager and marketing roles (secondary priority).
+- Outreach to Harmony (marketing candidate) with updated resume; direct intro to Marcel.
+- Approximately 2 days/week engagement (flexible based on board commitments: Semrush this week, Tiki in March; and personal obligations: daughter's graduation and medical procedure in April-June).
+- Will not commit to Chief of Staff role hire or full-time operational coverage given competing commitments.
+
+**Marcel Santilli commits to:**
+- Define clear hiring parameters and operating rhythm for Anna's involvement to maximize ROI on her limited time.
+- Accelerate sales leadership hiring (contact Eric and Lauren through recruiting connections).
+- Move aggressively on strategic finance, sales leader, product manager, and marketing hires — target: all in place and onboarding by end of March/early April.
+- Plan and execute Bridget transition: document her processes, prepare Erickson as coverage backup, establish ramp overlap before her leave (late April).
+- Establish formal sales cadence: deal strategy reviews, pipeline forecasting, contract hygiene — to reduce Bridget dependency.
+
+---
+
+## Open Questions
+
+- **Chief of Staff hire:** Lower priority for now. Marcel to revisit with Anna end of March if operational stability improves.
+- **Sales leader sourcing channels:** Awaiting results from conversations with Eric and Lauren. Cole Group rejected ($120K upfront, no guarantees, no refund policy).
+- **Bridget transition overlap:** How many weeks before her leave can new finance/sales leaders be productive? Need ramp timeline clarity.
+- **Go-to-market operations:** How deeply should Anna engage in establishing cadence vs. relying on Jeff (RevOps) and new finance person?
+- **COO vs. fractional advisor model:** Is 2 days/week sufficient for operational stability during Bridget's 4-month absence, or should Marcel hire a full-time COO separately?
 
 ---
 
@@ -46,1213 +87,157 @@ Anna Baird is a trusted advisor to Marcel — a former CRO-type executive with b
 - Fourth: marketing leader — Harmony is the Plan A candidate (known to both Marcel and Anna).
 - Anna: ~2 days/week, focused on candidate screening, sales pipeline coaching.
 - Bridget on leave late April → mid-August — critical gap requiring immediate ramp of replacements.
-- Cole Group rejected ($120K upfront, no guarantees). Looking at other recruiting options.
+- Cole Group rejected ($120K upfront, no guarantees). Looking at other recruiting options (Eric, Lauren).
 - Tyler's honeymoon in March + Nigel not yet ramped = near-term sales coverage risk.
 
 ---
 
 ## Key Topics
 
-### Hiring Priorities
+### Hiring Priorities: Four Critical Roles (Two Months to Fill)
 
-Anna laid out three critical roles needed now: finance person, product manager, and marketing leader. Marcel confirmed all three are in motion with varying urgency. Sales leader is most urgent — Tyler is closing ~$50M ARR run rate alone but can't manage pipeline complexity, renewals, or a growing team solo. Nigel is ramping but isn't yet covering the gap. A third AE and a sales manager are the target by end of year.
+Anna and Marcel identified four sequential hiring priorities, all urgent given Bridget's April leave date:
 
-Harmony (a known marketing exec, strong in demand gen and sales partnership) is the Plan A candidate for marketing leadership. Anna will send her updated resume.
+1. **Sales Leader (most urgent):** Player-coach who can manage 3-6 AEs, own deal strategy, forecasting, and pipeline hygiene. Tyler alone closes at ~$50M ARR run rate but is maxed out on pipeline complexity and team management. Nigel is ramping but not yet covering the gap. A sales leader is non-negotiable by end of Q1.
 
-### Operational Risk: Bridget's Leave
+2. **Strategic Finance Person (second priority):** Own pipeline forecasting, deal structure reviews, MSA/contract workflows, and cross-functional cadence. Currently Bridget carries this load; it must be systematized and transferred before her leave. Critical for sales leader's success and Erickson's handoff.
 
-Bridget is the operational backbone — she manages contracts, MSA reviews, upsell motions, accounting handoffs, and hiring coordination. She's taking leave from late April through mid-August. Erickson can cover some, but the team needs finance, sales, and marketing leadership in place before she leaves. The next two months are the critical window.
+3. **Product Manager (third priority):** Translate Marcel and Daniel's technical vision into market-ready releases, manage beta customer feedback, coordinate release cadence. Daniel is strong but the PM role requires dedicated ownership to unblock product velocity.
 
-### Anna's Involvement
+4. **Marketing Leader/Demand Gen (Harmony, known quantity):** Anna recently spoke with Harmony (former demand gen/product marketing at Outreach when Anna was CRO). She's freshly out of an acquisition and actively looking. Plan A: Anna to send resume, Marcel to text/call directly (already has relationship).
 
-Anna can do ~2 days/week given board commitments (Semrush this week, Tiki in March) and a personal medical procedure this summer. She'll focus on candidate screening, interviewing for finance/sales/marketing roles, and helping improve sales pipeline cadence. Marcel will define clear parameters to make her time high-impact.
+Additional hire in flight: Taylor (new head of CS) — role offer being made.
 
-### Sales Cadence and Pipeline Hygiene
+Anna's observation: "If you get these three roles filled — finance, product manager, marketing — plus sales leader, you have a triumvirate that solves a lot of challenges and gets you out of day-to-day execution."
 
-Marcel identified gaps: no formal deal strategy reviews, forecasting is inconsistent, contract/renewal bottlenecks are concentrated with Bridget. Jeff (RevOps) is helping, but leadership-level coverage is needed. Anna agreed to engage with the sales team to review pipeline and help establish a repeatable operating rhythm.
+### Operational Risk: Bridget's Maternity Leave (Late April → Mid-August)
+
+Bridget is the operational backbone. She owns:
+- Contract and MSA reviews
+- Upsell motion execution
+- Accounting handoffs and finance coordination
+- Hiring coordination (with Tucker)
+- Deal management and renewal tracking
+
+She's taking leave April-August (4 months). Erickson (accounting, legal) can cover some; Ella can provide some support once ramped; but the team lacks strategic finance leadership to own this systematically. **The next 8 weeks are critical:** must have finance person, sales leader, and marketing leader onboarded and partially productive before she leaves. Marcel must also plan and document her playbook to transfer knowledge to Erickson.
+
+### Anna's Involvement: Scope & Constraints
+
+Anna proposed a focused 2 days/week engagement (flexible up/down) focused on:
+- Candidate screening and interviewing for finance and sales leadership.
+- Weekly/bi-weekly pipeline reviews with sales team to establish forecasting and deal strategy cadence.
+- Hiring support for product manager and marketing roles.
+
+Constraints Anna must honor:
+- Semrush board meeting this week; Tiki board meeting in March; board cycles resume summer.
+- Daughter's graduation in summer.
+- Medical procedure (spring/summer); recovery period ~1-2 weeks of reduced availability.
+- Existing verbal commitments to another portfolio company for a leadership role later this year.
+
+Anna was explicit: "I don't want to promise you 100% when I've already kind of promised you wouldn't want me to do the same thing to you. I'd feel horrible personally." Marcel respected this; he prefers defined parameters over broken commitments.
+
+Alternative considered: Hire a full-time COO to cover what Anna cannot. Anna offered to help find/screen a COO if that's the right path.
+
+### Sales Cadence & Pipeline Hygiene: Establishing Structure
+
+Marcel identified three structural gaps:
+1. **No formal deal strategy reviews:** Sales team lacks weekly pipeline meetings with clear deal assessment, risk identification, and resource allocation.
+2. **Inconsistent forecasting:** No repeatable cadence for forecast accuracy, attainment tracking, or gap identification.
+3. **Contract/renewal bottleneck:** Bridget is the single point of truth for MSA reviews, contract execution, and renewal mechanics. Risk concentrates there.
+
+Jeff (RevOps, formerly Marcel's head of RevOps at Upkeep) is consulting 10 hours/week and helping structure data and reporting. Anna agreed to work with the sales team to establish a repeatable rhythm: weekly/bi-weekly cadence, clear agenda (pipeline health, forecast updates, deal blockers), and documented decision-making.
+
+Marcel's analogy: "When you come to the room, the room's clean and we know our shit and we know what input we need from you. Outside of that, we're on top of this."
+
+### Why Recruiting Firms Failed; Direct Network Approach
+
+Cole Group (recruiting firm) demanded $120K upfront ($60K now, $60K in 30 days) with no guarantees and no refund if they didn't deliver qualified candidates. Marcel rejected it as unreasonable. Instead, he's pursuing direct network: Eric and Lauren (recruiting contacts) have been reached out to; conversations underway. Anna suggested this direct sourcing approach is faster and higher-quality given Marcel's network.
+
+### Product & Data Science: Wins on the Momentum Side
+
+Marcel shared good news on CheckThat:
+- **Data science hire locked:** Jacob Cutter (formerly Conversation AI lead at Salesforce, full-stack ML engineer / trained model builder) verbally accepted. "One of those that if any lab got a hold of how good he is, they would throw crazy offers." Daniel and Marcel are over the moon. This hire significantly unlocks product velocity and competitive positioning.
+- **Sales momentum strong:** 10 deals closed in past 4 weeks, 53 in pipeline, sprint conversion back to 100%. Deals like Vercel coming. Tyler's run rate is ~$50M ARR, demonstrating market demand is real.
+- **Retention muscle still developing:** Performance score vs. risk mismatch indicates need for more proactive engagement management and retention strategy (e.g., "How is this customer at risk if they're scoring 5?").
+
+### Why Anna's Framework Matters for Marcel
+
+Anna emphasized: "Growth solves all problems. Happy customers that believe in you and will pay for this product solve all problems. That growth also helps recruit, retain, and build culture."
+
+Marcel is managing competing priorities (product building, sales execution, hiring, operations) simultaneously. Anna's role is to be a sounding board, executor, and accountability partner — removing execution friction so Marcel can focus on product vision and strategic thinking.
 
 ---
 
 ## Action Items
 
 **Anna Baird**
-- Send Marcel updated resume of Harmony for leadership consideration
-- Assist with interviewing and screening candidates for finance and sales leadership roles
-- Coordinate with sales team to review pipeline and maintain momentum
-- Support marketing and product management role hiring processes
-- Provide Marcel with a summary document outlining discussed ideas and next steps
+- Send Marcel Harmony's updated resume and intro her directly (Marcel already texted her; resume may not be strictly necessary but good to have)
+- Screen and interview candidates for strategic finance and sales leadership roles
+- Establish weekly or bi-weekly sales pipeline review meetings with the team to improve forecasting and deal strategy discipline
+- Participate in hiring for product manager and marketing roles (secondary workstream)
+- Send Marcel a summary document outlining next steps and tactical plan for their engagement
 
 **Marcel Santilli**
-- Continue discussions with recruiting contacts Eric and Lauren to accelerate sales hiring
-- Define clear parameters and priorities for Anna's involvement to optimize time and impact
-- Manage operational cadence improvements in sales pipeline, forecasting, and deal strategy
-- Ensure ramp-up and overlap planning for Bridget's upcoming three-month absence
-- Move ahead aggressively on hiring strategic finance, sales leadership, marketing, and product management roles
+- Follow up directly with Harmony on marketing role; Anna indicated she's receptive and available post-acquisition
+- Continue conversations with Eric and Lauren (recruiting contacts) on sales leader pipeline; report back to Anna with progress
+- Define and document clear hiring parameters, timeline, and scope for Anna's involvement (scope: candidate screening, interviewing, sales pipeline cadence; out of scope: COO-level operations, full-time team integration, client relationships)
+- Establish structured sales cadence within the team (weekly pipeline review, forecasting updates, deal strategy) with Anna's coaching and participation
+- Plan and document Bridget's knowledge transfer and process documentation for transition to Erickson and new finance person
+- Hire and onboard strategic finance person, sales leader, and product manager by end of March/early April (before Bridget's leave)
+- Revisit Chief of Staff and COO hiring with Anna at end of March depending on operational stability achieved
 
 ---
 
 ## Transcript
 
-**Anna Baird:** You.
+**Anna Baird:** So I just got back from Argentina — we had this hiking trip through Patagonia. Total adventure. I even lost my phone in a boating accident down there. Waterproof case did me no good, phone's at the bottom of a river. Spent 30 hours flying, got a very expensive lower-grade phone I couldn't activate because of authentication issues. Lesson learned.
 
-**Anna Baird:** Well, in my.
+**Marcel Santilli:** That's wild. Our friend Andrea had basically the same problem — she broke her phone screen, bought a new one, but couldn't activate it without access to the old phone.
 
-**Anna Baird:** In my not real life, I lost my phone.
+**Anna Baird:** Exactly. So anyway, I'm back. Two quick things I wanted to highlight. Most importantly, I was talking to Harmony. Her company just got acquired, so she's looking for her next role. I mentioned GrowthX is looking for some leadership and she asked if she should talk to you directly. I said yes, but I can send you her updated resume.
 
-**Anna Baird:** We had a little boating accident.
+**Marcel Santilli:** Oh, in a heartbeat. I've tried to talk to her before. Let me text her now.
 
-**Anna Baird:** It was.
+**Anna Baird:** Perfect. I'll still send the resume, but yeah, she's a really strong candidate. I had her as my demand gen and product marketing person when I was CRO at Outreach. She's very thoughtful, really good partner with sales. The sales team loved her, which says a lot because most demand gen and marketing partners don't get that love. She's had bigger roles since then, owns broader marketing.
 
-**Marcel Santilli:** Oh, my God.
+**Marcel Santilli:** Yeah, I know her and love her. The only vibe I wasn't sure about towards the end of her previous role was whether she was checked out or just in a phase of life where she wanted to be less intense. But that's definitely worth asking her about.
 
-**Marcel Santilli:** Everyone okay?
+**Anna Baird:** That makes sense as a question. But my sense is — Grammarly has been a horrible environment. That's probably what you're picking up on, not her energy.
 
-**Anna Baird:** But it was amazing.
+**Marcel Santilli:** Yeah, that would be incredible if she's actually excited about this. Anyway, I've got some good news too. We just got verbal confirmation from Jacob Cutter — one of the best ML/data science people around. Worked with him at Deepgram, then 10x, was leading Conversation AI at Salesforce. Full-stack engineer with trained model and data science background. Daniel and I are over the moon. This was exactly the hard role we'd been hunting for. And separately, we've closed 10 deals in the last four weeks, Vercel coming, sprint conversion back to 100%. Things are trending in a good direction.
 
-**Anna Baird:** Other than that, but it was.
+**Anna Baird:** Congrats. That's great momentum.
 
-**Anna Baird:** I had like, no phone.
+**Marcel Santilli:** Yeah. We also have retention stuff to work on — there's this weird mismatch where someone has a performance score of 5 but is flagged as at risk because we haven't delivered traffic to them. But we've got Jeff, my former head of RevOps at Upkeep, consulting 10 hours a week now, and he's already helping us structure things and be more hands-on. I'm pulling in my best people from past companies because the timing now is right. First two, three weeks of the year I was not in a good place, but momentum is better now.
 
-**Anna Baird:** And when you're in Argentina, apparently, and you don't have your computer with you and you can't do two factor authentication, they will not eim you for a new phone.
-
-**Anna Baird:** So I had a really expensive paperweight until I got home on Monday night, and I went to AT&T.
-
-**Anna Baird:** Oh, my gosh.
-
-**Anna Baird:** Yeah.
-
-**Anna Baird:** Lesson learned, though.
-
-**Marcel Santilli:** Okay, this is creepy.
-
-**Marcel Santilli:** Our friend that's here from Argentina.
-
-**Marcel Santilli:** Yeah, Andrea.
-
-**Marcel Santilli:** The same thing happened to her phone.
-
-**Marcel Santilli:** Like, the screen broke and she got a new phone and she couldn't activate the new phone because she needed access to the old phone.
-
-**Marcel Santilli:** And it's like she had to go fix her screen.
-
-**Marcel Santilli:** Even though she bought a whole new phone.
-
-**Marcel Santilli:** She doesn't need to fix her screen.
-
-**Marcel Santilli:** But because she couldn't authenticate without.
-
-**Anna Baird:** Was no, it was insane.
-
-**Anna Baird:** So I appreciate the levels of security, but I couldn't access icloud.
-
-**Anna Baird:** I couldn't access AT&T to ESIM.
-
-**Anna Baird:** They were.
-
-**Anna Baird:** And my phone's the bottom of a river, so I know exactly where it is.
-
-**Anna Baird:** I'm polluting poor Patagonias.
-
-**Anna Baird:** Like, luckily it was in a waterproof case, which did me no good because.
-
-**Marcel Santilli:** It'S a floating one with a light preserver, you know, inflate and elevate and lift, you know, with a little like.
-
-**Anna Baird:** Flare gun on it.
-
-**Marcel Santilli:** Yeah, the flare gun on it.
-
-**Marcel Santilli:** With a, you know, with a charger, you know.
-
-**Marcel Santilli:** Oh, it was solar power charger.
-
-**Marcel Santilli:** Knows how to swim and all the.
-
-**Anna Baird:** Things you can swim to you.
-
-**Anna Baird:** Yeah, that's what I needed.
-
-**Anna Baird:** So it was.
-
-**Anna Baird:** Well, and I.
-
-**Anna Baird:** The phone they had was a lower level phone than I had at the Apple Store.
-
-**Anna Baird:** So I bought it anyway because I needed a phone, except that I could never activate it.
-
-**Anna Baird:** So I bought.
-
-**Anna Baird:** And I have insurance through AT&T, but they won't reimburse you if you don't get it through them.
-
-**Anna Baird:** And they have no AT and T. In Ushuaia, Argentina, there was an Apple store.
-
-**Anna Baird:** So I got a. I got a very expensive 1100 dollar, lower grade phone with no, no reimbursement.
-
-**Anna Baird:** It's like, well, that's so crazy.
-
-**Anna Baird:** She and I should have just stayed home, both of us.
-
-**Marcel Santilli:** I know, it's like, it's.
-
-**Marcel Santilli:** It's wild.
-
-**Marcel Santilli:** But that's great.
-
-**Anna Baird:** How are you?
-
-**Marcel Santilli:** Welcome.
-
-**Marcel Santilli:** Welcome back.
-
-**Marcel Santilli:** You look refreshed.
-
-**Anna Baird:** It was intense.
-
-**Anna Baird:** Like we were hiking, flying Buses to get to all the places.
-
-**Anna Baird:** The woman who planned this is a little insane, but it was incredible.
-
-**Anna Baird:** I will show you pictures.
-
-**Anna Baird:** It was.
-
-**Anna Baird:** Have you been to Patagonia?
-
-**Marcel Santilli:** No, no, but I want to go.
-
-**Anna Baird:** It was insane.
-
-**Marcel Santilli:** Our friend invited us, but we just haven't like gone.
-
-**Marcel Santilli:** But she recommended us to go like, like a little bit later.
-
-**Marcel Santilli:** So it's not as hot, you know.
-
-**Anna Baird:** Yeah, it's right now it's gorgeous.
-
-**Marcel Santilli:** Because if you're just depending how far south you are.
-
-**Anna Baird:** Yeah, we were really far south.
-
-**Marcel Santilli:** So it was actually then it's like pretty chill.
-
-**Anna Baird:** Yeah, yeah.
-
-**Anna Baird:** No, it's like here weather, Monterey, San Francisco weather.
-
-**Anna Baird:** It was, you know, 60s and then we were out on a glacier at one point, but then it was still only like 30.
-
-**Anna Baird:** It was still hot.
-
-**Anna Baird:** I was hot on the glacier, so it was.
-
-**Anna Baird:** We got great weather.
-
-**Anna Baird:** It's very volatile, so I've heard.
-
-**Anna Baird:** You know, you got to prepare for everything.
-
-**Anna Baird:** But it was awesome.
-
-**Marcel Santilli:** Yeah, I think she's talking more like probably Buenos Aires.
-
-**Marcel Santilli:** And then like that's hot.
-
-**Marcel Santilli:** Yes, Humid hot all of the.
-
-**Anna Baird:** Yeah.
-
-**Anna Baird:** We flew into Santiago, which was hot obviously further north.
-
-**Anna Baird:** Santiago, Chile.
-
-**Anna Baird:** Then we went down to the Chile side of Patagonia, Puerto Natales, and then we went over to Calafate and then Ushuaia, which are all very south.
-
-**Anna Baird:** Ushuaia is the last town in South America.
-
-**Anna Baird:** Like they call it the end of the world.
-
-**Anna Baird:** That's Ushuaia, the end of the world.
-
-**Anna Baird:** That's where the ships depart to go to Antarctica.
-
-**Anna Baird:** All the ships are right there, which I do want to do because people were raving who came off.
-
-**Anna Baird:** Those were like how incredible it was.
-
-**Anna Baird:** But.
-
-**Anna Baird:** And then we flew back up to Buenos Aires and then, then, then home.
-
-**Anna Baird:** So it was like 30 hours of flying.
-
-**Anna Baird:** So I started at 3am Sunday and I got here at like noon on Monday morning.
-
-**Marcel Santilli:** God.
-
-**Anna Baird:** But it was.
-
-**Marcel Santilli:** Yeah, I can't even like fathom any of this right now because it's just like with the three year old little kids.
-
-**Anna Baird:** Yeah.
-
-**Marcel Santilli:** No little punishment, you know.
-
-**Marcel Santilli:** That sounds incredible.
-
-**Marcel Santilli:** In 15 years.
-
-**Anna Baird:** No, you got it.
-
-**Anna Baird:** It will be, it will be.
-
-**Anna Baird:** That's when you should go.
-
-**Anna Baird:** That's exactly right.
-
-**Anna Baird:** Yeah.
-
-**Anna Baird:** You got little kids at a startup.
-
-**Anna Baird:** There's like no.
-
-**Anna Baird:** No movie.
-
-**Marcel Santilli:** I know, I know.
-
-**Anna Baird:** Two quick things I wanted to highlight.
-
-**Anna Baird:** Or one, most importantly, I was talking to Harmony.
-
-**Anna Baird:** She is her next role because they got acquired.
-
-**Anna Baird:** And so I said, hey, GrowthX is looking for some leadership on this side.
-
-**Anna Baird:** And she's like, well, should I just talk to Marcel?
-
-**Anna Baird:** I said, yes, but I would.
-
-**Anna Baird:** Why don't you reach out to her?
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** I.
-
-**Marcel Santilli:** In a heartbeat.
-
-**Marcel Santilli:** I've tried.
-
-**Anna Baird:** I know, I figured.
-
-**Marcel Santilli:** I just.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** But like off the record, like the only vibe that I couldn't get from her.
-
-**Marcel Santilli:** I absolutely love her.
-
-**Marcel Santilli:** It's just that if she's like in a phase of like she.
-
-**Marcel Santilli:** Towards the end of the engagement she was very like just talk to the team and really like.
-
-**Marcel Santilli:** But I don't know if she was just like checked out or she's just in a phase of life where it's kind of like, you know, hey, like I kind of just want to, you know, not be as intense right now.
-
-**Marcel Santilli:** Which is completely acceptable.
-
-**Marcel Santilli:** It's just like.
-
-**Anna Baird:** Yeah, I don't think so.
-
-**Anna Baird:** I think the issue.
-
-**Anna Baird:** It's a great question though and it's definitely one to ask her.
-
-**Anna Baird:** Right.
-
-**Anna Baird:** Like I mean I think is you in the vibe you get.
-
-**Anna Baird:** But I.
-
-**Marcel Santilli:** She.
-
-**Anna Baird:** It's been horrible at Grammarly has been horrible.
-
-**Anna Baird:** It's like it seems like it.
-
-**Anna Baird:** She said it's the worst.
-
-**Anna Baird:** So I think what you're seeing is I can't influence their.
-
-**Anna Baird:** It's a horrible environment and so I think that's what you're seeing.
-
-**Anna Baird:** But I think it's a fair question always.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** That would be incredible.
-
-**Anna Baird:** Yeah, I know.
-
-**Anna Baird:** That's what I was thinking because she's.
-
-**Marcel Santilli:** Someone that I know already.
-
-**Marcel Santilli:** I work closely with her but it's like I work really closely with Dana Marty but.
-
-**Marcel Santilli:** But you know, and it's just like, you know, just like of the people I've worked with that all say positive things about her.
-
-**Marcel Santilli:** Plus you know, all the interactions I've had with her.
-
-**Anna Baird:** I obviously she was my.
-
-**Anna Baird:** When I was a CRO at outreach she was my demand gen events person and some product marketing because she.
-
-**Anna Baird:** We didn't have marketing.
-
-**Anna Baird:** Not good product marketing, not until later.
-
-**Anna Baird:** And so she was.
-
-**Anna Baird:** So we had pipeline meetings every week with sales and her and the SDRs just everybody owning.
-
-**Anna Baird:** Like what do we.
-
-**Anna Baird:** What do we.
-
-**Anna Baird:** What what you know, experiments should we do?
-
-**Anna Baird:** What.
-
-**Anna Baird:** What you know, what are we seeing?
-
-**Anna Baird:** What is.
-
-**Anna Baird:** What could we be doing differently?
-
-**Anna Baird:** What she's very in and very thoughtful.
-
-**Anna Baird:** A really good partner.
-
-**Anna Baird:** The sales team loved her.
-
-**Anna Baird:** So that says a lot just on.
-
-**Anna Baird:** Because most sales teams don't necessarily love their marketing partner and so especially on the demand gen side.
-
-**Anna Baird:** So anyway just she's had bigger roles than that since she left like owning obviously a broader all of marketing.
-
-**Anna Baird:** I think in most the last couple I had her update her resume and I'M going to send it to you.
-
-**Anna Baird:** In fact, I can do it.
-
-**Marcel Santilli:** I just texted her.
-
-**Marcel Santilli:** So let's see.
-
-**Anna Baird:** Perfect.
-
-**Anna Baird:** Okay, good.
-
-**Marcel Santilli:** We're good.
-
-**Marcel Santilli:** No, no, we're good, we're good.
-
-**Marcel Santilli:** No work needed on your end.
-
-**Marcel Santilli:** You're good.
-
-**Marcel Santilli:** I know her.
-
-**Marcel Santilli:** I don't need a resume.
-
-**Marcel Santilli:** I don't need anything.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Okay.
-
-**Anna Baird:** All right.
-
-**Anna Baird:** One piece of solution here is.
-
-**Marcel Santilli:** Yeah, yeah, I love that.
-
-**Marcel Santilli:** By the way.
-
-**Marcel Santilli:** We just got a handshake verbal confirmation from the most badass ML data science person in the planet who I worked with at Deepgram and since worked at 10x and was the lead at the Conversation AI for Salesforce.
-
-**Marcel Santilli:** And, and like he's one of those that like, if you like, if any lab got a hold of how good he is, they would be one of those crazy offers kind of thing.
-
-**Marcel Santilli:** And he's absolutely incredible and his assignment that he did for us was absolutely mind blowing.
-
-**Marcel Santilli:** Good.
-
-**Marcel Santilli:** And in any ways he's like a full stack engineer who has trained model who has a data science background.
-
-**Marcel Santilli:** It's just like Daniel and I are over the moon, excited and so happy because this is, is what's such a hard role we've been looking for for a while.
-
-**Marcel Santilli:** So we got that.
-
-**Marcel Santilli:** So we're really happy with that.
-
-**Marcel Santilli:** We've closed 10 deals in the last four weeks, so that's good.
-
-**Marcel Santilli:** We got some, some other really good ones coming like Vercel and a couple others, you know, so, so overall like knock on wood, Sprint Conversion is back to 100% for, you know, like mentioned that.
-
-**Anna Baird:** Congrats.
-
-**Marcel Santilli:** So, so things are like trending in the good direction.
-
-**Marcel Santilli:** Like, and so Churn is still, our retention is still like, you know, a muscle that, you know, it's like, hey, wait, you said performance score was 5 and now this person is at risk because we have delivered no traffic to them.
-
-**Marcel Santilli:** How could those two things be true?
-
-**Anna Baird:** Right, right.
-
-**Marcel Santilli:** You know, like it's, it's mostly like people being green and, and, but, but you know, like we got a really strong Rev Ops person that I worked with at Upkeep Jeff.
-
-**Marcel Santilli:** He was my head of Rev Ops there and so he's consulting for us 10, 10 hours a week.
-
-**Marcel Santilli:** And so he's already jumping in.
-
-**Marcel Santilli:** So, so it's like he's already like helping on, you know, just like structure things, be more hands on on the ground and, and like I hire him and manage him and we get along really well.
-
-**Marcel Santilli:** So it's like I'm almost like pulling all the, all my best people.
-
-**Marcel Santilli:** It's just that like Timing wasn't right for everybody.
-
-**Marcel Santilli:** So now it's like, it's, it's, it's good.
-
-**Marcel Santilli:** And so we got some good, good momentum and feeling a lot, a lot better.
-
-**Marcel Santilli:** Like honestly, first two, three weeks of the year we were like, I was not in a good place.
-
-**Anna Baird:** Well, you are, you are doing like we've talked about this.
-
-**Anna Baird:** There's a lot of hard stuff you're doing all at the same time.
-
-**Anna Baird:** And there's going to be some bumps in this road.
-
-**Anna Baird:** I mean you're not done with them and that's okay because you got that long term vision of where you are growing this to.
-
-**Anna Baird:** And I know there's just keep true to this product vision and growth.
-
-**Anna Baird:** That is, those are the most key things because that growth solves all problems.
-
-**Anna Baird:** And happy customers that believe in you and will pay for this product are the thing that solves all problems.
-
-**Anna Baird:** It really does.
-
-**Anna Baird:** And once you get that, that also helps to hire and recruit and retain and all the things.
-
-**Anna Baird:** And then you get to obviously that that product market fit of like what is it the customers really love and then obviously how do we talk about that the other.
-
-**Anna Baird:** I talked to Bridget about this before I left for Patagonia but because we were and talking about your team structure a little bit and like, and she's out.
-
-**Anna Baird:** What do you need and, and how do we.
-
-**Anna Baird:** And the three things that really hit me to get things off of your plate and have things be in a decently stable place while you are, you know, trying to balance all this product stuff is, is obviously a finance person to just help you pull together, you know, pipeline and how do we think about forecast and all of those things and working with sales and working with product on release and all of that.
-
-**Anna Baird:** Somebody to help do that, a product manager to help work with them and the rest of the team on what that, that plan is of what how we release, like which are the customers that are beta and how are we getting those testimonials and how are we turning what's in your brain into, you know, this product?
-
-**Anna Baird:** Because I know Daniel's amazing, but having one more person so I just really feel like that would be huge for you because you guys are heads down trying to build but you also got to be heads up and go okay, how do we get this out there and how are we thinking about it and, and what, how we trans getting that into the market.
-
-**Anna Baird:** So having a product manager and a marketing person, like a product manager, a finance person and you know, harmony, that would be a triumvirate that honestly solves a lot of challenges and gets you out of some things that you can rely on them to help come to you and say, hey, here's what we're thinking.
-
-**Anna Baird:** Here's what we want to do.
-
-**Anna Baird:** And you can say, go.
+**Anna Baird:** You're doing a lot of hard stuff at the same time. There's going to be bumps. But keep true to the product vision and growth — that solves all problems. Happy customers who believe in you and will pay solve everything. That helps you recruit, retain, build culture, everything.
 
 **Marcel Santilli:** Yeah.
 
-**Anna Baird:** So I. I'm big on those three roles and I don't know how you guys are looking.
+**Anna Baird:** I actually talked to Bridget before I left for Patagonia about your team structure. The three things that really stand out to me for getting stuff off your plate and keeping things stable while you're deep in product: a finance person to own pipeline, forecasting, all the cross-functional stuff; a product manager to translate what's in your brain into market-ready releases, manage beta customers, get testimonials; and a marketing person like Harmony. That triumvirate honestly solves a lot of challenges. You'd be able to rely on them to come to you and say, "Here's what we're thinking, here's what we want to do," and you just say go.
 
-**Anna Baird:** I know you're recruiting for finance and marketing, but I didn't know how you felt about the product management.
+**Marcel Santilli:** Yeah, honestly marketing — I haven't spent a ton of time sourcing yet. But like I said, we'll hire Harmony. The bigger priority has been sales. We've dropped the ball on some deals. To put it in perspective, Tyler right now — he's our only real AE, Nigel just joined but he's not ramped yet — if he does what he did the last four weeks for 12 months straight, he'd close $50 million ARR. That's the level we're at. So when we drop a ball, that's significant. We sandbagged a little on ServiceNow with this warm intro from the ex-CMO of Notion, and now they hired someone and moved on. But the real risk is Tyler's going to be out three weeks in March for his honeymoon. We're screwed at that point — there's nobody to take a call. I'd have to AE. So we're hiring a third AE, but then who manages those three? Bridget is kind of coaching Tyler right now, but that's not ideal. We need a functional sales leader. And then we reached out to Cole Group and they want $120K upfront with no guarantees and no refund. It's crazy — $60K now, $60K in 30 days, and their contract just says if they send 25 qualified candidates, their job is done. No accountability.
 
-**Marcel Santilli:** Yeah, like, I mean, honest, like, marketing.
+**Anna Baird:** Yeah, I saw that Karan messaged Lauren and Eric while I was out. Have you guys connected with them?
 
-**Marcel Santilli:** I haven't spent an insane amount of time, like, sourcing right now.
+**Marcel Santilli:** We're talking to Eric at 1:30 today. My EA is coordinating with Lauren. But like I said, those are the only other recruiting options we're seriously looking at. And then on Chief of Staff, I had someone in final stages but it wasn't a hell yes, so I said no because it's such a critical role. We're closing in on the clock on all this stuff. If you could help especially with accelerating finance and sales, that would be huge. I can be more involved in Chief of Staff and product roles then.
 
-**Anna Baird:** But, hey, we're gonna hire Harmony.
+**Anna Baird:** I can help with both of those. Let me be straight with you though. I've been talking to another portfolio company about potentially taking a leadership role later this year, and I feel like I have a commitment because we've been talking for months. Plus I've got my daughter's graduation this summer and a medical procedure I need to take care of. So I can't commit to a ton of hours right now. And I don't want to promise you 100% when I've already kind of committed elsewhere — I'd feel horrible about that. But here's what I'm thinking: I can do about two days a week. I can help screen and interview for finance and sales roles. I can help you think through how to get there. And I can work with the sales team to dig into what you've got and help keep momentum going. But I don't think I can do the bigger stuff like being a full-time operator, being on client calls, all that. Does that work?
 
-**Marcel Santilli:** Yeah, it'll be perfect.
+**Marcel Santilli:** Yeah, I totally get it. That makes sense. My concern is just that there's so many layers, and like Ella said, even though she's only been here two months, it's starting to click now. And she's more energized because she understands what we're building and the potential. That's the pattern right now. And it really helps to have extra layers to go deeper. So if there's a chance to dive deep on context, reading, understanding how we're operating — then everything else is less time commitment. But if it's two hours a week for the next three months, we'd still say yes because we need the help. It's a different level of impact, but we'll take it.
 
-**Marcel Santilli:** So the check then.
+**Anna Baird:** Right. Or we could just hire you a full-time COO who can be in all the time and do everything you originally proposed for me. I'm happy to help you find and screen someone amazing who can be your right hand full-time. But what I'm thinking is two days a week — could be a little more, could be a little less depending on how it goes. I can take a day and a drone can take a day and we get you couple days out of that. I've got board meetings to contend with: Semrush this week, Tiki in March, then they start again in summer. So I've got to fly out for those in person. But I think two days a week is doable, maybe a little more depending on the week.
 
-**Marcel Santilli:** We've been prioritizing a little bit more sales and mostly, like, we dropped the ball in some deals that now we lost that.
+**Marcel Santilli:** Yeah, that makes sense. Right now what I need is someone thinking through the entire operating rhythm: top of funnel all the way down to renewal and expansion. We've got a RevOps person and marketing channels, but there's no deal strategy happening, no forecasting, no formal reviews. We're getting better week to week but it's clear we need structure. Bridget is meeting with Tyler on pipeline hygiene, but there's no real deal strategizing. We need cadence. And we have major bottlenecks: MSAs and contracts are stuck because Bridget reviews them. We have someone else looking at it and Goodwin is involved, but there's a lot of "does this seem right?" And yesterday I had a conversation with Deep Graham about an upsell motion — who should even be doing these upsells? We can't take Tyler away from new deals. There's a lot of things where Bridget jumps in or Ella jumps in or I jump in telling people what good looks like. But not enough people are self-sufficiently saying "here's what good looks like." We have doers though — Erickson knows how to do everything Bridget does, he's her right hand on the accounting and legal side. Tucker on hiring is self-sufficient. But the issue is from end of April through mid-August, no Bridget. So I'm thinking through what we can do now, what overlap we can get, and when we absolutely need to have things in place. If we get the finance person, a Chief of Staff, the product manager, marketing, and sales leader in place, plus establish operating cadence, then even if you can't commit past a certain date, we'd be in better shape even when Bridget's not back. But that's pretty aggressive to execute in two months.
 
-**Marcel Santilli:** And like, just to put it in perspective, if Tyler our only AE right now.
+**Anna Baird:** We're running out of time, yeah. So I can help with pieces of that — especially leadership hiring and getting some cadence in sales. I can help screen and interview for finance, sales, and marketing. I can be a person that talks to candidates and gives you a clean slate of good people before the rest of the team vets them. I'm not worried about those pieces. My bigger concern is the gap with Bridget and how much support you're going to need, because a lot depends on who you get and when, and their ramp time. Ella will be more up to speed by then and can be a go-to person. And you're offering a role to Taylor, new head of CS, which is awesome. If we can get these roles filled, that's probably the most important thing. But I'm also thinking about the April-June window when Bridget leaves and all my stuff is happening — my medical procedure, board meetings, daughter's graduation. I don't know if I can be there as much as you need. Even with the procedure, I can do calls, but I'm just going to feel kind of crappy for a week or two after.
 
-**Marcel Santilli:** There's Nigel, who just joined.
+**Marcel Santilli:** I've got to run unfortunately, but maybe the next step is you give me the parameters that work for you, right? No matter what, just tell me what you need to move forward. There's a lot of trust and context already, so we can shape things well based on your parameters. Over the next eight weeks, Bridget can do a lot of the legwork and work with you as an extension of me. We'll try to accelerate these roles. We're also onboarding a new head of CS with Ella here, so we've got the core. If we can get Harmony, the sales person, and finance in place, get everybody in seats, then hopefully there's a window where you're fully available or close to it when she starts being off. Then we'll hopefully be in a more stable place where if you need to be out or there's other stuff, we're not completely screwed. If we don't accelerate, there are real consequences.
 
-**Marcel Santilli:** But.
+**Anna Baird:** I fully agree. So run to your meeting. I'll send you a summary doc of what we talked about and some thoughts on next steps. But also think about whether you want to work on hiring a CEO in this same timeframe. I think there's a whole realm here and I'm happy to help with all of it.
 
-**Marcel Santilli:** But he's unchecked at.
+**Marcel Santilli:** TLDR on that is I just don't see how spending time on CEO hiring right now with all these other gaps would be the priority. But as we get into end of March or once the product is launched and other stuff is in place, then we'd have a better sense of whether that's the right time. We might just be over-hiring at that point anyway.
 
-**Marcel Santilli:** Right.
+**Anna Baird:** That sounds like a great plan. I'll get you a doc with what we talked about and thoughts on next steps. We'll go from there.
 
-**Marcel Santilli:** Like, but.
-
-**Marcel Santilli:** But just like Tyler does what he did the last four weeks for 12 months straight, he would close $50 million in ARR.
-
-**Marcel Santilli:** Just to give you an idea.
-
-**Marcel Santilli:** Okay, so.
-
-**Marcel Santilli:** So like that.
-
-**Marcel Santilli:** That's like the level we're at.
-
-**Marcel Santilli:** So it's like when we say, like, he dropped the ball, that's like, very acceptable.
-
-**Marcel Santilli:** Dropping too much.
-
-**Anna Baird:** There's too much.
-
-**Marcel Santilli:** But like, we dropped the ball with ServiceNow 11 labs.
-
-**Marcel Santilli:** Like, like, like, you know, like warm intro from the ex CMO of notion who then we kind of like, sandbagged a little too much.
-
-**Marcel Santilli:** And then now they hire somebody and they're like, oh, whatever.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** Like, but.
-
-**Marcel Santilli:** But.
-
-**Marcel Santilli:** And probably like, if something drops like that much, that, like, it wasn't high intent or whatever.
-
-**Marcel Santilli:** But the point being, like, fair enough.
-
-**Marcel Santilli:** We're leaving money on the table for sure.
-
-**Marcel Santilli:** You know, like, and.
-
-**Marcel Santilli:** And also it's like, that's really risky.
-
-**Marcel Santilli:** He's going to be out for three weeks for his honeymoon in March.
-
-**Marcel Santilli:** We're fucked.
-
-**Marcel Santilli:** Like, we're legit.
-
-**Marcel Santilli:** Like, there's nobody to take a call.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Like, I would have to AE at that point.
-
-**Anna Baird:** Okay.
-
-**Marcel Santilli:** And so we are hiring a third ae.
-
-**Marcel Santilli:** But then now it's like, who's gonna manage those three?
-
-**Marcel Santilli:** And right now Bridget is kind of like IC managing Tyler and coaching.
-
-**Marcel Santilli:** But, like, that's not ideal either.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** So that's the thing.
-
-**Marcel Santilli:** That's just like a predictable.
-
-**Marcel Santilli:** It's gonna de.
-
-**Marcel Santilli:** Risk a lot of things.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And it's like, I can still be pool, but just someone like, managing the pipeline.
-
-**Marcel Santilli:** And so having Like a functional leader doesn't need to be vp.
-
-**Marcel Santilli:** But.
-
-**Marcel Santilli:** But then like, we reached out to the Cole Group, Gia, and they want 120 grand up front.
-
-**Marcel Santilli:** And essentially like, they have to deliver nothing in order to fulfill the 120 grand.
-
-**Marcel Santilli:** And it's just like, come on.
-
-**Marcel Santilli:** Like, it's like.
-
-**Marcel Santilli:** It was so like, like crazy.
-
-**Marcel Santilli:** It's like you have to pay 60 up front and then 60 within 30 days.
-
-**Marcel Santilli:** And all their contract just says as long as we send you 25 qualified candidates, our job is done.
-
-**Marcel Santilli:** No, I'm like, that's crazy.
-
-**Marcel Santilli:** Like, what?
-
-**Marcel Santilli:** And there's no refund.
-
-**Marcel Santilli:** Like, there's nothing like.
-
-**Anna Baird:** Well, I saw Karan sent a message to Lauren and Eric while I was out.
-
-**Anna Baird:** Anything coming from that side?
-
-**Anna Baird:** Did you guys meet?
-
-**Marcel Santilli:** So I am talking to.
-
-**Marcel Santilli:** We're talking to Eric at 1:30 right now.
-
-**Anna Baird:** Okay.
-
-**Marcel Santilli:** And then I gotta see.
-
-**Marcel Santilli:** But.
-
-**Marcel Santilli:** But my EA was coordinating a meeting with Lauren, I think.
-
-**Marcel Santilli:** Okay, but.
-
-**Marcel Santilli:** But it's like that one.
-
-**Marcel Santilli:** It's like we should.
-
-**Marcel Santilli:** So anyways, that's the only other one.
-
-**Marcel Santilli:** And then my chief of staff, like I had someone in the final stages, but I.
-
-**Marcel Santilli:** It wasn't a hell yes.
-
-**Marcel Santilli:** So I decided to say no because it's such a critical role.
-
-**Marcel Santilli:** And so I'm kind of like still in the.
-
-**Marcel Santilli:** So that's the only other one.
-
-**Marcel Santilli:** But we're kind of like closing in on the clock on all of these things.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** Like with Bridget potentially.
-
-**Marcel Santilli:** So.
-
-**Marcel Santilli:** So it's like if you could help us and let's talk about kind of how you're thinking about things.
-
-**Marcel Santilli:** But like, if you're able to help with especially accelerating the strategic finance and the sales one and then I can be way more involved in prioritizing the chief of staff in the end, in the product one, then I think we'd be in a really good, good place.
-
-**Anna Baird:** Okay, well, I can help with both of those.
-
-**Anna Baird:** So let me.
-
-**Anna Baird:** Let's.
-
-**Anna Baird:** Let's talk about how we do that.
-
-**Anna Baird:** So here's where.
-
-**Anna Baird:** Where my head is at.
-
-**Anna Baird:** And I talked to Kron a little bit yesterday.
-
-**Anna Baird:** My.
-
-**Anna Baird:** A couple things.
-
-**Anna Baird:** Obviously this was a surprise discussion.
-
-**Anna Baird:** And so I had been talking with one of the other portfolio companies about potentially taking a leadership role with them later this year.
-
-**Anna Baird:** And I feel like I have this commitment because I've been talking to him about this for months now.
-
-**Anna Baird:** And I needed some time for me because I've got my daughter's graduation this summer and I actually have a medical thing that I needed.
-
-**Anna Baird:** I have these things.
-
-**Anna Baird:** I'm like, okay, I Gotta take care of all this stuff and then I will have more time.
-
-**Anna Baird:** And so I can't commit to a ton of hours right now.
-
-**Anna Baird:** And, and not that something couldn't grow out of this too.
-
-**Anna Baird:** I just don't know.
-
-**Anna Baird:** And I don't want to promise something to you and go, Yes, I am 100% in when I've already kind of promised you wouldn't want me to do the same thing to you.
-
-**Anna Baird:** I would, I'd feel horrible personally.
-
-**Anna Baird:** I'd feel horrible.
-
-**Anna Baird:** And I, you know, and it's not 100% that that's going to be a workout and be the right thing, but it is something that we are kind of deep in discussion on.
-
-**Anna Baird:** So what I would.
-
-**Anna Baird:** But I want to help and I know you had said.
-
-**Anna Baird:** And this is where I want to ask you.
-
-**Anna Baird:** You were like, I need you 100% in.
-
-**Anna Baird:** I need the commitment before you can dedicate time.
-
-**Anna Baird:** I get that too.
-
-**Anna Baird:** So I would love to help but I can't help a bajillion hours a week and I'm worried about.
-
-**Anna Baird:** There's some time I will need to be away.
-
-**Marcel Santilli:** Yeah.
-
-**Anna Baird:** Of my daughter's graduation and this other medical thing that I need to take care of.
-
-**Anna Baird:** And so I wanted to get your thought thoughts on because like the two things you just said, that's kind of a no brainer.
-
-**Marcel Santilli:** Yeah.
-
-**Anna Baird:** I can totally help with that.
-
-**Anna Baird:** It is the.
-
-**Anna Baird:** I know you were kind of thinking maybe bigger like introduced to clients and, and obviously now it's the team internally and all that.
-
-**Anna Baird:** And I think that's probably going to be too much on the spectrum of things where I would feel bad if I'm not giving enough time and I don't want you to feel like you're not getting everything you need.
-
-**Anna Baird:** So a couple thoughts I had.
-
-**Anna Baird:** Obviously I keep thinking about the roles, hence the discussion with Harmony.
-
-**Anna Baird:** But.
-
-**Anna Baird:** And what you need and how we could get you there.
-
-**Anna Baird:** So I am happy to help interview for all of these roles and take on the search and, and work through, you know, how do we get some pipeline here.
-
-**Anna Baird:** So that's.
-
-**Anna Baird:** Let's take that as a, a given.
-
-**Anna Baird:** I can help with that for the finance role and for the sales roles.
-
-**Anna Baird:** I can meet with sales team and start like really kind of digging in on what they've got and where are we at on pipeline and how do we start to try to block and tackle while we're.
-
-**Anna Baird:** So I can, I can take some of that off the.
-
-**Anna Baird:** At least help get them keep the momentum going there.
-
-**Marcel Santilli:** Yeah.
-
-**Anna Baird:** But I don't know what else is in your head that is like in this, you know, in between world that it makes sense and doesn't make you feel uncomfortable.
-
-**Anna Baird:** I mean, so tell me how you feel about that.
-
-**Marcel Santilli:** Yeah.
-
-**Marcel Santilli:** Yeah.
-
-**Marcel Santilli:** Well, thank you for, for being super like straight shooter.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And I totally, totally get.
-
-**Marcel Santilli:** Get it as well.
-
-**Marcel Santilli:** I think.
-
-**Marcel Santilli:** I think like my head right now, it's just good to know like, what you just said because then like, there's different tiers of like, okay, this is how we can think about it.
-
-**Marcel Santilli:** My concern that is very addressable is just that because we have so many layers, you already had some context on the company.
-
-**Marcel Santilli:** But like, truly it's like.
-
-**Marcel Santilli:** And you can ask Ella.
-
-**Marcel Santilli:** It feels like even now it's like, okay, it's just two months in and it's like starting to click.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And I don't mean this.
-
-**Marcel Santilli:** And like she knows what she's doing in her job and more of like what we're building.
-
-**Marcel Santilli:** The potential.
-
-**Marcel Santilli:** The like, she's more energized and you.
-
-**Anna Baird:** Know, and it's like she is more energized.
-
-**Anna Baird:** Yeah.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And so it's like that is the common pattern right now.
-
-**Marcel Santilli:** And, and it's almost like if you don't get to that point or someone, anyone doesn't get to that point, there is this level of like pattern matching against everything else from their past that is not like a perfect match always, you know, or it's not that it's like, it's not relevant.
-
-**Marcel Santilli:** It's just that, like, it really helps to have these kind of extra layers to go a little bit deeper.
-
-**Anna Baird:** Right.
-
-**Marcel Santilli:** Like, but, but I don't think.
-
-**Marcel Santilli:** But you get it fast.
-
-**Marcel Santilli:** And so I don't think you're.
-
-**Marcel Santilli:** You need like a ton.
-
-**Marcel Santilli:** It's just that, like, if there's an opportunity to just like go as deep as possible on like gaining the context, like reading, understanding how we're operating and things like, then everything else is last time commitment.
-
-**Marcel Santilli:** But if it was like two hours a week for the next three months, then I like, we would say, we still say yes and need your help.
-
-**Marcel Santilli:** But it's like, it's a different level of like impact, if you will.
-
-**Marcel Santilli:** Right.
-
-**Anna Baird:** Well, I'm not thinking.
-
-**Anna Baird:** Let me, let me put some context around.
-
-**Anna Baird:** And again, I want to make sure we're doing what is making you comfortable too.
-
-**Anna Baird:** Because the other alternatives we can go try to find you a coo, right?
-
-**Anna Baird:** Like, let's get you somebody who is full time, who is like just in all the time.
-
-**Anna Baird:** And that is also Fair.
-
-**Anna Baird:** Right.
-
-**Anna Baird:** And that is.
-
-**Anna Baird:** Yeah, I can see the need for that too.
-
-**Anna Baird:** And I am happy to help you do that.
-
-**Anna Baird:** Right.
-
-**Anna Baird:** Go make sure we get somebody who's amazing, that can be your right hand and just really full time do everything that you had originally proposed for me.
-
-**Anna Baird:** So I.
-
-**Anna Baird:** And more.
-
-**Anna Baird:** Right.
-
-**Anna Baird:** Because they'll be full time for me.
-
-**Anna Baird:** I'm thinking it's kind of two days a week is sort of where my head's at.
-
-**Anna Baird:** And, and I think that.
-
-**Anna Baird:** And maybe it's a little bit more, maybe it's a little bit less, but it's sort of like, okay, I can take, you know, a day from you and a day from a drone and get you, you know, a couple days so that I can try to make sure we are giving enough momentum and depth to some of this.
-
-**Anna Baird:** I can dive.
-
-**Anna Baird:** As a question, I'd love to try to get my head around some things better.
-
-**Anna Baird:** It is right now and I'm happy to dedicate some time to do that.
-
-**Anna Baird:** And, and I'm good.
-
-**Anna Baird:** Like I have a board meeting.
-
-**Anna Baird:** The other thing is I'm on these boards.
-
-**Anna Baird:** Right.
-
-**Anna Baird:** And so Semrush board meeting is this week and then Tiki's board meetings in March and then they start all over again in the summer.
-
-**Anna Baird:** So it is.
-
-**Anna Baird:** And depending on when Semrush actually closes.
-
-**Anna Baird:** But so I've got to do those two, which are east coast.
-
-**Anna Baird:** And that's the problem is like I have to fly there and be in person.
-
-**Anna Baird:** But.
-
-**Marcel Santilli:** Yeah.
-
-**Anna Baird:** So all that said, I think we can get to a couple days a week and I feel like that's doable maybe a little bit more depending on how.
-
-**Anna Baird:** And it's going to depend on the week with board meetings and some of this other stuff.
-
-**Marcel Santilli:** Yeah.
-
-**Anna Baird:** But I think I can do that.
-
-**Anna Baird:** So.
-
-**Anna Baird:** And so maybe that makes sense.
-
-**Anna Baird:** Think about it for a minute and see what you.
-
-**Marcel Santilli:** Yeah, yeah.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** That, that, that makes sense because like right now like the, the areas where if I was like a go to market leader only I can go spend more time.
-
-**Marcel Santilli:** It's really like establishing kind of like the operating rhythm of like our overall like top of funnel all the way down to like renewal and expansion, you know, and like, like I'll give you some, just some examples.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Like we've had like these, right now we have you know, a rev ops person and then we're trying to establish like the like our marketing channels because it's like it's been working but it's also like, hey, it looks like it's been weaker than normal like, what are we doing about it?
-
-**Marcel Santilli:** So there's a little bit of that, but then we have this one meeting that I'm like, hey, I want to go through end to end and kind of go through.
-
-**Marcel Santilli:** So first week, last week was pretty brutal.
-
-**Marcel Santilli:** And I'm like, okay, folks, like, come on.
-
-**Marcel Santilli:** Like, I need this, this and this roughly.
-
-**Marcel Santilli:** And I gave, like, very little instruction, but it was just like, I need this better.
-
-**Marcel Santilli:** And then this week was a little bit better, right?
-
-**Marcel Santilli:** Like, but.
-
-**Marcel Santilli:** But it's like, it's very clear.
-
-**Marcel Santilli:** Like, hey, we need to establish our cadence of like.
-
-**Marcel Santilli:** Like, for instance, like, Bridget is meeting with Tyler on kind of.
-
-**Marcel Santilli:** Kind of doing inspection, but not really in a little bit of hygiene, but not quite, like, deal strategizing.
-
-**Marcel Santilli:** And then there's no deal strategizing happening.
-
-**Marcel Santilli:** And then there's, like, no forecasting happening.
-
-**Marcel Santilli:** And, you know, like, there's a lot of that of just like, if I have structure, and then it's like, Marcel, you're going to come in here.
-
-**Marcel Santilli:** But when you come here, like, the room's clean and we know our shit and we know what input we need from you, right?
-
-**Marcel Santilli:** Like, and outside of that, like, we're.
-
-**Marcel Santilli:** We're on top of this, the stuff so that, like, things.
-
-**Marcel Santilli:** We're not dropping the ball, right?
-
-**Marcel Santilli:** It's improving.
-
-**Marcel Santilli:** But I think having someone really thinking through end to end, like, go to market operations and everything else, but.
-
-**Marcel Santilli:** But then, like, having a little bit of more of an eye as this is, like, feels better and more structured towards, like, the rest.
-
-**Marcel Santilli:** Like, for instance, right?
-
-**Marcel Santilli:** One of our biggest bottlenecks is engagement managers like Bridget.
-
-**Marcel Santilli:** We have a great recruiter, Tucker, but, like, Bridget's like, hey, I feel good about the pipeline, but it's like the.
-
-**Marcel Santilli:** The feel good should be more like, hey, like, we need buttons by this day and this needs to be blah, blah, blah, blah, blah, right?
-
-**Marcel Santilli:** Or like, the.
-
-**Marcel Santilli:** So there's like a lot of those things where it's just like, I'll give you another example.
-
-**Marcel Santilli:** Like, right now we got MSAs and contracts back for check that to be able to add check that to contracts, right?
-
-**Marcel Santilli:** And so, like, Bridget is the bottleneck on that.
-
-**Marcel Santilli:** She was like, she's reviewing.
-
-**Marcel Santilli:** We have somebody else looking at it.
-
-**Marcel Santilli:** Goodwin is involved.
-
-**Marcel Santilli:** And, you know, but then there's a lot of like, hey, does this seem right?
-
-**Marcel Santilli:** Does this not seem right?
-
-**Marcel Santilli:** You know, and then we have like, yesterday I had a conversation with Deep Graham about an upsell.
-
-**Marcel Santilli:** It's like, okay, hey, what's our upsell motion?
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** Hey, we cannot Take Tyler away from these deals.
-
-**Marcel Santilli:** Who should do the deals then right now, right.
-
-**Marcel Santilli:** Like there's a lot of that of just like things that then it's like either Bridget jumping in sometimes Ella now like me having to be like telling people what good should look like and not enough people going like, no, no, like, but, but there are doers, right?
-
-**Marcel Santilli:** Like so like it's not like there's no doers, especially once we get the strategic finance person in place as well.
-
-**Marcel Santilli:** Like Erickson knows to do everything that Bridget does.
-
-**Marcel Santilli:** So Erickson's like Bridget's right hand.
-
-**Marcel Santilli:** He's accounting.
-
-**Marcel Santilli:** But like he could, he does everything.
-
-**Marcel Santilli:** Like he's been involved in the legal side.
-
-**Marcel Santilli:** And so it's like it's not like we have no coverage there.
-
-**Marcel Santilli:** Like he knows all the context.
-
-**Marcel Santilli:** Tucker on the hiring side is like self sufficient.
-
-**Marcel Santilli:** You know, it's mostly about giving directions.
-
-**Marcel Santilli:** And, and then my, my concern is like, then you have essentially like end of April through beginning to mid of August, no Bridget.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And then like that's my like thinking through like what can we do now to ramp up and is there any overlap in the those three months?
-
-**Marcel Santilli:** And if not, like what would we absolutely.
-
-**Marcel Santilli:** By when do we absolutely need to have like things in place to feel a little bit better?
-
-**Marcel Santilli:** But you know, but I think if we get the strategic finance, a chief of staff, the product manager, marketing and sales and the operating cadence going, then I think even if you're like, hey, I can't commit past this date, then even with Bridget still not back, like we can still be more okay, you know, but then like that's a pretty aggressive like thing to go execute in the next two months.
-
-**Anna Baird:** Yeah, no, it's.
-
-**Anna Baird:** We're running out of time.
-
-**Anna Baird:** Yeah, we are running out of time.
-
-**Anna Baird:** So I am.
-
-**Anna Baird:** So all of that said, I think there's obviously pieces of that that I can, can help on and take especially as we get into leadership and helping get some, some cadence and sales and start getting that cleaned up.
-
-**Anna Baird:** And I think as we get into.
-
-**Anna Baird:** I obviously can help with the hiring of finance and the sales leadership and marketing.
-
-**Anna Baird:** I can obviously be a person that helps screen and talk to some of these people and at least give you making sure you're getting a clean slate of people that we think are good as we put them through the rest of the team.
-
-**Anna Baird:** So those things I'm not worried about.
-
-**Anna Baird:** That's all doable.
-
-**Anna Baird:** I think is my bigger concern is this gap with Bridget and how much support you're going to need.
-
-**Anna Baird:** And part of that Depends on who you get and when.
-
-**Anna Baird:** Because if some of them and their ramp time.
-
-**Anna Baird:** Right.
-
-**Anna Baird:** And so to your point, they need some time to get their feet under them and she won't be available.
-
-**Anna Baird:** Now what will be good is Ella will be more up to speed and so we can, you know, lean on her a little bit to help out too.
-
-**Anna Baird:** Just with a go to person for them to ask.
-
-**Marcel Santilli:** And we have a really good head of CS that we are giving offer to Taylor.
-
-**Anna Baird:** Oh, awesome.
-
-**Marcel Santilli:** Incredible.
-
-**Marcel Santilli:** So like we got the data science, the CS and then hope like we're filling some really hard ones.
-
-**Anna Baird:** Yeah, you're gonna.
-
-**Anna Baird:** If we can get these roles filled.
-
-**Anna Baird:** And that's probably the most important thing is people in play so that then.
-
-**Marcel Santilli:** Also giving them the scaffolding to operate under, you know, because I can help.
-
-**Anna Baird:** Some of the scaffolding as well.
-
-**Anna Baird:** Just as we're trying to get them up to speed, I think there's just going to be gaps and, and I don't know, like I'm not going anywhere else other than this medical procedure that I have to have done and my board meetings and my daughter's.
-
-**Anna Baird:** You add those together and that's all in kind of, you know, April, May, June, all of those things are happening which is when Bridget leaves.
-
-**Anna Baird:** And so I'm, I'm just worried about gaps in time that you're going to need support.
-
-**Anna Baird:** And even with the medical procedure, it's not that I can't do calls, I'm just not going to be able to go.
-
-**Anna Baird:** I'm going to feel kind of crappy.
-
-**Anna Baird:** So it's like it's not.
-
-**Anna Baird:** Yeah, you know, it's, it's going to be a week or two of just not feeling great.
-
-**Anna Baird:** It's like, you know, after the first.
-
-**Marcel Santilli:** Few days I think like I gotta run unfortunately.
-
-**Marcel Santilli:** But yes, but maybe then as a next step it would be helpful.
-
-**Marcel Santilli:** It's just like you just give me the parameters that work for you.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** If that's okay.
-
-**Marcel Santilli:** And then like I can take that.
-
-**Marcel Santilli:** And then like no matter what, it's like if your game, just tell me what you need regardless of your parameters to like, you know, like what do we need to do essentially to move forward and like I said like any help as quickly as possible and you know, is better than not because there's a lot of trust here already in context.
-
-**Marcel Santilli:** And then like we can, based on your parameters, I can shape things and define them really well and then make sure essentially like we're making the most out of your time.
-
-**Marcel Santilli:** Which is, which is you know, a good thing to do no matter what.
-
-**Marcel Santilli:** And over the next, like, eight weeks, we can still have, like, Bridget do so much of the legwork and you working directly with her and her as an extension of you, you know, and.
-
-**Marcel Santilli:** And really making sure, like, we're accelerating those roles.
-
-**Marcel Santilli:** And so we have this, like, supercharged time right now, but also, like, we're onboarding.
-
-**Marcel Santilli:** We're gonna be most likely onboarding a new hat of cs like, Ella's here, so it's like, we got full core, you know, and so if we can just, like, try to get in, like, you know, harmony plus the sales, plus, like, the finance in that time period, too, and yet everybody in butts and seats and everything else, then there's hopefully a little bit of, like, time where you're fully available or close to fully available while she starts being off.
-
-**Marcel Santilli:** And then I think we'll go into, like, hopefully, like, more of a stable time of, like, where, you know, if you need to be out or there's other things, it won't be like, you know, I don't feel like we're going to be fucked.
-
-**Marcel Santilli:** It's just mostly like, if we don't accelerate, there's just, like, a lot of consequences for not getting some of these buts and seats and getting this productive.
-
-**Anna Baird:** I fully agree.
-
-**Anna Baird:** So, okay, run to your meeting.
-
-**Anna Baird:** I'm gonna.
-
-**Anna Baird:** I'll send you this.
-
-**Anna Baird:** But also think about, like, is it.
-
-**Anna Baird:** Do you want also, in that same timeframe with me, helping hire a CEO, so that's something you also want to do.
-
-**Anna Baird:** So I think there is a whole realm here, and so I'm happy to help in all of it, but I'll.
-
-**Marcel Santilli:** Let me put this all the TLDR on that is just like, I just don't see how spending that time right now with all these other gaps would be the priority.
-
-**Marcel Santilli:** But.
-
-**Marcel Santilli:** But it could be, like, as we get into March, end of March, or, you know, product is launched, there's, like, a lot of other things in place.
-
-**Marcel Santilli:** Then.
-
-**Marcel Santilli:** Then it's like, you would.
-
-**Marcel Santilli:** You and I will have a better sense, you know, of.
-
-**Marcel Santilli:** Of like, okay, like, is like, is this the time or not?
-
-**Marcel Santilli:** Or are we just, like, over.
-
-**Marcel Santilli:** Over hiring here now?
-
-**Anna Baird:** You know, that sounds like a great plan.
-
-**Anna Baird:** I will get you a doc with what some of what we talked about and some thoughts on next steps, and then we can go from there.
-
-**Marcel Santilli:** Awesome.
-
-**Marcel Santilli:** So good to see you.
-
-**Marcel Santilli:** All right, we'll talk soon.
+**Marcel Santilli:** Awesome. Good to see you. We'll talk soon.

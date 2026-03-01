@@ -4,23 +4,32 @@
 date: 2026-02-12
 time: 16:30 UTC
 duration: 46 minutes
-organizer: ifeoluwa@growthx.ai
-participants: Aida Knezevic, George Haikal, Hasan Rashid, William Leborgne, Ademilade Shodipe-Dosunmu, Sydney Arin Go, Ella Dillon
+source: fireflies
+organizer: Ifeoluwa (ifeoluwa@growthx.ai)
+participants:
+  - Aida Knezevic
+  - George Haikal
+  - Hasan Rashid
+  - William Leborgne
+  - Ademilade Shodipe-Dosunmu
+  - Sydney Arin Go
+  - Ella Dillon
 fireflies_id: 01KGQ4CW9KJ3144J0NZXGV9B4P
 transcript_url: https://app.fireflies.ai/view/01KGQ4CW9KJ3144J0NZXGV9B4P
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Recurring standup for the Strategy Sprint team covering client transitions, content production status across 15+ accounts, and operational improvements. Key updates: Black Soul conversion complete this week, Brex project transitioning March 26, Ramp domain ranking jumped from 2 to 6, and a new Notion-based project management system launches next week with mandatory client health scoring.
+Strategy Sprint standup with status on 15+ high-touch client accounts and operational changes. Black Soul handed over to Usman this week after conversion completion. New Notion-based project management system launching end of next week with mandatory weekly client health scores for all EMs. Key wins: Ramp domain ranking 2→6, Tayra 9 articles ahead of schedule with confirmed LLM citations, CRV achieving top-10 within 2 days of publish. Brex transition deadline March 26; CheckThat bundling direction TBD by Friday.
 
 ---
 
 ## Context
 
-This is the recurring Strategy Sprint standup — the team that runs GrowthX's highest-touch, highest-complexity client engagements. Meetings happen twice weekly (Tuesdays and Thursdays after a scheduling adjustment). This session is heavy on client status updates with individual EMs reporting on production, publishing, and account health.
+This is the recurring Strategy Sprint standup — GrowthX's highest-touch delivery team managing 15+ complex B2B content engagements. The team includes engagement managers (EMs) and production staff who report directly on client health, content production status, and handoff readiness. Meetings recently shifted to Tuesday/Thursday cadence to improve forecasting and account oversight. Ella Dillon leads the team and escalates to Marcel on strategic decisions (e.g., pricing bundling, handoff timelines). This particular session is heavy on operational changes (new project management system, CheckThat positioning) alongside standard client status updates.
 
 ---
 
@@ -80,43 +89,74 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 ---
 
+## Decisions & Commitments
+
+**Decided:**
+- Sprint management system switching from Kanban to Notion by end of next week. Weekly EM health scores + blockers/action items now required for every client.
+- Black Soul officially converted and handed to Usman for content production next week.
+- Brex staying in Sprint through March 26 transition despite being technically "done" — three active lanes (resources hub, website optimization, interactive tools) require continued oversight.
+- New "custom service motion" positioning: forward-deployed engineers + custom templates bundled with content as differentiation from pure content agencies.
+
+**Commitments:**
+- Ella to finalize CheckThat bundling/pricing direction by end of Friday — determines which clients get it included vs. upsell.
+- William to develop 1-2-3 SOP for CheckThat prompt creation and client approval by next week; share clarifying Loom.
+- William to source French editor contact for Spendesk multilingual content.
+- Team to populate new Notion system with health scores and blockers each week starting end of next week.
+
+---
+
+## Open Questions
+
+- How will CheckThat prompt approval workflow integrate with client visibility and sign-off? (William/Ella to clarify in SOP)
+- What's the handoff criteria for moving clients out of Sprint (e.g., conversion triggers for Daylight event series upsell)?
+- For which clients will the new Notion health scoring system reveal blockers or risks that need escalation to Marcel?
+- How will product team involvement be confirmed for Tavis (Aida waiting on confirmation from product)?
+- Can Elementum's educational content strategy be finalized in time to avoid further delays?
+
+---
+
 ## Action Items
 
-**Aida Knezevic**
-- Update content OS, add AI stock keywords, submit product listicles for client approval
-- Resolve Netricks publishing blockers (author page) and coordinate draft delivery to Sydney
+**Aida Knezevic (EM)**
+- Update Panther content OS; add AI stock keywords and submit product listicles for client approval
+- Resolve Netricks publishing blockers (author page); coordinate draft delivery to Sydney
 - Present Daylight content strategy and update company brief with product deep dive transcript
-- Monitor and confirm content reviews and product team involvement for Tavis
+- Confirm content reviews and product team involvement for Tavis (in progress)
 - Follow up on Elementum artifacts progress with Natalie
 
-**George Haikal**
-- Continue documenting Brex workflows, tools, and indexes into systemized playbooks
-- Scope potential upsell for Daylight event series and update team on conversion progress
+**George Haikal (EM)**
+- Continue documenting Brex workflows, tools, and indexes into systemized playbooks for scaling custom service motion
+- Scope Daylight event series upsell; update team on conversion progress
 
-**Hasan Rashid**
-- Publish scheduled Ramp and CRV articles, communicate with Victoria on review and visibility wins
-- Stage articles for Panther and CRV, coordinate with Katie and editorial team for approvals
+**Hasan Rashid (Production)**
+- Publish scheduled Ramp and CRV articles; communicate wins to Victoria (SEO/AI visibility)
+- Stage articles for Panther and CRV; coordinate approvals with Katie and editorial team
 
-**William Leborgne**
-- Develop SOP for prompt creation and client verification with CheckThat; share clarifying instructions via Loom
-- Reach out to French editor contact for Spendesk multilingual content
+**William Leborgne (Operations Lead)**
+- Develop 1-2-3 SOP for CheckThat prompt creation and client verification; share via Loom
+- Reach out to French editor contact for Spendesk multilingual content sourcing
+- Finalize Tuesday/Thursday standup calendar (completed)
 
-**Ademilade Shodipe-Dosunmu**
+**Ademilade Shodipe-Dosunmu (Production)**
 - Continue Netricks content drafting and competitive cluster topic assignment
 - Stage calibration article for Talon1
 - Coordinate production timeline around upcoming PTO
 
-**Sydney Arin Go**
-- Assist with internal linking issues on Netricks CMS and monitor publishing flow
+**Sydney Arin Go (Production)**
+- Assist with Netricks internal linking issues on CMS
+- Monitor Netricks publishing flow and draft delivery queue
 
-**Unassigned**
-- Implement new Notion project management system by end of next week for client tracking and health scoring
+**Ella Dillon (Director)**
+- Finalize CheckThat bundling/pricing direction by Friday; communicate to team
+
+**Team (All EMs)**
+- Implement new Notion project management system; complete weekly client health scores starting end of next week
 
 ---
 
 ## Transcript
 
-**elladillon:** This meeting is being recorded.
+**Ella Dillon:** This meeting is being recorded.
 
 **William Leborgne:** Hello.
 
@@ -128,33 +168,33 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** How's it going?
 
-**elladillon:** Salutations.
+**Ella Dillon:** Salutations.
 
 **William Leborgne:** Salutations.
 
-**elladillon:** I. I want to let you know that I'm in Seattle and I spy with my little eye.
+**Ella Dillon:** I. I want to let you know that I'm in Seattle and I spy with my little eye.
 
-**elladillon:** You'll never guess.
+**Ella Dillon:** You'll never guess.
 
-**elladillon:** You'll never guess.
+**Ella Dillon:** You'll never guess.
 
-**elladillon:** Guess.
+**Ella Dillon:** Guess.
 
-**elladillon:** Guess.
+**Ella Dillon:** Guess.
 
-**elladillon:** Guess what?
+**Ella Dillon:** Guess what?
 
-**elladillon:** What do you think?
+**Ella Dillon:** What do you think?
 
 **William Leborgne:** The sunshine?
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
 **Aida Knezevic:** Yeah.
 
 **Aida Knezevic:** Yeah.
 
-**elladillon:** In fact, I might have to, like, close my shade.
+**Ella Dillon:** In fact, I might have to, like, close my shade.
 
 **William Leborgne:** Yeah, I was right.
 
@@ -162,15 +202,15 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** That you're like, there's sunshine.
 
-**elladillon:** Is that too much energy for everybody?
+**Ella Dillon:** Is that too much energy for everybody?
 
 **William Leborgne:** No, it's just the right amount of energy.
 
-**elladillon:** By the way, George, are you.
+**Ella Dillon:** By the way, George, are you.
 
-**elladillon:** Are you out of the grave?
+**Ella Dillon:** Are you out of the grave?
 
-**elladillon:** How are you doing?
+**Ella Dillon:** How are you doing?
 
 **George Haikal:** Yeah, you can probably hear it in my voice a little.
 
@@ -186,9 +226,9 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** It won't go away for some reason.
 
-**elladillon:** It just.
+**Ella Dillon:** It just.
 
-**elladillon:** It sounded brutal.
+**Ella Dillon:** It sounded brutal.
 
 **George Haikal:** Yeah, it was so.
 
@@ -200,9 +240,9 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** But we're back.
 
-**elladillon:** All right.
+**Ella Dillon:** All right.
 
-**elladillon:** I'm glad you're back.
+**Ella Dillon:** I'm glad you're back.
 
 **William Leborgne:** Was it Covid?
 
@@ -218,13 +258,13 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** Stay at home.
 
-**elladillon:** There's some bad stuff going around.
+**Ella Dillon:** There's some bad stuff going around.
 
-**elladillon:** Like, I've seen a bunch of people, they go down and they're going down hard.
+**Ella Dillon:** Like, I've seen a bunch of people, they go down and they're going down hard.
 
 **George Haikal:** Yeah.
 
-**elladillon:** Maybe be a good girl and go get all my vaccines this year.
+**Ella Dillon:** Maybe be a good girl and go get all my vaccines this year.
 
 **William Leborgne:** Yeah, Good call.
 
@@ -234,13 +274,13 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** And jump right in.
 
-**elladillon:** And tactically, William, did we change it to Tuesday, Thursday?
+**Ella Dillon:** And tactically, William, did we change it to Tuesday, Thursday?
 
 **William Leborgne:** We did.
 
-**elladillon:** Okay, awesome.
+**Ella Dillon:** Okay, awesome.
 
-**elladillon:** I saw a bunch of emails go through, but I didn't actually look at my calendar yet.
+**Ella Dillon:** I saw a bunch of emails go through, but I didn't actually look at my calendar yet.
 
 **William Leborgne:** Honestly, you guys might have seen a bunch of different things because I was, like, adding them and it was all screwy.
 
@@ -282,25 +322,25 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** Okay.
 
-**elladillon:** And Ada, this is the one I was confirming with you on Tuesday.
+**Ella Dillon:** And Ada, this is the one I was confirming with you on Tuesday.
 
 **Aida Knezevic:** Right.
 
-**elladillon:** Like, because I think in HubSpot Bridget has them as converted.
+**Ella Dillon:** Like, because I think in HubSpot Bridget has them as converted.
 
 **George Haikal:** Yeah.
 
-**elladillon:** So like they're.
+**Ella Dillon:** So like they're.
 
-**elladillon:** They should probably be in the converted.
+**Ella Dillon:** They should probably be in the converted.
 
-**elladillon:** How long are we keeping them in Sprint or are you handing them over right now?
+**Ella Dillon:** How long are we keeping them in Sprint or are you handing them over right now?
 
 **Aida Knezevic:** Oh, they're being handed over this week.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **Aida Knezevic:** I don't know, like the, the whole, the.
 
@@ -310,33 +350,33 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** So.
 
-**elladillon:** Okay, that's fine.
+**Ella Dillon:** Okay, that's fine.
 
 **William Leborgne:** Okay.
 
 **William Leborgne:** But they are officially converted.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
-**elladillon:** And if I could do a quick advertisement for the team, I felt like we had such a productive meeting on Tuesday, but we also had the pickle where, you know, poor William was out, Kathy's out, folks were sick.
+**Ella Dillon:** And if I could do a quick advertisement for the team, I felt like we had such a productive meeting on Tuesday, but we also had the pickle where, you know, poor William was out, Kathy's out, folks were sick.
 
-**elladillon:** So my ask of the team is to make sure you put in explicit notes of customer health or conversion activity or so.
+**Ella Dillon:** So my ask of the team is to make sure you put in explicit notes of customer health or conversion activity or so.
 
-**elladillon:** Like, because I'm still codifying everything in my mind.
+**Ella Dillon:** Like, because I'm still codifying everything in my mind.
 
-**elladillon:** So sometimes I'm like, wait, is that Brexit or was that Black Soul?
+**Ella Dillon:** So sometimes I'm like, wait, is that Brexit or was that Black Soul?
 
-**elladillon:** So I go into the meeting with Marcel and I'm like, that one is the.
+**Ella Dillon:** So I go into the meeting with Marcel and I'm like, that one is the.
 
-**elladillon:** And if I can't find any notes, I just see activity.
+**Ella Dillon:** And if I can't find any notes, I just see activity.
 
-**elladillon:** I can't like pull out the health of it.
+**Ella Dillon:** I can't like pull out the health of it.
 
-**elladillon:** So.
+**Ella Dillon:** So.
 
-**elladillon:** And doing the updates, please make sure that you anchor on a health update as well, like an explicit next steps.
+**Ella Dillon:** And doing the updates, please make sure that you anchor on a health update as well, like an explicit next steps.
 
-**elladillon:** Just so that you know, if I'm munging a bunch of different accounts in my mind, I can parse it.
+**Ella Dillon:** Just so that you know, if I'm munging a bunch of different accounts in my mind, I can parse it.
 
 **William Leborgne:** Yeah.
 
@@ -376,19 +416,19 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** Ella.
 
-**elladillon:** Yep.
+**Ella Dillon:** Yep.
 
-**elladillon:** Awesome.
+**Ella Dillon:** Awesome.
 
-**elladillon:** Amazing.
+**Ella Dillon:** Amazing.
 
 **William Leborgne:** Great.
 
-**elladillon:** The other thing that would help me folks for the done and you know the ball will be handed over to the you know, the growth EMS is for whatever reason anyone that we should call a risk from the get go, you know, like so for example, if I believe Turnstile, we've been working on our quality and we've been trying to perfect our pipelines and all that type of thing.
+**Ella Dillon:** The other thing that would help me folks for the done and you know the ball will be handed over to the you know, the growth EMS is for whatever reason anyone that we should call a risk from the get go, you know, like so for example, if I believe Turnstile, we've been working on our quality and we've been trying to perfect our pipelines and all that type of thing.
 
-**elladillon:** So we shouldn't call that green yet until you know Seamus, as you guys are green for example.
+**Ella Dillon:** So we shouldn't call that green yet until you know Seamus, as you guys are green for example.
 
-**elladillon:** So there are a couple anyway, so just make sure in the handoff that any of those risks for the team and then also just for me so that as I'm forecasting I'm, I'm being real and we're not caught by surprise.
+**Ella Dillon:** So there are a couple anyway, so just make sure in the handoff that any of those risks for the team and then also just for me so that as I'm forecasting I'm, I'm being real and we're not caught by surprise.
 
 **George Haikal:** Yeah, the, the one thing I'll add here because it's been done but it technically isn't.
 
@@ -416,41 +456,41 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** I already talked to Megan to work to handing it off but it's far from There right now.
 
-**elladillon:** As a quick call out note not to steal all of your agenda, William, but just for context for the team, one of my.
+**Ella Dillon:** As a quick call out note not to steal all of your agenda, William, but just for context for the team, one of my.
 
-**elladillon:** I had many fun meetings in San Francisco, but I had a two hour sort of whiteboarding session with Daniel.
+**Ella Dillon:** I had many fun meetings in San Francisco, but I had a two hour sort of whiteboarding session with Daniel.
 
-**elladillon:** One hour.
+**Ella Dillon:** One hour.
 
-**elladillon:** But what was really clarifying for me were, you know, we have Marcel's strategy, but that's kind of like up here.
+**Ella Dillon:** But what was really clarifying for me were, you know, we have Marcel's strategy, but that's kind of like up here.
 
-**elladillon:** But I started to see the actual chess pieces like on the board of how Daniel would actually build the products and how they might all pin together.
+**Ella Dillon:** But I started to see the actual chess pieces like on the board of how Daniel would actually build the products and how they might all pin together.
 
-**elladillon:** And then what does that mean for us as a team?
+**Ella Dillon:** And then what does that mean for us as a team?
 
-**elladillon:** And sort of the functions that we're going to grow into and offers a value add, one of them is sort of more of this custom, you know, agency.
+**Ella Dillon:** And sort of the functions that we're going to grow into and offers a value add, one of them is sort of more of this custom, you know, agency.
 
-**elladillon:** It's not just sort of like we're creating content, but this entire thing.
+**Ella Dillon:** It's not just sort of like we're creating content, but this entire thing.
 
-**elladillon:** Like we'll have our os, but then we're going to have on top of it, you know, the lovable templates and all that type of thing is extra.
+**Ella Dillon:** Like we'll have our os, but then we're going to have on top of it, you know, the lovable templates and all that type of thing is extra.
 
-**elladillon:** It's not going to be in the os.
+**Ella Dillon:** It's not going to be in the os.
 
-**elladillon:** So very consciously and intentionally building sort of this custom team that would have a forward deployed engineer and all those things that would help build out this service model.
+**Ella Dillon:** So very consciously and intentionally building sort of this custom team that would have a forward deployed engineer and all those things that would help build out this service model.
 
-**elladillon:** Georgia, just bring this up because I'd love you to have a meta point of view as you're doing your work, that this is work that we're going to sell intentionally as sort of this custom motion, so.
+**Ella Dillon:** Georgia, just bring this up because I'd love you to have a meta point of view as you're doing your work, that this is work that we're going to sell intentionally as sort of this custom motion, so.
 
-**elladillon:** Yeah, exactly.
+**Ella Dillon:** Yeah, exactly.
 
-**elladillon:** Productizing some of the customer service work.
+**Ella Dillon:** Productizing some of the customer service work.
 
-**elladillon:** Exactly.
+**Ella Dillon:** Exactly.
 
-**elladillon:** So just as you have that in your mind that this is going to be a thing that we sell.
+**Ella Dillon:** So just as you have that in your mind that this is going to be a thing that we sell.
 
-**elladillon:** George.
+**Ella Dillon:** George.
 
-**elladillon:** And so codifying the actions you're taking and like what the lanes of, of what you're doing, it's just, I just wanted you to have that extra strategic layer so you can kind of build the, build the railroad as you're going.
+**Ella Dillon:** And so codifying the actions you're taking and like what the lanes of, of what you're doing, it's just, I just wanted you to have that extra strategic layer so you can kind of build the, build the railroad as you're going.
 
 **George Haikal:** Yeah, totally.
 
@@ -470,13 +510,13 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** And so there'll be something to start off of again.
 
-**elladillon:** Thank you.
+**Ella Dillon:** Thank you.
 
-**elladillon:** Thank you.
+**Ella Dillon:** Thank you.
 
-**elladillon:** Perfect.
+**Ella Dillon:** Perfect.
 
-**elladillon:** Okay, William, back to you.
+**Ella Dillon:** Okay, William, back to you.
 
 **William Leborgne:** I'll stop talking.
 
@@ -526,33 +566,33 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** Hasan, are you on.
 
-**elladillon:** I saw him texting, so I know he is.
+**Ella Dillon:** I saw him texting, so I know he is.
 
 **William Leborgne:** There he is.
 
-**Hassan Rashid:** Sorry.
+**Hasan Rashid:** Sorry.
 
-**Hassan Rashid:** Yeah, yeah, really good, you know, updates for Ramp.
+**Hasan Rashid:** Yeah, yeah, really good, you know, updates for Ramp.
 
-**Hassan Rashid:** So we're publishing three articles and four of those shorter posts today.
+**Hasan Rashid:** So we're publishing three articles and four of those shorter posts today.
 
-**Hassan Rashid:** She usually, Victoria usually doesn't review them, but I'll just ping her if she wants to review them and I'll just publish them either today or tomorrow.
+**Hasan Rashid:** She usually, Victoria usually doesn't review them, but I'll just ping her if she wants to review them and I'll just publish them either today or tomorrow.
 
-**Hassan Rashid:** The domain ranking increased from two to six, so that's really good.
+**Hasan Rashid:** The domain ranking increased from two to six, so that's really good.
 
-**Hassan Rashid:** And we got some really good AI visibility wins for those, those shorter query fan outposts that we published just five days ago.
+**Hasan Rashid:** And we got some really good AI visibility wins for those, those shorter query fan outposts that we published just five days ago.
 
-**Hassan Rashid:** So we've gotten a few wins there and some AI bot retrievals and the training requests, those are going up basically just week over week.
+**Hasan Rashid:** So we've gotten a few wins there and some AI bot retrievals and the training requests, those are going up basically just week over week.
 
-**Hassan Rashid:** And we've noticed a lot of the Cat Floodesque articles, they're being consistently cited for Brexit alternatives, Revolut and Mercury alternatives.
+**Hasan Rashid:** And we've noticed a lot of the Cat Floodesque articles, they're being consistently cited for Brexit alternatives, Revolut and Mercury alternatives.
 
-**Hassan Rashid:** So it's just across the funnel, like top of funnel, bottom funnel, really good citations as well.
+**Hasan Rashid:** So it's just across the funnel, like top of funnel, bottom funnel, really good citations as well.
 
-**Hassan Rashid:** And Victoria actually just replied to my message in the external channel.
+**Hasan Rashid:** And Victoria actually just replied to my message in the external channel.
 
-**Hassan Rashid:** She said she did also notice a significant increase in citations these last couple of days.
+**Hasan Rashid:** She said she did also notice a significant increase in citations these last couple of days.
 
-**Hassan Rashid:** So yeah.
+**Hasan Rashid:** So yeah.
 
 **William Leborgne:** Let'S go.
 
@@ -650,19 +690,19 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** All right, so go ahead.
 
-**elladillon:** Just where I went in my mind.
+**Ella Dillon:** Just where I went in my mind.
 
-**elladillon:** Sorry.
+**Ella Dillon:** Sorry.
 
-**elladillon:** I was kind of like thinking about two other things all at this in parallel, which is never smart, but I'm assuming this is gonna have to go to like, a Liz.
+**Ella Dillon:** I was kind of like thinking about two other things all at this in parallel, which is never smart, but I'm assuming this is gonna have to go to like, a Liz.
 
-**elladillon:** Right.
+**Ella Dillon:** Right.
 
-**elladillon:** And then in my mind, I'm just thinking about, like, what does Liz's portfolio look like and will all this be fine?
+**Ella Dillon:** And then in my mind, I'm just thinking about, like, what does Liz's portfolio look like and will all this be fine?
 
 **George Haikal:** But Liz or Megan.
 
-**elladillon:** Okay, okay.
+**Ella Dillon:** Okay, okay.
 
 **George Haikal:** Oh, sorry.
 
@@ -674,7 +714,7 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** Rex goes to Megan, that Liz for ramp.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **William Leborgne:** Okay.
 
@@ -694,7 +734,7 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** An additional three.
 
-**Hassan Rashid:** Yeah.
+**Hasan Rashid:** Yeah.
 
 **William Leborgne:** Great.
 
@@ -722,11 +762,11 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** When is the 20th?
 
-**elladillon:** Next Thursday.
+**Ella Dillon:** Next Thursday.
 
 **George Haikal:** Friday.
 
-**elladillon:** Oh, next Friday.
+**Ella Dillon:** Oh, next Friday.
 
 **William Leborgne:** Friday.
 
@@ -758,17 +798,17 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** And then obviously getting these results is a win.
 
-**elladillon:** And Hasan, thank you for putting.
+**Ella Dillon:** And Hasan, thank you for putting.
 
-**elladillon:** I was just going to see if we'd shared all the good news in the channel, so it's awesome to see that you already shared all the early ones.
+**Ella Dillon:** I was just going to see if we'd shared all the good news in the channel, so it's awesome to see that you already shared all the early ones.
 
-**elladillon:** That's cool.
+**Ella Dillon:** That's cool.
 
-**elladillon:** Thanks.
+**Ella Dillon:** Thanks.
 
 **William Leborgne:** Yeah, thank you for covering for me while I was out earlier this week.
 
-**Hassan Rashid:** No worries.
+**Hasan Rashid:** No worries.
 
 **William Leborgne:** Okay.
 
@@ -948,29 +988,29 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** But she seems very on board, so I'll keep everyone updated there.
 
-**elladillon:** Awesome.
+**Ella Dillon:** Awesome.
 
-**elladillon:** Yeah, you just.
+**Ella Dillon:** Yeah, you just.
 
-**elladillon:** Oh, just quick for you too, George.
+**Ella Dillon:** Oh, just quick for you too, George.
 
-**elladillon:** One of the things that I was hoping to nail, like, by Tuesday, but it's taken a little bit longer than I wanted, is clarifying.
+**Ella Dillon:** One of the things that I was hoping to nail, like, by Tuesday, but it's taken a little bit longer than I wanted, is clarifying.
 
-**elladillon:** Check that for all of you of will Tyler just be bundling.
+**Ella Dillon:** Check that for all of you of will Tyler just be bundling.
 
-**elladillon:** Check that in all things.
+**Ella Dillon:** Check that in all things.
 
-**elladillon:** You don't have to worry about it at all because right now it's a bit of a smorgasbord of what current customers have been told it's included and what ones we're going to upsell them versus what one we're going to give for a safe play.
+**Ella Dillon:** You don't have to worry about it at all because right now it's a bit of a smorgasbord of what current customers have been told it's included and what ones we're going to upsell them versus what one we're going to give for a safe play.
 
-**elladillon:** So, net, stay tuned.
+**Ella Dillon:** So, net, stay tuned.
 
-**elladillon:** I hope by the end of today, Friday, we'll have, like, explicit directions so you know what's going to come your way with.
+**Ella Dillon:** I hope by the end of today, Friday, we'll have, like, explicit directions so you know what's going to come your way with.
 
-**elladillon:** Check that.
+**Ella Dillon:** Check that.
 
-**elladillon:** And when it's going to be included versus something you have to worry about positioning.
+**Ella Dillon:** And when it's going to be included versus something you have to worry about positioning.
 
-**elladillon:** So thank you for just saying that so I could say it out loud.
+**Ella Dillon:** So thank you for just saying that so I could say it out loud.
 
 **George Haikal:** Cool.
 
@@ -978,7 +1018,7 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **George Haikal:** And thank you.
 
-**elladillon:** Thank you.
+**Ella Dillon:** Thank you.
 
 **William Leborgne:** Thanks, George.
 
@@ -1192,27 +1232,27 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** Okay, great.
 
-**elladillon:** I super apologize.
+**Ella Dillon:** I super apologize.
 
-**elladillon:** Asking a question that I should be able to look up if I weren't being mauled by a puppy.
+**Ella Dillon:** Asking a question that I should be able to look up if I weren't being mauled by a puppy.
 
-**elladillon:** Why were they yellow?
+**Ella Dillon:** Why were they yellow?
 
-**elladillon:** Like, why what was.
+**Ella Dillon:** Like, why what was.
 
-**elladillon:** Remind me, Muriel and why she was a blocker before.
+**Ella Dillon:** Remind me, Muriel and why she was a blocker before.
 
-**elladillon:** Right.
+**Ella Dillon:** Right.
 
-**elladillon:** Didn't she have.
+**Ella Dillon:** Didn't she have.
 
-**elladillon:** Slowing us down with her?
+**Ella Dillon:** Slowing us down with her?
 
-**elladillon:** Just.
+**Ella Dillon:** Just.
 
-**elladillon:** I can't scroll down.
+**Ella Dillon:** I can't scroll down.
 
-**elladillon:** So I just.
+**Ella Dillon:** So I just.
 
 **Aida Knezevic:** Yeah, she was just.
 
@@ -1234,19 +1274,19 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **Aida Knezevic:** So she's been very good to work with.
 
-**elladillon:** Awesome.
+**Ella Dillon:** Awesome.
 
-**elladillon:** Awesome.
+**Ella Dillon:** Awesome.
 
-**elladillon:** Okay, so even so, we're.
+**Ella Dillon:** Okay, so even so, we're.
 
-**elladillon:** We're getting up to speed on content and you feel like from a results perspective, I guess next week if we just presumptively assume they're going to phase two, you're feeling yellow still, but turning green.
+**Ella Dillon:** We're getting up to speed on content and you feel like from a results perspective, I guess next week if we just presumptively assume they're going to phase two, you're feeling yellow still, but turning green.
 
-**elladillon:** Is that kind of what I'm hearing?
+**Ella Dillon:** Is that kind of what I'm hearing?
 
 **Aida Knezevic:** Yeah.
 
-**elladillon:** Okay, thank you.
+**Ella Dillon:** Okay, thank you.
 
 **Sydney Arin Go:** I just wanted to flag for Netricks.
 
@@ -1448,11 +1488,11 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** Yeah, I just want to check in Becerra if the content OS has been built or is built.
 
-**elladillon:** I'm building it as we speak and I'm aiming to have it done by the meeting today?
+**Ella Dillon:** I'm building it as we speak and I'm aiming to have it done by the meeting today?
 
 **William Leborgne:** By today's meeting with Tavis, you're going to have it done?
 
-**elladillon:** Yeah, aiming to have it done.
+**Ella Dillon:** Yeah, aiming to have it done.
 
 **William Leborgne:** Okay, great.
 
@@ -1682,10 +1722,10 @@ William set expectations: phase 1 builds English foundation. Limited French arti
 
 **William Leborgne:** But in the meantime, hit me up if there's any questions and have a great rest of your day.
 
-**elladillon:** Thank you all.
+**Ella Dillon:** Thank you all.
 
 **Aida Knezevic:** Thank you.
 
 **Aida Knezevic:** Bye Bye.
 
-**elladillon:** Thank you.
+**Ella Dillon:** Thank you.

@@ -1,8 +1,8 @@
 # Transcript Records — Index
 
-> 182 transcripts across 4 months
+> 184 transcripts across 4 months
 
-## 2026-02 (82 transcripts)
+## 2026-02 (84 transcripts)
 
 | File | Date | Title | Participants |
 |------|------|-------|-------------|
@@ -88,6 +88,8 @@
 | [2026-02-25-scott-lendzion-marcel-santilli.md](2026-02/2026-02-25-scott-lendzion-marcel-santilli.md) | 2026-02-25 | Scott Lendzion <> Marcel Santilli | Scott Lendzion, Marcel Santilli |
 | [2026-02-25-weekly-prospecting-block.md](2026-02/2026-02-25-weekly-prospecting-block.md) | 2026-02-25 | Weekly Prospecting Block | Marcel Santilli, Gloria Willis, Jason Gong |
 | [2026-02-26-weekly-pipeline-deep-dive.md](2026-02/2026-02-26-weekly-pipeline-deep-dive.md) | 2026-02-26 | Weekly Pipeline Deep Dive | cristinamaria, William Leborgne, Title, ... |
+| [2026-02-27-barnett-klane-product-lead-interview.md](2026-02/2026-02-27-barnett-klane-product-lead-interview.md) | 2026-02-27 | Barnett Klane — Team Interview, Product Lead | Marcel Santilli, Barnett Klane |
+| [2026-02-27-gtm-delivery-reviews.md](2026-02/2026-02-27-gtm-delivery-reviews.md) | 2026-02-27 | GTM & Delivery Reviews | Marcel Santilli, Anna Baird, Bridget McGillivray, ... |
 
 ## 2026-01 (54 transcripts)
 

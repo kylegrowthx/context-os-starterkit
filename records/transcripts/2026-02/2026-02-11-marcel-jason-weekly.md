@@ -5,9 +5,11 @@ date: 2026-02-11
 time: 22:30 UTC
 duration: 80 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Jason Gong
+participants: Marcel Santilli (GrowthX CEO), Jason Gong (GrowthX Head of Community/Growth)
+source: fireflies
 fireflies_id: 01KGMQDN5GWC87WMB259452HGT
 transcript_url: https://app.fireflies.ai/view/01KGMQDN5GWC87WMB259452HGT
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
@@ -82,6 +84,46 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 ---
 
+## Decisions & Commitments
+
+**Product Strategy:**
+- Commit to core methodology: AI engines as digital twins of buyers, surveyed via structured prompt taxonomy
+- Commit to phased rollout: taxonomy and auto-tagging first, then onboarding enrichment, dashboard redesign, scoring models
+- Decision: Protect CheckThat's methodology as proprietary IP
+
+**Organizational:**
+- Commitment: Jacob Cutter joins as data science lead (verbal handshake, not yet signed)
+- Decision: Build data science team expansion from Jacob as foundation
+
+**Content & Events:**
+- Decision: Transition from membership metrics to valuable workshop output
+- Commitment: VC co-hosting model validated and will be scaled beyond Bay Area
+- Decision: Set up in-person content production session with Danny (location: Marcel's home)
+- Commitment: Build content engine with multiple creators (Marcel, Jason, Danny, Will) with consistent cadence
+
+**Tools & Process:**
+- Decision: GitHub-hosted GrowthX AI Handbook replaces Notion as official company OS
+- Commitment: Consolidate event calendars into Luma (currently in Notion)
+
+---
+
+## Open Questions
+
+**CheckThat Product:**
+- How will the taxonomy's auto-tagging functionality improve upon current manual prompt categorization?
+- What are the exact brand health metrics thresholds that trigger actionable insights for users?
+- How will the dashboard handle multi-model comparison results (ChatGPT vs Claude vs Gemini vs Perplexity)?
+
+**Content Strategy:**
+- What format will the flagship $500 masterclass take (live cohort, recorded with Q&A, hybrid)?
+- How will success be measured for the new content cadence — engagement, lead quality, or audience growth?
+
+**Operations:**
+- What is the timeline for Jacob's onboarding and first project assignment?
+- Who will take ownership of the self-serve product experience improvements once taxonomy is implemented?
+
+---
+
 ## Action Items
 
 **Marcel Santilli**
@@ -108,15 +150,7 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 ## Transcript
 
-**Marcel Santilli:** It's.
-
-**Marcel Santilli:** Yo.
-
-**Jason Gong:** Sir.
-
 **Jason Gong:** How are you?
-
-**Marcel Santilli:** Good.
 
 **Marcel Santilli:** We went to go get coffee with George and it started pouring, and it was a little.
 
@@ -127,8 +161,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** There's this other coffee shop that's really good a block down and it wasn't raining.
 
 **Marcel Santilli:** And then halfway through getting there, started pouring, and there's a massive line on that coffee shop that was bigger than the Blue Bottle one.
-
-**Marcel Santilli:** So.
 
 **Marcel Santilli:** But I got my coffee, and it's really good, so.
 
@@ -170,8 +202,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** And then growth X.
 
-**Marcel Santilli:** Maybe.
-
 **Jason Gong:** Six or seven.
 
 **Jason Gong:** Not.
@@ -180,13 +210,7 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** Trying to do well, you know.
 
-**Marcel Santilli:** Yeah.
-
-**Jason Gong:** Cool.
-
 **Marcel Santilli:** That's good.
-
-**Marcel Santilli:** Man.
 
 **Marcel Santilli:** On work side, what is one thing that is within my control or your control that would take you from a 6 or 7 to an 8 or 6 to 7?
 
@@ -222,8 +246,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** Is one.
 
-**Jason Gong:** Right.
-
 **Jason Gong:** Growth X is one.
 
 **Jason Gong:** And, you know, I guess through the conversations with Al and stuff, we can see how, like, you know, probably not doing the best job, kind of linking them together even if we do one.
@@ -231,8 +253,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** Yeah, yeah, that makes.
 
 **Marcel Santilli:** That makes sense.
-
-**Jason Gong:** So.
 
 **Marcel Santilli:** Connecting the dots more across our layers and.
 
@@ -256,8 +276,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** My help more.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** What do you think?
 
 **Jason Gong:** Sorry, say that again.
@@ -265,8 +283,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** In person is better, right?
 
 **Marcel Santilli:** You think for shaping?
-
-**Jason Gong:** Yeah.
 
 **Jason Gong:** Well, I guess it depends.
 
@@ -288,8 +304,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Yeah, exactly.
 
-**Marcel Santilli:** Okay.
-
 **Marcel Santilli:** And then.
 
 **Marcel Santilli:** And then I also launched Handbook Growth X AI password is AI LED growth altogether lower caps and actually let me post it in the channel right now before I forget.
@@ -297,10 +311,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Jason Gong:** Yep.
 
 **Jason Gong:** Let's see it.
-
-**Marcel Santilli:** Yeah.
-
-**Marcel Santilli:** Okay.
 
 **Marcel Santilli:** So yeah, anyways, the.
 
@@ -341,8 +351,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** You know, it's like we're like, right now, oh, shoot, I closed this.
 
 **Marcel Santilli:** See.
-
-**Jason Gong:** Okay.
 
 **Marcel Santilli:** Anyways, but like, I wrote the entire thing by just taking all the context I already had and it's like translating it into docs.
 
@@ -508,13 +516,9 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** DM bases, text message basis.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** The like mixers are more blast.
 
 **Marcel Santilli:** And you, if you do too many breakfasts, not enough mixers or not or too much dinners like then, then it's just like it loses the balance because like you need more entry ways to building the relationships that then you get them to come to the dinners and then you tap into their networks and then they refer people.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** And you figure out what's in it for them, what do they care about.
 
@@ -528,8 +532,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Like my productivity with cloud code and cursor, you know and.
 
-**Jason Gong:** Yeah.
-
 **Marcel Santilli:** Or whatever, you know.
 
 **Jason Gong:** Yeah, that makes sense.
@@ -541,8 +543,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Jason Gong:** I know it's a month out, but working ionative you know, you guys seems like a good combo.
 
 **Marcel Santilli:** Yeah, I think that's a good like one for you to like, like don't delegate that part.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** Like, like, like okay, so like take Kristen, right.
 
@@ -572,19 +572,13 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** And you know, it's like a deal is worth five grand to us right now.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** So then like you, you know that math in your head.
 
 **Marcel Santilli:** So it's like okay, like hey, give me a referral.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** Like, but that's too transactional.
 
 **Marcel Santilli:** So then it's like how do you, you know.
-
-**Jason Gong:** Yeah.
 
 **Marcel Santilli:** Figure out what's in it for them?
 
@@ -593,8 +587,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Jason Gong:** It's like like that's how I'm thinking about the community now.
 
 **Jason Gong:** I'm less so just trying to grow the membership and it's more of like a, like a thing to give people.
-
-**Jason Gong:** Right.
 
 **Jason Gong:** It's like if somebody likes our workshops, like hey, for your whole team, you know, here's, here's a year free.
 
@@ -652,13 +644,9 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Like, like Norwest just reached out to me asking for a meeting.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** It's like so, so I can use these VC calls, pretend like we're raising or something and, and like we can use it to our advantage.
 
 **Marcel Santilli:** Like you know, and, and it's like whatever, you know.
-
-**Jason Gong:** Okay.
 
 **Jason Gong:** I mean if you find a good one center away, like especially if it's outside of the Bay Area.
 
@@ -670,21 +658,13 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** We'll, we'll work on it.
 
-**Marcel Santilli:** Yeah.
-
-**Marcel Santilli:** Okay.
-
 **Marcel Santilli:** Yeah, The.
 
 **Marcel Santilli:** And then like you need some that are like the consistent layer.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** Like paid search tends to be that, like some gated content, you know, like that, that is usually like your, like that should be your no brainer, you know, spin up some quick nice landing pages.
 
 **Marcel Santilli:** Do some, drive some people there, you know, do some gated stuff.
-
-**Jason Gong:** Yeah.
 
 **Jason Gong:** I mean it's not beautiful but like every week I think we get like 150 to 200 various sources.
 
@@ -804,8 +784,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Like, but then it's like all the, like videos he's doing, he like turns them into a playbook, but then he also releases the, the thing as well.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** But then the playbook is just like a process of the transcript, plus like some other things making more practical or whatever.
 
 **Marcel Santilli:** You Know, like, but it's like a little bit more generic, and so ours can't be like a yo everywhere kind of, you know, like, our content everywhere has to be like, way, way more, and we just need more shots on goal and then we package it up maybe.
@@ -914,8 +892,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** And so it's like, I feel like we got the muscles, we just kind of, like, narrow the aperture in a way that, like, unlocks more, you know?
 
-**Jason Gong:** Yeah.
-
 **Jason Gong:** I even get the core of it, right?
 
 **Jason Gong:** Because we are doing a lot of the stuff, right?
@@ -931,8 +907,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** Yeah, yeah.
 
 **Marcel Santilli:** It's just not consistent enough.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** So people don't know.
 
@@ -958,8 +932,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Like, and then everything kind of, like, connects, and then, like, we're validating.
 
-**Marcel Santilli:** Okay.
-
 **Marcel Santilli:** Is this, like.
 
 **Marcel Santilli:** Like, it's almost like you need the flow to go into, like, tried and true things that have already been validated, you know?
@@ -977,12 +949,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** Right?
 
 **Marcel Santilli:** I don't know.
-
-**Jason Gong:** Yeah.
-
-**Jason Gong:** Yeah.
-
-**Jason Gong:** Okay.
 
 **Jason Gong:** I mean I totally understand what you mean and I think the like maybe the good part is like the connection as far as like like the journey is there.
 
@@ -1050,13 +1016,9 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Like, you know I saw that email.
 
-**Jason Gong:** Yeah.
-
 **Marcel Santilli:** You know, it's like, dude, like there's so much business to be had out there that's just like way easier than trying to sell to like lovable or vercel, you know, like, like there's agency business to be had that are.
 
 **Marcel Santilli:** There's so much man, there's like an insane amount, you know?
-
-**Jason Gong:** Yeah.
 
 **Jason Gong:** All right.
 
@@ -1113,8 +1075,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** Yeah, we can, but we have a lot of stuff out there.
 
 **Marcel Santilli:** So it's like validate that you can get somebody to sign up that is like a good lead and figure out how much that costs.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** Like and so get, get an offer in and I think right now given everything it would be a lot better to do like even like a guide plus a strategy session landing page on growth X.
 
@@ -1188,10 +1148,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** But it's just like, we gotta form it and then like have like a beat.
 
-**Marcel Santilli:** So.
-
-**Marcel Santilli:** So.
-
 **Marcel Santilli:** So maybe like, what would be more helpful is instead of these, like, let's spend the time like, form this, put it in a place that, like, it's all in one place so that we kind of see it and maybe it's already there, but it's like, you know, that we can kind of plan against it.
 
 **Marcel Santilli:** And then our meeting should be like, the things that are driving up to that and what needs to happen.
@@ -1232,8 +1188,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Gloria can come too.
 
-**Marcel Santilli:** So.
-
 **Marcel Santilli:** So we, like, just, like, spend a few days just, like, here, like, produce a bunch of stuff.
 
 **Marcel Santilli:** Like, you know, like, let's just, like, plan ahead of that, too.
@@ -1241,8 +1195,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Jason Gong:** Yeah, that's good.
 
 **Jason Gong:** Let's see.
-
-**Jason Gong:** Okay.
 
 **Jason Gong:** Next couple weeks are all in town.
 
@@ -1288,8 +1240,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** And then we're in Seattle for that.
 
-**Marcel Santilli:** Yeah.
-
 **Marcel Santilli:** Tactically, I invited a bunch of people to the.
 
 **Marcel Santilli:** The one next week, but, you know, I think we have okay RSVPs.
@@ -1312,10 +1262,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** And I'm offering the dinner there, so I think that'll help fill a few seats.
 
-**Jason Gong:** Okay.
-
-**Marcel Santilli:** Yeah.
-
 **Marcel Santilli:** I think, like, with.
 
 **Marcel Santilli:** What they think, like, some of these, like.
@@ -1332,8 +1278,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** Yeah, I guess we're cutting our audience a little bit.
 
-**Marcel Santilli:** Yeah.
-
 **Jason Gong:** And then Guy actually is unresponsive.
 
 **Jason Gong:** I flagged that in there.
@@ -1346,8 +1290,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** He's getting pulled into.
 
-**Jason Gong:** Yeah.
-
 **Jason Gong:** Same with.
 
 **Marcel Santilli:** Is that why Caddy said she bailed out?
@@ -1357,10 +1299,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Jason Gong:** To you and did she say anything to you?
 
 **Jason Gong:** She basically just like, pinged the Slack channel and then Gloria followed up, but she was busy.
-
-**Marcel Santilli:** Yeah.
-
-**Jason Gong:** Yeah.
 
 **Jason Gong:** Well, good.
 
@@ -1373,8 +1311,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** It's just like.
 
 **Marcel Santilli:** It's just mostly get the content right and the hook right.
-
-**Marcel Santilli:** It's.
 
 **Marcel Santilli:** It's there, but it's like, it's a lot of work, you know, it's like, yeah, getting it right.
 
@@ -1409,8 +1345,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** Here it is.
 
 **Jason Gong:** Like.
-
-**Marcel Santilli:** So.
 
 **Marcel Santilli:** So anyways, it's like, it's pretty.
 
@@ -1494,8 +1428,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** So this to me is like, okay, so an infographic, but like a framework, essentially.
 
-**Marcel Santilli:** Yeah.
-
 **Marcel Santilli:** I mean, like, I have a lot of stuff.
 
 **Marcel Santilli:** Like for instance, like, I have this like.
@@ -1530,8 +1462,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** That could be another way, you know.
 
-**Jason Gong:** Okay.
-
 **Jason Gong:** The.
 
 **Jason Gong:** The common stuff feels okay.
@@ -1539,8 +1469,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Jason Gong:** I know you met with, with Danny.
 
 **Jason Gong:** I haven't caught up with her yet, but anything needed there, I haven't acted on it.
-
-**Marcel Santilli:** It's.
 
 **Marcel Santilli:** It's like right now I'm like, I need Dig.
 
@@ -1662,8 +1590,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** How do you know if the super bowl ads was Effective or not.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** You survey consumers and you say, were you exposed to this?
 
 **Marcel Santilli:** Yes or no?
@@ -1676,13 +1602,9 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Now we're trying to figure out what, if anything, was there a lift in terms of recall, sentiment, alignment.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** And so.
 
 **Marcel Santilli:** And you're trying to influence that and in degree to which the thing you did lifted those things or improved those things or tighter alignment.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** And so visibility is more of like, it's a recall metric.
 
@@ -1691,8 +1613,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** And alignment is like, how close is what AI thinks of you aligned to, like, your actual context, which is your grounding.
 
 **Marcel Santilli:** And so that has to be your grounding.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** You need to ground on something.
 
@@ -1714,13 +1634,9 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** And in other stages, you're not really looking for anybody.
 
-**Jason Gong:** Right.
-
 **Marcel Santilli:** And if you're looking for alternatives to you, then that means you're already looking for.
 
 **Marcel Santilli:** You don't want you.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** Like, so that's a different challenge.
 
@@ -1774,8 +1690,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Rather than, you know, improving the recall only.
 
-**Marcel Santilli:** Right.
-
 **Marcel Santilli:** And so then it's just like there is like the context of the brand, right?
 
 **Marcel Santilli:** You need to understand company products, positioning, pricing, Personas and buyers, competitors, differentiators.
@@ -1783,8 +1697,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** Like all those things are important, which by the way is all the context we do anyways to create public pages.
 
 **Marcel Santilli:** And it's the context we need to have in their space and the taxonomy around their business.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** And then the market context is like the, Think of it as, it's like, it's the, like it's the context of the market, the category, the buying categories, the market categories, the players, the category dynamics and adjacent categories, how it's like all correlated.
 
@@ -1976,8 +1888,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Jason Gong:** So it's great.
 
-**Jason Gong:** Yeah.
-
 **Marcel Santilli:** And, and then, then it's like rethinking the entire dashboard experience to be based on this, like reframing the whole thing based on this and then starting to like build the audits and reports, you know, so, so those are like the, the graders, the audits, the, you know, like the one off insights, the what to do about it a little bit.
 
 **Marcel Santilli:** And they're, they're like one off snapshots of like ingesting all this information, which now will be way more.
@@ -1999,8 +1909,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** So this file should be.
 
 **Marcel Santilli:** It is in the handbook now.
-
-**Marcel Santilli:** Okay.
 
 **Marcel Santilli:** Yeah, it's.
 
@@ -2048,15 +1956,9 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** Just don't give away too much, you know, yet.
 
-**Jason Gong:** Yeah.
-
 **Marcel Santilli:** Assume people you're talking to are going to turn around, send their recording to and don't let any recorders in other than ours.
 
-**Jason Gong:** Okay.
-
 **Marcel Santilli:** Like this is truly like if this clicks and profound gets a hold of it, they can match pretty quickly.
-
-**Jason Gong:** Right.
 
 **Marcel Santilli:** Like the, the thought process, like we have to be the first ones to like be like tada.
 
@@ -2077,8 +1979,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** So then they're testing concepts and whatever, you know, like.
 
 **Marcel Santilli:** So there's a lot of like parallels to kind of like this, you know, like user research, except the user is AI engines.
-
-**Jason Gong:** Yeah.
 
 **Marcel Santilli:** But you can see it's like if you look at this, it's like openness or whatever agreeable.
 
@@ -2103,8 +2003,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Marcel Santilli:** This is just like a parallel of like a way to think about it, right?
 
 **Marcel Santilli:** Like, which is like you're survey, like you have three buyers now you have your human buyer, A agents and training bots.
-
-**Marcel Santilli:** Right.
 
 **Marcel Santilli:** And training bots is the most lagging of all of those.
 
@@ -2166,8 +2064,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 
 **Marcel Santilli:** So we, we also have somebody that's going to be able to help and hire a team as well.
 
-**Marcel Santilli:** So.
-
 **Jason Gong:** Excited.
 
 **Jason Gong:** Is he, is he here or is.
@@ -2203,8 +2099,6 @@ Jacob Cutter (PhD, Deepgram background) verbally accepted offer as the first ded
 **Jason Gong:** Bye.
 
 **Marcel Santilli:** See you, man.
-
-**Jason Gong:** Good.
 
 **Jason Gong:** I'll grab time.
 

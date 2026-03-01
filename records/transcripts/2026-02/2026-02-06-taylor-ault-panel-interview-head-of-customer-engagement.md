@@ -4,25 +4,40 @@
 date: 2026-02-06
 time: 16:45 UTC
 duration: 64 minutes
-organizer: marcel@growthxlabs.com
-participants: Taylor Ault, Marcel, Bridget McGillivray, Ella Dillon
+organizer: Marcel
+organizer_email: marcel@growthxlabs.com
+participants:
+  - name: Taylor Ault
+    role: Candidate (Head of Customer Engagement)
+    company: Wunderkind (current), Saros (former)
+  - name: Marcel
+    role: GrowthX Founder
+    company: GrowthX
+  - name: Bridget McGillivray
+    role: GrowthX Team Lead
+    company: GrowthX
+  - name: Ella Dillon
+    role: GrowthX Team Lead
+    company: GrowthX
 fireflies_id: 01KG3C052RE6D71WZM8WW7HZB7
 transcript_url: https://app.fireflies.ai/view/01KG3C052RE6D71WZM8WW7HZB7
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Panel interview with Taylor Ault for the Head of Customer Engagement role. Taylor presented a structured analysis of GrowthX's six company priorities, identified onboarding and conversion optimization as the highest-leverage focus, and shared her experience building scalable customer success processes at Saros and Wunderkind. The conversation covered success metrics alignment, client education programs, internal change management, and GrowthX's AI-driven product vision including Output AI.
+Taylor Ault interviewed for GrowthX's Head of Customer Engagement role, identifying onboarding and conversion optimization as the highest-leverage priority to improve pilot conversion rates (currently 33–73%) and reduce costs of scaling with rising ACV. Drawing on experience at Saros standardizing success plans and at Wunderkind transitioning from agent-led to SaaS models, Taylor proposed a 90-day plan to validate drop-off patterns by customer segment, establish customer readiness criteria, and pilot onboarding process changes before broad rollout.
 
 ---
 
 ## Context
 
-Taylor Ault brings 10 years of customer success experience, having transitioned from academia to SaaS. She led customer success teams at Saros and Wunderkind, focusing on transitioning models from agent efficiency to SaaS, forecasting, risk management, and scalability. This interview evaluated her strategic thinking, ability to diagnose business problems, and alignment with GrowthX's operational challenges.
+Taylor Ault brings 10 years of customer success experience, transitioning from academic roles to B2B SaaS. At Saros, she led customer success teams and restructured onboarding by introducing standardized success plans with clear ownership, timelines, and visible goals—moving away from usage-based metrics to persona-driven education. At Wunderkind, she is building scalable CS processes while the company transitions from an agent-led delivery model to SaaS-powered services, mirroring GrowthX's own platform vision.
 
-GrowthX is experiencing growing pains as it scales — pilot conversion rates have fluctuated between 33% and 73% over the past 18 months, onboarding mistakes are becoming costlier as ACV rises, and early retention risks are emerging. The Head of Customer Engagement role is critical to building repeatable, scalable onboarding and success processes.
+GrowthX is at an inflection point: pilot conversion rates have ranged 33–73% from Q2 2024 to Q4 2025, creating unpredictability at scale. Rising average contract value (ACV) makes onboarding mistakes increasingly expensive, and early churn signals are emerging. Marcel emphasizes that the company's competitive advantage lies in delivered value and brand authority—not in tooling—and that clients judge success by tangible outcomes (e.g., content library built, visibility roadmap executed) paired with visible leading indicators (indexed pages, traffic lift, AI agent training signals). The Head of Customer Engagement role is critical to operationalizing GrowthX's delivery at scale while preserving the strategic advantage that comes from expert-led service delivery combined with platform leverage.
 
 ---
 
@@ -48,77 +63,120 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 ---
 
+## Decisions & Commitments
+
+**Taylor's 90-Day Plan**
+- Validate onboarding conversion drop-off points by analyzing client data (weekly milestones, week 3 vs. week 7 patterns)
+- Identify customer segments converting consistently vs. those that don't (industry, company profile, decision-maker level)
+- Define customer readiness criteria (right stakeholders, workflows, data integrations) needed for pilot success
+- Run small-group onboarding pilot before broad rollout
+- Establish observable, agreed-upon conversion milestones visible to both internal teams and clients
+
+**Marcel & Bridget's Support**
+- Facilitate access to customer data and lead discussions on client segments and readiness phases
+- Prepare internal education and change management materials for team alignment on outcome definitions
+
+**Key Principle**
+- Validate assumptions with data and team interviews before scaling processes
+- Prefer iterating fast on small cohorts (learning at 30 days instead of 60) over broad rollouts that waste customer time
+
+---
+
+## Open Questions
+
+- What does the long-term platform-powered services model look like? How much control should clients have vs. what should GrowthX continue to operate?
+- What specific integrations and feasibility tests does the platform need to pass before client testing?
+- How do we balance educating clients on realistic, incremental goal-setting (e.g., +20% visibility) while preserving brand authority and long-term trust?
+- How do we structure internal risk signals separately from client-facing success metrics to avoid false alarms?
+
+---
+
 ## Overview
 
-- Taylor prioritized onboarding and conversion rates as the highest-impact focus area among six company priorities
+- Taylor prioritized onboarding and conversion rates as the highest-impact focus area among six company priorities (vs. product maturity, margin improvement, net-new sales, retention outcomes, or scalable processes)
 - Data shows pilot conversion rates fluctuated 33-73% from Q2 2024 to Q4 2025 — success is possible but inconsistent
 - Higher ACV makes onboarding mistakes costlier; early churn signals emerging with scale
-- At Saros, Taylor introduced standardized success plans with ownership, timelines, and visible goals
-- Key insight: usage volume doesn't correlate with conversion — persona profile and structured education do
-- Recommended validating assumptions with data before rolling out changes
-- Education program design: customer interviews, multiple tracks by persona, milestone-based learning
-- Client expectations management: transparency on goals, withhold internal risk signals
-- Board Room discussion on controllable inputs, leading vs. lagging KPIs, brand authority effects
-- GrowthX's AI vision: Output AI as open-source framework, content as language interface to AI
-- Market sizing: 25,000+ mid-market/enterprise customers paying $40K+ with limited automation; $3-4B ARR opportunity
+- At Saros, Taylor introduced standardized success plans with ownership, timelines, and visible goals—shifting focus from usage volume to persona and education
+- Key insight: usage volume doesn't correlate with conversion; persona profile (director vs. manager) and structured, milestone-based education do
+- Recommended validating assumptions with data before rolling out changes; iterating on small cohorts faster than rolling out broadly
+- Education program design: customer interviews to identify personas and learning tracks, multiple delivery methods (live + async), community learning component
+- Client expectations management: transparent goal-setting on realistic incremental improvements; internal risk signals managed separately
+- Controllable inputs framework: leadership should focus on observable leading indicators (indexed pages, traffic, agent outputs) rather than lagging outcomes (conversion, revenue)
+- GrowthX's AI vision: Output AI as open-source framework, content as language interface to AI, foundational to martech and agency disruption
+- Market sizing: 25,000+ mid-market/enterprise customers (comparable to tools like Semrush) paying $40K+ with limited automation; $3-4B ARR obtainable market
 
 ---
 
 ## Key Topics
 
-### Onboarding and Conversion Optimization
-- Pilot conversion rates ranged 33-73% over 18 months — inconsistent and getting costlier with rising ACV
-- Taylor's approach: validate assumptions with data, identify drop-off points by week, segment by industry/profile
-- Customer readiness assessment: right people, workflows, and data integrations in place before pilots
-- At Saros, conversion improved when decision-makers (directors vs. managers) were involved
-- Structured, milestone-based education by persona was more effective than broad training
+### Onboarding and Conversion Optimization (Primary Focus)
+- Pilot conversion rates ranged 33-73% over Q2 2024 to Q4 2025 — inconsistent and costlier with rising ACV
+- Root cause analysis: at Saros, Taylor initially assumed usage volume (seats, hours) correlated with conversion; data showed no correlation
+- Actual driver: persona profile (director-level decision-maker vs. manager) combined with structured, milestone-based education
+- Taylor's validation framework: identify weekly drop-off patterns, segment by industry/customer profile, assess readiness criteria (stakeholders, workflows, integrations)
+- Key mistake learned: rolling out broadly too early instead of piloting on small cohorts; could have learned in 30 days instead of 60
 
 ### Success Metrics and Client Alignment
-- Standardized success plans with clear ownership and timelines improved alignment at Saros
-- Misaligned expectations between sales and delivery teams created friction
-- Taylor recommends honest discussions to reset expectations and build realistic roadmaps
-- Internal risk signals should be managed separately from client-facing success metrics
-- Early, clear conversations about realistic expectations prevent misalignment
+- At Saros: success plans were vague, unwritten, or unvisible—teams at day 60 couldn't articulate decision criteria
+- Solution: standardized, written success plans with ownership, timelines, visible goals visible to client
+- Misaligned expectations between sales and delivery teams created friction; sales promised outcomes delivery couldn't deliver
+- Marcel's framing: distinguish controllable inputs (leading indicators: indexed pages, traffic, agent outputs, brand authority) from outcomes (lagging indicators: conversion, revenue)
+- Setting realistic baselines: explain to new brands that authority and brand awareness directly proportional to impact; new sites require more aggression and patience than established brands
 
 ### Client Education Program Design
-- Customer interviews to identify education topics and milestones by persona
-- Multiple delivery methods: live sessions, async content, community learning
-- Milestone-based learning objectives to drive confidence and platform buy-in
-- This approach increased client engagement and accelerated value realization
+- Persona-based education tracks (e.g., creative directors didn't need basic platform education, marketing teams did)
+- Customer interviews (with successful converted clients) to identify pivotal topics and learning milestones
+- Multiple delivery methods: live group sessions (community learning component valued), async content, weekly 1:1 check-ins with team
+- Milestone-based curriculum: identify critical knowledge checkpoints where confidence accelerates platform adoption
+- Outcome: clients more willing to engage when learning from peers; increased adoption and faster value realization
 
-### Platform-Powered Services Vision
-- Currently limited by product readiness — internally used but not client-tested
-- Long-term: hybrid model balancing managed services with client self-service
-- Client empowerment will be gradual — expose capabilities clients want to operate
-- Market: hundreds of millions of knowledge workers needing AI-native tools
-- Comparable tools serve 25,000+ customers at $40K+/year with limited automation
+### Stakeholder Management and Expectations Calibration
+- Economic buyers (C-suite) often set expectations in sales conversations; implementation teams weren't part of level-setting and have different expectations
+- Taylor's approach: re-educate, realign, and be honest about what's realistic
+- Balance: don't over-promise to build short-term trust; align on realistic incremental paths (e.g., landing page indexing → traffic lift → conversion improvement)
+- Marcel emphasizes: brand authority effects are hard to explain but critical; explain via "controllable inputs framework" (focus on what you can do, measure leading indicators, let lagging outcomes follow)
+- Transparency with clients on goals; withhold internal risk signals to avoid false alarms
 
-### Taylor's 90-Day Plan
-- Align internal teams on outcome definitions and customer readiness criteria
-- Establish observable conversion milestones agreed upon with clients
-- Pilot and iterate before broad implementation
-- Increase efficiency, improve early conversion signals, ladder into long-term retention
+### Platform-Powered Services Vision & Long-Term Model
+- Current state: GrowthX platform built internally, not yet client-tested; product readiness is a blocker for platform-powered services as a near-term priority
+- Long-term vision: hybrid model where clients operate some capabilities (e.g., AI-native doc experience) while GrowthX retains strategic work (core methodology, expertise)
+- Client control: gradual, contextual—expose capabilities clients actually want to operate; many won't take self-service even if offered (e.g., most clients won't build content library themselves even if they can)
+- Market opportunity: 25,000+ mid-market/enterprise customers (Semrush scale) paying $40K+/year with limited automation = $3-4B ARR obtainable market
+- Framework: Output AI as open-source runtime for AI workflows with structured language (code-like) interfaces
+- Competitive positioning: content and AI are inseparable; if you solve for knowledge workers retraining on AI and language as the interface, you solve for martech, agencies, and beyond
+
+### Controllable Inputs, Leading Indicators, and Brand Authority
+- Few companies operate by controllable inputs → outputs → outcomes; most focus on lagging outcomes (revenue, conversion)
+- Leading indicators: indexed pages, search impressions, traffic, agent execution metrics, client engagement, authority signals
+- Lagging indicators: conversion, revenue, retention
+- Brand authority multiplier: established brands see results faster with less effort; new brands need more volume, more testing, more patience
+- Explaining this to clients is advanced stakeholder management requiring deep domain expertise (Marcel: took 15 years to learn how to convince difficult founders)
+- Key insight: show clients not just outputs but the work and leverage behind them—"we ran 10M tokens of agents for 2 hours of execution; this is hard to replicate; here's why this builds leverage"
 
 ---
 
 ## Action Items
 
-**Taylor Ault**
-- Validate onboarding conversion drop-off points by analyzing client data and conducting team interviews
-- Identify client segments that convert consistently vs. those that don't
-- Assess customer readiness criteria for pilots (stakeholders, workflows, data integration)
-- Pilot onboarding process changes on small group, measure impact, iterate
-- Develop standardized success metrics and visible conversion milestones
+**Taylor Ault (Candidate)**
+- Analyze pilot conversion data to identify drop-off points by week (week 3 vs. 7) and customer segment
+- Identify patterns in client segments that convert consistently vs. those that don't
+- Define customer readiness criteria (stakeholders, workflows, integrations) required for pilot success
+- Design and pilot onboarding process changes on small cohort; measure and iterate
+- Develop standardized, visible success plans with ownership and timelines
+- Build persona-based education curriculum based on customer interviews with converted clients
 
-**Marcel**
-- Support data sharing and leadership discussions for Taylor's assumption validation
-- Facilitate discussions on client segments and readiness for pilot phases
+**Marcel (Founder, GrowthX)**
+- Provide data access and facilitate leadership discussions for assumption validation
+- Support discussions on client segmentation and readiness criteria for pilot phases
+- Document controllable inputs framework for internal alignment on leading indicators vs. outcomes
 
-**Bridget McGillivray**
-- Assist Taylor in understanding internal education gaps and prepare tools/training for change management
+**Bridget McGillivray (GrowthX Team)**
+- Support Taylor in understanding internal education gaps and gaps between sales and delivery alignment
+- Prepare change management materials and tools for team education on new onboarding processes
 
-**Ella Dillon**
-- Coordinate with Taylor on platform readiness and customer feedback integration
+**Ella Dillon (GrowthX Team)**
+- Coordinate with Taylor on platform readiness assessment and timelines for client testing
+- Gather customer feedback on platform experience and integration requirements
 
 ---
 
@@ -128,51 +186,51 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Good morning.
 
-**Board Room:** Afternoon.
+**Marcel:** Afternoon.
 
-**Board Room:** Are we afternoon yet?
+**Marcel:** Are we afternoon yet?
 
-**Board Room:** We're almost afternoon.
+**Marcel:** We're almost afternoon.
 
 **Taylor Ault:** Almost.
 
-**Board Room:** Yeah.
+**Marcel:** Yeah.
 
-**Board Room:** We like 15 more minutes, right?
+**Marcel:** We like 15 more minutes, right?
 
 **Taylor Ault:** I know.
 
 **Taylor Ault:** Well, happy early morning to you.
 
-**Board Room:** Thank you.
+**Marcel:** Thank you.
 
-**Board Room:** Yeah, I'm down visiting in San Francisco and I have not yet.
+**Marcel:** Yeah, I'm down visiting in San Francisco and I have not yet.
 
-**Board Room:** I'm leaving today.
+**Marcel:** I'm leaving today.
 
-**Board Room:** I've been here for a week, but the super bowl is like, you know, all the festivities are like five blocks away.
+**Marcel:** I've been here for a week, but the super bowl is like, you know, all the festivities are like five blocks away.
 
-**Board Room:** So it's like, why am I in a city?
+**Marcel:** So it's like, why am I in a city?
 
-**Board Room:** And it's taking me 20 minutes to get an Uber.
+**Marcel:** And it's taking me 20 minutes to get an Uber.
 
 **Taylor Ault:** I'm like, well, and you head home to Seattle, right?
 
-**Board Room:** Yes.
+**Marcel:** Yes.
 
 **Taylor Ault:** So another super bowl ready city in.
 
-**Board Room:** Yes, yes, yes.
+**Marcel:** Yes, yes, yes.
 
-**Board Room:** But this role won't be there, so hopefully that'll be okay.
+**Marcel:** But this role won't be there, so hopefully that'll be okay.
 
 **Taylor Ault:** You'll just need to not head down streets that have lots of bars and.
 
-**Board Room:** Yeah, yeah.
+**Marcel:** Yeah, yeah.
 
-**Board Room:** I think I'll actually be grateful to nest.
+**Marcel:** I think I'll actually be grateful to nest.
 
-**Board Room:** How are you doing?
+**Marcel:** How are you doing?
 
 **Taylor Ault:** Good.
 
@@ -182,13 +240,13 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** So very much looking forward to Sunday not being in the traffic but being able to watch it.
 
-**Board Room:** Yes.
+**Marcel:** Yes.
 
 **Taylor Ault:** Yes.
 
-**Board Room:** All right.
+**Marcel:** All right.
 
-**Board Room:** Are you rooting for the correct team?
+**Marcel:** Are you rooting for the correct team?
 
 **Taylor Ault:** If the Patriots are the correct team, yes.
 
@@ -196,7 +254,7 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Might be painful.
 
-**Board Room:** Bridget, we're already in a fight.
+**Marcel:** Bridget, we're already in a fight.
 
 **Taylor Ault:** That's right.
 
@@ -220,19 +278,19 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Nice to meet you.
 
-**Board Room:** Yeah, you too.
+**Marcel:** Yeah, you too.
 
-**Board Room:** How are you?
+**Marcel:** How are you?
 
 **Taylor Ault:** Great, thanks.
 
-**Board Room:** I lost my notebook in the office and I found it, so I'm going to put some stuff stickers in them.
+**Marcel:** I lost my notebook in the office and I found it, so I'm going to put some stuff stickers in them.
 
-**Board Room:** They all look the same.
+**Marcel:** They all look the same.
 
 **Taylor Ault:** You know, personalization key.
 
-**Board Room:** I just need to visually know which one is mine.
+**Marcel:** I just need to visually know which one is mine.
 
 **Taylor Ault:** Taylor, do you want to do start with an intro of yourself for Marcel, a little bit about your background since Elle and I have met you?
 
@@ -266,9 +324,9 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** About the role.
 
-**Board Room:** Yeah, tons of parallels.
+**Marcel:** Yeah, tons of parallels.
 
-**Board Room:** So excited to hear me prepare and dig in.
+**Marcel:** So excited to hear me prepare and dig in.
 
 **Taylor Ault:** Sure.
 
@@ -276,9 +334,9 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** How would you like me to.
 
-**Board Room:** Yeah, why don't you feel free to jump right in and then we can kind of have a Q and A as we go.
+**Marcel:** Yeah, why don't you feel free to jump right in and then we can kind of have a Q and A as we go.
 
-**Board Room:** If that works for you.
+**Marcel:** If that works for you.
 
 **Taylor Ault:** That's great.
 
@@ -288,9 +346,9 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Can you guys see my screen?
 
-**Board Room:** We can.
+**Marcel:** We can.
 
-**Board Room:** It's not in slideshow yet, but we can see it.
+**Marcel:** It's not in slideshow yet, but we can see it.
 
 **Taylor Ault:** Let's see.
 
@@ -302,11 +360,11 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Sorry, I'm wondering if there's some sharing permissions.
 
-**Board Room:** Sort of like the past seat box situation.
+**Marcel:** Sort of like the past seat box situation.
 
-**Board Room:** There's zoom versus teams versus whatever.
+**Marcel:** There's zoom versus teams versus whatever.
 
-**Board Room:** What do you all use?
+**Marcel:** What do you all use?
 
 **Taylor Ault:** We use Google Meet, but let me.
 
@@ -316,7 +374,7 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Okay, you can see my screen now we can see if we can make the transition into slideshow mode.
 
-**Board Room:** There it is.
+**Marcel:** There it is.
 
 **Taylor Ault:** Great.
 
@@ -386,15 +444,15 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Are there any questions on this?
 
-**Board Room:** Yeah, I think yeah, that's kind of how we talk about it a lot too.
+**Marcel:** Yeah, I think yeah, that's kind of how we talk about it a lot too.
 
-**Board Room:** It's like now that that's the only one, we didn't have the luxury to only focus on that.
+**Marcel:** It's like now that that's the only one, we didn't have the luxury to only focus on that.
 
-**Board Room:** But that's definitely where I think we put a lot of effort and seeing some, some awesome improvements so far.
+**Marcel:** But that's definitely where I think we put a lot of effort and seeing some, some awesome improvements so far.
 
-**Board Room:** But there's Still a lot of room for continue to think through.
+**Marcel:** But there's Still a lot of room for continue to think through.
 
-**Board Room:** So that's great.
+**Marcel:** So that's great.
 
 **Taylor Ault:** I'm very curious, like in your current company, because it's so similar, the motion of like moving into a platform, what is the, do these overlap with your current company as well?
 
@@ -484,23 +542,23 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Any questions here?
 
-**Board Room:** Yeah, agree.
+**Marcel:** Yeah, agree.
 
-**Board Room:** Agree.
+**Marcel:** Agree.
 
 **Taylor Ault:** Well, that's good.
 
-**Board Room:** How have you seen what.
+**Marcel:** How have you seen what.
 
-**Board Room:** Remind me for.
+**Marcel:** Remind me for.
 
-**Board Room:** So for wonderkind, you're not focusing on this, on a lever you're pulling right now.
+**Marcel:** So for wonderkind, you're not focusing on this, on a lever you're pulling right now.
 
-**Board Room:** But talk to me about any tweaks, any observations you made there and what.
+**Marcel:** But talk to me about any tweaks, any observations you made there and what.
 
 **Taylor Ault:** Tweaks you made at Wunderkind or in.
 
-**Board Room:** My experience, wherever that's most relevant for the role you were in.
+**Marcel:** My experience, wherever that's most relevant for the role you were in.
 
 **Taylor Ault:** Sure.
 
@@ -510,7 +568,7 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Tweaks that I made to the onboarding.
 
-**Board Room:** Yes, Specifically.
+**Marcel:** Yes, Specifically.
 
 **Taylor Ault:** Yes.
 
@@ -568,9 +626,9 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** It made them more bought in, in these conversations.
 
-**Board Room:** Correct.
+**Marcel:** Correct.
 
-**Board Room:** I'm sorry if I took you from your flow at the presentation.
+**Marcel:** I'm sorry if I took you from your flow at the presentation.
 
 **Taylor Ault:** Oh no, no, no.
 
@@ -638,23 +696,23 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** And so making sure that we have, you know, in this particular case, I'm not exactly sure, but the right data flows, the right integrations the right team on the call, you know, and sometimes when that's unclear and we're not clear about who needs to be bought in and what we need to have for success and clients aren't ready that can stall and create a lot of stall conversions and cause clients not to convert.
 
-**Board Room:** Was there anything in a.
+**Marcel:** Was there anything in a.
 
-**Board Room:** In your.
+**Marcel:** In your.
 
-**Board Room:** At steros or anywhere else where related to onboarding, specifically where you and or the team approach it one way?
+**Marcel:** At steros or anywhere else where related to onboarding, specifically where you and or the team approach it one way?
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** Like here you're identifying likely root causes.
+**Marcel:** Like here you're identifying likely root causes.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** And you approach it one way and then, you know, months in that learning evolved to cause you to, you know, change things in either a big way or even if it was like a subtle but important impactful way where in other words, to ask it in a less convoluted way.
+**Marcel:** And you approach it one way and then, you know, months in that learning evolved to cause you to, you know, change things in either a big way or even if it was like a subtle but important impactful way where in other words, to ask it in a less convoluted way.
 
-**Board Room:** In hindsight, was there anything that you had high confidence in that later on you did it differently?
+**Marcel:** In hindsight, was there anything that you had high confidence in that later on you did it differently?
 
-**Board Room:** So that in hindsight you would have done it differently to begin with if you had all that information?
+**Marcel:** So that in hindsight you would have done it differently to begin with if you had all that information?
 
 **Taylor Ault:** Yes.
 
@@ -696,9 +754,9 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** And when you're scaling quickly, that's a big opportunity cost, as we've mentioned.
 
-**Board Room:** So that's perfect.
+**Marcel:** So that's perfect.
 
-**Board Room:** Well, thank you for that.
+**Marcel:** Well, thank you for that.
 
 **Taylor Ault:** Yeah, yeah.
 
@@ -732,21 +790,21 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** The right person on the line, the right workflow set up internally, the right data sources connected, what can make from a readiness standpoint, the motion predictable and can we see that easily?
 
-**Board Room:** Yeah, I like this mental model.
+**Marcel:** Yeah, I like this mental model.
 
-**Board Room:** One thing, were there times before where it was clear, like what the goals and the ownership, everything that was in place, but then your teams felt like the customers need or expectations for their goals were out of reality or not as feasible.
+**Marcel:** One thing, were there times before where it was clear, like what the goals and the ownership, everything that was in place, but then your teams felt like the customers need or expectations for their goals were out of reality or not as feasible.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** AKA you were marketing.
+**Marcel:** AKA you were marketing.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** Like if they're like, hey, we're gonna spin up all these landing pages and our conversion is going to go from 5% to 50% or something, you know, or like.
+**Marcel:** Like if they're like, hey, we're gonna spin up all these landing pages and our conversion is going to go from 5% to 50% or something, you know, or like.
 
-**Board Room:** And how did you, how would you approach that?
+**Marcel:** And how did you, how would you approach that?
 
-**Board Room:** Or how have you approached that?
+**Marcel:** Or how have you approached that?
 
 **Taylor Ault:** Sure, it happens all the time.
 
@@ -778,43 +836,43 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** So not over promising really understanding the client and the value that they're trying to get and then aligning on the expectations of the path to get there over a longer period of time to achieve other metrics together to that would.
 
-**Board Room:** Kind of be my process that makes sense.
+**Marcel:** Kind of be my process that makes sense.
 
-**Board Room:** One thing I personally notice is that and this is working for a lot of delusional CEOs who are also very successful.
+**Marcel:** One thing I personally notice is that and this is working for a lot of delusional CEOs who are also very successful.
 
-**Board Room:** And it is that often people don't think of goals in a vacuum as opposed to increments on a baseline or opportunity costs.
+**Marcel:** And it is that often people don't think of goals in a vacuum as opposed to increments on a baseline or opportunity costs.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** Like if you want to grow, there's only so many levers you can pull.
+**Marcel:** Like if you want to grow, there's only so many levers you can pull.
 
-**Board Room:** And it's not a.
+**Marcel:** And it's not a.
 
-**Board Room:** This is my goal.
+**Marcel:** This is my goal.
 
-**Board Room:** I need you to achieve this ROI within this goal.
+**Marcel:** I need you to achieve this ROI within this goal.
 
-**Board Room:** But rather you have like five doors.
+**Marcel:** But rather you have like five doors.
 
-**Board Room:** Pick your door and how many doors you want to go in, right?
+**Marcel:** Pick your door and how many doors you want to go in, right?
 
-**Board Room:** You have like 10 chips.
+**Marcel:** You have like 10 chips.
 
-**Board Room:** Pick where you want to put those chips.
+**Marcel:** Pick where you want to put those chips.
 
-**Board Room:** And, and so at the end of the day, your best bet as a CEO or someone that's leading investments to pick, you know, put as many chips in the highest leverage bucket or door that you have until that has diminishing returns and then pick the next one and the next one, the next one, you know.
+**Marcel:** And, and so at the end of the day, your best bet as a CEO or someone that's leading investments to pick, you know, put as many chips in the highest leverage bucket or door that you have until that has diminishing returns and then pick the next one and the next one, the next one, you know.
 
-**Board Room:** But that's when you remove that context from the conversation and it's like we need to three access here.
+**Marcel:** But that's when you remove that context from the conversation and it's like we need to three access here.
 
-**Board Room:** Like, how are you going to get us there?
+**Marcel:** Like, how are you going to get us there?
 
-**Board Room:** Right?
+**Marcel:** Right?
 
-**Board Room:** And sometimes baseline as well as understanding like the opportunity cost helps.
+**Marcel:** And sometimes baseline as well as understanding like the opportunity cost helps.
 
-**Board Room:** Like how, how have you thought about like establishing baselines in like it's part goal and part data there a little bit.
+**Marcel:** Like how, how have you thought about like establishing baselines in like it's part goal and part data there a little bit.
 
-**Board Room:** You know, especially for things that sometimes can be hard because they might not have the baseline out the gate, AKA they might not even be measuring conversions, for example, you know.
+**Marcel:** You know, especially for things that sometimes can be hard because they might not have the baseline out the gate, AKA they might not even be measuring conversions, for example, you know.
 
 **Taylor Ault:** How have you guys found.
 
@@ -822,9 +880,9 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** I don't want to distract from.
 
-**Board Room:** No, no, it's okay.
+**Marcel:** No, no, it's okay.
 
-**Board Room:** I actually, I love that you're asking a question first.
+**Marcel:** I actually, I love that you're asking a question first.
 
 **Taylor Ault:** Well, how have you found to your point?
 
@@ -834,111 +892,111 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** I don't know if they look to you for industry standards or benchmarks based on, you know, their industry, but how have you guys found those level setting conversations and kind of where do you find that tension in those initial concrete success metric setting conversations?
 
-**Board Room:** Yeah, to me there's a few things.
+**Marcel:** Yeah, to me there's a few things.
 
-**Board Room:** One, very few people truly operate the business by focusing on controllable inputs that drive the right outputs that impact the right outcomes.
+**Marcel:** One, very few people truly operate the business by focusing on controllable inputs that drive the right outputs that impact the right outcomes.
 
-**Board Room:** And so because of that they don't have that mentality.
+**Marcel:** And so because of that they don't have that mentality.
 
-**Board Room:** So educating on that mentality, to your point earlier, on education and understanding that all you can do is learn and iterate as fast as possible and get as many outputs out in the right way and learn which outputs and what kind of work that drives the right outputs have the greatest impact or the highest likelihood to have a good impact on the outcomes you care about.
+**Marcel:** So educating on that mentality, to your point earlier, on education and understanding that all you can do is learn and iterate as fast as possible and get as many outputs out in the right way and learn which outputs and what kind of work that drives the right outputs have the greatest impact or the highest likelihood to have a good impact on the outcomes you care about.
 
-**Board Room:** Right?
+**Marcel:** Right?
 
-**Board Room:** And knowing that outcomes in of themselves, there's leading and lagging outcomes, conversion is the most lagging of them or revenue is the most lagging of them.
+**Marcel:** And knowing that outcomes in of themselves, there's leading and lagging outcomes, conversion is the most lagging of them or revenue is the most lagging of them.
 
-**Board Room:** And then there's leading ones around like, you know, is this page getting indexed?
+**Marcel:** And then there's leading ones around like, you know, is this page getting indexed?
 
-**Board Room:** Is it getting clicks?
+**Marcel:** Is it getting clicks?
 
-**Board Room:** Is it, you know, getting impressions?
+**Marcel:** Is it, you know, getting impressions?
 
-**Board Room:** Like there's other things that are more, more, more laggy or more leading, I should say.
+**Marcel:** Like there's other things that are more, more, more laggy or more leading, I should say.
 
-**Board Room:** And so, but then the issue often is they might not even be measuring conversions on any other channels, you know, and, and then attribution is pretty difficult overall in general.
+**Marcel:** And so, but then the issue often is they might not even be measuring conversions on any other channels, you know, and, and then attribution is pretty difficult overall in general.
 
-**Board Room:** That's just a general statement.
+**Marcel:** That's just a general statement.
 
-**Board Room:** Right?
+**Marcel:** Right?
 
-**Board Room:** And, and so often it's, and then the last thing actually I'll say is that like your ability to impact those results is directly proportional to your authority as a company, both in your domain itself, but also like your brand.
+**Marcel:** And, and so often it's, and then the last thing actually I'll say is that like your ability to impact those results is directly proportional to your authority as a company, both in your domain itself, but also like your brand.
 
-**Board Room:** Like how like lovable.
+**Marcel:** Like how like lovable.
 
-**Board Room:** Everything we do just goes up to the right.
+**Marcel:** Everything we do just goes up to the right.
 
-**Board Room:** The second we do it is amazing.
+**Marcel:** The second we do it is amazing.
 
-**Board Room:** It's lovely, right?
+**Marcel:** It's lovely, right?
 
-**Board Room:** Like, but then like, then a brand new site, you just have to like grind and do a lot more and get way more aggressive and learn way faster and try a lot of new things, you know.
+**Marcel:** Like, but then like, then a brand new site, you just have to like grind and do a lot more and get way more aggressive and learn way faster and try a lot of new things, you know.
 
-**Board Room:** And so trying to explain that to customers early on, that's like, okay, Mrs. Co, you literally just launched your site and you have three pages on your site.
+**Marcel:** And so trying to explain that to customers early on, that's like, okay, Mrs. Co, you literally just launched your site and you have three pages on your site.
 
-**Board Room:** You should not expect the same results as lovable.
+**Marcel:** You should not expect the same results as lovable.
 
-**Board Room:** So your ability to put more bats down is directionally proportional to your authority and your overall awareness in the market.
+**Marcel:** So your ability to put more bats down is directionally proportional to your authority and your overall awareness in the market.
 
-**Board Room:** So that's why it's kind of difficult to have those conversations.
+**Marcel:** So that's why it's kind of difficult to have those conversations.
 
-**Board Room:** And it requires a certain level of education that comes with a bit of more authority versus a. Yeah, we can two x, you know, or not, you know.
+**Marcel:** And it requires a certain level of education that comes with a bit of more authority versus a. Yeah, we can two x, you know, or not, you know.
 
-**Board Room:** Yeah.
+**Marcel:** Yeah.
 
-**Board Room:** Go ahead, go ahead.
+**Marcel:** Go ahead, go ahead.
 
 **Taylor Ault:** So you guys are, oh, sorry, Ella.
 
-**Board Room:** You, you.
+**Marcel:** You, you.
 
 **Taylor Ault:** You guys are seeing then repeatable patterns in kind of the customer profile of who does really well immediately and who might need to have more patience and kind of a more scaled impact.
 
 **Taylor Ault:** Is that what I'm hearing or.
 
-**Board Room:** Yes and no.
+**Marcel:** Yes and no.
 
-**Board Room:** It's like, personally I, I feel like in a lot of hypothesis where I felt strongly sometimes there will be a few that are like, clearly it doesn't match everything else about this company match that other company.
+**Marcel:** It's like, personally I, I feel like in a lot of hypothesis where I felt strongly sometimes there will be a few that are like, clearly it doesn't match everything else about this company match that other company.
 
-**Board Room:** Like, like there are companies that have been very successful with us that had like no website almost, right.
+**Marcel:** Like, like there are companies that have been very successful with us that had like no website almost, right.
 
-**Board Room:** And they're very successful and happy.
+**Marcel:** And they're very successful and happy.
 
-**Board Room:** And then there's others that are extremely unsuccessful, you know.
+**Marcel:** And then there's others that are extremely unsuccessful, you know.
 
-**Board Room:** And so honestly, like, if I were to like put a pin on it, it's like the CEO profile and the ability to influence the CEO profile and the ability to that CEO to be patient.
+**Marcel:** And so honestly, like, if I were to like put a pin on it, it's like the CEO profile and the ability to influence the CEO profile and the ability to that CEO to be patient.
 
-**Board Room:** And then outside of that, I think there's also a lot of things that are just like consistent execution, you know.
+**Marcel:** And then outside of that, I think there's also a lot of things that are just like consistent execution, you know.
 
-**Board Room:** Well, that's, that is where I want to double click because I, I, I just thought you were so spot on when you're talking about before.
+**Marcel:** Well, that's, that is where I want to double click because I, I, I just thought you were so spot on when you're talking about before.
 
-**Board Room:** You noticed two things.
+**Marcel:** You noticed two things.
 
-**Board Room:** One is the profile of the person in there.
+**Marcel:** One is the profile of the person in there.
 
-**Board Room:** It was a director level.
+**Marcel:** It was a director level.
 
-**Board Room:** And then secondly, you said education.
+**Marcel:** And then secondly, you said education.
 
-**Board Room:** And I wanted you to unpack that a little bit for us about.
+**Marcel:** And I wanted you to unpack that a little bit for us about.
 
-**Board Room:** Because we were just talking about this last night of what does our team need to do, especially when we have a platform of overlay this expertise, like you just let, you know, crap in, crap out.
+**Marcel:** Because we were just talking about this last night of what does our team need to do, especially when we have a platform of overlay this expertise, like you just let, you know, crap in, crap out.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** So just let people on a platform, you know, they might not love the results.
+**Marcel:** So just let people on a platform, you know, they might not love the results.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** So we're talking about what needs to be true about our team to educate our customers as authorities.
+**Marcel:** So we're talking about what needs to be true about our team to educate our customers as authorities.
 
-**Board Room:** But you're also getting mind share.
+**Marcel:** But you're also getting mind share.
 
-**Board Room:** You're also.
+**Marcel:** You're also.
 
-**Board Room:** There's transformation, change management of customer buy in the ability to get them to want to consume the learning.
+**Marcel:** There's transformation, change management of customer buy in the ability to get them to want to consume the learning.
 
-**Board Room:** Can you walk us through how you did that?
+**Marcel:** Can you walk us through how you did that?
 
-**Board Room:** Like, how did you actually structure that program, that programmatic learning to get the right person there to go along for the ride?
+**Marcel:** Like, how did you actually structure that program, that programmatic learning to get the right person there to go along for the ride?
 
 **Taylor Ault:** Yeah, so we evaluated, you know, in the.
 
@@ -996,7 +1054,7 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** And then how are we changing the delivery models to make sure that we were getting people meeting them where they were?
 
-**Board Room:** I don't want to be mindful of time because it's been great, but I also want to be respectful that you probably have other things you prepared too that you want to share with us.
+**Marcel:** I don't want to be mindful of time because it's been great, but I also want to be respectful that you probably have other things you prepared too that you want to share with us.
 
 **Taylor Ault:** Yeah.
 
@@ -1048,21 +1106,21 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** We're here talking about this because at the end of the day our goal is long term conversion and retention is that laddering in is fixing onboarding, laddering into that.
 
-**Board Room:** And what do you think is the right level of maybe call it transparency of communicating upfront.
+**Marcel:** And what do you think is the right level of maybe call it transparency of communicating upfront.
 
-**Board Room:** This was success criteria.
+**Marcel:** This was success criteria.
 
-**Board Room:** Looks like clients that are successful will X, Y and Z or something.
+**Marcel:** Looks like clients that are successful will X, Y and Z or something.
 
-**Board Room:** Right?
+**Marcel:** Right?
 
-**Board Room:** Communicating to the customer from the beginning versus like that's our internal like mitigate risk playbook kind of thing.
+**Marcel:** Communicating to the customer from the beginning versus like that's our internal like mitigate risk playbook kind of thing.
 
-**Board Room:** You know of like hey, if we don't define goals and we can't do this, then clients normally are not successful.
+**Marcel:** You know of like hey, if we don't define goals and we can't do this, then clients normally are not successful.
 
-**Board Room:** Like how much?
+**Marcel:** Like how much?
 
-**Board Room:** Like what's your take on how much to communicate to them up front?
+**Marcel:** Like what's your take on how much to communicate to them up front?
 
 **Taylor Ault:** Good question.
 
@@ -1086,25 +1144,25 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** And so I think there's risk signals are different than, you know, kind of these aligned sex success metrics.
 
-**Board Room:** And by the way, I know like I can stay over another 15 or so.
+**Marcel:** And by the way, I know like I can stay over another 15 or so.
 
-**Board Room:** Yeah, I realize that.
+**Marcel:** Yeah, I realize that.
 
-**Board Room:** I, I had questions and I realized we need to leave room for you to have questions.
+**Marcel:** I, I had questions and I realized we need to leave room for you to have questions.
 
-**Board Room:** Do you need to.
+**Marcel:** Do you need to.
 
-**Board Room:** Do you need.
+**Marcel:** Do you need.
 
 **Taylor Ault:** Yeah, no, I have, I have a meeting at 12:45, but I have.
 
-**Board Room:** Perfect.
+**Marcel:** Perfect.
 
-**Board Room:** Okay, cool.
+**Marcel:** Okay, cool.
 
 **Taylor Ault:** So.
 
-**Board Room:** So maybe we spend like five minutes wrapping it up so that you can ask us or maybe there.
+**Marcel:** So maybe we spend like five minutes wrapping it up so that you can ask us or maybe there.
 
 **Taylor Ault:** Okay, perfect.
 
@@ -1116,15 +1174,15 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** To be able to.
 
-**Board Room:** No, I want to make sure it.
+**Marcel:** No, I want to make sure it.
 
-**Board Room:** If we have a few minutes before the heart stops, we can do that.
+**Marcel:** If we have a few minutes before the heart stops, we can do that.
 
-**Board Room:** But happy to answer questions as well, especially since we haven't interacted as much yet.
+**Marcel:** But happy to answer questions as well, especially since we haven't interacted as much yet.
 
-**Board Room:** So.
+**Marcel:** So.
 
-**Board Room:** So happy to answer questions for you as well.
+**Marcel:** So happy to answer questions for you as well.
 
 **Taylor Ault:** Yeah, I.
 
@@ -1136,93 +1194,93 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Do you anticipate kind of pushback or resistance from, you know, the growth X internal team from clients with a more standardized kind of approach to success criteria?
 
-**Board Room:** I do not personally.
+**Marcel:** I do not personally.
 
-**Board Room:** Well, for our team, no.
+**Marcel:** Well, for our team, no.
 
-**Board Room:** I think there's a training and a transformation.
+**Marcel:** I think there's a training and a transformation.
 
-**Board Room:** Some folks who are closer to the industry know how to frame it up, know how to ask it and know how to teach customers or pull out from customers what it.
+**Marcel:** Some folks who are closer to the industry know how to frame it up, know how to ask it and know how to teach customers or pull out from customers what it.
 
-**Board Room:** What they had to frame the conversation to get the alignment.
+**Marcel:** What they had to frame the conversation to get the alignment.
 
-**Board Room:** Others might not.
+**Marcel:** Others might not.
 
-**Board Room:** But I think there is receptivity on our internal team and I think for customers.
+**Marcel:** But I think there is receptivity on our internal team and I think for customers.
 
-**Board Room:** My observation, I'd be curious for you, Marcel, is often as you were mentioning, you know, there might be buy in the beginning, but then when the rubber hits the road and people really start to see things, the ball might move.
+**Marcel:** My observation, I'd be curious for you, Marcel, is often as you were mentioning, you know, there might be buy in the beginning, but then when the rubber hits the road and people really start to see things, the ball might move.
 
-**Board Room:** So there's a lot of the.
+**Marcel:** So there's a lot of the.
 
-**Board Room:** You're moving.
+**Marcel:** You're moving.
 
-**Board Room:** The customer might move the cheese on us a little bit and then we have to come back or they might have pressure from their board or other things.
+**Marcel:** The customer might move the cheese on us a little bit and then we have to come back or they might have pressure from their board or other things.
 
-**Board Room:** So then they start coming in like, awesome, great, like the long term strategy.
+**Marcel:** So then they start coming in like, awesome, great, like the long term strategy.
 
-**Board Room:** But what are you going to do for me to get any results like, and lead to conversions like right now, you know, and so having that sort of long term buy into a strategy and take them along for the journey even when they might have some stressors that are coming in where they're like looking for the, like the, you know, bottom funnel conversion.
+**Marcel:** But what are you going to do for me to get any results like, and lead to conversions like right now, you know, and so having that sort of long term buy into a strategy and take them along for the journey even when they might have some stressors that are coming in where they're like looking for the, like the, you know, bottom funnel conversion.
 
-**Board Room:** That, that's sort of a conversation that I think we're trying to tool the team to have better.
+**Marcel:** That, that's sort of a conversation that I think we're trying to tool the team to have better.
 
-**Board Room:** Would you answer it differently?
+**Marcel:** Would you answer it differently?
 
-**Board Room:** I think you touched on the right things.
+**Marcel:** I think you touched on the right things.
 
-**Board Room:** Maybe more of a macro observation is you need to kind of show what success and other customers look like in the zoom out version.
+**Marcel:** Maybe more of a macro observation is you need to kind of show what success and other customers look like in the zoom out version.
 
-**Board Room:** But I used to do this thing where it's like I would zoom in and show them a snapshot of that same customer first in the first three months and it'd be like, would you fire this work or not?
+**Marcel:** But I used to do this thing where it's like I would zoom in and show them a snapshot of that same customer first in the first three months and it'd be like, would you fire this work or not?
 
-**Board Room:** And their answer would be yes.
+**Marcel:** And their answer would be yes.
 
-**Board Room:** And I'd be like, cool.
+**Marcel:** And I'd be like, cool.
 
-**Board Room:** This is their, this is the big picture in 12 months.
+**Marcel:** This is their, this is the big picture in 12 months.
 
-**Board Room:** And they're like, you know, and my thing to them was like every single thing.
+**Marcel:** And they're like, you know, and my thing to them was like every single thing.
 
-**Board Room:** Why like you bought into us because of a lot of the success like I personally have had in the past.
+**Marcel:** Why like you bought into us because of a lot of the success like I personally have had in the past.
 
-**Board Room:** And every single time, if you measure my personal success as CMO building these things in month 6 I would have been fired.
+**Marcel:** And every single time, if you measure my personal success as CMO building these things in month 6 I would have been fired.
 
-**Board Room:** And, and it's, it's true.
+**Marcel:** And, and it's, it's true.
 
-**Board Room:** Like I've never built a compounding growth engine that in month six was full roi.
+**Marcel:** Like I've never built a compounding growth engine that in month six was full roi.
 
-**Board Room:** And it was just like no, this is it, let's stop.
+**Marcel:** And it was just like no, this is it, let's stop.
 
-**Board Room:** This is good, right?
+**Marcel:** This is good, right?
 
-**Board Room:** And, and it's like it takes a while.
+**Marcel:** And, and it's like it takes a while.
 
-**Board Room:** And so then the, the next thing they want to know is like well you want me to just sit around and wait for six months and hope you guys are doing the right thing?
+**Marcel:** And so then the, the next thing they want to know is like well you want me to just sit around and wait for six months and hope you guys are doing the right thing?
 
-**Board Room:** Then it's just more like explaining up front like the phases of like these are the signals to expect phase one, two, three and four before you're in this zone of like grow, maintain and continue to improve.
+**Marcel:** Then it's just more like explaining up front like the phases of like these are the signals to expect phase one, two, three and four before you're in this zone of like grow, maintain and continue to improve.
 
-**Board Room:** So that's one angle.
+**Marcel:** So that's one angle.
 
-**Board Room:** The other angle is that like when, when our people take them through some of the workflows and the work and they show that and they're like we just processed like 10 million tokens and it was like two hours of agents running for this one execution.
+**Marcel:** The other angle is that like when, when our people take them through some of the workflows and the work and they show that and they're like we just processed like 10 million tokens and it was like two hours of agents running for this one execution.
 
-**Board Room:** And you know, like the amount of work and things that power this is really insane.
+**Marcel:** And you know, like the amount of work and things that power this is really insane.
 
-**Board Room:** Like it's really, really, really difficult to replicate that stuff.
+**Marcel:** Like it's really, really, really difficult to replicate that stuff.
 
-**Board Room:** And but then if they don't see that, they see a Google Doc that, that's worth a hundred dollars to them, right?
+**Marcel:** And but then if they don't see that, they see a Google Doc that, that's worth a hundred dollars to them, right?
 
-**Board Room:** Like a Google, the output is worth a hundred dollars if it's Just the output with no context.
+**Marcel:** Like a Google, the output is worth a hundred dollars if it's Just the output with no context.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** The output with the context of all the work we did and how hard it would be to replicate the work and the leverage it's going to build now and in the future is worth a lot more.
+**Marcel:** The output with the context of all the work we did and how hard it would be to replicate the work and the leverage it's going to build now and in the future is worth a lot more.
 
-**Board Room:** But that combined with, and by doing this, we're seeing these signals that lead to those outcomes in the future.
+**Marcel:** But that combined with, and by doing this, we're seeing these signals that lead to those outcomes in the future.
 
-**Board Room:** Then it gives them like, okay, now I have confidence we're heading in the right direction.
+**Marcel:** Then it gives them like, okay, now I have confidence we're heading in the right direction.
 
-**Board Room:** Especially because the contextual understanding of like, well, you're a legit expert in my space now.
+**Marcel:** Especially because the contextual understanding of like, well, you're a legit expert in my space now.
 
-**Board Room:** Like, this is awesome.
+**Marcel:** Like, this is awesome.
 
-**Board Room:** You know, and so it's like that's what I would say is the hard part because those layers combined are very, very advanced stakeholder management that took me 15 years of working, you know, some very difficult people to convince them to not fire me.
+**Marcel:** You know, and so it's like that's what I would say is the hard part because those layers combined are very, very advanced stakeholder management that took me 15 years of working, you know, some very difficult people to convince them to not fire me.
 
 **Taylor Ault:** Yeah, I love that, that painting the P of the long term vision.
 
@@ -1230,61 +1288,61 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** Do you what, what KPIs do you guys see as clients coming in other than conversion that they're looking to improve on in the first, in, in, in the pilot?
 
-**Board Room:** Everyone is coming because of.
+**Marcel:** Everyone is coming because of.
 
-**Board Room:** Not everyone.
+**Marcel:** Not everyone.
 
-**Board Room:** But the accelerant even more is truly AEO and AI visibility as the, the big thing of like, hey, there's the most fundamental buyer behavior change that has ever happened since the Internet was invented and, or since knowledge work in the Internet, right.
+**Marcel:** But the accelerant even more is truly AEO and AI visibility as the, the big thing of like, hey, there's the most fundamental buyer behavior change that has ever happened since the Internet was invented and, or since knowledge work in the Internet, right.
 
-**Board Room:** And that is the way people research, learn and patch information is dependent on AI agents and the training data that models are trained on more than almost anything else often.
+**Marcel:** And that is the way people research, learn and patch information is dependent on AI agents and the training data that models are trained on more than almost anything else often.
 
-**Board Room:** And that is gaining ground more and more.
+**Marcel:** And that is gaining ground more and more.
 
-**Board Room:** And you're asking whatever you're asking Claude, things that you would have never asked Google in the past.
+**Marcel:** And you're asking whatever you're asking Claude, things that you would have never asked Google in the past.
 
-**Board Room:** And so that causes all these things to happen.
+**Marcel:** And so that causes all these things to happen.
 
-**Board Room:** And there's so much noise in the space.
+**Marcel:** And there's so much noise in the space.
 
-**Board Room:** There's essentially 200 tools saying by measuring this, you will improve this.
+**Marcel:** There's essentially 200 tools saying by measuring this, you will improve this.
 
-**Board Room:** And it's like no one would have never told you if you put Google Analytics in your site, your traffic's going to go up and in that.
+**Marcel:** And it's like no one would have never told you if you put Google Analytics in your site, your traffic's going to go up and in that.
 
-**Board Room:** But, but, but everybody's like okay, then what should I do?
+**Marcel:** But, but, but everybody's like okay, then what should I do?
 
-**Board Room:** And the only thing that, that the only answer they have in front of them is like, okay, I should just buy these tools and then I should just go find an SEO agency essentially to help me because these tools don't actually do work.
+**Marcel:** And the only thing that, that the only answer they have in front of them is like, okay, I should just buy these tools and then I should just go find an SEO agency essentially to help me because these tools don't actually do work.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** And then when they hear about us, it's like truly like oh shit, this is a no brainer when we deliver on that.
+**Marcel:** And then when they hear about us, it's like truly like oh shit, this is a no brainer when we deliver on that.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** It's like, wait, like, you're doing all the work for me, you're coming up with a strategy.
+**Marcel:** It's like, wait, like, you're doing all the work for me, you're coming up with a strategy.
 
-**Board Room:** You all are legit and work with brands that I respect and wish we were like.
+**Marcel:** You all are legit and work with brands that I respect and wish we were like.
 
-**Board Room:** And you have amazing people and platform and tech and AI native, you know, so the promise is truly like no brainer.
+**Marcel:** And you have amazing people and platform and tech and AI native, you know, so the promise is truly like no brainer.
 
-**Board Room:** And that's why like this week I was talking to Tyler, who's our.
+**Marcel:** And that's why like this week I was talking to Tyler, who's our.
 
-**Board Room:** Actually the one that work at Sierra's, he's our founding ae and he's like, dude, this, this client, like really took me by surprise.
+**Marcel:** Actually the one that work at Sierra's, he's our founding ae and he's like, dude, this, this client, like really took me by surprise.
 
-**Board Room:** It's like we had the first meeting and then he signed two hours later and it was a $250,000 deal paid up front.
+**Marcel:** It's like we had the first meeting and then he signed two hours later and it was a $250,000 deal paid up front.
 
-**Board Room:** It's like, what the fuck?
+**Marcel:** It's like, what the fuck?
 
-**Board Room:** And he was like, I was not expecting that.
+**Marcel:** And he was like, I was not expecting that.
 
-**Board Room:** Like, no red lines, nothing.
+**Marcel:** Like, no red lines, nothing.
 
-**Board Room:** You just sign.
+**Marcel:** You just sign.
 
-**Board Room:** It was the CMO right?
+**Marcel:** It was the CMO right?
 
-**Board Room:** Like, but that's why the hard work really is like the.
+**Marcel:** Like, but that's why the hard work really is like the.
 
-**Board Room:** It's been delivering and educating people and also internally understanding when we're just not experimenting and trying new things fast enough to unlock the next layer of growth for them.
+**Marcel:** It's been delivering and educating people and also internally understanding when we're just not experimenting and trying new things fast enough to unlock the next layer of growth for them.
 
 **Taylor Ault:** Yeah, thank you.
 
@@ -1292,71 +1350,71 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** And so I had a lot of questions around product ready to touch on that?
 
-**Board Room:** Because I think that's an important part of the vision of the company is that like, at the end of the day, like our, our purpose of being and fundamentally is that like, you're gonna have hundreds of millions of people, knowledge workers that have to retool themselves.
+**Marcel:** Because I think that's an important part of the vision of the company is that like, at the end of the day, like our, our purpose of being and fundamentally is that like, you're gonna have hundreds of millions of people, knowledge workers that have to retool themselves.
 
-**Board Room:** You can see the job markets already, right?
+**Marcel:** You can see the job markets already, right?
 
-**Board Room:** Like, and there is no.
+**Marcel:** Like, and there is no.
 
-**Board Room:** I mentioned this yesterday, like AI native university, which means like, you have hundreds of millions of people that are going to be if.
+**Marcel:** I mentioned this yesterday, like AI native university, which means like, you have hundreds of millions of people that are going to be if.
 
-**Board Room:** If you don't help them somehow, right?
+**Marcel:** If you don't help them somehow, right?
 
-**Board Room:** And for me, language, AKA like words and writing is the interface.
+**Marcel:** And for me, language, AKA like words and writing is the interface.
 
-**Board Room:** It's the universal interface to, to AI.
+**Marcel:** It's the universal interface to, to AI.
 
-**Board Room:** AI is fundamental technology that's going to change everything.
+**Marcel:** AI is fundamental technology that's going to change everything.
 
-**Board Room:** And these agents, they're really, really amazing at coding because coding is words abstracted into a structured language.
+**Marcel:** And these agents, they're really, really amazing at coding because coding is words abstracted into a structured language.
 
-**Board Room:** And file systems and models do really well with file systems and with code because it's structured, right?
+**Marcel:** And file systems and models do really well with file systems and with code because it's structured, right?
 
-**Board Room:** And so our whole company runs on our framework called Output AI that we're open sourcing in a few weeks.
+**Marcel:** And so our whole company runs on our framework called Output AI that we're open sourcing in a few weeks.
 
-**Board Room:** That is think of it as like AI workflows as code with a runtime layer infrastructure and way to observe, measure and learn from that for us.
+**Marcel:** That is think of it as like AI workflows as code with a runtime layer infrastructure and way to observe, measure and learn from that for us.
 
-**Board Room:** We also led with education.
+**Marcel:** We also led with education.
 
-**Board Room:** Our company first started with workshops before we ever wrote a Single line of code.
+**Marcel:** Our company first started with workshops before we ever wrote a Single line of code.
 
-**Board Room:** And what we're doing is picking a domain that we're really good at, marketing a job to be done, which is manage the content that goes under my website in order to help me grow my visibility and my traffic and my conversions.
+**Marcel:** And what we're doing is picking a domain that we're really good at, marketing a job to be done, which is manage the content that goes under my website in order to help me grow my visibility and my traffic and my conversions.
 
-**Board Room:** But that happens to be content and content is language.
+**Marcel:** But that happens to be content and content is language.
 
-**Board Room:** So if you get really, really good at understanding companies and figure out how to communicate the things they need to in order to become the best answers and resources to their buyers, you get good at language.
+**Marcel:** So if you get really, really good at understanding companies and figure out how to communicate the things they need to in order to become the best answers and resources to their buyers, you get good at language.
 
-**Board Room:** If you get good at language, you get good at AI.
+**Marcel:** If you get good at language, you get good at AI.
 
-**Board Room:** If you get good at AI, you get good at everything else.
+**Marcel:** If you get good at AI, you get good at everything else.
 
-**Board Room:** And so that is fundamentally.
+**Marcel:** And so that is fundamentally.
 
-**Board Room:** And even if we only get good at content and only for this use case, that is still a massive, massive market.
+**Marcel:** And even if we only get good at content and only for this use case, that is still a massive, massive market.
 
-**Board Room:** So Sam Rush that got acquired by Adobe has over 25,000 mid market and enterprise customers are paying over $40,000 a year for a tool that tells them their search visibility at best and does no work for them, right?
+**Marcel:** So Sam Rush that got acquired by Adobe has over 25,000 mid market and enterprise customers are paying over $40,000 a year for a tool that tells them their search visibility at best and does no work for them, right?
 
-**Board Room:** The tool's there, it's very useful tool.
+**Marcel:** The tool's there, it's very useful tool.
 
-**Board Room:** And so if you had those 25,000 same 25,000 customers that are, you know, definitely obtainable, right?
+**Marcel:** And so if you had those 25,000 same 25,000 customers that are, you know, definitely obtainable, right?
 
-**Board Room:** And are in a market for content because that's the whole point of the tool before and they were paying us 200 grand a year instead or even let's say 100,000 a year, that's still 3 to 4 billion in AR.
+**Marcel:** And are in a market for content because that's the whole point of the tool before and they were paying us 200 grand a year instead or even let's say 100,000 a year, that's still 3 to 4 billion in AR.
 
-**Board Room:** And so that is the obtainable market today that there's also 100,000 marketing agencies in the US alone and another 40,000 martech tools out there.
+**Marcel:** And so that is the obtainable market today that there's also 100,000 marketing agencies in the US alone and another 40,000 martech tools out there.
 
-**Board Room:** So I guarantee you no one wants more Martech tools or more marketing agencies.
+**Marcel:** So I guarantee you no one wants more Martech tools or more marketing agencies.
 
-**Board Room:** And so it's such a, like, you know, whoa, like it's truly a, it's ours to lose.
+**Marcel:** And so it's such a, like, you know, whoa, like it's truly a, it's ours to lose.
 
-**Board Room:** We got to go execute with the right primitives.
+**Marcel:** We got to go execute with the right primitives.
 
-**Board Room:** But also we need an obscene amount of like operational excellence.
+**Marcel:** But also we need an obscene amount of like operational excellence.
 
-**Board Room:** And you know, because it is like there's more and more players like and you know, we're onto something when two years ago we were thinking that way and we built our framework and coding agents and file systems and now it's like clock code exists and it didn't exist then.
+**Marcel:** And you know, because it is like there's more and more players like and you know, we're onto something when two years ago we were thinking that way and we built our framework and coding agents and file systems and now it's like clock code exists and it didn't exist then.
 
-**Board Room:** And you know when YC puts a request for, we want more startups to build agencies, like they literally put out a request this last week on like we want more agencies or companies that want to, you know, disrupt agencies.
+**Marcel:** And you know when YC puts a request for, we want more startups to build agencies, like they literally put out a request this last week on like we want more agencies or companies that want to, you know, disrupt agencies.
 
-**Board Room:** And so, so anyways, hopefully that, that gives you that the bigger picture to, well the market.
+**Marcel:** And so, so anyways, hopefully that, that gives you that the bigger picture to, well the market.
 
 **Taylor Ault:** I mean it's clear there's a market fit.
 
@@ -1386,23 +1444,23 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** It's.
 
-**Board Room:** I would almost not frame it as migration is more of we are operating something for them that delivers value to them and how to.
+**Marcel:** I would almost not frame it as migration is more of we are operating something for them that delivers value to them and how to.
 
-**Board Room:** Where do they want to operate and where do we still need to operate our ourselves because of our expertise and know how and methodology where they would mess it up.
+**Marcel:** Where do they want to operate and where do we still need to operate our ourselves because of our expertise and know how and methodology where they would mess it up.
 
-**Board Room:** But how do we give them the right amount of feeling of control and understanding and, and even allow you to do it yourself on the things that they actually want to do with themselves.
+**Marcel:** But how do we give them the right amount of feeling of control and understanding and, and even allow you to do it yourself on the things that they actually want to do with themselves.
 
-**Board Room:** Like no one wants to line that at anything.
+**Marcel:** Like no one wants to line that at anything.
 
-**Board Room:** So like sure, we can give them access today and give them a doc like experience that is AI native and they still wouldn't do it.
+**Marcel:** So like sure, we can give them access today and give them a doc like experience that is AI native and they still wouldn't do it.
 
-**Board Room:** Right.
+**Marcel:** Right.
 
-**Board Room:** And so that is more of the journey we're in is not a journey of like figuring out what tech to build or what jobs to be done to go address or even how to address them.
+**Marcel:** And so that is more of the journey we're in is not a journey of like figuring out what tech to build or what jobs to be done to go address or even how to address them.
 
-**Board Room:** It's how and what to expose to clients that they actually want to operate versus what to give them visibility to the work that we're going to continue to do for them and later on potentially a.
+**Marcel:** It's how and what to expose to clients that they actually want to operate versus what to give them visibility to the work that we're going to continue to do for them and later on potentially a.
 
-**Board Room:** A marketplace or something else to do that work.
+**Marcel:** A marketplace or something else to do that work.
 
 **Taylor Ault:** That makes total sense.
 
@@ -1412,20 +1470,20 @@ GrowthX is experiencing growing pains as it scales — pilot conversion rates ha
 
 **Taylor Ault:** I'm sorry.
 
-**Board Room:** Great job.
+**Marcel:** Great job.
 
-**Board Room:** I really appreciate it.
+**Marcel:** I really appreciate it.
 
-**Board Room:** Tons of really good insights and the way you presented was very structured in the right way.
+**Marcel:** Tons of really good insights and the way you presented was very structured in the right way.
 
-**Board Room:** So I appreciate it.
+**Marcel:** So I appreciate it.
 
 **Taylor Ault:** Really appreciate you guys giving me the time.
 
-**Board Room:** Thank you Taylor.
+**Marcel:** Thank you Taylor.
 
-**Board Room:** Have a great day.
+**Marcel:** Have a great day.
 
-**Board Room:** May the best football team win.
+**Marcel:** May the best football team win.
 
 **Taylor Ault:** Take care here.

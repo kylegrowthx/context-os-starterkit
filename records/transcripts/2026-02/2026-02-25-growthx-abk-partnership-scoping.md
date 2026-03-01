@@ -5,7 +5,24 @@ date: 2026-02-25
 time: 22:00 UTC
 duration: 43 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Tyler Pavlas, Alexander Kehaya, Pontus Andersson
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
+participants:
+  - name: Marcel Santilli
+    title: CEO
+    company: GrowthX
+    email: marcel@growthxlabs.com
+  - name: Tyler Pavlas
+    title: Founding AE
+    company: GrowthX
+    email: tyler@growthxlabs.com
+  - name: Alexander Kehaya
+    title: Founder/CEO
+    company: ABK
+    role: Index Podcast Host
+  - name: Pontus Andersson
+    title: Chief of Staff
+    company: ABK
 fireflies_id: 01KJ5HCT0YXXBPJ3RGTW4JBXZZ
 transcript_url: https://app.fireflies.ai/view/01KJ5HCT0YXXBPJ3RGTW4JBXZZ
 </metadata>
@@ -14,119 +31,170 @@ transcript_url: https://app.fireflies.ai/view/01KJ5HCT0YXXBPJ3RGTW4JBXZZ
 
 ## Summary
 
-The team is developing an agentic commerce platform designed for enterprise use, integrating governance, security, and payment capabilities to facilitate agent transactions. Current market activity is limited but there's potential for growth as enterprises begin deploying multiple agents. The company plans to generate initial revenue through design partnerships while transitioning to product monetization as adoption increases, emphasizing workflows as code and partial automation with human involvement.
+Marcel (GrowthX) and Alexander (ABK) explored a deep partnership around agent commerce and orchestration. ABK is building Interchange, a governance/security layer for multi-agent enterprise workflows that leverages HTTP 402 payment standards to enable agent-to-agent transactions. GrowthX and ABK agreed to collaborate on paid workshops (starting with GrowthX's March 20 CEO OS workshop), podcast appearances, and co-created content to validate product-market fit and build early adopter communities.
+
+---
+
+## Context
+
+This is a scoping call between GrowthX (B2B content marketing and workflow-as-code thinking) and ABK (agentic commerce and Interchange platform). Alexander and Pontus have been operating ABK for ~2 years after Alexander's experience at Solana Labs and Solana Foundation (2016-present crypto background). Alexander runs the Index Podcast (120k YouTube subs), where he covers AI and crypto topics.
+
+The connection: through Peter Griggs (mutual contact), Alexander and Marcel discovered alignment on agent orchestration, governance, and enterprise workflows. Alexander and Marcel previously worked together at Opus Logica in Santa Barbara, where they were mentored by Brian Fox (open source pioneer, Bash creator, GPL author). This is the first deep technical/business conversation since those early days.
+
+---
+
+## Relevance
+
+**ABK & Interchange Platform:**
+- Agent commerce infrastructure (governance, security, payment orchestration)
+- HTTP 402 payment standard implementation
+- Enterprise multi-agent workflow orchestration
+- Policy enforcement, identity, auditing layer
+
+**GrowthX Alignment:**
+- Workflows as code (runtime infrastructure)
+- Agent safety and guardrails (no unsupervised autonomy)
+- Enterprise go-to-market validation
+- Workshop-based community and credibility building
+
+**Potential Collaborations:**
+- Paid workshops introducing Interchange to enterprises
+- Index Podcast appearances on agent workflows and AI-driven GTM
+- Joint workshop development combining ABK's technical story and GrowthX's CEO/workflow framework
+- Co-created content for early adopter distribution
+
+---
+
+## Decisions & Commitments
+
+**Made During Call:**
+1. ABK will explore ABK CEO/CTO internally coordinating on technical clarity around Interchange runtime
+2. GrowthX + ABK agreed to pursue joint workshop collaboration (starting with March 20 CEO OS workshop)
+3. Alexander + Marcel agreed to podcast appearance on Index Podcast
+4. Both sides committed to use case validation and co-creation on GTM content
+5. Workshop model chosen as near-term revenue + credibility play before full product monetization
+
+**Timeline:**
+- March 20, 2026: GrowthX CEO OS workshop (ABK to attend + explore joint workshop)
+- Following week: Deep dive on use cases and technical specifics
+- TBD: Index Podcast recording, joint workshop planning
+
+---
+
+## Open Questions
+
+- **Technical Integration**: What specific Interchange runtime details are relevant to GrowthX's workflow framework? (ABK engineering to clarify)
+- **Workshop Scope**: How will joint workshop differentiate? (Interchange governance + CEO OS workflow design?)
+- **Revenue Sharing**: What's the commercial model for joint workshops vs. content co-creation?
+- **Use Cases**: Which enterprise workflow problems should they target first for validation?
+- **Timeline**: When can ABK move from prototype → design partner validation phase?
 
 ---
 
 ## Action Items
 
-**Alexander Kehaya**
-- Follow up via email to schedule Marcel Santilli's appearance on the Index Podcast
-- Explore attending Marcel's CEO OS workshop on March 20 and consider collaboration for a joint workshop
-- Coordinate internally with CTO Alexander to clarify technical details of runtime and Interchange platform
+**Alexander Kehaya (ABK CEO)**
+- Schedule Marcel's appearance on Index Podcast (target: Q1 2026)
+- Attend GrowthX CEO OS workshop on March 20, 2026
+- Coordinate with ABK CTO to clarify Interchange runtime technical details for GrowthX framework alignment
+- Work with Marcel on joint workshop content and go-to-market strategy
 
-**Marcel Santilli**
-- Send Alexander and team a link and potentially a free code to AI growth workshops previously hosted
-- Share details on upcoming March 20 CEO OS workshop and support potential joint workshop development
-- Provide documentation and assist in exploring use cases and co-creating content/workshops for go-to-market validation and distribution
+**Marcel Santilli (GrowthX CEO)**
+- Send ABK resources/code for historical AI growth workshops
+- Share March 20 CEO OS workshop details and logistics
+- Provide documentation on CEO OS framework and workflow methodology
+- Coordinate with Tyler on joint workshop development and use case validation
 
-**Tyler Pavlas**
-- Participate in follow-up discussions to develop workshop and podcast content with Alexander and Marcel
+**Tyler Pavlas (GrowthX Founding AE)**
+- Lead follow-up discussions on workshop content development with Alexander and Marcel
+- Support use case exploration and co-creation of GTM content
 
-**Pontus Andersson**
-- Support Alexander on internal integration and dogfooding of Interchange and coordination with external partners
+**Pontus Andersson (ABK Chief of Staff)**
+- Coordinate internally on Interchange runtime technical documentation for GrowthX review
+- Support external partnership development and dogfooding coordination
+
+---
+
+## Overview & Key Topics
+
+**Topics Covered:**
+- Agent commerce and autonomous agent-to-agent transactions
+- HTTP 402 payment standard for server-to-server payments
+- Interchange platform architecture (governance, security, orchestration)
+- Enterprise multi-agent orchestration and workflow automation
+- Policy enforcement, identity, and auditing for agent systems
+- Design partner go-to-market validation strategy
+- Workshop-based community building and early revenue
+- Podcast content and thought leadership
+- CEO OS framework and workflows-as-code methodology
+- Collaboration opportunities on content, workshops, and product validation
+
+**Key Themes:**
+1. Agent safety requires governance layers, not full autonomy
+2. Blockchain payment rails + open standards enable decentralized agent networks
+3. Design partners → workshops → community → product monetization (sequential GTM)
+4. Content + credibility (podcast, workshops) precedes product sales
+5. Workflow frameworks (CEO OS) and technical orchestration (Interchange) are complementary
 
 ---
 
 ## Transcript
 
-**Tyler Pavlas:** I can't even use the kid excuse myself. So every time someone reminds me that they're also taking care of kiddos like Marcel with his 2 year old, it always is a good reality check that I need to stop complaining.
-
-**Marcel Santilli:** Yep.
-
-**Tyler Pavlas:** Thanks for bringing the recorders in. I think that'll be good context for us to have. And before Marcel gets here, would love maybe a quick intro from you, Pontus, for context on my side. I'm the founding AE at GrowthX and I work really closely with our CEO Marcel.
+**Tyler Pavlas:** Thanks for bringing the recorders in. I'm the founding AE at GrowthX and I work really closely with our CEO Marcel. Pontus, would love a quick intro from you.
 
 **Pontus Andersson:** Rock on.
 
-**Tyler Pavlas:** Yeah, so Pontus been working with Alex and the rest of the gang over at ABK for quite a while. History goes back I think like almost five years this year, which is fun and lead kind of all the operations go to market and some strategy stuff here on a day to day basis for ABK.
+**Tyler Pavlas:** Pontus has been working with Alex and the rest of the gang over at ABK for quite a while—almost five years. He leads operations, go-to-market, and strategy for ABK.
 
-**Alexander Kehaya:** Yeah, I mean that's kind of what we want to talk about here. We've got some stuff that I think is relevant to what you guys have already probably built in house. It's called Interchange, but it's that governance, policy, orchestration, security auditing layer that we think ties directly into the economic side where agents are starting to transact with each other and buy things online. That's been kind of where we started with payment rails, but we think this other aspect is needed to make this all get adoption at Enterprise.
+**Alexander Kehaya:** Yeah, we've got some stuff that I think is relevant to what you guys have probably already built in-house. It's called Interchange—that governance, policy, orchestration, and security auditing layer that we think ties directly into the economic side where agents are starting to transact with each other and buy things online. We started with payment rails, but we think this governance aspect is needed to make this all get adoption at Enterprise.
 
 **Marcel Santilli:** Can you guys hear me okay?
 
-**Alexander Kehaya:** Yeah, I can hear you fine. Good to see you. I think we talked like a year or two ago, I can't remember, but through Peter Griggs.
+**Alexander Kehaya:** Yeah, I can hear you fine. Good to see you. I think we talked a year or two ago through Peter Griggs. You probably remember we cut our teeth together as entrepreneurs at Opus Logica in Santa Barbara. My business partner was the original founder—Brian Fox. He wrote Bash back in the day, authored the GPL licenses. Really cool guy who took me under his wing when I was bootstrapping a SaaS business. That's how I met Peter Griggs—we were both entrepreneurs hacking together. Pontus is my chief of staff. We've been working together across multiple companies for about five years. We started ABK like two years ago. I was an early employee at Solana Labs and the Solana Foundation. I've been in crypto mostly since 2016. I have a podcast called the Index Podcast where we talk about the future of the Internet—AI to crypto. About 120,000 subs on YouTube.
 
-**Marcel Santilli:** Yeah, yeah, I remember. He connected us and now he's in the Bay Area. But I've been meaning to catch up with him.
-
-**Alexander Kehaya:** Yeah, he and I have been talking a lot lately. You know, I think you probably remember we kind of cut our teeth together as entrepreneurs at this place called Opus Logica in Santa Barbara, which my business partner was the original founder of that Brian Fox. And Brian's story goes way back to, like, the beginning of the Internet. He was one of the few people between MIT's AI lab, Carnegie Mellon, and Stanford University that started the open source movement. Like, he wrote Bash back in the day, authored the GPL licenses.
-
-**Marcel Santilli:** That's awesome.
-
-**Alexander Kehaya:** Really cool guy. I met him through a friend. I was looking at an AI company like, 15 years ago to invest in, and I didn't know anything about AI. I was just teaching myself how to write software, learning online, how to write code. And I met a guy at some random meetup, and I was like, I need somebody who knows about AI. This guy's name was Steve Bell. Steve was like, you should meet Brian. So I met Brian for coffee. And I was just a solo entrepreneur, literally, like, working out of coffee shops, barely making ends meet, bootstrapping my SaaS business. And Brian kind of took me under his wing.
-
-**Tyler Pavlas:** Are you sure?
-
-**Alexander Kehaya:** And we've been partners basically ever since. But that's how I met Griggs, because he and I were both kind of entrepreneurs and we were hacking together that whole time.
-
-**Marcel Santilli:** Yeah, there's people like Griggs that are just meant to be entrepreneurs forever, you know?
-
-**Alexander Kehaya:** Yeah.
-
-**Alexander Kehaya:** Yeah, but that's awesome. Well, great. Great to reconnect or chat live. Tyler, I don't know, sorry to join a minute or so late. Did you do intros yet or...
-
-**Alexander Kehaya:** Yeah, we did a quick round. Pontus is my chief of staff. We've been working together across multiple companies now for about five years. We started our company ABK like two years ago. I was an early employee at Solana Labs and then the Solana Foundation. I was one of the first people to transition over when they started that. I've been in crypto mostly since 2016. I have a podcast called the Index Podcast where we talk about the future of the Internet. We'd love to have you on at some point. We cover everything AI to crypto. I've got about 120,000 subs on YouTube.
-
-**Alexander Kehaya:** This is important because on my show about a year ago last April, the head of developer relations at Coinbase came on my show and told me about this thing called HTTP 402 that they were launching. No one had heard about it really yet. Essentially it's payments over HTTP. 402 is a response code for payment required. Back when Tim Berners Lee invented HTTP, they thought maybe people want to make payments server to server, we should have a response code for this. But at the time they had no technology to do that. Well, blockchain technology happens to be a perfect way to facilitate this.
+**Alexander Kehaya:** This is important: about a year ago on my show, the head of developer relations at Coinbase told me about HTTP 402—payments over HTTP. 402 is a response code for "payment required." Tim Berners-Lee thought maybe people want to make payments server-to-server, so they built that into HTTP. But at the time, there was no technology to do it. Blockchain is perfect for this. Coinbase acquired Earn.com (which Lily ran with Balaji), and they were looking at 402. That idea got absorbed into Coinbase. Last year, somebody made an open-source specification for it.
 
 **Tyler Pavlas:** So this is HTTP 402, the standard?
 
-**Alexander Kehaya:** Right. So Coinbase acquired Earn.com, which my friend Lily ran and turned around with Balaji, and she actually was looking at 402 and that idea got absorbed into Coinbase. And then somebody picked up the ball finally like last year, and they made an open source specification for it.
+**Alexander Kehaya:** Exactly. The vision is that agents can now pay each other to use tools and services. If you have multiple agents working within an enterprise, they can discover new APIs and services. Instead of having a human approve and manage every interaction, agents can autonomously transact with each other. The governance and security layer Pontus and I are building manages this.
 
-**Marcel Santilli:** So what's the vision for this?
+**Marcel Santilli:** So you're essentially building the operating system for agent commerce?
 
-**Alexander Kehaya:** So the vision is that agents can now pay each other to use tools and services. If you have multiple agents working within an enterprise, they can discover new APIs and services, and instead of having a human approve and manage every interaction, agents can autonomously transact with each other. And the governance and security layer that Pontus and I are building is what manages this.
+**Alexander Kehaya:** Exactly. We call it Interchange. It's modular, open-source, and chain-agnostic. Enterprises adopt it as the orchestration layer for their agent teams.
 
-**Marcel Santilli:** That's fascinating. So you're essentially building the operating system for agent commerce?
+**Marcel Santilli:** I love this. It aligns with what we've been thinking about—workflows as code and runtime infrastructure. In my work with agents, full autonomy without guardrails is dangerous. You need policy enforcement, identity, auditing. That's what you're building.
 
-**Alexander Kehaya:** Exactly. We call it the Interchange. It's modular, open-source, and chain-agnostic. The idea is enterprises adopt it as the orchestration layer for their agent teams.
-
-**Marcel Santilli:** I love this. It aligns with what we've been thinking about workflows as code and runtime infrastructure. In my work with agents, I've found that full autonomy without guardrails is dangerous. You need policy enforcement, identity, auditing. It sounds like that's what you're building.
-
-**Alexander Kehaya:** Absolutely. That's the core. And we're currently dogfooding internally to validate use cases.
+**Alexander Kehaya:** Absolutely. That's the core. We're currently dogfooding internally to validate use cases.
 
 **Marcel Santilli:** How far along are you in the product?
 
-**Alexander Kehaya:** We're in prototype stage. Limited multi-agent orchestration so far. But we're seeing real value in simple agent "skills" for CEO-level productivity improvements. The long-term vision is enterprises running teams of agents that automate complex workflows.
+**Alexander Kehaya:** We're in prototype stage. Limited multi-agent orchestration so far, but we're seeing real value in simple agent "skills" for CEO-level productivity improvements. The long-term vision is enterprises running teams of agents that automate complex workflows.
 
 **Tyler Pavlas:** What's the go-to-market strategy?
 
-**Alexander Kehaya:** We're starting with design partners who can use Interchange internally to solve enterprise workflow problems. This validates product-market fit and builds credibility through real customer success. Eventually we transition to product monetization through agent wallet transactions and API marketplace access.
+**Alexander Kehaya:** We're starting with design partners who can use Interchange internally to solve enterprise workflow problems. This validates product-market fit and builds credibility. Eventually we transition to product monetization through agent wallet transactions and API marketplace access.
 
-**Marcel Santilli:** That's a solid approach. I'd actually recommend adding workshops to that mix. Based on my experience at Scale AI and HashiCorp, workshops are a powerful way to validate demand, build community, and generate early revenue before scaling SaaS.
-
-**Alexander Kehaya:** I like that. We could do paid workshops to introduce the platform and build early adopters.
-
-**Marcel Santilli:** Exactly. And it gives you a distribution channel to reach enterprises interested in agent workflows. I'm actually hosting a CEO OS workshop on March 20 that's been really successful. You should come check it out.
+**Marcel Santilli:** That's a solid approach. I'd recommend adding workshops to that mix. Based on my experience at Scale AI and HashiCorp, workshops validate demand, build community, and generate early revenue before scaling SaaS. I'm hosting a CEO OS workshop on March 20 that's been really successful. You should check it out.
 
 **Alexander Kehaya:** Absolutely. I'd love to attend and explore doing a joint workshop with you.
 
-**Marcel Santilli:** I think there's real synergy here. Your podcast plus my workshop platform could reach a lot of people interested in this space.
+**Marcel Santilli:** There's real synergy here. Your podcast plus my workshop platform could reach a lot of people interested in this space.
 
 **Alexander Kehaya:** Yeah, we'd definitely love to have you on the Index Podcast to talk about agent workflows and AI-driven go-to-market.
 
-**Tyler Pavlas:** That sounds great. This could be a real partnership.
+**Tyler Pavlas:** This could be a real partnership.
 
-**Marcel Santilli:** I'm going to send you some resources on the workshops. And maybe we can dive deeper on use cases next week.
+**Marcel Santilli:** I'm going to send you some resources on the workshops. Maybe we can dive deeper on use cases next week.
 
-**Alexander Kehaya:** Perfect. I'll follow up with you on scheduling the podcast appearance too.
+**Alexander Kehaya:** Perfect. I'll follow up on scheduling the podcast appearance too.
 
-**Pontus Andersson:** And from our side, we'll get our engineering team to clarify some technical details on the Interchange runtime that might be relevant to your framework.
+**Pontus Andersson:** From our side, we'll get our engineering team to clarify technical details on the Interchange runtime that might be relevant to your framework.
 
-**Marcel Santilli:** That would be great. I think there's real opportunity here to collaborate and advance the space.
+**Marcel Santilli:** That would be great. There's real opportunity here to collaborate and advance the space.
 
 **Alexander Kehaya:** Agreed. Let's stay in touch and keep this momentum going.
 
-**Tyler Pavlas:** Thanks so much for the conversation. This has been really valuable.
+**Tyler Pavlas:** Thanks for the conversation. This has been really valuable.
 
 **Pontus Andersson:** Yeah, excited about the possibilities.
 

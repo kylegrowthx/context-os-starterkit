@@ -5,10 +5,15 @@ date: 2026-02-04
 time: 17:00 UTC
 duration: 177 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Daniel Lopes, Ryan Singer
+participants:
+  - Marcel Santilli (GrowthX)
+  - Daniel Lopes (GrowthX)
+  - Ryan Singer (Consultant, Shape Up author)
 fireflies_id: 01KG80A7B7YMS32CJD0P4Z7D7J
 meeting_link: https://us06web.zoom.us/j/87687687726?pwd=2vzjibdeVkWIdibaIp0By26aakWKMa.1
 transcript_url: https://app.fireflies.ai/view/01KG80A7B7YMS32CJD0P4Z7D7J
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
@@ -103,17 +108,39 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 ---
 
+## Decisions & Commitments
+
+- **Navigation Structure Locked**: Learn & Improve → New Page Opportunities → Progress Snapshots is the definitive top-level structure. Work Queue as standalone concept is eliminated.
+- **Workflow Separation Committed**: New page creation and optimization/experimentation will have completely separate workflows, UI patterns, and database architecture.
+- **Calibration as Gate**: Three inputs must be defined before opportunity discovery becomes effective: Personas, Site Crawl, and Analytics (in priority order).
+- **Verb-Based Actions**: UI must use action verbs (Generate, Review) instead of noun-based folder labels to drive behavioral clarity.
+- **Two-Phase Process Standard**: All setup flows follow auto-generation → human review model. Skip buttons eliminated in favor of explicit "Does Not Apply" option.
+- **March MVP Scope**: Meta tag/title optimization is the minimum viable optimization feature for March launch. Full optimization suite is a future build.
+- **Client-Facing Surfaces**: Only two tabs should be prominently surfaced to clients: New Page Opportunities and Progress Snapshots.
+
+---
+
+## Open Questions
+
+- **Optimization UI Patterns**: How should different optimization types (meta titles, images, text, broken links) render in the UI? Current thinking is mixed (some modal-based edits, some checklist-based), but design pattern needs clarification.
+- **Optimization Feedback Loop**: How do learnings from optimization experiments feed back into agent rules/skills? Need data model for storing optimization results as training signals.
+- **Analytics Trust Building**: When should analytics data be surfaced to staff vs. clients? Current assumption is staff-only for March, but client trust-building may require early exposure.
+- **Calibration Completeness**: Is the three-input gate sufficient, or are there hidden dependencies we'll discover during QA? Plan to stress-test with actual onboarding scenarios.
+- **Progress Snapshot Granularity**: Should client-facing reporting be weekly email digests, dashboard-only, or both? Marcel's vision is eventually email-first with optional dashboard login.
+
+---
+
 ## Action Items
 
-**Daniel**
+**Daniel (GrowthX)**
 - Send Ryan the video and GitHub link of the open-source AI workflow framework for prototyping and review
 - Continue migrating legacy workflows to the new AI agent framework to support upcoming product launch
 
-**Ryan Singer**
-- Review the open-source AI workflow framework and prepare feedback ahead of February 17th session
-- Evaluate time availability post current client project ending June 30th and communicate capacity for contribution
+**Ryan Singer (Consultant)**
+- Review the open-source AI workflow framework and prepare feedback
+- Evaluate time availability post current client project and communicate capacity for contribution
 
-**Daniel & Marcel**
+**Daniel & Marcel (GrowthX)**
 - Refine UI to include verb-based action labels (Generate, Review) instead of folder-like static labels for clarity in calibration/setup flows
 - Remove ambiguous "Mark Complete" buttons from setup screen and replace with actionable steps per item
 - Implement explicit "Does Not Apply" option instead of skip functionality for calibration steps
@@ -122,39 +149,39 @@ Staff screens share with clients; clients don't need direct login access. The sy
 - Define clear distinction between new page creation workflows and optimization workflows, and design separate UI/work queues accordingly
 - Prioritize meta tag and meta description optimization tool development for March launch as a minimum viable optimization feature
 
-**Team-wide**
+**Team-wide (GrowthX)**
 - Continue development and refinement of opportunity discovery, persona calibration, and analytics integration to support content strategy generation and client reporting
-- Prepare for next shaping session on February 17th focusing on UI navigation flow and integration of learn and improve workflows
+- Prepare for next shaping session focusing on UI navigation flow and integration of learn and improve workflows
 
 ---
 
 ## Transcript
 
-**Board Room:** Invite.
+**Marcel Santilli:** Invite.
 
-**Board Room:** Sec.
+**Marcel Santilli:** Sec.
 
-**Board Room:** Sorry.
+**Marcel Santilli:** Sorry.
 
-**Board Room:** No problem.
+**Marcel Santilli:** No problem.
 
-**Board Room:** How do you set up with a meeting that you don't own?
+**Marcel Santilli:** How do you set up with a meeting that you don't own?
 
-**Board Room:** Just invite the room.
+**Marcel Santilli:** Just invite the room.
 
-**Board Room:** Ah.
+**Marcel Santilli:** Ah.
 
-**Board Room:** And then select for me and then it will like ring your answer.
+**Marcel Santilli:** And then select for me and then it will like ring your answer.
 
 **Ryan Singer:** Marcel, you're also there.
 
-**Board Room:** Hey, we're gonna log in into the main camera here.
+**Marcel Santilli:** Hey, we're gonna log in into the main camera here.
 
 **Ryan Singer:** Ah, cool.
 
 **Ryan Singer:** Okay.
 
-**Board Room:** Recording in progress.
+**Marcel Santilli:** Recording in progress.
 
 **Ryan Singer:** Boardroom, No feed yet.
 
@@ -170,15 +197,15 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** Nice to see you guys.
 
-**Board Room:** Yeah, good to see you, man.
+**Marcel Santilli:** Yeah, good to see you, man.
 
-**Board Room:** Sorry.
+**Marcel Santilli:** Sorry.
 
-**Board Room:** Sorry I'm a couple minutes late.
+**Marcel Santilli:** Sorry I'm a couple minutes late.
 
 **Ryan Singer:** No problem.
 
-**Board Room:** All right.
+**Marcel Santilli:** All right.
 
 **Ryan Singer:** Things are good.
 
@@ -192,25 +219,25 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** Yeah.
 
-**Board Room:** It'S.
+**Marcel Santilli:** It'S.
 
-**Board Room:** We had a board meeting yesterday and it's definitely feeling like the hardest right now.
+**Marcel Santilli:** We had a board meeting yesterday and it's definitely feeling like the hardest right now.
 
-**Board Room:** Yeah, yeah, yeah.
+**Marcel Santilli:** Yeah, yeah, yeah.
 
-**Board Room:** But you know, it's like.
+**Marcel Santilli:** But you know, it's like.
 
-**Board Room:** It kind of feels the hardest and at the same time the highest level of conviction I've ever had.
+**Marcel Santilli:** It kind of feels the hardest and at the same time the highest level of conviction I've ever had.
 
 **Ryan Singer:** Oh, that's a good combo.
 
-**Board Room:** So it's like both things are good that they're like a joint.
+**Marcel Santilli:** So it's like both things are good that they're like a joint.
 
 **Ryan Singer:** Yes.
 
-**Board Room:** Just to give you the context, I think it's actually helpful based on the stuff that I.
+**Marcel Santilli:** Just to give you the context, I think it's actually helpful based on the stuff that I.
 
-**Board Room:** The video that I sent to you and stuff that I don't know if you had the time to watch.
+**Marcel Santilli:** The video that I sent to you and stuff that I don't know if you had the time to watch.
 
 **Ryan Singer:** I did actually.
 
@@ -218,103 +245,103 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** I did, yeah.
 
-**Board Room:** So just to give you context, what that video means in the.
+**Marcel Santilli:** So just to give you context, what that video means in the.
 
-**Board Room:** In the timeline of the company.
+**Marcel Santilli:** In the timeline of the company.
 
 **Ryan Singer:** Yes.
 
-**Board Room:** So beginning of last year, Marcel and I essentially like had a bunch of things that we could sell.
+**Marcel Santilli:** So beginning of last year, Marcel and I essentially like had a bunch of things that we could sell.
 
-**Board Room:** Like he essentially sell anything.
+**Marcel Santilli:** Like he essentially sell anything.
 
-**Board Room:** Any kind of automation and marketing and sales that.
+**Marcel Santilli:** Any kind of automation and marketing and sales that.
 
-**Board Room:** So many things that we could do.
+**Marcel Santilli:** So many things that we could do.
 
-**Board Room:** And we started selling all those things and then we tried to find what is the thing that we can sell enough that there's enough demand that will be a price that will be like close to what you pay a human, but outperform a human quite a bit.
+**Marcel Santilli:** And we started selling all those things and then we tried to find what is the thing that we can sell enough that there's enough demand that will be a price that will be like close to what you pay a human, but outperform a human quite a bit.
 
-**Board Room:** That would be like five to $10,000.
+**Marcel Santilli:** That would be like five to $10,000.
 
-**Board Room:** And we landed on content creation and managing large ish websites, basically.
+**Marcel Santilli:** And we landed on content creation and managing large ish websites, basically.
 
-**Board Room:** And.
+**Marcel Santilli:** And.
 
-**Board Room:** And that's the.
+**Marcel Santilli:** And that's the.
 
-**Board Room:** And then by.
+**Marcel Santilli:** And then by.
 
-**Board Room:** So we fundraised in February, built the team enough to just have like small pods doing certain things, but not the perfect team yet because, like, we just like just each one of the seats and figure out some conviction.
+**Marcel Santilli:** So we fundraised in February, built the team enough to just have like small pods doing certain things, but not the perfect team yet because, like, we just like just each one of the seats and figure out some conviction.
 
-**Board Room:** By July, some of the tools that we're using started to see us as a competitor.
+**Marcel Santilli:** By July, some of the tools that we're using started to see us as a competitor.
 
-**Board Room:** So Aerops was one of the tools that I was stitching together a bunch of our APIs that we were building and the agents inside as a UI ops was just a ui and they realized that we were a threat to them and they cut the core.
+**Marcel Santilli:** So Aerops was one of the tools that I was stitching together a bunch of our APIs that we were building and the agents inside as a UI ops was just a ui and they realized that we were a threat to them and they cut the core.
 
-**Board Room:** So we had to build the part of the system that we have today as a temporary holdup for being able to do the work that Aerops got us off and after like during that time we also saw the opportunity that monitoring people's AI visibility is a huge thing.
+**Marcel Santilli:** So we had to build the part of the system that we have today as a temporary holdup for being able to do the work that Aerops got us off and after like during that time we also saw the opportunity that monitoring people's AI visibility is a huge thing.
 
-**Board Room:** And it's a locked data set that.
+**Marcel Santilli:** And it's a locked data set that.
 
-**Board Room:** You don't have access.
+**Marcel Santilli:** You don't have access.
 
-**Board Room:** It's not something that you have access like keywords from Semrush or Google Analytics, like it's a private data and there's all these companies doing that at the same time and our clients are buying those things and we know they're going the same direction as us as like they want to start creating content too.
+**Marcel Santilli:** It's not something that you have access like keywords from Semrush or Google Analytics, like it's a private data and there's all these companies doing that at the same time and our clients are buying those things and we know they're going the same direction as us as like they want to start creating content too.
 
-**Board Room:** So we don't want to be dependent on them and have this trojan horse that all of our clients pay for for $1,000 and not be part of the conversation.
+**Marcel Santilli:** So we don't want to be dependent on them and have this trojan horse that all of our clients pay for for $1,000 and not be part of the conversation.
 
-**Board Room:** Then we do check that in three months essentially and check that out as a growth loop for marketing.
+**Marcel Santilli:** Then we do check that in three months essentially and check that out as a growth loop for marketing.
 
-**Board Room:** So check that we're getting impressions on Google already in just a month since.
+**Marcel Santilli:** So check that we're getting impressions on Google already in just a month since.
 
-**Board Room:** We started doing marketing.
+**Marcel Santilli:** We started doing marketing.
 
-**Board Room:** And that is the backstory of like.
+**Marcel Santilli:** And that is the backstory of like.
 
-**Board Room:** And at the same time we have trying to figure out what is the minimum amount of stuff that we need to build that will be like that five to $10,000 that a normal person that we can train that is in the content industry that is very capable person, but it's not as capable as Marcel that has a bunch of techniques.
+**Marcel Santilli:** And at the same time we have trying to figure out what is the minimum amount of stuff that we need to build that will be like that five to $10,000 that a normal person that we can train that is in the content industry that is very capable person, but it's not as capable as Marcel that has a bunch of techniques.
 
-**Board Room:** So the stuff that we have a bunch of agents to spread out everywhere we search agents for opportunity is basically taking money, decomposing Marcel steps and creating an AI workflow that does that to like in a scalable way that anybody that knows that they're doing an auction can do.
+**Marcel Santilli:** So the stuff that we have a bunch of agents to spread out everywhere we search agents for opportunity is basically taking money, decomposing Marcel steps and creating an AI workflow that does that to like in a scalable way that anybody that knows that they're doing an auction can do.
 
-**Board Room:** So like that product that I sent you, that's just a mock up out of like essentially spent two days after our session just mocking that up and trying to find, utilize every corner that I wasn't sure like what's the right copy, what's the right metrics on the screen?
+**Marcel Santilli:** So like that product that I sent you, that's just a mock up out of like essentially spent two days after our session just mocking that up and trying to find, utilize every corner that I wasn't sure like what's the right copy, what's the right metrics on the screen?
 
-**Board Room:** The data on the screen that's about the visual side and more about what is the information I need on the screen and what's the information that I need to collect.
+**Marcel Santilli:** The data on the screen that's about the visual side and more about what is the information I need on the screen and what's the information that I need to collect.
 
-**Board Room:** Like I need a crawler, I need the analytics and I can have the guys reading that and I can make that UI better and better in the next month.
+**Marcel Santilli:** Like I need a crawler, I need the analytics and I can have the guys reading that and I can make that UI better and better in the next month.
 
-**Board Room:** And the assumption is that that will be all we need to be able to solve a lot of the bottlenecks we have today.
+**Marcel Santilli:** And the assumption is that that will be all we need to be able to solve a lot of the bottlenecks we have today.
 
-**Board Room:** To the bottlenecks.
+**Marcel Santilli:** To the bottlenecks.
 
-**Board Room:** Like the goal of that version, it's not a final self serving product that will like solve everything.
+**Marcel Santilli:** Like the goal of that version, it's not a final self serving product that will like solve everything.
 
-**Board Room:** It's more like, are we building leverage in some of the key areas that are problematic today that humans do by hand?
+**Marcel Santilli:** It's more like, are we building leverage in some of the key areas that are problematic today that humans do by hand?
 
-**Board Room:** We're spaced out is one, another one is keeping an eye on the analytics and another one is coming out with opportunities and executing on some of the opportunities.
+**Marcel Santilli:** We're spaced out is one, another one is keeping an eye on the analytics and another one is coming out with opportunities and executing on some of the opportunities.
 
-**Board Room:** Not all kinds of opportunities, some kind of.
+**Marcel Santilli:** Not all kinds of opportunities, some kind of.
 
-**Board Room:** So making progress on that spectrum.
+**Marcel Santilli:** So making progress on that spectrum.
 
-**Board Room:** And another one would be letting clients log in and even if it's shitty and they know what they're looking at, but if the client can log in and you can walk them through, like, here's what happened this week.
+**Marcel Santilli:** And another one would be letting clients log in and even if it's shitty and they know what they're looking at, but if the client can log in and you can walk them through, like, here's what happened this week.
 
-**Board Room:** That is something that we don't have.
+**Marcel Santilli:** That is something that we don't have.
 
-**Board Room:** So clients think we are operating like an NAN or like a log into their Google search console, which we're not essentially for many things.
+**Marcel Santilli:** So clients think we are operating like an NAN or like a log into their Google search console, which we're not essentially for many things.
 
-**Board Room:** So those are the two main things like make products and leverage have something that clients can look at.
+**Marcel Santilli:** So those are the two main things like make products and leverage have something that clients can look at.
 
-**Board Room:** And that's the goal for March.
+**Marcel Santilli:** And that's the goal for March.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** I think one thing just to add an additional layer there quickly is we picked a lot of primitives and made a lot of assumptions that are now completely valid.
+**Marcel Santilli:** I think one thing just to add an additional layer there quickly is we picked a lot of primitives and made a lot of assumptions that are now completely valid.
 
-**Board Room:** So I think the first one like YC posted, you know how like YC sends these requests for companies.
+**Marcel Santilli:** So I think the first one like YC posted, you know how like YC sends these requests for companies.
 
-**Board Room:** They just posted one this week asking for agencies.
+**Marcel Santilli:** They just posted one this week asking for agencies.
 
-**Board Room:** Like, think about that for a second, right?
+**Marcel Santilli:** Like, think about that for a second, right?
 
-**Board Room:** Like why Combinator saying more companies should start agencies, AI native agencies.
+**Marcel Santilli:** Like why Combinator saying more companies should start agencies, AI native agencies.
 
-**Board Room:** You know, that's totally a software is.
+**Marcel Santilli:** You know, that's totally a software is.
 
 **Ryan Singer:** Eating the world thing.
 
@@ -322,67 +349,67 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** It's incredible.
 
-**Board Room:** There are 100,000 marketing agencies in the US alone, man.
+**Marcel Santilli:** There are 100,000 marketing agencies in the US alone, man.
 
-**Board Room:** Like, that's incredible.
+**Marcel Santilli:** Like, that's incredible.
 
-**Board Room:** Like, you know, that's not even freelancers.
+**Marcel Santilli:** Like, you know, that's not even freelancers.
 
-**Board Room:** That's just legit service providers listed on sites like Clutch Co, you know, saying, I do some kind of marketing, you know, and so that.
+**Marcel Santilli:** That's just legit service providers listed on sites like Clutch Co, you know, saying, I do some kind of marketing, you know, and so that.
 
-**Board Room:** So that was one we got right, like right away, which was like, no one wants to buy tools.
+**Marcel Santilli:** So that was one we got right, like right away, which was like, no one wants to buy tools.
 
-**Board Room:** Like, they just want to buy something that just gets the shit done for you.
+**Marcel Santilli:** Like, they just want to buy something that just gets the shit done for you.
 
-**Board Room:** Yes.
+**Marcel Santilli:** Yes.
 
-**Board Room:** The second one was like, I remember.
+**Marcel Santilli:** The second one was like, I remember.
 
-**Board Room:** I mean, I've been doing content for 15 years for every company I work for.
+**Marcel Santilli:** I mean, I've been doing content for 15 years for every company I work for.
 
-**Board Room:** So it's like content was always the secret weapon to make marketing more like, sustainable and compounding.
+**Marcel Santilli:** So it's like content was always the secret weapon to make marketing more like, sustainable and compounding.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Like, that's how you build credibility.
+**Marcel Santilli:** Like, that's how you build credibility.
 
-**Board Room:** I mean, that's how, you know, you.
+**Marcel Santilli:** I mean, that's how, you know, you.
 
-**Board Room:** You've been able to impact so many lives without needing to have these types of meetings with, you know, hundreds of thousands of people, you know, and it's pretty, pretty incredible.
+**Marcel Santilli:** You've been able to impact so many lives without needing to have these types of meetings with, you know, hundreds of thousands of people, you know, and it's pretty, pretty incredible.
 
-**Board Room:** Right?
+**Marcel Santilli:** Right?
 
-**Board Room:** And.
+**Marcel Santilli:** And.
 
-**Board Room:** And then the other thing was, like, last year, people were like, websites are going to go away.
+**Marcel Santilli:** And then the other thing was, like, last year, people were like, websites are going to go away.
 
-**Board Room:** And I always had this conviction, like, the Internet will collapse if websites go away.
+**Marcel Santilli:** And I always had this conviction, like, the Internet will collapse if websites go away.
 
-**Board Room:** Like, I know, I've been inside these companies that create the training data.
+**Marcel Santilli:** Like, I know, I've been inside these companies that create the training data.
 
-**Board Room:** Like if the web, if there was no more pages on the web, we are fucked.
+**Marcel Santilli:** Like if the web, if there was no more pages on the web, we are fucked.
 
-**Board Room:** Like models will not get better like you because you don't have access to people's private databases.
+**Marcel Santilli:** Like models will not get better like you because you don't have access to people's private databases.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** So it's like you need the web to be there and you need incentives for people to put really high quality information into the web and continue to update that information forever.
+**Marcel Santilli:** So it's like you need the web to be there and you need incentives for people to put really high quality information into the web and continue to update that information forever.
 
-**Board Room:** And the second you say only ChatGPT is going to be the only quote unquote site in the planet in the front door and no, like.
+**Marcel Santilli:** And the second you say only ChatGPT is going to be the only quote unquote site in the planet in the front door and no, like.
 
 **Ryan Singer:** It's an aggregator but there has to be a whole bunch of supply to aggregate.
 
-**Board Room:** Exactly.
+**Marcel Santilli:** Exactly.
 
-**Board Room:** The long term goal, like the dream would be every company would load the system with how they speak, how they care about their space and all the context that is unique to them.
+**Marcel Santilli:** The long term goal, like the dream would be every company would load the system with how they speak, how they care about their space and all the context that is unique to them.
 
-**Board Room:** And then every website, every page on the website essentially becomes like a fully personalized experience for that person that's asking a question.
+**Marcel Santilli:** And then every website, every page on the website essentially becomes like a fully personalized experience for that person that's asking a question.
 
-**Board Room:** Like that is the path that we think websites will eventually become.
+**Marcel Santilli:** Like that is the path that we think websites will eventually become.
 
-**Board Room:** To get there, there's many things so you need to know like we're not there.
+**Marcel Santilli:** To get there, there's many things so you need to know like we're not there.
 
-**Board Room:** So that's going to be like five years.
+**Marcel Santilli:** So that's going to be like five years.
 
 **Ryan Singer:** Oh, I see.
 
@@ -390,187 +417,187 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** Like the site is like deeper and wider but you, you get brought into the thing that's more that.
 
-**Board Room:** Yeah, like just really quickly, just to kind of close the loop there.
+**Marcel Santilli:** Yeah, like just really quickly, just to kind of close the loop there.
 
-**Board Room:** It's like so like the website we got I think.
+**Marcel Santilli:** It's like so like the website we got I think.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And the assumption that they're not going to go away.
+**Marcel Santilli:** And the assumption that they're not going to go away.
 
-**Board Room:** And it's not like a dynamic thing that just personalizes on a visit.
+**Marcel Santilli:** And it's not like a dynamic thing that just personalizes on a visit.
 
-**Board Room:** It's truly like a knowledge graph and we're approaching.
+**Marcel Santilli:** It's truly like a knowledge graph and we're approaching.
 
-**Board Room:** It's like you need to create more surface area.
+**Marcel Santilli:** It's like you need to create more surface area.
 
-**Board Room:** Not for the sake of more surface area, but because you're answering way more queries.
+**Marcel Santilli:** Not for the sake of more surface area, but because you're answering way more queries.
 
-**Board Room:** An infinite long tail essentially now.
+**Marcel Santilli:** An infinite long tail essentially now.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And now you're influencing the buyers that come to your site, you're influencing agents that are serving us and you're influencing training data that will form a long term opinion on you.
+**Marcel Santilli:** And now you're influencing the buyers that come to your site, you're influencing agents that are serving us and you're influencing training data that will form a long term opinion on you.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And so like your website now carries like 10x of the impact and the last thing but perhaps the most important thing was like Daniel's insight.
+**Marcel Santilli:** And so like your website now carries like 10x of the impact and the last thing but perhaps the most important thing was like Daniel's insight.
 
-**Board Room:** This was like 18 months ago.
+**Marcel Santilli:** This was like 18 months ago.
 
-**Board Room:** Okay.
+**Marcel Santilli:** Okay.
 
-**Board Room:** Plot code didn't exist where he's like coding agents just keep getting better and better and better.
+**Marcel Santilli:** Plot code didn't exist where he's like coding agents just keep getting better and better and better.
 
-**Board Room:** Like everything we do should be code.
+**Marcel Santilli:** Like everything we do should be code.
 
-**Board Room:** And coding agents are really good.
+**Marcel Santilli:** And coding agents are really good.
 
-**Board Room:** Everything has to be file system based at files.
+**Marcel Santilli:** Everything has to be file system based at files.
 
 **Ryan Singer:** Yes, right, exactly.
 
-**Board Room:** And we need a way to an observability layer and a Runtime layer, AKA like if lifestyle.
+**Marcel Santilli:** And we need a way to an observability layer and a Runtime layer, AKA like if lifestyle.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** In a way for the system to just build itself.
+**Marcel Santilli:** In a way for the system to just build itself.
 
-**Board Room:** Because dragging and drop the things in the local tool or writing crazy code off to the side is not sustainable.
+**Marcel Santilli:** Because dragging and drop the things in the local tool or writing crazy code off to the side is not sustainable.
 
-**Board Room:** It's your goal.
+**Marcel Santilli:** It's your goal.
 
-**Board Room:** And I saw you like playing with plot code for breadboarding and that kind of stuff.
+**Marcel Santilli:** And I saw you like playing with plot code for breadboarding and that kind of stuff.
 
-**Board Room:** Like, if you're really good at massaging, you can get it to perform.
+**Marcel Santilli:** Like, if you're really good at massaging, you can get it to perform.
 
 **Ryan Singer:** Oh yeah.
 
-**Board Room:** But if you see the demo that I was sending to you, there aren't workflows.
+**Marcel Santilli:** But if you see the demo that I was sending to you, there aren't workflows.
 
-**Board Room:** There's probably like 50 AI workflows that need to be repeatable.
+**Marcel Santilli:** There's probably like 50 AI workflows that need to be repeatable.
 
-**Board Room:** It's very different than getting my quality code to behave.
+**Marcel Santilli:** It's very different than getting my quality code to behave.
 
-**Board Room:** Even the skills might not behave properly.
+**Marcel Santilli:** Even the skills might not behave properly.
 
-**Board Room:** So we needed a foundation to be able to create like 50 workflows.
+**Marcel Santilli:** So we needed a foundation to be able to create like 50 workflows.
 
-**Board Room:** That's essentially why I only spent two days on this design.
+**Marcel Santilli:** That's essentially why I only spent two days on this design.
 
-**Board Room:** It's because I spent the last week and a half migrating the 50 workflows we had on our legacy initial code base.
+**Marcel Santilli:** It's because I spent the last week and a half migrating the 50 workflows we had on our legacy initial code base.
 
-**Board Room:** That was the assumptions of this framework to the final version that we're going to make open source this month for checkout.
+**Marcel Santilli:** That was the assumptions of this framework to the final version that we're going to make open source this month for checkout.
 
-**Board Room:** So checkout has like 50 workflows under the hood.
+**Marcel Santilli:** So checkout has like 50 workflows under the hood.
 
-**Board Room:** Has like 50 or something workflows under the hood that I migrated everything last week to the final version.
+**Marcel Santilli:** Has like 50 or something workflows under the hood that I migrated everything last week to the final version.
 
-**Board Room:** So like, imagine like rail00 when migrating to like 0.5 before launch.
+**Marcel Santilli:** So like, imagine like rail00 when migrating to like 0.5 before launch.
 
-**Board Room:** So that's what we're doing last week.
+**Marcel Santilli:** So that's what we're doing last week.
 
-**Board Room:** And okay, the, the other thing, and the last one, I promise is like, okay, so now like, the hard thing about what we're doing is we started with service and we started with infrastructure.
+**Marcel Santilli:** And okay, the, the other thing, and the last one, I promise is like, okay, so now like, the hard thing about what we're doing is we started with service and we started with infrastructure.
 
-**Board Room:** And most companies will build an app or a platform.
+**Marcel Santilli:** And most companies will build an app or a platform.
 
-**Board Room:** Very few will build a service layer until everything else is built.
+**Marcel Santilli:** Very few will build a service layer until everything else is built.
 
-**Board Room:** And very few will build infrastructure like Ashicorp.
+**Marcel Santilli:** And very few will build infrastructure like Ashicorp.
 
-**Board Room:** You know, like, they had work.
+**Marcel Santilli:** You know, like, they had work.
 
-**Board Room:** Been working on Open source Like 3, 4 years on Vagrant and then Terraform before there was even a company, you know.
+**Marcel Santilli:** Been working on Open source Like 3, 4 years on Vagrant and then Terraform before there was even a company, you know.
 
-**Board Room:** And then after that, they worked it for a few more years after raising money before they ever even monetized the infrastructure, right?
+**Marcel Santilli:** And then after that, they worked it for a few more years after raising money before they ever even monetized the infrastructure, right?
 
-**Board Room:** So we're almost like building the infrastructure layer of like, output AI, which is like the agent framework.
+**Marcel Santilli:** So we're almost like building the infrastructure layer of like, output AI, which is like the agent framework.
 
-**Board Room:** And then we did service and then we're sandwiching the other two almost, right?
+**Marcel Santilli:** And then we did service and then we're sandwiching the other two almost, right?
 
-**Board Room:** And so everything here is us going, hey, the platform has to close the full loop.
+**Marcel Santilli:** And so everything here is us going, hey, the platform has to close the full loop.
 
-**Board Room:** So with every output, with every unit of work, like, the next one gets better, faster, smarter, you know, or at least a path to that so that it feels like.
+**Marcel Santilli:** So with every output, with every unit of work, like, the next one gets better, faster, smarter, you know, or at least a path to that so that it feels like.
 
-**Board Room:** That it feels.
+**Marcel Santilli:** That it feels.
 
-**Board Room:** And you have some switching costs and you have some economies of scale happening.
+**Marcel Santilli:** And you have some switching costs and you have some economies of scale happening.
 
-**Board Room:** Because right now we have diminishing economies of scale with services.
+**Marcel Santilli:** Because right now we have diminishing economies of scale with services.
 
-**Board Room:** So, like a lot of stuff that we worked on, our first session was like figuring out the annotation flow and the client will do the first annotation.
+**Marcel Santilli:** So, like a lot of stuff that we worked on, our first session was like figuring out the annotation flow and the client will do the first annotation.
 
-**Board Room:** And then the other part is our team switches from line editing everything they start annotating so they have all this data.
+**Marcel Santilli:** And then the other part is our team switches from line editing everything they start annotating so they have all this data.
 
-**Board Room:** So we also build the team.
+**Marcel Santilli:** So we also build the team.
 
-**Board Room:** That's between the taking our agents and injecting the reward models, enforcement, learning all these things to make it go to that next level.
+**Marcel Santilli:** That's between the taking our agents and injecting the reward models, enforcement, learning all these things to make it go to that next level.
 
-**Board Room:** But we need that collection of data and we need to reframe the product.
+**Marcel Santilli:** But we need that collection of data and we need to reframe the product.
 
-**Board Room:** You're not a writer, you're more of an editor.
+**Marcel Santilli:** You're not a writer, you're more of an editor.
 
-**Board Room:** And a big part of your job is allocating the failure modes.
+**Marcel Santilli:** And a big part of your job is allocating the failure modes.
 
-**Board Room:** So essentially everything we talked about or everything that we've done so far really helped me be able to like, visualize the parts of the system that we could, like, okay, this is just enough for like Ada, like one of some of people on our team to be able to do some work there and be able to be more, have more leverage.
+**Marcel Santilli:** So essentially everything we talked about or everything that we've done so far really helped me be able to like, visualize the parts of the system that we could, like, okay, this is just enough for like Ada, like one of some of people on our team to be able to do some work there and be able to be more, have more leverage.
 
-**Board Room:** And then same thing with the analytics and the same thing with the strategy area.
+**Marcel Santilli:** And then same thing with the analytics and the same thing with the strategy area.
 
-**Board Room:** We're just trying to figure out what is the minimum amount of analytics that they can absorb, you know, so that's just to set the context of where, where we are.
+**Marcel Santilli:** We're just trying to figure out what is the minimum amount of analytics that they can absorb, you know, so that's just to set the context of where, where we are.
 
-**Board Room:** When we met last year, the goal was just like, can we get this out in February?
+**Marcel Santilli:** When we met last year, the goal was just like, can we get this out in February?
 
-**Board Room:** And we had a bunch of other things happen, as in like, check that AI we're launching today and like a soft launch today, hard launch tomorrow.
+**Marcel Santilli:** And we had a bunch of other things happen, as in like, check that AI we're launching today and like a soft launch today, hard launch tomorrow.
 
-**Board Room:** So that took some of our app.
+**Marcel Santilli:** So that took some of our app.
 
-**Board Room:** So we're essentially like a month behind, but not super behind.
+**Marcel Santilli:** So we're essentially like a month behind, but not super behind.
 
-**Board Room:** I had just based on those mockups that I showed you what it would be super helpful to get your take on it less on the shaping side, but more on like, as like a, like a super good designer and a product manager and somebody that understands Rails and understands how to build, simplify things.
+**Marcel Santilli:** I had just based on those mockups that I showed you what it would be super helpful to get your take on it less on the shaping side, but more on like, as like a, like a super good designer and a product manager and somebody that understands Rails and understands how to build, simplify things.
 
-**Board Room:** Like, is there anything on that?
+**Marcel Santilli:** Like, is there anything on that?
 
-**Board Room:** And we can go through like screen by screen.
+**Marcel Santilli:** And we can go through like screen by screen.
 
-**Board Room:** Anything that's like, is a red flag to you or anything that I might not be thinking about or.
+**Marcel Santilli:** Anything that's like, is a red flag to you or anything that I might not be thinking about or.
 
-**Board Room:** But that's one just as a pm.
+**Marcel Santilli:** But that's one just as a pm.
 
-**Board Room:** Is there something that.
+**Marcel Santilli:** Is there something that.
 
-**Board Room:** Is there anything on my blind spot on that UI or from the UX angle?
+**Marcel Santilli:** Is there anything on my blind spot on that UI or from the UX angle?
 
-**Board Room:** Is there something that Marcel and I have too much understanding on the business that there are too many questions that you're not understanding.
+**Marcel Santilli:** Is there something that Marcel and I have too much understanding on the business that there are too many questions that you're not understanding.
 
-**Board Room:** So when I try to train the team, they're going to not understand it or like just get the intuition on that.
+**Marcel Santilli:** So when I try to train the team, they're going to not understand it or like just get the intuition on that.
 
 **Ryan Singer:** Yeah.
 
-**Board Room:** And another thing.
+**Marcel Santilli:** And another thing.
 
-**Board Room:** And then if we don't find anything that's major and then we go to that super fast.
+**Marcel Santilli:** And then if we don't find anything that's major and then we go to that super fast.
 
-**Board Room:** The other thing would be like all of the opportunities in the opportunities area there are about new pages.
+**Marcel Santilli:** The other thing would be like all of the opportunities in the opportunities area there are about new pages.
 
 **Ryan Singer:** Exactly.
 
-**Board Room:** Fast follow is what happens when you click Optimize and Optimize.
+**Marcel Santilli:** Fast follow is what happens when you click Optimize and Optimize.
 
-**Board Room:** There's so many gotchas there on like, okay, like if you're optimizing just the title now you have to go open and say ads and JSON.
+**Marcel Santilli:** There's so many gotchas there on like, okay, like if you're optimizing just the title now you have to go open and say ads and JSON.
 
-**Board Room:** If you're optimizing like images, how does that look like?
+**Marcel Santilli:** If you're optimizing like images, how does that look like?
 
-**Board Room:** If you're optimizing text, is it just a to do list?
+**Marcel Santilli:** If you're optimizing text, is it just a to do list?
 
-**Board Room:** If you're optimizing broken links, is that just a to do list that somebody has to go there and do?
+**Marcel Santilli:** If you're optimizing broken links, is that just a to do list that somebody has to go there and do?
 
-**Board Room:** So there's so many things that I don't have a clear view in my mind how it works.
+**Marcel Santilli:** So there's so many things that I don't have a clear view in my mind how it works.
 
-**Board Room:** Marcel has some opinions and have some ideas.
+**Marcel Santilli:** Marcel has some opinions and have some ideas.
 
-**Board Room:** You might have a bunch of like good questions to help us unpack that.
+**Marcel Santilli:** You might have a bunch of like good questions to help us unpack that.
 
-**Board Room:** So those are the two things that are top of mind for me.
+**Marcel Santilli:** So those are the two things that are top of mind for me.
 
 **Ryan Singer:** Like, I like those two for today because I think that they also overlap because I think that like you, there's a lot of value in, in the optimizing of opportunities.
 
@@ -592,9 +619,9 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** Do you want to.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** Share the screen or.
+**Marcel Santilli:** Share the screen or.
 
 **Ryan Singer:** Yeah.
 
@@ -646,95 +673,95 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** What's in the air in terms of what's urgent for you guys to solve before March?
 
-**Board Room:** Yeah, I think the main thing, like, when you talk about leverage, it's more like leverage on our team spending their.
+**Marcel Santilli:** Yeah, I think the main thing, like, when you talk about leverage, it's more like leverage on our team spending their.
 
-**Board Room:** Time the right way.
+**Marcel Santilli:** Time the right way.
 
 **Ryan Singer:** Yes.
 
-**Board Room:** We have a checklist of the things that they need to do.
+**Marcel Santilli:** We have a checklist of the things that they need to do.
 
-**Board Room:** Like when a client comes in.
+**Marcel Santilli:** Like when a client comes in.
 
-**Board Room:** Here's all the things you need to do.
+**Marcel Santilli:** Here's all the things you need to do.
 
 **Ryan Singer:** Yeah.
 
-**Board Room:** It's all in notion and other things and they don't.
+**Marcel Santilli:** It's all in notion and other things and they don't.
 
 **Ryan Singer:** Okay.
 
-**Board Room:** Very often like some of the team will do the good.
+**Marcel Santilli:** Very often like some of the team will do the good.
 
-**Board Room:** The good part of the team will do it.
+**Marcel Santilli:** The good part of the team will do it.
 
-**Board Room:** The untrained ones would not do it.
+**Marcel Santilli:** The untrained ones would not do it.
 
-**Board Room:** And then there's bad people in the mix too that will shackle.
+**Marcel Santilli:** And then there's bad people in the mix too that will shackle.
 
-**Board Room:** So like but even the good ones have potential they might not do because the graduators are not there.
+**Marcel Santilli:** So like but even the good ones have potential they might not do because the graduators are not there.
 
-**Board Room:** Like just being a notion takes too much effort, too much friction.
+**Marcel Santilli:** Like just being a notion takes too much effort, too much friction.
 
-**Board Room:** And so that's one.
+**Marcel Santilli:** And so that's one.
 
-**Board Room:** So like account setup is a big one.
+**Marcel Santilli:** So like account setup is a big one.
 
-**Board Room:** So like if we can make sure the accounts are set up correctly.
+**Marcel Santilli:** So like if we can make sure the accounts are set up correctly.
 
-**Board Room:** That's why we have those control futures, the server fields.
+**Marcel Santilli:** That's why we have those control futures, the server fields.
 
-**Board Room:** We have certain areas that forces the account set up to be mostly all done by the agent and people customize.
+**Marcel Santilli:** We have certain areas that forces the account set up to be mostly all done by the agent and people customize.
 
-**Board Room:** So there are jobs.
+**Marcel Santilli:** So there are jobs.
 
-**Board Room:** Go here, customize here.
+**Marcel Santilli:** Go here, customize here.
 
-**Board Room:** Go go here, customize here.
+**Marcel Santilli:** Go go here, customize here.
 
-**Board Room:** Mark has done hope there is that we can reduce account setup from like a couple of weeks with a bunch of mistakes here and there and like sending documents to the client to like them doing that in two, three days and then walking the client through in a zoom call.
+**Marcel Santilli:** Mark has done hope there is that we can reduce account setup from like a couple of weeks with a bunch of mistakes here and there and like sending documents to the client to like them doing that in two, three days and then walking the client through in a zoom call.
 
-**Board Room:** This is what I did.
+**Marcel Santilli:** This is what I did.
 
-**Board Room:** So that is client seeing the surface of the product and okay.
+**Marcel Santilli:** So that is client seeing the surface of the product and okay.
 
-**Board Room:** And then if we want to let.
+**Marcel Santilli:** And then if we want to let.
 
-**Board Room:** The client log in into that and.
+**Marcel Santilli:** The client log in into that and.
 
-**Board Room:** Tweak they can but it's more like they would be a normal use.
+**Marcel Santilli:** Tweak they can but it's more like they would be a normal use.
 
-**Board Room:** We're not expecting the client to do any work would be like hey, this is how we do it.
+**Marcel Santilli:** We're not expecting the client to do any work would be like hey, this is how we do it.
 
-**Board Room:** We're not sending you a notion document and a bunch of under the hood here there's a system.
+**Marcel Santilli:** We're not sending you a notion document and a bunch of under the hood here there's a system.
 
-**Board Room:** So that's when we talk about leverage is more about like that Got it.
+**Marcel Santilli:** So that's when we talk about leverage is more about like that Got it.
 
-**Board Room:** The same kind of thinking goes into like here are the topics that we should that we're betting on for the next six months and here's why and here's the progress we're making.
+**Marcel Santilli:** The same kind of thinking goes into like here are the topics that we should that we're betting on for the next six months and here's why and here's the progress we're making.
 
-**Board Room:** So even if the client never logs in but our our team share their screening every week on their weekly meeting and walk them through that table with like here's the clusters here, the health here, the quality.
+**Marcel Santilli:** So even if the client never logs in but our our team share their screening every week on their weekly meeting and walk them through that table with like here's the clusters here, the health here, the quality.
 
-**Board Room:** Here's the amount of stuff we did.
+**Marcel Santilli:** Here's the amount of stuff we did.
 
-**Board Room:** That is also like showing that we have a system here.
+**Marcel Santilli:** That is also like showing that we have a system here.
 
-**Board Room:** We're not just fucking around.
+**Marcel Santilli:** We're not just fucking around.
 
-**Board Room:** Yep.
+**Marcel Santilli:** Yep.
 
-**Board Room:** And same thing with the opportunities area.
+**Marcel Santilli:** And same thing with the opportunities area.
 
-**Board Room:** Even if the client never clicks on the buttons there but our team does right before and shows the meeting.
+**Marcel Santilli:** Even if the client never clicks on the buttons there but our team does right before and shows the meeting.
 
-**Board Room:** Hey, hey.
+**Marcel Santilli:** Hey, hey.
 
-**Board Room:** Like here's a thousand things that came from analyzing comparison.
+**Marcel Santilli:** Like here's a thousand things that came from analyzing comparison.
 
-**Board Room:** Here's how it works.
+**Marcel Santilli:** Here's how it works.
 
-**Board Room:** This is like click on this.
+**Marcel Santilli:** This is like click on this.
 
-**Board Room:** Here are all the things we're picking the ones that are that are.
+**Marcel Santilli:** Here are all the things we're picking the ones that are that are.
 
 **Ryan Singer:** Got it?
 
@@ -742,125 +769,125 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** Okay, you, you.
 
-**Board Room:** So to me that's that that is a requirement for like being able to do insights because you need to have like to do proper insights later.
+**Marcel Santilli:** So to me that's that that is a requirement for like being able to do insights because you need to have like to do proper insights later.
 
-**Board Room:** You need to have all these things happening in the same system to do it effectively.
+**Marcel Santilli:** You need to have all these things happening in the same system to do it effectively.
 
-**Board Room:** Essentially we have all these things being done in the same system.
+**Marcel Santilli:** Essentially we have all these things being done in the same system.
 
-**Board Room:** That inside that is essentially like a couple of weeks of work.
+**Marcel Santilli:** That inside that is essentially like a couple of weeks of work.
 
-**Board Room:** It's like a pretty good agent that parses a ton of data and UI work.
+**Marcel Santilli:** It's like a pretty good agent that parses a ton of data and UI work.
 
-**Board Room:** But if this thing is spread out in like 10 different systems that some people totally don't do, I'm fine basically to do that.
+**Marcel Santilli:** But if this thing is spread out in like 10 different systems that some people totally don't do, I'm fine basically to do that.
 
-**Board Room:** So that's why I'm thinking like it's an important part of the system.
+**Marcel Santilli:** So that's why I'm thinking like it's an important part of the system.
 
-**Board Room:** Ideally like maybe like a quarter from now we iterate on that in so much that it might be the only interface that the client sees.
+**Marcel Santilli:** Ideally like maybe like a quarter from now we iterate on that in so much that it might be the only interface that the client sees.
 
-**Board Room:** And like they get a digest via emails.
+**Marcel Santilli:** And like they get a digest via emails.
 
-**Board Room:** Here's everything you got done and you know, and that is the UI for the client.
+**Marcel Santilli:** Here's everything you got done and you know, and that is the UI for the client.
 
-**Board Room:** It might be.
+**Marcel Santilli:** It might be.
 
-**Board Room:** And then at that point we can just like go full self serve and like you sign up here, we do all the work to get an email, that kind of stuff.
+**Marcel Santilli:** And then at that point we can just like go full self serve and like you sign up here, we do all the work to get an email, that kind of stuff.
 
-**Board Room:** But I'm more like the steps towards be able to do that level.
+**Marcel Santilli:** But I'm more like the steps towards be able to do that level.
 
-**Board Room:** We need to start doing the work ourselves as our team.
+**Marcel Santilli:** We need to start doing the work ourselves as our team.
 
-**Board Room:** So I'm more focused.
+**Marcel Santilli:** So I'm more focused.
 
-**Board Room:** Yeah, it's like.
+**Marcel Santilli:** Yeah, it's like.
 
-**Board Room:** The.
+**Marcel Santilli:** The.
 
-**Board Room:** If we think about buyer centric view of things versus a delivery team centric view of things just to contrast that a little bit in the day every team needs to grow and your website influences everything.
+**Marcel Santilli:** If we think about buyer centric view of things versus a delivery team centric view of things just to contrast that a little bit in the day every team needs to grow and your website influences everything.
 
-**Board Room:** It's where most transactions and AKA conversions happen.
+**Marcel Santilli:** It's where most transactions and AKA conversions happen.
 
-**Board Room:** It's what you can control the most.
+**Marcel Santilli:** It's what you can control the most.
 
-**Board Room:** And if you do it right, it's what could compound and make your life a little bit easier.
+**Marcel Santilli:** And if you do it right, it's what could compound and make your life a little bit easier.
 
-**Board Room:** But if you don't, it's became faster than ever as well.
+**Marcel Santilli:** But if you don't, it's became faster than ever as well.
 
-**Board Room:** And it's the place you can truly measure and control how you measure things.
+**Marcel Santilli:** And it's the place you can truly measure and control how you measure things.
 
-**Board Room:** Like so that's very rare.
+**Marcel Santilli:** Like so that's very rare.
 
-**Board Room:** There's nothing else in the quote unquote marketing brand world that checks all those five things.
+**Marcel Santilli:** There's nothing else in the quote unquote marketing brand world that checks all those five things.
 
-**Board Room:** But then everyone's website is just fine.
+**Marcel Santilli:** But then everyone's website is just fine.
 
-**Board Room:** Like people don't know how to manage a website and they don't know how to manage content.
+**Marcel Santilli:** Like people don't know how to manage a website and they don't know how to manage content.
 
-**Board Room:** They don't know how to create content and they don't even know how to create context around their brand and they don't even know context.
+**Marcel Santilli:** They don't know how to create content and they don't even know how to create context around their brand and they don't even know context.
 
-**Board Room:** Engineering basics.
+**Marcel Santilli:** Engineering basics.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And, and then on top of that, their analytics are messed up or spread everywhere.
+**Marcel Santilli:** And, and then on top of that, their analytics are messed up or spread everywhere.
 
-**Board Room:** And.
+**Marcel Santilli:** And.
 
-**Board Room:** And so these companies are trying to hire somebody in marketing and they're coming in and at the best company in the world.
+**Marcel Santilli:** And so these companies are trying to hire somebody in marketing and they're coming in and at the best company in the world.
 
-**Board Room:** Like we're talking to Vercel right now about to close a deal with them and they're just like, yeah, we're getting audits from this SEO agency.
+**Marcel Santilli:** Like we're talking to Vercel right now about to close a deal with them and they're just like, yeah, we're getting audits from this SEO agency.
 
-**Board Room:** But like I don't have the bandwidth to go fix 57 broken things.
+**Marcel Santilli:** But like I don't have the bandwidth to go fix 57 broken things.
 
-**Board Room:** And I also don't know where the.
+**Marcel Santilli:** And I also don't know where the.
 
-**Board Room:** What are the juiciest opportunities for us to go enrich existing pages versus like create net new.
+**Marcel Santilli:** What are the juiciest opportunities for us to go enrich existing pages versus like create net new.
 
-**Board Room:** Like I think it's like the AI gateway pages.
+**Marcel Santilli:** Like I think it's like the AI gateway pages.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** But also like there's this other thing over here that we could do and then they're just like, you know, so that's kind of like the chaos.
+**Marcel Santilli:** But also like there's this other thing over here that we could do and then they're just like, you know, so that's kind of like the chaos.
 
-**Board Room:** And then on top of that chaos, there's the quote unquote a yo layer which is like every CEO and every board member is like hey, what are we doing about AO AI visibility?
+**Marcel Santilli:** And then on top of that chaos, there's the quote unquote a yo layer which is like every CEO and every board member is like hey, what are we doing about AO AI visibility?
 
-**Board Room:** And they need to give them an answer.
+**Marcel Santilli:** And they need to give them an answer.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** So like that's the reality of what they're doing.
+**Marcel Santilli:** So like that's the reality of what they're doing.
 
-**Board Room:** And the, the job to be done that I think is what we nail is like how do you start from context, right.
+**Marcel Santilli:** And the, the job to be done that I think is what we nail is like how do you start from context, right.
 
-**Board Room:** Of the brand, the buyers, the Personas, the questions those buyers have, the mapping, like all the competitors and all of that define what good looks like for them, like AKA the calibration one not.
+**Marcel Santilli:** Of the brand, the buyers, the Personas, the questions those buyers have, the mapping, like all the competitors and all of that define what good looks like for them, like AKA the calibration one not.
 
-**Board Room:** And then audit their entire footprint to know how far they are or how good they are.
+**Marcel Santilli:** And then audit their entire footprint to know how far they are or how good they are.
 
-**Board Room:** And then from that point figure out what should they do next.
+**Marcel Santilli:** And then from that point figure out what should they do next.
 
-**Board Room:** But starting with net new and then back into optimization and then with all that creating a taxonomy layer that helps them understand everything, both the opportunities as well as the existing service area, AKA their assets.
+**Marcel Santilli:** But starting with net new and then back into optimization and then with all that creating a taxonomy layer that helps them understand everything, both the opportunities as well as the existing service area, AKA their assets.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** So it's almost like a portfolio.
+**Marcel Santilli:** So it's almost like a portfolio.
 
-**Board Room:** Your site is your overall investment strategy.
+**Marcel Santilli:** Your site is your overall investment strategy.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And then there's like portfolios that of how you approach it, you know.
+**Marcel Santilli:** And then there's like portfolios that of how you approach it, you know.
 
-**Board Room:** So one portfolio could be like high growth stocks, but then some people might be like, you know, anti gold portfolio.
+**Marcel Santilli:** So one portfolio could be like high growth stocks, but then some people might be like, you know, anti gold portfolio.
 
-**Board Room:** Like, you know what I mean?
+**Marcel Santilli:** Like, you know what I mean?
 
-**Board Room:** Like the hypothesis of your investments could be slightly different.
+**Marcel Santilli:** Like the hypothesis of your investments could be slightly different.
 
-**Board Room:** So anyways, I feel like I dumped too much already.
+**Marcel Santilli:** So anyways, I feel like I dumped too much already.
 
-**Board Room:** But.
+**Marcel Santilli:** But.
 
-**Board Room:** But hopefully that's enough to know like kind of where, where we are from both angles.
+**Marcel Santilli:** But hopefully that's enough to know like kind of where, where we are from both angles.
 
 **Ryan Singer:** Yes.
 
@@ -880,13 +907,13 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** Like does the staff know what they need to be doing and are they seeing the right things in order to, to be higher leverage, is that right?
 
-**Board Room:** That's correct.
+**Marcel Santilli:** That's correct.
 
-**Board Room:** And the bottleneck.
+**Marcel Santilli:** And the bottleneck.
 
-**Board Room:** Okay, tell me if I'm, if I'm off here.
+**Marcel Santilli:** Okay, tell me if I'm, if I'm off here.
 
-**Board Room:** But the bottleneck we're choosing to solve is the how many kickoffs can we do bottleneck first because it's like yeah, solving the existing 60 clients would be able to.
+**Marcel Santilli:** But the bottleneck we're choosing to solve is the how many kickoffs can we do bottleneck first because it's like yeah, solving the existing 60 clients would be able to.
 
 **Ryan Singer:** That's the setup piece.
 
@@ -894,43 +921,43 @@ Staff screens share with clients; clients don't need direct login access. The sy
 
 **Ryan Singer:** Kickoffs is this setup of all the context and, and that.
 
-**Board Room:** Yeah, correct.
+**Marcel Santilli:** Yeah, correct.
 
-**Board Room:** It's the.
+**Marcel Santilli:** It's the.
 
-**Board Room:** We do a bunch of research in the brand.
+**Marcel Santilli:** We do a bunch of research in the brand.
 
-**Board Room:** We have a kickoff call where we ask questions just not as good as you do but like you know, a 10 as good as you do and try to get all this good input.
+**Marcel Santilli:** We have a kickoff call where we ask questions just not as good as you do but like you know, a 10 as good as you do and try to get all this good input.
 
-**Board Room:** And, and then we create their content strategy which is like identify all the opportunities they have.
+**Marcel Santilli:** And, and then we create their content strategy which is like identify all the opportunities they have.
 
-**Board Room:** We.
+**Marcel Santilli:** We.
 
-**Board Room:** And then there's a bunch of custom things like audits and things like that that are all things that the pages will simplify because right now it's like we go to Semrush and create an audit.
+**Marcel Santilli:** And then there's a bunch of custom things like audits and things like that that are all things that the pages will simplify because right now it's like we go to Semrush and create an audit.
 
-**Board Room:** We go into like these other tools and whatnot.
+**Marcel Santilli:** We go into like these other tools and whatnot.
 
-**Board Room:** Right?
+**Marcel Santilli:** Right?
 
 **Ryan Singer:** Yep.
 
-**Board Room:** And then, and then we calibrate so it's kind of like this process.
+**Marcel Santilli:** And then, and then we calibrate so it's kind of like this process.
 
-**Board Room:** The key cough is basically when we start with that there's a lot of work that happens between sales and the kickoff.
+**Marcel Santilli:** The key cough is basically when we start with that there's a lot of work that happens between sales and the kickoff.
 
-**Board Room:** There's a lot of work of like.
+**Marcel Santilli:** There's a lot of work of like.
 
-**Board Room:** Researching this space, understanding a bit of their personal whatever you can get from like between sales and we're going to start working together and then we have this eight weeks period that we're just like ordering coming up of opportunities, looking at competitors, coming up with content roadmap and testing sample art.
+**Marcel Santilli:** Researching this space, understanding a bit of their personal whatever you can get from like between sales and we're going to start working together and then we have this eight weeks period that we're just like ordering coming up of opportunities, looking at competitors, coming up with content roadmap and testing sample art.
 
-**Board Room:** So that is.
+**Marcel Santilli:** So that is.
 
-**Board Room:** And it's a eight week year that.
+**Marcel Santilli:** And it's a eight week year that.
 
-**Board Room:** We sell.
+**Marcel Santilli:** We sell.
 
-**Board Room:** That today.
+**Marcel Santilli:** That today.
 
-**Board Room:** We want to make that easier for everybody to somebody that's just joined, they have like all the things, most of the things automated for them, they have to be just editing instead of having to really have all these things in their mind.
+**Marcel Santilli:** We want to make that easier for everybody to somebody that's just joined, they have like all the things, most of the things automated for them, they have to be just editing instead of having to really have all these things in their mind.
 
 [Transcript continues for ~2.5 more hours covering detailed UI/UX discussion, navigation architecture, optimization workflows, and collaboration planning]
 

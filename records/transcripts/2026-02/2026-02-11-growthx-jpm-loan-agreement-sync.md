@@ -5,22 +5,28 @@ date: 2026-02-11
 time: 16:30 UTC
 duration: 70 minutes
 organizer: bridget@growthxlabs.com
-participants: Bridget McGillivray, Richard Garvan, Dane Patterson, Ericksson Abad
+participants:
+  - Bridget McGillivray (Finance/Operations Lead, GrowthX)
+  - Richard Garvan (Outside Counsel)
+  - Dane Patterson (Financial Advisor)
+  - Ericksson Abad (Co-founder/CTO, GrowthX)
 fireflies_id: 01KH4ZZWEDW6W59MS79VFNWBRT
 transcript_url: https://app.fireflies.ai/view/01KH4ZZWEDW6W59MS79VFNWBRT
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-GrowthX's legal and finance team reviewed the JPMorgan loan agreement in detail with outside counsel (Richard Garvan) and advisor (Dane Patterson). Key focus: negotiating covenants to preserve operational flexibility — particularly around M&A, convertible notes/SAFEs, board composition changes, and asset management accounts. Target: close loan by end of February. Several open items need follow-up with JPMorgan before final execution.
+Bridget McGillivray, Ericksson Abad, Richard Garvan, and Dane Patterson reviewed a JPMorgan working capital loan agreement clause-by-clause to identify restrictive covenants that could limit operational flexibility. Key outcomes: confirmed loan will fund general working capital (not M&A), negotiated carve-outs for equity-backed acquisitions (with lender sign-off), agreed that SAFEs/convertible notes are allowed with standard subordination, and secured exemption from audit requirements (internal 60-day statements acceptable). Open items: clarify materiality of client contracts, confirm equity round/secondary sale treatment, push back on asset management account consolidation, and finalize legal language on board composition changes. Target close: end of February.
 
 ---
 
 ## Context
 
-GrowthX is closing a working capital loan with JPMorgan. This session is a working review of the draft loan agreement with outside legal counsel to identify and negotiate restrictive clauses before final execution. Bridget (finance/ops lead) is managing the process with Richard Garvan (outside counsel) and Dane Patterson (advisor). The loan marks the beginning of a multi-year banking relationship with JPMorgan.
+GrowthX is in final negotiations on a working capital facility with JPMorgan—a strategic multi-year banking relationship expected to close by end of February 2026. The company has evolved from a pure content marketing agency (founded as a services business) to a SaaS platform with recurring 12-month contracts, which JPMorgan understands and has built into ARR-based covenant definitions. Bridget McGillivray is leading the close on GrowthX's side, supported by two co-founders (including Ericksson in engineering), outside counsel Richard Garvan, and advisor Dane Patterson. This loan session was a detailed legal review of JPMorgan's standard form agreement to negotiate carve-outs and restrictions that might impede future fundraising, M&A, or routine cap table management. The stakes are significant: the loan will fund working capital, and the company recently disclosed a lost $2.7M ARR client (replacement expected within 90 days)—a detail that became material to covenants around "material contracts."
 
 ---
 
@@ -46,6 +52,42 @@ GrowthX is closing a working capital loan with JPMorgan. This session is a worki
 - Target loan close: end of February (JPMorgan targeting mid-March).
 - $30K/month at risk if JPMorgan forces fund consolidation — Bridget pushing back.
 - Lost $2.7M ARR client — replacement within 90 days, disclosed proactively to bank.
+
+---
+
+## Decisions & Commitments
+
+**Confirmed Agreements:**
+- Loan proceeds reserved for working capital and general corporate purposes, not acquisitions
+- Equity-backed acquisitions (acqui-hires or purchases) allowed with JPMorgan sign-off to mitigate hidden liabilities
+- SAFEs and convertible notes permitted with standard subordination (JPMorgan senior, no prior approval needed)
+- Board composition changes allowed (JPMorgan concerned only with wholesale control shifts, not normal turnover)
+- Audit requirement waived; internal financial statements (60-day cadence) sufficient for covenant monitoring
+- Subsidiaries permitted if they sign guarantees and security agreements within 1 month of formation
+- Forgivable notes for option exercise allowed (standard practice for executive hiring)
+
+**Team Pushbacks (in progress):**
+- Asset management account: Bridget pushing back on consolidation; will escalate to investors if needed to preserve $30K/month yield
+- Materiality threshold: defined as contracts whose loss cannot be replaced within 90 days; $2.7M ARR client loss immaterial under this definition if replacement confirmed within 90 days
+- Board materials: team will provide board packs (not minutes) with confidential/privilege carve-outs; resisting unlimited KPI access
+- Incremental borrowing: requesting increase from 2 draws (min $500K) to 5 draws; minimum draw amount to be negotiated
+- Secondary sales: clarifying treatment in context of Series B fundraising; founders intend to execute secondaries in next equity round
+- Maturity date: Richard recommending Feb 28, 2030 (per term sheet) over Feb 1, 2030 in agreement
+
+**Pending Board Discussion:**
+- M&A and subsidiary sign-off language must be reviewed with board member Karan before circulating revised agreement to JPMorgan
+
+---
+
+## Open Questions
+
+- **Asset Management Account Consolidation:** Will JPMorgan require forced consolidation of the asset management account? If so, GrowthX loses ~$30K/month in yield and must find alternative banking relationship (possibly Chase). Bridget to push back; escalation path identified.
+- **Secondary Sales in Series B:** How are secondary sales treated in the context of future equity rounds? Team needs clarity before next Series B fundraising begins. Richard to coordinate with Dane on standard banking practice.
+- **Materiality Definition Finality:** Consensus was reached that materiality = contracts requiring >90 days to replace. Does JPMorgan agree with this definition? Will be included in revised agreement pending their feedback.
+- **Board Materials Scope:** Will JPMorgan accept board packs (not full minutes) with confidential carve-outs, or will they push for unlimited access? Team to negotiate "reasonable lead times and scope limits."
+- **Incremental Borrowing Draws:** Can team secure 5 draws instead of 2, and will minimum draw size be reduced from $500K? To be negotiated with JPMorgan.
+- **Maturity Date Alignment:** Will JPMorgan agree to Feb 28, 2030 (per term sheet) instead of Feb 1, 2030? Richard to confirm with lender.
+- **Insurance Requirements:** Are GrowthX's existing property/casualty policies compliant with loan agreement conditions? Ericksson to review.
 
 ---
 
@@ -154,7 +196,7 @@ Close target: end of February. JPMorgan targeting mid-March. Richard committed t
 
 **Richard Garvan:** Yeah, you too.
 
-**Richard Garvan:** Hi, Ericson.
+**Richard Garvan:** Hi, Ericksson.
 
 **Richard Garvan:** You're in Germany right now.
 
@@ -178,7 +220,7 @@ Close target: end of February. JPMorgan targeting mid-March. Richard committed t
 
 **Bridget McGillivray:** So can you just give me a second?
 
-**Richard Garvan:** I'm going to get that issues list that Erickson sent up on the screen.
+**Richard Garvan:** I'm going to get that issues list that Ericksson sent up on the screen.
 
 **Richard Garvan:** They can use that as a careful agenda.
 
@@ -958,7 +1000,7 @@ Close target: end of February. JPMorgan targeting mid-March. Richard committed t
 
 **Richard Garvan:** And I'm definitely going to put this in the market that goes back to the bank.
 
-**Richard Garvan:** But Bridget Erickson, I think we have.
+**Richard Garvan:** But Bridget Ericksson  I think we have.
 
 **Richard Garvan:** There's going to be conversations you'll need to have with the bank directly about some of these points.
 
@@ -1514,7 +1556,7 @@ Close target: end of February. JPMorgan targeting mid-March. Richard committed t
 
 **Richard Garvan:** Okay.
 
-**Bridget McGillivray:** Maybe you can handle it, Erickson.
+**Bridget McGillivray:** Maybe you can handle it, Ericksson 
 
 **Bridget McGillivray:** Like, I think I.
 

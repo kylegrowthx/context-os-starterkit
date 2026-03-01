@@ -5,64 +5,134 @@ date: 2025-12-08
 time: 21:45 UTC
 duration: 59 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Stevie Kim
+participants:
+  - name: Marcel Santilli
+    role: Founder/CEO
+    company: GrowthX
+    email: marcel@growthxlabs.com
+  - name: Stevie Kim
+    role: Product/Engineering
+    company: CheckThat
+source: fireflies
 fireflies_id: 01KBVDH9XZ48X3ZBGER71M08AW
 transcript_url: https://app.fireflies.ai/view/01KBVDH9XZ48X3ZBGER71M08AW
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel provided Stevie Kim with detailed walkthroughs of category design, prompt library operationalization, and admin panel functionality for scaling CheckThat content operations. The discussion focused on flattening the category taxonomy to support multi-category tagging, launching 5,000 detailed brand pages within 2-3 months, and addressing low SEO indexing (only 20 pages getting impressions despite 5,000+ live pages). Key priorities include establishing an editorial team to refine prompts, defining safe admin workflows, and improving SEO through better meta titles, descriptions, and brand page hubs. The team plans to ramp up editors immediately and document workflows to handle 20,000+ pages at scale.
+Marcel walked Stevie through CheckThat's category structure redesign, admin workflows, and SEO scaling strategy. The team will flatten the category taxonomy to enable multi-category tagging, launch 5,000 brand pages within 2-3 months, and fix critical indexing issues (currently only ~20 pages getting impressions from 5,000+ live). Immediate next steps: hire editors, audit categories/prompts, finalize brand page templates, and execute SEO fixes.
+
+---
+
+## Context
+
+Stevie Kim leads product and engineering for CheckThat, GrowthX's AI visibility index for B2B SaaS. This call was a working session to operationalize content scaling—moving from prototype to production infrastructure. Marcel provided detailed system walkthroughs to unblock Stevie on category taxonomy decisions, editorial workflows, and admin panel safety. The relationship is operational and collaborative; both parties are aligned on the strategic bet CheckThat represents for GrowthX.
+
+---
+
+## Relevance
+
+**CheckThat (Product)**
+- Category structure redesign and multi-category tagging architecture
+- Brand page launch strategy (5,000 pages targeting high-intent, low-competition keywords)
+- Admin panel workflows and editorial access controls
+- SEO indexing audit and performance fixes
+
+**Content & Editorial**
+- Prompt library operationalization with dedicated editors
+- Content type strategy (brand pages, lists, answer pages, learning resources)
+- Category audit and update workflows
+- Documentation for scalable editorial processes
+
+**Engineering/Infrastructure**
+- Admin panel functionality and safety guardrails
+- Systems to handle 20,000+ pages at scale
+- SEO metadata customization with templating
+
+---
+
+## Decisions & Commitments
+
+1. **Flatten category taxonomy** - Move from nested categories/subcategories to flat single-level "categories" entity with multi-category tagging support.
+2. **Launch brand page model** - Aggregate pricing, reviews, product details, funding as comprehensive hubs (vs. shallow profiles).
+3. **Hire editorial team immediately** - Begin with cost-effective editor options; Stevie will audit categories this week to prepare onboarding.
+4. **Prioritize SEO indexing fixes** - Nika's team auditing indexing blockers; fixing bugs before scaling content production.
+5. **Define admin workflows** - Document safe editing processes and category update procedures with controlled access.
+
+---
+
+## Open Questions
+
+- What is the target cost per editor and hiring timeline?
+- How will multi-category tagging affect search ranking and user discovery?
+- What specific indexing blockers has Nika's team identified?
+- How should metadata defaults be templated for brand pages at scale?
+- What defines "safe" versus "risky" category updates in the admin panel?
+
+---
+
+## Overview & Key Topics
+
+| Topic | Coverage | Timestamp(s) |
+|-------|----------|-------------|
+| Prompt library operationalization | Assign 2 editors to audit shared prompts; Stevie starts with familiar subcategory | 09:51–11:48 |
+| Category structure simplification | Flatten to single entity; enable multi-category tagging | 13:40–17:42 |
+| Brand pages model | 5,000 detailed hubs over 2-3 months; includes pricing, reviews, product details, funding | 38:48–40:14 |
+| Content types strategy | Lists, answers, learning resources targeting long-tail keywords | 41:24–47:05 |
+| SEO indexing challenges | Only ~20 pages getting impressions; audit in progress; fix bugs before scaling | 35:57–37:28 |
+| Admin panel experience | Build robust system for 20,000+ pages with controlled editor access | 29:12–31:05 |
+| Editorial onboarding | Begin immediately; Stevie audits categories this week | 52:21–53:38 |
+| Documentation & triage | Create tickets for category flattening, multi-category tagging, admin enhancements | 55:30 |
 
 ---
 
 ## Action Items
 
-**Stevie Kim** - Pick a subcategory to audit and define an efficient process for prompt and category updates, and document update workflows and admin panel risks (11:48)
+**Stevie Kim (CheckThat)** - Pick a subcategory to audit and define an efficient process for prompt and category updates; document update workflows and admin panel risks
 
-**Stevie Kim** - Begin triaging category and prompt editing tickets and operationalize category update workflows (56:19)
+**Stevie Kim (CheckThat)** - Begin triaging category and prompt editing tickets and operationalize category update workflows
 
-**Stevie Kim** - Coordinate with Marcel on ramping up editors and reviewing admin panel functionalities for safe editing (52:21)
+**Stevie Kim (CheckThat)** - Coordinate with Marcel on ramping up editors and reviewing admin panel functionalities for safe editing
 
-**Marcel Santilli** - Finalize the new brand pages model by end of day tomorrow and continue shaping editorial workflows for enrichment (54:46)
+**Marcel Santilli (GrowthX)** - Finalize the new brand pages model by end of day Dec 9 and continue shaping editorial workflows for enrichment
 
-**Marcel Santilli** - Provide detailed walkthroughs of category design and admin panel operation to Stevie (13:59)
+**Marcel Santilli (GrowthX)** - Ensure creation of tickets for flattening categories, enabling multi-category prompt tagging, and admin panel enhancements to improve editorial experience
 
-**Marcel Santilli** - Ensure creation of tickets for flattening categories, enabling multi-category prompt tagging, and admin panel enhancements to improve editorial experience (55:30)
+**Marcel Santilli (GrowthX)** - Support SEO indexing audit led by Nika and prioritize fixing bugs/blockers to improve organic reach
 
-**Marcel Santilli** - Support SEO indexing audit led by Nika and prioritize fixing bugs-blockers to improve organic reach (35:57)
-
-**Marcel Santilli** - Oversee the build-out of editorial and CMS system to handle 20,000+ pages with focus on scalability and trustable editor roles (31:05)
+**Marcel Santilli (GrowthX)** - Oversee the build-out of editorial and CMS system to handle 20,000+ pages with focus on scalability and trustable editor roles
 
 ---
 
 ## Key Insights
 
 ### Prompt Library Operationalization
-Immediate assignment of two editors to audit and refine shared prompts, with Stevie starting with one familiar subcategory to develop an effective review process. Categories must reflect how buyers and marketers perceive their business to build trust and relevance.
+Two editors will immediately begin auditing and refining shared prompts. Stevie starts with one familiar subcategory to develop an effective review process. Categories must reflect how buyers and marketers perceive their business to build trust and relevance.
 
 ### Category Structure Simplification
-Current categorization should be flattened into a single "categories" entity rather than separate categories and subcategories. Prompts can belong to multiple categories to expand surface area without duplicating content, improving user discovery and SEO performance.
+Current nested structure (categories + subcategories) will flatten into a single "categories" entity. Prompts can belong to multiple categories, expanding surface area without duplicating content and improving both user discovery and SEO performance.
 
-### Brand Page Strategy
-Plans to launch 5,000 detailed brand pages over 2-3 months as comprehensive hubs aggregating key data points aligned with user search intent. Instead of shallow company profiles, brand pages will include pricing, reviews, product details, and funding information.
+### Brand Pages as Scaling Play
+5,000 detailed brand pages launching over 2-3 months will serve as comprehensive hubs aggregating pricing, reviews, product details, and funding information. This shifts from shallow company profiles to searchable, intent-aligned content.
 
-### Content Types Focus
-Brand pages, lists, answer pages, and learning resources target high-demand, low-competition keywords:
-- **Lists:** Editorialized directories like "Series A startups in New York" or "YC unicorn startups"
-- **Answers:** Concise responses to long-tail queries (e.g., "Who is the CEO of Netflix?") with links to relevant brands
-- **Learning Content:** Guides and articles capturing high-intent searches
+### Content Types Strategy
+Four content types target high-demand, low-competition keywords:
+- **Brand Pages:** Comprehensive company hubs with aggregated data
+- **Lists:** Editorialized directories (e.g., "Series A startups in New York")
+- **Answers:** Concise responses to long-tail queries with brand links (e.g., "Who is the CEO of Netflix?")
+- **Learning Resources:** Guides and articles capturing high-intent searches
 
-### SEO Indexing Challenge
-Current indexing is critically low with only about 20 pages receiving impressions despite having 5,000+ pages live. Nika's team is auditing indexing blockers and fixing bugs that prevent pages from appearing in search results. Immediate priority is improving indexing speed and volume before scaling content production.
+### Critical SEO Indexing Gap
+Only ~20 pages are getting impressions despite 5,000+ live pages. Nika's team is auditing indexing blockers and fixing bugs. Fix indexing before scaling—rapid production of unindexed content wastes resources.
 
-### Admin and Editorial Workflow
-Emphasis on building robust admin and editorial systems to manage 20,000+ pages with controlled access. Editors and custom workflows will enrich brand pages iteratively. Metadata customization with default templates and admin override capability improves SEO without manual editing of every page.
+### Admin & Editorial Infrastructure
+Build robust systems for 20,000+ pages with controlled editor access. Metadata customization using default templates with admin override improves SEO without manual editing. Safe workflows are essential before onboarding editors.
 
-### Resource Allocation
-Editorial staffing begins immediately with cost-effective editor options. Stevie will audit categories and prompt tagging this week to prepare for onboarding. Marcel will complete brand page design by end of day tomorrow to enable focused editor contributions.
+### Immediate Resource Allocation
+Hire editors immediately (cost-effective options prioritized). Stevie audits categories/prompts this week. Marcel finalizes brand page design by Dec 9 to unblock focused editor contributions.
 
 ---
 

@@ -1,48 +1,69 @@
-# Marcel <> Anna Baird - Fiscal Plan Review
+# Marcel <> Anna Baird — Fiscal Plan Review
 
 ---
 meeting_id: 01KFY55YDFZDH8WCHCCHNB4V3G
 date: 2026-01-28
 time: 22:00 UTC
 duration: 8 minutes
-host: marcel@growthxlabs.com
+organizer: marcel@growthxlabs.com
 participants:
-  - Marcel Santilli (marcel@growthxlabs.com)
-  - Anna Baird (abaird@madrona.com)
-  - Bridget (bridget@growthxlabs.com)
+  - name: Marcel Santilli
+    email: marcel@growthxlabs.com
+    affiliation: GrowthX
+    role: organizer
+  - name: Anna Baird
+    email: abaird@madrona.com
+    affiliation: Madrona
+    role: external
+  - name: Bridget McGillivray
+    email: bridget@growthxlabs.com
+    affiliation: GrowthX
+    role: attendee
 platform: Zoom
+source: fireflies
 fireflies_url: https://app.fireflies.ai/view/01KFY55YDFZDH8WCHCCHNB4V3G
-last_updated: 2026-02-01
+enriched_on: 2026-03-01 00:00 UTC
+last_updated: 2026-03-01
 ---
 
 ## Summary
 
-Brief check-in call between Marcel and Anna Baird. The recorded portion captured only initial greetings before the substantive discussion. Duration was approximately 8 minutes.
-
-**Note:** The transcript capture is incomplete. Only the opening greetings were recorded, suggesting either technical issues with the recording or that the main discussion occurred off-record.
+Fiscal plan review call between Marcel Santilli (GrowthX) and Anna Baird (Madrona), with Bridget McGillivray attending. The Fireflies capture is incomplete, containing only brief opening exchanges before the substantive discussion. The 8-minute recorded segment does not include documented outcomes or decisions.
 
 ## Context
 
-- **Who is Anna Baird?** Partner at Madrona Ventures, GrowthX board member/investor
-- **Meeting purpose:** Fiscal plan review (per calendar title)
-- **Attendees:** Marcel (host), Anna Baird, Bridget
+Anna Baird is a partner at Madrona Ventures and a key external stakeholder in GrowthX's network. This meeting was a formal fiscal plan review, likely a recurring check-in focused on budget alignment, timeline review, or resource planning for an ongoing engagement. The presence of Bridget McGillivray (VP Ops at GrowthX) suggests operational readiness was part of the agenda. The meeting occurred on 2026-01-28 at 22:00 UTC, scheduled for substantive business discussion.
 
 ## Relevance to GrowthX
 
-This appears to be a board/investor touchpoint related to fiscal planning. Anna Baird is a key stakeholder as a Madrona partner. The "Fiscal Plan Review" title suggests discussion of GrowthX's financial planning, though the recorded content doesn't capture the substance.
+**Investor / Board Relations**
+- Fiscal planning touchpoint with Madrona, a key external partner
+- Anna Baird engagement as a stakeholder in GrowthX's financial direction
+- Relationship continuity and formal review cadence
+
+**Finance & Operations**
+- Fiscal plan review and budget alignment
+- Multi-team participation (Marcel, Bridget McGillivray) indicates operational involvement
+
+## Decisions & Commitments
+
+No explicit decisions or commitments captured in the available transcript.
+
+## Open Questions
+
+- What was the primary fiscal agenda (budget review, timeline, scope, resource allocation)?
+- What outcomes or decisions were reached during the substantive discussion?
+- Was a follow-up meeting scheduled?
 
 ## Overview
 
-The recording captured only the first moments of the call. Anna and Marcel exchanged brief greetings, with Anna noting they hadn't connected recently. The substantive fiscal plan discussion was not captured in this transcript.
+Scheduled fiscal plan review between GrowthX (Marcel, Bridget) and Madrona (Anna Baird). The recorded Fireflies segment captures only the opening greetings, with the substantive discussion not preserved in this transcript.
 
 ## Key Topics
 
-- Initial greetings and check-in
-- (Fiscal plan discussion not captured)
-
-## Action Items
-
-**No action items captured** - The transcript is too brief to contain any actionable outcomes.
+- Fiscal planning and budget review (discussed off-transcript)
+- Madrona engagement status (discussed off-transcript)
+- Relationship check-in and catch-up
 
 ---
 
@@ -61,5 +82,15 @@ The recording captured only the first moments of the call. Anna and Marcel excha
 **Anna Baird:** I don't know.
 
 ---
+
+## Action Items
+
+No explicit action items captured in the available transcript segment.
+
+---
+
+## Enrichment Notes
+
+This transcript was enriched on 2026-03-01. The Fireflies recording is incomplete, preserving only the opening moments of the call. The substantive fiscal plan discussion is not captured. A parallel Fathom recording exists with a 63-minute duration (2026-01-28-anna-baird-fiscal-plan-review.md, Fathom ID 117998350) that may contain the full meeting context. Consider referencing that file for complete fiscal planning details.
 
 *Transcript ends. Recording appears incomplete.*

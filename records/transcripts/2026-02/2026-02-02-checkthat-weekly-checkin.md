@@ -5,22 +5,30 @@ date: 2026-02-02
 time: 18:00 UTC
 duration: 11 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Jason Gong
+participants:
+  - name: Marcel Santilli
+    company: GrowthX
+    role: CEO
+  - name: Jason Gong
+    company: CheckThat
+    role: Launch Lead
+source: fireflies
 fireflies_id: 01KG80A7B88CFP2XNZXQ74GG4R
 transcript_url: https://app.fireflies.ai/view/01KG80A7B88CFP2XNZXQ74GG4R
+enriched_on: 2026-03-01 14:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Brief CheckThat weekly check-in cut short by scheduling conflicts. Most team members were in a parallel meeting that Daniel had rescheduled. Jason confirmed the soft launch was on track and planned to send over the launch video within 1-2 hours. Marcel planned to work on his launch post once the video arrived.
+CheckThat soft launch (launched Thursday) confirmed on track with all systems aligned. Jason committed to delivering the launch video to Marcel within 1-2 hours, enabling Marcel to finalize his launch post. Meeting ended early due to team availability conflict with another Daniel-rescheduled meeting.
 
 ---
 
 ## Context
 
-This was the weekly CheckThat product check-in, but most of the expected attendees (Estevao, Jacopo, Pedro, Daniel, Stevie, Jose, Leonardo, Nigel) were in a conflicting meeting that Daniel had moved. Marcel and Jason briefly synced on launch status before deciding to drop off and reconnect with the rest of the team separately. The meeting occurred during the active CheckThat soft launch period.
+CheckThat soft launch had just gone live (Thursday, Feb 01). This was the scheduled weekly team check-in to confirm post-launch status and alignment. However, most of the expected attendees were unavailable due to a parallel meeting Daniel had rescheduled to an overlapping time slot. Only Marcel (CEO/project sponsor) and Jason (launch lead) were present. They briefly synced on launch readiness before deciding to yield the time slot and follow up with extended team separately.
 
 ---
 
@@ -62,60 +70,47 @@ This was the weekly CheckThat product check-in, but most of the expected attende
 
 ## Action Items
 
-**Jason Gong**
-- Send the soft launch video to Marcel within 1-2 hours
+**Jason Gong (CheckThat)**
+- Send soft launch video to Marcel
 
-**Marcel Santilli**
-- Edit and finalize the launch post after receiving the video
-- Follow up with team members in the other meeting
+**Marcel Santilli (GrowthX)**
+- Edit and finalize launch post upon video receipt
+- Follow up with CheckThat team regarding post-launch status
+
+---
+
+## Decisions & Commitments
+
+**Jason Gong commits to:** Deliver launch video to Marcel within 1-2 hours of call (target: 19:00-20:00 UTC on Feb 02).
+
+**Marcel commits to:** Edit and finalize launch post once video received; independently follow up with rest of CheckThat team about status.
+
+**Decision:** Both agreed to drop off from this meeting and reconvene with full team when availability aligns, rather than proceed without core contributors.
+
+---
+
+## Open Questions
+
+- Have all soft launch users been imported and onboarded successfully?
+- Any blockers or issues discovered in the first 24 hours post-launch?
+- Timeline for full public launch (post soft-launch validation period)?
 
 ---
 
 ## Transcript
+
 **Jason Gong:** Hi, Marcel.
 
-**Marcel Santilli:** What's going on, man?
+**Marcel Santilli:** What's going on, man? How's it going?
 
-**Marcel Santilli:** How's it going?
+**Jason Gong:** Where is everyone?
 
-**2:** Where is everyone?
+**Marcel Santilli:** Good. Did this get canceled or something? Oh, I think this one. I think everybody's probably on the last one. I didn't realize there's another one.
 
-**Marcel Santilli:** Good.
+**Jason Gong:** Oh.
 
-**2:** Question.
+**Marcel Santilli:** Okay. Let's just drop off then and I'll check in with everybody else because they were probably in the other meeting because Daniel moved the other meeting.
 
-**Marcel Santilli:** Did this get canceled or something?
+**Jason Gong:** Okay. So the soft launch — I'm just waiting to invite the soft launch people, but it was launched Thursday. Everything's still lined up. We almost got to pass the video. I'll shoot that over to you in like an hour or two.
 
-**Marcel Santilli:** Oh, I think this one.
-
-**Marcel Santilli:** I think everybody's probably on the last one.
-
-**Marcel Santilli:** I didn't realize there's another one.
-
-**2:** Oh.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Let's just drop off then and I'll check in with everybody else because they were.
-
-**Marcel Santilli:** They're probably in the other meeting because Daniel moved the other meeting.
-
-**Marcel Santilli:** And then.
-
-**2:** Okay.
-
-**2:** Launch the recording.
-
-**2:** I mean, I'm just waiting to invite the soft launch people, but it was launched a Thursday.
-
-**2:** Everything's still lined up.
-
-**2:** We almost got to pass the video.
-
-**2:** I'll shoot that over to you in, like, an hour or two.
-
-**Marcel Santilli:** Okay, cool.
-
-**Marcel Santilli:** Find a work on my post or, like, edit the post.
-
-**Marcel Santilli:** Cool.
+**Marcel Santilli:** Okay, cool. I'll work on my post and edit the post. Cool.

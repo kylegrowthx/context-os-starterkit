@@ -83,6 +83,25 @@ See [README.md](README.md) for an overview of this directory.
 |------|------|
 | [growthx/checkthat-db-query-reference-v1.md](growthx/checkthat-db-query-reference-v1.md) | reference |
 
+## Content
+
+| File | Type |
+|------|------|
+| [content/llm-writing-mastery-study-guide-v1.md](content/llm-writing-mastery-study-guide-v1.md) | study guide |
+| [content/llm-writing-mastery-study-guide-v2.md](content/llm-writing-mastery-study-guide-v2.md) | study guide |
+
+## People & Company
+
+| File | Type |
+|------|------|
+| [people-company/gamma-kristin-fracchia-study-guide-v1.md](people-company/gamma-kristin-fracchia-study-guide-v1.md) | study guide |
+
+## Root Files
+
+| File | Type |
+|------|------|
+| [hubspot-crm-system-guide-v1.md](hubspot-crm-system-guide-v1.md) | guide |
+
 ## Archive
 
 | File | Type |
@@ -91,4 +110,4 @@ See [README.md](README.md) for an overview of this directory.
 
 ---
 
-**Total: 40 files**
+**Total: 45 files**

@@ -4,24 +4,28 @@
 date: 2026-01-14
 time: 23:30 UTC
 duration: 58 minutes
-organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Jason Gong
+organizer: Marcel Santilli (CEO)
+participants:
+  - Marcel Santilli (CEO, GrowthX)
+  - Jason Gong (Head of Growth, GrowthX)
 fireflies_id: 01KETP757DDP9HXXSD9X9Z5Q2E
 meeting_link: https://growthx-ai.zoom.us/j/89090735621?jst=2
 transcript_url: https://app.fireflies.ai/view/01KETP757DDP9HXXSD9X9Z5Q2E
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel and Jason aligned on growth priorities across community, CheckThat, and services. The core message: validate channels before scaling, treat community as a revenue engine, and keep the services pipeline full. Marcel outlined a $5M marketing budget and emphasized finding repeatable acquisition channels while Jason committed to tighter funnel monitoring with Tyler.
+Marcel and Jason realigned growth strategy with newfound clarity on validation-first execution. Key outcomes: (1) CheckThat product is solid—focus is onboarding polish and "check your website" hook to drive signup conversion; (2) Services pipeline at critical risk with $4M ARR exposed across 6/12 Q1 renewals, requiring 6 qualified new leads weekly minimum to sustain; (3) Community should operate as standalone P&L with reinvested revenue, Carol Lu brought in as CMO resource for independent marketing execution. Weekly AI visibility reports (via email, gated upsell) proposed as growth loop to validate data value before building deeper platform features.
 
 ---
 
 ## Context
 
-This is a regular weekly sync between Marcel (CEO) and Jason (Head of Growth). The meeting comes at a critical inflection point: fiscal planning is underway, 6 of 12 Q1 renewals are at risk, and CheckThat is nearing launch readiness. Marcel is also exploring bringing Carol Lu into a forward-deployed CMO role.
+This is the weekly CEO-Growth Lead sync, a standing 1:1 between Marcel (CEO) and Jason (Head of Growth) that covers GTM execution, product validation, and pipeline health. The meeting occurs at a critical inflection point in H1 2026: (1) fiscal planning is in final stages with board approval pending, (2) Q1 renewal risk is acute—Surge lost, Homebase/School AI/Superhuman/Abnormal/OCTA all flagged red, totaling ~$4M ARR—(3) CheckThat is 4-6 weeks from launch, pending product polish and onboarding validation, and (4) Marcel is pursuing Carol Lu (consultant/CMO network player, consulting business >$1M/year) to take ownership of external marketing and events, freeing Marcel from hard stops required by personal constraints. The relationship is collaborative peer-to-peer, with Jason driving day-to-day GTM while Marcel arbitrates strategy and handles high-touch renewal calls.
 
 ---
 
@@ -44,6 +48,35 @@ This is a regular weekly sync between Marcel (CEO) and Jason (Head of Growth). T
 - Community should fund its own growth through reinvestment
 - Compelling offer with strong landing page and nurture path needed
 - Carol Lu potential addition for CMO relationships and event execution
+
+---
+
+## Decisions & Commitments
+
+**Marcel Santilli:**
+- Will play with AI visibility report formats and design delivery mechanism (weekly snapshot + narrative + charts + recommendations); hand-carve several demos to validate usefulness before programmatizing
+- Will balance CheckThat validation/conversion optimization against OS platform launch for February deployment
+- Commits to weekly GTM sync with Tyler to monitor pipeline health and renewal progress
+- Will align Carol Lu's scope definition (forward-deployed CMO vs. core marketing owner) and integration plan with Jason
+- Finalizing fiscal plan for board approval, with $3.4M Q1-Q3 and $5M all-in marketing budget as anchor
+
+**Jason Gong:**
+- Will improve community channel communication to capture inspired content moments for social repurposing (LinkedIn posts, hooks)
+- Will validate core offers (AEO Masterclass cohort + Creating Great AI Outputs on-demand) through LinkedIn ads and social starting next workshop
+- Will support CheckThat demo report generation and onboarding validation for prospect calls
+- Will establish weekly funnel monitoring with Tyler: track qualified meetings, ensure 6 new leads/week minimum, investigate conversion barriers
+- Will collaborate with Carol Lu on network activation (leveraging her Sentinel1/Lovable CMO connections)
+
+---
+
+## Open Questions
+
+- **CheckThat onboarding:** Will basic demographic + citation insights suffice to convert free users to paid, or do we need deeper human-generated audit recommendations? (Depends on demo + conversion validation)
+- **AI visibility report timing:** How frequently do B2B software teams need to act on data—daily, weekly, or monthly? (Jason: weekly matches decision cycles; Marcel: validating with weekly email cadence + manual pre-creation for demos)
+- **Carol Lu integration:** Will she operate as forward-deployed CMO (client relationship + network activation) or core marketing owner (positioning, packaging, website)? (Marcel considering both; constraints: personal hard stop at 4:30pm daily)
+- **Services pipeline root cause:** Is renewal churn driven by missing stakeholder relationships, unaddressed scope creep, or natural client contraction? (Identified for 5 accounts; requires renewal conversation revival with Tyler)
+- **CheckThat data quality risk:** Do prospects care about accuracy vs. competitive advantage? Do we need differentiation messaging around keyword + research data vs. clickstream? (Jason concerned; Marcel validating via demos)
+- **Community CAC:** What is actual customer acquisition cost for workshop → membership conversion? At what CAC threshold do we double down vs. pivot? (Testing $1,000/CAC hypothesis at ~$200/month subscription)
 
 ---
 
@@ -122,21 +155,21 @@ No one acts on daily insights. Weekly cadence matches decision cycles. Start man
 
 ## Action Items
 
-**Marcel Santilli**
-- Define Carol Lu's role and scope (forward-deployed CMO vs. core marketing owner); align team on integration
-- Finalize fiscal plan and get board approval with focus on marketing budget sustainability
-- Play with AI visibility report formats; design delivery mechanism for weekly insights
-- Push CheckThat validation and conversion optimization; coordinate with team on backfill fixes
-- Establish weekly GTM cadence with Tyler to monitor pipeline metrics and renewal rates
-- Balance community growth against services performance requirements
+**Marcel Santilli (GrowthX - CEO)**
+- Define Carol Lu's role and scope—forward-deployed CMO (network activation, event execution) vs. core marketing owner (positioning, packaging, pricing, website); align on start date and integration with Jason
+- Finalize fiscal plan and secure board approval; confirm $3.4M Q1-Q3 and $5M all-in marketing spend allocation
+- Design and hand-carve AI visibility report formats (narrative + charts + competitive insights); validate via pre-created demo reports for CheckThat prospect calls
+- Push CheckThat onboarding validation and conversion optimization; debug workspace backfill issues with engineering team for February launch
+- Establish weekly operational sync with Tyler (Services Delivery Lead) to monitor pipeline health, renewal conversations, and lead flow metrics
+- Maintain high-touch renewal relationships for Homebase, School AI, Superhuman, Abnormal, OCTA accounts
 
-**Jason Gong**
-- Improve internal communication (community channel) to capture content moments for social repurposing
-- Validate core offers (AEO Masterclass, Creating Great AI Outputs) through social and ads starting next workshop
-- Leverage Carol Lu's network; collaborate on integration into marketing and community
-- Support AI visibility report execution for demos and prospects
-- Monitor funnel with Tyler—track qualified meetings weekly, ensure 6 new leads/week minimum
-- Manage social strategies, trial sponsorships, workshops, and ads to improve content dynamism
+**Jason Gong (GrowthX - Head of Growth)**
+- Capture inspired content moments in community channel (hooks, workshop clips, thought leadership); coordinate daily with team for social repurposing and LinkedIn posting
+- Validate core offers (AEO Masterclass cohort, Creating Great AI Outputs on-demand course) through LinkedIn social + paid ads starting next workshop; measure signups, CAC, and conversion to membership
+- Activate Carol Lu's network (Sentinel1, Lovable CMO introductions); coordinate on event execution and external partner relationships
+- Support CheckThat AI visibility report generation for prospect demos and sales enablement; iterate on data presentation and insights quality
+- Monitor funnel metrics with Tyler (GrowthX Services)—weekly qualified meetings count, lead quality, ensure 6 new qualified leads/week minimum to sustain 2 kickoffs/week baseline
+- Manage social media strategy, trial sponsorships, workshop execution, and paid ads to improve content velocity and community engagement
 
 ---
 
@@ -144,21 +177,15 @@ No one acts on daily insights. Weekly cadence matches decision cycles. Start man
 
 **Marcel Santilli:** All right, how goes it?
 
-**Jason Gong:** Good. I feel better about check that time on it today.
+**Jason Gong:** Good. I feel better about CheckThat after working on it today.
 
-**Marcel Santilli:** But what has changed in anything?
+**Marcel Santilli:** What has changed?
 
-**Jason Gong:** I. I don't know. I think I just spent like, way more time with the, with the product and playing around with it feels like.
+**Jason Gong:** I spent more time with the product and it clicked. The core product value is the same as competitors, but your framing—we're validating, not trying to match Profound yet—that all clicked this week.
 
-**Marcel Santilli:** It's like I want you understand the value better or.
+**Marcel Santilli:** Demos are landing well. People are impressed: they don't have to think about prompts, we already have all the data, they sign up and get instant access for nearly nothing.
 
-**Jason Gong:** Well, I mean, I think the value of it, like, like, as far as the core product goes, it's the same as the other ones. But like, the. As far as, like the strategy and how, like, especially your framing of like, we're really just trying to validate. Like, we're not trying to build something that's as good as profound, at least not yet. I think all of that kind of like clicked maybe this week.
-
-**Marcel Santilli:** I mean, so far demos I make. People are pretty impressed and happy with like, the, like the idea that, oh, I don't have to think about prompts and you already have all the data and I just sign up and I have all the data and it costs nearly nothing.
-
-**Jason Gong:** Oh, great.
-
-**Marcel Santilli:** Like, you know, yeah, that part's super.
+**Jason Gong:** Great.
 
 **Jason Gong:** Clear and we're making it the, like, anchor of the launch. The part that, I mean, there's. Yeah, the. The part that worries me a little bit is like, it's like, unclear how much people care about the data quality as far as, like, accuracy goes. Like, I don't know what profound attempts to do, but I know they're not pinging like GPT 5 mini, you know, to get to approximate chatGPT. Like, there's some things like that that gives me a little bit.
 
@@ -246,23 +273,19 @@ No one acts on daily insights. Weekly cadence matches decision cycles. Start man
 
 **Jason Gong:** Here.
 
-**Marcel Santilli:** Where's the events, I mean.
+**Marcel Santilli:** All-in marketing is $5 million annually, not including sales. That's healthy. We need to unlock channels—spend money with confidence in what works. Spend $10k, get 10 subscribers at $1k CAC—that's workable. We can optimize to $500 CAC next. Don't spend $100k for 100 subscribers. If CAC is $1k and subscription generates $200/month, that's acceptable—$200 monthly revenue against $1k acquisition cost eventually pays back. We generated $16k revenue last month. At minimum, invest $16k in acquisition to drive more memberships. Keep reinvesting that revenue into programs—sponsorships, promotions, partnerships—not just hiring people.
 
-**Jason Gong:** Or.
+**Jason Gong:** Good callout. I'll do it more aggressively.
 
-**Marcel Santilli:** Which one this is included in might be here. So. Yeah, head count is like an above a million. So let's just call 5 million all in. In marketing. That's not including sales. Like, that's really healthy. You know, obviously, like I'm baking in a fuck ton of buffer because like I actually. It's higher than. No, no, yeah, no, it's included in services. Like will and others are included in services, but it's like, um. But. But yeah, so like we need to unlock the lanes. Like, you know, like go, go spend some money on unlocking lanes, but spend the money but at the end of it, have confidence on what works, you know, and, and like, I don't care. Like spend 10k and come back with 10 subscribers and be like, hey, we got 10 signups. It's thousand dollars, cat. Our CAC is a thousand dollars. And like I can work, we can work with that, right? Like, like, cool. How do we make it like $500 next, you know, and no, don't spend more than 10,000 until you validate that. Don't go spend a hundred 'Thousand to get 100 subscribers, you know, either. But, but even at that point, if, if our acquisition cost is a thousand and we're generating $200 from that and a subscription, like, that's not horrible, right? Like you've generated already. Like we generated last month, what, 16k worth of revenue. At the very least you should invest 16k in acquisition to drive more memberships. Right? So if you just keep reinvesting that. But you, you have to find ways to reinvest that. And that reinvestment shouldn't only be. Let me go hire two more people, you know, like, it needs to be programs that drive that, you know, or sponsorships or, you know, promotion that drives memberships, you know.
+**Marcel Santilli:** What's keeping me up: we're feeling softness on the services side—deals aren't closing as easily, Tyler's feeling pressure. We need to ensure community drives the sales funnel until CheckThat is blowing up as an organic growth engine. CheckThat's urgency is proving the full thing works, then cranking conversion. Community is a catch-all: spend $100k to go from $60k to $120k ARR—acceptable. Next month, $100k spend takes you from $120k to $200k ARR. At $300k ARR, you're spending $300k to drive that. By month three-four, you're at $30k monthly revenue. Reinvest $30k plus $70k more—by month two, $40k plus $60k more. Reinvest compounds: $70k plus $30k, then $80k plus $20k. Eventually you don't need external capital; it funds itself. Find channels you can scale, build confidence, pour gasoline on them. Be aggressive in testing.
 
-**Jason Gong:** Cool, that's a good call out. I remember trying some of that, but I, I think I'll. I'll do it more aggressively.
+**Jason Gong:** Don't worry about short-term ROI. If you can learn and there's a path to efficiency later, it doesn't matter. Go learn and find channels.
 
-**Marcel Santilli:** Yeah, so, so my, my, the, the things are keeping me up at night are the fact that like it's feeling. We're feeling some softness on a macro level from the man on the services side already, right? Like where deals are not as easy to close and you know, like, and Tyler's feeling the pressure. And so very quickly we're going to need to make sure that like this there's a tie in to that. Meaning there's got to be things that also drive from that until check that is blowing up and then we can fish from that pond type of thing and then check. That is really the urgency of proving the full thing works and then just cranking as hard as humanly possible on conversions and offers and things like that. And you know, it's like in, in the community it's kind of like this catch all that allows us to just like, let's go spend 100 grand. And if you can go spend 100 grand and at the end of it go from 60 in ARR to 120 in ARR, that's still acceptable, right? And then the next month you now have, you know, like you say, hey, okay, next month I'm going to spend another 200 or another hundred and I'm going to go from 120 in ARR to 200 ARR. So now you're at 200k in ARR and you spend 200 grand and then you're like, cool, now I'm going to go spend 100 more and I'm gonna go from 200 to 300. Okay, now you're at 300k in ARR and you spent 300k to get there and you feel really good and you feel where the things are and hopefully like this thing is starting to go really well. And then at that point you're at 30k a month already, you know. So now you take that 30k in transactions and you add another 70 and then next month you take that 40 and you add another 60. And in the next month you take that 70 and you add another 30. And then the next month you take that 80 and you add another 20. Right? Like, and so eventually like you don't need to keep refilling at the top because it funds itself. But that's the idea, right? It's like build, find the channels that you can build the confidence so that you can kind of pour gasoline on top. But don't be afraid to like, just.
+**Marcel Santilli:** Go try new things, get the word out, blast it. We're competing with Profound and others with $100 million—they're aggressive. We need to win creatively, with compounding, sustainable plays. For CheckThat, we're close to validation. Line up newsletters and brute force—spend $20-30k for a big splash. Pay 50 influencers $100-500 each to amplify. Growth hack the hell out of launch. I'm thinking through a few more tactics. On Carol: she approached me a couple months ago figuring out next steps. She built her consulting business to $1M+ ARR. She wanted to go hands-on again. I told her—if you want to invest in something, invest in us. We have 60 customers and a relationship gap at the CMO level. Neither you nor I talk to enough CMOs. She's an investor/advisor with serious network. Sentinel1 came through her intro, Lovable too. People trust her. Two potential scopes: (1) Forward-deployed CMO—nurture CMO/VP Marketing relationships, events, networking. (2) Core marketing owner—positioning, messaging, website, packaging, pricing, sales. She declined other offers and joined on an interim basis. Goal: define scope in next few weeks, see if permanent full-time makes sense. She started last week but had client commitments this week. Similar to how Scale brought in Michael Kratios (former chief CTO under Trump, chief of staff to Peter Thiel)—opened tons of doors for them.
 
-**Jason Gong:** Don't let kind of short term like cool, that's not ROI positive like us. And like if it, if you can learn and there's a path to making it more efficient just later, it doesn't matter. Go learn and find channels.
+**Jason Gong:** Forward-deployed CMO from delivery side makes sense—product marketing, messaging, positioning. I'd love to create a platform for her using breakfasts, dinners, whatever, where she unlocks her network for us.
 
-**Marcel Santilli:** Yeah, go learn. Go try new things. Get the word out. Go, go blast it. Like we're, we're dealing with, you know, profound and others with like 100 million in the bank and they're going to be pretty aggressive and they're already being pretty aggressive. And so like we need to win in a more creative, more compounding, more sustainable way, you know, and, and then, yeah, like Check that. I think we're getting closer and closer to like a validation there and I would just try to line up as much newsletters as like just brute force, you know. And like you know go, go spend 20, 30k to brute force a big splash and you know if we can like nine lap like I don't know like 50 influencers or something and pay them each, I don't know, 500 bucks to go. Like 100 bucks to go. Comment on the. I don't know. Right. Like whatever we can do to like just growth hack the living hell out of it and in for. For launch I think would be really, really helpful. And I'm thinking through a couple more things to. And then the, the other piece here is so give you context on Carol. So Keralu like kind of came to me like a couple months ago and was like hey, really trying to figure out what to do next. I'm considering some random roles and I'm like why would you do that? Like, like, like one of the roles would be had a partner partner marketing for deal. And I was like why would you do that? And she single handedly built like her consulting business to over a million a year in revenue and she was like, like trying to I need to go back and be hands on. She's you know, an investor and advisor. And I was like well you should if you're gonna. If you need a place to go be hands on. Like we have a playground of 60 customers that like we can use like more like CMO level people that they trust. Right. Like, like right now like Churn is not great and it's mostly like we don't build relationships up to the marketing leader in these companies. Right. Um, and then at the same time like we like there's clearly like a gap on the like we need more people building relationships with CMOs. Like how many CMOs have you or me talked to in the last two months? Like you know, out of the willingness of our hearts and time that we have that we don't have. You know what I mean? Like and so it is really like um, trying to figure out how do we create a role for her that place her van through her background but it's very like external facing so that we can nurture more of the CMO VPO marketing audience that you and I, you know, don't have as much or don't appeal as much like in even for me. For example like sentinel1 came from an introduction from her like you know, lovable was an introduction from her Right. Like, it's like people trust her pretty pretty much, you know, and so, so anyway, so. So that's kind of the idea. So then she declined all the other offers and, and said, hey, I'll come work for you. Like essentially like an interim internship essentially. And. But the goal is like in the next few weeks to define a role and a scope for the role. So that. And see if it makes sense for her to join, you know, more permanently and full time, you know. So right now, now the two big areas here are like, and she knows obviously, like your scope and what you're doing and kind of everyone we have and things like that. Like, but to me, I told her, like, there's kind of like two, two areas really. And one area is kind of like forward deploy cmo and the other area is like someone to like, own the core marketing elements of Growth X. More from like a marketing positioning. The. Our website, like packaging, pricing, how we sell it and, and things like that. And last, on the core growth side, right, like, and so that's kind of like the, the current thinking, but it's kind of like a, like not a clear cut thing because she has so much going on and it was kind of like, hey, if you want to commit, you got to like, commit. And even like, so she started like last week and then this week she's like, hey, some crazy shit happened with one of my clients. I need to jump on it. I was like, all right, like, you know, so, so that there's a chance that it's not going to like pan out in some ways, but in other ways it's like, like I saw at scale this working really well where like, scale essentially like brought in Michael Kratios who, you know, was the, the chief CTO of the United States under Trump, who used to be the, the chief of staff to Peter Thiel. And he opened so many doors. That's just. It was kind of like, you know.
-
-**Jason Gong:** Yeah, like, so, okay, so Ford Play cmo, I guess you're thinking about that from delivery. That makes sense. Like product marketing, messaging, positioning. That makes sense. I think the last thing that can be super valuable for Carrie Lou to do is like, like, I would love to create this platform for her, whether it's through the breakfasts or dinners or whatever where like, she can essentially like unlock her network for us, you know.
-
-**Marcel Santilli:** Like, obviously, like what I'm hoping is like, pull her in however you can and the more the better because she's kind of feeling like, well, I don't know how you want to use me. Like, you know, and it's, I'm like I haven't had a ton of time and to use it. But then she also is feeling like, well, I don't want to overlap or feel like I'm stepping on toes or so she's kind of like in a. I don't know. And I don't want to feel like you're brute forcing me into a situation here. And she's also feeling like I'm not as hands on as everybody else. And that's why like what's in it for me, you know, for her. But she has a massive network so it's like to me, anything we can do publicly, it's kind of like a major flex of saying like, hey, she's joining whatever title we want. It's kind of like whatever, you know, what I told her is like, hey, I can't give you a CMO title, a traditional CMO title because we're not doing C levels and that requires board approval and it's a whole other conversation. And so like if we can find creative ways, like a forward deployed cmo, like that's way easier to like, you know, to, to essentially not have to go create, you know, seniority and roles or whatever the and who cares, you know, kind of thing, you know.
+**Marcel Santilli:** Pull her in however you can. She's feeling uncertain about her role—doesn't want to overlap with me or Jason, doesn't want to be pushed. She's not hands-on like the rest of the team. But she has a massive network. Publicly announcing her—regardless of title—is a major flex. I told her: I can't give a traditional CMO title because we're not doing C levels (requires board approval). "Forward-deployed CMO" is easier—we avoid creating formal seniority drama and it's still credible.
 
 **Jason Gong:** Yeah, okay, it's clear. I mean I'll maybe I'll talk to her more often, find ways to plug her in and also share with you one, one thing that's a little bit unclear me. So like right now check that community both make a ton of sense driving. I, I think the thing is like, like do we need more of the stuff that drives for growth X stuff funnel, like for example, the, the dinners are largely like valuable for that and not as much for growing community memberships. Right. And whether to know like should I do more of those. Should I prioritize that a little bit higher?
 
@@ -282,99 +305,69 @@ No one acts on daily insights. Weekly cadence matches decision cycles. Start man
 
 **Jason Gong:** I guess what I was gonna say is like, I mean, it's. It's almost impossible for like check that to do well and alg to do well and not have like the funnel filled. I think my main thought, like, at least at the moment, just like very tactically is like, I don't spend a ton of time trying to like, push people down the funnel from. You know, like, I see lots of like senior people in the community and subscribe to the newsletter. I don't really go out of my way to like try to push them towards you and Tyler, but at the moment that seems fine. Or should I prioritize that a little bit higher? Like how do you feel about the funnel?
 
-**Marcel Santilli:** Like connect with Tyler and we're going to establish like a better weekly cadence on go to market and we need the metrics like and so you should be obsessed with those metrics. Like you should be obsessed with like how many qualified meetings are hap are coming in every single week. And you should know on like trailing average if that thing is going down or if it's been stable or not. And on a trailing average, like you should like make sure it's stable and growing a little bit, you know.
+**Marcel Santilli:** Connect with Tyler—we'll establish weekly GTM cadence. You need to be obsessed with qualified meetings incoming each week, track trailing averages to know if things are down, stable, or growing.
 
-**Jason Gong:** Got it. And.
+**Jason Gong:** Got it.
 
-**Marcel Santilli:** So, so, so, so right now like I, I feel like from my perspective the P0 is I need to finish the fiscal plan and get approval from the board and, and the other pieces like delivery Org is is in a pretty. It's like it's a few steps away from being, from being way more sustainable. But you know like 6 out of 12 renewals are on red right now for Q1. So it's like that's pretty bad considering we lost Surge. So think of it as like between Surge, home base, school AI, superhuman, abnormal exec and OCTA. That's almost 4 million in ARR.
+**Marcel Santilli:** My P0: finish the fiscal plan and get board approval. Delivery org is a few steps from being sustainable. But 6 of 12 Q1 renewals are red—that's bad given we lost Surge. Between Surge, Homebase, School AI, Superhuman, Abnormal, and OCTA—that's almost $4M ARR at risk.
 
-**Jason Gong:** Wait, abnormal doesn't want to reduce.
+**Jason Gong:** Wait, Abnormal doesn't want to reduce?
 
-**Marcel Santilli:** It's red right now.
+**Marcel Santilli:** It's red. Abnormal is red because their interim head of content paused all publishing. She's gone—new director is more supportive. But we never connected with Abdullah's boss. Superhuman was miscommunication—new stakeholder from Grammarly is demanding quarter-to-quarter or month-to-month terms. OCTA/AirOps gave notice to hedge their bets. School AI gave notice; we're trying to save it at lower scope because we never gave them reasons to continue. Tyler's done an amazing job hitting 2 kickoffs/week despite my minimal involvement. But it's scary—is this continuing to work or will it collapse? I need you to know that answer because I can't focus on retention and strategy sprint conversion right now. I'm pushing hard on OS for customer deployment by February.
 
-**Jason Gong:** Oh my God. Okay, yeah.
+**Jason Gong:** Got it.
 
-**Marcel Santilli:** And it's red not because of Abdallah is red because there was like an interim head of content that came in and told us to pause all publishing until she figure out and she has a product marketing background but now she is no longer the interim head of content and they brought a director who's more bought in. And then like we never got an introduction from Abdullah's boss and. And then yeah, you know, it's like Superhuman was like a miscommunication and now the new stakeholder which is from Grammarly decided to instead of upselling then now she's in charge and Harmony's defaulting to her and she's like well give me quarter to quarter or month to month otherwise we're not going to renewal. But she's talking to Air Ops Exact. They will probably stay but they gave notice just to guarantee that they don't miss the date in case just to give them optionality. The school AI gave notice and we're trying to save it at a lower scope because we never gave them you know reasons to continue, and because the person that was working with us is friendly, was just like, yeah, everything's good. You know, just going to auto renewal. We're going to avoid the conversation altogether. This is the old things we're addressing, but it's like, hey, in that situation, so far, like, Tyler's been doing an amazing job of, like, he's not missed a single week of kickoffs, which is pretty incredible given, like, I'm barely involved. But. And. And the things you're doing and we're all doing, like, obviously is working in some ways, but it's also, like, kind of scary to be, like, it's working, but is anyone confirming that it's continuing to work, or is it gonna go to shit pretty soon? Soon? Like, you know, and. And so, like, I. I need you to make sure you know that answer, because I can't focus on that answer right now. I got to focus on retention and. And making sure the strategy sprints are converting and then pushing really hard with Daniel to try to get OS to be, like, operatable by customers and sellable very, very, very, very soon. Hopefully in February.
+**Marcel Santilli:** Make sure CheckThat works.
 
-**Jason Gong:** All right, got it.
+**Marcel Santilli:** The core is solid, but we need to polish and find the right hook. What I don't know is whether a good onboarding flow is enough or if we need to create a "check your website" type hook to make it more compelling. The ticket CTA isn't super clear. We have a shared index of 3 million AI responses—how do we communicate that in one sentence without explaining end-to-end what we've done?
 
-**Marcel Santilli:** Make sure check that works. So it's like.
+**Jason Gong:** That's a good hook. Nobody else really does that. I'm honestly surprised, because I think they don't have that index, so they can't show prompts. Yeah, I think we need to lean into that.
 
-**Jason Gong:** I think it does. I think it's just. I think it's all polished at this point, honestly, like, the core of it.
+**Marcel Santilli:** What I've been doing is auto-creating workspaces before prospect calls to validate the onboarding. We're having backfill issues—workspaces aren't populating with data. The team is aware and working on a fix. The idea is to pre-create a workspace, walk through it, see what breaks, and validate if it's compelling.
 
-**Marcel Santilli:** Polish and finding. Finding a good hook in.
+**Jason Gong:** So backfill means you're tracking all prompts, but if the brand didn't exist, you didn't do the work of mining if that brand showed up in the data. Now you need to go back and fill it in. Is that right?
 
-**Jason Gong:** If.
-
-**Marcel Santilli:** Find a good hook in. And what I don't know is, like, if what we have with a good onboarding flow is enough, or if we need to create like, some kind of, like, check your website type of thing, loop that to be more compelling way to kind of hook people in. And. Or if it's like the. Or what is the best way to communicate? Like, it's like, to your point, I think in the ticket you create, it's like, it's not super clear. We have a shared index. Right? Like, so. So it's like, how do we create CTA in a way that's like, hey, you know, track whatever, get access to a shared index of, you know, 3 million AI responses, like, for free or whatever. Like, I don't. How do you communicate that in one sentence without actually, like, explaining end to end what we've done?
-
-**Jason Gong:** You know, I think that's a good hook for. For what it's worth, like, nobody else really does that. I'm honestly surprised. Why? Sometimes I feel like it's because they don't have that index, so they can't actually even show you any prompts. But, yeah, I think we need to lean into that?
-
-**Marcel Santilli:** Yeah. Like what I've been doing, they like, if you go like to check that. Right. What I've been doing is trying to. Anytime there's like a prospect auto create their, like create a workspace and we're having these like backfill issues then that we knew about. So it's like, I don't know why it's not populating. And so it's like the team is aware of it and working on a fix. But like, the idea is like, hey, if before every prospect call I do this, can I present this in a way that's like, I see like really, really nice. And that's been my way of being like, oh, this didn't work or this broke. Right? Like, so. So I just go here, like, and I go in workspace, new workspace, and then I can just go and create one, you know, like.
-
-**Jason Gong:** And so I guess backfill in this case means like, I guess we're tracking all the prompts. But if the brand didn't exist, you didn't really do the work of like mining if that brand showed up. And now you need to go back and do that. Is that what backfilling is?
-
-**Marcel Santilli:** It should happen automatically. Like, if I do this and I do this, then when I go in here and I finish setting up it, I go into overview. All the numbers should be here already and there it should show what their thing is, but it's not backfilling. And so I did it this morning for Spandesk because it's like, what's happening here? Why is this not.
-
-**Jason Gong:** Filtering?
-
-**Marcel Santilli:** Okay, I don't know. I did it for this, right? For Spendesk. Why is. There's must be some bug here or something.
+**Marcel Santilli:** It should happen automatically. When I set up a workspace and go to overview, all the numbers should be there and show the results. But it's not backfilling. I did it this morning for Spendesk—why is the data not showing up? There's probably a bug.
 
 **Jason Gong:** I don't know.
 
-**Marcel Santilli:** I'll ask them what's going on. But I did it for Spandesk and then I was able to kind of report on their AI visibility. So I didn't end up using it in the flow. But like when I went in it and I went to the workspace and I clicked on the overview, it was. They were like lower than all their competitors. Right. And so that would have been like already a pretty good sign. And so my, my. What I'm trying to brainstorm right now and figure out is like, if. If we already have that and we know that as long as the categories are good and there's prompts in the categories, that we can auto tag brands into those categories and auto add all the prompts of those categories into their dashboard when they sign up and autorun Their context. And that's really positive and really good. Right? And we know the quality of those two things are pretty good. What we don't have right now, but we can do is like run a workflow that things like SEMrush API takes all that context, looks at this like overview of AI visibility and essentially spits out like a report or a page or something that's like, here's your AEO snapshot, your AI visibility and your search visibility snapshot. In a couple of quick insights kind of thing, you are cited last and blah, blah, blah. And it's like we have all the inputs or workflows that can do it, but I haven't thought through what could that be that is valuable enough as a AO audit or AEO slash SEO audit for companies, you know, and, and I think if we nailed that, then what we can sell in a one that's a huge growth loop, right? But then what we could sell is a version of that that is like way deeper and human generated and a kickoff call where we ask them more questions and, and where the human takes that same, sets up the workspace and then generates this report or this audit and strategy or whatever, you know, and it's kind of like a live version of it, you know, or something like that. That then it's just like an EO strategy as a service type of thing, you know, along with subscription to the platform.
+**Marcel Santilli:** I'll ask the team what's going on. I did it for Spendesk and was able to report on their AI visibility. When I went to the overview, they were lower than all their competitors—that's already a pretty good sign. I'm brainstorming how to leverage what we have: if categories are good and have prompts, we can auto-tag brands into categories and auto-add prompts to their dashboard at signup. That's positive. What we could add is a workflow using the SEMrush API that takes that context and spits out a report—AEO snapshot, AI visibility vs. search visibility, with quick insights like "you're cited less." We have the inputs and workflows, but I haven't figured out what makes it valuable enough as an AEO/SEO audit. If we nail that, it's a huge growth loop. We could also sell a deeper human version—a kickoff call, more questions, human-generated report and strategy. That becomes an AEO strategy service alongside the platform subscription.
 
-**Jason Gong:** You know, I mean, I think we should do that because like the most expensive part of what you described, like minus the last part where humans in the loop is like tracking all of this. And the fact we've done it means you can go from not having anything to a populated dashboard almost instantly. And none of the other platforms have that, so we should do that. And then I mean the, the like actionable insights part, I think you could get by with just like pointing out things we already have like, cool. This, like in your industry, like pages like this get cited all the time and you don't have a page like that, you know, or like, like here are the most important pieces of content. Like just point it back at like. I think citations essentially feels like the insight part.
+**Jason Gong:** I think we should do that. The most expensive part is tracking everything, but we've already done it. Going from nothing to a populated dashboard instantly is competitive. Nobody else has that. For actionable insights, we can point out what we already have—"pages like this get cited all the time and you don't have one" or "here are the most important content pieces." Citations feel like the insight part.
 
-**Marcel Santilli:** Yeah.
+**Marcel Santilli:** You're right. Even though we don't have 30 days of data yet, it's useful to know Spendesk is at 4.8% and Ramp is higher, Expensify, Koopa, etc.
 
-**Jason Gong:** Anyway.
+**Jason Gong:** Right. The hook is there—Ramp is killing you. Now what? You can drill into prompts and sources to surface why.
 
-**Marcel Santilli:** Yeah, I think, I think you're, you're right. It's like if you look at like, I don't know, like if populated. So but like to me, like we don't quite have 30 days of data in this one, but it's like this is pretty useful to know, you know, like that spendes is at 4.8% and ramp is higher expensify and Koopa or whatever, you know.
+**Marcel Santilli:** They don't have pagination here, which is why Brex isn't showing. Looking at sources by domain, Spendesk should be there but isn't. Clearly all these other vendors are doing much better. The gaps where competitors outrank you are significant—they're cited ten times more. Creating a manual report first, then programmatizing it, will help us validate if the data is good and what insights matter. When the backfill issues are fixed, we need to figure out if basic insights are enough or if people need deeper recommendations. My hypothesis: instead of always-on insights, build a weekly or monthly reports tab. Nobody acts on daily insights. Run a cron job to deliver weekly insights as a report—article plus charts plus recommendations. That's a huge upsell: pro plan members get ongoing insights with deeper recommendations.
 
-**Jason Gong:** Right. Well like the hook is there like ramp is killing you. And then it's like okay, cool. Now what? I think you can get into like prompts and sources to surface that.
+**Jason Gong:** I don't know if you use Strava, but they monetize their weekly report really well. I want to see my heart rate data, but I have to pay them.
 
-**Marcel Santilli:** Oh, that's weird. Why is Brex now wasn't showing up there?
+**Marcel Santilli:** I need to study that.
 
-**Jason Gong:** Huh.
+**Jason Gong:** It's like a fitness app for running.
 
-**Marcel Santilli:** Interesting. They don't have pagination here. That's why. But Brexit should be showing up here. But, but yeah, but then if you go to sources, it's kind of interesting because if you look by domain like you're like spendes is like. I don't even know if they're. I don't even think they're in the. In here. I don't know how they're not in here. But. But clearly like all these other vendors are doing much better than you.
+**Marcel Santilli:** I know Strava exists, but I've never used it, so I don't know how they actually gate the features.
 
-**Jason Gong:** Right?
+**Jason Gong:** I'll forward you the email. The moment is really good. Scrunch leaves it up to you to act on insights—it's vague. I open it, see things like "I'm trailing Ramp" or "Brex is doing better," but it's unclear what I'm supposed to do. They have an Insights tab but don't go that final mile to give you actionable next steps.
 
-**Marcel Santilli:** Like, so it's kind of like identifying some of the. Some of the gaps, you know, where your competitors are outranking you like and they're cited, you know, like 10 times more or whatever the. You know. But I think like until we. You. I think the process of trying to take all of this and come up with a report, even if it's like a manual report, and then figure out how to programatize that will help us figure out if one the data is or not good or what kind of insights. Like we like, how do we make sense of this data? And right now it's kind of hard to do it. But also because like Jose changed a bunch of things and like this whole backfill thing has been like everything. It's like come on guys. Like we gotta like, like this whole thing is unusable in the last week because it's like all this backfill stuff, you know, and, and so it's like this shouldn't happen. We have the data here. There shouldn't be a bunch of blanks. But when that's done, I think that's the next step is figuring out is this enough? Or if we don't deliver some very, very, very, very basic insights we like doesn't matter kind of. You know what I mean? It's like. And so my, my. What else my hypothesis right now, so curious what you think is if we instead of having an always on insight things, it I. If we can build it into kind of like a reports or insights tab that is weekly or monthly. No one acts on shit daily anyways, you know what I mean? So it's kind of like no point of like daily insights. But then we can Run a workflow on Cron job, you know, or like on a, on a schedule and say like, hey, like when do you want your weekly insights? And those weekly insights can be delivered as like a kind of like a thought through report that is almost like an article plus charts plus, you know, recommended things to do, you know, and, and then we know. And that's a huge upsell that it's like, hey, that's what you get with the pro plan. You get insights. And Insights is like kind of like this ongoing report, right? Like so like Insights could be something that's kind of like this but with more recommendations, you know, like, like coming soon. But it has nothing, you know, like.
-
-**Jason Gong:** Yeah, yeah, like I get my. I don't know if you use Strava or anything, but like they pay all the shit out of their weekly report. I want to see my heart rate. I have to pay them really.
-
-**Marcel Santilli:** I gotta, I gotta study that.
-
-**Jason Gong:** But what is it? It's like, it's like for like running.
-
-**Marcel Santilli:** So I know what Strava is, but it's like I've never used this, so I don't know like what they actually do and how they gate it.
-
-**Jason Gong:** I'll forward you the email. I think, I mean, I think the moment is really good. Like when I think about Scrunch, it's like really the, the. They leave it up to you to like act on anything in there. It's all kind of like that good or bad vague, like what you have to do. Like, I think it's bad, like, like that. I, I open it, I look at the dashboard, I, I see things that seem important. Like, well, I'm trailing Ramp, you know, and I'm Brex, et cetera. But then like what you're supposed to do, I think it's like relatively vague. They, they bundle it all into their. They also have an Insights tab. But they don't really go that final mile of like trying to give you something you can do. They kind of just like, yeah, like.
-
-**Marcel Santilli:** Like I almost feel like I, what I'm. What I don't want us to do is to go from where we are to trying to rebuild the opportunities, features that we have in os. Right. But rather what I want to try to do is try to create an ongoing report on a schedule that can be like a growth loop because you want to share with your executives or whatever. That just tells you like a snapshot of where you are last week and where you are this week. Changes and Insights overall. But then it's like generate content Is like leads to talk to growth facts kind of thing. Maybe not like trying to replicate, at least not until we prove that this whole thing works and can grow in itself. Then at that point, if OS is not gaining a ton of traction or we feel like the server, it's going to cannibalize services too much to try to sell like 500amonth platform. Right. Or people are not willing to pay, you know, five grand a month for our OS platform end to end. Then we can take features and build features and to check that potentially, you know, that's kind of how I'm thinking about it. But for now, I think really, really valuable. And we're giving so much value away that I just don't see why people wouldn't want to just pay 200 bucks to have access to all of this. Like, as long as it works end to end, you know, it's kind of.
+**Marcel Santilli:** I don't want us to rebuild the OS platform features in CheckThat. Instead, I want to create an ongoing scheduled report that works as a growth loop—something you can share with executives that shows where you were last week vs. this week, changes, and overall insights. That generates content and leads to growth calls. We don't need to replicate OS fully until we prove this works and can grow on its own. If OS isn't gaining traction or it would cannibalize services, we can potentially move features to CheckThat later. But for now, I think it's really valuable. We're giving away so much value that I don't see why people wouldn't pay $200 for access to all of this, as long as it works end-to-end.
 
 **Jason Gong:** Like, holy shit, this is way cheaper.
 
 **Marcel Santilli:** And better and more data.
 
-**Jason Gong:** I mean, I like the format of it. One, like you don't have to bake it into the ui, which I think is like just five times more work or whatever. And then I also doubt many people will just come here and click it all the time. So like you'd need an email to like push it to them essentially.
+**Jason Gong:** I like the format. You don't have to bake it into the UI, which is five times more work. And people won't log in and click it repeatedly—you need email to push it to them.
 
-**Marcel Santilli:** Yeah, because that's the flaw. Like I have no reason to log into Scrunch unless I'm just taking a screenshot. And if that's the case, I'm just taking a screenshot. Why don't you just like create, take that screenshot snapshot and save that snapshot in time and allow me and give me a quick narrative based on my context of that narrative and time and then make it to where that report is super shareable.
+**Marcel Santilli:** Right, that's the flaw with Scrunch. I have no reason to log in unless I'm taking a screenshot. Instead, capture that screenshot, save it in time, add a quick narrative, and make it shareable as a page—a snapshot in time of what happened. Every week you have a new snapshot. You shouldn't need more than weekly anyway. Nothing changes daily, and data takes time to settle.
 
-**Jason Gong:** Right.
+**Jason Gong:** Yeah, I like that. It's also easy to validate—you can use subject lines to test what insights people find interesting and what they'll pay for.
 
-**Marcel Santilli:** It's like a shareable page, you know, it's a snapshot in time of what happened, you know, and every week you have a snapshot in time. It's like you shouldn't need it more than weekly for this type of stuff anyways. You're not like 100 pages a day or you know, like there's nothing you're doing daily. And this thing, these things are so like whatever that it takes time to settle anyway. So it's like nothing is needed daily.
+**Marcel Santilli:** Before scheduling it, we can pre-create reports for domains we know are in demo calls—hand-carve a few, test them, see if they're good, and share with prospects. It's about creating that experience.
 
-**Jason Gong:** Yeah, yeah, I like that. And it's also easy to kind of validate things. So like you could use the subject line to validate like what insights are interesting you can send it to for users and validate like what people pay for. Yeah, a little bit.
+**Jason Gong:** Right. Every prospect call Tyler has—maybe even strategy sprint calls—you can validate it by showing them the report and watching their reaction.
 
-**Marcel Santilli:** But I think a Way to validate that is like before turning it into, on a schedule, it's like we can do it in a way that we can pre create them for domains because we know if there's a demo call happening or whatever, you could pre create it for all the domains that you care about, you know, so we can kind of hand carve a few of those, you know, and see if they're good and test it and share with someone. And it's like, it's really like just like this experience, right? It's like you, you create this and everything.
-
-**Jason Gong:** I think, I mean like every prospect call that Tyler has, maybe even the strategy Sprint calls, but like you can validate that, like give him a report. They can show it to the person and see what that reaction is.
-
-**Marcel Santilli:** Yeah, exactly. So, yeah, so anyways, like, let me play around with that and I'll shape that in the next week. But main thing is like, keep pushing. If traffic keeps growing, we're in a good place. If, and then the validate that, we can go from that to conversions. So push on that front as quickly as, as possible. Once, like once it's full validated, like push through, look at the data, you know, try yourself, figure out why is it not working or why are people not signing up, you know, and, and, and, and as long as those things are are there, then we should be, and it's working, then it should be pretty, pretty much okay, you know, to, to then start cranking and then start lining up also like ongoing channels as well if you want to, to validate, you know, like, like once the onboarding is also valid, if you want to try to like brute force some, some leads into it or like just to see if like, but, but we can also wait another week or so but to work out all the kinks, but, but at least have that lined up so we're not starting to think about it in February, you know.
+**Marcel Santilli:** Exactly. Let me play with the format this week. The main thing is keep pushing on traffic growth. Once it's fully validated, push through conversions. Once onboarding is validated, we can brute-force leads into it or wait another week to work out kinks. Just have it lined up so we're not starting in February.
 
 **Jason Gong:** Yeah. All right, cool, man.
 

@@ -8,7 +8,7 @@ domain: company
 confidence: canonical
 sensitivity: internal
 context_tier: 1
-last_updated: 2026-02-09
+last_updated: 2026-02-27
 </metadata>
 
 CLAUDE.md tells agents what exists and when to load it. This doc explains HOW to load context efficiently and what to watch out for.
@@ -41,7 +41,7 @@ Each task type has a recommended loading sequence. Load files in order — stop 
 2. context/personal/marcel-linkedin-style-guide-v1.md  (if LinkedIn post)
 3. docs/business/overview.md                      (if about GrowthX)
 4. docs/products/checkthat/product-vision-v1.md   (if about CheckThat)
-5. knowledge/aeo/README.md                        (if about AEO/AI visibility)
+5. knowledge/seo-aeo/README.md                     (if about AEO/AI visibility)
 ```
 
 ### Answering Company Questions
@@ -83,6 +83,26 @@ Each task type has a recommended loading sequence. Load files in order — stop 
 4. context/voice/writing-style-context-v2.md      (if writing for client)
 ```
 
+### Looking Up People
+
+```
+1. records/contacts/[firstname-lastname]-v1.md     (external contacts — 244 dossiers)
+2. records/contacts/employees/[name]-v1.md         (team members — 61 dossiers)
+3. records/transcripts/                            (search for meeting history)
+4. records/meetings/                               (structured meeting data)
+5. sources/people-index.md                         (expert references)
+```
+
+### Prospect / Sales Research
+
+```
+1. records/prospects/[company]/                    (past prospect research, deal rooms)
+2. records/customers/active/                       (existing client context)
+3. records/customers/churned/                      (churned client learnings)
+4. docs/business/ideal-customer-profile.md         (ICP reference)
+5. docs/sales/                                     (sales playbook — when populated)
+```
+
 ### Creating Deliverables
 
 ```
@@ -101,8 +121,8 @@ Some content requires caution. When in doubt, ask before generating.
 | Level | What It Means | Directories | Action |
 |-------|--------------|-------------|--------|
 | **Public** | Can be shared externally | docs/products/checkthat/public/, knowledge/ | Generate freely |
-| **Internal** | Company-internal, not secret | docs/company/, docs/business/, docs/delivery/, context/ | Generate freely, don't share externally |
-| **Leadership-only** | Financial, strategic, sensitive | docs/finance/, context/personal/ | Flag before generating. Don't include in outputs without asking. |
+| **Internal** | Company-internal, not secret | docs/company/, docs/business/, docs/delivery/, context/, records/contacts/, records/contacts/employees/, records/prospects/ | Generate freely, don't share externally |
+| **Leadership-only** | Financial, strategic, sensitive | docs/finance/, context/personal/, records/customers/ | Flag before generating. Don't include in outputs without asking. |
 
 **Hard rules:**
 - Never generate legal, compliance, or financial content without flagging
@@ -134,7 +154,7 @@ pipeline/research/  →  pipeline/scratchpad/  →  pipeline/outputs/
 source_skill: research-to-study-guide
 input_files: [pipeline/research/topic-raw-notes.md]
 output_stage: scratchpad
-last_updated: 2026-02-09
+last_updated: 2026-02-27
 </metadata>
 ```
 
@@ -142,13 +162,19 @@ last_updated: 2026-02-09
 
 ## Records: Search Protocol
 
-The `records/` directory contains 500+ files. Never bulk-load them.
+The `records/` directory contains 3,200+ files. Never bulk-load them.
 
 | Directory | Size | How to Access |
 |-----------|------|--------------|
-| `records/transcripts/` | 55+ meeting files | Search by date (YYYY-MM-DD prefix) or grep for keywords |
-| `records/customers/` | 50+ files | Navigate to `records/customers/[client]/` for client context |
-| `records/downloads/` | 400+ files | Grep for topics. Most are Lenny's Podcast transcripts. |
+| `records/meetings/` | ~1,944 files | Search by YYYY-MM folder, then by date-prefixed meeting name |
+| `records/customers/` | ~420 files | Navigate to `records/customers/active/[client]/` or `churned/[client]/` |
+| `records/downloads/` | ~427 files | Grep for topics. Most are Lenny's Podcast transcripts. |
+| `records/contacts/` | ~244 dossiers | Search by name: `firstname-lastname-v1.md` |
+| `records/contacts/employees/` | ~61 dossiers | Search by name or browse INDEX by department |
+| `records/transcripts/` | ~186 files | Search by date (YYYY-MM-DD prefix) or grep for keywords |
+| `records/prospects/` | ~24 files | Navigate to `records/prospects/[company]/` for deal research |
+| `records/slack/` | 1 file | Slack channel index |
+| `records/email/` | Empty | Placeholder for future email archives |
 
 **Search strategy:**
 1. Use grep/search with specific keywords — never `read *`
@@ -177,7 +203,7 @@ Always load `context/voice/writing-style-context-v2.md` before writing anything.
 
 ### "I need a persona for analysis"
 
-Pick from `context/roles/`. The README.md lists all 9 roles with when to use each one.
+Pick from `context/roles/`. The README.md lists all 10 roles with when to use each one.
 
 ### "I found conflicting information"
 

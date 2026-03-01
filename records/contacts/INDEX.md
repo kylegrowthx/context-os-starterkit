@@ -35,6 +35,7 @@ last_updated: 2026-02-26
 | [ashley-bao-v1.md](ashley-bao-v1.md) | Ashley Bao | Gruve AI | Content & Marketing Lead | prospect, warm-inbound |
 | [ashwini-chaube-v1.md](ashwini-chaube-v1.md) | Ashwini Chaube | Webflow | Unknown (Workshop Participant) | partner, client |
 | [azzam-aijazi-v1.md](azzam-aijazi-v1.md) | Azzam Aijazi | Logic | Road/Product-Market Fit & Go-to-Market Lead | client, churn-risk |
+| [barnett-klane-v1.md](barnett-klane-v1.md) | Barnett Klane | Trolley | Head of Product (Product Lead candidate) | candidate, product |
 | [bailey-seybolt-v1.md](bailey-seybolt-v1.md) | Bailey Seybolt | Logic | Operations/Content Coordination | client, churn-risk |
 | [ben-church-v1.md](ben-church-v1.md) | Ben Church | Output (internal GrowthX company) | Unknown (Workshop/Demo Participant) | advisor, partner, internal |
 | [ben-haefele-v1.md](ben-haefele-v1.md) | Ben Haefele | Webflow | Unknown (Workshop Participant) | partner, client |

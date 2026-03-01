@@ -1,6 +1,6 @@
 # Meeting Records Index
 
-Last updated: 2026-02-26
+Last updated: 2026-02-27
 
 ## Summary
 
@@ -121,6 +121,7 @@ Last updated: 2026-02-26
 | [2026-02-26-anthony-cessario-marcel-santilli-sales-leader-search-sync.md](2026-02/2026-02-26-anthony-cessario-marcel-santilli-sales-leader-search-sync.md) | 2026-02-26 | Anthony Cessario <> Marcel Santilli - Sales Leader Search Sync | ✓ recorded | ✗ none | [Anthony Cessario](../contacts/anthony-cessario-v1.md) |
 | [2026-02-26-flodesk-growthx-intro.md](2026-02/2026-02-26-flodesk-growthx-intro.md) | 2026-02-26 | Flodesk <> GrowthX - Intro | ✓ recorded | ✗ none | [Natalie Franke](../contacts/natalie-franke-v1.md), Axel, [Michael Hourie](../contacts/michael-hourie-v1.md), [Joseph Lease](../contacts/joseph-lease-v1.md), ... |
 | [2026-02-26-weekly-pipeline-deep-dive-with-marcel.md](2026-02/2026-02-26-weekly-pipeline-deep-dive-with-marcel.md) | 2026-02-26 | Weekly pipeline deep dive with Marcel | ✓ recorded | [✓ transcript](../transcripts/2026-02/2026-02-26-weekly-pipeline-deep-dive.md) | Abaird |
+| [2026-02-27-gtm-delivery-reviews.md](2026-02/2026-02-27-gtm-delivery-reviews.md) | 2026-02-27 | GTM & Delivery Reviews | ✓ recorded | [✓ transcript](../transcripts/2026-02/2026-02-27-gtm-delivery-reviews.md) | (internal) |
 
 ## 2026-01
 

@@ -6,73 +6,141 @@ date: 2026-01-14
 meeting_id: 01KESM7NTZCZHXM6TKRJYX2KEM
 duration: 35 minutes
 participants:
-  - Marcel Santilli (GrowthX CEO)
-  - Tyler Pavlas (GrowthX)
-  - Cristina-Andreea Maria (VP Marketing, Spendesk)
-  - Ollie Bryden (Marketing, Spendesk)
+  - name: Marcel Santilli
+    company: GrowthX
+    role: CEO
+    email: marcel@growthx.ai
+  - name: Tyler Pavlas
+    company: GrowthX
+    role: Content Strategist
+    email: tyler@growthx.ai
+  - name: Cristina-Andreea Maria
+    company: Spendesk
+    role: VP Marketing
+    location: London
+  - name: Ollie Bryden
+    company: Spendesk
+    role: Marketing Lead
 organizer: tyler@growthx.ai
 transcript_url: https://app.fireflies.ai/view/01KESM7NTZCZHXM6TKRJYX2KEM
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 ---
 
 ## Summary
 
-Partnership scoping call with Spendesk to discuss GrowthX's content and SEO services. Spendesk has experienced significant drops in organic lead generation and wants help with AI-powered content workflows. The key sticking point: Spendesk operates across multiple European markets (German, French, Spanish) with highly localized content and needs translation pipelines integrated from the start.
+GrowthX and Spendesk scoped a potential partnership to rebuild Spendesk's organic growth engine using AI-powered content workflows. Spendesk has experienced severe drops in organic lead generation and operates across four distinct markets (UK, Germany, France, Spain) with localized content strategies. Marcel committed to exploring translation pipeline feasibility during an 8-week calibration sprint, with the critical condition that English content quality be established first before adding localization complexity.
 
 ## Context
 
-Spendesk is a European spend management platform with distinct localized content strategies for UK, Germany, France, and Spain. They've seen major drops in organic traffic and need to rebuild their content engine. Cristina-Andreea Maria is joining as VP Marketing the following week. Ollie Bryden leads marketing and wants clarity on resource allocation and translation capabilities before committing.
+Spendesk is a B2B SaaS spend management platform with strong presence across European markets: UK, Germany, France, and Spain. Each market has deeply localized content strategies reflecting regional needs and regulatory nuances. The company has experienced significant erosion in organic lead generation—historically a core channel—and recognizes this as a strategic priority requiring a rebuilt content engine. Cristina-Andreea Maria, a new VP Marketing hire, was joining the following week (2026-01-20), hence attending ahead of her official start date to align on strategy. Ollie Bryden, existing marketing lead, is the primary decision-maker on engagement terms and carries concerns about resource commitments and GrowthX's ability to handle multi-language workflows seamlessly. The timing is favorable for both parties: CheckThat (GrowthX's AI visibility product) launches end of January, enabling immediate customer onboarding.
 
 ## Relevance to GrowthX
 
-**High-value prospect with complex requirements.** Spendesk represents a classic GrowthX target: B2B SaaS company with organic traffic challenges and appetite for AI-powered content solutions. The multi-language requirement adds complexity but also opportunity to demonstrate translation pipeline capabilities built for Adventures Group.
+**Sales Pipeline:** High-value prospect representing classic GrowthX ICP (B2B SaaS with organic lead generation challenges and budget for content infrastructure rebuild). Potential for $200k+ annual engagement given multi-market scope and content velocity requirements.
 
-Key deal dynamics:
-- Spendesk wants explicit resource commitments (not GrowthX's typical model)
-- Translation/localization is a dealbreaker for them, not a nice-to-have
-- Their German blog drives 70% of regional traffic; this isn't a US-first play
-- Need to balance calibration phase focus with their multi-market reality
+**Product Validation:** Spendesk will validate GrowthX's translation pipeline capabilities (previously proven with Adventures Group). Success here creates referenceable case study for other European SaaS companies facing multi-language content challenges.
+
+**Tension Points:**
+- Spendesk expects fixed resource allocations and hours-based commitments; GrowthX operates on flexible, scope-based model with delivery team forward-deployed to clients
+- Translation/localization is non-negotiable for Spendesk, not a luxury; German blog alone drives 70% of regional traffic
+- Ollie's concern: avoid "software tool without expertise"—wants GrowthX content engineers embedded, not just workflow access
+- Marcel's constraint: won't hire localized staff (German, French, Spanish speakers) without long-term contract; risks fragmented focus during calibration if translation is in-scope from day one
 
 ## Overview
 
-- **Product Launch:** CheckThat launches last week of January; customer onboarding can start now
-- **Content Strategy:** 8-week strategy sprint creates tailored roadmap with AI automation and human oversight
-- **SEO Optimization:** GrowthX provides flexible, ongoing support with AI insights; no fixed hourly commitments
-- **Translation Challenge:** Spendesk's internal agent achieves 90% accuracy but needs seamless workflow integration
-- **Next Steps:** Marcel to confirm translation pipeline feasibility during calibration phase
+- **CheckThat Product:** Launching end of January 2026; GrowthX customers get full access to AI visibility index with multi-month historical data, giving Spendesk immediate competitive intelligence
+- **8-Week Calibration Sprint:** Focused on English-language content roadmap, opportunity prioritization via topic clustering, and workflow calibration before translation scaling
+- **Content Engine Model:** GrowthX builds sustainable workflows that run without constant human intervention; daily publishing cadence; weekly async updates via Slack channels; cross-functional team (editors, researchers, AI engineers, strategists) embedded with client
+- **Resource Model:** Flexible, outcome-based (not hours-based); GrowthX maintains 60+ delivery staff for 60+ clients for healthy ratios; scalable based on results (Lovable case study: started with one workstream, doubled scope after proving results)
+- **Translation Pipelines:** Adventures Group (Mexico travel group) demonstrates feasibility of multi-language workflows; requires native speakers for fact-checking and iterative calibration on localization guidelines
+- **Critical Constraint:** GrowthX won't hire localized staff upfront; Spendesk must provide local resources for calibration; English quality must be proven before translation adds complexity
+
+## Decisions & Commitments
+
+**GrowthX (Marcel):**
+- Will explore translation pipeline feasibility internally and report back to Tyler with capacity confirmation
+- Proposes 8-week calibration sprint focusing initially on English content quality (not multi-language)
+- Open to building translation workflows collaboratively during calibration using Spendesk's internal Dust agent and local speakers for fact-checking
+- Will not hire localized staff (German, French, Spanish) without long-term commitment; prefers Spendesk to provide local speakers for calibration
+
+**Spendesk (Ollie & Cristina):**
+- Acknowledged translation/localization must be integrated into workflow, but accepted sequencing: English first, then translations during sprint
+- Agreed to provide local speakers for calibration and fact-checking of translations (leveraging existing content team)
+- Will make Spendesk's internal Dust agent available for pipeline integration experimentation
+
+**Unresolved:**
+- Whether translation pipelines can be built "together" (Spendesk providing local resources) without GrowthX hiring dedicated staff
+- Exact scope and timeline for translation integration within 8-week sprint vs. post-sprint roadmap
 
 ## Key Topics
 
-### GrowthX Model and Process
-Marcel explained GrowthX's approach: build sustainable content engines that work without constant human intervention. The 8-week strategy sprint calibrates scope and expectations. Clients get weekly updates, async collaboration via shared Slack channels, and full access to CheckThat for AI visibility tracking.
+### GrowthX's Philosophy & Track Record
+Marcel framed GrowthX as evolution of a 15-year playbook: at IBM, HP, ServiceTitan, HashiCorp, Deepgram—each company needed the same core engine: identify opportunities, execute, publish consistently, generate traffic and conversions. Marcel's core principle: build engines that survive founder/leader departure, not dependent on any one person. All historical projects (secureintelligence.com, contributor networks, etc.) remain active and driving traffic 10-15 years later. This philosophy directly informs GrowthX's design: workflows must be sustainable and scalable, powered by humans-in-the-loop with evolving roles (from prompt engineering to failure-mode detection).
 
-### Resource Allocation Concerns
-Ollie pushed for clarity on resource commitments. Marcel explained GrowthX doesn't work on fixed hours or cookie-cutter models. The team has 60+ delivery staff for 60+ clients, maintaining healthy ratios. Flexibility goes both ways: GrowthX adapts to client needs but can't provide strict hourly breakdowns.
+### AI + Human Collaboration Evolution
+Marcel explained how the human role has shifted as AI matured. Early phase: prompt engineering and direct instruction. Current phase: editors and content engineers identify failure modes in AI output, then feed those insights back to refine pipelines, contexts, and inputs. Example: Biologica (healthcare startup) required two doctors fact-checking every piece; this drove sophisticated feature engineering in workflows (compliance checks, ingredient annotations, medical formatting). The sophistication scales to each client's actual needs, not a generic template.
 
-### Lovable Case Study
-Marcel showed Lovable as an example of scope expansion based on results. Started with one work stream, saw strong signup signals, doubled the scope. The pattern: prove value on core content first, then scale.
+### GrowthX Operating Model
+- **8-week calibration sprint:** Delivers 6-month content roadmap by weeks 3-4; ongoing scope refinement as products/strategy pivot
+- **Team composition:** Forward-deployed editors, researchers, AI engineers, designers, strategists; async collaboration via Slack; weekly updates and shared Airtable roadmaps
+- **Workflow flexibility:** Deterministic workflows (rule-based) evolving to agentic workflows (evaluation-based); agents can't be overly prescriptive or they over-optimize; shift from rules to evals with Claude as judge
+- **Sustainability:** All content and workflows live in file structures so coding agents can interact with them; everything built for machine-readability and long-term maintenance
+- **CheckThat integration:** All customers get full AI visibility index (million+ AI responses tracked monthly) with historical data; clients see buying categories, keywords, pricing intelligence, review synthesis
 
-### Translation and Localization
-The critical discussion. Spendesk has an internal Dust agent for translations (90% accurate) but needs human fact-checking. Marcel shared Adventures Group as a reference: native Spanish speaker reviews content, iterative calibration on localization guidelines, chunked translation approach.
+### Resource Allocation & Competitive Positioning
+Ollie's core concern: avoid buying software tool without expertise. Marcel explained GrowthX maintains healthy resource ratios (60+ clients, 100 employees, 60+ in delivery). Flexibility must be bidirectional: GrowthX adapts scope but can't commit to fixed hourly allocations without unsustainable margins. Resource allocation determined collaboratively during sprint; can escalate to senior staff (e.g., design engineers like George Main at Lovable) when needed. This is why pure software-only products feel incomplete to clients—the differentiation is the human expertise embedded in the workflow.
 
-Marcel's position: don't commit to multi-language during sprint calibration. Risk of fragmenting focus and delaying results. Get English content quality right first, then layer in translations.
+### Scope Expansion via Results: Lovable Case Study
+Lovable started with one workstream focused on rebuilding their blog (previously filled with low-quality SEO content). Marcel showed their 100,000+ signups/week volume, which allowed aggressive opportunity clustering. After seeing strong signup signals tied to new content, they doubled the scope. The pattern: prove value on core content, then scale. This appeals to Ollie because it reduces risk (validate before expanding) but requires GrowthX to deliver quantifiable results early.
 
-Ollie's position: can't ignore translation. Their German blog drives 70% of regional traffic. They're moving away from regional content managers toward a global-but-localized approach. Translation must be part of scope.
+### Translation & Localization: The Core Tension
+**Spendesk's Need:** Operates UK, Germany, France, Spain with distinct localized content. German blog alone drives 70% of regional traffic (not a US-first play). They're moving away from regional content managers toward centralized-but-localized approach, requiring seamless multi-language workflow.
 
-### Resolution Path
-Marcel agreed to check internally on building translation pipelines during calibration, with Spendesk providing local speakers for initial calibration. GrowthX won't hire localized staff without long-term commitment, but can collaborate on pipeline development.
+**Spendesk's Asset:** Internal Dust agent (built by content team) achieves ~90% translation accuracy but requires human fact-checking. Not confident in their ability to improve it further without AI engineering expertise.
+
+**GrowthX's Precedent:** Adventures Group (Mexico travel group) proves feasibility. Approach: native Spanish speaker reviews all content, iterative calibration on localization guidelines, chunked translation workflow. But this required 12+ months of iteration, many failure modes, and deep collaboration.
+
+**Marcel's Concern:** Starting multi-language during calibration fragments focus, delays core English results, and risks delivering neither quality English nor quality translations. GrowthX can't commit to hiring German/French/Spanish speakers upfront without long-term contract commitment (too expensive, too risky). Better path: get English quality right (weeks 1-8), then layer translations into roadmap (weeks 9+).
+
+**Ollie's Pushback:** Can't ignore translation—it's not optional, it's structural to how Spendesk operates. German content drives material revenue. Wants confirmation that translation pipelines CAN be built together (Spendesk providing local speakers, GrowthX building workflow) without waiting for post-sprint.
+
+**Resolution:** Marcel committed to checking internally on translation pipeline feasibility; willing to explore co-building approach during calibration using Spendesk's Dust agent + their local speakers for fact-checking. Contingency: if translation can't be in scope during sprint, must be clearly mapped to post-sprint roadmap.
+
+## Open Questions
+
+**Translation & Localization:**
+- Can GrowthX confirm internal capacity to build translation pipelines during the 8-week sprint without hiring new staff?
+- What is the realistic timeline for translation quality parity with English content? (Spendesk needs German, French, Spanish)
+- How will Spendesk's Dust agent (90% accuracy) integrate into GrowthX's workflows? Is this a plug-in, or does GrowthX reimplements the pipeline?
+
+**Engagement Model:**
+- Will Spendesk accept English-first approach, or does multi-language scope need to be committed upfront for deal closure?
+- Can the calibration sprint meaningfully address localization risk without fragmenting focus?
+
+**Commercial:**
+- What is GrowthX's estimated engagement value and timeline to contract?
+- Does Spendesk require fixed resource allocations or will they embrace the flexible model?
 
 ## Action Items
 
-### Marcel Santilli
-- Follow up internally to confirm capacity and process for building translation/localization pipelines during calibration phase
-- Continue discussions with Tyler and Spendesk team to finalize scope and resource commitments for multi-language support
+**Marcel Santilli (GrowthX CEO)**
+- Check internally on capacity and feasibility of building translation/localization pipelines during 8-week calibration sprint
+- Confirm whether GrowthX can co-build translation workflows using Spendesk's Dust agent + local speakers without hiring dedicated localized staff
+- Schedule follow-up with Tyler and Spendesk team to align on final scope and timeline
 
-### Tyler Pavlas
-- Coordinate follow-up meeting with Marcel and Spendesk to ensure alignment on translation requirements and business objectives
+**Tyler Pavlas (GrowthX)**
+- Coordinate follow-up meeting with Marcel and Spendesk to finalize translation requirements, scope mapping, and business terms
+- Clarify whether translation integration is a prerequisite for deal closure or can be post-sprint roadmap item
 
-### Ollie Bryden
-- Provide input and collaborate to build integrated translation workflow solutions with GrowthX
-- Make available Spendesk's internal AI translation agent and human fact-checking resources for pipeline integration
+**Ollie Bryden (Spendesk Marketing Lead)**
+- Coordinate with Cristina-Andreea Maria on final requirements and sign-off
+- Prepare local speaker resources (German, French, Spanish) for pipeline calibration if translation is approved for sprint scope
+- Confirm Spendesk's Dust agent code/documentation for GrowthX engineering team review
+
+**Cristina-Andreea Maria (Spendesk VP Marketing)**
+- Provide strategic input on multi-market content goals and regional traffic/conversion metrics
+- Align on final partnership structure and resource commitments once hired (official start 2026-01-20)
 
 ---
 
@@ -84,96 +152,67 @@ Marcel agreed to check internally on building translation pipelines during calib
 
 **Cristina-Andreea Maria:** Nice.
 
-**Tyler Pavlas:** And this is their VP of marketing and then their new head of content. Hey, Christina. How's it going?
+**Tyler Pavlas:** And this is their VP of marketing and their new head of content. Hey, Cristina. How's it going?
 
-**Cristina-Andreea Maria:** Hey, guys. Lovely seeing you. Sorry for the cameras off. This is the only time I could do it, so I'm trying to make an appointment, work at the same time as this. Lovely to meet you myself.
+**Cristina-Andreea Maria:** Hey, guys. Lovely seeing you. Sorry, cameras are off—this is the only time I could make it. Trying to work and do this call simultaneously.
 
-**Marcel Santilli:** Yeah, you too. Where are you based?
+[Group pleasantries and introductions—location and background context exchanged. Cristina joining as VP Marketing the following week, currently joining from home in London.]
 
-**Tyler Pavlas:** Oh, you went. You went on mute. Accidentally.
+**Tyler Pavlas:** Excited to bring our CEO Marcel to this conversation. Ollie, I think we're pretty aligned on the key discussion points. Marcel has worked with companies like Ramp and Brex, and I wanted him to address your core concerns around resource commitments and effort allocation. Let me let you give us a quick intro on your evaluation status and main concerns, then Marcel can walk through our process.
 
-**Cristina-Andreea Maria:** Accidentally. Okay. No, I'm back. Where are you based, Marcel?
+**Ollie Bryden:** Yeah, look, I think the GrowthX model is very aligned with how we're thinking about our content, SEO, and AEO challenges—we've seen really big drops in organic. We are an organic lead generation machine and we're not anymore. That's what we're trying to solve. I like what you've built and how you've done it, but my main concerns are: (1) What do we actually get from a resource point of view? I want to avoid buying a software tool without human expertise gaps. (2) We're multi-language: German, Spanish, French. We translate most content into these languages. How can we build something robust for translations? Those are our two fundamental points.
 
-**Marcel Santilli:** I'm in the Bay Area. Sorry, I missed. Where'd you say your base?
 
-**Cristina-Andreea Maria:** Oh, I'm in London. Newly returned to London. I used to live here. I lived here for quite a while, then moved to Edinburgh in Scotland and now back to London as of last week. So I'm still setting everything up. I think Tyler and I had. Yes, we could actually choose last time too, but hopefully everything will be set by end of this week.
+**Marcel Santilli:** Let me give you quick background—it's relevant to your resource question. GrowthX wasn't a master plan. It evolved from my work at IBM (secureintelligence.com), HP (contributor networks), ServiceTitan, HashiCorp, Deepgram. Every time, same playbook: build an engine to identify opportunities, execute, publish content, consistently generate traffic and conversions. Those sites still drive traffic 10-15 years later—I build things that work without me.
 
-**Marcel Santilli:** That's awesome. And are you. Where are you originally from?
+AI evolution: early on, humans handle prompt engineering. Now systems are mature enough that the human role shifts—editors find failure modes in content, feeding insights back to tweak inputs and pipelines. That's the real engine.
 
-**Cristina-Andreea Maria:** Originally, Romania. But I know my accent sounds a little bit funny. I've been told this.
+We customize for each client. Biologica (healthcare) needs two doctors fact-checking every piece; we engineered compliance checks, ingredient annotations, medical formatting. Lovable needed design generation; we embedded a design engineer. It's not cookie-cutter.
 
-**Marcel Santilli:** Tyler's seen me too. I'm from Brazil. What is her accent? It's like I was trying to figure it out.
+All workflows live in file structures so coding agents interact with them. That's why most "AI-powered" agencies fail—they copy-paste prompts and add an editor. We build actual engines.
 
-**Cristina-Andreea Maria:** Oh, no, I'm originally from Romania, so a little bit of Latin there, hence my name, which might have sounded a bit Spanish, but, yeah, if you were able to see my face right now and I didn't have, like, a towel on my head and everything, I often get Greek. That's probably what I hear most. Hey. Hey, Ali. How's it going?
+Our process: 8-week strategy sprint calibrates expectations and scope. We recommend starting with one workstream, publishing refreshed content daily. Good shots on goal tend to work. Lovable is a perfect example—started focused, saw results, doubled their scope. We're transparent about incentives: if you grow, we grow. We're invested in your success.
 
-**Ollie Bryden:** Hi. Sorry I'm slightly late.
+**Ollie Bryden:** What does scope expansion look like in practice at Lovable?
 
-**Tyler Pavlas:** Yeah, no worries, Ali. Excited to bring our CEO Marcel to this conversation. And, Christina, I gotta ask, have you started your first day at Spendesk yet, or are you still being such a hard worker and overachiever?
+**Marcel Santilli:** Lovable started with one focused challenge: their blog was mostly garbage content from a bad SEO agency. They're a 100,000+ signups/week company with strong brand equity and direct traffic, so they wanted to control their organic destiny. We audited ~3,000 competitive URLs, identified topic clusters, and delivered a 6-month roadmap by week 3-4. Because they have such strong fundamentals, we went aggressive with volume. Once they saw results (strong signup signals), they doubled the scope. Roadmap evolution is continuous—if you pivot product, it changes. We shifted from deterministic workflows (fixed rules) to agentic workflows (evaluation-based), which required reimagining all artifacts.
 
-**Cristina-Andreea Maria:** Not yet. Not yet. If I was at Spendesk, you would see me in a nice office like Ollie and everything. Not trying to make Internet happen, but hopefully starting next week, everything will be normal. I have a normal background, normal connection. Thank you for putting up with it.
+**Ollie Bryden:** That's standard for discovery?
 
-**Tyler Pavlas:** Well, I'm sure Ali is very thankful to have you on board. I'm super impressed myself. But, Ali. Yeah. I wanted to introduce Marcel, and I think we're pretty aligned on the outstanding points to discuss, but I was hoping to let Marcel just go more in detail around our process, working with clients. I know he's had some experience on Ramp and Brex. And also like, he can go in more detail. You had some concerns right around, like the hours per resource. And I think Marcel can go in a lot more detail around how much effort we put in on every new client that we work with. So I'll let you maybe just give a quick intro of, you know, where you're at in the evaluation with Marcel and some of your main concerns and then Marcel can jump in and talk. Talk through what we do.
+**Marcel Santilli:** Yes. By week 3-4 you have a full 6-month roadmap you can use even if you decide not to work with us. As products evolve, everything has to evolve with it. Our system today handles this via agentic workflows with evaluation criteria rather than rigid instruction lists—agents will over-optimize if you're too prescriptive.
 
-**Ollie Bryden:** Yeah. Great. Yeah. Hi, Marcel. Nice to meet you. Ollie, marketing. So, yeah, look, I think we like, obviously, look, the Growth X model is very aligned to how we are thinking about our, our content, SEO, AO geo challenges where we've seen like really big drops in organic. We are an organic kind of lead gen machine and we're not anymore. And that is part of the problem that we're trying to solve and part of the problem that Christina, a huge part of her objective will be to own that as well, hence why she's here ahead of schedule. So, yeah, we're looking for the right partner. All looking good. I think the difficulties that I've had is to really understand it's a hefty cost for not really too much visibility or clarity, like written in writing around what we get from a resource point of view. Because what I want to avoid is buying the software tool, you know, the workflow that you've got, and then having to still plug resource gaps from an AO geo expertise point of view. Right. So kind of want to know what we're signing up for there. That would be a bad outcome. I think from a partnership point of view, if we have to go and, you know, plug that resource gap, that's number one. And then number two, which is more of a technical workflow piece, which is. I'm not sure how many European clients you work with or if you're predominantly US focused. But from our point of view, we are multi language. We have German, Spanish, French, we translate most of our content into. And yeah, the point there was just around how can we be a kind of guinea pig really for setting something up that's quite robust for language translations as well. Two real kind of fundamental points. Not sure if I missed anything, Christina, but I think those were the two that we.
+**Ollie Bryden:** What level of ongoing human support do we get? I want to avoid buying software without expertise. Can you commit to specific resources or expertise hours?
 
-**Cristina-Andreea Maria:** Yeah, I think that's about it.
+**Marcel Santilli:** We embed directly in your Slack channel—every customer gets a dedicated channel where our team stays in the weeds. Weekly updates, async collaboration, fully transparent about what we're focusing on next and results we're seeing. It feels like an extension of your team. Escalations happen when needed (e.g., George Main, our design engineer, is embedded at Lovable for template generation).
 
-**Marcel Santilli:** Yeah. Cool. Perfect. And so maybe let me see what's a good place to start? I guess like, let me give you. Maybe Tyler already gave you, but I'll give you a super, super fast, like background on like how we got here because I think it's super relevant to the question around like resources and things like that, right? Like GrowthX wasn't like this master plan that I had. Like, you know, it was, it was truly from my first job when I was at IBM and I built the site called secureintelligence.com and then at HP I built this contributor network and then at ServiceTitan, HashiCorp, Skill AI and Deepgram, Deepgram is now a customer as well. Every single step of the way I did the same playbook, which it was, different flavors of it, but at the end of the day I wanted to build the engine that I could identify opportunities and then execute against those opportunities, publish content and consistently generate traffic that led to conversions. That's it, right? Like almost every single company I work for, even though they're very different, like that worked. And today I can still point if you go to survey site.com toolbox like that. That's my strategy, right? Like you can still go to all those sites and you know, 10, 15 years later, they're still there. And so for me, I always thought I need to build things in a way that if I left, the thing will still be there. And that's why every single thing I've ever built was still there after I left, years after I left, right? And so that was always like my mentality is like I need a thing that works without me or, and it's even better with me, but it works without me. So fast forward when I was at Deepgram and I started building these workflows, I just realized like, you know, AI can get you really far, but you always need a humans in the loop. But then as the technology started to change, like the function that human, that expert plays starts to evolve and be very different, right? And at first was like very much prompt engineering, do this, do that. And now the systems are so good that we build that, it's almost more. And I was scaliai data labeling company, right? It's almost like our editors are finding like failure modes in the content, right? To then inform how we tweak the contacts, the inputs, the pipelines and things like that, right. And so because of that we've as GrowthX started to take off, I said, hey, I want Growth X to be the thing that for sure I could vouch for that I would have bought if I was the cmo, right? And for me it was like, hey, the tech, the people. But also like a lot of the execution. But what that ends up meaning is that it looks slightly different for everyone like some people end up needing a little bit more design at the beginning or they are way, way. And I'll just show you a few examples here so that we can like as I'm talking can kind of like dig in. But like let's just take Biologica for example. You know, they're in the health care space. They have two doctors reviewing every single piece of content, right. And so we come up with every single image you see here for them, right. And it's very, very editorialized but also it has to be like fact checked. There's just like so many steps. So then when you go into the pipeline for them, like you see that the number of AI engineering things we've had to done and this is just like already v2 of different pipelines we've had to do. It was like so much right? Because it was like hey, now we have a compliance check that needs to happen. Hey, we need to integrate how we talk about our ingredients. Hey, we need to format the medical annotation so it's faster for our doctors to review the content. Hey, we need to annotate it, we need this, we need that. And every single step of the way it was like almost like feature engineering. How we get to the level of quality that they are comfortable with. Obviously that came with trade offs on, on volume but they were more worried about like the quality of the content for their launch. Right. And this is the founder of Allbirds new company with his, his wife, you know, and, and so like for us like that that's really the unique part is like having a system and then our framework which is what powers all of this is like all these workflows, right? Like for instance, like this one is running right now is a fact checker, you know. And you can see here what is detection engineering and you can see it's extracting every passage and fact checking everything. Like all of this is power because we saw ahead of the curve over a year ago and we said coding agents are getting better. Coding agents are really good with file structure. Everything we do should be in a file structure so that like agents can, can actually work with it. So all our workflows are, are in this, this way, right? And so that's what power like all the executions. And so so anyways all that to say that the, the way we, we work is we do the eight week strategy sprint and in that sprint that's where we can calibrate the expectations as far as like what we're able to deliver with the scope that you have. Right? And, and, and so like, there's obviously like companies like Lovable and Augment Code and others are like super aggressive out the gate. And, but we tend to always recommend starting with one work stream and then that work stream. The, the commitment that we're going to have is like we want to publish and refresh content every single day, right? And what we find is if you take really good shots on goal, that tends to be enough already to do really, really well. And then once you start to see results, then you can kind of really, really double down. Like, that's why Lovable has been working with us for, for three, a little over three months. And, and I'll show you here. So, but, but because they're seeing like so many results, they essentially double the scope. And you can kind of see here, but like, you know, we're seeing really strong signals and a lot of signups. So then they're like, okay, now let's go and do more. Right? Like, let's double the volume. And you know, and we're pretty transparent because for us, like, we want to help you grow, right? So if we're doing all this work for you and we're able to figure out the pipeline in a way that you're happy with, and we're able to increase the volume, like for, for us, that's a win because that means you're going to continue to work with us and we're going to help you grow and we can tell the world that we helped you. Right? And so our, our incentives tend to be pretty, pretty aligned there, you know, that makes sense. But happy to show you more. So hopefully that just was okay. Like high level, you know.
+On SEO/AEO specifically: I've never hired an SEO person in my career and built successful growth engines through content. Google's official stance is you shouldn't need to hire SEO or AEO—instead, be the best answer to people's questions, deeply understand your audience, and keep content fact-checked and well-researched.
 
-**Ollie Bryden:** Yeah. Okay. And then I appreciate it. Just, just talk me through about like extending the scope as well on that one. Like, what typically you gave Lovable as a good example there is like extending the scope. What does that, what does that mean in their.
+For AEO: we built CheckThat (launches end of January), our AI visibility index. Every customer gets full access with historical data and custom prompt tracking. You see buying categories, keywords, pricing intelligence, review synthesis. Clients get way more than the public version. We defined every buying category for software spend management and curate prompts to track—over a million AI responses monthly. That gives us better context for recommendations than generic AEO tools.
 
-**Marcel Santilli:** Yeah, so again, like, Lovable is like a much bigger scope. But we were brought in by their head of marketing and, and we had two things wanted to do. So the first challenge they had was that 100% of their content was in this like, blog. And then they had hired a really shitty SEO agency that had created really garbage content. I'm talking like really garbage. Like, like, this is like embarrassing garbage, right? And they're like, yeah, we, we have this blog and this blog is just this. And like, obviously 99.9% of our traffic is, is brand and, and direct. We need to change that because we're Although that's going, going really well. We want to be in control of our destiny in case that ever doesn't grow as fast. Right. So we came up with an entire strategy for them and around like creating these guides and, and, and I'll show you in airtable. Again, like we're super transparent here so you can kind of see but leave it's this one. Sorry, I should have had this pull up. But essentially what we came up with, we did a ton of research, right. And, and we created identified topic clusters. In their case they get 100,000 plus signups a week. So we had to go really, really, really, really aggressive. But the good news is that because they had so much brand love and link equity and they were well established, like it was okay to go really aggressive essentially. Right. Whereas like there's other sites like you're, you have a decent domain authority as well. And, and so we identified these kind of clusters where there was like massive, massive volumes and then within those clusters, right, which came from us auditing essentially like 3,000 potential competitive URLs and then sorting them by content type as well as by later on by level of difficulty as well. And in all of this now is actually like we did this before it was built into our system. So now we have all of this built into our system. So for instance like opportunities, we can find additional opportunities. So and find, let's say like based on Persona and then start the research, it's going to continue to identify additional opportunities, right. And so then the editor and engagement manager strategist assigned to you is understanding your brand and then going through and helping to prioritize what opportunities look like, you know. Yeah.
+On flexibility: it's bidirectional. We adapt scope but can't commit to fixed hourly allocations—our margins don't support it. Resources allocated collaboratively during sprint. If you need design, you get it. If you need data science, you get it. We have 60+ delivery staff for 60+ clients (100 employees total), so ratios are healthy. You can validate on LinkedIn.
 
-**Ollie Bryden:** And that's standard for all discovery phases, that type of thing, correct?
+**Tyler Pavlas:** We need to align on what we can commit to around translations. Ollie, can you walk us through what you've built internally?
 
-**Marcel Santilli:** Yeah. All of this is handed to you by week 3 and 4, right? Like so by week 3 and 4 you have an entire like 6 month ish, give or take roadmap of opportunities. Quantify you have all the, the context that we're doing for you that you can actually take. And if you decide not to work with us, like you can use this and you should use this. Like we see companies like Biologica, like they actually, it's almost like product marketing on steroids, super accelerated in two weeks, you know, because we're going, we're interviewing your stakeholders where you know, we're doing all those things and, but then it's also, and it's ever evolving, right? Like, so when we're talking about like your products and feature, if you pivot the product like, obviously this has to change, right? But it's everything from like proofreading the writing guidelines and then as our system evolves, we also have to change this. So for instance, before a lot of our workflows were very deterministic and now they're agentic, right? So when you're going through. Let me show you, the lovable one might be a good example. But let's say you're going through like a, this right now, like the, the researcher 1. What ends up happening is. Let me just move this out of the way is that when you go agentic, there is evaluation steps, right? And so the way the artifacts and everything had to be created, they really had to change. Because with deterministic you can just say, hey, here's a long list of instructions. Just go execute this. With agents, you can't go overly prescriptive or they get stuck over optimizing every little step, right? So, so we change from rules to evals, you know, with elements as a judge. So you can see here like this is a eval on the research. So the, the agent generates a research plan and then evaluates the criteria. So anyways, like a lot of this stuff is like we, we kind of don't talk too much about it in this phase because it's, it's kind of almost like overwhelming how much there is here, you know, but all of this is like to build an engine, not to just do a one off, like copy and paste a slightly better prompt into ChatGPT and give you garbage and then throw an editor edit, you know, which is what most agencies that claim to be AI power will do, you know. Yeah. Okay.
+**Ollie Bryden:** We built a Dust agent (by our content team) trained on French and German content. It gets us to ~90% accuracy but requires human fact-checking. LLMs like ChatGPT miss tone-of-voice and specialized domain language for spend management. My preference: integrate this into your workflow rather than managing another step internally. We lack the AI engineering expertise to improve it further without help. It's functional but not a complete solution today.
 
-**Ollie Bryden:** And then to answer, I guess the question, because this is all great and this is, you know, why we're at this, this, this part of the conversation is super. I really like what you've, you've built and how you've done it. Is the human level of support that we get. Right? Because it sounds kind of like your model is that we kind of get what is. I would describe as like content engineers to some extent that will ongoing kind of work with us spot where there's like gaps in the workflow, work with us to improve. To improve it. But the, I guess ours is like the what do we get from a like ongoing support, you know, SEO geo expertise that sort of, you know, zooms out a little bit as well for us. Like what, what is there anything. Anything me. It's a bit weird that we don't like there is not like some level of commitments There.
+**Marcel Santilli:** I looked at your translated pages and didn't see significant traffic—but maybe metrics beyond organic matter for you. We have a precedent: Adventures Group (Mexico travel company, three brands: Cabo, Cancun, Puerto Vallarta). We have a native Spanish speaker review all content. Translation workflow: chunks article, translates each chunk, reassembles, ensures consistency. This requires heavy iteration on artifacts for nuanced language—Spanish from Mexico vs. Spain vs. Central America, travel-specific terminology, etc. All possible.
 
-**Marcel Santilli:** Yeah. So a few things like, so this is what you can expect. Like, we are in the channel. Like every single customer has a channel, right? Like, we're there, we're keeping you up to date. You can be as involved or not involved as you want to. Anyone that's working, like George, like, this is George Main, like, is in there and engaging with the team. And you can see, like, we're just trying to work asynchronously, right? And so like, like I said, like, this is every single week, right? Like we're in the weeds with everybody. If there's an agenda or something else, like we're, we're sharing, like, hey, these are the next 15 we're going to focus on. These are the results we're seeing where we're really in there, right? Like, it's supposed to feel like an extension of your team. And then as far as like aeo, I might have a slightly controversial view on things in the sense that I never hire an SEO person in my entire career and I built pretty successful growth engines with content. And Google's official stance from both SEO and AEO is that you shouldn't need to hire SEO or aeo. Not to say that that's not good knowledge to have, but at the end of the day, like, we take very much a. Like, be the best answer to people's questions consistently to seek to understand more deeply your audience and go figure out all their pain points, their jobs to be done, all the things that matter to them and help them do their jobs better consistently and keep doing over and over again and keep your content, like fact check, you know, really well researched, well written and all those things. Right? Like, and, and so same thing with ao. So what we've done with AO is I'm showing you this is not officially launched, but it's live. And so all our customers get access to. Check that. And so check that is our open index of AI visibility. And so what we've done is like we went and let's just say spend expense category, for example. Um, we've defined every single category in, in this, in buying software. And, and then we had editors plus workflows go and, and curate every single prompt we should track and then we're tracking every single prompt. So it's over a million AI responses a month. And this is available, open and free for anyone. Um, we're, we're announcing it in a couple of weeks. But then you as a client get way more things than anyone else would because everybody else will have like, limited visibility like 14 days. Whereas like clients will get this, like set up, our teams will set this up. And that's. And the main reason was like we look at all the other tools and none of them had done some kind of methodology around us finding the buying categories that our customers care about. And that's what we've done. Right. Like, and for every single one of these companies, we went and did like deep research. So this is all public, you can see. Right. And so around their overview, the pricing, alternatives, reviews, all of this is like really, really well done content that's causing one art this site to rank. So one is a great case study for clients. But then two, it gives us better context so that when we're making recommendations around like what prompts you want to track, like this is way, way better done. Right. And so the way to think about it, like you get access to all of this and then you get all this library of share prompts that we're already tracking for free that already has a ton of historical data. So from day one, you will have the full historical data set up for you, you know.
+Here's my hesitation: starting multi-language during calibration while building core English workflows guarantees fragmentation. It's not about headcount—it's about building pipelines, calibrating, creating right artifacts, getting feedback, measuring growth. You end up with work-in-progress everywhere, nothing done. Plus, we can't hire 8 German/French/Spanish speakers upfront without long-term commitment—too risky.
 
-**Ollie Bryden:** Yeah, okay. Okay.
+Setting up pipelines is fine—we have patterns from Adventures. But Adventures required 12+ months of iteration, constantly catching translation failure modes, creating artifacts to inform agents how to translate more naturally. That's the real cost.
 
-**Marcel Santilli:** And we also have AO experts as well. It's just that like the experts by themselves are, you know, like nobody's truly an EO expert. Right. Like, it's just kind of like we have data scientists, we have people that have been really, really studying the data and the patterns. We're collecting millions of AI responses a month and learning from that data. But most importantly, we're applying that knowledge and figuring out what's working. And that's the most important thing, I.
+**Ollie Bryden:** German blog drives 70% of regional traffic—we can't ignore that. We're different from Adventures. France and Germany each have deeply localized content. Our old model with regional content managers breaks because they do their own SEO. Cristina and I are moving away from that—we want global-but-localized, not regional silos. Translation must be part of scope.
 
-**Ollie Bryden:** Think, you know, so it sounds, to be honest, it sounds great. It just sounds like it's quite flexible in the sense of, let's say we had a very specific need and our, whoever our kind of account manager is or content manager would kind of commission in certain resource within GrowthX to support with that specific need as opposed to it being prescriptive of X hours.
+**Marcel Santilli:** I missed that German data. OK, I need to run, but let me connect with Tyler and the team internally. Translation won't work if you don't establish localization guidelines and have local speakers for calibration. I'm confident we can create pipelines during calibration. But English quality first—if we don't get that right, we're translating garbage. We can't hire German/French/Spanish speakers upfront without a long-term commitment. That's a significant cost and risk for us.
 
-**Marcel Santilli:** Yeah, it's not cookie cutter, it's not hours based. And at the end of the day, like we're. Because at times we have to put, like I showed you, lovable, like George Main, for example, who's our design engineer. Right. And, and so there's like we have design and designers in the loop and this is like programmatically generated. Like we're programmatically generating all these templates for lovable and then all this page and we came up with design of this page, for example. Right. So to have that flexibility, it's kind of like it has to go both ways. Right. Like if we give you like our allocations, then like for us to operate as a softer business with, you know, softer margins, it becomes really, really, really hard, you know, but, but just to give you peace of mind, today our company, we have a little over 60 customers we're working with and, and we have 100 employees and 60 of those, a little over 60 of those are in the delivery team and so that are forward deployed and assigned to clients. So the ratio is like pretty healthy. So we're not like, you know, running a sweatshop with like the least number of humans possible, you know, and you can check LinkedIn to see how many employees we have to validate that. You know.
+**Ollie Bryden:** That makes sense. Can we build this together—you building workflow, us providing local speakers? That seems like it has to be on our side initially.
 
-**Tyler Pavlas:** I think Marcel, one thing that we should definitely align on because I want to make sure it's a good fit on both sides, is like what, what we would actually be able to commit to around translations. And I know you had some questions right around like what Ali had built internally. So maybe we can spend the last couple of minutes talking about that.
+**Marcel Santilli:** I'll follow up internally and confirm feasibility. Excited to work together.
 
-**Marcel Santilli:** Yeah, good call. Can you tell us more about like what's working from a translation and where you ideally help?
+**Ollie Bryden:** If translation is confirmed as in-scope, I think we can move forward.
 
-**Ollie Bryden:** Yeah. So we have, we have an agent that we built in Dust. I didn't build it. It's someone in the content team which looks at our use. Obviously open, it uses basically our content, our French and German specific content that we have recently published. Because if you ask ChatGPT or any LLM to translate stuff, it will, it will get things wrong in the context of your own tone of voice, but also a specialized subject matter like how we talk about spend management solutions. Right. There's some nuances in language there that it's not smart enough to pick up on. So we kind of got built an agent that's got us maybe 90 to 90% there, but we still require human fact checking on all of these translations. What why don't we got yet? I mean, my preference obviously would be that we build this into the workflow that we're creating rather than adding another step internally that we have to manage. That is goes without saying it would be a fairly pivotal for us. We, I don't think we yet have the like engineer expertise from an AI point of view to really make this sort of seamless, you know, to really improve this agent to a point where we almost need very minimal fact checking on our side. So it's like we've got something, it's okay for our purposes, but it's not something that I would say it Solves all of our problems today. Yeah.
+**Tyler Pavlas:** Let's make sure there's business purpose. US market could show quick wins—
 
-**Marcel Santilli:** So I'll say two things here, right. Like, on one side, I was doing just a little bit of digging in on the results, and I didn't see a tremendous amount of traffic to your translated pages. Right. Like, so I think from one perspective, there is, like, let's try to figure out, like, what will work. And maybe there's, like, other metrics to care about other than organic growth. Right. But in this case, like, one of our customers, they're called the Adventures Group. They are a travel group in Mexico. And so obviously, like, English and Spanish are really important. And we have a native Spanish speaker that looks at all the content. And so we've gone through a bunch of different, different iterations. They actually have, like, three brands, one for Cabo, one for Cancun, and one from Puerto Vallarta. You know, and so you can kind of see all these different pipelines. And. And so there's a lot of different approaches we've taken. So this one, for instance, is like the translation one where updates, internal links, it translates the metadata, it splits the article into chunks, translates each of the chunks, and then reassembles the article and make sure it's all consistent and flows. And obviously this requires a lot of iterations around keeping artifacts that kind of address some of the nuanced language that you need when it comes to this specifically, like, travel or, hey, do you want more like, you know, Spanish from Mexico adapted to Mexico versus Spain versus somewhere else. Right. Like Central, like South America or something, you know, and, and so all of this is. Is possible. The, the. The thing that normally we try to. We hesitate a little bit is because I like to be transparent, right. Is when you start an engagement to try to do translation localization in multiple languages at the same time of trying to figure out, like, your core, which drives, like, 99% of your traffic, will for sure distract one from the other. Right. There's just no way. It's not about the number of people you put on. It's like you're trying to build pipelines, you're trying to calibrate, you're trying to create the right artifacts, you're trying to get feedback, and you're trying to get growth and signals that are going to show you growth. Right. And so normally what we try to do is not commit to it during the sprint because it's like, it almost for sure will guarantee that we won't achieve as much by the end of it. And then it's like if you have too much Work in progress, but nothing is done kind of thing, you know, and that's really like the biggest challenge now. It's, it's possible we can do it and. But for us it's really risky as well, saying, hey, we're going to go hire like eight different people in local languages before there's even like a long term contract in place. You know that that's us committing like a lot of investments upfront to do that. Now setting up the pipelines is not the hard part. Like we can use these patterns we already have, right. But like they've been working with us over a year now and it's required a lot of iterations around. Like where is it getting wrong? Which requires a local person to, to really read it and catch some of those failure modes in the translation process. You know, where it's like you're translating and then you're translating back and vice versa and you're trying to catch those and then create artifacts to, to better inform these agents on how to translate it in a way that feels more natural, you know.
+**Ollie Bryden:** That's not how our business works. UK, Germany, France, Spain all have different content. Can't be US/UK focused from the start.
 
-**Ollie Bryden:** So what, what? Because, because it clearly is important to us and I think the thing that we've got is that we are just, we, you know, we have a very unique website for, you know, it's extremely localized for all languages. So we get. There's one German blog, right, that drives like 70% of traffic in that region.
-
-**Marcel Santilli:** And I missed that part, sorry. I was looking at the Spanish version and it had like no traffic. So I apolog.
-
-**Ollie Bryden:** It's really, really different. So it would be kind of impossible with our model to not look at this. It would kind of be a, I think a myth on both sides. Regardless, like it doesn't. We are extremely entrenched from a France point of view. Like there's different content right on the, on the site. To be honest with you. We try with most editorial, we will try to trans. We will try to do it in multiple languages. But that flow is just broken by nature of the fact that we've had regional content managers that going to kind of do their own thing. They do their own SEO stuff and it just kind of, it breaks there and I'm looking to change. Well, Christina and myself are aligned that we want to move away from having hiring localized content managers, individual SEO. It's the wrong way to look at it and we want to look at this globally, but obviously we still need to keep, you know, we need to make sure that it's localized content as well for, for it to work.
-
-**Marcel Santilli:** So, so let Me do this because I have to run, but let me connect with Tyler and the team internally. It's very clear we've done it, but you can see it won't work. And it's going to be not great. It will be no better than chat GPT translation if we don't go through these processes of coming up with some kinds of localization guidelines and things like that. If you have some of the local speakers available for calibration and then we can. I'm confident. Let me talk to the team and confirm that we can create the pipelines during the calibration. It won't be the first thing we do because we got to get the rest. Right. Because if we don't get English quality right now, you're translating garbage anyways. Right. And. And then we just can't commit to hiring localized folks on our end, which will come with a bit of a cost, obviously. Right. Without like us getting past the conversion period for, for the sprints. Just because, like, we can't commit to like hiring headcount without a long term commitment.
-
-**Ollie Bryden:** Understood.
-
-**Marcel Santilli:** Understood. We're not going to go hire German speakers out the gate and then week seven, you're like, hey, change my mind, you know, because that would be really bad for us, you know. Yeah, yeah. I just like to be transparent, you know, like. Yeah, yeah.
-
-**Ollie Bryden:** No, no, no. And. And that makes sense. It's the. I guess the thing that I was looking for is can we build this, like, together regardless of hiring localized, you know? In what? In what? Whether that's our side or your side. I think it would have to be our side. Right. In the initial.
-
-**Marcel Santilli:** And so sorry, I got a drop, but I'll follow up and it's been so awesome. I'm excited to hopefully work together.
-
-**Ollie Bryden:** Yeah, no, me too. No, awesome. Really?
-
-**Tyler Pavlas:** I can chat for a few hours if it helps.
-
-**Ollie Bryden:** I've got to drop, unfortunately. I'm on with our design agency. But thanks so much. Like I said, I think for us, it's just. That's all I was looking for really, is the. A bit more understanding, but also the translation piece. If we can get that confirmed basically that this will be part of the scope, then I think we can move. We can move.
-
-**Tyler Pavlas:** Yeah. I think that we should just make sure that there is a strong business purpose to tackling that first if you're looking to drive more growth in the US Market. Right. Because I think we can get a bunch of early signals and quick wins there. And as Marcel said. Right. We might not be able to.
-
-**Ollie Bryden:** That's just not the way our business. Like we are. Uk, Germany, France, Spain, all with very different content. And it's. It's. You can't. I don't think we can have a, you know, a global. Sorry, US or UK SEO focused to begin with. I think that's the bm. I see. I see.
-
-**Tyler Pavlas:** I'll chat with Marcel and we can do one more conversation, just to make sure we're completely on the same page. I'll let you run.
-
-**Ollie Bryden:** Good to see you. Appreciate it. All right. Thanks, Tyler.
+**Tyler Pavlas:** I'll align with Marcel. One more conversation to get on the same page.

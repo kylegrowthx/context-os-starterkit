@@ -5,84 +5,124 @@ date: 2026-02-25
 time: 18:30 UTC
 duration: 29 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Fred Studer, Alexandra Jovicic, Tyler Pavlas
+participants:
+  - Marcel Santilli (GrowthX co-founder)
+  - Fred Studer (CMO, Sigma Computing)
+  - Alexandra Jovicic (Field Marketing, Sigma Computing)
+  - Tyler Pavlas (Founding AE, GrowthX)
 fireflies_id: 01KJ647P35HP4KQKWD781CJ14G
 transcript_url: https://app.fireflies.ai/view/01KJ647P35HP4KQKWD781CJ14G
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Sigma Computing's CMO Fred Studer and field marketing lead Alexandra Jovicic met with Marcel Santilli to discuss a strategic pivot toward AI-focused content marketing. The company recently shifted from paid demand generation to content-led growth, resulting in improved conversion quality despite maintaining SQL volume. GrowthX will conduct a quick audit of Sigma's website and AI content performance, then propose a comprehensive content strategy engagement for early next week, with plans to begin work immediately post-decision.
+Fred Studer (CMO, Sigma Computing) and Alexandra Jovicic (Field Marketing) met with GrowthX to accelerate Sigma's transition from paid demand generation to content-led growth. Sigma paused paid spend in August and discovered organic/content signals outperformed, with healthier SQLs despite lower volume. GrowthX will conduct an AI visibility audit of Sigma's website and category performance within the week, then propose a comprehensive content and AEO strategy. Deep-dive session scheduled for early next week (Monday/Tuesday) to present findings and recommendations before Sigma's Friday board meeting.
+
+---
+
+## Context
+
+Sigma Computing is an AI-native analytics platform in a crowded enterprise AI space. Fred Studer (previously at Vista Equity, Microsoft, Salesforce, Oracle) recently shifted the entire GTM from paid-focused demand gen to content and third-party validation strategy. The company did a major rebrand from "AI data apps and analytics" to "AI apps for the enterprise on an analytics platform." Alexandra Jovicic leads field marketing and recently launched a virtual user conference in three months. GrowthX and Sigma are geographically aligned (SF/Oakland) and Sigma came via warm introductions from two of GrowthX's existing clients: Courtney Ogawa and Morgan Norman (who just signed with GrowthX).
+
+---
+
+## Relevance to GrowthX
+
+**Content Marketing & Strategy**
+- Strategic pivot from paid-first to content-led growth — exactly GrowthX's expertise
+- Need for high-quality, "editorialized" content strategy aligned with positioning shift
+- Intent-based content creation rather than broad awareness
+
+**AI Visibility (AEO)**
+- 31,000 AI responses analyzed in Sigma's category
+- Opportunity to improve citation/mention rate in AI evaluation queries
+- Gap between organic visibility and AI visibility metrics
+
+**Case Studies & Third-Party Content**
+- Sigma leveraging customer stories, case studies, G2 reviews, Gartner Magic Quadrant
+- Field marketing integration with demand gen strategy
+- Influencer content testing (internal and external)
+
+---
+
+## Decisions & Commitments
+
+**Sigma Computing commits to:**
+- Organizing internal team (Fred, Alex, Luke, Mallory, Mark) for deep-dive session Monday or Tuesday of next week (before Thursday workflow event and Friday board meeting)
+- Reviewing GrowthX's audit and proposal within the agreed timeline
+- Potential engagement scope: comprehensive content strategy and AEO optimization
+
+**GrowthX commits to:**
+- Complete audit of Sigma's website and AI content performance (by early next week)
+- Deliver transparent pricing proposal
+- Schedule one-hour deep-dive Monday/Tuesday to present findings and strategic recommendations
+- Begin implementation immediately upon decision (post deep-dive)
+
+---
+
+## Open Questions
+
+- Which content topics and formats will have the highest ROI for Sigma's board (they care about proven attribution/ROI)?
+- How much of Sigma's strategy should prioritize AEO vs. traditional organic visibility vs. third-party placement?
+- What is Sigma's production capacity for high-quality content? (They previously did 20 high-quality resources/week at HP)
+- Budget and timeline expectations post board buy-in on Friday?
+
+---
+
+## Overview & Key Topics
+
+- **Business Model Shift**: Paid demand gen → content-led growth (August 2025 pivot)
+- **Positioning Change**: Rebranded from "AI data apps and analytics" to "AI apps for the enterprise on an analytics platform"
+- **Team Structure**: Fred + Alex driving marketing; internal stakeholders include Luke, Mallory, Mark
+- **Validation Strategy**: Customer stories, case studies, third-party validation, Magic Quadrant positioning
+- **AI Visibility Gap**: Strong organic visibility but opportunity to improve AI model citation/mention rates
+- **Geographic Alignment**: All parties in SF Bay Area; potential for in-person collaboration
+- **Success Metrics**: SQL quality (not just volume); intent-based metrics; board-reportable ROI
 
 ---
 
 ## Action Items
 
-**Marcel Santilli**
-- Conduct a quick audit of Sigma Computing's website and AI content performance
-- Prepare and send a transparent pricing proposal to Sigma Computing
-- Schedule an hour-long deep-dive session early next week to discuss audit findings and strategic recommendations
+**Marcel Santilli (GrowthX)**
+- Conduct AI visibility audit of Sigma Computing's website and category performance
+- Prepare transparent pricing proposal for content and AEO strategy engagement
+- Schedule and facilitate one-hour deep-dive session for Monday or Tuesday next week
 
-**Tyler Pavlas**
-- Coordinate scheduling of the deep-dive session between GrowthX and Sigma Computing early next week
+**Tyler Pavlas (GrowthX)**
+- Coordinate scheduling of deep-dive session between GrowthX and Sigma Computing team
 
-**Fred Studer**
-- Review GrowthX's audit and proposal once shared
-- Organize internal team (including Alex, Luke, Mallory, and Mark) for the upcoming deep dive early next week
+**Fred Studer (Sigma Computing)**
+- Review GrowthX audit and proposal once shared
+- Organize internal team (Alexandra, Luke, Mallory, Mark) for deep-dive session
+- Present initial findings and recommendation to board on Friday
 
-**Alexandra Jovicic**
-- Collaborate with Fred and GrowthX team to finalize participant list and inputs for the deep dive session
+**Alexandra Jovicic (Sigma Computing)**
+- Collaborate with Fred and GrowthX to finalize participant list and inputs for deep-dive session
 
 ---
 
 ## Transcript
 
-**Fred Studer:** So, Fred Studer. I've been the CMO here for almost a year at Sigma Computing, and in that year, everything has completely changed. I mean, you can imagine the life of a CMO. Every single one of my directs had to really kind of re pivot with AI, and we're in the AI space. But I come from all software marketing. Started my career off in product marketing working at Oracle on all of the big ERP CRM apps. Went to Microsoft, helped them invent and launch Office 365, and then built the dynamics business at Microsoft. Then incubated something. I went to netsuite and sold it to Oracle, and then la la la la la. Salesforce incubated another erp and then I went into the private equity world. I went to work for Vista Equity, part operating partner for them for about seven years, and then just came to Sigma last early last year.
+**Fred Studer:** I've been CMO here for almost a year at Sigma Computing. In that time everything has completely changed — my entire team had to pivot with AI. I come from enterprise software marketing: Oracle (ERP/CRM), Microsoft (Office 365, Dynamics), NetSuite (acquired by Oracle), Salesforce, and then Vista Equity as an operating partner for seven years before joining Sigma early last year.
 
-**Alexandra Jovicic:** I'm based in San Francisco here, been with Sigma now seven months, eight months. It's crazy how time flies. It's been absolutely incredible leading up the field marketing function and I've been in the, you know, AI BI analytics space for a little while across different, different functions with demand gen customer retention field. Um, so it's been a really great time.
+**Alexandra Jovicic:** I'm based in San Francisco, been with Sigma seven to eight months. I've been in the AI, BI, and analytics space across demand gen, customer retention, and field marketing. It's been incredible.
 
-**Tyler Pavlas:** Yeah, absolutely. Nice to meet you, Fred and Alex. My name is Tyler, based in Houston. I'm our founding ae. So I work hand in hand with Marcel and my job's to free up a lot of his time.
+**Tyler Pavlas:** I'm based in Houston, founding AE at GrowthX. I work closely with Marcel to help free up his time.
 
-**Marcel Santilli:** So Marcel Sio, co founder here, growth's been around for a little 18 months. Prior to that I was, you know, leading content and then growth and then marketing for a lot of different brands. Always been kind of in the technical space in some way. I started IBM, built a site called secret intelligence.com. first year of that site we did 17 million and close one attributed revenue from that site and essentially we ranked the hack was I ranked number one for every magic quadrant we care about and started taking like content from a research team and turning it into like really interesting things. And then I got recruited, moved to the Bay Area and built something similar for HP software. It was a site called techbeacon.com, it was around data, DevOps and a few other technical areas. I built a contributor network of a thousand contributors. So and I hire editors from like Wired and Computer World and I built this publishing engine. We were doing 20 really highly editorialized, high quality resources A week. And, and that's how we grew 100% organic.
+**Marcel Santilli:** I'm co-founder of GrowthX, been around 18 months. Before that I was leading content, growth, and marketing for different brands in technical spaces. Started at IBM and built a site called secretintelligence.com — first year did 17 million views and closed attributed revenue from that. I ranked number one for every magic quadrant we cared about, turning research into compelling content. Then recruited to Bay Area, built techbeacon.com for HP Software around data and DevOps. Built a thousand-person contributor network, hired editors from Wired and Computer World, and created a publishing engine producing 20 highly editorialized resources weekly. That's how we grew 100% organic.
 
-**Fred Studer:** So we, I'll try to be brief because it's like an archaeological dig even in just my last like, you know, 10, 11 months. But we pivoted pretty hard with our product and with our positioning from a BI company to really an AI company. And you'll see like our, our new website really is brand new. It just launched. It used to say AI data apps and analytics and now we're just like AI apps for the enterprise on an analytics platform. So that shift was pretty big. The other big shift that we made, our demand gen team was all in New York and they came from the classic marketing program. It's like Google Ads, right. They were all very paid focused. So it's like let's just buy search terms. We're going to do these big deals with, you know, Google and we're going to just throw, throw it out there and see what works. And we were getting, you know, Alex and I joked about it like our metrics for, let's say we were measuring SQL. So for that for us that's a stage two, which means the sellers have qualified, there is an opportunity, there is a buyer, there's a budget, they've set up a meeting and that's where we get credit for bringing that.
+**Fred Studer:** We pivoted hard from a BI company to an AI company. Our new website just launched — we shifted from "AI data apps and analytics" to "AI apps for the enterprise on an analytics platform." That was a big shift. Our demand gen team was based in New York, very paid-focused: Google Ads, buying search terms, big deals with Google. We measured success by SQL volume — stage two means sellers qualified with opportunity, buyer, budget, and meeting scheduled. When we paused paid spend in August to test, we were surprised: conversion actually went up despite a small drop in SQLs. The SQLs were healthier because we had better intent data. We pivoted to content strategy — Gartner Magic Quadrant, customer stories, case studies, third-party validation, G2, peer insights, and tested both internal and external influencers. That's our new strategy. We realized paid and SEO only work aligned to strategy, AEO isn't completely there yet, but the same efforts apply. We know it's a content game — really a third-party content game.
 
-**Marcel Santilli:** Yeah, that's amazing. Alex, doesn't sound like you're busy at all.
+**Marcel Santilli:** What's interesting is we've done work with Arabine and others — this is our AEO platform. You're seeing organic growth, but also high-intent queries. I took research we already had on you and pulled in 31,000 AI responses within your category. From organic growth, you're doing tremendous. From AI visibility, there are things we can do to get you cited and mentioned more in evaluation queries.
 
-**Alexandra Jovicic:** Not at all. Like that's where you can see our website. It's all adding product pictures everywhere. We're talking about what we do and showing what we do and same for all of our events as well.
+**Fred Studer:** I like those too. For next week, I'm thinking me, Alex, Luke, Mallory, and Mark for the deep dive. We have a workflow event Thursday, so Monday or Tuesday works. I have a board meeting Friday where I'd love to tell them: we met with this group, this is what we're leaning into. I can get buy-in on expectations. Everyone cares about ROI. This is strategic content richness — thinking about what will perform, what's already working, what you could improve. Where would you start?
 
-**Marcel Santilli:** Yeah, that's, that's amazing. Alex, doesn't sound like you're busy at all. Last year, last year, conference. I know how much work it is. I did one and when I was at scale, that was a virtual.
+**Marcel Santilli:** From organic growth, you're doing tremendous. From AI visibility, there are things we can do to ensure you're cited and mentioned more in evaluation queries. This is looking at the AI category, but there might be other categories you want us to examine. Focusing on where you could improve.
 
-**Alexandra Jovicic:** I'm so proud of the team. We run it in like three months. We, we put it together. It's crazy.
+**Fred Studer:** Thank you all so much. Really lovely conversation. Love to have coffee in person very soon.
 
-**Marcel Santilli:** Yeah, that's, that's, that's awesome. Yeah, like, maybe I can show you a little bit of like kind of how we do things. Kind of under, under the hood a little bit. And so like one of the first things I kind of like we think about, I can use Redis, but also Hex is a, another somewhat adjacent example. But, but like a lot of what we do is like the first eight weeks we are sprinting towards understanding your context, your company. And as well as the opportunities of what topics to go cover and then calibrate what quality looks like so we can get to publishing, so we can accelerate signals. Right?
-
-**Fred Studer:** Yeah, it's just cascading. Yeah, we get it. I should have mentioned this, Marcel. Alex runs all of our field, marketing, and she's also very familiar with, you know, digital marketing and the things that we're trying to do here. So I invited her to join the call with us.
-
-**Marcel Santilli:** Perfect. Where. Where are both of you based right now?
-
-**Fred Studer:** San Francisco.
-
-**Marcel Santilli:** Yeah. Oh, perfect. I'm in. I'm in Oakland, but we have an office in San Francisco, so I'm just in Oakland Hills. Yeah.
-
-**Fred Studer:** Yeah, that's great.
-
-**Marcel Santilli:** So good to know you guys are local because we are constantly hosting, like, dinners, breakfast workshops. Our office is in south park there, so we're just above Toyota Venture, so, like, we're like the whole second floor. So I always like meeting in person at some point if it makes sense, you know.
-
-**Fred Studer:** Yeah, for sure. And, you know, you came highly recommended from two of my dear friends and marketers. Fred Studer: So Courtney Ogawa is a huge fan. And Morgan Norman, he and I have worked together for many times. I know he just signed up with you guys, so I was like, okay, I can't be the last guy to jump in here.
-
-**Marcel Santilli:** Thank you. That's super flattering. And also I'm super excited to kick off with Morgan as well. I think we're kicking off. We either just kicked off or about to kick off next week. So anyway, super excited. Should we do just a quick intro on your end and then I'm happy to do the same, if that makes sense.
-
-**Fred Studer:** Yeah, when I decided in August to just pause all of our paid spend to see if it was really working or not, to our surprise it did not drop that much. And in fact the conversion went up. We had a small drop in SQLs, but they were healthier because we had better intent data. We had pivoted to more of a content strategy, which you know how important it was. We had a Gartner Magic Quadrant which we used. We saw that customer stories, case studies, third parties, G2 crowd, peer insights. We started leveraging and doing some testing on some influencers that were outside and inside the company. And that's kind of the new strategy that we're leaning into. And that's where we kind of came to you because we, we decided to shift from a classic demand gen because, you know, paid, paid SEO works only if it's aligned to your strategy. And AEO is not completely there yet. We see that it's starting to come, but the same efforts can be used there. And so we know it's a content game. It's really more of a third party content game.
-
-**Marcel Santilli:** And I think, like, what's really interesting, like, we've done a lot of work with Arabine and a few others. It's like, this is our AEO platform. So there's like, you're seeing a lot of like organic growth, but, but then there's I think a lot of like, high intent, like queries, if you will. That. Yeah. And again, like, we need to spend more time going through. But what I did is like, I just took our like, research we already had on you and I pulled in 31,000 AI responses within your category.
-
-**Fred Studer:** And I think even early next week, Alex, I'm thinking maybe me, you, Luke, Mallory and Mark, I'll have these guys kind of give us that deep dive, maybe view, because we have our workflow event on Thursday of next week. So if we can do this Monday or Tuesday of next week, and then I have a board meeting on Friday, and I'd love to be able to go in on Friday and say, hey, we met with this group. You know, whether we've locked it yet or not, this is what we're leaning into. And I can get their buy in around what we can expect. So they're all about, you know, everybody, it's roi, but, you know, it's like, what, what, you know, what, what works? Like, this is a strategic thing that not a lot of companies know. And so like that talent, richness of content and you thinking about what will perform, what's already doing well, but what you could make better, you know, like, where would you start?
-
-**Marcel Santilli:** Yeah, yeah. And I think, like, what's really interesting, like, we've done a lot of work with Arabine and a few others. It's like, this is our AEO platform. So there's like, you're seeing a lot of like organic growth, but, but then there's I think a lot of like, high intent, like queries, if you will. That. Yeah. And again, like, we need to spend more time going through. But what I did is like, I just took our like, research we already had on you and I pulled in 31,000 AI responses within your category. This is looking at the AI category. So like, you know, there might be other categories you want us to look at. And so I think like from an organic growth, you're doing tremendous. I think from an AI visibility, I think there's things we can do to make sure you're actually like being cited and actually mentioned a little bit more often on like evaluation types of queries, you know.
-
-**Fred Studer:** I love those too. So it's like. But thank you all so much. So lovely. Love to have coffee in person very, very soon.
-
-**Fred Studer:** Yeah, we will definitely do that. Thank you very much. Guys, it's incredible.
+**Fred Studer:** Definitely. Thank you. Incredible call.

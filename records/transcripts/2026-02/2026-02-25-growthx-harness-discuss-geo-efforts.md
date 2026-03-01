@@ -5,87 +5,152 @@ date: 2026-02-25
 time: 18:00 UTC
 duration: 39 minutes
 organizer: marcel@growthxlabs.com
-participants: Alex Peterson, Marcel Santilli, Gleb Brichko, Tyler Pavlas
+participants:
+  - name: Marcel Santilli
+    role: Founder & CEO, GrowthX
+    company: GrowthX
+  - name: Tyler Pavlas
+    role: Account Executive
+    company: GrowthX
+  - name: Gleb Brichko
+    role: Head of Marketing
+    company: Harness
+  - name: Alex Peterson
+    role: Head of Digital & Growth, GEO Lead
+    company: Harness
+source: fireflies
 fireflies_id: 01KHSD73MK96ZVEKM4CK9HV2GK
 transcript_url: https://app.fireflies.ai/view/01KHSD73MK96ZVEKM4CK9HV2GK
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Harness, a developer-focused CD/CI platform with 14 products, faces a critical bottleneck in producing high-quality technical content at scale for a skeptical developer audience. The team currently publishes 50-75 new articles monthly from 2,800 existing pages, but struggles to balance volume with quality. GrowthX presented its AI-assisted workflow combining human editors (32 active editors), with comprehensive SEO and technical site health fixes included. An initial eight-week strategy sprint costs $40,000, with ongoing work streams at $18,000 each, supporting approximately 5-7 articles weekly per stream.
+Harness needs help scaling technical content production across 14 products while maintaining quality for a skeptical, anti-marketing developer audience. Currently publishing 50-75 articles/month from 2,800 pages but struggling to balance volume with depth. GrowthX proposed an eight-week strategy sprint ($40k) to audit competitive positioning and SEO strategy, followed by ongoing work streams ($18k each) to produce 5-7 articles weekly per stream. Tyler to send detailed proposal with work stream definitions, cost structure, and SEO/AEO competitive analysis tailored to Harness's product lines.
+
+---
+
+## Context
+
+Harness is a developer-first CI/CD platform with 14 products covering the full software delivery pipeline (build, compile, deploy, test, security). The company operates in a highly competitive, technically sophisticated market where open-source, commercial, and build-in-house alternatives exist for each product. The target audience is skeptical, detail-oriented engineers who reject marketing speak and can identify AI-generated or low-quality content immediately. Gleb Brichko (Head of Marketing) and Alex Peterson (Head of Digital & Growth, recently took over GEO initiative) are actively investing in organic growth but face a classic scaling challenge: 2,800 existing pages plus 50-75 new articles monthly, managed by 11-18 PMMs, with unclear quality standards and content distribution strategy. This represents an early-stage engagement with Marcel and GrowthX—first substantive conversation exploring fit and pricing model.
+
+---
+
+## Relevance
+
+**GrowthX Services (B2B Content & SEO)**
+- Core fit: Harness needs help producing high-volume, high-quality technical content at scale
+- Challenge: Balancing 50-75 articles/month with quality standards and developer skepticism toward marketing
+- Opportunity: 2,800 existing pages ripe for audit, rewrite, and SEO optimization
+- Risk: Developers can smell low-quality or AI-assisted content; requires human-first approach with rigorous technical review
+
+**Content Production & Quality Control**
+- Harness has 11-18 PMMs creating content, but lacks clear editorial process
+- Current workflow: agency writes → PMM reviews → web team updates (slow, unclear quality gates)
+- GrowthX model: work streams with dedicated teams (18k/stream), produces 5-7 articles/week, includes SEO audit
+
+**AEO & Competitive Positioning**
+- 14 products = 14 unique competitive landscapes (open source, commercial, build-in-house)
+- Unclear current SEO strategy; need clarity on which products/topics should drive organic
+- Alex interested in competitor analysis and SEO/AEO guidance by product line
+
+---
+
+## Decisions & Commitments
+
+**GrowthX Commitments:**
+- Tyler to send detailed proposal with work stream definitions and cost structure
+- Include SEO/AEO analysis tailored to Harness's product lines
+- Include competitor analysis and link to schedule next call for deeper partnership Q&A
+
+**Harness Commitments:**
+- Alex to lead continued discussions with GrowthX on next steps
+- Review proposal and return to discuss work stream model and competitive positioning
+
+---
+
+## Open Questions
+
+- How would GrowthX handle Harness's multi-product structure (14 products = 14 competitive landscapes)?
+- What does SEO/AEO analysis look like by product line?
+- How are work streams allocated? Can they focus on 1-2 high-priority products first?
+- What's the typical success metric or KPI for GrowthX content engagements (traffic, leads, ranking improvements)?
+- How would GrowthX help Harness maintain developer credibility and avoid AI-content detection by their skeptical audience?
+
+---
+
+## Overview
+
+Exploratory call between GrowthX (Marcel Santilli, CEO; Tyler Pavlas, AE) and Harness (Gleb Brichko, VP Marketing; Alex Peterson, Head of Digital & Growth) to discuss content scaling and SEO strategy. Harness operates a 14-product CI/CD platform with high developer audience expectations; currently producing 50-75 articles/month but struggling to balance volume and quality. GrowthX presented work stream model (8-week $40k sprint + $18k/stream ongoing). Proposal and competitor analysis to follow.
+
+---
+
+## Key Topics
+
+- Harness business model: 14-product CI/CD platform, highly technical audience
+- Content volume & quality challenge: 50-75 articles/month from 2,800 pages, managed by 11-18 PMMs
+- GrowthX service model: 8-week strategy sprint ($40k) + ongoing work streams ($18k each, 5-7 articles/week)
+- SEO/AEO strategy gaps: need per-product competitive analysis and positioning clarity
+- Developer audience risk: skeptical of marketing, can detect low-quality or AI-generated content
+- Next steps: proposal, competitor analysis, deeper partnership discussion
 
 ---
 
 ## Action Items
 
-**Alex Peterson**
+**Alex Peterson (Harness)**
 - Lead continued discussions with GrowthX on next steps for content and SEO engagement
+- Review GrowthX proposal and return to discuss work stream model and per-product competitive positioning
 
-**Marcel Santilli**
-- Provide a detailed proposal including work stream definitions, cost structure, and SEO/AEO analysis tailored to Harness's multiple product lines
+**Marcel Santilli (GrowthX)**
+- Provide detailed proposal including work stream definitions, cost structure, and SEO/AEO analysis tailored to Harness's product lines
 
-**Tyler Pavlas**
-- Send proposal and accompanying SEO/AEO analysis to Harness
-- Act as ongoing AE contact for Harness and coordinate next steps
+**Tyler Pavlas (GrowthX)**
+- Send proposal with work stream definitions and cost structure to Alex Peterson
+- Include SEO/AEO competitive analysis tailored to Harness's 14-product portfolio
+- Include link to schedule next call for partnership Q&A and deeper dive into per-product strategy
+- Act as ongoing AE contact for Harness
 
 ---
 
 ## Transcript
 
-**Gleb Brichko:** This meeting is being recorded.
-
-**Alex Peterson:** What's up, Glenn?
-
-**Gleb Brichko:** How's it going? Not too bad. How are you? Good. I'll be on a video in just a couple of minutes here.
-
-**Gleb Brichko:** was supposed to have a doctor's appointment. Drove all the way there, waited for half an hour and they're like, okay. Got called into surgery, so I had to come back. Had to come back this morning for round two.
-
-**Alex Peterson:** Is that up in the city?
-
-**Gleb Brichko:** No, no, it's at Stanford. But just getting. There's a pain in the ass. It's like you have to take all these back roads. It's like 30 minutes to get there and back.
-
-**Alex Peterson:** Huh. Hey Marcel.
-
-**Marcel Santilli:** How's it going? Gleb Brichko: Hey Marcel, how's it going, man?
+**Gleb Brichko:** This meeting is being recorded. Hey Marcel, how's it going, man?
 
 **Marcel Santilli:** Really good. Good to get to connect again.
 
-**Gleb Brichko:** Yeah, likewise. I'll be on video in just a couple of minutes. Hey, so let me just do quick intro. So you and I know each other. I look after marketing at Harness. Alex is our head of digital and growth and recently a few months ago took on the whole SEO Geo initiative inside the company where we're leaning in quite a bit on the marketing side. So I know you and I connected briefly. I like told you just at a high level what the company does. So I'll just go through that again. So you have context. We are it's basically like as technical and sort of hairy as it gets. Like we make software for software developers to deliver their code to production. So it's everything from building, compiling code, deploying code, testing code, securing code, sort of like an end to end pipeline of getting code from a developer's laptop into the production state, applications in the cloud.
+**Gleb Brichko:** Yeah, likewise. Let me do a quick intro. You and I know each other—I look after marketing at Harness. Alex is our head of digital and growth; a few months ago he took on the whole GEO (SEO) initiative inside the company where we're leaning in quite a bit on the marketing side.
 
-**Gleb Brichko:** So the platform itself is comprised of like 14 unique products. Each one of the products has open source competitors, commercial competitors, build it at home, types of situations, has a lot of a great amount of technical depth. And the audience who evaluates these products, looks at these products, is also like very technical, very smart, very skeptical, very anti marketing and you know, without mincing words, essentially, you know, can smell and like AI generated content and you know, just nonsense from a mile away and gets very turned off by it.
+I told you at a high level what the company does, so I'll go through that again for context. We make software for software developers to deliver their code to production—everything from building and compiling code, deploying code, testing code, securing code. It's an end-to-end pipeline getting code from a developer's laptop into production applications in the cloud.
 
-**Marcel Santilli:** That makes sense. And today, like, like, I'm curious Alex, for, from your perspective too, there's like 200, 2,800 pages on your site. So clearly there's quite a, quite a bit of content already. Like yeah, like any sense from, from either of you and like what's, what's working right now?
+The platform itself is comprised of 14 unique products. Each one has open source competitors, commercial competitors, build-it-at-home situations—lots of technical depth. The audience evaluating these products is very technical, very smart, very skeptical, very anti-marketing. Without mincing words, they can smell AI-generated content and nonsense from a mile away and get very turned off by it.
 
-**Alex Peterson:** There are. And it's, it's typically like higher level blogs that are bringing in the volume of traffic. And I think that's also something we're looking for direction on is like if we have, you know, we have 11PMMs, like Gleb mentioned, we have 14, 18 modules. If we are continuously creating new content, that's like, you know, we have 50 plus 75 plus new articles a month. And we need I think guidance on how to balance that volume as opposed to the quality of the articles.
+**Marcel Santilli:** That makes sense. I'm curious from your perspective, Alex—you have 2,800 pages on your site. Clearly there's quite a bit of content already. Any sense from either of you what's working right now?
 
-**Marcel Santilli:** That makes, that makes sense. And, and like today, like if I look at like some of these, right, like let's say like it looks like it's like, you know, it is like Semrush and others. Like the data could be really off by magnitudes, but I'm assuming directionally these are your top performing, you know, tends to be directionally correct, right?
+**Alex Peterson:** Higher-level blogs typically bring in the volume of traffic. But that's something we're looking for direction on. We have 11-18 PMMs and 14-18 product modules. We're continuously creating new content—50 to 75 new articles a month. We need guidance on how to balance that volume with quality.
 
-**Alex Peterson:** Yep, for sure.
-
-**Marcel Santilli:** And, and then like something like this, right? Doesn't look like you have a date stamp on it. That's hard to tell. Oh, okay. Sorry.
-
-**Alex Peterson:** It's August 8th, 2024 on that one.
-
-**Marcel Santilli:** Oh, okay. Gosh, yeah, you do. Sorry, I need more coffee. It's been one of those days. But okay, so um, so this one hasn't been updated in, in, in a minute. But like something like this. Can you give me like just a sense of what would it take today to do something like this or produce something like this?
-
-**Alex Peterson:** So this one is already like queued up with our existing agency. What they've been doing is rewriting the content. We pass that over to our PMM to review and then assuming, you know, we get a thumbs up from the pmm, we open a ticket with our web team to update the content.
-
-**Marcel Santilli:** Got it. Okay, cool. That's, that's helpful. Yeah. Like so, so I'm happy to. How happy to do like the full like overview of kind of how we approach things if, if that's helpful, you know, but we also just want to be mindful of not wasting time. We can kind of jump in. But Happy to kind of do the, the, the full like super fast high level.
-
-**Alex Peterson:** Yeah, I'd love to get like, kind of like the elevator pitch right on what it is that you guys do. Like the types of companies you help and how. And based on like the preamble that I did earlier, like is this, do you feel like it's a good fit for you guys or not? And how would you be able to help? I think that that would be like a good use of the rest of the time.
-
-**Marcel Santilli:** All right, perfect. So tldr, I might have mentioned that, but for you as well, Alex. Like, so I started my career early on at pretty much like worked mostly technical companies. And so I was at IBM. I was actually part of a group called IBM Rational. I don't know if you all remember back in the day, Rational was this tiny startup that got acquired. Not Tiny was like got acquired by IBM. And so I like essentially like served the dev space pretty much most of my career.
+**Marcel Santilli:** That makes sense. Looking at some of these, like Semrush and others, the data could be off by magnitudes, but I'm assuming directionally these are your top performers. That's typically directionally correct, right?
 
 **Alex Peterson:** Yep, for sure.
 
-**Marcel Santilli:** So we work in work streams and we recommend starting with only one work stream. Work stream is 18,000 and the work stream is end to end the first eight weeks there's a strategy sprint fee if you will, that's 40,000 for those eight weeks. And then from there you convert into a ongoing phase and have a dedicated team.
+**Marcel Santilli:** Some of these don't have date stamps, so it's hard to tell. Can you give me a sense of what it would take today to produce something like this?
 
-**Alex Peterson:** Yeah, Proposal would be very helpful in understanding kind of like the work streams and costs associated. Competitor analysis would certainly be interesting. It is difficult for us. Like we mentioned already, you know, 12, realistically, 18 products, each with their own kind of unique set of competitors.
+**Alex Peterson:** This one is queued up with our existing agency. They've been rewriting the content. We pass it to our PMM to review, and if we get a thumbs up from the PMM, we open a ticket with our web team to update the content.
 
-**Tyler Pavlas:** I can proactively send that just so that you can have all the information. And I'll also just include like a link to schedule the next one so that we can like, dive deeper into partnership Q and A and I can go over some of the SEO and AEO analysis.
+**Marcel Santilli:** Got it. That's helpful. I'm happy to do a full overview of how we approach things, but I want to be mindful of not wasting time. What would be most useful?
 
-**Alex Peterson:** That sounds good. Yeah. Thank you, Tyler.
+**Alex Peterson:** I'd love the elevator pitch on what you guys do, the types of companies you help, and whether this feels like a good fit for us. How would you be able to help? That would be a good use of our time.
+
+**Marcel Santilli:** Perfect. So to be clear, I started my career working mostly at technical companies. I was at IBM, part of a group called IBM Rational. Rational was a startup that got acquired by IBM. I've essentially served the dev space most of my career.
+
+We work in work streams and recommend starting with only one. A work stream is $18,000 and end-to-end. The first eight weeks includes a strategy sprint fee—$40,000 for those eight weeks. From there you convert into an ongoing phase with a dedicated team.
+
+**Alex Peterson:** A proposal would be very helpful in understanding the work streams and costs. Competitor analysis would certainly be interesting. It's difficult for us because we have 14 to 18 products, each with their own unique set of competitors.
+
+**Tyler Pavlas:** I can proactively send that so you have all the information. I'll include a link to schedule the next call so we can dive deeper into partnership Q&A and I can go over the SEO and AEO analysis.
+
+**Alex Peterson:** That sounds good. Yeah, thank you, Tyler.
 
 **Tyler Pavlas:** All right, talk soon.

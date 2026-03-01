@@ -5,9 +5,21 @@ date: 2026-02-09
 time: 19:30 UTC
 duration: 36 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Tyler Pavlas, Felicia Curcuru (Binti), Rima San Pietro (Binti)
+participants:
+  - name: Marcel Santilli
+    company: GrowthX
+  - name: Tyler Pavlas
+    company: GrowthX
+  - name: Felicia Curcuru
+    company: Binti
+    role: CEO, co-founder
+  - name: Rima San Pietro
+    company: Binti
+    role: Chief of Staff, Marketing Lead
 fireflies_id: 01KGMQDN3TMGM4KMGR2GDTDV0H
 transcript_url: https://app.fireflies.ai/view/01KGMQDN3TMGM4KMGR2GDTDV0H
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
@@ -81,14 +93,38 @@ Binti builds SaaS for child welfare agencies (foster care licensing, family matc
 
 ---
 
+## Decisions & Commitments
+
+**Committed to moving forward:**
+- Felicia and Rima agreed to review GrowthX proposal and set follow-up meeting for Thursday 1pm Pacific.
+- Binti to share competitive landscape details and keyword opportunities.
+- GrowthX to send written proposal same day with SEO analysis and competitor pricing breakdown.
+
+**Two-phase approach accepted:**
+- Phase 1: Strategy sprint (audience mapping, competitive context, content architecture) — week one deliverables.
+- Phase 2: Ongoing content execution — ~20 articles in 8 weeks with daily publishing during seeding phase.
+
+---
+
+## Open Questions
+
+- What is Binti's exact budget range for content marketing engagement?
+- Which government jurisdictions (state vs. county level) should be the primary SEO focus in year one?
+- Does Binti have existing customer interview data that could seed content topics, or will GrowthX need to conduct interviews?
+- What is the preferred timeline for seeing first SEO signals? (Binti mentioned monthly publishing; confirm if aggressive 8-week sprint is realistic given team capacity.)
+- Are there adjacent verticals (juvenile justice, foster care recruitment) that Binti might expand into, affecting content scope?
+
+---
+
 ## Action Items
 
-**Tyler Pavlas**
-- Prepare and send proposal with cost details, SEO opportunity analysis, and competitor overview to Felicia and Rima (26:29)
-- Conduct competitive/SEO keyword analysis focusing on Binti's named competitors and traffic opportunities (33:00)
+**Tyler Pavlas (GrowthX)**
+- Prepare and send proposal with cost details, SEO opportunity analysis, and competitor overview to Binti.
+- Conduct competitive and SEO keyword analysis focusing on Binti's named competitors (Accenture, Deloitte, Cardinality, Redmayne) and traffic opportunities.
 
-**Unassigned**
-- Schedule follow-up meeting for Thursday 1pm Pacific (34:59)
+**Rima San Pietro (Binti)**
+- Confirm Thursday 1pm Pacific follow-up meeting time with Felicia's calendar.
+- Gather additional competitive intelligence or customer interview data if needed for proposal review.
 
 ---
 

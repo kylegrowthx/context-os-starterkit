@@ -5,9 +5,17 @@ date: 2026-02-09
 time: 18:00 UTC
 duration: 76 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Daniel Lopes, Jose Farias, Stevie Kim, Pedro, Steven
+participants:
+  - Marcel Santilli
+  - Daniel Lopes
+  - Jose Farias
+  - Stevie Kim
+  - Pedro
+  - Steven
 fireflies_id: 01KGFT0XKAY8WWQT39V9SB4RYV
 transcript_url: https://app.fireflies.ai/view/01KGFT0XKAY8WWQT39V9SB4RYV
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
@@ -90,6 +98,19 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 ---
 
+## Decisions & Commitments
+
+- Onboarding redesign to support multiple category selection (Spotify-style) approved; will reduce friction and personalize workspaces faster.
+- Overview page: remove category tab, replace with brand/non-brand filters, funnel stage filters, and category grouping—matching prompts page interaction model.
+- Taxonomy auto-tagger deploying immediately; enables categorization, grouping, and filtering across all imported prompts.
+- Brand auto-approval by mention threshold approved; category auto-creation rejected (too costly and complex).
+- Five near-term priorities locked: (1) overview filters, (2) onboarding redesign, (3) taxonomy auto-tagging, (4) brand auto-approval, (5) category management.
+- Learn area (blog) deprioritized to minimal MVP; full article/pillar CMS integration deferred.
+- Meeting cadence restructured: strategic discussions moved to Fridays with core leadership; tactical meetings optional.
+- Marcel designated DRI for workspace setup/demo calibration until better admin tooling available.
+
+---
+
 ## Action Items
 
 **Daniel Lopes**
@@ -113,9 +134,20 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 ---
 
+## Open Questions
+
+- How quickly will taxonomy auto-tagger improve onboarding experience once deployed? (Metric: % users who complete onboarding post-taxonomy.)
+- Will mention threshold-based brand auto-approval reduce support burden significantly, or are more sophisticated vetting rules needed?
+- Should "potential approvals" tab be public or admin-only? (UX/workflow impact on brand discovery.)
+- What's the long-tail distribution of new categories requested? Should dynamic brand scraping prioritize top-requested or most-valuable brands?
+- Will filter parity (overview vs. prompts) address user confusion, or does the underlying mental model need deeper rethinking?
+- How should prompt recommendations prioritize categories/personas once taxonomy is live? (Ranking and cold-start problem.)
+
+---
+
 ## Transcript
 
-**Leonardo Carpenedo Steffen:** Sam.
+**Jose Farias:** Sam.
 
 **Daniel Lopes:** There.
 
@@ -125,35 +157,35 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 **Marcel Santilli:** Hey, good morning.
 
-**Leonardo Carpenedo Steffen:** How doing today?
+**Jose Farias:** How doing today?
 
 **Daniel Lopes:** Pretty good, thanks.
 
-**Leonardo Carpenedo Steffen:** Who's hosting the recording here?
+**Jose Farias:** Who's hosting the recording here?
 
-**Leonardo Carpenedo Steffen:** Fathom says it's initializing.
+**Jose Farias:** Fathom says it's initializing.
 
 **Daniel Lopes:** Hey.
 
 **Marcel Santilli:** I'm not the host so I can't kick that kick out anything.
 
-**Leonardo Carpenedo Steffen:** Thanks.
+**Jose Farias:** Thanks.
 
-**Leonardo Carpenedo Steffen:** Davy.
+**Jose Farias:** Davy.
 
-**Leonardo Carpenedo Steffen:** Yes.
+**Jose Farias:** Yes.
 
 **Stevie Kim:** Sorry, I was on mute.
 
 **Stevie Kim:** What are you trying to do now?
 
-**Leonardo Carpenedo Steffen:** I was just trying to look at Fathom keep saying it's try.
+**Jose Farias:** I was just trying to look at Fathom keep saying it's try.
 
-**Leonardo Carpenedo Steffen:** Try to start recording for me but I'm not the host.
+**Jose Farias:** Try to start recording for me but I'm not the host.
 
-**Leonardo Carpenedo Steffen:** And it says it can find the host.
+**Jose Farias:** And it says it can find the host.
 
-**Leonardo Carpenedo Steffen:** Just try to now it went away now.
+**Jose Farias:** Just try to now it went away now.
 
 **Marcel Santilli:** We are way overdue to the le Fathom.
 
@@ -171,9 +203,9 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 **Stevie Kim:** Congratulations everybody.
 
-**Leonardo Carpenedo Steffen:** That's you all.
+**Jose Farias:** That's you all.
 
-**Leonardo Carpenedo Steffen:** I joined kind of late for the game, late to the party but.
+**Jose Farias:** I joined kind of late for the game, late to the party but.
 
 **Marcel Santilli:** Well I, I think the maybe before jumping in.
 
@@ -635,7 +667,7 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 **Marcel Santilli:** Like, you know, like, there's a lot going on and, and I, I, I can go take the time to just like, try to.
 
-**Leonardo Carpenedo Steffen:** Yeah.
+**Jose Farias:** Yeah.
 
 **Marcel Santilli:** A bit more.
 
@@ -889,7 +921,7 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 **Daniel Lopes:** And a boot camp there and we improved.
 
-**Leonardo Carpenedo Steffen:** Improved.
+**Jose Farias:** Improved.
 
 **Daniel Lopes:** My shitty idea.
 
@@ -1419,7 +1451,7 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 **Marcel Santilli:** Got a Call.
 
-**Leonardo Carpenedo Steffen:** Talk to you guys later.
+**Jose Farias:** Talk to you guys later.
 
 **Daniel Lopes:** Okay, I'll.
 
@@ -1433,7 +1465,7 @@ This is the weekly Check That product/engineering check-in, happening days after
 
 **Daniel Lopes:** I'll share more today.
 
-**Leonardo Carpenedo Steffen:** And.
+**Jose Farias:** And.
 
 **Daniel Lopes:** The creation of recommended prompts is kind of related to this because once.
 

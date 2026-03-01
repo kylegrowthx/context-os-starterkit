@@ -6,24 +6,68 @@ date: 2026-01-16
 meeting_id: 01KEJBPTAZAXHJ058FMAEN3EHR
 duration: 68 minutes
 participants:
-  - Marcel Santilli
-  - Bridget McGillivray
-  - Ella
+  - name: Marcel Santilli
+    role: CEO
+    company: GrowthX
+  - name: Bridget McGillivray
+    role: COO
+    company: GrowthX
+  - name: Ella
+    role: VP of Delivery
+    company: GrowthX
 organizer: bridget@growthxlabs.com
 transcript_url: https://app.fireflies.ai/view/01KEJBPTAZAXHJ058FMAEN3EHR
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 ---
 
 ## Summary
 
-The team aligned on hiring strategy and headcount planning to hit revenue growth targets. Key decisions: hire engagement managers and forward deployed engineers aggressively through Q1, avoid adding more editors, and performance manage underperformers out while building a quality bench.
+Marcel, Bridget, and Ella aligned on aggressive Q1 hiring to close critical capacity gaps in the sprint and pod teams. Decisions: immediately hire engagement managers and forward deployed engineers (Kirkland-type roles) to hit 3-4 kickoffs per month, avoid editor hiring due to diminishing returns, and establish clear performance management with accountability for hiring and firing. This directly supports the $4-5M ARR target and requires reframing headcount planning against validated operational assumptions rather than current inefficient deployment.
 
 ## Context
 
-Weekly readout with Marcel (CEO), Bridget (COO), and Ella (VP of Delivery). The conversation focused on fiscal planning, the people model, and operational gaps in the sprint and pod teams. Bridget had been working with a fractional finance person on the fiscal model and surfaced critical gaps in staffing assumptions.
+This is a leadership weekly with the CEO, COO, and VP of Delivery to align on headcount planning and operational priorities. Bridget recently completed work with a fractional finance person on the fiscal model and identified major misalignment: current team deployment (e.g., sprint EMs managing 1-2 accounts each, 33 pod EMs serving only 1.6 accounts each) versus validated assumptions (3-4 accounts per EM in sprints, 2+ per EM in pods). Marcel introduced an integrated mental model linking financial, people, product, delivery, and go-to-market strategy as the framework for decision-making. The team is 8-9 people strong in sprint operations today but operating below capacity.
 
 ## Relevance to GrowthX
 
-This meeting directly addresses GrowthX's core operational challenge: scaling the services business while maintaining quality. The decisions made here impact revenue growth, client retention, and the company's ability to convert sprint clients to steady-state accounts. The hiring plan ties directly to the $4-5M ARR target for year-end.
+**Services Revenue:** GrowthX services represent roughly 30% of revenue today (~$1.2-1.5M of the $4-5M ARR target). The hiring decisions here directly enable hitting that target by removing sprint and pod capacity constraints.
+
+**Client Conversion & Retention:** Faster sprint execution (3-4 kickoffs/month) and stronger pod management (correctly deployed EMs) drive higher conversion from sprint to steady-state and better renewal rates (target: 80% retention). Without these hires, current team struggles to serve existing clients at quality.
+
+**Operational Efficiency:** Bridget's fiscal model revealed that current deployment is nearly 2x inefficient compared to validated assumptions. The gap between assumed and actual accounts per manager is the primary lever Marcel can pull to make financial projections realistic and achievable.
+
+## Decisions & Commitments
+
+**Hiring Plan (Approved):**
+- Hire engagement managers aggressively between now and May to de-risk sprint/pod operations
+- Hire forward deployed engineers (Kirkland-type roles) immediately — reopen job posting that closed in December
+- DO NOT hire additional editors; current editorial staffing is diminishing returns
+- Assume all new hires need 2-3 months to ramp; adjust financial and delivery timelines accordingly
+
+**Staffing Ratios & Assumptions:**
+- Engagement managers: 1 EM per 3-4 concurrent accounts (conservative estimate)
+- Forward deployed engineers: 1 engineer per ~8 concurrent accounts
+- Leads: 1:15 management ratio; Directors: 1:30 ratio
+- Current reality: sprint EMs at 1-2 accounts each; pod EMs at 1.6 accounts each — both well below capacity
+
+**Performance Management:**
+- Managers must have hiring and firing authority and responsibility
+- Emphasis on internal promotion for enablement roles before external hiring
+- Transparency required: performance tracking, headcount coordination, capacity monitoring
+
+**Training & Operationalization:**
+- Ella to design and operationalize customer experience training (demos, working sessions, homework)
+- Kyle to lead office hours where team brings completed work for review and feedback
+- Build confidence in execution methodology before scaling
+
+## Open Questions
+
+- **Efficiency Gains Timeline:** When and how much will operational improvements in sprint/pod delivery reduce headcount needs? This affects redeployment strategy.
+- **Panzer's Accountability:** How will Panzer get sprint/pod EM deployment from 1-2 accounts per person to 3-4 accounts per person? What support or changes does he need?
+- **Kyle's Role Bottleneck:** Kyle is stretched thin providing operational support across multiple teams. How should his workload shift to allow more director hires?
+- **Kirkland's Status:** Is Kirkland fully deployed to sprints or partially? If partial, what's preventing full allocation, and how does this affect forward deployed engineer hiring needs?
+- **Editorial Problem Root Cause:** Current editorial staffing approach isn't solving quality issues. What's the root cause? Is it hiring the wrong people, unclear role definition, or lack of training?
 
 ## Overview
 
@@ -59,29 +103,31 @@ Noted Kyle's unique role in providing operational support and correlation insigh
 
 ## Action Items
 
-### Bridget McGillivray
+### Bridget McGillivray (COO, GrowthX)
 - Send updated headcount plans reflecting engagement manager hiring and other roles
 - Integrate headcount and people model assumptions into fiscal plan to assess financial viability
 - Finalize and post engagement manager job description based on input from William and Ella
-- Collaborate with Tucker and Maria to accelerate sourcing for critical roles
+- Collaborate with Tucker and Maria to accelerate sourcing for critical roles (engagement managers, forward deployed engineers)
 
-### Ella
+### Ella (VP of Delivery, GrowthX)
 - Operationalize customer experience training by designing demos, working sessions, and homework for the team to ensure confidence in new processes
 - Investigate and clarify sprint team deployment and operations, including Kirkland's responsibilities and forward deployed engineers' alignment
-- Collaborate with William on engagement manager role description and hiring plan, oversee backfill process for Kathy, William, and George
+- Collaborate with William on engagement manager role description and hiring plan, oversee backfill process
 - Support push to restart and enhance sourcing for engagement manager positions, working with recruiting team
 - Examine Kyle's workload and effectiveness to determine future director staffing needs
 
-### Marcel Santilli
+### Marcel Santilli (CEO, GrowthX)
 - Develop and communicate integrated models linking financial, people, product, and delivery objectives
 - Drive alignment on assumptions for sprint capacity, hiring needs, and financial consequences including cost-to-serve calculations
 - Lead conversation with Panzer regarding efficiencies and performance issues in sprint teams
 - Coach leadership on hiring performance management, including the need for higher standards and proactive firing
 
-### Panzer
-- Define clear operational lines between forward deployed engineers and engagement managers, and clarify hiring and firing responsibilities for editorial staff with input from leadership
+### Panzer (GrowthX)
+- Define clear operational lines between forward deployed engineers and engagement managers
+- Clarify hiring and firing responsibilities for editorial/production staff with input from leadership
+- Get sprint/pod EM deployment from current state (1-2 accounts per person) to validated model (3-4 accounts per person)
 
-### Tucker
+### Tucker (GrowthX)
 - Coach and manage Maria to improve recruiting effectiveness and source quality candidates efficiently
 
 ---

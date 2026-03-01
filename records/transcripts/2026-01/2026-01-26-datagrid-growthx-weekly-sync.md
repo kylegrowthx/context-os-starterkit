@@ -5,34 +5,68 @@ meeting_id: 01KFKHA4R9T07ZDTP67VW5J8RK
 date: 2026-01-26
 duration: 37 minutes
 organizer: team@growthxlabs.com
-participants:
-  - Marcel Santilli (GrowthX)
-  - Vivek Shankar (GrowthX)
-  - Liz Kushnereit (GrowthX)
-  - Kaitlin Quimby (Datagrid)
-  - Thiago da Costa (Datagrid)
+enriched_on: 2026-02-28 16:45 UTC
 transcript_url: https://app.fireflies.ai/view/01KFKHA4R9T07ZDTP67VW5J8RK
+participants:
+  - name: Marcel Santilli
+    company: GrowthX
+    email: marcel@growthx.ai
+    role: Founder/CEO
+  - name: Vivek Shankar
+    company: GrowthX
+    email: vivek@growthxlabs.com
+    role: Account Lead (leaving end of week)
+  - name: Liz Kushnereit
+    company: GrowthX
+    email: liz@growthx.ai
+    role: Account Lead (taking over from Vivek)
+  - name: Kaitlin Quimby
+    company: Datagrid (formerly Toric)
+    email: kaitlin@toric.com
+    role: Marketing/Product Marketing (post-acquisition)
+  - name: Thiago da Costa
+    company: Datagrid
+    email: thiago@datagrid.com
+    role: Technical Co-founder/Engineering Lead
 ---
 
 ## Summary
 
-Strategic planning session to align GrowthX's engagement with Datagrid's new priorities post-Procore acquisition. The team discussed evolving from blog-focused content to tighter product integration, specifically around Datagrid's agents marketplace and connectors pages. Key outcome: GrowthX will deliver a priority roadmap by end of week, followed by a one-hour strategic session.
+Strategic transition meeting where Liz Kushnereit takes over Datagrid account from departing Vivek Shankar. Teams aligned on shifting engagement from blog-only content to deeper product integration via agent and connector pages. Marcel committed to delivering a priorities roadmap by end of week and scheduling a one-hour technical strategy session with Thiago to define API-driven agent-forking workflows and cross-linking strategy.
 
 ## Context
 
-Datagrid (formerly Toric) was recently acquired by Procore. This creates new opportunities to cross-link content with Procore's high-ranking pages and capture overlapping customer segments. The team is in transition: Vivek is leaving GrowthX, Liz is taking over the account, and Datagrid is hiring marketing/product marketing roles.
+Datagrid, formerly Toric, was recently acquired by Procore, creating a critical window for cross-linking strategy and content consolidation with Procore's properties. Datagrid is still operationally independent (Kaitlin noted "day five") and actively hiring marketing and product marketing talent. Internally, GrowthX is experiencing transition: Vivek Shankar leaves at week-end and Liz Kushnereit assumes leadership. Datagrid's CEO Hugh has directed a shift toward product content and integration, signaling both resource investment and strategic clarity around the post-acquisition identity.
 
 ## Relevance to GrowthX
 
-This engagement represents an opportunity to expand beyond blog content into programmatic product page creation—similar to what we did for Lovable (templates) and Ramp (vendor hubs). The API infrastructure exists. The strategic bet: turn Datagrid's website into a "store of use cases" where visitors can fork pre-built AI agents directly into their accounts.
+**Expansion of Core Capability**
+This engagement validates the programmatic product integration playbook GrowthX has proven with Lovable (template libraries) and Ramp (vendor hubs). Datagrid's agent marketplace is a direct parallel to the "store of use cases" model.
+
+**Technical Advantage**
+Datagrid's APIs are fully public and support the required operations: agent listing, creation, knowledge base copying, and streaming responses for live demos. This eliminates custom integration work that slowed Lovable adoption.
+
+**Revenue Opportunity**
+A successful agents marketplace could unlock a new engagement tier: from blog-driven content ($15–20k/month) to product integration services ($30–50k+/month). This positions GrowthX to compete on outcome (revenue/traffic) rather than hours.
+
+**Market Timing**
+Procore-adjacent revenue (40% of Datagrid's base) is a defensible, lower-churn segment. Capturing this cohort in Q1–Q2 2026 before Autodesk competition intensifies is critical.
 
 ## Overview
 
-- **Product and Marketing Integration:** Connect blog content to product features (agents, connectors) to drive engagement and organic growth in the built world sector.
-- **Website Improvements:** Transform product pages into template-driven hubs with SEO optimization and clear conversion paths.
-- **Procore Strategy:** Focus on Procore-adjacent segments for the next two quarters to capture awareness and reduce churn risk.
-- **Team Expansion:** Datagrid is hiring marketing and product marketing roles to improve coordination.
-- **Leadership Transition:** Liz takes over from Vivek; fresh start with renewed focus on strategic priorities.
+**Primary Objective:** Transform Datagrid's website from isolated content silos (blogs, agents, connectors) into an integrated product-driven experience that converts search traffic into product signups and agent forks.
+
+**Three Content Surface Areas:**
+1. **Blog/Articles:** Strong traffic and momentum; lacks links back to product agents or connectors.
+2. **Agents Marketplace:** Launched ~8 days ago; 50+ agents with minimal content, no videos, poor SEO, no clear fork/signup path.
+3. **Connectors Pages:** Outdated (still reference "Toric" branding), missing documentation, poor user experience.
+
+**Strategic Constraints:**
+- Datagrid still independent from Procore on day 5 post-acquisition; messaging alignment TBD.
+- Marketing team understaffed; hiring underway but not yet in place.
+- Wonderup (external agency) handles some website work but context switching and bandwidth constraints slow progress.
+
+**GrowthX Scope:** Own end-to-end strategy and execution for agents and connectors, treating these as owned surfaces with SEO and conversion optimization built in (vs. product marketing support role).
 
 ## Key Topics
 
@@ -71,24 +105,24 @@ GrowthX can own end-to-end: strategy, execution, and integration—but needs cle
 
 ## Action Items
 
-### Kaitlin Quimby
-- Confirm with Thiago whether Smart Lead software is still in use or can be turned off
-- Coordinate with marketing and product marketing to clarify messaging and resource allocation
-- Work on product videos for agent cards to enhance website content
+### Kaitlin Quimby (Datagrid)
+- Confirm with Thiago whether Smartlead software is still in use or can be turned off
+- Coordinate with Datagrid marketing and product marketing teams to clarify messaging alignment post-acquisition
+- Deliver product videos for each agent card to improve agents marketplace presentation
 
-### Liz Kushnereit
-- Take over the Datagrid account from Vivek
-- Connect with Marcel to align on priorities
+### Liz Kushnereit (GrowthX)
+- Assume full account ownership from Vivek Shankar (departing end of week)
+- Connect with Marcel to align on account priorities and next steps
 
-### Marcel Santilli
-- Prepare and share a high-level priorities document with Thiago by end of week
-- Connect with Liz and a forward deploy engineer (Nico) to plan agent/connector integration
-- Organize a one-hour follow-up meeting next week for detailed strategic session
+### Marcel Santilli (GrowthX)
+- Deliver high-level priorities document to Thiago by end of this week
+- Coordinate with Liz and forward deploy engineer (Nico) to finalize site access and begin agents/connectors audit
+- Schedule and facilitate one-hour strategic session with Thiago next week to review roadmap and resource allocation
 
-### Thiago da Costa
-- Support GrowthX in enabling programmatic creation and "forking" of agents via APIs
-- Provide technical insights on API capabilities (streaming, knowledge base copying)
-- Collaborate on aligning content and product linkages for better UX and SEO
+### Thiago da Costa (Datagrid)
+- Support GrowthX with programmatic agent creation and "fork" workflows via API
+- Clarify API capabilities: agent listing, knowledge base copying, streaming chat responses
+- Collaborate on cross-linking strategy between blog content and agents/connectors marketplace
 
 ---
 
@@ -96,7 +130,7 @@ GrowthX can own end-to-end: strategy, execution, and integration—but needs cle
 
 **Kaitlin Quimby:** This meeting is being recorded.
 
-**Vivek Shankar:** Hey, Caitlin.
+**Vivek Shankar:** Hey, Kaitlin.
 
 **Kaitlin Quimby:** Hi.
 
@@ -108,170 +142,118 @@ GrowthX can own end-to-end: strategy, execution, and integration—but needs cle
 
 **Kaitlin Quimby:** Yeah, Sorry, there's someone. The maintenance guy was at my door. My dog was freaking out. No worries.
 
-**Vivek Shankar:** Wanted to ask you real quick. We noticed that there was a software called Smart Lead that is in Thiago's name that for some reason was being built to us. I think it's a remnant from back when you were doing Outbound. I just want to confirm with you, are you using that or can we turn that off?
+**Vivek Shankar:** We noticed a software called Smartlead in Thiago's name that's being billed to us. It's likely a remnant from the old Outbound days. Are you still using it, or can we turn it off?
 
-**Kaitlin Quimby:** I don't know if we use that anymore. Let me double check. One second. Yeah, let me see. I don't see anything about us using it. I can triple confirm with Tiago.
+**Kaitlin Quimby:** I don't think we're using it anymore. Let me confirm with Thiago to be sure.
 
-**Vivek Shankar:** Sure. That sounds good. Before. Sorry, go ahead.
+**Vivek Shankar:** Before Thiago and Marcel join, I want to quickly introduce Liz. As mentioned, I'm leaving GrowthX at the end of this week, and Liz will be taking over the Datagrid account.
 
-**Kaitlin Quimby:** No, go for it.
-
-**Vivek Shankar:** Before Thiago and Marcel jump on, just wanted to quickly introduce Liz. So I. As I mentioned, I will be leaving Growthx end of this week. Liz will be taking over Data grid. So. Yeah, I'll toss it over to Liz for a weekend trip.
-
-**Liz Kushnereit:** Hi, Caitlin. It's nice to meet you. Super excited to take over. Yeah, I've been doing a lot of research into the account background, and so I'm actually feeling kind of excited for today's conversation. So. Yeah, it's great to meet you and I'm excited to work together.
+**Liz Kushnereit:** Hi, Kaitlin. Nice to meet you. I'm excited to take over. I've been researching the account background and I'm genuinely excited for this conversation. Looking forward to working together.
 
 **Kaitlin Quimby:** Yeah. Nice meeting you as well.
 
-**Vivek Shankar:** We should have let off with this, but congratulations, by the way.
+**Kaitlin Quimby:** Thank you. It's been a busy few weeks.
 
-**Kaitlin Quimby:** Thank you. Yeah, it's been. Been a busy few weeks.
+**Liz Kushnereit:** I've been in the background, but I know one reason we moved this meeting was to talk about path forward. Are you taking the lead on that, or are we waiting for Thiago?
 
-**Vivek Shankar:** Sure.
+**Kaitlin Quimby:** Thiago wants to be part of this. He's on another call but should be here in a couple of minutes. Things have changed on our end too—with the transition from Vivek to Liz, it feels like a good time to reset. I don't think we've actually met before.
 
-**Vivek Shankar:** Hey, Marcel.
+**Marcel Santilli:** From my conversations with Thiago, the main thing is looking at work we've done for Lovable and others where we tightly integrate product with programmatic content creation. The goal is to evolve beyond just pumping blogs into a more integrated strategy. I want to understand your priorities better. I've heard there's more resources and aggressive targets for this year. I need to understand how the team is thinking about hitting those goals and what's already worked. Then we can rework the plan and move fast. A few questions: Is there any Procore integration strategy? Are there other considerations? Is it still okay to cover Autodesk topics?
 
-**Kaitlin Quimby:** Hey, Marcel.
+**Kaitlin Quimby:** That's not totally clear on our end either. I'm just starting to meet with marketing and product marketing leadership. We have more resources in the pipeline, but we don't have them yet. We're still operating independently from Procore—we're only five days in post-acquisition. We're still figuring out what we're allowed to say about Autodesk and to what extent. We're open to exploring other things, but alignment is still happening. We're hiring several marketing roles to fill gaps. Hugh wants to see more product on the website. Getting a dedicated product marketing person who can work with you instead of us having to ping Miles on product updates will help smooth things. But that team isn't in place yet.
 
-**Marcel Santilli:** Hey. I'm get a little bit more. More coffee.
+**Marcel Santilli:** As we wait for Thiago, a quick context question: If you had a magic wand for top-of-funnel and traffic growth, where do you want to focus? When we started, we did a lot of work beyond just construction. So is the goal now to narrow to construction specifically, or continue broader than what Procore serves?
 
-**Kaitlin Quimby:** Yeah.
+**Kaitlin Quimby:** We need to hit our numbers within the built world, but it's not just construction—manufacturing, insurance, and other sectors count too. We're focusing on the built world broadly. I just got off a call with Diana about phase two messaging for the site. It uses broad terms so it doesn't feel industry-specific, but the examples stay in the built world. We're avoiding language that makes people think "this doesn't apply to me." What we've found is that smaller GCs like that the tool works across the whole company, not just for on-site teams. Other team members can use it for different functions. That's our sweet spot.
 
-**Marcel Santilli:** Also, have you found an office yet?
+**Kaitlin Quimby:** Can you walk me through what you did for Lovable? I don't have that context.
 
-**Kaitlin Quimby:** We are working for one. Well, that's not. I'm not looking for it anymore.
+**Marcel Santilli:** For Lovable, we built their entire templates library programmatically using their API. We created template pages with the design team in the loop, plus guides similar to your article approach. The results are strong—we're averaging 400–500 clicks a day. We also did their vendor catalog and various hubs. We did similar work for Ramp's vendor hub.
 
-**Marcel Santilli:** Okay.
+**Kaitlin Quimby:** Our connectors pages are a good example of what needs work. A lot of them still say "Toric" instead of "Datagrid." Clicking into the cards, they need an audit and revamp.
 
-**Kaitlin Quimby:** There's a team to do that.
+**Marcel Santilli:** Who's managing the website end-to-end right now? Who's in charge of it, or is it more reactive—whatever gets touched last?
 
-**Marcel Santilli:** I'm just curious.
+**Kaitlin Quimby:** Wonderup helps with the website, but things move slowly because they need input from me or Miles (product). We've had a lot going on the last few months, so updates are sparse or waiting for our input. I've been trying to put together a webinars and events page for three weeks but haven't had the bandwidth.
 
-**Kaitlin Quimby:** Yeah. Yeah.
+**Kaitlin Quimby:** The agents marketplace is our newest addition. I'm trying to get product videos for each agent—most don't have them yet, only the deep dive one does. That's a priority.
 
-**Liz Kushnereit:** Hello, by the way. I've just been in here in the background, but I know, like, you got kind of a lot of us on this call, but I know part of the reason we moved this was to talk a little bit more about, like, path forward. Are you taking the lead on that? Are we waiting for Thiago?
+**Marcel Santilli:** The agents page isn't strong from a search and visibility perspective. But the surface area is there and we can improve and scale it. There's pretty much no traffic to it currently, whereas your blog has strong upward momentum.
 
-**Kaitlin Quimby:** Yeah, I know Tiago wants to join it. He. He'll be off. He's on another call. It's running a few minutes late. He said he'll be here in two minutes. Yeah. And just kind of, you know, rework. Obviously some things have changed on our side, as I know things are shifting from Vivek to Liz's too. It just feels like a good time to kind of Just, you know, reset a bit. Yeah. But I know he wants to be involved in that conversation. And I don't know if we've actually met.
+**Kaitlin Quimby:** The agents marketplace launched about eight days ago—right before the acquisition announcement. It's new. We're working on getting videos for each agent. Most don't have them yet. The challenge is figuring out how to surface product information effectively and make it searchable and successful.
 
-**Marcel Santilli:** Andy, conversations I've had with Thiago Sweet so far. I think. The main thing is just really looking at some of the work we've done for Lovable and a few others where there's a tighter integration with. Kind of like the product and having more aggressive programmatic place and creating new. Sections of the site and really kind of putting forward more of that is really the. The goal where it's like, kind of. Evolving from just continuing to pump blogs and essentially really evolving that. That strategy. And. And part of it is kind of just understanding a little bit of like, like, the priorities. What I heard was there's really a. There's more resources, but there's also aggressive targets for this year. And so really understand kind of like the, like, the team and. And kind of like how you all are thinking about hitting those goals. Right? And. And also, like, how you'll see, like. What has worked so far. I have some sense, but just like, understanding, like, so that we can then take back and. And kind of like, rework the plan but move super, super fast as well. Yeah, like. Like, for instance, like, is there any. Integration with Procore or. There are other things that we should take into consideration. Is it still okay to try to, like, you know, cover topics around, like, let's say Autodesk. Right. Like, there's someone who wants to do that. That's not super crystal clear yet, you know.
-
-**Kaitlin Quimby:** And I think some of that is also not super crystal clear on our end either, as I'm just now starting to meet with marketing and product marketing. Like, I mean, with the product marketing team leader, you know, yes, we have more resources, but we don't have them yet. Like, we are still very much operating independently of Procore and, you know, again, it's like, what, day five for us. So we're still figuring out, like, yeah, what is that? What is. Are we allowed to talk? I mean, obviously we're allowed to talk a little bit about Autodesk, but, like, to what extent and what's the threshold there? And we are open to other things, but I think there's just like, alignment that's still happening on that. We are going to be opening up a lot of marketing roles to fill our team so this can, like, be managed better as well in this, like, partnership and other things. But, yeah, I know, like, Hugh does want to see more of, like, the product stuff put onto our Website and you know, getting a dedicated product marketing person that could also like work with you guys versus having to ping miles on like product updates and things like that, that's just going to make this go smoother. But we also don't have that team in place yet here.
-
-**Marcel Santilli:** Perfect. And so I guess like.
-
-**Kaitlin Quimby:** Oh, yeah, sorry.
-
-**Marcel Santilli:** Yeah. Just. Just as we're waiting for. For Tiago, like any. Anything that you have as context right now as far as like, if you. Kind of had a magic one as. Far as like especially like top of. Funnel and, and kind of like traffic growth, are there any areas that you. Feel like are really focused for AKA like when we started the engagement, there was a lot of things we did that was like broader than construction. So like, is the goal now to. Really narrow in within like construction or is it still to go broader than what Procore does, for example? Right. Like there's some of those that I. Don't know if you have any context so far.
-
-**Kaitlin Quimby:** Yeah, I mean, my thinking is obviously we have to hit this goal and again, within the built world. So it's not just construction. That could be manufacturing, that could be insurance, that can be those things too. So I think. But I think the built world is still where we're focusing and we just. I got off a call with Diana who's been working on like putting together like a phase two of our messaging for our website. And it still talks, I would say, with broad terms. So it doesn't sound like you're just targeting this one very specific industry. But the examples tend to be again, very much related to the built world. But I think just like kind of steering away from too many like words that just make it. When you read it, it's like, oh, this doesn't involve me at all. But even the other thing too of like your company, like when I'm like out there at events and like talking to some smaller GCs and stuff like that. One thing that they do like about this is that it's not just for their people that are on site. They can use this throughout the whole company as well. Right. There's other use cases that can be used for other team members that just aren't the ones that are like out on the field. But obviously that is like our main bread and butter.
-
-**Marcel Santilli:** Got it. Okay. Just taking notes.
-
-**Kaitlin Quimby:** And then I know, like, sorry, I was looking. Did he give example examples or I guess what do you guys do? All of the lovable site or what did. What was done there? That's just like something I don't have as much.
-
-**Marcel Santilli:** Yeah. So essentially like for Lovable, we've done. Their entire templates library and so using. Their API, we programmatically created entire websites. Templates with the designer in the loop. And also like this, this page, the content of the pages and things like. That as well as like the guides. Which the guides are very similar to, I guess. Like how we do articles for. For you all and then just pull up. So. So we're seeing like really strong results. Obviously they have a lot more like domain authority, but. But still like. Pretty. Pretty good upward momentum there. Yeah, you can kind of see like. So like we're averaging like 4 or 500 clicks a day already. That's there. We did work on their vendors catalog. As well, so it's kind of like more as well. We're also like, there are different kind of like hubs as well. So there's one that we did for. Ramp which is more of kind of like a. Yeah.
-
-**Kaitlin Quimby:** Like for example, like our connectors, like I know our connectors page. Like a lot of these say toric and not data grid. If you like click into the cards and like needs probably a revamp or like an audit.
-
-**Marcel Santilli:** Yeah. And so like how are, how are. You all managing like the website for example, right now? Like who's in charge of the website. And managing end to end? Like. Or is it kind of like right. Now a little bit of like whatever is the latest that touched it. I know our team has helped with a few things, but. But is there anyone else currently working on anything related to the website?
-
-**Kaitlin Quimby:** Yeah, we have this team Wonderup who helps a little bit with the website. But sometimes it's like, you know, kind of we have projects and then obviously with everything going on, it's like okay, you know, because a lot of that needs either input from myself or like miles on the product side and things like that. But there's just been a lot going on the last few months. So there's not a ton that's being updated or it's like waiting on our end to get the info together. Right. Like I've been trying to like put together like the webinars and events page for like probably like three weeks, but I've been busy.
-
-**Marcel Santilli:** Yeah. Yeah. Okay. So. So what I'm hearing is like like.
-
-**Kaitlin Quimby:** This agent thing we like put together like that is like our newest update. And. But this is like another thing. Like I'm trying to get the videos from our product and each of those agents would have a video of what the agent does. Like I think one of them has it on there, like the deep dive one, but the rest don't. And so like, that's like something that like, you know, we're trying to work on.
-
-**Marcel Santilli:** Yeah. Like, so. So like this is not very good from a search and visibility perspective, you know.
-
-**Kaitlin Quimby:** Yeah.
-
-**Marcel Santilli:** And like, but the surface area is. Here, so there's ways for us to. Improve it and scale it. As you can see, like, there's pretty much no traffic to it.
-
-**Liz Kushnereit:** Yeah.
-
-**Marcel Santilli:** Whereas, like, I think for the, the blog, there's like really good upward momentum.
-
-**Kaitlin Quimby:** Yeah. And the agenc thing got launched. I think it got launched like right before the announcement. So what, like a week ago, maybe like eight days ago. And that was like something that we just like, didn't have before. And then I'm trying to get the videos set up for each of those agents so they can have the video and the card too. But then there's nothing, like you said that there's nothing that's really making that successful or like searchable.
-
-**Marcel Santilli:** Okay, okay, that sounds like on the.
-
-**Kaitlin Quimby:** Back end, like, how do we do that? And then like, if we want to add more stuff, I think there's just like we need more product shown on here is the big thing and then how us putting it on there is one thing and then how do we make that successful?
-
-**Marcel Santilli:** Okay. Yeah, yeah. Like the, the. Oh, hey Tio, how's it going? I'm going to see you join. I think you're on mute.
+**Marcel Santilli:** Thiago, you there? I think you're on mute.
 
 **Thiago da Costa:** Can you guys hear me?
 
-**Marcel Santilli:** Yeah. We were just going through, just trying to understand like how we should.
+**Marcel Santilli:** We can help in multiple ways, but where we do best is owning end-to-end sections of the site. We handle strategy, AI visibility, organic growth, and day-to-day execution. We're less focused on broad product marketing like homepage repositioning. I showed Kaitlin some of what we did for Lovable—their entire templates library. We researched what templates people search for, looked at competitors like Wix and Webflow, and designed and executed the strategy. We're seeing 3,000–4,000 clicks per week on guides and templates combined with strong upward momentum. For Datagrid, we've done a lot of guide content already and need to keep cross-linking and creating topical hubs. But what's most critical from your perspective? You launched an agents section—what would make the biggest impact for your numbers this year, just focusing on search visibility and discovery?
 
-**Thiago da Costa:** Yeah.
+**Thiago da Costa:** Two parts. First, product content and communication on the website. Our blog articles aren't linked back to the agents. We'll talk about RFI in a blog but never connect it to "Here's the RFI agent with a demo video." That's a huge miss on high-traffic pages. Second, the agent marketplace needs heavy development—it's where people have the most questions and interest. The connectors marketplace also needs work; some pages still say "Toric" instead of "Datagrid," and there's missing documentation on how to install connectors. We need to keep building content, but align it with Procore-adjacent topics and broader built-world content—like data centers, how they're built, who builds them (hyperscalers). That audience overlap creates more funnel and visibility. So it's really about integrating product with content and evolving both for this new phase of the company.
 
-**Marcel Santilli:** Overall, like, and essentially like, we can. Help in a lot of different ways. We like, where we're going to do. The best is finding areas like, of. The site where we can truly own end to end. Both the strategy that will drive like AI visibility, organic growth as well as. Like executing day in and day out. And we can help with like the. Experience and everything else and less on like product marketing. Right. Like the, you know, homepage, repositioning the. Homepage, revisiting the homepage, that kind of stuff. Right. And so I was showing Caitlin some. Of the stuff we've done for, for like lovable that I think we talked about. But, but like, so for lovable we did like all their templates. Right. So and we came up with a whole strategy of what templates people were searching for, what categories of templates. So we look at like wix and webflow and a bunch of others. And then we designed this, implemented this, created workflows and, and started executing this and and we're seeing like really, really. Strong like upward momentum, you know, as far as like traffic there for both. Like their guides as well as like their, their templates. So it's like you know, three, four thousand clicks a week. And so we're trying to figure out like for, for you all. Like obviously like we've done a lot of these guides and I think there's still a lot of things we need. To do to continue to like cross link them creating like more topical hubs. And things like that. But then like from your perspective, right, like what are the most critical things? For instance, like there's the agents section. That, that I think you all launch. But like maybe instead of thinking of. Sections of the site, if you had a magic one, right, like at least. From how people are searching and finding. Things and visibility, like how do you. Think about like what will make the. Biggest impact in helping hit the numbers. For this year, you know, for you?
+**Marcel Santilli:** Still mostly the broader built world, not just what Procore serves, right? Procore is project-based construction. They don't serve manufacturing as an end-to-end platform.
 
-**Thiago da Costa:** Yeah, I think the. There's two parts to this. I think one is the product content, the product communication piece within the website. I think even the blogs are not connected back to our agents. We talk about rfi, whatever in some blog we don't really connect back to. Oh, this is the RFI agent. We have a video that's kind of static but I think there's. That is in reaching all of our blog content and everything else. Especially the high traffic pages with, with more product links, backlinks and the artist developing the, the. The agent marketplace. I think agent marketplace is the place that people have the most questions, they have the most interest. Would like to develop that a lot more. The connectors marketplace too. It's like kind of, you know, crappy but it's a lot of product. Yeah, there's a lot of product documentation that's not there. Like how to install this connector or whatever. Also some says toric, some still say toric is just, you know, it's all kind of like not being like well, well nourished. And I think those are, those are the two areas that I think are the most important that we are certain of. Like we, we also need to continue to build out content. But I think our content should now start aligning with like some procore content. Some like you know, construction oriented content like data center built out. Like there's a lot of materials about data centers, how data centers are being built and, and who's building data centers, like hyperscalers. And so it's just targeting a lot of content around that audience would help us create more Funnel create more visibility. So I really think is these two things. Let's figure out how the content can expect the product and the product content and the actual content itself that has to kind of evolve to this new phase of the company.
+**Thiago da Costa:** Right, we do serve manufacturing. We'll continue to, but strategically. We're not writing about Ford Motors. But why not write about suppliers of piping and fittings? Or electrical equipment manufacturers? Or HVAC and mechanical engineering systems that go into buildings?
 
-**Marcel Santilli:** Okay. And still mostly around the broader built world. Not only what Procore serves because like, or from what I understand, Procore is very project based. Right. Like, so it's mostly around like. Construction projects. Like they, they don't serve manufacturing. Right. Like as an end to end platform. Right?
+**Marcel Santilli:** What percentage of your revenue comes from customers who'd never buy from Procore?
 
-**Thiago da Costa:** Yeah, but we do, yeah, we do as, as data grid and I think we want to continue to do that but like do that like. We're not going to write about Ford Motors, you know, like it's not going to do anything for us. But like why are we writing about the, you know, the other suppliers of pipings and fittings? Why aren't we writing about, you know, the people that make like electrical equipment that goes into buildings? Why don't we talk about the, you know, the mechanical engineering part that goes into buildings like you know, H Vac and all these other work.
+**Thiago da Costa:** About 40%.
 
-**Marcel Santilli:** Do you have a sense like what percentage of your revenue are customers that. Would never potentially buy from Procore, for example? Do you have a 40%. 40%, yeah. Okay. Okay. So it's still so, still big. And the reason I bring it up is because there's so much opportunity to go try to get like a lot of like the Pro course so much more clear and you now have the. Awareness and so it almost feels a. Little bit like wasteful in some ways to go try this other thing, you know. So maybe for the next like at least two quarters we go, we capture the like awareness by being everywhere and. Really focus on within like overlaps with customers that could be Pro Corp customers essentially.
+**Marcel Santilli:** That's significant. My point is there's huge opportunity with Procore-adjacent customers now that you have their awareness. It almost seems wasteful to dilute effort elsewhere. For the next two quarters, let's capture that awareness everywhere and focus on overlaps with potential Procore customers.
 
-**Thiago da Costa:** Yes. Yeah, Yeah. I think that's the right strategy. I think, you know, that number, that number being smaller is actually more protective and more helpful. If I could have more customers that are in the Procore ecosystem, they have a lower chance of Churn and all these other things like an Autodesk customer. I'm counting that to be a churn next year.
+**Thiago da Costa:** That's the right strategy. A smaller non-Procore base is actually more protective. Customers in the Procore ecosystem have lower churn. Autodesk customers, I expect those to churn next year—they're now a competitor.
 
-**Marcel Santilli:** Got it. As a competitor, that makes sense. Just to play back, what I'm hearing is we did a ton of articles pages and there's a lot of work. We need to do to connect that. Back to the product we now have. We have two surface areas besides articles and guides, which is the agents, which is brand new, very little content, needs a lot of help and there's no integration with the product. Right. And then there's connectors, which also. There's a lot of work there that. That we can do. And so for instance, like in the. Agents, there's very little content here. There's no connection with the product. You can go from here to, you. Know, actually going into the product or seeing the value here. These are not cross links. So there's a lot of things we can do with the surface area. And the idea is kind of here, roughly. Right. Like the scaffolding, if you will. And so if I'm hearing correctly, we want to connect all those things while also growing traffic, but do it in a way that's very much like use case based on the agents, then taking the content and connecting the content more to both the connectors and the use case and improve the surface area of the connectors as well. Right. So it's not just like linking to a random doc that has no context that might be outdated. Is that, is that a, is that a good summary? You're on mute. Yeah.
+**Marcel Santilli:** Let me recap what I'm hearing: You've built a lot of blog content. Now you need to connect it to the product. You have two main surface areas besides blogs—agents (brand new, little content, no product integration) and connectors (also needs work). The key is connecting everything in a use-case driven way. Blog → agents → connectors, with each linking meaningfully. Agents as templates you can fork into your workspace, not just standalone docs. Does that capture it?
 
-**Thiago da Costa:** And I think, you know, to your point, like the figuring out like, what's the overlap with the procore content, we can also go and tell procore, like, hey, your top ranking blog page, like it needs to link back to Data grid. Like cross, cross linking opportunity. Pro Core is like, just tell us what to do. Like we, we can tell anybody to do anything.
+**Thiago da Costa:** On the Procore overlap—we can also reach out and say "Your top-ranking blog page should link back to Datagrid." Procore's open to suggestions. We can tell them what to do and they'll listen.
 
-**Marcel Santilli:** So that's great. And one more thing. And then we'll connect also to, we'll have one of our engineers connect with your site. But today, like, if I come in here and say like agentic, like agent. Or agentic, like RFP or RFC for construction project, for example, like what exactly happens with this information from here?
+**Marcel Santilli:** Here's a key question: If someone comes to your site and types "agent for RFI or RFC for construction project," what happens?
 
-**Thiago da Costa:** So right now it's just going to go into like the login. So if, if you log in, you would just try to pass that on. It's not. Yeah, it just goes as a prompt. So if you were logged in, like, the idea is that it actually goes. It does. Takes the prompt, but it doesn't really do that. What we wanted to do is we wanted to create an agent that's like designed for that task. We don't have the UI for that and we've been struggling trying to figure that out. So if you go, you know, like on a create on the left, top left. Yeah, yeah, go AI Agent and then click the right side. Custom agent. Yeah, yeah. We want it to be like if this UI here was sent. So if you type the same thing in here. We wanted it to be like do this, this, like basically create an agent. Like it needs to be a little bit faster, but like just create the agent that you want with the connectors and the questions that the agent's going to be able to answer. It's the easiest way we found for somebody to be like, wow, by what's going to happen next.
+**Thiago da Costa:** Right now it just takes the prompt after login. It doesn't create a specialized agent for that task. We wanted a UI that automatically creates a task-specific agent with connectors and question templates, but we don't have that yet. The idea is speed—someone types the prompt and gets a working agent in seconds, not a blank canvas.
 
-**Marcel Santilli:** Got it. And is there any chance that as an in between step, like these are the ones you already created, right. That already have. Like we can programmatically create these so. That when you click on that within a page, it's more like forking, right. Like so for instance, like we went. Through and this is like a project that we did, right? Like it's already pre created using their API. And there's this concept of like public projects, right. Like so for you can be a. Concept of like public agents even if. You don't dispose it anywhere on the web. But if you go here, you can't. You can preview, but when you click create your own and it's going to trigger login, but if you log in, it's going to actually fork that project. And, and this is a project we created programmatically, right? Like so. So if you click like use template and it can say include project history. Or not and then you can just say like remix and then what it's going to do is like fork that. And put it into my account. Right? Like so. Like that's an easier thing than like a blank canvas of just like having to create the agent from scratch because it's going to take time where, you know, and so as long as you have an API to programmatically create agents, we can use our workflows to programmatically. Create these agents, right? Yeah. Go to this project, for example.
+**Marcel Santilli:** Here's what we could do as an intermediate step. You already have agents built in a workspace. We can programmatically create templates that users fork rather than build from scratch. For example, we did this for Lovable—you click "Use Template," it says "Include Project History or Not," you click "Remix," and it forks the entire project into your account. That's much easier than a blank canvas. If Datagrid's API supports programmatic agent creation, we can build workflows to create these pre-configured agents on your website and let users fork them in.
 
-**Thiago da Costa:** Yeah, go to developers.datagrid.com. Yeah, on the left side you see. Yeah. Like it's literally and actually the prediction to create a custom agent. If you scroll down, I think there's that not on the left side, there's more APIs there after knowledge tables, I think in the very bottom message. Let's see if that API is already.
+**Thiago da Costa:** Check developers.datagrid.com—there are APIs to create custom agents. The create-agent API is documented, and there are knowledge and data APIs.
 
-**Marcel Santilli:** Live, but nowhere as long as it's there. Like for example with Lovable, their API is not even public. Like they gave only gave us access to their API, if you will.
+**Marcel Santilli:** Good. With Lovable, their API isn't even public—they only gave us access. Is yours public?
 
-**Thiago da Costa:** This API is public. We have a ton of people are using it.
+**Thiago da Costa:** Yes, it's public. Lots of people use it.
 
-**Marcel Santilli:** Yeah. And so today if Workspace one creates an agent, is there a way to like make that public so that somebody could programmatically add the agent back? Or is it one of those Things where it's just like, it's a new create call every time. Like, there's no like concept of public. What would be the easiest way? Like, let's say like you have an agent and they're one workspace. They we programmatically create, we validated that. Agent is perfect, right? Like, just like this.
+**Marcel Santilli:** Okay. If you create an agent in a workspace, can you make it public so others can programmatically fork it? Or is each fork a separate create call with no public concept?
 
-**Thiago da Costa:** Then you do, you do go back there, you do list agents. So yeah, I think if you. Where's the agents API is up, up, up. Yeah, yeah, you do list agents. You'll list the agent that are in the, in the team space and it'll give you the entire configuration of the agent. All the instructions, system instructions, tools, the corpus of knowledge. All this stuff will come out every time you list it. And then you display the list of agents however you want. And.
+**Thiago da Costa:** You use the list-agents API. It returns all agents in the team space with full configuration—system instructions, tools, knowledge corpus—everything. You can display them however you want.
 
-**Marcel Santilli:** But that's for like a private workspace, right? Because none of this is public information. Or is it a public.
+**Marcel Santilli:** That's private workspace data, right? Not public?
 
-**Thiago da Costa:** Yeah, go, go back to your Data Grid account. So if you know the agents you have in this account, they would all be available if you go to Settings and then API, API keys. So if you took an API key from here, this API key is going to be able to list all these agents that you have in here. So you can just make them inside of data grid and just list them through the API. It's okay.
+**Thiago da Costa:** You generate an API key in Settings > API. That key lists all your team's agents. You create them in Datagrid, list them via API. It works.
 
-**Marcel Santilli:** So then publicly on the pages, it. Could be if a new user that's. Going to create a new workspace wanted. To then fork that agent.
+**Marcel Santilli:** So on a public page, if a new user wants to fork that agent, they'd log in and create it?
 
-**Thiago da Costa:** Yeah, you just do create with the same settings. You do list all the properties.
+**Thiago da Costa:** Yes. Use the create API with the same settings. List all the properties and replicate them.
 
-**Marcel Santilli:** Like it's not truly like forking in the sense. Like, like here, for example, truly fork the project, right? Like it took every setting because it's not just a call. Like there's like, you know, files. There's like, there's a lot. There's a whole project history that, all of that. And it forked. In this case, what we're trying to create. Like it's truly like it's a pro. It's a setting, right? Like it's an API call, which is kind of similar to what we did with VAPI for these, which is just like it was just a JSON payload, right? Like it was just the JSON that then got ingested and rendered. Here we could.
+**Marcel Santilli:** That's not a true fork like what we did with Lovable—where we grabbed everything (files, history, settings) and forked it entirely. What you're describing is an API call that copies settings as JSON. Like we did with VAPI voice agents—just a JSON payload that gets ingested and rendered.
 
-**Thiago da Costa:** Yeah, yeah, we could. We could create some kind of like fork this, this entire project, but like it's kind of looping through, copying the agent and copying the knowledge and copying some of the other stuff. It's kind of like this kind of the same thing. You actually don't Want the history, you probably just want the knowledge that is associated that agent to come along. Because you don't want your project to actually like your project actual data to be there. So you're going to want your like sop, your standards, your manuals, you know, your recipes, like that you want to come along and that would be knowledge. Right, so that would be these APIs here. Yeah, like create knowledge.
+**Thiago da Costa:** Right. We could build a fork workflow that copies the agent and knowledge to another workspace. You don't want the project history, just the knowledge—SOPs, manuals, recipes, connectors. The knowledge API handles that.
 
-**Marcel Santilli:** You can't really fork a knowledge. So then like if you, if you have an agent that has access to. Like a sample knowledge for, to create. That on somebody else's workspace, you can only do like, you couldn't do that. Right?
+**Marcel Santilli:** Can you copy knowledge from one workspace to another? If an agent has access to sample knowledge, can you replicate that on a new account?
 
-**Thiago da Costa:** You would have to do. We can, we can make a create knowledge that is like takes, takes the destination workspace and it just pushes that same knowledge to the other workspace.
+**Thiago da Costa:** We can build a create-knowledge API that takes a destination workspace and pushes the knowledge there.
 
-**Marcel Santilli:** Okay. So technically it's all possible. We got to find a way to do it without creating, you know, three months of product roadmap or.
+**Marcel Santilli:** Okay. Technically it's all possible. We just need to do it without a three-month product roadmap.
 
-**Thiago da Costa:** No, I mean APIs, we, we can augment the APIs quickly. I mean if the goal is because like the tables and data views down here, that's exactly what you're talking about. But this is just for like data directly. So you know, there's, there's a little bit of. But I like this idea of like making the website more like a store of use cases and like, oh, this is a use case for osha, you know, in California. And there's like the OSHA manual is already there and the agent to do OSHA is already there. Like everything is already set up.
+**Thiago da Costa:** We can augment APIs quickly if needed. The vision I like is making the website a store of use cases. For example, "OSHA compliance for California"—the manual is there, the agent is there, everything is ready to go.
 
-**Marcel Santilli:** Yeah, exactly. It's mostly like kind of similar to vapi where you have a widget that already had all the settings for a voice agent. Like this, this button allows you to. Like take this agent and put this. This, you know, voice agent inside of like. But it's an overly simplistic voice agent. But it's truly just the prompts. Just the JSON.
+**Marcel Santilli:** Exactly. It's like what we did with VAPI—a widget with pre-configured settings for a voice agent. It's really just the JSON payload.
 
-**Thiago da Costa:** Yeah, you know, it's truly just downloading the JSON and just posting the create and like it's, it's a straightforward thing. Like either way, like it's either you do it like on, on whatever your server or we do it like in our server, but like it's the same thing.
+**Thiago da Costa:** Exactly. Download the JSON, post the create call. Straightforward. Can be on your server or ours.
 
-**Marcel Santilli:** Okay. Okay, so to me, super clear what. We got to do. Liz, you and I can, can connect. Offline and then bring probably Nico or one of our forward deploy engineers and then we'll like the, the main, the. Main thing here is like I really think that if we're already seeing success with the Blogs, if there's a way to embed some of these use cases more. And also cross link to agents, make the agent pages also more like templates. Right, like agent templates, if you will. Yeah, right. Connect them and make the connection to signing up to the product stronger and then also connect to connectors. Right, because. And make that even stronger and improve those three surface areas and make those three surface areas more actionable. Then I think, like, in the next, like, six months, there's a huge. Like. Like, there's a lot more there. Because the thing here is, like, if. Someone comes from search and then they. Have, like, a prompt, something, and they click on that and go into the product, that's one of the strongest signals you can have is, like, this. This longer session that never goes back. Right. Like, because it's like, see the value quickly. Right. And then one last thing I got. To run, but is there streaming for. Like, if we do have an agent already working in one account and we want to imitate the equivalent of a. Chat response live on the page, is. There streaming in via API responses? Okay, perfect.
+**Marcel Santilli:** Okay, I'm crystal clear on what we need to do. Liz and I will connect offline, bring Nico or another forward deploy engineer, and then plan the integration. The key is: you're already winning with blogs. We embed use cases more deeply, cross-link to agents, make agent pages template-like, strengthen the path to product signup, and improve connectors. Over six months, that's significant upside. The power move is: user searches, finds an article, clicks an agent template, goes straight into the product. Long session, no bounce. They see value immediately. One last thing before I run—do you have streaming for chat responses in the API?
 
-**Thiago da Costa:** Yeah, there's, like, tons of.
+**Thiago da Costa:** Yeah, we have full streaming support. Lots of partners are building on the API already.
 
-**Marcel Santilli:** Just a UI thing for us to do. Yeah, okay, perfect.
+**Marcel Santilli:** Perfect. This'll be a fun project. By end of week, we'll send a high-level priorities doc. We'll also align on resource allocation so you feel good. Then we'll grab an hour next week for a detailed strategic review.
 
-**Thiago da Costa:** Yeah, there's tons of you. The tons of partners now just building on top of the API, because we have the full indexing and we have the whole streaming thing.
+**Thiago da Costa:** Sounds good. Let's do it.
 
-**Marcel Santilli:** Okay. All right. This would be a fun project. Awesome. I got to run the Tiago, like, by end of week, we'll send something with, like, a big picture, like, priorities. Yeah. We'll also work on resource allocation on our end as well so that you feel really good. And then we can review, maybe grab an hour next week so that we have a little bit more time to. Like, take you through what we're thinking.
+**Marcel Santilli:** Thanks, Thiago.
 
-**Thiago da Costa:** Awesome. Let's do it.
-
-**Marcel Santilli:** Awesome. Thanks.
-
-**Thiago da Costa:** Thank you. Talk soon. Bye.
+**Thiago da Costa:** Thank you. Talk soon.

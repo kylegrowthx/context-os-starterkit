@@ -5,33 +5,85 @@ title: GTM & Delivery Reviews
 date: 2026-01-27
 meeting_id: 01KG0QB3GW04EB2ZSDJSSN0JH4
 duration: 104 minutes
-organizer: marcel@growthxlabs.com
+organizer: Marcel Santilli
 participants:
-  - Marcel Santilli
-  - Ella Dillon
-  - Bridget McGillivray
-  - Jason Gong
-  - Leah Myers
-source: Fireflies
+  - Marcel Santilli (CEO)
+  - Ella Dillon (Head of Delivery)
+  - Bridget McGillivray (Chief Revenue Officer)
+  - Jason Gong (Head of Growth)
+  - Leah Myers (Analytics/Operations)
+source: fireflies
 transcript_url: https://app.fireflies.ai/view/01KG0QB3GW04EB2ZSDJSSN0JH4
+enriched_on: 2026-03-01 00:00 UTC
 ---
 
 ## Summary
 
-Pipeline has dropped sharply since August-September. The team needs to double annual kickoffs from 74 to 140 to hit $34-36M revenue targets. AE capacity is a bottleneck with Tyler managing 70 open opportunities (max should be 25-30). The team discussed shifting ICP away from VC-backed AI startups toward more traditional companies where GrowthX's work has outsized impact. Sprint quality issues and customer perception of "just publishing blogs" emerged as key delivery challenges.
+GrowthX faces a critical inflection point: pipeline volume dropped sharply since August-September, forcing a structural re-evaluation of GTM strategy. To hit $34-36M revenue targets, the company must nearly double annual kickoffs from 74 to 140. The immediate blocker is AE capacity—Tyler is managing 70 open opportunities when his realistic capacity is 25-30. Beyond capacity, the leadership team identified three systemic challenges: first, customers perceive GrowthX as "just publishing five blogs per week" rather than as a strategic growth partner; second, the company is competing in an overcrowded VC-backed AI startup segment where competitors (Air Ops, Profound) are better resourced; third, Sprint quality issues (broken links, formatting errors) have eroded trust and created eight-week recovery cycles. The strategic pivot is to shift ICP toward traditional companies where GrowthX's baseline work delivers outsized value, and to lead with site audits and dev/design work—GrowthX's true competitive advantage—rather than content volume.
 
 ## Context
 
-Weekly go-to-market and delivery review meeting. Leadership team inspecting pipeline health, Sprint conversions, and renewal risks. First structured meeting using new reporting framework.
+First structured leadership review meeting using GrowthX's new GTM reporting framework (modeled on rev ops at Upkeep). The framework tracks volume, throughput, and velocity across the entire funnel: talk-to-sales → sales → kickoffs → Sprint conversions → renewals. Leadership—CEO, CRO, Head of Delivery, Head of Growth, and Analytics—meet weekly to inspect pipeline health, conversion metrics, and account renewal risk. This particular meeting occurred at a critical moment: January typically sees lower activity (no AEO workshops, reduced social posting), but the pipeline decline began in August-September and has not recovered. The 2026 fiscal plan—requiring $34-36M ARR and 140 annual kickoffs vs. current 78 baseline—is directionally approved by the board but depends on urgent GTM optimization and operational capacity fixes. The team is also working on HubSpot data hygiene and transitioning from Fathom to Fireflies for call recording.
 
 ## Relevance to GrowthX
 
-This meeting captures critical strategic decisions about:
-- Pipeline and revenue targets for 2026
-- ICP evolution and customer targeting
-- Sprint delivery quality and customer value perception
-- Operational capacity constraints
-- Dev/design differentiation as competitive advantage
+**Revenue & Pipeline Strategy**
+- 2026 targets: $34-36M ARR (vs. ~$12M current), requiring 140 annual kickoffs (vs. 78 baseline)
+- Pipeline dropped 50%+ since August; inbound leads via forms significantly declined
+- Deal velocity critical: only 1-2 kickoffs booked beyond the immediate week (vs. historical 6-8 weeks out)
+- Win rate math: at 25% conversion, need $100M pipeline to hit targets; with broader channels, effective win rate drops to 10% (mathematically hard)
+
+**GTM & Customer Acquisition**
+- Current ICP (VC-backed, Bay Area, AI-native, high-growth) creates echo chamber; competitors are better resourced
+- Strategic pivot to traditional companies where GrowthX's baseline work is perceived as "magic"
+- Event strategy: dinners, workshops, breakfasts proven effective but inconsistent execution; need formal plan + diversification outside Bay Area
+- Sales capacity: Tyler (sole AE) managing 70 open opportunities; realistic capacity is 25-30; hiring new AE critical but won't ramp in short term
+
+**Delivery & Customer Success**
+- Customer perception gap: GrowthX is "publishing five blogs per week" not delivering strategic growth
+- Quality issues (broken links, formatting errors) costly to recover from (8-week recovery cycles)
+- Competitive advantage: dev/design work that agencies can't match; best customers are ones where GrowthX did site work
+- Opportunity: lead with site audits and quick wins before calibration articles; systematic audit process needed
+
+**Account Health & Retention**
+- Renewal framework not yet mature; need to distinguish between health risk and renewal/churn risk
+- Brex (yellow/red): John difficult stakeholder; Alex (his manager) positive; need org mapping into Capital One
+- Turnstile (recovering yellow): quality issues resolved; Kirkland helping; ME's now assigned at pre-kickoff
+- Imubit (red): brought in paid agency; CRO asking Marcel about agencies; GrowthX at risk
+- Prophecy: CEO fired marketing department; don't over-invest beyond reasonable scope
+- Okta: confirmed renewal
+- Five-signal account health framework planned for HubSpot rollout next week
+
+## Open Questions
+
+**GTM & Pipeline**
+- Is the August-September pipeline decline systemic (reduced demand, competitive loss, internal factors) or macro/seasonal? How much is activity vs. macro vs. competition?
+- Can events and warm outbound generate qualified leads to other geographies without sacrificing quality? Which geographies/verticals to test first?
+- What does a validated $34-36M pipeline mix look like? How much from events, inbound, relationships vs. warm outbound?
+- Win rate math: if 25% win rate mathematically breaks unit economics with broader channels, how do we get to acceptable win rate without burning out team?
+
+**Sales & Deals**
+- Of Tyler's 70 open opportunities, which 25-30 are actually winnable and worth pursuing? How to cleanup/eliminate rest?
+- Procurement delays on 200k+ deals: is this standard for large deals or a GrowthX sales issue? What expertise do we need?
+- Can Marcel's involvement on high-probability deals scale without becoming personal bottleneck?
+- Nigel timeline: when is he ramped enough to take on longer-dated deals? How to allocate him between services and sales support?
+
+**Delivery & Quality**
+- What are the quantifiable KPIs for Sprint quality? How do we measure "no broken links" operationally?
+- Site audit playbook: what are the 10-15 "must-haves" (CTA, table of contents, author, date, etc.) that we train team to execute?
+- How do we systematize dev/design offerings for customers? What's the playbook, pricing model, and resource model?
+- ME assignment at pre-kickoff: how do we ensure MEs own strategy, not just execution? What does partnership look like operationally?
+
+**Renewals & Accounts**
+- Five-signal account health framework: what are the 5 signals? (e.g., traffic growth, engagement, support tickets, expansion signals, satisfaction?)
+- Brex/Capital One: is this relationship saveable or should we deprioritize and focus resources elsewhere?
+- Prophecy: is the CEO churn and pivot enough to warrant full exit, or can we stabilize with minimal investment?
+- Imubit: given paid agency involvement, should GrowthX pivot to supporting/advising vs. executing, or is this too risky?
+
+**Data & Operations**
+- HubSpot cleanup: what are the foundational data fields that drive decisions? Should we rebuild from scratch or rationalize existing fields?
+- Call recording switch (Fathom → Fireflies): how many private meetings can/can't migrate? What's the transition pain?
+- Event tracking: how to attribute leads to events if stakeholder attended 2+ months before deal creation? What's acceptable attribution window?
 
 ## Overview
 
@@ -41,6 +93,41 @@ This meeting captures critical strategic decisions about:
 - **Customer Profile Pivot:** Strategy shift from VC-backed AI startups to traditional sectors for clearer customer needs and reduced competition.
 - **Data Hygiene:** Ongoing efforts to clean data and enhance infrastructure for better decision-making.
 - **Value Perception Gap:** Customers perceive GrowthX as "just publishing five blogs a week" without seeing strategic impact.
+
+## Decisions & Commitments
+
+**GTM & Pipeline**
+- Shift net-new ICP away from VC-backed AI startups toward traditional companies (not turning down Vercel-type deals, but new activity focused elsewhere)
+- Events/activities plan formalized for 2026 with monthly/quarterly targets; diversify beyond Bay Area to validate new geographies
+- Event tracking in HubSpot tied to campaign; Jason to share dashboard to measure event impact on pipeline
+- Hiring a second AE immediately to increase capacity and allow Tyler to focus on high-intent deals (cannot throw Nigel on short-term closes; he will help with longer-dated deals)
+
+**Sales & Deal Management**
+- Bridget to pull Tyler's 70 open deals, prioritize for Marcel's involvement; Marcel's Wednesday fully dedicated to meetings/calls with high-probability deals
+- Bridget + Marcel to review deals with Tyler weekly to improve deal hygiene and manage procurement bottlenecks
+- Acknowledge procurement delays are real constraint; Marcel has ideas on procurement expertise to leverage
+- Escalation needed on Capital One deal (via Brex): need org mapping and AE involvement to preempt acquisition risk
+
+**Sprint Delivery & Quality**
+- Tammy (forward-deployed engineer) now embedded at pre-kickoff to build pipelines with MEs from day one
+- ME's assigned at pre-kickoff (not week 4) to own context and act as strategic partners, not transactional executors
+- Quality review process must catch broken links, formatting errors; Kirkland helping establish baseline
+- Lead with site audits (tech audit for indexation/discoverability) and quick wins before week-2 calibration articles
+- Ella to work with Sprint standups 2x monthly and review content strategies in advance; Marcel to provide feedback on all Sprint content strategies
+- Stop sending multiple calibration articles without review; batch and wait for feedback before continuing
+
+**Account Management & Renewals**
+- Need two separate fields: account health (health risk) vs. renewal forecast (churn probability with % confidence)
+- Five-signal health metrics (to be defined) to be built into HubSpot as single source of truth
+- Leah to consolidate HubSpot data infrastructure next week with support from Ella and Andy
+- Follow up on Capital One org mapping and stakeholder engagement (George is point)
+- On Brex/Capital One: Ella flagged as red; need to determine if moving forward or letting go based on resource constraints
+- Prophecy: don't over-invest above reasonable scope given CEO churn and pivot; focus on holding service level
+
+**Data & Infrastructure**
+- Leah + Ella + Andy leading HubSpot cleanup; will be ongoing but teams need to own data entry and field discipline
+- Marcel willing to escalate hard if data discipline falters (personal involvement if needed)
+- Call recording switch from Fathom to Fireflies planned for February (not January due to disruption)
 
 ## Key Topics
 
@@ -101,351 +188,52 @@ Marcel emphasized this is GrowthX's special power:
 
 ## Action Items by Person
 
-### Bridget McGillivray
-- Meet with Tyler to unblock capacity issues and manage opportunity pipeline cleanup
-- Send list of 70 open deals to Marcel for prioritization and sales support
-- Continue weekly deal inspection meetings with Tyler to improve deal hygiene
+### Bridget McGillivray (CRO)
+- Meet with Tyler (Sales) to unblock capacity issues and manage opportunity pipeline cleanup
+- Pull list of 70 open deals, send to Marcel for prioritization and sales support
+- Continue weekly deal inspection meetings with Tyler to improve deal hygiene and set expectations on capacity (25-30 max)
+- Work with Marcel on procurement expertise to unblock stuck deals
 
-### Marcel Santilli
-- Provide comments and feedback on Sprint content strategies
-- Engage in live Sprint standups and health meetings for direct feedback
-- Assist in pipeline and opportunity review, escalating urgent cases
-- Work with Bridget on procurement expertise to address bottlenecks
+### Marcel Santilli (CEO)
+- Dedicate Wednesday calendar to sales meetings/calls with prioritized high-probability deals
+- Provide comments and feedback on all Sprint content strategies before team execution
+- Engage in live Sprint standups and health meetings with Ella (2x monthly) for direct team coaching
+- Assist in pipeline review with Bridget and Tyler; escalate procurement obstacles
+- Consider whether to move forward on Capital One org mapping motion vs. deprioritize based on resource constraints
 
-### Leah Myers
-- Build and consolidate consistent data infrastructure in HubSpot next week
-- Support incorporating five signal health metrics for better renewal forecasting
+### Leah Myers (Analytics/Operations)
+- Build and consolidate consistent data infrastructure in HubSpot (single source of truth)
+- Incorporate five-signal account health metrics into HubSpot for better renewal forecasting and risk visibility
+- Support Ella and Andy in HubSpot data cleanup and field ownership training
 
-### Ella Dillon
-- Propose formal Sprint audit offering including site health and best practices
-- Organize Marcel's participation in Sprint standups and health meetings twice monthly
-- Lead HubSpot data cleanup effort with Leah and Andy for single source of truth
-- Follow up on Capital One account with org mapping and AE involvement
+### Ella Dillon (Head of Delivery)
+- Propose formal Sprint audit offering including site health, indexation, and design best practices
+- Organize Marcel's participation in Sprint standups and health meetings (2x monthly)
+- Lead HubSpot data cleanup effort with Leah and Andy; train EMs on data discipline and field ownership
+- Work with Capital One stakeholder (via George) on org mapping to mitigate acquisition risk
+- Partner with Andy and Tammy on embedding forward-deployed engineering at pre-kickoff stage
+- Define "site audit" playbook and key review criteria (CTAs, table of contents, authorship, navigation, etc.)
 
-### Jason Gong
-- Share details and invitees list for upcoming Wednesday dinner event
-- Enable better event tracking within HubSpot
-- Share dashboard links with team for measuring event impact on pipeline
+### Jason Gong (Head of Growth)
+- Share Wednesday dinner event details and invitees list (validate guest list quality and fit)
+- Enable comprehensive event tracking in HubSpot tied to campaigns/campaigns source
+- Share dashboard showing event impact on pipeline creation and influence on closed deals
+- Formalize 2026 event plan with monthly/quarterly targets; identify opportunities outside Bay Area
+- Partner with Gloria on non-Bay Area opportunities (e.g., PE roll-ups, verticals outside AI native)
 
 ---
 
 ## Full Transcript
 
-**Ella:** Greetings again.
+**Bridget McGillivray:** We're switching from Fathom to Fireflies in February. The transition is ready to go. Public meetings can migrate, but private meetings need manual migration. Fireflies is much better, worth the effort despite the migration pain.
 
-**Ella:** Did you miss me?
+**Marcel Santilli:** Today's been back-to-back calls. An hour with a company, two hours with Brex and John, an hour with Bessemer trying to get them as a customer. Common theme across all: "Show me the growth. Show me traffic growth."
 
-**Leah Myers:** Incredibly.
+**Marcel Santilli:** Let me set some context. The best GTM functions have a good pulse across the entire funnel: talk-to-sales → sales → kickoffs → Sprint conversions → renewals. At Upkeep, I set up a rev ops function that tracks targets, actuals-to-date, and projections. For example, if you're 50% through the month with a target of 10 leads but you've only got 2, you're projecting 4 for the month—that's red. Leaders should come with a clear assessment: what's green, what's yellow, what's red, and what we're doing about it. This meeting is big picture: Are we doing the right things? Are we prioritizing the right things? What are the bottlenecks? And critically, what's system throughput? My mental model: volume, throughput, velocity. If you don't have volume, it's a volume problem. If you have volume but conversion is weak, that's throughput. If deals are getting stuck, that's velocity.
 
-**Leah Myers:** I'm glad to be together once more.
+**Bridget McGillivray:** My only intro thing: let's be patient with each other and the data. It's not very clean right now and there's a lot to build on the data infrastructure side. Let's use these meetings to collect what we want to see and how to measure it. There are gaps, but the basics are there. Leah, thanks for starting to build this. It'll only get better.
 
-**Ella:** Hello, Jason.
-
-**Ella:** Hello.
-
-**Leah Myers:** Jason.
-
-**Ella:** I'm going to meet you in real person next week.
-
-**Ella:** Yeah.
-
-**Jason Gong:** Oh, really?
-
-**Jason Gong:** Wait, are you coming to the dinner that we're hosting?
-
-**Ella:** Oh, well, I'm.
-
-**Ella:** This meeting is being recorded for that week.
-
-**Jason Gong:** Oh, that's.
-
-**Jason Gong:** That's awesome.
-
-**Jason Gong:** All right, let me.
-
-**Jason Gong:** I'll share the dinner that we're hosting if you want to.
-
-**Jason Gong:** Wednesday evening, we got.
-
-**Jason Gong:** I mean, the guests are rolling in, but it's like a mix of customers and prospects.
-
-**Ella:** Nice.
-
-**Jason Gong:** Marcel and Carolu will be there as well.
-
-**Ella:** Brilliant.
-
-**Ella:** Yeah.
-
-**Ella:** Bridget's gonna be in person.
-
-**Ella:** Leia is gonna be in person.
-
-**Ella:** We're descending upon you like you have not heard the word, that there's about to be an incident.
-
-**Ella:** A convergence, if you will.
-
-**Bridget McGillivray:** Woohoo.
-
-**Bridget McGillivray:** I'm excited.
-
-**Bridget McGillivray:** I'm only gonna be there two days, sadly.
-
-**Ella:** But is that true?
-
-**Bridget McGillivray:** Yeah.
-
-**Ella:** Monday and Tuesday or Tuesday and Wednesday?
-
-**Bridget McGillivray:** Monday.
-
-**Bridget McGillivray:** Tuesday.
-
-**Bridget McGillivray:** I'm leaving Wednesday morning.
-
-**Leah Myers:** I'm there Tuesday, Wednesday, and maybe part of Thursday.
-
-**Leah Myers:** My flight's midday Thursday.
-
-**Bridget McGillivray:** Okay, I'll see you Tuesday then.
-
-**Marcel Santilli:** Nice.
-
-**Bridget McGillivray:** Well, we have all of Marcel's note takers, but not Marcel.
-
-**Bridget McGillivray:** I didn't know he had a loom one.
-
-**Marcel Santilli:** That's new H.
-
-**Bridget McGillivray:** I don't actually know which one he uses at all.
-
-**Ella:** That's a lot of note takers.
-
-**Bridget McGillivray:** Yeah.
-
-**Jason Gong:** Are we switching from Fathom, or is that, like a.
-
-**Jason Gong:** Not a thing we're doing anymore.
-
-**Bridget McGillivray:** Jason, that is.
-
-**Jason Gong:** Okay, never mind.
-
-**Jason Gong:** I forgot I asked.
-
-**Bridget McGillivray:** We are, we are, we are.
-
-**Bridget McGillivray:** I need, like.
-
-**Bridget McGillivray:** I just need Yousef to make, like, the call.
-
-**Bridget McGillivray:** Like, he's kind of making me make the call.
-
-**Bridget McGillivray:** I'm like, you make the call.
-
-**Bridget McGillivray:** It.
-
-**Bridget McGillivray:** It's ready to go.
-
-**Bridget McGillivray:** We can switch.
-
-**Bridget McGillivray:** I just also, like, was a little wary of, you know, it's going to be annoying for people.
-
-**Bridget McGillivray:** We have to, you know, they have to migrate all the calls.
-
-**Bridget McGillivray:** People have to, like, set up all the new things.
-
-**Bridget McGillivray:** It's going to be a bit annoying.
-
-**Bridget McGillivray:** So it's kind of thinking we'd do it in February.
-
-**Bridget McGillivray:** Just kind of.
-
-**Bridget McGillivray:** This January was a bit crazy.
-
-**Bridget McGillivray:** And if people, like, they can migrate over public meetings, but they can't migrate people private meetings.
-
-**Bridget McGillivray:** So, like, if people want to go find their old private stuff, they'll have manually do that.
-
-**Bridget McGillivray:** Pros and cons.
-
-**Bridget McGillivray:** But Fireflies is much better, so it's worth it.
-
-**Jason Gong:** Never, like, appreciated how hard it is to get a group of people, even as small as our team, to change something, like tooling a Process, you know, now I understand why those consultants have those like change management engagements.
-
-**Jason Gong:** Every time I heard that I was like, what?
-
-**Ella:** It's a thing for sure.
-
-**Jason Gong:** Yeah.
-
-**Leah Myers:** Yeah.
-
-**Bridget McGillivray:** Because like also something like this is very critical where I don't want people to stop using a recorder for a few weeks.
-
-**Bridget McGillivray:** That would be tragic with client calls.
-
-**Bridget McGillivray:** So we'll probably end up paying for both for a month while everyone switches.
-
-**Bridget McGillivray:** But then you have to just put like a cutoff date at some point.
-
-**Jason Gong:** Keep trying to get the VP of marketing a fathom to come to an event, but she's always busy.
-
-**Bridget McGillivray:** Now she won't like it when we quit.
-
-**Ella:** Do you have you come across Michael Lundgren and Responsive, the company Responsive?
-
-**Marcel Santilli:** I have not.
-
-**Ella:** So he's the chief marketing officer over at Responsive and he was the chief marketing officer at Seismic and he's a dear friend.
-
-**Ella:** He and I worked at Docusign together.
-
-**Ella:** So depending on your dinner, I can always see if he can join on Wednesday night.
-
-**Jason Gong:** Yeah, that would be awesome.
-
-**Jason Gong:** We're like half full at the moment.
-
-**Ella:** Okay.
-
-**Jason Gong:** Marcel.
-
-**Marcel Santilli:** Hello.
-
-**Ella:** We were teasing you in your absence about all your note takers in the call.
-
-**Marcel Santilli:** I know.
-
-**Bridget McGillivray:** Loom is new.
-
-**Marcel Santilli:** I know.
-
-**Marcel Santilli:** It's like it's just that they just show up.
-
-**Marcel Santilli:** I don't tell them to show up, they just do.
-
-**Marcel Santilli:** All right.
-
-**Marcel Santilli:** And then today has been a back to back of save call.
-
-**Marcel Santilli:** Not save.
-
-**Marcel Santilli:** I was just an hour with anything and then oh, two hours with Brex and John and then an hour with Bessemer trying to get them as a customer as well.
-
-**Marcel Santilli:** So common theme grow.
-
-**Marcel Santilli:** Show me the growth.
-
-**Marcel Santilli:** Show me traffic growth.
-
-**Marcel Santilli:** Show me traffic growth.
-
-**Marcel Santilli:** That's the common theme.
-
-**Marcel Santilli:** But okay, so let me just set some context and then we can kind of kick it off.
-
-**Marcel Santilli:** But as a go to market function, the best go to market functions I've.
-
-**Marcel Santilli:** I've led and is when we have a really good pulse of things.
-
-**Marcel Santilli:** Good news is I think one of the best structures I've set up was with Jeff who's going to help us when I was at upkeep and I set up the rev ops function from scratch there.
-
-**Marcel Santilli:** And ultimately in a way that we want to know across our entire go to market from talk talk to sale traffic talk to sales all the way to kickoffs for us to to sprint conversions to renewals.
-
-**Marcel Santilli:** Like we have a really good understanding of like Target, like actuals to date in that period, whether it's monthly or quarterly.
-
-**Marcel Santilli:** And what does that mean that we're projected to achieve compared to a target.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** So if there is, you know, let's just assume there's 10 days in a period, you know, and you're five days in and your target is to get 10 leads and you got two.
-
-**Marcel Santilli:** That means your act, your target is 10, your actual is two and you're projected as four for that period.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** Because it's only 50% through.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** And so based on that it's pretty clear that for this specifically, this is red, right.
-
-**Marcel Santilli:** And nowhere near.
-
-**Marcel Santilli:** And, and you understand what the trickle down effects are.
-
-**Marcel Santilli:** And, and leaders should come with like this is what's green, this is what's yellow, this is what's red, this is what we're doing about it.
-
-**Marcel Santilli:** And, and, and we're not.
-
-**Marcel Santilli:** This meeting is not to inspect.
-
-**Marcel Santilli:** It's not talking about tactics, is not talk about individual, you know, like save things.
-
-**Marcel Santilli:** We can take that.
-
-**Marcel Santilli:** It's more big picture.
-
-**Marcel Santilli:** Understand like systemically are we doing the right things?
-
-**Marcel Santilli:** Are we prioritizing the right things?
-
-**Marcel Santilli:** What are the bottlenecks?
-
-**Marcel Santilli:** But just as importantly the whole kind of system throughput.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** And then ultimately when trying to optimize a funnel or a flywheel or whatever, my mental model is always volume, throughput and velocity.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** And so if you're not just getting enough volume, then there's just like a volume problem.
-
-**Marcel Santilli:** If you're getting volume and there's a conversion problem like the sprints, right?
-
-**Marcel Santilli:** Hey, that's a conversion, a throughput thing.
-
-**Marcel Santilli:** And then there's like velocity.
-
-**Marcel Santilli:** Hey, all these deals are getting stuck or whatever, right?
-
-**Marcel Santilli:** Like so, so for everything from, from like talk to sales all the way to renewal and expansion, like those are the three levers if you will.
-
-**Marcel Santilli:** Right in, in a system when you're trying to achieve more.
-
-**Marcel Santilli:** And so that's my spiel and so we can jump in and thanks for putting the notes.
-
-**Marcel Santilli:** I try to put some, some comments there but let me try to pull it up.
-
-**Marcel Santilli:** Perfect.
-
-**Bridget McGillivray:** Yeah, my only, my only intro thing I wanted to add was just like let's all be patient with each other and the data because it's not very clean right now and there's a lot that needs to be built on the, like on the data infrastructure side.
-
-**Bridget McGillivray:** So let's just use these meetings, the first few to collect what you want to see and like everybody what you need to see and, and we can talk about how the best way to measure it and stuff.
-
-**Bridget McGillivray:** But there's for sure there's like a lot of gaps today and so just, we're just trying to make do with what we have.
-
-**Bridget McGillivray:** But it should at least like there's this basics are there.
-
-**Bridget McGillivray:** And Leah, thank you for like starting to build this all in the last few weeks.
-
-**Bridget McGillivray:** So anyways it'll only get better is my.
-
-**Marcel Santilli:** Yeah, I appreciate that.
-
-**Marcel Santilli:** And like, and like other companies, like I really value this.
-
-**Marcel Santilli:** It's so like we have four or five EAs in this company and so there should be like zero excuses of like manual work, like Leah, don't kill yourself or like you know, if Tyler's not filling in something like I will personally call him and say I need you to go do this if I personally have to like pull an all nighter and just clean up data.
-
-**Marcel Santilli:** But, but it's like flying blind is not an option.
-
-**Marcel Santilli:** So you just tell us what we need and you just escalate as hard and as aggressively as humanly possible.
-
-**Marcel Santilli:** Because if someone is not putting the right information in a HubSpot that needs to be there, then we're just flying blind and we don't know anything.
-
-**Marcel Santilli:** Right.
+**Marcel Santilli:** I appreciate that. We have four or five EAs in this company, so there should be zero excuses for manual work. Leah, don't kill yourself—if someone isn't putting the right information in HubSpot, I will personally call them. Flying blind is not an option. Tell us what you need and escalate as hard as humanly possible. If someone isn't filling in HubSpot correctly, then we don't know anything.
 
 **Marcel Santilli:** And so right now the biggest question mark coming into this meeting for me and the Kingdom pin is just like it's really unclear to me if we have a true really effed up systemic decrease in pipeline or not.
 

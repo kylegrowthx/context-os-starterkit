@@ -138,44 +138,22 @@ See [README.md](README.md) for project overview and navigation.
 
 > [README](knowledge/README.md) | [INDEX](knowledge/INDEX.md)
 
-### knowledge/content/ -- Writing & Content Creation
+45 study guides and reference files across 10 active directories. See [knowledge/INDEX.md](knowledge/INDEX.md) for complete listing. Key directories:
 
-| File | Path |
-|---|---|
-| Elements of Style | [knowledge/content/elements-of-style-study-guide-v1.md](knowledge/content/elements-of-style-study-guide-v1.md) |
-| Writing Craft | [knowledge/content/writing-craft-study-guide-v1.md](knowledge/content/writing-craft-study-guide-v1.md) |
-| LinkedIn Engagement | [knowledge/content/linkedin-engagement-study-guide-v1.md](knowledge/content/linkedin-engagement-study-guide-v1.md) |
-| LinkedIn Hooks | [knowledge/content/linkedin-hooks-study-guide-v1.md](knowledge/content/linkedin-hooks-study-guide-v1.md) |
+| Directory | Files | Topics |
+|---|---|---|
+| [seo-aeo/](knowledge/seo-aeo/) | 19 | SEO + AEO — ranking factors, AI visibility, prompt taxonomy, brand measurement |
+| [ai/](knowledge/ai/) | 5 | AI product leadership, context engineering, voice agents, prompting |
+| [building/](knowledge/building/) | 4 | Leadership, company building, scaling, recruiting |
+| [productivity/](knowledge/productivity/) | 4 | CEO effectiveness, email, scheduling, EA operations |
+| [writing/](knowledge/writing/) | 2 | Craft, style, communication fundamentals |
+| [social/](knowledge/social/) | 2 | LinkedIn engagement, hooks, distribution |
+| [revenue/](knowledge/revenue/) | 2 | SaaS metrics, retention, HubSpot |
+| [content/](knowledge/content/) | 2 | LLM writing mastery |
+| [growthx/](knowledge/growthx/) | 1 | CheckThat DB query reference |
+| [people-company/](knowledge/people-company/) | 1 | Company study guides |
 
-### knowledge/building/ -- Company Operations & Leadership
-
-| File | Path |
-|---|---|
-| CEO User Manual | [knowledge/building/ceo-user-manual-study-guide-v1.md](knowledge/building/ceo-user-manual-study-guide-v1.md) |
-| Company Handbook | [knowledge/building/company-handbook-study-guide-v1.md](knowledge/building/company-handbook-study-guide-v1.md) |
-| Operators Handbook | [knowledge/building/operators-handbook-scaling-startups-v1.md](knowledge/building/operators-handbook-scaling-startups-v1.md) |
-| MRR/Churn/Retention | [knowledge/building/max-mrr-churn-retention-study-guide-v1.md](knowledge/building/max-mrr-churn-retention-study-guide-v1.md) |
-
-### knowledge/product/ -- AI & Product Development
-
-| File | Path |
-|---|---|
-| AI Product Leadership | [knowledge/product/ai-product-leadership-study-guide-v1.md](knowledge/product/ai-product-leadership-study-guide-v1.md) |
-| Context Engineering | [knowledge/product/context-engineering-study-guide-v1.md](knowledge/product/context-engineering-study-guide-v1.md) |
-
-### knowledge/aeo/ -- AEO & AI Visibility Hub
-
-> [README](knowledge/aeo/README.md)
-
-| File | Path |
-|---|---|
-| Buyer Evaluation Playbook | [knowledge/aeo/guides/buyer-evaluation-prompt-playbook.md](knowledge/aeo/guides/buyer-evaluation-prompt-playbook.md) |
-| Prompt Writing Methodology | [knowledge/aeo/guides/prompt-writing-methodology.md](knowledge/aeo/guides/prompt-writing-methodology.md) |
-| Buyer Eval Study Guide | [knowledge/aeo/guides/buyer-evaluation-prompts-study-guide.md](knowledge/aeo/guides/buyer-evaluation-prompts-study-guide.md) |
-| Metrics Deep Research (103 sources) | [knowledge/aeo/research/metrics-deep-research.md](knowledge/aeo/research/metrics-deep-research.md) |
-| Prompt Methodology & Patterns (1,190 lines) | [knowledge/aeo/research/prompt-methodology-and-pattern-library.md](knowledge/aeo/research/prompt-methodology-and-pattern-library.md) |
-| Prompt Writing Research Notes | [knowledge/aeo/research/prompt-writing-research-notes.md](knowledge/aeo/research/prompt-writing-research-notes.md) |
-| Buyer Eval Research Notes | [knowledge/aeo/research/buyer-evaluation-research-notes.md](knowledge/aeo/research/buyer-evaluation-research-notes.md) |
+Loose file at root: [hubspot-crm-system-guide-v1.md](knowledge/hubspot-crm-system-guide-v1.md)
 
 ---
 
@@ -261,21 +239,50 @@ Active research in progress. See INDEX for complete listing.
 
 ## records/ -- Historical Archives (Search Only)
 
-Search these directories -- never bulk-load them.
+> [README](records/README.md)
+
+Search these directories — never bulk-load them. 3,200+ files total.
+
+### records/meetings/ -- Structured Meeting Data
+
+> [README](records/meetings/README.md) | [INDEX](records/meetings/INDEX.md)
+
+~1,944 files organized by YYYY-MM folder (April 2024 – Feb 2026). Each meeting has date-prefixed subdirectory.
 
 ### records/customers/ -- Client Documentation
 
 > [README](records/customers/README.md) | [INDEX](records/customers/INDEX.md)
 
-| Client | Context | Transcripts |
-|---|---|---|
-| Lovable | [lovable/lovable-client-context-v1.md](records/customers/lovable/lovable-client-context-v1.md) | 49 transcripts (Oct 2025 -- Feb 2026) |
+~420 files across `active/` and `churned/` subdirectories. Navigate to `records/customers/active/[client]/` or `churned/[client]/`.
+
+### records/contacts/ -- Personal CRM
+
+> [README](records/contacts/README.md) | [INDEX](records/contacts/INDEX.md)
+
+~244 external contact dossiers (`firstname-lastname-v1.md`). Plus `employees/` subdirectory with 61 team member dossiers organized by department.
 
 ### records/transcripts/ -- Meeting Transcripts
 
 > [README](records/transcripts/README.md) | [INDEX](records/transcripts/INDEX.md)
 
-55+ meeting transcripts (2025-2026) plus 2 video transcripts. See INDEX for complete listing.
+~186 enriched meeting transcripts (2025–2026) plus video transcripts. See INDEX for complete listing.
+
+### records/prospects/ -- Past Prospect Research
+
+> [README](records/prospects/README.md) | [INDEX](records/prospects/INDEX.md)
+
+~24 files across 5 prospect/churned companies (Eon, GetAccept, Pluralsight, Simple Life, Spendesk). Deal room materials, competitive research, deliverables.
+
+---
+
+## projects/ -- Project-Specific Working Data
+
+Project-specific data and outputs. Search only — never bulk-load.
+
+| Directory | Contents |
+|---|---|
+| [fathom-backup/](projects/fathom-backup/) | Fathom API meeting backup (JSON dumps, April 2024 – Feb 2026) |
+| [acespremortho/](projects/acespremortho/) | Scraped website content for client research |
 
 ---
 

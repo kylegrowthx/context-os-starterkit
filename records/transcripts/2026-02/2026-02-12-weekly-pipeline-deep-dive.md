@@ -4,24 +4,35 @@
 date: 2026-02-12
 time: 19:00 UTC
 duration: 37 minutes
-organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Nigel Hammett, Tyler Pavlas
+organizer: Nigel Hammett (CEO)
+source: fireflies
 fireflies_id: 01KH4W8VDGCAPH2F8MP6DPCN4X
 meeting_link: https://growthx-ai.zoom.us/j/82700108975
 transcript_url: https://app.fireflies.ai/view/01KH4W8VDGCAPH2F8MP6DPCN4X
+participants:
+  - name: Nigel Hammett
+    company: GrowthX
+    role: CEO
+  - name: Tyler Pavlas
+    company: GrowthX
+    role: Sales Lead
+  - name: Marcel Santilli
+    company: GrowthX
+    role: General Counsel
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel, Nigel, and Tyler reviewed the sales pipeline with Nigel newly involved in deal oversight. Vercel is the most urgent close — red lines due back same day, signature expected the next day. Knox targets March 2. Four deals are ICP-fit and closeable within 1-2 weeks. Key decisions: pursue all deals actively until 4+ weeks booked out, add a software line item (URL-referenced terms) to every contract, and use the upcoming OS demo as a sales accelerant starting next week.
+Nigel, Tyler, and Marcel prioritized four ICP-fit deals closeable within 1-2 weeks (Vercel, Knox, Binti, Nerdio) and committed to aggressive pursuit of all pipeline opportunities through 4+ weeks booked out. Urgent actions: return Vercel red lines same-day to enable Feb 13 signature; finalize software line item language (URL-referenced T&Cs) to unblock contract sends; maintain momentum on secondary deals (Run Layer, pending DM meeting) without ghosting. OS demo available in 2 weeks will materially strengthen sales conversations starting mid-March.
 
 ---
 
 ## Context
 
-This is a recurring pipeline review with Marcel, Nigel (CEO), and Tyler (sales). Nigel is newly ramp-up on deal oversight and using this session to get visibility on the full pipeline ordered by closeness to signing. The meeting happened during an active sales sprint with several deals in final contract stages and a target of 2 signings per week.
+Weekly pipeline deep dive between Nigel (CEO), Tyler (Sales Lead), and Marcel (General Counsel) during an active sprint toward 2 signings/week. Nigel is building visibility across contract negotiation and legal bottlenecks while the team executes final-stage closes on four ICP-aligned deals. Marcel's role here is to unblock contract language issues (indemnity, limitation of liability, software line items) without slowing deals. Timing is critical: current bookings span only 1 week; target is 4+ weeks booked out by week's end.
 
 ---
 
@@ -40,6 +51,34 @@ This is a recurring pipeline review with Marcel, Nigel (CEO), and Tyler (sales).
 - OS demo will be ready within ~2 weeks and will significantly strengthen sales conversations.
 - CheckThat will be used as a proof point in sales: most-cited content type is now editorial blogs.
 - Software line item (referencing T&Cs via URL) being added to all contracts — Bridget and Marcel aligned on this approach.
+
+---
+
+## Decisions & Commitments
+
+**Contract Strategy**
+- Marcel will provide written red-line feedback on all contracts within 24 hours, with rationale and suggested language.
+- All contracts will include software line item referencing T&Cs via URL (agreed between Marcel and Bridget).
+- Legal review acceptable risk: avoid unreasonable indemnities (10x, 20x, unlimited), but proceed with single-round contracts to avoid bottleneck.
+
+**Sales Execution**
+- Tyler commits to full-court press on all four primary deals: Vercel (same-day red lines), Knox (by early next week), Binti (March 2), Nerdio (pending software line item language).
+- Tyler will actively engage secondary deals without ghosting: Run Layer (move to close or formal pass), pending DM meeting (Wednesday).
+- All deals will be pursued until 4+ weeks booked; can always sandbag later if needed.
+
+**Pricing & Termination Strategy**
+- Lead with ARR-driven framing: "discount, no opt out" or "opt out, no discount."
+- Don't lead with opt-out language; push back on termination for convenience for contracts >$18K.
+- Use upcoming OS demo as sales accelerant starting mid-March.
+
+---
+
+## Open Questions
+
+- Will Josh (legal review) have red lines completed on Knox by early next week as committed?
+- Does Coralogix move to commercial yes after Nigel's in-person meeting (Feb 13)?
+- Will Nerdio confirm final pricing/terms alignment before contract send?
+- Can we scale to 3 signings/week once booked 4+ weeks out?
 
 ---
 
@@ -86,90 +125,32 @@ Nigel flagged new data from a Profound researcher: editorial blog content is now
 
 ## Action Items
 
-**Tyler Pavlas**
-- Return red lines to Vercel today to enable signing tomorrow
+**Tyler Pavlas (GrowthX Sales Lead)**
+- Return Vercel red lines today to enable signature Feb 13
 - Send Binti contract after SOW review call
-- Follow up with Run Layer — don't ghost, move it toward close or formal pass
-- Engage all remaining deals and bring to closure
-- Add software line item referencing URL T&Cs to all contracts after aligning with Bridget and Marcel
+- Move Run Layer actively toward close or formal pass — don't ghost
+- Engage all remaining pipeline deals; pursue until 4+ weeks booked
+- Add software line item (URL-referenced T&Cs) to all outgoing contracts once legal language finalized
 
-**Marcel Santilli**
-- Provide written red-line feedback on indemnity and limitation of liability language
-- Collaborate with Bridget and Tyler to finalize software line item language
+**Marcel Santilli (GrowthX General Counsel)**
+- Provide written red-line feedback on indemnity and limitation of liability language with rationale for each suggestion
+- Finalize one-line software line item language (URL reference) with Bridget for immediate use
 
-**Nigel Hammett**
-- Lead Coralogix meeting in person tomorrow to advance commercial commitment
-- Coordinate with Andrea and Josh on contract review to avoid bottlenecks
+**Nigel Hammett (GrowthX CEO)**
+- Lead in-person Coralogix meeting (Feb 13) to advance to commercial commitment
+- Meet with DM representative on Feb 19 to unblock procurement
 
 ---
 
 ## Transcript
 
-**Nigel Hammett:** Oh, earlier, man.
-
-**Tyler Pavlas:** Spending lots of time together. I love it. How do you feel about that HubSpot call?
-
-**Nigel Hammett:** Like, it went well. We definitely had a solid relationship. They felt pretty strongly about our brand and we had the examples. And I like how they already had a lot of content made, so it's like easier to potentially kind of like recreate versus coming from scratch.
-
-**Tyler Pavlas:** Yeah, the place where I have less context is like the how for executing something like that. I know how we would do it conceptually. Like someone would fine tune one of our pipelines to that use case. We would collect the existing resources that they have and examples as the context. But I don't know how to confidently say that we can or can't execute well on exactly what they shared.
-
-**Nigel Hammett:** You know, the current version looks pretty good. So is it more of like from the results standpoint, they're not getting enough views or do they want more of it? But it looked good from a quick eye test.
-
-**Tyler Pavlas:** Yeah, I wish I would have doubled down on that. Like, why do you feel like these pages need to be refreshed? What's missing in terms of performance.
-
-**Nigel Hammett:** That's a good point for sure.
-
-**Tyler Pavlas:** Hey, Marcel.
-
-**Nigel Hammett:** Hold on. We gotta switch speaker. About to jump in the car. Can you guys hear me? Yes. What's going on?
-
-**Tyler Pavlas:** Nothing much. Had that call with HubSpot today. They are interested in two refresh use cases, one net new where we would build out their templates library for workflows. So I got a bunch of context to fill you in on for the meetings next week where we can get more tactical on what we actually want to do.
-
-**Nigel Hammett:** Thanks, that is perfect. Sorry, I'm just jumping in.
-
-**Tyler Pavlas:** No, you're fine. And I can screen share the pipeline and I can take you through like week by week. Whatever's easiest.
-
-**Nigel Hammett:** Hold on.
-
-**Tyler Pavlas:** Nigel, you seen the Wire?
-
-**Nigel Hammett:** Of course.
-
-**Tyler Pavlas:** Okay. Of course, every person from Baltimore gets asked that question very quickly after someone finds out they're from Baltimore.
-
-**Nigel Hammett:** But a lot of people from here, especially younger, maybe haven't watched it. My dad had the tapes and some of my friends growing up were paid as extras. Some random scene.
-
-**Tyler Pavlas:** Which group were they playing extras for?
-
-**Nigel Hammett:** I think it was in one of the later seasons. It was like something — I have to find it. I have a very close friend of mine, he literally was in there. He showed me a picture. I didn't know that, you know, because it came up randomly.
-
-**Tyler Pavlas:** Dang, legend status if you're from Baltimore in the Wire.
-
-**Nigel Hammett:** Yeah. I did get a chance to meet the guy who played Omar before he passed, though.
-
-**Tyler Pavlas:** Man, seems like such a cool guy. He's probably my favorite character, honestly. And then Stringer Bell.
-
-**Nigel Hammett:** Oh, yeah, Idris. Now he's big time.
-
-**Tyler Pavlas:** You know Michael B. Jordan's in that, right?
-
-**Nigel Hammett:** Oh, yeah. It's crazy to think about. A lot of folks did well afterwards.
-
-**Nigel Hammett:** Can you guys hear me? Okay, good. Sorry, my car was acting up. I'm driving. Won't look at the screen unless you want me to crash. But maybe one thing that would be helpful is to go through the list of opportunities from closest to closing, and just super fast, we can go one by one. But starting on the order of closest to closing and then we work our way backwards.
-
-**Tyler Pavlas:** That's perfect. I'll share my screen just for Nigel to see.
-
 **Nigel Hammett:** Before we do that, how far are we booked currently? Like, signed?
 
-**Tyler Pavlas:** Right now we have one signed for the 23rd, and Vercel is going to sign tomorrow as long as we return red lines today. And legal is aware. And then Knox has given red lines. They want to sign ASAP. Josh said he'd get it back tomorrow, but there are quite a few red lines, so probably finished early next week. And Binti.
+**Tyler Pavlas:** Right now we have one signed for the 23rd, and Vercel is going to sign tomorrow as long as we return red lines today. Legal is aware. And then Knox has given red lines. They want to sign ASAP. Josh said he'd get it back tomorrow, but there are quite a few red lines, so probably finished early next week.
 
-**Nigel Hammett:** Can we use Andrea for that? She's on the car by the way. Say hi.
+**Nigel Hammett:** Can we use additional support for that?
 
-**Marcel Santilli:** Hey. Hi.
-
-**Tyler Pavlas:** Hey, what's up, Andrea? Definitely down to use Andrea. She's got the Vercel contract in hand right now. Bridget mentioned some calibration around the amount of redlining we do here versus Google — it's a lot less. And Josh has a pretty efficient way of taking us through it.
-
-**Marcel Santilli:** No, I know. I'm from that contract. You want me to make a comment on that? I have comments on the indemnity and the LOL section only because the language is very unusual. It's like everything is mixed up — you're capping something and then you're opening the door for that cap without even noticing it. But I'll put this in writing when I get to the office. I will always give feedback, and I will also suggest a red line so they see concretely what I refer to.
+**Marcel Santilli:** I know the Vercel contract. You want me to comment on that? I have comments on the indemnity and the LOL section only because the language is very unusual. It's like everything is mixed up — you're capping something and then you're opening the door for that cap without even noticing it. But I'll put this in writing when I get to the office. I will always give feedback, and I will also suggest a red line so they see concretely what I refer to.
 
 **Nigel Hammett:** Yeah, that's perfect. And I just don't want legal to be a bottleneck. We're two weeks out. If Josh's availability is the bottleneck, we shouldn't turn around something slowly. But these things are pretty simple. I am okay with a decent level of risk here as a CEO. What we're trying to avoid is unreasonable indemnities — 10x, 20x, unlimited — no. And the ideal case here is that everything is in our paper very soon to accelerate everything.
 
@@ -177,7 +158,7 @@ Nigel flagged new data from a Profound researcher: editorial blog content is now
 
 **Nigel Hammett:** Yeah. And ideally it's one round. Right. So one round and if that's the reason it's not going to move forward, then that's fine. But right now the bottleneck is not even Josh not having time to review.
 
-**Tyler Pavlas:** Josh has been pretty quick. I think the issue is probably that the language in the template we use isn't optimized. With Vercel especially, I wouldn't say there's anything unreasonable. It's just the way it's written. Andrea, what's most helpful is: here's the red line we should return to the customer and here's why.
+**Tyler Pavlas:** Josh has been pretty quick. I think the issue is probably that the language in the template we use isn't optimized. With Vercel especially, I wouldn't say there's anything unreasonable. It's just the way it's written. What's most helpful is: here's the red line we should return to the customer and here's why.
 
 **Marcel Santilli:** Yeah, well, that's what I did on the few I was shared. I will always attach a rationale.
 
@@ -217,7 +198,7 @@ Nigel flagged new data from a Profound researcher: editorial blog content is now
 
 **Tyler Pavlas:** I hear you. It just gets hard to keep the priority logos when we're far booked out. I'm not worried about us hitting two a week. I'm worried about us rushing to get two a week several weeks out and then companies we really want to work with choose a competitor because we can't move as fast.
 
-**Nigel Hammett:** Well, let's cross that bridge. Let's fill it up too. And then we can always do a third one, which is what we're planning on doing. Like, we're over-correcting here. And it's the opposite effect when they're like "I gotta find a spot here." Companies never move as fast as they say they want to. Vercel wants to move fast — and even then it's still like four weeks. You can always find a spot in four weeks.
+**Nigel Hammett:** Well, let's cross that bridge. Let's fill it up too. And then we can always do a third one, which is what we're planning on doing. Like, we're over-correcting here. Companies never move as fast as they say they want to. Vercel wants to move fast — and even then it's still like four weeks. You can always find a spot in four weeks.
 
 **Tyler Pavlas:** Okay, I hear you. The DM wants to meet with you before they sign. I've got the meeting on the books for next Wednesday. I can move it up if you want.
 
@@ -229,11 +210,11 @@ Nigel flagged new data from a Profound researcher: editorial blog content is now
 
 **Tyler Pavlas:** The contract's in their procurement team's queue. My contact's on vacation but he got it into legal's queue before he left.
 
-**Nigel Hammett:** Okay, then we're good. It's okay for it to be Wednesday. Good to say "Marcel would be really excited to meet with you, let's kick off procurement — you wouldn't want to have to kick off at the end of April in case procurement takes a bit longer."
+**Nigel Hammett:** Okay, then we're good. It's okay for it to be Wednesday. Good to say they shouldn't kick off at the end of April in case procurement takes longer.
 
 **Tyler Pavlas:** Perfect. And then after that there's some deals I could pursue. Atria — the CEO went to the dinner, more interested in the programmatic use case with AI platform for creating advertisements.
 
-**Nigel Hammett:** By the way, Tyler — there's this guy, I forgot to send it to you, but he does a lot of research for Profound. He posted something today — the most cited content now in their data set is blogs. It has passed every other kind of content. So use that as your talk track. You can do programmatic as a blog. It's about the volume, how you approach the content, how you organize it. The format that works best is editorial. High quality editorial.
+**Nigel Hammett:** By the way, Tyler — there's this guy I forgot to send it to you, but he does a lot of research for Profound. He posted something today — the most cited content now in their data set is blogs. It has passed every other kind of content. So use that as your talk track. You can do programmatic as a blog. It's about the volume, how you approach the content, how you organize it. The format that works best is editorial. High quality editorial.
 
 **Tyler Pavlas:** Okay, nice. I can definitely double down on that in my talk tracks.
 
@@ -253,7 +234,7 @@ Nigel flagged new data from a Profound researcher: editorial blog content is now
 
 **Tyler Pavlas:** The thing I'm waiting on — I know Bridget's actively working on this — we have no legal language in the software line item. So when we include it, there's nothing connected to it. She wanted me to hold off until she finished this week, but I have to send out contracts.
 
-**Marcel Santilli:** Do we have a click-through? Do we have the legal language for that in a URL?
+**Marcel Santilli:** Do we have the legal language for that in a URL?
 
 **Nigel Hammett:** Yeah, we have the terms and conditions. And if you think it's okay, we can reference the URL. You can incorporate URL terms by referencing a contract.
 

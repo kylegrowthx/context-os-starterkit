@@ -4,268 +4,147 @@
 date: 2026-02-23
 time: 19:00 UTC
 duration: 32 minutes
-organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Tyler Pavlas, Veronica Ortiz, Katie McCoole, Brian Mullen, Ishaan Bhardwaj, Emma Mock
+organizer: Marcel Santilli (GrowthX)
+participants:
+  - Marcel Santilli (GrowthX, CEO)
+  - Tyler Pavlas (GrowthX, VP of Sales/Delivery)
+  - Brian Mullen (Coralogix, VP Product Marketing)
+  - Ishaan Bhardwaj (Coralogix, Product Marketing)
+  - Katie McCoole (Coralogix, Product Marketing)
+  - Veronica Ortiz (Coralogix, attendee)
+  - Emma Mock (Coralogix, attendee)
+source: fireflies
 fireflies_id: 01KJ0WE5MZXVB0K4MPFQN11ZS5
 transcript_url: https://app.fireflies.ai/view/01KJ0WE5MZXVB0K4MPFQN11ZS5
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel and Tyler walked the Coralogix team through GrowthX's AI content workflows, showing how multi-step pipelines with fact-checking agents and human editors produce high-quality content at scale. The Coralogix team asked about brand voice calibration, content ownership, and how to manage their 1,100+ page portfolio. Brian committed to finalizing an internal collaboration plan within the week.
+Marcel and Tyler presented GrowthX's AI-driven content architecture to Coralogix's product marketing and DevRel teams, demonstrating how multi-step agentic workflows with fact-checking agents and full-time editors produce high-signal, fresh content at scale. Key outcomes: Coralogix acknowledged the Augment Code case study (1,400 weekly clicks from guides launched in June), identified 1,100+ pages needing systematic refresh with focus on comparison pages vs. Datadog/Splunk, and agreed to increase technical depth and personality in content. Brian committed to finalizing an internal collaboration plan and scheduling a follow-up for Friday or Monday.
 
 ---
 
 ## Context
 
-This was an introductory Q&A for the broader Coralogix team — product marketing, DevRel, and leadership — to understand how GrowthX operates before kicking off the engagement. Brian Mullen had been socializing the partnership internally and brought his team to hear directly from Marcel and Tyler about the AI-driven content workflows, quality assurance processes, and collaboration model.
+Coralogix is an observability platform competing against Datadog, Splunk, and others in the log analytics and APM space. This engagement represents a shift in their content strategy: moving from product announcements to systematic creation of guides, comparisons, and technical content across 1,100+ published pages. Brian Mullen (VP Product Marketing) had been socializing the GrowthX partnership internally and called this meeting to align his product marketing team, DevRel team, and leadership on how GrowthX's workflows operate, who owns what content, and how to manage the portfolio refresh. Coralogix wants to increase technical depth and authentic voice in their content rather than corporate polish, positioning their DevRel engineers as content creators alongside product marketing.
 
 ---
 
 ## Relevance
 
 **To Sales & Partnership Development:**
+- Multi-stakeholder alignment achieved across product marketing, DevRel, and leadership at Coralogix
 - Coralogix team is bought in and moving to internal planning phase
-- Brian scheduling follow-up for Friday/Monday to finalize collaboration details
-- Multi-stakeholder buy-in achieved across product marketing, DevRel, and leadership
+- Brian scheduling follow-up with Tyler for Friday or Monday to finalize collaboration details and timing
+- Strong positioning opportunity: demonstrated how GrowthX can manage 1,100+ page portfolio refresh at scale
 
 **To Delivery & Content Strategy:**
-- 1,100+ existing pages need systematic refresh — major content portfolio challenge
-- Comparison pages (vs. Datadog, Splunk) are outdated and losing ranking
-- Coralogix wants more technical depth and personality from DevRel, less corporate polish
-- Content freshness and authoritative citations identified as top ranking signals post-LLM
+- 1,100+ existing pages need systematic refresh — major portfolio challenge and upside opportunity
+- Comparison pages (vs. Datadog, Splunk) are 2-3 years outdated and losing ranking signals
+- Content freshness and authoritative citations identified as top ranking signals post-LLM era (from GrowthX's 200-signal study)
+- Coralogix wants more technical depth and authentic personality from DevRel, less corporate polish — this shifts content creation from purely product marketing to engineer-led guides
+- Augment Code case study validates strategy: guides and tools sections out-performing blog section by 3-4x (1,400 weekly clicks since June launch)
 
 **To GrowthX Capabilities & Positioning:**
-- AI workflow demo landed well — multi-step pipelines, fact-checking agents, human editors
-- Augment Code case study presented: weekly clicks 3-4x higher than entire blog section since June
-- 200-signal ranking analysis shared as proprietary insight
-- Full-stack team positioning (30 editors, AI engineers, strategists) resonated
+- Multi-step agentic workflows (up to 9+ pipelines per piece) demonstrated technical depth and reliability
+- Fact-checking agent architecture shows how AI handles verification and enrichment systematically
+- Full-stack team positioning (30 full-time editors, AI engineers, strategists, Chief Content Officer from TechCrunch) resonated and differentiated from self-serve tools
+- CheckThat AEO platform used to extract ranking signals and validate content strategy — positions GrowthX as data-driven
+- Proprietary insights on content freshness and authority signals shared as point of differentiation
+
+---
+
+## Decisions & Commitments
+
+**Brian Mullen (Coralogix):**
+- Will finalize internal collaboration plan by Friday or Monday following team discussions Wednesday and Thursday
+- Will schedule a check-in with Tyler Pavlas to confirm timing for engagement kickoff (estimated 1-3 weeks out)
+- Will coordinate with product marketing and DevRel teams to clarify content ownership and calibration responsibilities
+
+**Tyler Pavlas (GrowthX):**
+- Will make calendar available for Coralogix team to book 1:1 sessions for deeper technical dives and ongoing calibration
+- Will handle strategy, opportunity mapping, and execution; will own fact-checking and QA workflows
+- Will ensure Coralogix controls artifact calibration (brand voice, messaging, product context) and review gates for sensitive content
+
+**Marcel Santilli (GrowthX):**
+- Will continue handling AI-driven content workflows and quality assurance in collaboration with Coralogix
+- Will operate fact-checking and enrichment pipelines systematically
+- Will build in review checkpoints for high-risk content (product-specific recommendations) and auto-publish for lower-risk content (glossary, definitions)
+
+---
+
+## Open Questions
+
+- What is the exact timing for engagement kickoff and content production ramp? (Expected to be clarified Friday/Monday)
+- Which content types will require mandatory SME review vs. auto-publish? (To be architected during kickoff call)
+- How will Coralogix handle the DevRel team onboarding and content calibration? (Brian mentioned wanting to increase DevRel involvement; unclear how much capacity exists)
+- What is the priority order for refreshing the 1,100 pages? (Comparison pages flagged but full prioritization matrix to be built)
+- How will Coralogix measure content performance and ROI? (Likely via organic search and AI engine rankings, similar to Augment Code model)
 
 ---
 
 ## Overview
 
-- **AI-Driven Content Workflows Enhance Quality:** GrowthX employs multi-step AI processes and human review for precision in content creation.
-- **Integration of Client Brand Enhances Consistency:** Client materials calibrate AI content, ensuring brand voice alignment and accelerating creation.
-- **Collaborative Model Balances Expertise:** GrowthX handles strategy while clients review content, ensuring high standards through shared responsibilities.
-- **Continuous Content Updates Drive Traffic:** Refreshing content and diversifying formats lead to increased engagement and higher rankings, as seen with Augment Code.
-- **Focus on Freshness and Authority for SEO:** Recent analysis shows ranking factors have shifted toward content freshness and authoritative citations in AI evaluations.
-- **Ongoing Partnership to Optimize Content:** GrowthX aims to systematically update over 1,100 pages, minimizing client effort and maximizing SEO impact.
+- **Agentic AI Workflows, Not One-Shot Prompts:** GrowthX's multi-step pipelines (up to 9+ stages per piece) with fact-checking agents, human editors, and systematic enrichment produce reliable, citable content at scale—far beyond self-serve tools.
+- **Brand Voice Calibration Accelerates Execution:** Client-provided artifacts and materials (brand guidelines, example articles, messaging docs) feed AI context engineering, allowing GrowthX to mirror tone and style without iteration waste.
+- **Collaborative Ownership Model Scales:** GrowthX owns strategy and execution; clients own artifact calibration and review gates. Coralogix stays nimble while GrowthX manages systematic updates to 1,100+ pages.
+- **Content Freshness & Authority Now Matter Most:** Post-LLM ranking shift favors frequently refreshed content with authoritative citations over polish. GrowthX's data (200-signal study) supports this; Coralogix's outdated comparison pages are immediate refresh candidates.
+- **Guides & Tools Outperform Blog at 3-4x Volume:** Augment Code case study shows diversifying beyond product announcements (guides, tools, comparisons) drives 1,400+ weekly clicks—validating a systematic content diversification strategy for Coralogix.
+- **Technical Depth & Authentic Voice Wins:** Coralogix plans to increase DevRel involvement, bringing engineer personality and technical nuance to content rather than corporate polish—aligned with how AI engines and human evaluators assess expertise.
 
 ---
 
 ## Key Topics
 
 ### AI Content Workflows and Quality at Scale
-Marcel walked through GrowthX's multi-step AI pipelines — up to nine processes plus human review per piece. These workflows handle tens of millions of tokens per project, going far beyond simple one-off AI prompts. The fact-checking agent breaks articles into chunks, verifies each with research, and revises inconsistencies. Editors finalize and polish, raising the quality bar before publication.
+Marcel explained GrowthX's architecture: multi-step agentic pipelines (up to 9+ stages per piece) plus human review, handling tens of millions of tokens per project. These differ fundamentally from one-shot ChatGPT prompts. The fact-checking agent (core example shown) breaks articles into chunks, verifies each passage against research, rewrites inconsistencies, and feeds results to human editors who finalize and polish before publication. Each workflow is deterministic, logged, and rerunnable—allowing GrowthX to scale while maintaining quality. Typical self-serve tools at $50-200/month produce "slop"; GrowthX's approach is designed for reliable, citable content.
 
-### Brand Voice Calibration
-Ishaan asked how GrowthX integrates existing brand content. Tyler confirmed they use client-provided articles and materials during kickoff to calibrate AI-generated tone and style. This gives the AI real examples to mirror, maintaining voice consistency across all outputs.
+### Brand Voice Calibration Through Artifacts
+Ishaan asked how existing Coralogix articles (thought pieces, blog posts) could be aligned to brand voice. Tyler clarified that client-provided materials serve as "artifacts"—context documents that feed AI engineering during kickoff. These real examples help the model mirror tone, style, and messaging nuance faster than trial-and-error. Version 15 of Coralogix's artifacts shows ongoing refinement as the company evolves messaging and products; those artifacts flow into every new piece created.
 
 ### Content Ownership and Collaboration Model
-Product marketing (Katie, Ishaan) owns most blog and guide content at Coralogix, with joint responsibility on comparison pages. GrowthX acts as an extension of the client team — handling strategy, creation, and quality control while Coralogix calibrates and reviews. Brian wants to increase technical depth by bringing DevRel into the mix for more personality and nuance.
+Coralogix's current state: Product marketing (Ishaan, Katie) owns most blog and guide content; DevRel also publishes; comparison pages (Datadog, Splunk) are jointly owned by Ishaan and Katie. GrowthX's model: handle strategy, opportunity mapping, creation, and QA; Coralogix calibrates artifacts, reviews drafts for quality gates, and owns final sign-off on high-risk content (product recommendations). Low-risk content (glossary, definitions) can auto-publish post-QA. Brian plans to increase DevRel capacity for more technical, personality-driven content rather than purely corporate polish.
 
-### Augment Code Case Study
-Marcel presented Augment Code as a reference: since starting in June, their weekly clicks reached ~1,400 — 3-4x higher than the entire blog section. GrowthX shifted from product announcement blogs to detailed guides and tools, targeting clusters like AI code review. Continuous publishing, refreshing, and enrichment (infographics, screenshots) kept content competitive.
+### Augment Code Case Study: 1,400 Weekly Clicks from Guides
+Marcel presented Augment Code (AI coding assistant, launched June 2025) as a reference client. Their homepage had nearly 100% branded search traffic; GrowthX shifted strategy from product announcement blogs to guides, comparisons, and tools. Result: By early 2026, guides section alone hits ~1,400 weekly clicks—3-4x the entire blog section's traffic. Key drivers: AI Code Review comparison content ranks high; MCP Catalog and tools sections are steady performers. Strategy: publish, refresh, and test new clusters daily. Even in highly competitive space (vs. Cursor), systematic updates maintain traction.
 
-### SEO Ranking Signals Post-LLM
-Marcel shared insights from GrowthX's analysis of 200+ signals across multiple buying categories. The biggest shift: content freshness and authoritative citations now outweigh polish or tone. AI engines evaluate how often content is refreshed and cited by trusted sources. Coralogix's outdated comparison pages were flagged as a priority for refresh.
+### SEO Ranking Signals Post-LLM: Freshness & Authority Trump Polish
+Marcel shared proprietary data from GrowthX's 200-signal analysis across multiple buying categories (AEO research via CheckThat platform). Pre-LLM, rankings rewarded polish and tone; post-LLM, two signals dominate: content freshness (how often updated) and authority (citations, expert signals). Coralogix's comparison pages (2-3 years old, no fresh citations) are losing ranking opportunity. "Slop" detection now hinges on raw signals (freshness, cited sources, research depth) rather than vibe check. Implication: Coralogix needs systematic refresh cycle, not one-time rewrites.
+
+### Full-Stack Team & Scaling Execution
+Marcel outlined GrowthX's 30 full-time editors (led by Chief Content Officer from TechCrunch), AI engineers, strategists, designers, AEO specialists, and SEO expertise. Coralogix doesn't hire these roles; they get access pre-vetted. Brian acknowledged this unlocks scale: Coralogix can increase content volume and quality without hiring freelancers, agencies, or buying tools.
 
 ---
 
 ## Action Items
 
-**Brian Mullen**
-- Finalize internal team plan on collaboration and content strategy
-- Schedule a check-in with Tyler for Friday or Monday
+**Brian Mullen (Coralogix, VP Product Marketing)**
+- Finalize internal team collaboration plan and content ownership model (Wed/Thu team discussions, decision by Friday)
+- Schedule follow-up check-in with Tyler Pavlas (Friday or Monday) to confirm engagement timing
 
-**Tyler Pavlas**
-- Make calendar available for Coralogix team to book one-on-one sessions for deeper dives
+**Tyler Pavlas (GrowthX, VP Sales/Delivery)**
+- Make calendar available to Coralogix team for 1:1 sessions and deeper technical dives
+- Prepare for Friday/Monday kickoff confirmation call with Brian
 
-**Marcel Santilli**
-- Continue handling AI-driven content workflows, calibration with Coralogix team, and ongoing quality assurance
-
-**Coralogix Product Marketing and DevRel Teams**
-- Support content calibration and review GrowthX-created artifacts
-- Assist with updates to comparison pages and integrating brand voice in content
+**Coralogix Product Marketing & DevRel Teams**
+- Identify high-priority pages for refresh (comparison pages vs. Datadog/Splunk are candidates)
+- Begin preparing existing brand artifacts (articles, style guides, messaging docs) for GrowthX calibration
+- Clarify DevRel team involvement in content creation and review process
 
 ---
 
 ## Transcript
 
-**Marcel Santilli:** This meeting is being recorded.
+**Brian Mullen:** Hey team, let's get started. I think since we talked with Tyler a few days ago, our plan was to have some team meetings tomorrow and Wednesday to get into the details. This is the first time we've really been able to align as a full team on how to work with GrowthX. We're thinking kickoff would be maybe one to three weeks out, which works for us. I think we'll have something more concrete in a few days, but happy to talk through things at a high level today.
 
-**Tyler Pavlas:** Hey, Ishan.
+**Tyler Pavlas:** Yeah, that's perfect. I set this up as an opportunity for your team to ask Marcel and me any follow-up questions. We've covered most of our process, so there's no prepared content unless there's stuff you want to dig into. Otherwise we can keep this lean.
 
-**Tyler Pavlas:** Hey, Katie.
+**Marcel Santilli:** Works for me. Let's open it up to questions.
 
-**Ishaan Bhardwaj:** How's it going?
-
-**Tyler Pavlas:** Going great.
-
-**Tyler Pavlas:** Sorry for all these note takers.
-
-**Tyler Pavlas:** Marcel's the host, so I can't kick them out.
-
-**Tyler Pavlas:** I'll usually just have one because I don't like to be outnumbered by robots, but this is the world we're in.
-
-**Ishaan Bhardwaj:** I feel you.
-
-**Ishaan Bhardwaj:** We should just let the note take us, talk to each other.
-
-**Tyler Pavlas:** That'd be interesting.
-
-**Tyler Pavlas:** You always see these weird AI hallucinations that make you a little bit.
-
-**Tyler Pavlas:** A little bit too afraid about the future, but how's it going, Katie?
-
-**Tyler Pavlas:** I think you're on mute, by the way.
-
-**katiemccoole:** That I am.
-
-**katiemccoole:** I'm good.
-
-**katiemccoole:** How about yourself?
-
-**Tyler Pavlas:** Yeah, I'm great.
-
-**Tyler Pavlas:** I took Friday off for a trip to D.C. with my parents.
-
-**Tyler Pavlas:** I bought them the trip for Christmas and they have like, never traveled to many places in the country, so they had a blast.
-
-**katiemccoole:** Well, that's amazing.
-
-**katiemccoole:** How fun.
-
-**Tyler Pavlas:** How about you?
-
-**Tyler Pavlas:** How's your weekend?
-
-**katiemccoole:** Weekend was good.
-
-**katiemccoole:** Got some swimming in.
-
-**katiemccoole:** I do sprint triathlons during the summer, so.
-
-**katiemccoole:** Did 100 laps at the pool and now we're waiting out a blizzard that's happening right now.
-
-**katiemccoole:** Sean's flight got canceled.
-
-**katiemccoole:** Brian's flight got canceled.
-
-**Marcel Santilli:** Yes.
-
-**Brian Mullen:** Now I'm in San Francisco for the week, so there you go.
-
-**Tyler Pavlas:** Yeah, any.
-
-**Tyler Pavlas:** Any day this week, I guess, could have worked, but let's get things rolling on Monday.
-
-**Tyler Pavlas:** That's perfect.
-
-**Tyler Pavlas:** How long is this sprint triathlon, by the way, on the running portion?
-
-**katiemccoole:** It's quick at three and a half miles.
-
-**katiemccoole:** So it's a half mile swim, 14 mile bike, three and a half running.
-
-**Tyler Pavlas:** Okay.
-
-**Tyler Pavlas:** Awesome.
-
-**Tyler Pavlas:** I did my first marathon in January in Houston.
-
-**Tyler Pavlas:** And that.
-
-**Tyler Pavlas:** That'll kick your butt.
-
-**Tyler Pavlas:** I was sore for a while.
-
-**katiemccoole:** That's not for me.
-
-**katiemccoole:** Congrats.
-
-**katiemccoole:** That's huge though.
-
-**Tyler Pavlas:** Thank you.
-
-**Tyler Pavlas:** Thank you.
-
-**Tyler Pavlas:** Hey, Marcel, what's up?
-
-**Tyler Pavlas:** Just catching up with the team here.
-
-**Tyler Pavlas:** I was obviously on vacation last weekend and Katie was running sprint triathlons, so feeling bad about my productivity.
-
-**Brian Mullen:** Did they actually run it, Katie?
-
-**Brian Mullen:** They ran it in Boston.
-
-**Tyler Pavlas:** No.
-
-**katiemccoole:** So I was training for it.
-
-**katiemccoole:** So I did.
-
-**katiemccoole:** I Swam this weekend 100 laps, but I do one in Boston every year over in South Boston.
-
-**Brian Mullen:** Nice.
-
-**Brian Mullen:** Nice.
-
-**Brian Mullen:** Well, cool.
-
-**Brian Mullen:** So a little update from our side.
-
-**Brian Mullen:** Marcel and, and.
-
-**Brian Mullen:** And Tyler and I ran into Marcel like we live near each other.
-
-**Brian Mullen:** So I just ran into him yesterday walking the dog.
-
-**Brian Mullen:** So.
-
-**Brian Mullen:** And met your.
-
-**Brian Mullen:** Met his wonderful family.
-
-**Brian Mullen:** We are.
-
-**Brian Mullen:** So I was planning on being in Boston this week, but got canceled, so flights.
-
-**Brian Mullen:** Flights were killed tonight.
-
-**Brian Mullen:** And then.
-
-**Brian Mullen:** So I'm gonna go next week.
-
-**Brian Mullen:** But we're still planning as a team to get together.
-
-**Brian Mullen:** So I think since we talked with Tyler a few days ago, our plan was to kind of have a team meeting, you know, tomorrow and Wednesday and kind of like get into the details ourselves.
-
-**Brian Mullen:** Kind of the first time we've really, you know, been able to get into it and figure out where, you know, where, where we can, you know, how to work with you guys.
-
-**Brian Mullen:** And, and also kind of thinking about the timing that we understood from Tyler, like, you know, maybe it's a cup, maybe it's two, three weeks out, which, you know, that, that works for us.
-
-**Brian Mullen:** So just see like that was kind of our plan for the week.
-
-**Brian Mullen:** I think we'd probably have something more concrete in a few days.
-
-**Brian Mullen:** But happy to still talk about stuff, you know, high level today.
-
-**Tyler Pavlas:** Yeah, that's perfect.
-
-**Tyler Pavlas:** And I set this up as really like an opportunity for, you know, the team to pick Marcel's brain or Brian for any follow up questions that I think we've gone through most of our process and you know, the how to, how, how, how we actually create the content.
-
-**Tyler Pavlas:** So I didn't have to really anything prepared for today unless there was stuff that you all wanted to talk through with us.
-
-**Tyler Pavlas:** Otherwise we can save each other some time.
-
-**Marcel Santilli:** Yeah.
-
-**Brian Mullen:** Hey Ishan, any thoughts or, or questions you want to drill down on a little bit since we talked a few days back?
+**Brian Mullen:** Hey Ishaan, any thoughts or questions you want to drill down on since we talked a few days back?
 
 **Ishaan Bhardwaj:** Yeah, I was working with someone on the product marketing team.
 
@@ -359,85 +238,19 @@ Marcel shared insights from GrowthX's analysis of 200+ signals across multiple b
 
 **Marcel Santilli:** And just to understand like from, from a content perspective, right.
 
-**Marcel Santilli:** Like it looks like you all have about 1100 or so pages published and now most of them are either in blog, AI, blog or slash guides.
+**Marcel Santilli:** So it looks like you all have about 1,100 pages published across blog, AI guides, and other sections. Just so I understand, who's owning the creation and updates across those different content lanes?
 
-**Marcel Santilli:** And just so I understand when you say like product marketing, like who's creating all those three lanes or updating all those three lanes or can you all help me understand that just a little bit?
-
-**Ishaan Bhardwaj:** I think most of those pages get updated by product marketing.
-
-**Ishaan Bhardwaj:** They are the ones who kind of write those articles.
-
-**Ishaan Bhardwaj:** Then DevOps also does that.
-
-**Ishaan Bhardwaj:** And on certain pages, like for example comparison pages like Datadog versus Coralogix, those pages Katie and I are kind of tackling together to update them.
-
-**Ishaan Bhardwaj:** So we are kind of working on it, to update it and make sure that the AI voice comes through it.
-
-**Ishaan Bhardwaj:** So that's what we are doing right now.
+**Ishaan Bhardwaj:** Most pages are updated by product marketing — they're the primary writers. DevRel also contributes. For comparison pages like Datadog versus Coralogix, Katie and I are collaborating to refresh them with more authentic voice.
 
 **Marcel Santilli:** Okay, cool, that makes sense.
 
-**Brian Mullen:** And I think going forward, Marcel.
+**Brian Mullen:** Going forward, we want to put renewed focus on product marketing in conjunction with our DevRel team. DevRel has been underutilized, and we want to lean into them more — they're great but need to be activated. The goal is to create more technical, deeper content with genuine personality and voice, less polished corporate messaging. We should see increased volume and higher quality depth. We're expecting to layer in more authentic engineer perspectives alongside the product marketing strategy.
 
-**Brian Mullen:** So our product marketing team has, I think we want to put a renewed focus on product marketing and probably them in conjunction with our Devrel team.
+**Marcel Santilli:** Let me show you an example with Augment Code. We started working with them in June. Here you can see the reality — some weeks up, some weeks down, and you see the holiday dips in December and January. But even at 1,400 weekly clicks, their guides section alone is generating 3-4x the traffic of their entire blog section. Most of this content is guides, comparisons, and tools.
 
-**Brian Mullen:** And our Devrel team is really great, but I think it's probably been underutilized a bit over the last year or so and some of those folks are new.
+**Brian Mullen:** What was driving that bump in the middle of the year?
 
-**Brian Mullen:** We really want to make it more technical.
-
-**Brian Mullen:** We want to have these, we want to have like a broader offering of like deeper content.
-
-**Brian Mullen:** And then with the Devrel piece, I think our aim is to introduce a little bit More kind of face and name and personality to the company.
-
-**Brian Mullen:** So it's a little less kind of polished corporate.
-
-**Brian Mullen:** And that'll.
-
-**Brian Mullen:** That'll, you know, be accompanying more technical content.
-
-**Brian Mullen:** So I'd expect us to increase the volume of content and then also the altitude of the content will be deeper or higher.
-
-**Marcel Santilli:** Okay.
-
-**Brian Mullen:** Lower, I should say.
-
-**Brian Mullen:** Yeah.
-
-**Marcel Santilli:** Just to give you all, like, some.
-
-**Marcel Santilli:** Some example.
-
-**Marcel Santilli:** Like, so this is an example here.
-
-**Marcel Santilli:** Like, this is augment code.
-
-**Marcel Santilli:** Um, and.
-
-**Marcel Santilli:** And I think a good way to kind of think about it is like, we started working with them in June, right?
-
-**Marcel Santilli:** And even here, where I always like to show, like, the reality, some are up to the right always, others are not.
-
-**Marcel Santilli:** And this is obviously like Christmas, New Year's, you know, for.
-
-**Marcel Santilli:** So y' all know, traffic, how it goes there.
-
-**Marcel Santilli:** But this is like a good way to think about it is like, Even here at 1400 clicks a week, this was already like 3 to 4x their entire blog section.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** And a lot of what we're creating from them are like, guides.
-
-**Brian Mullen:** And what do you think was driving that?
-
-**Brian Mullen:** What was driving it at the bump?
-
-**Brian Mullen:** Well, I guess the bump in the middle of the year there was really engagement with you.
-
-**Brian Mullen:** So they started working.
-
-**Marcel Santilli:** Yeah.
-
-**Marcel Santilli:** This is like they've done no content here other than product announcements.
+**Marcel Santilli:** That's when we started working with them. Before that, they had only done product announcements — no strategic content. That's the key difference.
 
 **Brian Mullen:** No content.
 
@@ -465,105 +278,15 @@ Marcel shared insights from GrowthX's analysis of 200+ signals across multiple b
 
 **Marcel Santilli:** So when people search like Slack MCP or whatever, right?
 
-**Marcel Santilli:** And.
+**Marcel Santilli:** So our strategy is publish, update, and continuously refresh. Mind you, this is competing directly with Cursor — highly competitive space. We're testing new clusters and approaches. We hit some wins and maintain momentum even in competitive niches. Then we created the /tools section, which started ranking high for "AI code review," "Cursor vs. Copilot," and similar queries. Articles get cited in "Best AI tools for enterprises" round-ups. The behind-the-scenes work includes deep research, internal linking, citations, technical validation, fact-checking, URL extraction, competitor screenshots, programmatic imagery, and infographics. This is more enriched than where we started, but it evolved over time. When you look at their pipelines now, there are multiple different workflows for different content bets.
 
-**Marcel Santilli:** And so, like, one way to kind of think about this is like, we're here, we're like publishing, updating, refresh.
+**Brian Mullen:** What are those pipelines specifically?
 
-**Marcel Santilli:** And keep in mind, this is like competing with Cursor.
+**Marcel Santilli:** Each one is a full workflow. For example, the fact-checking agent splits the entire article into chunks, extracts each passage, verifies it against deep research evidence, and rewrites any content that's inconsistent or needs tweaking. Each of these steps is pretty sophisticated.
 
-**Marcel Santilli:** This is like highly, highly competitive, right?
+**Brian Mullen:** So this is an agent that reasons through each chunk?
 
-**Marcel Santilli:** And we're trying new things.
-
-**Marcel Santilli:** Trying new things.
-
-**Marcel Santilli:** And then finally, like, we.
-
-**Marcel Santilli:** We hit in this, to be very clear, like, still like 4 extra traffic, like, right.
-
-**Marcel Santilli:** Like so.
-
-**Marcel Santilli:** So even it's like it's maintaining in a highly competitive space, which is really hard to do.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** And then here we finally, like, find a new section.
-
-**Marcel Santilli:** We created the slash tools.
-
-**Marcel Santilli:** And then they started to rank really high for, like, AI code review.
-
-**Marcel Santilli:** And you can see here, big winner.
-
-**Marcel Santilli:** And some of their biggest ones that they're driving is like cursor versus copilot, you know, so if you search for like some of these things usually like a lot of their articles will get like mentioned or cited or like best AI coding tools for enterprises you like.
-
-**Marcel Santilli:** So it's like a lot of the kind of like the strategy behind it is not just the volume piece you can see here like the number one citation, but it's the behind the scenes.
-
-**Marcel Santilli:** And so in the behind the scenes here it's like to what I was explaining earlier, it's the deep researcher, it's the like, you know, like this is for a comparison, right?
-
-**Marcel Santilli:** Like generating the final article, internal linking citations, validating the guidelines and technical accuracy, fact checking, extracting tools, URLs like capturing like screenshots of their competitors, enriching the those in their article, create programmatically creating the COVID images.
-
-**Marcel Santilli:** And you've been trying to, you know, testing out some infographics and then, and so as you can see, like this is like way more enriched, but this is like an evolution.
-
-**Marcel Santilli:** This is not where we started.
-
-**Marcel Santilli:** And then when you look at their pipelines right now, like you see like there's like so many different pipelines for different bets that we're putting, right?
-
-**Marcel Santilli:** Like, and so in a lot of ways it's like when you're.
-
-**Marcel Santilli:** That's part of the process that we're doing.
-
-**Brian Mullen:** And what are they?
-
-**Brian Mullen:** If you go back to that last one, Let me see the.
-
-**Brian Mullen:** Go up to the top.
-
-**Brian Mullen:** Just see, I just want to see the categories here you have on the top.
-
-**Marcel Santilli:** Yeah, this is mostly like the actual executions, right?
-
-**Brian Mullen:** This is, I'm thinking about the vertical, the column.
-
-**Brian Mullen:** Sorry.
-
-**Marcel Santilli:** Oh yeah, yeah.
-
-**Marcel Santilli:** So, so, so it's what I just showed.
-
-**Marcel Santilli:** It's just like shown different essentially.
-
-**Marcel Santilli:** Like so if I click in, in one of these, those are just like
-
-**Brian Mullen:** steps in the process.
-
-**Marcel Santilli:** Each one of these is a workflow like this which is like, like this complex, right?
-
-**Marcel Santilli:** Like.
-
-**Marcel Santilli:** So this one is a fact checker.
-
-**Marcel Santilli:** It splits the content into chunks, extracts each passage and then verifies each passage with evidence from the deep research and then rewrites content that is inconsistent or needs to be tweaked.
-
-**Marcel Santilli:** So you can see like each one of these steps is like pretty insane.
-
-**Brian Mullen:** And this is like an agent running each of those that all work fine.
-
-**Marcel Santilli:** Yeah, this is a fact checking agent that slices your entire article into chunks and then reasons through each chunk.
-
-**Marcel Santilli:** But not just reasons.
-
-**Brian Mullen:** I think what you're describing here is like an assessment phase, right?
-
-**Brian Mullen:** Like that, that was like, hey, the company has like the first wave of content up there and then this, this like improvement agent goes through it and starts supplementing, suggesting improvements.
-
-**Brian Mullen:** Right?
-
-**Marcel Santilli:** No, this is actually like a step that happens in every single piece of content.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And this is only one of 10 other steps that happen in order to quality.
+**Marcel Santilli:** Exactly. And this isn't just an assessment phase — it runs on every single piece of content we create. This is just one of 10+ steps that ensure quality before publishing.
 
 **Marcel Santilli:** And this is one out of like, so just.
 
@@ -595,105 +318,11 @@ Marcel shared insights from GrowthX's analysis of 200+ signals across multiple b
 
 **Brian Mullen:** How do we.
 
-**Brian Mullen:** How does it.
+**Brian Mullen:** How do we surface concerns about content — if something's technically accurate but we don't want to promote it, or it goes down a rabbit hole?
 
-**Brian Mullen:** How do we.
+**Marcel Santilli:** Great question. We build in multiple input points. First, artifacts — you can see we're on version 15 already, constantly refining as your company evolves. If a new product launches or messaging shifts, we refresh artifacts because they drive everything else. Second input: opportunity mapping. We identify thousands of potential topics and you help prioritize which clusters matter most. Third: calibration. We validate each content type meets quality standards before publishing. Fourth: ongoing feedback and inspection. Some content types you flag as sensitive — we hold those for SME review before publishing. Other content, like glossaries or broad definitions with no product-specific recommendations, auto-publish post-QA. The goal is to systematize the updates so you're not manually refreshing 1,100 pages. You focus on giving us product insights and direction; we handle the execution and scaling.
 
-**Brian Mullen:** Because there may be, you know, some of this stuff may be accurate.
-
-**Brian Mullen:** Maybe it's.
-
-**Brian Mullen:** Maybe it's like not something you want to promote or it's too, you know, too down a rabbit hole for us or something.
-
-**Brian Mullen:** How does that surface to us as clients?
-
-**Marcel Santilli:** Yeah.
-
-**Marcel Santilli:** So I would maybe reposition it just to answer directly.
-
-**Marcel Santilli:** So there's a couple of different places of inputs from, from you and the team.
-
-**Marcel Santilli:** So one place is as we're creating these like, artifacts, if you will, which is based on, you can see this is like version 15 already.
-
-**Marcel Santilli:** So we're constantly like tweaking and understanding like your company, your Personas, like the products and services as they're evolving.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** And so this is one piece.
-
-**Marcel Santilli:** So that's one piece of input.
-
-**Marcel Santilli:** It's like, hey, are we getting it right?
-
-**Marcel Santilli:** Are we hearing correctly?
-
-**Marcel Santilli:** So if a new product comes out, a new messaging or something comes out, we have to refresh all of this because it drives everything else.
-
-**Marcel Santilli:** Then the second piece of input is like what opportunities to go after.
-
-**Marcel Santilli:** So those are like the topics.
-
-**Marcel Santilli:** So we go and map out thousands of opportunities that you should go after, including the ones that you already have on your site.
-
-**Marcel Santilli:** And you're helping us prioritize and make sure like those clusters are in the right direction.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** And then the, the next one is the calibration.
-
-**Marcel Santilli:** So calibration is think of for each type of content or each lane.
-
-**Marcel Santilli:** We are calibrating with you to make sure like this is good.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** This is meeting the bar quality to get published.
-
-**Marcel Santilli:** And then the last piece is like the ongoing like feedback and inspection.
-
-**Marcel Santilli:** And it's like hey, this type of content in the past you flagged as like, this is.
-
-**Marcel Santilli:** We got to pay really close attention.
-
-**Marcel Santilli:** So there might be types of content where we'll want you all to review before we publish.
-
-**Marcel Santilli:** And then there's other kinds of content.
-
-**Marcel Santilli:** Like, hey, this is a pretty straightforward one.
-
-**Marcel Santilli:** This is more like a.
-
-**Marcel Santilli:** What is.
-
-**Marcel Santilli:** This is more of like a glossary.
-
-**Marcel Santilli:** This is more of like, you know, like a broader thing.
-
-**Marcel Santilli:** It's not really high risk because it doesn't really go into details on use cases about our products.
-
-**Marcel Santilli:** You know, that is.
-
-**Marcel Santilli:** Okay, this one where you're talking about like a very specific recommendation related to our product.
-
-**Marcel Santilli:** Like we want an SME to at least take a glance at.
-
-**Marcel Santilli:** So.
-
-**Marcel Santilli:** So that's what we will architect with you.
-
-**Marcel Santilli:** And our hope is that like next time you have a product change your team here, right?
-
-**Marcel Santilli:** Like you all are not spending time updating 1100 pages.
-
-**Marcel Santilli:** Like we can take a lot of that on and systematize a lot of that so that you all can help us in the things that you will have a better view of, which is like understanding your product, giving us the right insights, like in and accelerating a lot of that.
-
-**Brian Mullen:** You know, makes sense to summarize.
-
-**Tyler Pavlas:** To summarize too for you, Brian.
-
-**Tyler Pavlas:** Like your, your team, we're handling all of the strategy, all of the, like, what content should we create?
-
-**Tyler Pavlas:** Types of, types of decisions.
+**Tyler Pavlas:** To summarize: we handle all strategy and content decisions — what to create, topics, approach. Your team reviews for quality calibration and handles approval gates for sensitive content.
 
 **Tyler Pavlas:** And then your team is basically helping us calibrate on the quality of the artifacts and reviewing, reviewing the drafts for the articles that we're planning to publish that our team has already reviewed.
 
@@ -739,135 +368,19 @@ Marcel shared insights from GrowthX's analysis of 200+ signals across multiple b
 
 **Brian Mullen:** Yeah.
 
-**Brian Mullen:** Going back to that, that website visits graph you showed in ga, like that first one.
+**Brian Mullen:** Looking at that January spike — what drove that?
 
-**Brian Mullen:** Yeah.
+**Marcel Santilli:** We introduced tools as a new content cluster. We layer different bets strategically. Some pages drive the majority of traffic, but if you only focus on those, they lose momentum. We also have pages like "Lovable" that consistently grow week-over-week. The key is portfolio diversification.
 
-**Brian Mullen:** With the client you guys started with middle of the year.
+**Brian Mullen:** Were they already operating at a high level?
 
-**Brian Mullen:** Yeah.
+**Marcel Santilli:** No — this is filtered to only pages we generated (guides and templates). They had virtually no content before — almost 100% branded search traffic to the homepage.
 
-**Brian Mullen:** So what happened in January?
+**Marcel Santilli:** We target both narrow comparisons and broad evaluation queries. For example, "Coralogix vs. Datadog" is a comparison we'd prioritize. But then we also tackle high-intent clusters — all the evaluation questions people ask in search and AI engines. One challenge: your comparison pages are 2-3 years outdated. Freshness is a top ranking signal now. We ran a full study analyzing tens of millions of AI responses through our CheckThat platform, and freshness consistently ranks in the top ranking factors, along with authority signals. You're missing highly cited, expert-driven content here. We build a portfolio approach: identify the mix of high-volume vs. high-intent vs. difficulty, then execute daily on priority topics. The goal is to be an extension of your team — you get strategists, AI engineers, designers, AEO and SEO specialists, and 30 full-time editors (led by a former TechCrunch editor). That's pre-vetted expertise you don't hire separately or buy as tools.
 
-**Brian Mullen:** Like why did it tick up?
+**Brian Mullen:** This is super helpful. One last question: before LLMs, a concern with this approach was that AI-generated content looked obviously generated. Now that research and LLM work is agent-driven, does that matter as much? Is it just about the raw information quality in the content network?
 
-**Brian Mullen:** What was your observation there?
-
-**Marcel Santilli:** Oh yeah, like, so we introduced tools and so if you look at this is like a whole other bet for them.
-
-**Marcel Santilli:** And we introduce tools so that.
-
-**Marcel Santilli:** So it's like we're layering in different bets.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** So think of it as just like a different cluster of opportunities to go after, you know, and, and then you can see it's very like if you look at like the, the pages that we've created, a lot of these like the top, you know, X here are going to drive the majority of the traffic.
-
-**Marcel Santilli:** But the thing is like if you only do those, the likelihood of those doing really well is unlikely.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** But then there's others like, like lovable.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Which is like truly like up to the right since we started working with them every single week.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** And so.
-
-**Brian Mullen:** And they were already like operating a pretty high level before.
-
-**Brian Mullen:** Is that right or.
-
-**Marcel Santilli:** No, this is filtering for only pages we generated, which is slash guides and templates.
-
-**Marcel Santilli:** But no, they had no content.
-
-**Marcel Santilli:** It was all 99.9% branded searches going to their homepage.
-
-**Brian Mullen:** Got it.
-
-**Tyler Pavlas:** Okay.
-
-**Marcel Santilli:** Yeah.
-
-**katiemccoole:** Most of this content tailored towards customers, prospects who's coming to the website.
-
-**Marcel Santilli:** Here we try to do a mix, right.
-
-**Marcel Santilli:** Like, but, but for instance, like if you do V0 versus like let's say lovable.
-
-**Marcel Santilli:** Like that's one of the ones we, one of the first ones we did because we wanted to influence the.
-
-**Marcel Santilli:** Like had to have comparisons, right.
-
-**Marcel Santilli:** And so like if you search for Logix, we say it would be Datadog.
-
-**Marcel Santilli:** And, and so like this is good.
-
-**Marcel Santilli:** Like you have the side to side comparison and that's what we want to make sure that like if you didn't already have these, like it's a great job, like this is awesome.
-
-**Marcel Santilli:** And, and then it's like okay, can we go tackle all the high intent, like no brainer stuff that we should go do.
-
-**Marcel Santilli:** Like your had to comparison like all the high intent.
-
-**Marcel Santilli:** So these are like, think of this as like evaluation type of questions that people will ask in search and in AI engines and then making sure that all of these are updated.
-
-**Marcel Santilli:** So like this one for example, that's great that this one is influencing but this was, has been outdated for more than two, almost three years or two years now.
-
-**Marcel Santilli:** So our job would be like, we should probably make sure like freshness is one of the highest indicators of like we ran an entire study on this because we're collecting like tens of millions of AI responses.
-
-**Marcel Santilli:** And so we're analyzing constantly through our AEO platform called Check that.
-
-**Marcel Santilli:** And so like freshness is like one of the most important things, right?
-
-**Marcel Santilli:** Another really important thing is like, like the authority signals you have here.
-
-**Marcel Santilli:** So for instance like you don't have anything that's like highly cited, you know, or that is a quote or that shows that you are an expert in this thing, right?
-
-**Marcel Santilli:** And those are like really, really important.
-
-**Marcel Santilli:** So if you, if you look at and I can show you examples because we're going to run out of time.
-
-**Marcel Santilli:** But like that we try to almost take like a portfolio mix.
-
-**Marcel Santilli:** You have a lot of surface area which also means like there's probably a lot of surface area that has been decaying or that could be improved, right?
-
-**Marcel Santilli:** But that's great because that means like there's a lot of surface area for us to make sure like it's not decaying and then it's good.
-
-**Marcel Santilli:** And then like the rest is just identifying a mix of like high volume versus high intent and versus like difficulty.
-
-**Marcel Santilli:** And then every single day take more shots on goal, right.
-
-**Marcel Santilli:** For you and accelerating that for you.
-
-**Marcel Santilli:** So that like we're essentially an extension of your team, you know, and that's kind of how most teams work with us is like you get like a strategist, you get an AI engineer, you get a designer, you get AEO people and SEO people under the hood.
-
-**Marcel Santilli:** And you also get like editors.
-
-**Marcel Santilli:** We have 30 editors full time managed by our chief Content officer who ran TechCrunch for 10 years.
-
-**Marcel Santilli:** And so you get all of that like pre vetted already so that you don't have to hire a bunch of freelancers ideally or an SEO agency or you Know, buy a bunch of tools.
-
-**Brian Mullen:** Yep, this is great.
-
-**Brian Mullen:** This is, this is super, super helpful.
-
-**Brian Mullen:** One other question for you, like you know, pre.
-
-**Brian Mullen:** Pre LLMs, like one of the concerns with, with you know, this type of approach of just like planting a bunch of, you know, a bunch of kind of like a net of content.
-
-**Brian Mullen:** Not necessarily just the stuff that's landing on the blog, but this like kind of like freestanding content that's out there like driving, you know, driving engagement is that when humans would run across it, it just like looks so obviously like you know, like something that was like generated whether you know, maybe by human, maybe not.
-
-**Brian Mullen:** Now if the, if a lot of the research is actually being done by an agent or being done by the LLM directly, that may not matter as much.
-
-**Brian Mullen:** It's just about the raw information that's out there in the net, like in the network of content.
-
-**Brian Mullen:** So what's your guys view on basically the kind of bar for quality on these in pre LLM versus post LLM?
-
-**Marcel Santilli:** So the.
+**Marcel Santilli:** Different engines prioritize different signals.
 
 **Marcel Santilli:** There are things that matter and there are things that matter more to like different engines.
 
@@ -929,72 +442,12 @@ Marcel shared insights from GrowthX's analysis of 200+ signals across multiple b
 
 **Brian Mullen:** The like, you know, basically reference sources that it itself has for its own, for its own.
 
-**Brian Mullen:** So like those are like, basically signals that you guys are looking at and trying to keep updated and fresh so that it, you know, clears that threshold of like, quality for the LLM.
+**Brian Mullen:** So you're tracking those signals — freshness, citations, sources — and making them predictable across updates?
 
-**Brian Mullen:** Is that, Is that what you're saying or Agent?
+**Marcel Santilli:** Exactly. The key difference from other approaches: if you use custom ChatGPT prompts, retrieval is inconsistent and models change under the hood. If you use low-code workflows, maintenance happens outside code and breaks unpredictably — if step 62 of 73 fails, you're stuck manually rebuilding. We've architected this as proper code under the hood, which makes it predictable and maintainable. Plus you still need editors reading and polishing everything. It's all three pieces: reliable architecture, human editors, and solid strategy.
 
-**Marcel Santilli:** Yeah, yeah, exactly.
+**Brian Mullen:** Perfect. Let's do this: give us a few days to align internally on our plan. Then we'll check in Friday or Monday with you, Tyler. We'll figure out timing for kickoff after that.
 
-**Marcel Santilli:** But trying to do it in a way that the next time around is more predictable because if you do it in like a bunch of custom prompts in ChatGPT, you can't check, you can't hold the sources still.
+**Tyler Pavlas:** Sounds great, Brian. And just so you know — my calendar is open for the team if anyone wants 1:1 time. We can go deeper on anything and create clarity wherever you need it.
 
-**Marcel Santilli:** How they're doing retrieval is all over the place.
-
-**Marcel Santilli:** They might change the models under the hood.
-
-**Marcel Santilli:** And then if you do it in a low code drag and drop workflow, you're going to have to maintain that outside of code.
-
-**Marcel Santilli:** And that doesn't work either.
-
-**Marcel Santilli:** And you.
-
-**Marcel Santilli:** And if, you know, step number 62 of 73 fail, you can rerun it and you're going to spend all this time like architecting code essentially outside of code.
-
-**Marcel Santilli:** And that's what we've done under the hood, essentially.
-
-**Marcel Santilli:** But then also you're going to still want to hire a ton of editors to read through everything and edit everything.
-
-**Marcel Santilli:** And that's what we do as well, you know, so it's kind of like all three pieces.
-
-**Marcel Santilli:** And then the strategy is just as important, if not most important all those things as well, you know?
-
-**Tyler Pavlas:** Okay.
-
-**Brian Mullen:** Makes sense.
-
-**Brian Mullen:** Okay, cool.
-
-**Brian Mullen:** So why don't we do this?
-
-**Brian Mullen:** Give us a few days to kind of get our.
-
-**Brian Mullen:** Get our plan together.
-
-**Brian Mullen:** And then Tyler, maybe we do a check in on Friday and.
-
-**Brian Mullen:** Or Monday, one of the two.
-
-**Brian Mullen:** And.
-
-**Brian Mullen:** And we'll figure out kind of like some timing thereafter.
-
-**Tyler Pavlas:** That sounds great, Brian.
-
-**Tyler Pavlas:** And offer still stands to the team.
-
-**Tyler Pavlas:** Just book time on my calendar for one on one.
-
-**Tyler Pavlas:** We can definitely go deeper.
-
-**Tyler Pavlas:** We can definitely create more clarity.
-
-**Tyler Pavlas:** My time is yours, basically.
-
-**Brian Mullen:** Awesome.
-
-**Tyler Pavlas:** Cool.
-
-**Brian Mullen:** Thanks, you guys.
-
-**Brian Mullen:** Yeah, thanks, Marcel.
-
-**Brian Mullen:** Talk to you guys.
+**Brian Mullen:** Awesome. Thanks, you guys. Talk soon.

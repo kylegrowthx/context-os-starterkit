@@ -12,24 +12,27 @@ participants:
   - Andi Bailey
   - Bridget McGillivray
   - Ella Dillon
-source: Fireflies.ai
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 ---
 
 ## Summary
 
-The team must restructure Sprint roles to remove bottlenecks and scale editorial quality. Ada is doing two full-time jobs: strategic EM work and deep editorial quality control. This creates a chokehold on growth. The team also needs better client value communication, publishing automation, and project management tooling.
+Deliver SWAT team identified three critical operational blockers preventing GrowthX from scaling to $50M revenue: (1) Ada's dual role as sprint EM and quality gatekeeper creates a systemic bottleneck requiring role restructuring and governance layer creation, (2) client renewals are at risk due to weak value communication, requiring programmatic results reporting and client goal alignment, and (3) publishing workflows lack automation despite Suleiman being the single point of failure. Team committed to finalizing Sprint role restructuring by Monday, launching Vitally evaluation, and rolling out Pot HQ tooling for immediate project management improvement.
 
 ## Context
 
-Weekly check-in for the Deliver SWAT team focused on operational improvements across Sprint and Pod teams. The meeting addressed structural blockers preventing GrowthX from scaling toward its $50M revenue target.
+The Deliver SWAT team (led by Bridget McGillivray with Ella Dillon, Matthew Panzarino, George Haikal, and Andi Bailey) convened as a weekly operational steering group to unblock growth across GrowthX's Sprint and Pod delivery teams. With $50M revenue target in sight for next year, the team is mapping structural constraints rather than tactical firefighting. The meeting agenda centered on role clarity, tool selection, and process architecture—not immediate crises but foundational issues that compound at scale. Matthew Panzarino operates as editorial quality architect; Ella Dillon drives operational restructuring; George Haikal and Andi Bailey contribute perspectives on EM evolution and client success dynamics.
 
 ## Relevance to GrowthX
 
-This meeting directly addresses GrowthX's core operational challenges:
-- Sprint team structure is blocking growth capacity
-- Client renewals are at risk due to poor value communication
-- Engineering resources need reallocation to automate publishing
-- EM role definition needs clarity to improve client outcomes
+**Delivery Operations:** Ada's bottleneck is a direct constraint on Sprint team capacity and client outcomes scaling. Her dual role as both strategic EM and granular quality gatekeeper creates systemic inefficiency that compounds across 50+ accounts. Splitting this role is required to hit $50M target.
+
+**Client Retention & Renewal:** Renewals fail when value isn't communicated, not when value doesn't exist. Current teams "check boxes" instead of linking content production to client business outcomes. Need for programmatic client results reporting and frameworks for EMs to articulate ROI.
+
+**Engineering Efficiency:** Suleiman is sole owner of publishing automation and quality checks across all accounts. 70-80% of publishing tasks could be automated, but engineering capacity hasn't been prioritized for per-client workflow automation.
+
+**Team & Talent:** Current EM hiring profile (senior marketers without external client exposure) has gaps. William and incoming hire Carly represent the ideal profile. Need clear role architecture to attract and develop this profile long-term.
 
 ## Overview
 
@@ -39,6 +42,29 @@ This meeting directly addresses GrowthX's core operational challenges:
 - **Publishing Automation:** Aiming to automate 70-80% of publishing tasks to reduce manual workload and improve scalability
 - **Project Management Tools:** Evaluating best options (HubSpot, Vitally, or others) for team coordination, with Pot HQ implementation for immediate needs
 - **EM Role Evolution:** Shift in EM roles toward strategic client engagement and defining capacity based on account complexity is crucial
+
+## Decisions & Commitments
+
+**Sprint Role Restructuring:** Committed to documenting Ada's processes into runbooks and splitting her role into (1) Strategic Client Partnership EM and (2) Quality Governance layer. New governance layer will be a team-lead level "quality ombudsman" reporting editorial expertise (not Atlas expertise) to catch issues before client delivery. Editorial judgment matters more than technical tool proficiency. Timeline: Ella to lead proposal development; special session scheduled for Monday to finalize structure.
+
+**Quality Governance Model:** Team adopts a three-path escalation for quality issues: (1) Artifact/instruction improvement, (2) Process documentation fix, or (3) Engineering ticket. Quality ombudsman role will differentiate between editorial judgment calls and systemic/pipeline failures rather than hand-editing every piece.
+
+**Publishing Automation:** Prioritize engineering resources (Kirkland, Suleiman) to build per-client publishing workflow automation. Target: automate 70-80% of manual publishing and quality tasks. Matthew to advocate for engineering prioritization in cross-functional meetings.
+
+**Client Value Communication:** Implement programmatic client results reporting and frameworks for EMs to discuss value. Need honest assessment: "What percentage of clients see material growth?" Communicating value is as critical as delivering it for renewals.
+
+**Project Management Tooling:** Vitally recommended for deeper project management capability; Leah to provide evaluation report by Monday. Pot HQ rolling out as interim solution starting Tuesday. Linear being phased out.
+
+**EM Profile Evolution:** New hire Carly (10 years SEO + account management) will test whether external client exposure is predictive of EM success. William is the current ideal EM profile.
+
+## Open Questions
+
+- What does quality ombudsman role look like at scale across Pod teams once Sprint model is validated?
+- Can directors hired as senior EMs (with marketing but limited client exposure) successfully transition to new EM expectations, or will positions need backfill?
+- How aggressive can publishing automation be without losing client-specific customization?
+- What is the current renewal rate by client segment? Who sees material growth, and who doesn't?
+- Does Pot HQ provide sufficient interim project management capability, or will team churn trying to wait for Vitally full implementation?
+- Should EM capacity be redefined based on account complexity tier rather than flat equal allocation?
 
 ## Key Topics
 
@@ -68,47 +94,47 @@ The future EM profile may require different skills than current team members hav
 
 ## Action Items
 
-### Ella Dillon
-- Lead proposal development this week for Sprint role restructuring to remove Ada bottleneck and clarify EM and ME roles to unlock growth potential
+### Ella Dillon (GrowthX, Deliver SWAT Lead)
+- Lead proposal development for Sprint role restructuring to remove Ada bottleneck and clarify EM and ME roles to unlock growth potential
 - Coordinate with George Haikal and Matthew Panzarino to consolidate write-ups on EM success criteria and editorial governance for Sprint
-- Schedule a special session for Monday to finalize Sprint structure and roles
-- Follow up with Andy Bailey and Kyle on client results reporting and AI search strategy playbooks
+- Schedule special session to finalize Sprint structure and roles
+- Follow up with Andi Bailey and Kyle on client results reporting and AI search strategy playbooks
 - Sync with Kyle on job descriptions related to director roles and EM evolution
-- Plan and manage rollout and communication of special meetings to ensure focused discussions and decision making on team structure
+- Plan and manage rollout and communication of decisions to ensure focused discussions and team alignment on structural changes
 
-### Matthew Panzarino
-- Provide detailed notes and recommendations on quality governance roles and editorial expertise for Sprint team restructuring
-- Conduct audits and ongoing one-on-one ME evaluations to identify process improvements and ensure content quality, escalating system issues
-- Act as representative in engineering meetings to advocate prioritization of automation projects, including publishing workflow automation
-- Support coordination with Kirkland on engineering resources to automate publishing and reporting pipelines
+### Matthew Panzarino (GrowthX, Editorial Architecture)
+- Provide detailed notes and recommendations on quality governance roles and editorial expertise requirements for Sprint team restructuring
+- Conduct audits and ongoing ME evaluations to identify process improvements and content quality issues, escalating systemic problems
+- Represent editorial/content operations in engineering meetings to advocate for automation project prioritization, including publishing workflow automation
+- Coordinate with Kirkland on engineering resource allocation to automate publishing and reporting pipelines
 
-### Andi Bailey
-- Follow up with Kyle and Carolu on producing programmatic client results and AI search/SEO playbooks, and coordinate team education
-- Lead rollout of Pot HQ client database and task management tool this coming Friday and Monday
-- Monitor and support automation tasks with Suleiman and Kirkland; push for engineering efficiency improvements in publishing workflows
-- Facilitate Leah's evaluation of Vitally and coordination with William on project management tooling decision, targeting mid next week
+### Andi Bailey (GrowthX, Deliver Operations)
+- Follow up with Kyle and Carly on producing programmatic client results reporting and AI search/SEO playbooks; coordinate team education rollout
+- Lead Pot HQ client database and task management tool implementation
+- Monitor publishing automation efforts with Suleiman and Kirkland; advocate for engineering efficiency improvements in publishing workflows
+- Facilitate Leah's Vitally evaluation and coordinate with William on project management tooling selection and transition
 
-### George Haikal
-- Write up EM success considerations including emergency pitching and support requirements, to feed into Sprint role restructuring discussions
-- Join discussions around project management tooling and support Leah's evaluation efforts
+### George Haikal (GrowthX, Pod Operations)
+- Document EM success criteria including emergency client support scenarios and requirements; feed into Sprint role restructuring discussions
+- Participate in project management tooling evaluation discussions and support Leah's assessment
 
-### Bridget McGillivray
-- Communicate with Vivek to finalize client transition timing by January 30 deadline
-- Coordinate with Kyle on client account reallocation to Megan for Data Grid and other Sprint client transitions
-- Collaborate with Andy and Ella on Carrie's role and comp discussions
-- Provide feedback and oversight on Pot HQ launch and internal readiness
+### Bridget McGillivray (GrowthX, Deliver SWAT Organizer)
+- Finalize client transition timing with Vivek
+- Coordinate with Kyle on account reallocation to Megan for Data Grid and other Sprint client transitions
+- Collaborate with Andi Bailey and Ella Dillon on Carrie's role and compensation
+- Provide feedback and oversight on Pot HQ launch and team readiness
 
-### Kyle
-- Share AI search and SEO playbook documentation with Andy and Ella for team training rollout
-- Collaborate on client data and reporting for renewal value demonstration
-- Discuss jobs to be done and director role clarity with Ella
+### Kyle (GrowthX, AEO/SEO)
+- Share AI search and SEO playbook documentation with Andi Bailey and Ella Dillon for team training rollout
+- Collaborate on client data and results reporting for renewal value communication
+- Discuss jobs to be done framework and director role clarity with Ella Dillon
 
-### William
-- Test and operate any new project management tooling to replace Linear based on Leah and Andy's coordination
+### William (GrowthX, EM - Ideal Profile)
+- Test and operate new project management tooling to replace Linear, coordinating with Leah and Andi Bailey
 
-### Leah
-- Provide evaluation report on Vitally project management tool by Monday
-- Support rollout of Pot HQ client database and task views beginning this Friday
+### Leah (GrowthX, Tools & Systems)
+- Provide evaluation report on Vitally as project management platform
+- Support Pot HQ client database and task views rollout and adoption
 
 ---
 
@@ -118,7 +144,7 @@ The future EM profile may require different skills than current team members hav
 
 **George Haikal:** Hello.
 
-**Matthew Panzarino:** Hi there, Avi.
+**Matthew Panzarino:** Hi there, George.
 
 **George Haikal:** Your matching Panzer.
 
@@ -126,7 +152,7 @@ The future EM profile may require different skills than current team members hav
 
 **Matthew Panzarino:** I don't know if fashionable is the right word for it, but I'm warm.
 
-**Andi Bailey:** Kendra is, like, very matchy in his accessories.
+**Andi Bailey:** Matthew is, like, very matchy in his accessories.
 
 **Andi Bailey:** I admire it.
 
@@ -1228,7 +1254,7 @@ The future EM profile may require different skills than current team members hav
 
 **Ella Dillon:** So to close that loop on that type of thought.
 
-**Ella Dillon:** Andy, I'll go close with Kyle and maybe Carolu on the we need well Kyle for the how are you building this expertise to talk about AI search aeo what are the playbooks to make sure that we actually are experts that can raise the level of the conversation and help raise the level of their approach to organic growth.
+**Ella Dillon:** Andy, I'll go close with Kyle and maybe Carly on the we need well Kyle for the how are you building this expertise to talk about AI search aeo what are the playbooks to make sure that we actually are experts that can raise the level of the conversation and help raise the level of their approach to organic growth.
 
 **Ella Dillon:** And then maybe you and I should just have the same meeting with him so we can talk about the reporting all at once.
 

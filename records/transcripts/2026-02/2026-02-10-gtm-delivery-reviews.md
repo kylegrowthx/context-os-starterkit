@@ -5,9 +5,16 @@ date: 2026-02-10
 time: 21:00 UTC
 duration: 63 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Bridget McGillivray, Jason Gong, Jeff Ignacio, Ella Dillon
+participants:
+  - Marcel Santilli, CEO, GrowthX
+  - Bridget McGillivray, VP Sales & Revenue Operations, GrowthX
+  - Jason Gong, Marketing, GrowthX
+  - Jeff Ignacio, RevOps, GrowthX
+  - Ella Dillon, VP Customer Success, GrowthX
 fireflies_id: 01KGJFRY0EM38F095KERJB5W6F
 transcript_url: https://app.fireflies.ai/view/01KGJFRY0EM38F095KERJB5W6F
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
@@ -122,6 +129,49 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 - Map org charts for renewal-risk clients; escalate blocked accounts (35:27)
 - Track account trends weekly; share early-warning updates proactively (47:50)
 
+---
+
+## Decisions & Commitments
+
+**Pipeline & Revenue Operations**
+- Adopt "stage zero" (intro/holding stage) to capture warm intros and form fills before formal opportunity creation; preserves existing stage timestamps.
+- Increase weekly deal creation from 8 to 14 per week to hit 140 monthly kickoffs and support scaling from $12M to $36M ARR.
+- Hire an additional AE immediately to cover Tyler's upcoming wedding leave (2-3 weeks) and handle pipeline overflow; Tyler is at capacity.
+- Weekly/biweekly strategic pipeline reviews combining inspection and strategy work, with Marcel more involved for high-risk accounts (e.g., 11 Labs).
+
+**Customer Success & Renewals**
+- Monthly CEO "listening tour" led by Marcel—personal relationship calls with key customers focused on onboarding, renewal risk, and upsell seeding; separate from CS operational motions.
+- Implement organization chart mapping in HubSpot for all renewal-risk accounts; identify key contacts and escalation paths (examples: Cresta, NetRicks, Prophecy, Udemy, Logic, Ambit).
+- Standardize customer health reporting with clear red/yellow/green criteria; weekly early-warning sharing from Ella to Bridget and Marcel.
+
+**Go-to-Market & Execution**
+- Structure marketing programs around MQL volume and event attendance; Jason to back-populate deal sources to January and link to marketing initiatives.
+- Three short-term pipeline levers: reactivate close-lost leads via event invites, target event attendees with outreach, leverage social channels (especially Slack as uncrowded top-of-funnel).
+- Geo-targeted dinners (Seattle, SF, NYC, Austin) aligned with Marcel's travel calendar; leverage fractional CMOs (Francois, Seema) as deal sources and network connectors.
+- Develop guardrails for Marcel's personal outreach to avoid "spammy" relationship fatigue; implement VIP contact tracking with frequency controls.
+
+**CRM & Systems**
+- Explore Atio APIs for programmatic syncing of Marcel's personal inbox to CRM with filtering to exclude investor/HR noise; Atio acts as safe sandbox separate from HubSpot.
+- Jeff to provide recommendations (V2) on deal stages, lead stages, and lead scoring; align with Bridget and Jason before implementation.
+- Implement HubSpot MCP + Fireflies integration for automatic call note linking; coaching Tyler on CRM discipline and deal hygiene.
+
+**Downsell & Account Management Philosophy**
+- Downsize accounts strategically when there's opportunity to buy time (not pure churn); acceptable for lower-revenue, high-effort accounts if truly draining team resources.
+- Exceptions: accounts with strong emotional loyalty (love the product, diversify spend) can downsell and upsell later (e.g., positive reframing of downsells as relationship wins).
+- Never downsell accounts that are fundamentally misaligned or toxic (e.g., Prophecy)—evaluate for clean exit.
+
+---
+
+## Open Questions
+
+- What is the final structure for HubSpot contact mapping and escalation paths for high-risk renewal accounts? (Who owns the template, how is ownership assigned in HubSpot?)
+- How do we measure and track adoption of the "stage zero" intro pipeline stage across the team? (What's the success metric?)
+- What tools/mechanisms will Jeff recommend for automated network mapping (first-degree and second-degree connections) to feed lead scoring?
+- What filtering rules will we apply to the Atio API sync to safely exclude investor/personal email noise without losing high-intent outbound signals?
+- How will Drew's month-to-month engagement for paid ads and outreach be scoped and measured against our 14 deals/week target?
+- What are the exact criteria for "high-risk" account escalation, and who owns weekly early-warning escalations from Ella?
+- How will we incentivize fractional CMOs (Francois, Seema) beyond relationship building? (Equity, commissions, other?)
+- What's the timeline for the second AE hire, and what's the interview/onboarding process?
 
 ---
 
@@ -141,7 +191,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Jeff Ignacio:** Yeah, you too.
 
-**elladillon:** Greetings.
+**Ella Dillon:** Greetings.
 
 **Bridget McGillivray:** Hello.
 
@@ -155,13 +205,13 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Bridget McGillivray:** Have you met everybody here?
 
-**elladillon:** I have not met Jeff.
+**Ella Dillon:** I have not met Jeff.
 
 **Jeff Ignacio:** That's right.
 
-**elladillon:** Good to meet you Jeff.
+**Ella Dillon:** Good to meet you Jeff.
 
-**elladillon:** Welcome.
+**Ella Dillon:** Welcome.
 
 **Jeff Ignacio:** Likewise.
 
@@ -175,7 +225,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Jeff Ignacio:** Great to meet you.
 
-**elladillon:** Great to meet you as well.
+**Ella Dillon:** Great to meet you as well.
 
 **Bridget McGillivray:** And Jeff and Marcel used to work.
 
@@ -627,9 +677,9 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Jason Gong:** Okay.
 
-**elladillon:** Yeah, I was just picking up that last.
+**Ella Dillon:** Yeah, I was just picking up that last.
 
-**elladillon:** Are you actually being in Seattle or is that an example?
+**Ella Dillon:** Are you actually being in Seattle or is that an example?
 
 **Marcel Santilli:** Yes, I'm coming to the Madrona LP meeting.
 
@@ -637,15 +687,15 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** It's 24th of March, so it's like 40.
 
-**elladillon:** It is.
+**Ella Dillon:** It is.
 
-**elladillon:** It is.
+**Ella Dillon:** It is.
 
-**elladillon:** Like, I was like, what?
+**Ella Dillon:** Like, I was like, what?
 
-**elladillon:** What?
+**Ella Dillon:** What?
 
-**elladillon:** You're looking in my backyard.
+**Ella Dillon:** You're looking in my backyard.
 
 **Marcel Santilli:** No, no, I know.
 
@@ -817,39 +867,39 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Bridget McGillivray:** Unless you did that earlier today.
 
-**elladillon:** I think I did.
+**Ella Dillon:** I think I did.
 
-**elladillon:** So a couple of things.
+**Ella Dillon:** So a couple of things.
 
-**elladillon:** You know, we're so thin in that group.
+**Ella Dillon:** You know, we're so thin in that group.
 
-**elladillon:** When William was out and Kathy was out, you know, one thing that we have a couple takeaways of improving operations.
+**Ella Dillon:** When William was out and Kathy was out, you know, one thing that we have a couple takeaways of improving operations.
 
-**elladillon:** So the net is everything at this moment is green.
+**Ella Dillon:** So the net is everything at this moment is green.
 
-**elladillon:** Best I can tell, it's green.
+**Ella Dillon:** Best I can tell, it's green.
 
-**elladillon:** Deep diving into everything, it's green.
+**Ella Dillon:** Deep diving into everything, it's green.
 
-**elladillon:** What I want to improve is the team.
+**Ella Dillon:** What I want to improve is the team.
 
-**elladillon:** Even though I asked them in their notes, they don't make the call.
+**Ella Dillon:** Even though I asked them in their notes, they don't make the call.
 
-**elladillon:** They don't say why.
+**Ella Dillon:** They don't say why.
 
-**elladillon:** So that like, if William's out and I can't be on the standup, I still want to have confidence.
+**Ella Dillon:** So that like, if William's out and I can't be on the standup, I still want to have confidence.
 
-**elladillon:** And without having to go read or listen to every single call ramp, we just put in yellow per George Marcel.
+**Ella Dillon:** And without having to go read or listen to every single call ramp, we just put in yellow per George Marcel.
 
-**elladillon:** But I know you're red in on ramp.
+**Ella Dillon:** But I know you're red in on ramp.
 
-**elladillon:** And he just said just because we haven't gotten like the actual eyes from the buyer on yet.
+**Ella Dillon:** And he just said just because we haven't gotten like the actual eyes from the buyer on yet.
 
-**elladillon:** And he just wanted that to happen before he felt.
+**Ella Dillon:** And he just wanted that to happen before he felt.
 
-**elladillon:** But he felt everything was green in terms of what we're doing.
+**Ella Dillon:** But he felt everything was green in terms of what we're doing.
 
-**elladillon:** But since we have not had that, that was why I left that yellow.
+**Ella Dillon:** But since we have not had that, that was why I left that yellow.
 
 **Marcel Santilli:** Per him turning to just so one thing for the go to market.
 
@@ -905,59 +955,59 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** Like, we're talking like a dozen kind of.
 
-**elladillon:** I do love the idea.
+**Ella Dillon:** I do love the idea.
 
-**elladillon:** And this might be too much like spraying prey, but like, Jason, we are seeing risk where there's acquisitions and we don't have like sales bench, you know, for Tyler to go in and sell into.
+**Ella Dillon:** And this might be too much like spraying prey, but like, Jason, we are seeing risk where there's acquisitions and we don't have like sales bench, you know, for Tyler to go in and sell into.
 
-**elladillon:** We knew we lost Okta.
+**Ella Dillon:** We knew we lost Okta.
 
-**elladillon:** But.
+**Ella Dillon:** But.
 
-**elladillon:** Or I'm sorry, let's just say there is an acquisition wanting to go like multi thread and sell into the new accounts.
+**Ella Dillon:** Or I'm sorry, let's just say there is an acquisition wanting to go like multi thread and sell into the new accounts.
 
-**elladillon:** But that's where you could help, I think, with some of this explicit marketing of how do we bring in whom we think might be decision makers in the new org.
+**Ella Dillon:** But that's where you could help, I think, with some of this explicit marketing of how do we bring in whom we think might be decision makers in the new org.
 
-**elladillon:** Because we're.
+**Ella Dillon:** Because we're.
 
-**elladillon:** We're just.
+**Ella Dillon:** We're just.
 
-**elladillon:** We're risk.
+**Ella Dillon:** We're risk.
 
-**elladillon:** We have risk in those kind of scenarios.
+**Ella Dillon:** We have risk in those kind of scenarios.
 
-**elladillon:** Anyway, real, real quick, call out Bridget.
+**Ella Dillon:** Anyway, real, real quick, call out Bridget.
 
-**elladillon:** Which I should perfect is there's a couple updates I made.
+**Ella Dillon:** Which I should perfect is there's a couple updates I made.
 
-**elladillon:** Like for example, turnstile.
+**Ella Dillon:** Like for example, turnstile.
 
-**elladillon:** I made it in the renewal updates.
+**Ella Dillon:** I made it in the renewal updates.
 
-**elladillon:** Not so they're.
+**Ella Dillon:** Not so they're.
 
-**elladillon:** They're probably different.
+**Ella Dillon:** They're probably different.
 
-**elladillon:** I'm sorry for my dog, you all.
+**Ella Dillon:** I'm sorry for my dog, you all.
 
-**elladillon:** I apologize.
+**Ella Dillon:** I apologize.
 
-**elladillon:** Like, Telera, for example, is green here, but then under the renewal projections, I put it yellow just because I wasn't.
+**Ella Dillon:** Like, Telera, for example, is green here, but then under the renewal projections, I put it yellow just because I wasn't.
 
-**elladillon:** I wasn't tracking it anymore since why am I doing.
+**Ella Dillon:** I wasn't tracking it anymore since why am I doing.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
-**elladillon:** Am I saying that correctly?
+**Ella Dillon:** Am I saying that correctly?
 
-**elladillon:** Yeah, hold on.
+**Ella Dillon:** Yeah, hold on.
 
-**elladillon:** No, I'm sorry.
+**Ella Dillon:** No, I'm sorry.
 
-**elladillon:** Different one apologize.
+**Ella Dillon:** Different one apologize.
 
-**elladillon:** My dog is barking at something and so it's distracting me as I get pulled different directions.
+**Ella Dillon:** My dog is barking at something and so it's distracting me as I get pulled different directions.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **Bridget McGillivray:** There's two different reports, by the way.
 
@@ -967,29 +1017,29 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Bridget McGillivray:** And then there's separate reporting, which there would be Renewal ops.
 
-**elladillon:** If you refresh this though, you should see.
+**Ella Dillon:** If you refresh this though, you should see.
 
-**elladillon:** I know there are some of my two nines in there.
+**Ella Dillon:** I know there are some of my two nines in there.
 
-**elladillon:** I thought I pretty much got through all of them okay.
+**Ella Dillon:** I thought I pretty much got through all of them okay.
 
-**elladillon:** There's still a couple.
+**Ella Dillon:** There's still a couple.
 
-**elladillon:** The ones that just didn't really have an update.
+**Ella Dillon:** The ones that just didn't really have an update.
 
-**elladillon:** I didn't.
+**Ella Dillon:** I didn't.
 
-**elladillon:** I didn't update the net is bottom line is as of right now everything's green.
+**Ella Dillon:** I didn't update the net is bottom line is as of right now everything's green.
 
-**elladillon:** The operational thing I need to perfect is making sure the team knows how to report with the right specificity of like did you ask from six on yes or no?
+**Ella Dillon:** The operational thing I need to perfect is making sure the team knows how to report with the right specificity of like did you ask from six on yes or no?
 
-**elladillon:** Like would they say yes?
+**Ella Dillon:** Like would they say yes?
 
-**elladillon:** So some of the reports in our notes if William or someone's out or I can't attend a sprint stand up.
+**Ella Dillon:** So some of the reports in our notes if William or someone's out or I can't attend a sprint stand up.
 
-**elladillon:** They're a little bit too nebulous.
+**Ella Dillon:** They're a little bit too nebulous.
 
-**elladillon:** But NAT is we are looking green at this time.
+**Ella Dillon:** But NAT is we are looking green at this time.
 
 **Bridget McGillivray:** Okay.
 
@@ -1001,7 +1051,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** What's the best way to like actually two.
 
-**elladillon:** Sorry, go on, ask your question.
+**Ella Dillon:** Sorry, go on, ask your question.
 
 **Marcel Santilli:** Yeah like your.
 
@@ -1017,7 +1067,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** And I will be able to act on it a little bit more as well so that we're mapping things a.
 
-**elladillon:** Bit like the actual orgs like if we're talking to a day to day stakeholder.
+**Ella Dillon:** Bit like the actual orgs like if we're talking to a day to day stakeholder.
 
 **Marcel Santilli:** But we know exactly because it's both from like go to market word of mouth like Cresta, the one of the VPs that reports into this.
 
@@ -1041,19 +1091,19 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** But I bet you almost many of those might not be here, you know.
 
-**elladillon:** Yeah, no, I'll take the action because we.
+**Ella Dillon:** Yeah, no, I'll take the action because we.
 
-**elladillon:** We're doing that better anyway where we are finding ourselves get blocked or we are not confident that we're getting the right red, yellow, green from our poc.
+**Ella Dillon:** We're doing that better anyway where we are finding ourselves get blocked or we are not confident that we're getting the right red, yellow, green from our poc.
 
-**elladillon:** And so we want to make sure we're getting to the boss.
+**Ella Dillon:** And so we want to make sure we're getting to the boss.
 
-**elladillon:** Like so, for example, Netricks is an example where I have that as green.
+**Ella Dillon:** Like so, for example, Netricks is an example where I have that as green.
 
-**elladillon:** We had it as yellow because we were getting blocked by the day to day person.
+**Ella Dillon:** We had it as yellow because we were getting blocked by the day to day person.
 
-**elladillon:** Kathy did the right thing and she went to the CMO and we got him to confirm like who he wanted us to work with, which was not the blocker.
+**Ella Dillon:** Kathy did the right thing and she went to the CMO and we got him to confirm like who he wanted us to work with, which was not the blocker.
 
-**elladillon:** So anyway, to have that type of thing for us and then ongoing for sure.
+**Ella Dillon:** So anyway, to have that type of thing for us and then ongoing for sure.
 
 **Marcel Santilli:** Yeah.
 
@@ -1091,47 +1141,47 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** What's bred and savable that we should act on what's like confirmed and why, you know, and churn and, and if there's any where we want to potentially like, like fire as we talked about Ella as well.
 
-**elladillon:** But yeah, like for example, prophecy.
+**Ella Dillon:** But yeah, like for example, prophecy.
 
-**elladillon:** I saw Cody, who is our day to day contact, who loves us, just followed up with the team and asked if you could be on that call.
+**Ella Dillon:** I saw Cody, who is our day to day contact, who loves us, just followed up with the team and asked if you could be on that call.
 
-**elladillon:** And Carrie just confirms that you would not be on the call that you know, you already have that.
+**Ella Dillon:** And Carrie just confirms that you would not be on the call that you know, you already have that.
 
-**elladillon:** So they might be one that we fire.
+**Ella Dillon:** So they might be one that we fire.
 
-**elladillon:** For example, if Raj just keeps coming back and being super tactical.
+**Ella Dillon:** For example, if Raj just keeps coming back and being super tactical.
 
-**elladillon:** The other one that of course.
+**Ella Dillon:** The other one that of course.
 
-**elladillon:** We.
+**Ella Dillon:** We.
 
-**elladillon:** We were talking a lot about that.
+**Ella Dillon:** We were talking a lot about that.
 
-**elladillon:** Just down sold.
+**Ella Dillon:** Just down sold.
 
 **Marcel Santilli:** You know what?
 
-**elladillon:** And so I kind of assume we should.
+**Ella Dillon:** And so I kind of assume we should.
 
-**elladillon:** Maybe they did meet their.
+**Ella Dillon:** Maybe they did meet their.
 
-**elladillon:** Their request of if you downsell, you need to make sure we talk to the budget owner, which is her boss, Noah's boss.
+**Ella Dillon:** Their request of if you downsell, you need to make sure we talk to the budget owner, which is her boss, Noah's boss.
 
-**elladillon:** So I do want to have you have a strategic meeting with.
+**Ella Dillon:** So I do want to have you have a strategic meeting with.
 
-**elladillon:** So that we can talk about our roadmap and, like, why.
+**Ella Dillon:** So that we can talk about our roadmap and, like, why.
 
-**elladillon:** You know, why we are worth the eggs in the basket.
+**Ella Dillon:** You know, why we are worth the eggs in the basket.
 
-**elladillon:** So that was content.
+**Ella Dillon:** So that was content.
 
-**elladillon:** That was a contingent requirement on them renewing.
+**Ella Dillon:** That was a contingent requirement on them renewing.
 
-**elladillon:** But still, I would forecast them churning or us deciding to fire them in six months if they continue to play ball like that.
+**Ella Dillon:** But still, I would forecast them churning or us deciding to fire them in six months if they continue to play ball like that.
 
-**elladillon:** I have a question.
+**Ella Dillon:** I have a question.
 
-**elladillon:** I.
+**Ella Dillon:** I.
 
 **Marcel Santilli:** Anything else?
 
@@ -1143,23 +1193,23 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** As far as the next looking all the way out until end of Q2 that concern or have not verbally said they're intending to renew.
 
-**elladillon:** The only three that are not like, really that are not like Rim Kiss, but they're not immediate.
+**Ella Dillon:** The only three that are not like, really that are not like Rim Kiss, but they're not immediate.
 
-**elladillon:** Like, the bigger.
+**Ella Dillon:** Like, the bigger.
 
-**elladillon:** The big ones where the team is like Alex.
+**Ella Dillon:** The big ones where the team is like Alex.
 
-**elladillon:** Yes.
+**Ella Dillon:** Yes.
 
-**elladillon:** We're redoing their strategy.
+**Ella Dillon:** We're redoing their strategy.
 
-**elladillon:** They're looking at their pipeline.
+**Ella Dillon:** They're looking at their pipeline.
 
-**elladillon:** We're doing refresh of content to try and build trust.
+**Ella Dillon:** We're doing refresh of content to try and build trust.
 
-**elladillon:** So they're on it.
+**Ella Dillon:** So they're on it.
 
-**elladillon:** But that is a risk for sure for Alex.
+**Ella Dillon:** But that is a risk for sure for Alex.
 
 **Marcel Santilli:** I'm talking to Aaron.
 
@@ -1171,7 +1221,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** Yeah.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **Marcel Santilli:** But they're.
 
@@ -1179,15 +1229,15 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** I'm done on this.
 
-**elladillon:** Don.
+**Ella Dillon:** Don.
 
-**elladillon:** That's.
+**Ella Dillon:** That's.
 
-**elladillon:** Yeah, Don's holding us up.
+**Ella Dillon:** Yeah, Don's holding us up.
 
-**elladillon:** Sorry.
+**Ella Dillon:** Sorry.
 
-**elladillon:** I just gave you the update for life.
+**Ella Dillon:** I just gave you the update for life.
 
 **Marcel Santilli:** He's gone to the last two breakfasts we had.
 
@@ -1271,7 +1321,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** But I want a text message based with Allison, so that'll be easy.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **Bridget McGillivray:** Do you think she owns the budget still?
 
@@ -1291,7 +1341,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Bridget McGillivray:** Right, right, right.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
 **Bridget McGillivray:** I mean, that might be the good ask.
 
@@ -1307,17 +1357,17 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** We already talked about what's going on with Logic and Ambit, so I gave you the.
 
-**elladillon:** It's a problem when I look at everything.
+**Ella Dillon:** It's a problem when I look at everything.
 
-**elladillon:** Before I gave you the logic update, there has been a trust issue.
+**Ella Dillon:** Before I gave you the logic update, there has been a trust issue.
 
-**elladillon:** We're reworking their pipelines.
+**Ella Dillon:** We're reworking their pipelines.
 
-**elladillon:** They're doing refreshes in the meantime to build trust, and this has been part of the problem.
+**Ella Dillon:** They're doing refreshes in the meantime to build trust, and this has been part of the problem.
 
-**elladillon:** Like, both they and then Bailey have been out, so we're digging to kind of get the update this week, but it's still red, so.
+**Ella Dillon:** Like, both they and then Bailey have been out, so we're digging to kind of get the update this week, but it's still red, so.
 
-**elladillon:** No, no ask of you for them yet, but I'll keep you posted.
+**Ella Dillon:** No, no ask of you for them yet, but I'll keep you posted.
 
 **Marcel Santilli:** Okay.
 
@@ -1337,11 +1387,11 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** So even if we're also doing that separately as emotion on your team Ella, if you can help first that would be helpful.
 
-**elladillon:** What do you.
+**Ella Dillon:** What do you.
 
-**elladillon:** Part of me wants an em there with you just so that they can follow up any thread that you create.
+**Ella Dillon:** Part of me wants an em there with you just so that they can follow up any thread that you create.
 
-**elladillon:** And also they're listening to what you're doing and how you're saying and what you're positioning it or do you want.
+**Ella Dillon:** And also they're listening to what you're doing and how you're saying and what you're positioning it or do you want.
 
 **Marcel Santilli:** Just it's very, very separate.
 
@@ -1359,7 +1409,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** You know, it's like it throws off the vibe, you know.
 
-**elladillon:** Yeah, yeah, yeah.
+**Ella Dillon:** Yeah, yeah, yeah.
 
 **Marcel Santilli:** Completely.
 
@@ -1389,11 +1439,11 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** Yeah.
 
-**elladillon:** And I prior my preference again so you can totally do the right vibe is that we're getting you involved when we're smelling smoke but it's not red but we're like we have vibes on an account and then you can get in and if we can't get multi threaded or if we can't whatever.
+**Ella Dillon:** And I prior my preference again so you can totally do the right vibe is that we're getting you involved when we're smelling smoke but it's not red but we're like we have vibes on an account and then you can get in and if we can't get multi threaded or if we can't whatever.
 
-**elladillon:** But if we have you just I mean, we obviously, we need to use you on save plays.
+**Ella Dillon:** But if we have you just I mean, we obviously, we need to use you on save plays.
 
-**elladillon:** So they'll be.
+**Ella Dillon:** So they'll be.
 
 **Marcel Santilli:** Yeah, like, like this.
 
@@ -1469,49 +1519,49 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** The idea is like, I want to talk to as many customers as possible, no matter what.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
 **Marcel Santilli:** I'm setting a budget for it.
 
 **Marcel Santilli:** Help me prioritize how to deploy that budget as much as possible.
 
-**elladillon:** Yeah, we'll get that started right away.
+**Ella Dillon:** Yeah, we'll get that started right away.
 
-**elladillon:** Cool.
+**Ella Dillon:** Cool.
 
 **Marcel Santilli:** Okay, great.
 
-**elladillon:** The one thing I'd like to.
+**Ella Dillon:** The one thing I'd like to.
 
-**elladillon:** I was just going to say I'll do here too, like at the end.
+**Ella Dillon:** I was just going to say I'll do here too, like at the end.
 
-**elladillon:** Or at least I'll just make sure I start writing it in.
+**Ella Dillon:** Or at least I'll just make sure I start writing it in.
 
-**elladillon:** If we don't get to it is any trends I'm seeing that I think might turn something red.
+**Ella Dillon:** If we don't get to it is any trends I'm seeing that I think might turn something red.
 
-**elladillon:** Generally speaking, like, so.
+**Ella Dillon:** Generally speaking, like, so.
 
-**elladillon:** So for example, Turnstile converted.
+**Ella Dillon:** So for example, Turnstile converted.
 
-**elladillon:** But William's perspective is that we should consider that yellow moving into pods because there were quality issues through that Seema was very frustrated with.
+**Ella Dillon:** But William's perspective is that we should consider that yellow moving into pods because there were quality issues through that Seema was very frustrated with.
 
-**elladillon:** And his perspective is there's sort of that fallacy of she was already so deep, she just didn't have time to, like, say, go away and you know, whatnot.
+**Ella Dillon:** And his perspective is there's sort of that fallacy of she was already so deep, she just didn't have time to, like, say, go away and you know, whatnot.
 
-**elladillon:** So we should consider that like an at risk account and manage the quality and make sure that we're building trust and Runway with them.
+**Ella Dillon:** So we should consider that like an at risk account and manage the quality and make sure that we're building trust and Runway with them.
 
-**elladillon:** The other thing is Rimkus, I think, had issues through Sprint, but we're trying to get to the CMO to unblock ourselves.
+**Ella Dillon:** The other thing is Rimkus, I think, had issues through Sprint, but we're trying to get to the CMO to unblock ourselves.
 
-**elladillon:** But the issue, the marketing team doesn't want to publish anything because they're terrified of liability and risk.
+**Ella Dillon:** But the issue, the marketing team doesn't want to publish anything because they're terrified of liability and risk.
 
-**elladillon:** And so we literally can't do our job with Rimkus, for example.
+**Ella Dillon:** And so we literally can't do our job with Rimkus, for example.
 
-**elladillon:** Anyway, bottom line is I'll do a better job prior to these to start sharing trends in advance that we don't necessarily have to talk about.
+**Ella Dillon:** Anyway, bottom line is I'll do a better job prior to these to start sharing trends in advance that we don't necessarily have to talk about.
 
-**elladillon:** But Marcel, that you have, you have visibility kind of week to week on sort of some things that we're seeing that even if we're not going to flag an ARR, you kind of have a sense of what we're starting to monitor.
+**Ella Dillon:** But Marcel, that you have, you have visibility kind of week to week on sort of some things that we're seeing that even if we're not going to flag an ARR, you kind of have a sense of what we're starting to monitor.
 
-**elladillon:** Is that fair?
+**Ella Dillon:** Is that fair?
 
-**elladillon:** Is that how you'd like this to happen?
+**Ella Dillon:** Is that how you'd like this to happen?
 
 **Marcel Santilli:** Yeah, that sounds good.
 
@@ -1583,17 +1633,17 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** She's coming to our breakfast, like, so we should use our influencers as like more strategically and build those relationships, you know, both.
 
-**elladillon:** I had Seema on my radar to go make a personal like for me to go meet and make sure I'M listening to her and like what her experience has been so she knows that we're listening and we're actively interested in her experience.
+**Ella Dillon:** I had Seema on my radar to go make a personal like for me to go meet and make sure I'M listening to her and like what her experience has been so she knows that we're listening and we're actively interested in her experience.
 
-**elladillon:** In particular, I miss the name of the other person you just said.
+**Ella Dillon:** In particular, I miss the name of the other person you just said.
 
 **Marcel Santilli:** Francois.
 
-**elladillon:** All right.
+**Ella Dillon:** All right.
 
-**elladillon:** I met, he was at the dinner.
+**Ella Dillon:** I met, he was at the dinner.
 
-**elladillon:** I met him at the dinner.
+**Ella Dillon:** I met him at the dinner.
 
 **Marcel Santilli:** Yeah.
 
@@ -1609,7 +1659,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** So.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **Bridget McGillivray:** Okay.
 
@@ -1617,11 +1667,11 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Bridget McGillivray:** Anything others wanted to cover today that we didn't get to.
 
-**elladillon:** No, no, I think we have the tactical.
+**Ella Dillon:** No, no, I think we have the tactical.
 
-**elladillon:** We covered it in chat of how you want us to handle down sells from a forecasting perspective.
+**Ella Dillon:** We covered it in chat of how you want us to handle down sells from a forecasting perspective.
 
-**elladillon:** But we can take that offline.
+**Ella Dillon:** But we can take that offline.
 
 **Bridget McGillivray:** Yes, let's talk about that.
 
@@ -1655,13 +1705,13 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** Well let's keep you know like downsell is a win because you can always upsell later and add more.
 
-**elladillon:** They actually love us.
+**Ella Dillon:** They actually love us.
 
-**elladillon:** They just feel like they have to distribute their eggs in a basket so that, that's like a positive one.
+**Ella Dillon:** They just feel like they have to distribute their eggs in a basket so that, that's like a positive one.
 
-**elladillon:** Unlike prophecy.
+**Ella Dillon:** Unlike prophecy.
 
-**elladillon:** Our day to day guy loves us but.
+**Ella Dillon:** Our day to day guy loves us but.
 
 **Marcel Santilli:** Yeah, yeah, yeah.
 
@@ -1675,7 +1725,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** Yeah.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **Bridget McGillivray:** Okay.
 
@@ -1981,7 +2031,7 @@ This is a recurring weekly GTM & Delivery review with GrowthX's go-to-market and
 
 **Marcel Santilli:** Cool.
 
-**elladillon:** Yes.
+**Ella Dillon:** Yes.
 
 **Bridget McGillivray:** My answer is yes.
 

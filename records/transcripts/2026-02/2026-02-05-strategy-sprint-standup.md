@@ -5,24 +5,36 @@ date: 2026-02-05
 time: 16:30 UTC
 duration: 63 minutes
 organizer: team@growthxlabs.com
-participants: William Leborgne, Nathalie Schrans, Hassan Rashid, Ifeoluwa Adekoya, Kyle, Marcel
+participants:
+  - name: William Leborgne
+    role: Director of Services
+  - name: Nathalie Schrans
+    role: Marketing Expert
+  - name: Hassan Rashid
+    role: Engagement Manager
+  - name: Ifeoluwa Adekoya
+    role: Engagement Manager
+  - name: Sydney Arin Go
+    role: Content Team
+source: fireflies
 fireflies_id: 01KG82CVDJ8TCBD9VBP25A9CYJ
 transcript_url: https://app.fireflies.ai/view/01KG82CVDJ8TCBD9VBP25A9CYJ
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Strategy sprint standup covering technical SEO audit policy, a new collaborative content strategy process between Marketing Experts and Engagement Managers, client-specific updates across multiple accounts, and operational improvements including a custom Notion project management system. The team agreed that technical SEO audits are mandatory for all clients regardless of contract terms, and that content strategy will now be co-developed starting in week two with calibration articles moved earlier.
+The team established technical SEO audits as a mandatory best practice for all clients (~3 hours each) and restructured content strategy development as a collaborative week-two process between Marketing Experts and Engagement Managers. A new Notion-based project management system is launching next week to replace the Kanban board, with escalation protocols and sprint health signals being formalized across accounts (CRV, Telaro, Navon, Panther, Black Soul, Turnstile).
 
 ---
 
 ## Context
 
-This is the strategy sprint standup where marketing experts (MEs) and engagement leadership review client content strategies, quality issues, and process improvements. The meeting bridges the gap between content production and client engagement, ensuring strategic alignment on what gets produced and how it maps to client goals.
+This is the weekly strategy sprint standup where William (Director of Services) leads the Marketing Expert and Engagement Manager team through client content reviews, delivery quality issues, and operational improvements. The meeting serves as the coordination hub between content strategy (ME perspective) and client relationship management (EM perspective), ensuring every deliverable maps to client outcomes and contract commitments.
 
-The team is in the middle of several process changes: moving calibration articles earlier in the engagement timeline, introducing joint ME-EM content strategy development, building a custom project management tool in Notion, and formalizing escalation protocols. These changes reflect GrowthX's push to improve delivery quality and predictability as the client portfolio grows.
+The team is navigating three simultaneous structural changes: (1) formalizing technical SEO as a mandatory onboarding step to reduce hidden risks, (2) shifting content strategy from EM-led to ME-EM co-developed to improve strategic depth, and (3) replacing manual Kanban tracking with a custom Notion system to enable scalable health monitoring. These moves reflect GrowthX's maturation from project-based delivery to relationship-based outcomes management as the client roster has grown.
 
 ---
 
@@ -54,22 +66,62 @@ The team is in the middle of several process changes: moving calibration article
 
 ---
 
+## Decisions & Commitments
+
+**Decisions Made:**
+- Technical SEO audits are now mandatory for all new clients, regardless of contract specifications (~3-hour investment per client)
+- Content strategy development will shift to week two and be co-created by MEs and EMs via hour-long collaborative calls (formal SOP in development)
+- Calibration articles will move from week three to week two to enable faster client feedback loops
+- Notion-based project management system will replace Kanban board, launching next week with weekly health metric updates
+- Escalation protocols and sprint health signals (green/yellow/red) will be standardized for issue reporting
+
+**Team Commitments:**
+- William: Coordinate ME, EM, and infrastructure bandwidth for technical SEO audits on all new clients with Tyler, Kyle, and Talal
+- William: Push for CRV calibration article review completion to prevent production backlog
+- William: Increase Marcel's participation in sprint meetings and feedback sessions (currently ~40% completion rate)
+- Hassan & Ifeoluwa: Improve post-processing workflows for complex technical content (Turnstile, Black Soul)
+- Nathalie: Monitor technical accuracy and product messaging for Black Soul (highly technical domain with pricing complexity)
+- Team: Peer-to-peer feedback culture when Marcel unavailable; expect tough feedback aimed at quality elevation
+
+---
+
+## Open Questions
+
+- **Analytics Access Timing:** How do we coordinate Angie on analytics access during client upgrades for accurate performance tracking?
+- **Fan-Out Posts ROI:** Will fan-out posts (half-length articles) demonstrate measurable AI visibility wins to justify workflow expansion?
+- **Black Soul Technical Depth:** Can generalized language ("usage-based pricing, check official site") adequately handle a highly technical domain without losing credibility?
+- **Sanity CMS Internal Linking:** Will minimizing links resolve the multilingual staging bottleneck, or do we need a longer-term technical solution?
+- **Notion Health Metrics:** What quantitative health metrics will EMs need to input weekly to make the new project management system actionable?
+- **ME Workload Impact:** Will the shift to week-two ME-EM collaboration increase ME workload initially, or will it improve execution efficiency sooner?
+
+---
+
 ## Overview
 
-- Technical SEO audits declared mandatory best practice for all clients (~3 hours each)
-- William coordinating with Tyler and Kyle to assign bandwidth for audits on new clients
-- Content strategy process changing: MEs and EMs co-develop strategy in week two via joint hour-long calls
-- Calibration article moved to week two for faster feedback loops
-- Custom Notion project management tool replacing Kanban board, launching next week
-- Escalation protocols and sprint health signals being formalized
-- Black Soul content indexed well by LLMs but technical/product accuracy issues remain
-- Turnstile wants artifact access; post-processing improvements needed
-- CRV calibration review delayed — risk of production backlog
-- Telaro schema markup implemented; competitor comparison approach is factual without negative framing
-- Navon publishing speed increased; prioritization framework in progress
-- Panther happy with quality; CTA blocks being customized
-- Sanity CMS staging challenges flagged (multilingual internal linking)
-- Marcel's feedback sessions to be increased from ~40% completion rate
+**Process Changes:**
+- Technical SEO audits declared mandatory best practice for all clients, taking ~3 hours per audit
+- William coordinating bandwidth allocation with Tyler, Kyle, and Talal across ME and infrastructure teams
+- Content strategy workflow shifting to week two with co-developed ME-EM strategy calls (1 hour each)
+- Calibration articles moving from week three to week two to enable faster client feedback and iteration
+- Custom Notion project management system launching next week (replacing Kanban board), requires weekly health metric updates
+- Escalation protocols and sprint health signals (green/yellow/red) being standardized for consistent issue reporting
+
+**Content Quality Issues:**
+- Black Soul: LLM indexing and citations strong, but persistent technical/product accuracy challenges due to domain complexity and frequent pricing changes
+- Turnstile: Requesting direct artifact access for review; post-processing and editing pipeline improvements needed
+- Turnstile: Fan-out posts (half-length articles) being tested to evaluate AI visibility ROI
+
+**Client Status Snapshots:**
+- CRV: Calibration article review delayed — active risk of production backlog; needs William follow-up
+- Telaro: Trust in strategy intact; schema markup implemented; competitor comparisons handled factually; CTA banners near completion
+- Navon: Publishing speed increased; new point of contact (John); content prioritization framework in progress; gated reports arriving week of Feb 10
+- Panther: Satisfied with content quality; customizable CTA blocks being prepared
+- Witness & Daylight: Status okay; technical SEO audit not originally in contracts but now being added as mandatory
+
+**Operations & Tools:**
+- Sanity CMS staging bottleneck identified: multilingual internal linking requires manual edits; team recommending link minimization as short-term fix
+- Marcel's feedback session participation at ~40% completion rate; team committed to increasing attendance and peer-to-peer reviews when Marcel unavailable
+- Content strategy SOPs in development to standardize ME-EM collaboration process
 
 ---
 
@@ -121,37 +173,34 @@ The team is in the middle of several process changes: moving calibration article
 ## Action Items
 
 **William Leborgne**
-- Confirm with Tyler and Kyle the assignment and bandwidth for technical SEO audits
-- Follow up with Black Soul on technical/product content accuracy and pricing disclaimers
-- Ensure Notion project management tool deployment by next week with Leah feedback loop
+- Confirm with Tyler, Kyle, and Talal the assignment and bandwidth allocation for technical SEO audits on all new clients
+- Follow up with Black Soul on technical/product content accuracy issues and pricing disclaimer strategy
+- Ensure Notion project management tool deployment next week with Leah and team feedback loop
 - Push to get CRV calibration article reviewed to prevent production backlog
-- Coordinate with Angie on analytics access timing during client upgrades
-- Review content strategy Looms and provide feedback; encourage team participation
+- Coordinate with Angie on analytics access timing and visibility tracking during client upgrades
+- Review and provide feedback on content strategy Looms; encourage team participation in peer feedback
 
 **Nathalie Schrans**
-- Continue monitoring technical accuracy and product messaging for Black Soul
-- Assist in refining post-processing workflows for complex technical content
+- Continue monitoring technical accuracy and product messaging for Black Soul (highly technical domain)
+- Assist in refining post-processing workflows for complex technical content across the team
 
 **Hassan Rashid**
 - Review and improve post-processing workflows and QA for Turnstile
-- Create fan-out posts content pipeline and test workload effort
-- Ensure analytics access and visibility wins discussed with Telara client
+- Create fan-out posts content pipeline and test workload effort/ROI
+- Coordinate analytics access and visibility wins discussion with Telaro
 - Assist with Telaro schema markup and CTA implementation
 
 **Ifeoluwa Adekoya**
-- Stage calibration articles for Neverex; flag Sanity CMS bottlenecks
-- Recommend minimizing link usage to reduce manual staging effort
+- Stage calibration articles for Navon; flag Sanity CMS staging bottlenecks and multilingual linking challenges
+- Recommend minimizing internal link usage to reduce manual staging effort in the short term
 - Collaborate with Sydney on content production output and workload adjustments
 
 **Kyle**
-- Coordinate ME and EM bandwidth for collaborative content strategy and technical SEO audits
+- Coordinate ME and EM bandwidth allocation for collaborative content strategy development and technical SEO audits
 
 ---
 
 ## Transcript
-
-: This meeting is being recorded. : The recording has stopped. : This meeting is being recorded.
-
 **William Leborgne:** Good morning.
 
 **William Leborgne:** Evening.

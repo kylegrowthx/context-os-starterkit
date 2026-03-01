@@ -5,109 +5,162 @@ date: 2026-02-25
 time: 17:00 UTC
 duration: 30 minutes
 organizer: marcel@growthxlabs.com
-participants: Scott Lendzion, Marcel Santilli
+participants:
+  - name: Scott Lendzion
+    title: Former VP Financial Services, DocuSign
+    company: (Exploring opportunity)
+  - name: Marcel Santilli
+    title: CEO
+    company: GrowthX
+source: fireflies
 fireflies_id: 01KJ617PWQF926VFEQD0J30QZC
 transcript_url: https://app.fireflies.ai/view/01KJ617PWQF926VFEQD0J30QZC
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Scott Lendzion, who built DocuSign's financial services vertical from $25M to $300M in revenue over seven years, met with Marcel Santilli to explore a potential leadership role at GrowthX. Marcel shared GrowthX's journey from bootstrapped $3M ARR to $13M ARR with 90 employees and 70+ customers after raising Series A from Madrona. The company maintains 70% gross margins on service delivery, is cash flow positive, and aims to triple revenue from $12M to $36M by scaling sales capacity and building platform offerings beyond full-service engagements.
+Marcel Santilli introduced Scott Lendzion to GrowthX's business model and growth trajectory. Scott, who scaled DocuSign's financial services vertical from $25M to $300M in seven years, is exploring a leadership role at GrowthX. Marcel outlined the company's path from bootstrapped $3M ARR to $13M ARR in 18 months with 90 employees and 70+ customers, 70% gross margins, and a goal to reach $36M by increasing sales capacity and expanding beyond full-service delivery into platform offerings.
+
+---
+
+## Context
+
+Scott Lendzion was introduced to Marcel via Lauren (Madrona operating partner), indicating strong investor backing and validation. Scott spent most of his career at DocuSign, where he built one of the company's largest revenue streams ($300M in financial services). He recently left DocuSign and is actively considering "really cool opportunities with great people," signaling openness to a new role. Marcel has known Scott through his Madrona network and sees him as a potential leadership hire to drive sales expansion at GrowthX.
+
+This is an exploratory conversation early in what could become a recruitment process. Both participants are testing compatibility and exploring whether Scott's scaling experience at DocuSign translates to GrowthX's market expansion needs.
+
+---
+
+## Relevance
+
+**Sales & Revenue (Primary)**
+- Scott's expertise in scaling sales organizations from 8 to 150 sellers directly relevant to Marcel's goal of doubling kickoffs per week
+- Discussion of AE profiles, hiring criteria, and sales motion design
+
+**Market Expansion**
+- Marcel shared narrowness of current customer base (mostly AI-native and security companies from his background)
+- Plans to pursue e-commerce and non-Silicon Valley markets
+- Need for intentional outbound expansion beyond inbound
+
+**Product & Delivery**
+- 70% gross margins on full-service delivery indicates pricing power
+- Platform evolution beyond services discussed (CheckThat AI software product)
+- Questions about implementation models and software scaling
+
+---
+
+## Decisions & Commitments
+
+**Committed**
+- Marcel will arrange introduction between Scott and Anna Baird (Madrona operating partner) for further discussions
+- Scott to coordinate scheduling through Marcel's executive assistant to connect with Anna Baird
+
+**Discussed but Not Committed**
+- Scott's potential role or scope at GrowthX not yet defined
+- Specific timing and terms for any engagement not discussed
+
+---
+
+## Open Questions
+
+- What specific leadership role or scope is being considered for Scott (VP Sales, Chief Revenue Officer, etc.)?
+- What is Scott's timeline for a decision or next steps?
+- Does Scott see existing GrowthX AEs as ready for expanded territories, or does he recommend significant turnover?
+- How would Scott's compensation/equity be structured given GrowthX's stage and growth trajectory?
+- What other companies or opportunities is Scott considering?
+
+---
+
+## Overview
+
+**Key Topics Covered**
+- Scott's background: DocuSign financial services vertical growth ($25M → $300M, 8 → 150 sellers over 6-7 years)
+- GrowthX financials: $3M → $13M ARR in 18 months, 90 employees, 70+ customers, 70% gross margins, cash flow positive
+- Current GTM: 2 AEs, 2 kickoffs per week, booked out 2 months
+- 2026 goal: 4 kickoffs per week with expanded sales/marketing
+- Market: Primarily AI-native and security companies; need to expand to e-commerce and non-tech verticals
+- Product: Full-service delivery + CheckThat AI (software product) in development
+- Madrona funding context and Lauren's (operating partner) role in introduction
 
 ---
 
 ## Action Items
 
-**Marcel Santilli**
+**Marcel Santilli (GrowthX)**
 - Arrange introduction and meeting with Madrona operating partner Anna Baird for Scott Lendzion
 
 **Scott Lendzion**
-- Coordinate scheduling with Marcel's executive assistant to connect with Anna Baird for further discussions
+- Coordinate scheduling with Marcel's executive assistant to connect with Anna Baird
 
 ---
 
 ## Transcript
 
-**Scott Lendzion:** Baby. Oh, cool.
+**[Opening warmup about families and kids—omitted for brevity]**
 
-**Marcel Santilli:** Congrats. Most likely one and done, but it was. Yeah. So that's great. What have I got?
+---
 
-**Scott Lendzion:** I've got two boys, 13 and 10 and so middle, middle school and fourth grade and man, it goes fast.
+**Scott Lendzion:** Where are you located?
 
-**Marcel Santilli:** Yeah. Imagine when they're two and five. Holy shit. That was crazy.
+**Marcel Santilli:** I'm in Oakland, in the Bay.
 
-**Scott Lendzion:** Yeah. And boys, you know, it's like we have friends, have friends that have just girls and they'll like come over for dinner or something like that and the whole family will just watch our boys just be rowdy and they're just like, this is a different energy, man.
+**Scott Lendzion:** I'm in one of the Seattle suburbs—Bellevue, Kirkland area. But I spent a lot of time in the Bay when I was with DocuSign. We were headquartered down there. Congratulations on the Madrona funding. That's great.
 
-**Scott Lendzion:** So, yeah, like we had neighbors, they moved, but they had two boys too, kind of similar age gap. And they've came over to dinner like twice when they used to live here. And I remember them walking out and I was just like, I'm freaking exhausted. Like, just watching them like, like it was just like next level, like 3 second increments of attention spans.
+**Marcel Santilli:** Yeah, thanks. How much context do you have on the company? What would be helpful before I do that? But also, I'd love a quick intro on your end as well.
 
-**Scott Lendzion:** There's that comedian, Nate Bargazzi. He says his, his friend told him to watch their boy and he's like, I didn't know they were dropping off a bobcat at our house.
+**Scott Lendzion:** I'd love the CEO elevator pitch. I spent some time on the website. I haven't talked to Lauren—we were in Maui last week. He just texted asking if I'd responded, and I said we have you to bcc. So I'd love that from you.
 
-**Scott Lendzion:** And where, where are you located?
+My journey recently with DocuSign: I was brought in by Lauren to build out our financial services vertical. I spent six, seven years there, taking a team from eight sellers with a $25 million business to 150 sellers with a $300 million business. We were DocuSign's largest revenue stream—about 24% of the company's overall revenue. Focused on banks, credit unions, mortgage insurance. I owned everything from freemium to paid SMB teams up to our largest strategic revenue contracts.
 
-**Marcel Santilli:** I'm in Oakland, in the Bay. Okay. What about you?
+**Marcel Santilli:** That's awesome. Sounds like the right kind of decision.
 
-**Scott Lendzion:** I'm in one of the Seattle suburbs. So if you know Seattle, I'm in like the Bellevue Kirkland area.
+**Scott Lendzion:** Yeah, it's been really cool. My boys have been like, "That's awesome, dad." But when I talk about getting back into something, they're like, "Wait, what are we doing? How's this going to work?" Lauren and I had lunch a couple weeks ago, and he asked if I was interested in getting back into anything. I said I've always been open to really cool opportunities with great people. He said, "I might have one." That's when the intro email came through. He speaks highly of you guys.
 
-**Marcel Santilli:** Oh, nice. Yeah, that's really nice.
+**Marcel Santilli:** Thank you. Yeah, Madrona and Lauren have been really amazing. I'll give you my full journey. I'm originally from Brazil—born and raised in São Paulo. Moved to Houston, Texas when I was 11, then went to Austin. I didn't speak a word of English, so imagine being a middle schooler learning English and dealing with all that.
 
-**Scott Lendzion:** Yeah, yeah, yeah. But spent a lot of time in the Bay when I was with DocuSign. I was down there often. Obviously we were headquartered down there. So. Yeah. And congratulations on the, the Madrona funding. That's great.
+I started my career at technical companies. At IBM Security, I built up their publication, Security Intelligence, and at HP Software, also serving developers, I built TechBeacon.com. DevOps was one of the biggest areas we covered. I hired folks from Computer World and Wired, did a lot of content with Gene Kim and the early DevOps community. We grew the site to about a million visitors a month—about 20 articles a week, highly editorialized with top experts.
 
-**Marcel Santilli:** Yeah, thanks, man. It's. How much context do you have now on the, on the company and stuff? And what would be helpful before. But also before I do that, I'd love to just do a quick, quick intro on your end as well.
-
-**Scott Lendzion:** Yeah, for sure. So to answer both those, I would love like the CEO elevator pitch. I spent some time on the website. I haven't talked to Lauren. We were in Maui last week and so I haven't caught up with him. The only thing I got from him was, was the intro email. And then he texted me and said, have you responded? And I said, yeah, we put you to bcc, man. So would love that from you.
-
-**Scott Lendzion:** But yeah, my journey Most recently with DocuSign, I was brought in by Lauren to build out our financial services vertical. And I spent, gosh, six, seven years there. Taking a team from eight sellers $25 million business to 150 sellers $300 million business. We were run largest revenue stream at DocuSign. About 24% of the company's overall revenue focused on banks, credit unions, mortgage insurance, and all of the above. And so really built a really cool business there. I owned everything from like our freemium to paid SMB teams up to our strategic largest revenue contracts in the business. So those really big strategic relationship building deals as well.
-
-**Marcel Santilli:** That's awesome, man. Yeah, but good, good for you. And that sounds like the right kind of decision to make, you know?
-
-**Scott Lendzion:** Yeah, yeah, definitely. It's. It's been really cool. My boys have really just been like, this is awesome, dad. And when I talk about getting back into something, they're like, wait a minute, wait, wait, wait, wait. What are we doing? How's this Kevin gonna work now? Exactly.
-
-**Scott Lendzion:** So, and then that kind of brings me to here. And I think the reason Lauren and I had lunch a couple weeks ago and he said, are you interested in get back into anything? And I said, I've always been open for like a really cool opportunity, really great people to work with. And he said, I might have one. And so that's when the email came, came through to introduce us. So he speaks highly of you guys.
-
-**Marcel Santilli:** Thank you. Thank you. Yeah, Madrona and Lauren, everybody's been really amazing. Well, I'll give you like my, my kind of like full, full journey. So I'm originally from Brazil, born and raised in Sao Paulo, Moved to Houston, Texas when I was 11, went to Austin, so. And when I moved, didn't speak a word of English. So you can imagine like a middle schooler learning English and being bully at the same time, like, because it was, you know, the shitty name Red in Houston kind of thing.
-
-**Marcel Santilli:** I started my career early on at pretty much like worked mostly technical companies. I was at IBM Security built up their publication called Security Intelligence.com and after that I was at a company, HP Software, which was also serving devs. And I built a site called tech beacon.com DevOps was one of the biggest areas that we cover. And so I hire a lot of folks from like Computer World and Wired, did a lot of content with the Gene Kim and a lot of the folks in that, like, you know, like the early days of DevOps, if you will. Right. Like, and grew the site to about a million visitors a month. And the way we're doing it was like about 20 articles a week, highly, highly editorialized with like top experts across the space.
-
-**Marcel Santilli:** And then I was at Hashicorp, which was also super, super technical, as technical as you can possibly get.
+Then I was at HashiCorp, which was very technical.
 
 **Scott Lendzion:** That's actually one of our competitors for one of our products.
 
-**Marcel Santilli:** Nice. Nice. Yeah. And so I, I stood up their, their Learn platform, which is Learn Dodd, and a lot of their content in they really well went from 6 to 100 million in two years. And so been in a lot of that space. And then I was at Skill AI and kind of how it led to here was when I was at a company called Deepgram.
+**Marcel Santilli:** I stood up their Learn platform—Learn Docker. Their content went from 6 to 100 million in two years. Then I was at Skill AI and Deepgram.
 
-**Marcel Santilli:** Most recently I started building AI workflows to take all the process of how I had built content engines my whole career the last 15 years, you know, and a lot of that was like, exactly to your point of like, how do you identify the right opportunities? How do you create the right context that agents can actually use to execute this, like these plans, if you will? Right. And how do you engineer quality? And it's not just like one thing, right? You really have to go down to first principles, like how you do research, what context you have on your company and your product and things like that.
+Most recently, I started building AI workflows to scale the content engine processes I'd built over 15 years. How do you identify the right opportunities? How do you create the right context that agents can use to execute these plans? How do you engineer quality? It goes down to first principles—how you do research, what context you have on your company and product.
 
-**Marcel Santilli:** And then long story short, we did, I did three workshops. We had 170 people pay 500 bucks. And that's how GrowthX get started. People were like. When I was trying to teach them how to build workflows and what I had done, and people were like, can you just do it for me? Like, I don't want to. This is awesome, but I don't have a hundred hours or a thousand hours to do this, you know, I was like, cool, interesting. And that's how Growth Access started.
+We did three workshops. 170 people paid $500 each. That's how GrowthX started. People said, "Can you just do it for me? I don't have a hundred or thousand hours to do this." That's how GrowthX began.
 
-**Scott Lendzion:** And what year, what year was that?
+**Scott Lendzion:** What year was that?
 
-**Marcel Santilli:** 2024. Yeah. So this is like 18 months ago, essentially. Yeah, gotcha. And, and that's when in January, I was like, I told my co founder cto he had built a company called if this and that. He was their, their head of product and engineering. And I was like, I think we should raise because, like, it's kind of getting scary. Like we, we were booked out two months, like two kickoffs a week, booked out two months. And we had profits in the bank, right? Like, but like, our payroll is going up, our credit card's going up. Yeah, those are going up. And it's like, but money doesn't come in right away.
+**Marcel Santilli:** 2024. So 18 months ago. In January, I told my co-founder and CTO—he built IFTTT and was their head of product and engineering—"I think we should raise. We're booked out two months with two kickoffs a week. We have profits in the bank, but payroll and credit cards are going up, and money doesn't come in right away."
 
-**Marcel Santilli:** So think of it as like we were bootstrapped, like 15 people, 3 million in revenue, highly profitable. And then it's only been 12 months since like money hit the bank, you know. Wow. And now we're like almost 13 million in ARR. We've been. We're bringing more, a little bit more money now, but we've been cash flow positive too, the last five months. So it's not like we're like, you know, so we're in charge of our own destiny essentially. Right. We've had like a 0.33 burn multiple.
+We started bootstrapped with 15 people, $3 million in revenue, highly profitable. It's only been 12 months since funding money hit the bank. Now we're almost $13 million in ARR, and we've been cash flow positive the last five months. We're in charge of our own destiny. We've had a 0.33 burn multiple.
 
-**Marcel Santilli:** And. And so we run the company like insanely efficiently. We still have like 12 million in the bank, HubSpot and a few others invested in a safe late last year. So like, that kind of like made up for what we had burned to date. And so lifetime of the company, we burned less than 4 million to get to here. And we're 90 employees, a little over 90 employees now. And we have a little over 70 customers.
+We run the company insanely efficiently. We still have $12 million in the bank. HubSpot and others invested in a SAFE late last year. Lifetime of the company, we burned less than $4 million to get here. We're 90 employees now and have over 70 customers.
 
-**Scott Lendzion:** How many AES do you need for. For that to happen?
+**Scott Lendzion:** How many AEs do you need for that to happen?
 
-**Marcel Santilli:** We're kind of defined gravity a little bit, you know, but we don't know, like, what the model is going to end up being. But I'm hoping we are not in the game of like, too much defy gravity, but also not. Let's go higher 28s. Right. You know, and. And so, like, if Tyler keeps doing what he's doing, he would do maybe 10 million this year, you know.
+**Marcel Santilli:** We're defining gravity a bit. We don't know what the model will end up being. I'm hoping we're not in the too-much-gravity game, but also not too high. If our top AE keeps doing what he's doing, he'd do maybe $10 million this year.
 
-**Scott Lendzion:** Okay, gotcha. So I do think we could hit our numbers with 2 or 3, but I also don't want any single point of failure either. And there's a lot of. I want to be more intentional about going after certain areas. Like right now we're like, it's like lovable Vercel just kicked off this week. It's like these ramp racks. Like, it's like these very, like, like these companies are very AI forward and tech enabled.
+**Scott Lendzion:** So you could hit your numbers with 2 or 3, but you don't want any single point of failure either. You want to be more intentional about going after certain areas. Right now you're focusing on very AI-forward, tech-enabled companies—Vercel just kicked off this week.
 
-**Marcel Santilli:** You know and so like there's like for instance, like a surgeon came in down and it was like he's been paying more money to a shitty agency to help him. Like we think there is like growth. There's like so many other businesses. Like E commerce is a huge lane. There's a lot more that like there's the rest of the world that's not in Silicon Valley, essentially, you know that. Right. But that's not my network. So a lot of our companies are AI native. They're AI companies and they're security companies essentially because of my background, you know. So we gotta go after like other areas, you know.
+**Marcel Santilli:** There are so many other businesses. E-commerce is a huge lane. There's so much that's not in Silicon Valley. But that's not my network. A lot of our companies are AI-native, AI companies, and security companies because of my background. We gotta go after other areas.
 
-**Scott Lendzion:** Yeah, yeah. And is is the plan like right now 2, 3 AES can handle the inbound. You want to build out a little bit more of a broad outbound kind of function as well.
+**Scott Lendzion:** So right now 2 or 3 AEs can handle the inbound. You want to build out a broader outbound function as well?
 
-**Marcel Santilli:** Yeah, like we have it's multiple motions right now as well as multiple delivery models. Today it's full service, but it's still 70% gross margin service. And then as the platform matures, there's a little bit of how do we want to approach that? We still think there's a call IT implementation, but there's a few lanes there. Then we launched Check that AI, which is our AI visibility platform. So there's a pure software play there. So it's really building up the right muscles to be able to do multiple lanes and have compounding lanes as opposed to be like distracted. Right.
+**Marcel Santilli:** Yeah, we have multiple motions and multiple delivery models now. Today it's full service, but we still have 70% gross margin on services. As the platform matures, we'll approach it differently. We have CheckThat AI, our AI visibility platform—a pure software play. We're building the right muscles to do multiple compounding lanes instead of being distracted.
 
-**Marcel Santilli:** But our goals for this year are pretty much like 90% based on keep doing what we're doing and do a little bit more of what we're doing. Essentially go from two kickoffs a week to four kickoffs a week. We've been doing two kickoffs a week for 18 months. So it's like you should be able to, you know, building the sales and marketing machine to. To like, you know, go. Go a little higher.
+Our goals for this year are 90% based on keeping doing what we're doing and a little more of it. Go from two kickoffs a week to four kickoffs a week. We've been at two per week for 18 months. Building the sales and marketing machine to go higher.
 
-**Scott Lendzion:** Yeah, yeah. Interesting. And then the profile of the two AES you've hired, where are you guys finding them?
+**Scott Lendzion:** Interesting. What's the profile of the two AEs you've hired? Where are you finding them?
 
-**Marcel Santilli:** Both of them have already sold into a marketing like audience and either worked for a marketing adjacent or a marketing like platform when was somewhat of a direct competitor.
+**Marcel Santilli:** Both have already sold to a marketing audience and either worked for a marketing-adjacent company or a direct competitor platform.
 
-**Scott Lendzion:** So that's my recommendation, you know, I would do whatever you ask. Like, okay, let's figure that out with a.
+**Scott Lendzion:** That's my recommendation. Let's figure that out.
 
-**Marcel Santilli:** Perfect. Marcel, lovely to meet you, man. Excited to keep this conversation going.
+**Marcel Santilli:** Perfect. Lovely to meet you, man. Excited to keep this conversation going.
 
 **Scott Lendzion:** Yeah, likewise. All right, man. Have a good one.

@@ -5,23 +5,56 @@ date: 2026-02-10
 time: 22:00 UTC
 duration: 61 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Praveen Rangnath, Dignory
+participants:
+  - name: Marcel Santilli
+    role: Founder & CEO, GrowthX
+    company: GrowthX Labs
+  - name: Praveen Rangnath
+    role: VP Growth, Deepgram
+    company: Deepgram
 fireflies_id: 01KGJSZ66FMJQGH5602ZPRTP50
 meeting_link: https://growthx-ai.zoom.us/j/81822253081?jst=2
 transcript_url: https://app.fireflies.ai/view/01KGJSZ66FMJQGH5602ZPRTP50
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel and Praveen (Deepgram) ran a strategy session on marketing, PLG, and growth. Deepgram’s web traffic is up ~30% and programmatic API requests up 120% YoY; SEO on core terms like “speech to text API” remains weak. Praveen has functional leaders in place (events, paid, brand, digital agency) but organic PLG is the lagging area. Marcel proposed expanding beyond the “bullseye” API focus: long-tail use-case pages (Vapi-style, with preloaded API widgets), programmatic/international pages, and reviving AI Minds (~300K subscribers, 40% open, 5–7% CTR). They agreed Deepgram isn’t yet “Stripe for voice” on developer experience (console/onboarding largely unchanged for years; no devrel lead last year) and that broadening to “builders” plus brand/awareness can feed both signups and contract sales. Marcel will bring 2–3 prioritized recommendations (including AI Minds and Beehive data via Troy/Jose); Praveen is open to piloting initiatives outside the core API bullseye. Growth target: $75M → $175M ARR, with most growth still from contracts rather than self-serve.
+Marcel (GrowthX, Deepgram shareholder) and Praveen (Deepgram VP Growth) discussed a strategic expansion of Deepgram’s marketing beyond the narrow API focus. Deepgram has strong product metrics (30% web traffic growth YoY, 120% programmatic API request growth) but weak SEO on core terms like “speech to text API” and limited organic PLG traction. Marcel proposed adding 2–3 new content/growth “lanes”: (1) long-tail use-case pages (personalized, API-driven, similar to Vapi’s approach), (2) programmatic/international pages, and (3) reviving the AI Minds newsletter (~300K subscribers, historically 40% open rate, 5–7% CTR). They agreed Deepgram’s “Stripe for voice” positioning is aspirational but not currently true due to developer experience gaps (console/onboarding static for 3+ years) and lack of engineering brand distribution. Decision: reframe from “developer” to “builder” and invest in broader brand awareness in AI as a substitute for distribution. Outcomes: Marcel will work with team to develop and present 2–3 concrete recommendations; Praveen will get AI Minds and Beehive data via Troy/Jose to evaluate opportunities; both open to piloting initiatives outside the core API bullseye.
 
 ---
 
 ## Context
 
-Marcel is a Deepgram shareholder and former CMO; this was a direct strategy brainstorm with Praveen, not a GrowthX delivery sync. It followed Deepgram’s funding announcement and “Powered by Deepgram” campaign (11 partners, billboards). The bi-weekly Deepgram <> GrowthX syncs (Troy, Erik, Jose, etc.) handle execution; this session was to align on priorities, share Marcel’s view on what’s possible with more lanes (use-case pages, tools, newsletter), and get Praveen’s buy-in to expand beyond the current narrow API/content scope. Praveen is taking PTO next week (Florida); follow-up will be recommendations from the team and data access for AI Minds/Beehive.
+Marcel is a Deepgram shareholder and former CMO (left the company but remained closely connected). This was a direct, strategic brainstorm with Praveen, separate from GrowthX’s ongoing execution syncs (run by Troy, Erik, Jose on a bi-weekly cadence). The session was triggered by Deepgram’s recent funding announcement and “Powered by Deepgram” campaign launch (11 partner integrations, billboard out-of-home advertising). Marcel wanted to share his thinking on what Deepgram could achieve by expanding beyond the current narrow marketing scope (API docs, paid ads, events, brand) and running multiple parallel initiatives (“lanes”) simultaneously—a model he’s using with other clients (Lovable: 3 lanes, Augment: 4 lanes). Relationship: Marcel sees significant untapped potential in Deepgram’s data assets (AI Minds, console usage, startup program), existing visibility (11 partners), and technical strength (models), but believes developer experience gaps and lack of distribution are the primary constraints. Praveen is open to pilots outside the core bullseye and is taking PTO the following week in Florida.
+
+---
+
+## Decisions & Commitments
+
+**Marcel Santilli (GrowthX)**
+- Develop and present 2–3 prioritized, concrete content and growth initiatives that expand beyond Deepgram's current scope (targeting use-case pages, AI Minds revival, programmatic tools).
+- Work with team to request data access from Troy/Jose for AI Minds performance and Beehive subscriber/engagement metrics.
+- Provide specific recommendations on how to maximize AI Minds value, including potential monetization or relaunch strategy.
+- Build detailed playbook for personalized, API-driven use-case pages (Vapi model), with programmatic refresh cycles and international/language variations.
+
+**Praveen Rangnath (Deepgram)**
+- Review and socialize GrowthX's recommendations with internal team; determine feasibility and alignment with roadmap.
+- Approve initial pilots for up to 2–3 initiatives outside the core API focus, contingent on team feedback.
+- Coordinate with Troy to grant Marcel access to AI Minds performance data (via Beehive) and provide subscriber/engagement context.
+- Make resource allocation decision on self-serve (under-$15K) vs. contract-focused growth strategy (context: 2025 growth was 80%+ contracts, 20% self-serve; 2026 target $75M → $175M ARR).
+
+---
+
+## Open Questions
+
+- **Self-serve vs. contracts ROI:** Where does expanded brand/content investment yield highest return—self-serve signups under $15K or enterprise deal velocity/price increase?
+- **AI Minds opportunity:** Can Deepgram monetize AI Minds directly (paid tier, sponsorships) or is primary value as distribution/awareness play for core business?
+- **Developer vs. builder positioning:** How narrow should the audience targeting be—strict developers only, or broader "builders" (no-code/low-code founders, AI engineers, etc.)?
+- **Distribution mechanics:** Without in-house technical influencers or CEO with personal brand, how much weight should go to brand/content awareness vs. SEO/paid ads?
 
 ---
 
@@ -98,16 +131,16 @@ Marcel is a Deepgram shareholder and former CMO; this was a direct strategy brai
 
 ## Action Items
 
-**Marcel Santilli**
-- Work with team to develop and present 2–3 prioritized content and growth strategies that expand beyond current marketing scope for Deepgram (53:50).
-- Collaborate with Troy and Jose to get access to AI Minds newsletter data and Beehive analytics to evaluate performance and opportunities (56:09).
-- Refine ideas on personalized use-case pages, programmatic template generation, and tools to improve SEO and engagement for Deepgram (54:40).
-- Provide recommendations on maximizing AI Minds utility or potential monetization (56:18).
+**Marcel Santilli (GrowthX)**
+- Work with team to develop and present 2–3 prioritized content and growth strategies that expand beyond current marketing scope for Deepgram.
+- Collaborate with Troy and Jose (Deepgram) to get access to AI Minds newsletter data and Beehive analytics to evaluate performance and opportunities.
+- Refine ideas on personalized use-case pages, programmatic template generation, and tools to improve SEO and engagement for Deepgram.
+- Provide recommendations on maximizing AI Minds utility or potential monetization options.
 
-**Praveen Rangnath**
-- Review and consider team’s recommendations on expanded marketing strategies and approve initial pilot actions (54:10).
-- Coordinate with Troy to supply Marcel with AI Minds and Beehive performance metrics (56:33).
-- Evaluate balance between self-serve signups growth and contract-based enterprise growth for resource allocation (46:37).
+**Praveen Rangnath (Deepgram)**
+- Review and consider team’s recommendations on expanded marketing strategies and approve initial pilot actions.
+- Coordinate with Troy to supply Marcel with AI Minds and Beehive performance metrics.
+- Evaluate balance between self-serve signups growth and contract-based enterprise growth for resource allocation.
 
 ---
 
@@ -271,21 +304,11 @@ Marcel is a Deepgram shareholder and former CMO; this was a direct strategy brai
 
 **Marcel Santilli:** Yeah, sounds good. Let me work with the team because, like, I wanted to talk to you first because, like, there's a lot of things we want to refine and come to you. But I think that the, the thing that I always struggle when I was in your shoes was that like we were working at the time with an agency called Webstacks and like it was so slow to get things out, like just to give you an idea, like to get a view one of like the AI apps. Took them 3 months to do it and we got the lovable templates library done in two weeks. Like, you know, and we're not a web agency and you know, like, and so like, things have changed so much now that the web design and experience is no longer the bottleneck. If you have great AI engineers and design engineers like we do. And so it's like, whereas before it would be like, hey, we have this strategy and then you would have to go hire a digital agency and like, you know, be like a 2, 3 month project just to start. And so now that allows us to do like a few more things. And I really think like the use case one, it is kind of like the most no brainer one because we were starting to see traction on the VAPI side. But I'll tell the team, like, hey, let's really pick really high intent clusters. And then on. The only one that I'm not sure if you think there's an opportunity there or not is really that AI Minds one. Because I honestly think if you guys were ever wanted to sell air mines, I would buy it just to give you an idea, like, okay, give us.
 
-**Praveen Rangnath:** A recommendation on what to do to get the most out of that too.
-
-**Praveen Rangnath:** Yeah, yeah, happy to.
-
-**Praveen Rangnath:** Happy.
-
-**Praveen Rangnath:** I mean, we have it, so we.
-
-**Praveen Rangnath:** Like you said, we might as well get the most out of it.
+**Praveen Rangnath:** A recommendation on what to do to get the most out of that too. Yeah, yeah, happy to. I mean, we have it, so we might as well get the most out of it.
 
 **Marcel Santilli:** Yeah, yeah. Should I work with Jose to get access just to see, like, the data in Beehive?
 
-**Marcel Santilli:** Okay.
-
-**Praveen Rangnath:** Okay. Jose reports to Troy now, who's like the. He'll get you the data. Yeah, you're, you know, you're kind of the inner circle now. So let him get you the data on all that, and let give us some ideas of what to do with it. Because we're sort of in this thing where we're just trying to get the right people to come in. But. But. But I don't want to overly try to get the right people and. And that we're just too narrow. I kind of want to find that right sweet spot that's not too wide, but not too narrow.
+**Praveen Rangnath:** Jose reports to Troy now, who's like the. He'll get you the data. Yeah, you're kind of the inner circle now. So let him get you the data on all that, and let give us some ideas of what to do with it. Because we're sort of in this thing where we're just trying to get the right people to come in. But I don't want to overly try to get the right people and be too narrow. I kind of want to find that right sweet spot that's not too wide, but not too narrow.
 
 **Marcel Santilli:** So, yeah, the way I think about it is, like, we have this one lane with Deepgram, right? And I think we've done a really good job with things that were even above that lane on doing programmatic, doing the pages guides, things like that. But I think even having one or two other lanes, which I will suggest here, it's not like that lane only can do one thing. It's more of, like, right now we have one lane, and we're making the most we can of one lane of execution. And like, with lovable, we have three lanes. With augment code, we have four lanes, you know, and so then that allows us to just like, throw AI engineers, design engineers at things, move super fast, like, pivot, like, you know, do if AI Minds, you know, ends up, you're like, you know, okay, let's shift that to something else. And. And then that just like 4x's Oops. The output. And so anyways, I let me go back to the team and. And the reason I wanted to connect was just because there's so much context there. And. And I think, like, I want Deep Graham to win. To win, you know, Like, I'm deeply invested in wanting deeper into it, you know?
 
@@ -297,15 +320,7 @@ Marcel is a Deepgram shareholder and former CMO; this was a direct strategy brai
 
 **Marcel Santilli:** I, I, I, I love it. Well, enjoy it. And then when, when you're back, like, we're constantly hosting these dinners, so we'd love to, to have you in one of those.
 
-**Praveen Rangnath:** Yeah, we'd love to come in and thank you for the.
-
-**Praveen Rangnath:** Thank.
-
-**Praveen Rangnath:** Good.
-
-**Praveen Rangnath:** For the tickets.
-
-**Praveen Rangnath:** My son and I had a great time.
+**Praveen Rangnath:** Yeah, we'd love to come in and thank you for the tickets. My son and I had a great time.
 
 **Marcel Santilli:** I'm so glad, man. There's just like, such a treat. Like, the, the backstory of that is that, like, my wife and I met the day the warriors won their championship. Not in a game, but, like, it was a watch party in her house, and, and so, and then she was in construction, so vendors would always send us to games. And so, like, some of our best memories from the day we met to the day we got married had been warriors games. And so when my first big purchase as a company after raising Series eight was actually those season tickets, and they've been honestly, like, the highest ROI thing ever, so, by the way, for the sales team. But it's also just like a, like, you know, just like a reminder that, hey, we're okay. We're doing okay. This is awesome. Like, some, some reward for our hard work, you know?
 

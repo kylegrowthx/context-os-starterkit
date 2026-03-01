@@ -4,17 +4,22 @@
 date: 2026-02-02
 time: 23:15 UTC
 duration: 41 minutes
-organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Jason Gong, Gloria Willis
+source: fireflies
 fireflies_id: 01KGE07D1W179J79QX2CKT73FV
 transcript_url: https://app.fireflies.ai/view/01KGE07D1W179J79QX2CKT73FV
+organizer: Marcel Santilli (CEO)
+participants:
+  - Marcel Santilli (GrowthX CEO)
+  - Jason Gong (GrowthX)
+  - Gloria Willis (GrowthX)
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Planning session for a premium CMO dinner event on Feb 19, timed to compete with the Air Ops and Webflow event. The team discussed Michelin-starred venue options (Lazy Bear, Quince, Spruce), co-host strategy leveraging advisors and customers, and a sequential invitation process to build social proof among senior marketing executives.
+GrowthX is launching a Michelin-starred dinner on Feb 19 to intercept high-value CMO prospects attending the competing Air Ops/Webflow event. Caddy (Freshworks CMO) confirmed as co-host; the team is securing a premium venue ($45K Lazy Bear or smaller Michelin-star alternatives), building a CMO invite list using LinkedIn Sales Navigator, and implementing a sequential invitation process to maximize social proof and attendance among C-suite marketing executives. Post-event pipeline handoff to sales is pre-planned.
 
 ---
 
@@ -42,6 +47,32 @@ GrowthX runs executive dinner events as a core pipeline generation strategy. Thi
 - Venue quality ($45K Lazy Bear buyout benchmark) is the primary hook for attendance
 - Dinner timing designed to compete directly with competitor events
 - Post-event follow-up pipeline handoff to Tyler and Nigel
+
+---
+
+## Decisions & Commitments
+
+**Confirmed Commitments:**
+- Caddy (CMO, Freshworks) confirmed as co-host and is already engaged in Slack channel
+- Sydney (ex-CMO, G2) confirmed to co-host April 14-15 dinner
+- Feb 19 dinner date locked in, timed to compete with Air Ops/Webflow event in San Francisco
+
+**Strategic Decisions:**
+- Michelin-starred venue is the primary attendance hook — not just a dinner, but a premium experience to pull attendees away from the competing Air Ops/Webflow event
+- Preference for smaller Michelin-starred venues (Quince, Spruce at 18 capacity) over larger non-premium spaces
+- Sequential invitation process: confirm 3 CMOs first, then reveal confirmed names to subsequent invitees to build social proof
+- Build event cadence with 3 dinners and 2 breakfasts always pre-scheduled around major marketing conferences
+
+---
+
+## Open Questions
+
+- **Lazy Bear availability & budget:** Can Lazy Bear be secured for Feb 19? Is $45K buyout feasible/acceptable? Availability confirmation pending.
+- **Quince vs. Spruce:** Which Michelin-starred venue is more achievable? Quince has 18-person max, Spruce has location disadvantage (25 min from main event).
+- **Carolu engagement:** How hard to push Carolu (advisory share obligation) to confirm and leverage her CMO network?
+- **New prospect sourcing:** What balance between existing customers/past attendees vs. new CMO prospects from LinkedIn Sales Navigator?
+- **Additional co-hosts:** Besides Caddy and Sydney, who else can be recruited as co-hosts to expand network reach?
+- **Breakfast component:** How to structure the Feb 19 breakfast (same day, different audience) — separate guest list, timing, venue?
 
 ---
 
@@ -92,1021 +123,198 @@ GrowthX runs executive dinner events as a core pipeline generation strategy. Thi
 
 ## Action Items
 
-**Marcel Santilli**
-- Ping Carolu to confirm co-hosting and push her to engage her network
-- Reach out to Rachel and other potential co-hosts like Sydney
-- Work on securing the venue — push for Michelin-starred restaurant
-- Coordinate with Gloria and Jason on building and refining the invite list
-- Develop scheduling plan for multiple events across Feb, March, April
+**Marcel Santilli (GrowthX CEO)**
+- Pressure Carolu (advisor, ex-CMO) to confirm co-hosting and activate her CMO network
+- Reach out to Rachel and other potential co-hosts, including Sydney (ex-CMO, G2)
+- Secure Michelin-starred venue as top priority — pursue Lazy Bear ($45K buyout), Quince, or Spruce
+- Coordinate with Gloria and Jason on invite list refinement
+- Lock in event scheduling plan for Feb 19, March, and April 14-15 dinners
 
-**Gloria Willis**
-- Continue pursuing venue options — follow up on Lazy Bear, Quince, and Spruce
-- Begin outreach to potential invitees from Marcel's connection list using Sales Navigator
-- Share invite list with Marcel and Jason for cross-checking
-- Support creation of Airtable for guest tracking, RSVPs, and event coordination
+**Gloria Willis (GrowthX)**
+- Follow up on venue confirmations: Lazy Bear, Quince, Spruce — prioritize premium over capacity
+- Begin outreach to CMO prospects using LinkedIn Sales Navigator filtered by geography and title
+- Build and maintain Airtable for invite list, RSVP tracking, co-host network mapping, and connection strength scoring
+- Share invite list drafts with Marcel and Jason for validation
+- Support multi-touch confirmation process for limited-capacity venues
 
-**Jason Gong**
-- Assist Gloria with building and maintaining the invitee database
-- Connect Gloria with HubSpot representatives for co-hosting at Inbound and Saster
-- Help with HubSpot integration for contact mapping
+**Jason Gong (GrowthX)**
+- Assist Gloria with invitee database build and maintenance
+- Connect with HubSpot representatives for potential co-hosting at Inbound and Saster conferences
+- Support HubSpot contact integration and data mapping
+- Help structure post-event pipeline handoff workflow with sales team
 
 ---
 
 ## Transcript
+
 **Jason Gong:** Hello.
 
 **Gloria Willis:** Just shared the invite list.
 
-**Jason Gong:** Yeah, I saw this is from HubSpot or is this.
+**Jason Gong:** Yeah, I saw. Is this from HubSpot or did this require some acrobatics?
 
-**Jason Gong:** Did this require some acrobatics?
-
-**Gloria Willis:** Some acrobatics.
-
-**Gloria Willis:** But I mean it was the list that I started for the other event.
-
-**Gloria Willis:** Cleaned out anybody who was.
-
-**Gloria Willis:** Who's already registered for this event for the event this week.
-
-**Gloria Willis:** Added everybody who Carol was tried to get for this event this week.
-
-**Gloria Willis:** Some names who didn't couldn't make it for the Niku one.
-
-**Gloria Willis:** Other names that are CMO titles from Luma.
-
-**Gloria Willis:** So I pretty much just stuck with CMOs and marketing executives.
+**Gloria Willis:** Some acrobatics. But I mean, it was the list I started for the other event. I cleaned out anybody who was already registered for this week's event. Added everybody Carol was trying to get for this event. Some names who didn't make it for the Niku one. Other names that are CMO titles from Luma. So I pretty much stuck with CMOs and marketing executives.
 
 **Marcel Santilli:** So.
 
-**Gloria Willis:** Not going to have as much of the new names like we did for this.
+**Gloria Willis:** Not going to have as much of the new names like we did for this event with reaching out to people on LinkedIn. That'll just have to be if that's the route we want to go. Not sure if we want to target a lot of new people or what the plan is.
 
-**Gloria Willis:** This one with reaching out to people on LinkedIn, whatnot.
+**Jason Gong:** I wonder what the hook is to get people to this one. See what Marcel's thinking. Co-host, I don't know Katie too well. I think she just joined her new company. Any thoughts on what the hook might be, given we're already doing dinner before and then we'll have just launched CheckThat? I wonder if there's a way to pull that in.
 
-**Gloria Willis:** That'll just have to be if that's the route we want to go.
+**Gloria Willis:** Trying to get a really good restaurant. The thing with these really good restaurants though is that they have smaller private dining rooms.
 
-**Gloria Willis:** Not sure if we want to target a lot of new people or what the plan is.
+**Jason Gong:** So the hook is the venue?
 
-**Jason Gong:** I wonder what the hook is to like get people to this one.
+**Gloria Willis:** Yeah, I mean that's always part of it. Some people aren't gonna go for a Michelin-starred restaurant on their own, but maybe at that level they would.
 
-**Jason Gong:** See what Marcel's thinking, I guess.
-
-**Jason Gong:** Co host.
-
-**Jason Gong:** It's like I don't know Katie too well.
-
-**Jason Gong:** Where do we.
-
-**Jason Gong:** I think she just joined her new company.
-
-**Jason Gong:** Any thoughts on like what the hook might be given?
-
-**Jason Gong:** We're already doing dinner before and then I mean we'll have just launch.
-
-**Jason Gong:** Check that.
-
-**Jason Gong:** So I wonder if there's a way to pull that in.
-
-**Gloria Willis:** Trying to get a really good restaurant.
-
-**Gloria Willis:** The thing with these really good restaurants though is that they have smaller private dining rooms.
-
-**Jason Gong:** What you're saying like the hook is like the.
-
-**Jason Gong:** The venue?
-
-**Gloria Willis:** Yeah, I mean that's always part of it is being when some people aren't gonna go for a Michelin starred restaurant their own.
-
-**Gloria Willis:** I mean that level may, but maybe not.
-
-**Jason Gong:** Works.
-
-**Jason Gong:** You.com.
-
-**Jason Gong:** lightspeed Commerce Canadian.
-
-**Jason Gong:** Nope.
-
-**Gloria Willis:** Yeah.
-
-**Jason Gong:** All right, well I know Marcel's like board meeting mode.
-
-**Jason Gong:** Let me ping him.
+**Jason Gong:** Works. All right, well I know Marcel's like board meeting mode. Let me ping him.
 
 **Marcel Santilli:** That's tomorrow.
 
-**Marcel Santilli:** Oh.
+**Gloria Willis:** Well, he did accept. I know board prep is a lot though.
 
-**Gloria Willis:** Well, he did accept.
+**Marcel Santilli:** Hello, how's it going?
 
-**Gloria Willis:** I know board prep is a lot though.
+**Gloria Willis:** Going okay. How about you?
 
-**Marcel Santilli:** Hello.
-
-**Gloria Willis:** Hello.
-
-**Marcel Santilli:** How's it going?
-
-**Gloria Willis:** Going okay.
-
-**Gloria Willis:** How about you?
-
-**Marcel Santilli:** Good.
-
-**Gloria Willis:** Good.
-
-**Marcel Santilli:** We have everybody in the office today.
-
-**Marcel Santilli:** Like literally everybody.
-
-**Marcel Santilli:** I think there's over 20 people here, so.
+**Marcel Santilli:** Good. We have everybody in the office today, like literally everybody. I think there's over 20 people here.
 
 **Gloria Willis:** Oh boy.
 
-**Marcel Santilli:** So it's like a lot going on.
+**Marcel Santilli:** So it's a lot going on. Sorry I'm a few minutes late, but thank you Gloria for setting this up. Where should we jump in?
 
-**Marcel Santilli:** Sorry I'm a few minutes late, but thank you Gloria for setting this up.
+**Gloria Willis:** So I just shared with you and I'll share on the screen as well. This is an initial invite list. This was a list of people who we invited for our dinner this week but weren't able to come. Only people who didn't respond or have senior executive titles within marketing. So senior marketing VPs. These are people who either were invited to past dinners, who are customers, who are local. Just a smattering of different options. I just wasn't sure if we wanted to hone in on making this a customer expansion focus or if we're trying to really hone in on new customers or new prospects like we are for the dinner this week.
 
-**Marcel Santilli:** Where should we jump in?
-
-**Gloria Willis:** So I just shared with you and I'll share on the screen as well.
-
-**Gloria Willis:** Like an initial invite list.
-
-**Gloria Willis:** So this was a list of people who we invited for our dinner this week but weren't able to come.
-
-**Gloria Willis:** Anyone who didn't respond at all to the invite for this week?
-
-**Gloria Willis:** Only people who have like senior executive titles within marketing.
-
-**Gloria Willis:** So senior marketing VPs.
-
-**Gloria Willis:** So these are people who either were invited to past dinners, who are customers, who are local.
-
-**Gloria Willis:** So just a smattering of a lot of different options.
-
-**Gloria Willis:** I just wasn't sure if we wanted to hone in on like making this like a customer for expansion or we're trying to really hone in on like new customer or new prospects like we are for the dinner this week.
-
-**Marcel Santilli:** Yeah, this is more of a.
-
-**Marcel Santilli:** Well, a couple of things.
-
-**Marcel Santilli:** So the thought behind it is Mario's trying to get into the Air Ops and webflow event just to get on the list.
-
-**Marcel Santilli:** And so the idea is to go try to get a lot of people that are attending there or the ones we want to get that I know are not already super fans and trying to tell the whole world about Air Ops, but the ones that are truly still up for grabs, if you will get them to come to our dinner and make our dinner be like truly a like experience, like you know, like Wentz or something, like three star Michelin, like legit, really nice.
-
-**Marcel Santilli:** And hopefully like a room that has like a little bit more.
-
-**Marcel Santilli:** A higher limit potentially.
-
-**Marcel Santilli:** I know it's kind of last minute, so I know it's tough to do it with like a two weeks like notice of like if it has to be slightly like different venue or whatever.
-
-**Marcel Santilli:** But hopefully there's enough in San Francisco that like, with the, with this notice, like we can find like a room and just, you know, pay a lot of money.
-
-**Marcel Santilli:** It kind of has to be that night though.
-
-**Marcel Santilli:** So that's the tricky part.
-
-**Marcel Santilli:** And, but, but like any option is kind of on the table.
+**Marcel Santilli:** Yeah, this is more of a different strategy. A couple of things. So Mario's trying to get into the Air Ops and Webflow event just to get on the list. And the idea is to try to get a lot of people who are attending there — the ones we want who aren't already super fans pushing Air Ops, but the ones truly still up for grabs. Get them to come to our dinner and make our dinner a truly premium experience, like Wentz or something, like three-star Michelin, legit and really nice. And hopefully a room that has a little bit more capacity. I know it's kind of last-minute with two weeks' notice, so it's tough. But hopefully there's enough in San Francisco that with this notice we can find a room and pay a lot of money. It has to be that night though. So that's the tricky part. But any option is on the table.
 
 **Jason Gong:** But.
 
-**Marcel Santilli:** But the reason it's important for it to feel like a super premium experience is that it's like imagine you're attending an event and even if you're attending an event, assuming like they're not going to do a crazy nice dinner because they're already spending a bunch of money on that event.
+**Marcel Santilli:** The reason it's important for it to feel like a super premium experience is this: imagine you're attending an event. Even if you're attending an event, assuming they're not going to do a crazy nice dinner because they're already spending a bunch of money on that event. It's like a silly happy hour or something at best. But if you have a Michelin-star dinner at 5 PM, you're gonna be like, okay, I gotta go. And then there's no room for them to connect with other people ideally. And also, if they try to invite other people who are already in this invite in the next two weeks, they're already committed to this. This is a way nicer experience for the evening activities, at least. That's kind of the thought behind it. Let's put our best effort. Worst case, we have a nice dinner with great prospects. Best case, we disrupt their event a little and make it less effective. Still close deals or have good conversations. That's the idea.
 
-**Marcel Santilli:** It's like a silly happy hour or something at best.
+**Marcel Santilli:** But for this to work, the venue is so much of the hook. We kind of have to quickly move on that. I'm giving Mario a heads up and Caddy, who is a speaker on that event, to see if she agrees to co-host. So the hope here is we can reach out to people like Francois, who has a lot of relationships, Carolu, now Caddy, and Mario. Use them as friends of the company, slash advisors, slash customers to figure out who has the warmest connection to the people we want to invite and truly try to find the best people. We can also have them co-host.
 
-**Marcel Santilli:** But if you have a Michelin star dinner at 5, you are gonna like be like, okay, I gotta go.
+**Marcel Santilli:** So for instance, the CMO of G2 — she loves us and recommends us all the time. That could be a good one. This is very strategic because we're trying to compete with this event. How do we have co-hosts that are like big hits? I think I can definitely pressure Carolu to do a lot more. It's just that Carolu is a lot more heads-up because her contacts are more like CMOs of massive companies and they have busy schedules. So what I'm thinking is we try to find a couple more co-hosts. In the meantime, the P0 is buying the most attractive venue possible. For instance, if we could get Lazy Bear for $45K, that's something. This one might not be the one we do that, but what's the next best thing we have that would feel really premium and really nice? Then once we lock that in or in parallel, we can work on finding at least one more co-host and getting their list or trying to strategize with them.
 
-**Marcel Santilli:** And then like there's no room for their A's to connect with them ideally.
+**Gloria Willis:** Two questions. Of those restaurants — Quince, Spruce, and Lazy Bear. Lazy Bear has more space. But Quince and Spruce have smaller rooms. So is it more important to have a room for 25+ or one of those premium restaurants but at 18 capacity?
 
-**Marcel Santilli:** And also if they try to invite other people that are already in this invite in the next two weeks, they're already committed to this.
+**Marcel Santilli:** I'm assuming Lazy Bear doesn't have availability, right?
 
-**Marcel Santilli:** And this is way nicer experience kind of thing, you know, for the evening activities at least, you know, that's kind of a little bit of the thought behind it.
+**Gloria Willis:** I reached out on Sunday and yesterday. So I'm just waiting.
 
-**Marcel Santilli:** And it's like, let's Put our best effort, you know, and worst case, we have a nice dinner with great prospects.
+**Marcel Santilli:** I mean, Lazy Bear would be heroic to pull off, but they are lovely and they do everything. Have you done any events there?
 
-**Marcel Santilli:** Best case, we disrupt their event a little, you know, like, and make it last effective and still close deals or still like have good conversations.
+**Gloria Willis:** I have not, but I've been in contact with them for every one of our events.
 
-**Marcel Santilli:** That's kind of the.
+**Marcel Santilli:** They are lovely and they do A to Z. It's truly turnkey. They have a reception area and then downstairs a communal table, but it's set up so you can stand up and say a word in front of everybody pretty easily. It's a really nice, easy experience. But it's also expensive because you have to buy out the 42 chairs they have essentially. But Quince, you said the max is 18?
 
-**Marcel Santilli:** The idea, but.
+**Gloria Willis:** Yeah, I think that's the biggest they have.
 
-**Marcel Santilli:** But the.
+**Marcel Santilli:** Yeah, I think that's okay. You know, we'll need to have a really, really strong confirmation process. Like, given the chef is going to prepare a meal, it has to be a really crazy confirmation. Multiple touches of confirmation. It's just going to be a little bit more effort. Not having 12 people show up or 25 show up. That's what's tricky. But I would rather have it be Quince at 18 than a non-Michelin-star place that doesn't feel super premium.
 
-**Marcel Santilli:** For this to work, we kind of have like, the venue is so much of the hook here, you know, that we kind of have to like, quickly move on that.
+**Gloria Willis:** So Spruce is a Michelin-starred restaurant and they do have availability, but again, it's at a max of 18. So I have them on a soft hold right now.
 
-**Marcel Santilli:** And I give Mario a heads up and caddy who is a speaker on that event so that like agree to co host.
+**Marcel Santilli:** I went to Spruce and like it, but the challenge with Spruce is where it is. It's just such a pain to get there. It took me 25 minutes from the office at 5 o'clock. It was such a pain that I was like, this is ridiculous. I would never come back here if I got invited to a dinner. Anyone in the city or living in the city — it's a pain to get to unless they live there and work there. For anybody that lives outside of San Francisco, you're adding 25 minutes to get home or at least 20. The food was nice and the private room was nice, but there's a very big gap between Quince's experience and that. I will follow up with Quince again today to see if they have availability. But they're a la carte for the rest of the restaurant, whereas for the private rooms they're not a la carte. It's not the same experience of orderly courses. It will be better if we gear toward places near the Conservatory where the event will be. Then people can just walk from there. I think it'll be nice.
 
-**Marcel Santilli:** So the hope here.
+**Gloria Willis:** Okie dokie. I will keep looking.
 
-**Marcel Santilli:** So what I was thinking was we can reach out to like, um, so we have Francois who has a lot of relationships, right.
+**Marcel Santilli:** Okay, so if we focus on the venue, what's the best way to try to connect with Caddy? I'm on a text message basis with her. She asked for tickets to go to the Lakers game, and I had already sent her to a game. So that's like a big ask. I feel like I was like, "Hey, let me check with the team." That one is really tricky, but I think I can pull it off. So we come back with a ta-da and give her what she wants.
 
-**Marcel Santilli:** We have Caroleu, we have now Caddy, we have Mario.
+**Gloria Willis:** She's in the Slack channel now. So she did accept.
 
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And so like use those as like friends of the company, slash advisors, slash customers to like figure out who has the warmest connection to the people we want to invite and truly try to like find the best.
-
-**Marcel Santilli:** But we can also co host.
-
-**Marcel Santilli:** So Katie, I already agree, but for instance, like the CMO of G2, she loves us, she recommends us all the time.
-
-**Marcel Santilli:** That could be a good one.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** So this could be more of like, very strategic because we're trying to compete with this event in my mind.
-
-**Marcel Santilli:** And so it's kind of like how do we have co hosts that are like big hits type of thing, you know?
-
-**Marcel Santilli:** And I think like, I can definitely pressure Carolu to by the way, like do a lot more.
-
-**Marcel Santilli:** It's just Carolyn is a lot more heads up because her contacts are more like CMO of massive companies and they have like busy schedules and things like that, you know.
-
-**Marcel Santilli:** So that's what I was thinking is like, we try to find a couple more co hosts.
-
-**Marcel Santilli:** We, in the meantime that P0 is buying the most attractive venue possible.
-
-**Marcel Santilli:** Like, you know, like, for instance, like this one, like if we could get.
-
-**Marcel Santilli:** I. I don't think we will be able to but like rent.
-
-**Marcel Santilli:** Buy out the lazy bear for 45k, like effort, you know, like, like something like that.
-
-**Marcel Santilli:** I, you know, this one might not be the one we do that but.
-
-**Marcel Santilli:** But it's like, you know, what.
-
-**Marcel Santilli:** What is the next best thing we have that would feel really premium and really nice.
-
-**Marcel Santilli:** And then once you lock that in or in parallel to doing that, then it's like working with the.
-
-**Marcel Santilli:** Finding at least one more co host and getting their list or trying to strategize with them a little bit, you know.
-
-**Marcel Santilli:** Okay, what do you think?
-
-**Gloria Willis:** Two questions of those restaurants.
-
-**Gloria Willis:** So Quints and like Spruce and Lazy Bear.
-
-**Gloria Willis:** Lazy Bear.
-
-**Gloria Willis:** Has more space.
-
-**Gloria Willis:** But Quint and Spruce, they have smaller rooms.
-
-**Gloria Willis:** So is it more important to have a room for like 25 plus or one of those that.
-
-**Gloria Willis:** That rate of restaurant, but 18.
-
-**Marcel Santilli:** I mean, I'm assuming the Lazy Bear doesn't have availability.
-
-**Marcel Santilli:** Right.
-
-**Gloria Willis:** I reached out on Sunday.
-
-**Gloria Willis:** I reached out yesterday.
-
-**Gloria Willis:** So I'm just waiting for.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** I mean, the Lazy Bear would be an insane effort.
-
-**Marcel Santilli:** Heroic to pull it off, but they do.
-
-**Marcel Santilli:** I don't know if you.
-
-**Marcel Santilli:** Have you done any events there?
-
-**Gloria Willis:** I have not, but I've been in contact with her for like every one of our.
-
-**Marcel Santilli:** They are lovely and they do everything for me.
-
-**Marcel Santilli:** For you.
-
-**Marcel Santilli:** It's like the invites, the gifts, like they do A to Z and so it's truly like turnkey and so that's what's nice.
-
-**Marcel Santilli:** And they have like a reception area ready and then they have like down there and it's like communal table.
-
-**Marcel Santilli:** But it's also such.
-
-**Marcel Santilli:** It's set up in a way where it's just like you can stand up over there and say a word in front of everybody pretty easily.
-
-**Marcel Santilli:** And it's like.
-
-**Marcel Santilli:** And you know, it's just like a really nice, easy experience.
-
-**Marcel Santilli:** But it's also expensive because you have to buy out the 42 chairs they have essentially.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Like so then.
-
-**Marcel Santilli:** Or whatever.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Like, but, but Quince, you said the max is what, 18?
-
-**Marcel Santilli:** If they.
-
-**Marcel Santilli:** So that's the biggest thing they have.
-
-**Marcel Santilli:** Yeah, Yeah, I think like that's okay.
-
-**Marcel Santilli:** You know, I don't know.
-
-**Marcel Santilli:** It's like if they could do that and then.
-
-**Marcel Santilli:** Yeah, I think it's okay.
-
-**Marcel Santilli:** It's just we'll need to have a really, really strong like confirmation process.
-
-**Marcel Santilli:** Like, hey, given, like the chef is going to prepare a meal like, you know, like it has to be like a really like crazy confirmation.
-
-**Marcel Santilli:** Multiple touches of confirmation.
-
-**Marcel Santilli:** Like, you know, and have like a lot of.
-
-**Marcel Santilli:** It's just going to be a little bit more effort to.
-
-**Marcel Santilli:** To get it to perfect.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Essentially, like.
+**Marcel Santilli:** Oh, she is. Perfect. Okay, cool. So are you good to connect with her directly?
 
 **Gloria Willis:** Yeah.
 
-**Marcel Santilli:** Not having 12 people show up or 25 show up.
+**Gloria Willis:** Do you want me to share this invite list or do you want to take a first pass at it and cross-check with people you know?
 
-**Marcel Santilli:** And that's what's tricky.
+**Marcel Santilli:** I think it would be good to just say, "Hey, what are CMOs?" We're trying to say we want to do this at Quince or Lazy Bear, like a two- to three-star Michelin place, really high-end. We might have one other CMO co-host with us as well. Let me just find quickly. I'm trying to remember her name. Oh, shoot. Sydney. I think she left G2. I don't know if that's a good thing or not. The CMO of G2. Let me see what she's up to. All right. Okay, I think that's actually a good thing. Sydney. That was the CMO of G2. Let me see if I have her on text message. Okay, just texted her.
 
-**Marcel Santilli:** But I would rather have it be quints at 18 than a non Michelin star place that doesn't feel super premium, you know.
+**Marcel Santilli:** Normally, what I do is just go CMO or VP of Marketing people, first connection. Then I start with Bay Area, just because I don't even remember everybody. But I think that's a good starting point. This is one of those where you have to do it in steps. You have three CMOs confirm and then you reach out to the fourth one and tell them the other three are confirmed. You keep doing that sequentially so they feel like a hole if they don't attend or if they confirm and don't attend. It's like, oh, there's all these other people I know going. I think Scott Russell — I don't have a super close relationship with Sarah, so this would have to be flagged. I would imagine there would be people like between Carolu and a few others that would know Lena. Lena would be amazing, you know, CMO of Notion. That's a deal we're trying to get there. And I present it to her team. All these are people like Carol knows for sure. I will also text Carolu.
 
-**Marcel Santilli:** So it's like, you know, ideally.
+**Jason Gong:** She says she moved to Palm Springs. Next trip will be April 15 and 16.
 
-**Marcel Santilli:** Yeah.
+**Marcel Santilli:** Okay, so that's perfect. So let's pin that down.
 
-**Gloria Willis:** So Spruce is a Michelin starred restaurant and they do have availability, but again, it's at a max of 18.
+**Gloria Willis:** One other thing. We had our breakfast scheduled for February 19th as well, and we also had pegged Guy to speak that day, but he's also presenting at that other conference. So I don't know how we feel about having him presenting at both. And if we want to keep the event on or if you guys want to do both events in one day.
 
-**Gloria Willis:** So I have them on a soft hold right now.
+**Marcel Santilli:** One, I don't think we should ask Guy to come because I don't want to tip our hand that we're doing this yet. And I think it might be okay and actually good to have it because then we have two things happening the same day and the audiences are going to be different. Oh, I have commitment. Oh, by the way, we're doing a more low-key breakfast that morning too. Or vice versa. Most likely, the inverse is going to be true where they can't make it because of whatever. But it is really helpful. One of the reasons the Lamar one was so successful was because we got invites out early — but it was only two weeks notice or less — and we had kind of a fallback. We had a lot of people we invited to breakfast the week before that said they couldn't come, and we invited them to the dinner. So it's always good to have things coming up before and after. In this case, it's going to be the same day. But I think it's okay. Ideally, the dinner we can try to go for the right level of people. Maria has come to several of our breakfasts and says she wants to help. There might be a few connectors who know everybody.
 
-**Marcel Santilli:** Yeah, I went to Spruce and like it.
+**Marcel Santilli:** But hopefully Carolu can carry the weight a lot. And I'll push her on that because she knows all these people.
 
-**Marcel Santilli:** The, the challenge with Spruce is like where it is.
+**Gloria Willis:** Okay, so do we want to start with Carolu reaching out to a couple of key people, or do you want me or Jason to start reaching out to some of these people? Or do you want to reach out because you have the connections?
 
-**Marcel Santilli:** It's just such A pain to get there.
-
-**Marcel Santilli:** Like, it took me 25 minutes from the office to get there at 5 o'.
-
-**Marcel Santilli:** Clock.
-
-**Marcel Santilli:** Like, it was such a pain that I was just like, this is ridiculous.
-
-**Marcel Santilli:** Like, I would never come back here if I get invited to a dinner here.
-
-**Marcel Santilli:** Because it's like anyone in the, like that doesn't live in the city, anyone that lives in the city is a paint together unless they're there.
-
-**Marcel Santilli:** That's where they live and knows no offices are there.
-
-**Marcel Santilli:** So then it's like getting to that part of town and then anybody that gets to that part of town that lives anywhere else outside of San Francisco, you're adding 25 minutes to get home or at least 20.
-
-**Marcel Santilli:** I mean, the food was nice and the private room was nice, but it's like, I don't think it's going to feel as, you know, it's like a very big gap between Quint's experience and that.
-
-**Marcel Santilli:** I think, okay, I will follow up.
-
-**Gloria Willis:** With Quince again today to see.
-
-**Marcel Santilli:** But like they're, they're a la carte, for example, spruce and so like they're not like for the private rooms.
-
-**Marcel Santilli:** It's not a la carte, but like for, for the rest of the restaurant.
-
-**Marcel Santilli:** It's like it was.
-
-**Marcel Santilli:** It's a la carte.
-
-**Marcel Santilli:** So it's not the same experience of like orderly, like, you know, people come in and they sit and there's courses, you know, like.
-
-**Marcel Santilli:** But we're going to.
-
-**Marcel Santilli:** Yeah, it's just like there's.
-
-**Marcel Santilli:** It will be like where the venue is if, if we try to gear towards like places near the.
-
-**Marcel Santilli:** Where the venue is going to be of the event, which is the conservatory thing space.
-
-**Marcel Santilli:** I think.
-
-**Marcel Santilli:** Then I think it'll be nice just like, just walk from there, you know.
-
-**Gloria Willis:** Okie dokie.
-
-**Gloria Willis:** I will keep my look.
-
-**Gloria Willis:** Looking going there.
-
-**Marcel Santilli:** Okay, so I think the, if you want to focus on the venue, then, and, and then what is the best way to try to connect with Caddy?
-
-**Marcel Santilli:** I'm on a text message basis with her and she asked for the tickets to go to the Lakers game and I had already sent her to a game.
-
-**Marcel Santilli:** So it's like that is like a big tall, like ask.
-
-**Marcel Santilli:** So I kind of feel like I was like, hey, let me check with the team.
-
-**Marcel Santilli:** That one is really tricky, but I think I can pull it off.
-
-**Marcel Santilli:** I wanted to do that.
-
-**Marcel Santilli:** So that's like, we come back with like, ta da.
-
-**Marcel Santilli:** Give us your entire network.
-
-**Marcel Santilli:** Like, and also you better buy from us now that you're cmo fresh works like.
-
-**Marcel Santilli:** So I Don't.
-
-**Marcel Santilli:** I think the.
-
-**Gloria Willis:** She's in the Slack channel now.
-
-**Gloria Willis:** So she did accept the.
-
-**Marcel Santilli:** Oh, she is perfect.
-
-**Marcel Santilli:** Okay, cool.
-
-**Marcel Santilli:** Y.
-
-**Gloria Willis:** So she accepted this.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** So are you good to connect with her directly?
-
-**Gloria Willis:** Yeah.
-
-**Gloria Willis:** Do you want me to share this invite list or do you want to take a first pass at the invite list and like, cross with people?
-
-**Gloria Willis:** You don't even.
-
-**Marcel Santilli:** I think it would be good to just be like, hey, what are like CMOs?
-
-**Marcel Santilli:** Like, we're trying to say, hey, we're.
-
-**Marcel Santilli:** We want to do this at Quence, you know, or Lazy Bear.
-
-**Marcel Santilli:** Like a two to three star Michelin place.
-
-**Marcel Santilli:** Like, really high end.
-
-**Marcel Santilli:** And so like one, like, wanted to kind of make sure the group feels really curated.
-
-**Marcel Santilli:** We might have one other CMO co host with us as well.
-
-**Marcel Santilli:** And you know, I.
-
-**Marcel Santilli:** Let me just find really quickly.
-
-**Marcel Santilli:** Gosh, I'm trying to remember the.
-
-**Marcel Santilli:** Her name.
-
-**Marcel Santilli:** Oh, shoot.
-
-**Marcel Santilli:** Sydney.
-
-**Marcel Santilli:** I think left G2.
-
-**Marcel Santilli:** I don't know if that's a good thing or not.
-
-**Marcel Santilli:** Which was like the.
-
-**Marcel Santilli:** The CMO of G2.
-
-**Marcel Santilli:** Let me see.
-
-**Marcel Santilli:** What is she up to?
-
-**Marcel Santilli:** All right, let me.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** I think that's actually a good thing.
-
-**Marcel Santilli:** Sydney.
-
-**Marcel Santilli:** Slow.
-
-**Marcel Santilli:** That was the CMO of G2.
-
-**Marcel Santilli:** Let me see if.
-
-**Marcel Santilli:** I think I have her own text message.
-
-**Marcel Santilli:** It.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Just texted her.
-
-**Marcel Santilli:** Let me go through.
-
-**Marcel Santilli:** I mean, normally, like, what I do is just this.
-
-**Marcel Santilli:** I just go CMO or VP of marketing people first connection.
-
-**Marcel Santilli:** And then I start with like Bay Area, just because I don't even remember, like, you know, everybody.
-
-**Marcel Santilli:** But, like, I think that's a good starting point, you know, of trying to get.
-
-**Marcel Santilli:** This is one of those that you kind of have to do it in steps.
-
-**Marcel Santilli:** A little bit of like you have three CMOs confirm and then you reach out to the fourth one and tell them that the other three are confirmed.
-
-**Marcel Santilli:** And you kind of like keep doing that sequentially, you know, so that they feel like completely like an a hole if they don't attend, like, or if they confirm and, you know, don't attend.
-
-**Marcel Santilli:** It's kind of like, oh, there's all these other people that I know going, you know, but.
-
-**Marcel Santilli:** But I think, like Scott Russell, I don't have a super close relationship with Sarah, so this would have to be.
-
-**Marcel Santilli:** But we can flag some of those that way.
-
-**Marcel Santilli:** I would imagine there would be people like between Carolu and a few others that maybe would know, like, Lena would be amazing.
-
-**Marcel Santilli:** You know, CMO of notion.
-
-**Marcel Santilli:** That's a deal.
-
-**Marcel Santilli:** We're trying to kind of get there.
-
-**Marcel Santilli:** And I present it to her team, you know, so, and I'm like, all these are people like Carol knows for sure, you know, So I think g, I will also text Carolu and be like, hey, Okay, she says she moved to Palm Springs.
-
-**Marcel Santilli:** Next trip will be April 15 and 16.
-
-**Marcel Santilli:** Okay, so that's perfect.
-
-**Marcel Santilli:** So let's pin that down.
-
-**Jason Gong:** Okay.
-
-**Gloria Willis:** One other thing, we had our Breakfast scheduled for February 19th as well, and we also had pegged Guy to speak that day, but he's also presenting at that other conference.
-
-**Gloria Willis:** So I don't know how we feel about having him presenting at both.
-
-**Gloria Willis:** And if we want to keep the event on both.
-
-**Gloria Willis:** And if you guys, if you want to do both events in one day.
-
-**Marcel Santilli:** One, I don't think we should go above and beyond ask Guy to come because I don't want to tip our hand that we're doing this yet to Guy.
-
-**Marcel Santilli:** And I think it might be okay and actually like, somewhat like, good to have it because then it's just like we have two things happening the same day and the audiences are going to be different and you know, and it's like, oh, I have commitment.
-
-**Marcel Santilli:** Oh, by the way, we're doing a more low key breakfast that morning too.
-
-**Marcel Santilli:** Or vice versa.
-
-**Marcel Santilli:** Right?
-
-**Marcel Santilli:** Like, most likely the inverse is going to be true where she's like, invites, dinner, they can't make it because they're whatever, you know, but.
-
-**Marcel Santilli:** But it is really helpful.
-
-**Marcel Santilli:** Like, one of the reasons the Lamar one was so successful was because, like, we got invites out early, but it was only two weeks notice or less, and we had kind of like a fallback.
-
-**Marcel Santilli:** So we had a lot of people that we had invited to breakfast the week before that said they couldn't come and we invited to the dinner and things like that.
-
-**Marcel Santilli:** So it's always good to have like, things coming up before and after.
-
-**Marcel Santilli:** In this case, gonna be the same day.
-
-**Marcel Santilli:** But I think it's.
-
-**Marcel Santilli:** It's okay, you know, but ideally the dinner we can try to go for like, the right, like, level of people, you know, Like, Maria has come to several of our breakfasts and says she wants to help and things like that, you know, like, so, so there might be some.
-
-**Marcel Santilli:** A few connectors, you know, that are like, know everybody, you know, know.
-
-**Marcel Santilli:** But hopefully Carolou can carry the weight a lot.
-
-**Marcel Santilli:** Like, and I'll, I'll push her on that because she knows all these people.
-
-**Marcel Santilli:** Like.
-
-**Gloria Willis:** Okay, so do we want to start with.
-
-**Gloria Willis:** With Carolou reaching out to a couple of key people, or do you want me or Jason to start reaching out to some of these people?
-
-**Gloria Willis:** Or do you Want to reach out because you have the connections.
-
-**Marcel Santilli:** I will push on Carolou and then, like, hand it off.
-
-**Marcel Santilli:** Let me confirm with her that she is game.
-
-**Marcel Santilli:** But ideally, if you all can go through at least like my common connections.
-
-**Marcel Santilli:** And I forgot how you do it, but I think it's something like you have to go to my profile kind of like this.
-
-**Jason Gong:** And you can do it in sales now.
-
-**Gloria Willis:** Yeah.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Sales now might be a lot easier, but people first or you don't need to be first or second degree.
-
-**Marcel Santilli:** But then like, you can go like this.
-
-**Marcel Santilli:** And then I think you can add, let's say like, cmo.
-
-**Marcel Santilli:** And then these are like all your connections, Gloria, that have the word cmo.
-
-**Marcel Santilli:** And then you can layer in, for example, like, Bay Area.
-
-**Marcel Santilli:** And so this is essentially everyone that you know, you are connected to that is in the Bay Area, that is a cmo essentially.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** And so that would, like, help, you know, like, if you do that on mine, essentially it, you know, and then hopefully this one is one that, like, we start with the really warm ones and then we expand it into, like, the, like, not so warm ones.
+**Marcel Santilli:** I will push on Carolu and then hand it off. Let me confirm with her that she is game. But ideally, if you all can go through at least like my common connections. I forgot how you do it, but I think it's something like going to my profile. You can do it in Sales Navigator. Yeah. Sales Navigator might be a lot easier. You don't need to be first or second degree. You can add, let's say, CMO. And then these are all your connections, Gloria, that have the word CMO. Then you can layer in, for example, Bay Area. So this is essentially everyone you are connected to that is in the Bay Area that is a CMO. So that would help. If you do that on mine, then hopefully we start with the really warm ones and then expand to the not-so-warm ones.
 
 **Gloria Willis:** Yep.
 
-**Marcel Santilli:** Okay.
+**Marcel Santilli:** Okay. So if you can help me with the list. On my end, you already have contact with Caddy. So then I think you can do the same thing. It's a lot easier when you get on calls, Gloria. And Jose can help do this as well and put it into an Airtable. The way I would do it at scale is you have an Airtable view. Sydney is game for either April 14th or 15th to do a dinner. Since she can't be here for this one. So we can do these where we have a co-host and then just go through their network and map everybody really quickly that fits our criteria that we like. Hey, this is what we're thinking. Then divide and conquer. We can do something similar with Caddy. You can go and try to find anyone that's like CMO or VP of Marketing.
 
-**Marcel Santilli:** So yeah, like, if you can help me with the list.
-
-**Marcel Santilli:** And then on my end is you already have contact with caddy, so then I think Caddy, you can do the same thing.
-
-**Marcel Santilli:** It's a lot easier, like, when you get on these calls, Gloria, like, if we.
-
-**Marcel Santilli:** And Jose can help do this as well and like, put it into like an airtable.
-
-**Marcel Santilli:** And so the way I would do it at scale, because it was just like, you have like an airtable view.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Sydney is game for either April 14th or 15th to do a dinner.
-
-**Marcel Santilli:** Since she can't.
-
-**Marcel Santilli:** She won't be here for this one.
-
-**Marcel Santilli:** But like, you know, you know, like, so we can do these where it's like we have a co host and then we just like, go through their network and like, map everybody really quickly that fits our criteria that we like.
-
-**Marcel Santilli:** And it's like, hey, this is what we're thinking.
-
-**Marcel Santilli:** And then like, divide and conquer.
-
-**Marcel Santilli:** But, like, we can do something kind of similar with Caddy, you know, where it's like, you.
-
-**Marcel Santilli:** You can go and.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And then like, try to find anyone that's like CMO or VP of marketing.
-
-**Marcel Santilli:** And then.
-
-**Marcel Santilli:** Like, Rachel would be a good one as well.
-
-**Marcel Santilli:** I can ping her if she wants to do.
-
-**Marcel Santilli:** But.
-
-**Marcel Santilli:** But if you can help me.
-
-**Marcel Santilli:** Claire's pretty well connected too, but I.
-
-**Marcel Santilli:** But I know she's selective on doing this, you know, these events or wanting to co host.
-
-**Marcel Santilli:** But, like, she's awesome.
-
-**Marcel Santilli:** She really likes us.
-
-**Marcel Santilli:** So maybe there's like, if you all can help, like, short list CMOs anyways, which, I mean, we should have like the ultimate list, Jason, of like, CMOs and VP's and marketings of all the accounts that matter in the Bay Area, you know, and then later on, like, we can repeat the process in other cities, you know, and it'll be a lot easier to kind of like, flag.
-
-**Marcel Santilli:** And then for each, we can create really quickly, like, which ones are I am connected to, you know?
+**Marcel Santilli:** Like, Rachel would be a good one as well. I can ping her if she wants to do this. Claire's pretty well-connected too, but I know she's selective on doing these events. But she's awesome and she really likes us. So maybe if you all can help, we should have the ultimate list, Jason, of like, CMOs and VPs of Marketing of all the accounts that matter in the Bay Area. Then later on, we can repeat the process in other cities. For each, we can create really quickly which ones I am connected to. We can even have a connection strength or something like that.
 
 **Jason Gong:** Yeah, yeah, we'll put that up.
 
-**Marcel Santilli:** Like, we can even have like a connection strength or something like that, you know, but.
+**Marcel Santilli:** Okay, so on my end, let me work some angles on Carol first. So give me a second. Let me do that really quickly so I don't forget. Okay, I pinged Carol. I said I need her to do that as a favor. She has advisory share, so she has to do stuff. So I'll push a little hard. Sydney will nail for the 14th. Caddy's game. Locking the venue will make a lot of these conversations a lot easier too. And then if we pencil in the 14th, anyone that says no, we can also say, "Hey, by the way, we have another one on the 14th." So if we have the stuff penciled in a little bit, you know.
 
-**Marcel Santilli:** Okay, so on my end, let me work some angles on Carol first.
+**Marcel Santilli:** And then Gloria, I ran an agent on my stuff to try to come up with the top conferences. That's how I found the Air Ops one through that research. I think there should be a lot. The more we get ahead of the ones that are going to be in town and try to do it around it, I think the easier it gets. And then I think if venues that we know are really good, like Quince and others. But even like, for example, Lazy Bear, if Inbound is going to be in Boston this year. But there's no scenario where we don't do a big thing for Inbound, for example. Or whichever one's going to be in town. The ones that are big, there's no way we're not going to do something around. We might as well go all out for those, right? Because I think like September, the combination of breakfast, dinner, webinar, and mixer was just insane. So if we can kind of use events like that essentially, it pretty much carries the day. Even October is a pretty high month. Because you get benefits from the invites leading up to it and a bunch of other things. So having these big moments where we just surround everywhere, I think will help.
 
-**Marcel Santilli:** So give me a second.
+**Gloria Willis:** And did you say you have that list built somewhere? Do you want to share that with me?
 
-**Marcel Santilli:** Let me do that really quickly so I don't forget Carol.
+**Marcel Santilli:** I ran an agent. So I will download it, but I'll send you the files in the channel. But let me show you. I just ran like a quick agent, so I don't know if it's comprehensive. Let me look. Oh no, this is agencies. I think I might not have saved the other one.
 
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** I pinned Carol, so I said I need her to do that as a favor.
-
-**Marcel Santilli:** But I'm.
-
-**Jason Gong:** She.
-
-**Marcel Santilli:** She has advisory share, so she has to do stuff.
-
-**Marcel Santilli:** Like.
-
-**Marcel Santilli:** So I'll push a little hard.
-
-**Jason Gong:** And.
-
-**Marcel Santilli:** Sydney will nail for the 14th, but Caddy's game and then locking the venue will make a lot of these conversations a lot easier too.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And then if we pencil in the 14th, we can.
-
-**Marcel Santilli:** Anyone that says no, we can also say, hey, by the way, we have another one on the 14th.
-
-**Marcel Santilli:** So it's kind of like if we have the stuff like, penciled in a little bit, you know, and.
-
-**Marcel Santilli:** And then I, Gloria, I ran like an agent on.
-
-**Marcel Santilli:** On my stuff to try to come up with like, the top conferences.
-
-**Marcel Santilli:** That's how I found the.
-
-**Marcel Santilli:** The air Ops one.
-
-**Marcel Santilli:** It was just through that research.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** And I think there.
-
-**Marcel Santilli:** There should be like, a lot of, like the more we get ahead of the ones that are going to be in town and try to do it around it, I think the easier and.
-
-**Marcel Santilli:** And then I think if, like, venues that we know are really good, like quints and others and you know, but.
-
-**Marcel Santilli:** But even like, for example, like the Lazy Bear, if, like Inbound is going to be in Boston this year, but, you know, like, there's no scenario where we don't do a big thing for Inbound, for example, so, you know, or whichever one's going to be in town, like, the ones that are big, that there's no way we're not going to do something around.
-
-**Marcel Santilli:** We might as well go all out for those, right?
-
-**Marcel Santilli:** Or.
-
-**Marcel Santilli:** Because I think like September, the combination of breakfast, dinner, webinar, I think, and mixer was just like, it was insane.
-
-**Marcel Santilli:** Like, so.
-
-**Marcel Santilli:** So if we.
-
-**Marcel Santilli:** Any combination of that that we can kind of like use events like that essentially like that pretty much carry the day.
-
-**Marcel Santilli:** Even October is pretty high month.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Like so then you have like.
-
-**Marcel Santilli:** Because you get benefits from also the invites leading up to it and a bunch of other things.
-
-**Marcel Santilli:** So like having these like, you know, big moments where we just surround everywhere.
-
-**Marcel Santilli:** I think will.
-
-**Marcel Santilli:** Will help.
-
-**Gloria Willis:** And did you.
-
-**Gloria Willis:** You said you have that list.
-
-**Gloria Willis:** It's built somewhere.
-
-**Gloria Willis:** Do you want to share that with me?
-
-**Marcel Santilli:** I ran a.
-
-**Marcel Santilli:** So I will download it, but I'll send you the files in the channel.
-
-**Marcel Santilli:** But let me show you.
-
-**Marcel Santilli:** I just ran like a quick agent so I don't know if it's comprehensive, but it's like, oh no, this is.
-
-**Marcel Santilli:** Agencies.
-
-**Marcel Santilli:** Think I might not have.
-
-**Marcel Santilli:** Save the other one.
-
-**Jason Gong:** Larry.
-
-**Jason Gong:** I also put you in touch with HubSpot.
-
-**Jason Gong:** Yes, they're actually.
-
-**Jason Gong:** Yeah, like they're open to talking about Inbound and co hosting for Saster, so.
+**Jason Gong:** I also put you in touch with HubSpot. Yeah, like they're actually open to talking about Inbound and co-hosting for Saster.
 
 **Gloria Willis:** Perfect.
 
 **Jason Gong:** You should do that.
 
-**Marcel Santilli:** Yes, Saster is another one.
+**Marcel Santilli:** Yes. Saster is another one.
 
-**Gloria Willis:** Yeah, I have that on my list.
+**Gloria Willis:** Yeah, I have that on my list. Saster and I don't know how you feel about SAS Stock. That one's in Austin this year.
 
-**Gloria Willis:** Sester and I don't know how you feel about SAS stock.
+**Marcel Santilli:** Yeah, I feel like we need to do stuff in Austin no matter what. Is there anything else coming that's like marketers? I mean, Streamforce a little, but Inbound is not going to be in town. Is there anything tangentially? I mean, there's Webflow Conference. We should definitely get ahead of that one too and like kind of force their hand on giving us as a keynote, ideally.
 
-**Gloria Willis:** That one's in Austin this year.
+**Gloria Willis:** Human X is coming up in April and I have us doing a breakfast right around that time. But if we're gonna do a dinner, we probably could do both.
 
-**Marcel Santilli:** Yeah, I feel like we need to do stuff in Austin no matter what.
+**Marcel Santilli:** Got it. Okay. So Human X. Were they in town last year or somewhere else?
 
-**Marcel Santilli:** I mean, is there anything else coming that's like marketers, I mean, stream force a little, but it's like Inbound is not going to be in town.
+**Gloria Willis:** It might have been in San Francisco last year. I know it's in San Francisco this year.
 
-**Marcel Santilli:** Is there anything that's like, even tangentially?
-
-**Marcel Santilli:** I mean, there's Webflow Conference.
-
-**Marcel Santilli:** We should definitely get ahead of that one too and like kind of force their hand on giving as a keynote.
-
-**Marcel Santilli:** Ideally, but.
-
-**Gloria Willis:** Human X is coming up in April and I have us doing a breakfast right around that time.
-
-**Gloria Willis:** But if we're gonna do a dinner, probably could do both.
-
-**Marcel Santilli:** Got it.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** So Human Act.
-
-**Marcel Santilli:** Were they in town last year or somewhere else?
-
-**Gloria Willis:** It might have been in San Francisco last year.
-
-**Gloria Willis:** I know it's in San Francisco this year.
-
-**Gloria Willis:** So.
-
-**Marcel Santilli:** Yeah, it's more like high level, way off.
-
-**Marcel Santilli:** I don't think they're going to have a lot of marketers in there.
-
-**Marcel Santilli:** Okay.
-
-**Marcel Santilli:** I'm just looking at the speaker list.
-
-**Marcel Santilli:** There's one CMO Figma as a speaker, but then the rest is mostly like.
-
-**Marcel Santilli:** I mean it's.
-
-**Marcel Santilli:** It's a good one to like know of and maybe do something around, but trying to see if there's any.
-
-**Marcel Santilli:** Yeah, I mean the speakers alone I think could be maybe that one you can do like either a.
-
-**Marcel Santilli:** We can do a mixer or something kind of like more broad.
-
-**Marcel Santilli:** Right.
+**Marcel Santilli:** Yeah, it's more like high-level, way off. I don't think they're going to have a lot of marketers in there. Okay, I'm just looking at the speaker list. There's one CMO from Figma as a speaker, but then the rest is mostly. I mean it's a good one to know of and maybe do something around. Trying to see if there's anything. Yeah, I mean the speakers alone I think could be maybe that one you can do like either a. We can do a mixer or something kind of more broad.
 
 **Jason Gong:** Okay.
 
-**Marcel Santilli:** How the hell do they have all these speakers?
+**Marcel Santilli:** How the hell do they have all these speakers? That's insane. It's like how are they going to have enough sessions to fit all these speakers? There's over like 200 speakers. There's the CEO of Ramp and a bunch of others. Yeah.
 
-**Marcel Santilli:** That's insane.
+**Gloria Willis:** They probably have a lot of tracks going all at once.
 
-**Marcel Santilli:** It's like how are they going to have enough sessions to fit all these speakers?
+**Marcel Santilli:** That's wow. Yeah.
 
-**Marcel Santilli:** Like, there's no way.
+**Gloria Willis:** Okay, well I will continue to look for some more. I did have like the big ones. I had Saster, SAS Stock, and Inbound already on the list for this year. I'll do a search to dig a little deeper to see if there's some other great marketing ones that are going to be coming.
 
-**Marcel Santilli:** There's over like 300, 200 speakers.
+**Marcel Santilli:** I mean, like the other tactic we could take here is just like we go after the CMOs that we really care about, that we really want to build relationships with. And we use co-hosting — we'll pay for everything as the excuse to tap into their entire network. But also, the ultimate goal of that is to just like build a relationship with them individually and their teams because then we've got to coordinate and things like that. And then any company that also somewhat sells to marketing, like Notion and others, that's another company. CC would be another good one to maybe see if she wants to be around. But yeah, I would say Rachel and CC, depending, could be good ones for a February one. Then we should just pin down like a date for a March one. Then we can use the 14th and 15th of April for the April one. And then we kind of have like three guaranteed dinners. We don't even need to pin down necessarily. We'll just fill the rooms. Let's just get a schedule so that we can kind of fill the rooms. Then for each one of them, we have one or two co-hosts that we can use that as an excuse to tap into their network. But then also as me or Tyler or Nigel or others are having sales calls and things, we can always be like, oh, by the way, we have this dinner coming up. And then we can just as we're having day-to-day stuff, we point them to the stuff coming up. So we always have like three dinners and two breakfasts pre-scheduled ahead. Then we always have like five potential dates so people can't get out. She can say no to one, you have all four fallbacks.
 
-**Gloria Willis:** They're like, they probably have a lot of tracks going all at once.
+**Marcel Santilli:** And then Jason, like I think like we just need to like have Jose or somebody like just do like a crazy map of like a CMO database. You know?
 
-**Marcel Santilli:** That's wow.
+**Jason Gong:** Yeah, no, I mean we need to do that. I mean like map our universe. I mean I think I should just live in HubSpot to be honest. Like we're already starting to do that.
 
-**Marcel Santilli:** Like the CEO of Ramp.
+**Marcel Santilli:** But you're not going to share access to HubSpot, like Caddy for example. So no matter what. Oh, to think. So like, we can sync it to HubSpot but they're just going to be context with no activity in it until there is activity. But Airtable mostly was how it was easy to just slice the data and give somebody like a view of like the shortlist of invites, you know? Like who do you want to invite? Because like what you did for the breakfast, like you had this spreadsheet which is great. But then like the next one you're going to have to go find a spreadsheet and whatnot. Like with Airtable there's ways to like later on just have it all pull from one source or like easy to duplicate for the next one. And then there's checklists, there's rules, there's also forms so they can submit. Like there's some things we could do with Airtable.
 
-**Marcel Santilli:** Like there's a bunch of others.
-
-**Marcel Santilli:** Yeah.
-
-**Gloria Willis:** Okay, well, I will continue to look for some more.
-
-**Gloria Willis:** I did have like the big ones.
-
-**Gloria Willis:** I had Sester, Sastock and Bound already on the list for this year.
-
-**Gloria Willis:** I'll do a search to dig a little deeper to see if there's some other great marketing ones that are going to be coming.
-
-**Marcel Santilli:** I mean like the other tactic we could take here is just like we go after the CMOs that we really care about, that we really want to build relationships with and we use co hosting, we'll pay for everything as the excuse to tap into their entire network.
-
-**Marcel Santilli:** But also like the ultimate goal of that is to just like build a relationship with them individually and their teams because then we got to coordinate and things like that, you know.
-
-**Gloria Willis:** Right.
-
-**Marcel Santilli:** And then any company that also somewhat sells to marketing like Notion and others, like that's also cc would be another good one to maybe see if she wants to like if she's around, you know, Know.
-
-**Marcel Santilli:** But yeah, I would say Rachel.
-
-**Marcel Santilli:** And cc, depending could be good ones for a February one and then we should just pin down like a date for a March one and then we can use the 14th and 5th and or 15th of April for the April one.
-
-**Marcel Santilli:** And then we kind of have like three guaranteed dinners and we don't even need to pin down necessarily.
-
-**Marcel Santilli:** Like, you know, it's just kind of like we'll fill the rooms.
-
-**Marcel Santilli:** Let's just like get a schedule so that like we can kind of fill the rooms and then each one of them we have one or two co hosts that then we can use that as an excuse to tap into their, their network.
-
-**Marcel Santilli:** But then also as me or Tyler or Nigel or others are having sales calls and things, we can always be like, oh by the way, we have this dinner coming up and then we can just like as we're having the day to day stuff, we point them to the stuff coming up.
-
-**Marcel Santilli:** So then it's like we always have like three dinners and two breakfasts pre schedule ahead.
-
-**Marcel Santilli:** Then we always have like five potential dates so people can't get out.
-
-**Marcel Santilli:** She like say no to one.
-
-**Marcel Santilli:** You have all four back fallbacks, you know.
-
-**Marcel Santilli:** And then Jason, like I think like we just need to like have Jose or somebody like just do like a crazy map of like, like a CMO database, you know?
-
-**Jason Gong:** Yeah, no, I mean we need to do that.
-
-**Jason Gong:** I mean like map our universe.
-
-**Jason Gong:** I mean I think I should just live in HubSpot to be honest.
-
-**Jason Gong:** Like we're already starting to do that.
-
-**Marcel Santilli:** But, but you're not going to share access to HubSpot like Caddy for example.
-
-**Marcel Santilli:** So no matter what, you know.
-
-**Marcel Santilli:** Oh, to nk.
-
-**Marcel Santilli:** So like, like we, you can sync it to HubSpot but they're just going to be context with no activity in it, you know, until there is activity.
-
-**Marcel Santilli:** But airtables mostly like was how it was easy to just slice the data and give somebody like a view of like the short list of invites, you know, like who do you want to invite?
-
-**Marcel Santilli:** Because like Laurie, like what you did for the breakfast, like you had this spreadsheet is great but then like the next one you're going to have to go find a spreadsheet and whatnot.
-
-**Marcel Santilli:** Like with airtable there's ways to like later on just have it all pull from one source or like easy to like duplicate for the next one, you know, and then there's like checklist, check, there's rules, there's also forms there so they can submit.
-
-**Marcel Santilli:** Like there's like some things we could do with airtable, you know.
-
-**Jason Gong:** I know you love airtable, Marcel.
-
-**Jason Gong:** We could, I mean we need to do something like post event too like where we sit down with like folks and like write all the follow ups, you know, get things out of your head.
-
-**Jason Gong:** So if you will do a near table if you.
+**Jason Gong:** I know you love Airtable, Marcel. We could, I mean we need to do something like post-event too where we sit down with folks and like write all the follow-ups, you know, get things out of your head. So if you will do an Airtable, if you.
 
 **Marcel Santilli:** Do you think that's a great platform?
 
-**Marcel Santilli:** Yeah.
+**Jason Gong:** Yeah.
 
-**Marcel Santilli:** Right now the ask is just like let's get ahead of it.
+**Marcel Santilli:** Right now the ask is just like let's get ahead of it. I do think Gloria, for the image that you did for the events, you should really try to have more people in it too. And also in the image, not just dinner but something. It can be simple, like CXO or CMO. I don't know what we did for the Lamar one, but the Lamar one was like, I think, the perfect execution in some ways because it was just like two weeks' notice. We filled a room with 45 people. Like the show rate was really good. The location itself was okay. They put us in the room in the front and it was kind of like whatever. It looked like an ugly, outdated room. But the food was great, the people were great, everybody loved it. We got a lot of pipeline from that and a lot of good credibility from that event.
 
-**Marcel Santilli:** I do think Gloria, for the image that you did for the events should really try to have more people in it too.
+**Gloria Willis:** So yeah, we'll check that one out, see what the magic sauce was on that one.
 
-**Marcel Santilli:** And also in the image, not just dinner but something, it can be simple, CXO or cmo, you know, like, like whatever we did, like I don't know what we did for the Lamar one but the Lamar one was like I think the, the, the perfect execution in some ways because it was just like two weeks notice.
-
-**Marcel Santilli:** We filled a room with 45 people.
-
-**Marcel Santilli:** Like the show rate was really good.
-
-**Marcel Santilli:** The, I mean the location itself was okay.
-
-**Marcel Santilli:** They put us in the room in the front and it was kind of like yeah, whatever.
-
-**Marcel Santilli:** It's like it just like looked like an ugly outdated room but, but it was like the food was great, the people were great, everybody loved it.
-
-**Marcel Santilli:** Like we got a lot of, you know, pipeline from that and a lot of good like credibility from that event.
-
-**Marcel Santilli:** You know?
-
-**Gloria Willis:** So, yeah, we'll check that one out, see what the magic sauce was on that one.
-
-**Marcel Santilli:** Okay, cool.
-
-**Marcel Santilli:** Okay, so I.
-
-**Marcel Santilli:** Let me ping some people.
-
-**Marcel Santilli:** I ping Carol.
-
-**Marcel Santilli:** I am pinging Rachel.
-
-**Marcel Santilli:** And.
-
-**Marcel Santilli:** Okay, she responded.
-
-**Marcel Santilli:** Rachel.
-
-**Marcel Santilli:** So, okay, let me get to work on some of these things, and then I'll keep you all posted in the channel as I hear back from them.
+**Marcel Santilli:** Okay, cool. Okay, so let me ping some people. I'm pinging Carol. I'm pinging Rachel. Okay, she responded. Rachel. So okay, let me get to work on some of these things and I'll keep you all posted in the channel as I hear back from them.
 
 **Gloria Willis:** Okay, sounds good.
 
-**Marcel Santilli:** Awesome.
+**Marcel Santilli:** Awesome. All right, thank you both. Talk soon.
 
-**Marcel Santilli:** All right, thank you both.
-
-**Marcel Santilli:** Talk soon.
-
-**Gloria Willis:** Thank.
+**Gloria Willis:** Thank you.
 
 **Marcel Santilli:** You.

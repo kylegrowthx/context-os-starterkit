@@ -5,69 +5,149 @@ date: 2025-12-29
 time: 18:00 UTC
 duration: 49 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Estevão Mascarenhas, Jacopo Beschi, Jose Farias, Pedro, Daniel Lopes, Stevie Kim, Jason Gong, Jose Farias, Leonardo, Leonardo
+participants:
+  - name: Marcel Santilli
+    company: GrowthX
+    role: CEO/Organizer
+  - name: Estevão Mascarenhas
+    company: CheckThat
+    role: Engineering
+  - name: Jacopo Beschi
+    company: CheckThat
+    role: Frontend/Performance
+  - name: Jose Farias
+    company: CheckThat
+    role: Backend Architecture
+  - name: Pedro
+    company: CheckThat
+    role: Frontend
+  - name: Daniel Lopes
+    company: CheckThat
+    role: Infrastructure/Cost
+  - name: Stevie Kim
+    company: CheckThat
+    role: Product/Operations
+source: fireflies
 fireflies_id: 01KD3KPN73XC8KZSH5XHCEF3E6
 transcript_url: https://app.fireflies.ai/view/01KD3KPN73XC8KZSH5XHCEF3E6
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
+
+---
+
+## Context
+
+CheckThat's weekly engineering and product sync on Dec 29, just after the Christmas break. The team reported strong organic growth (9% impressions increase, 1,000+ pages indexed) but highlighted mounting cost pressures—$150K monthly spend, with Gina (likely an inference service) consuming $45K alone. The focus is on scaling the platform's SEO visibility while managing infrastructure costs and unblocking the onboarding flow, which is critical for launch readiness.
+
+---
+
+## Relevance
+
+**CheckThat (Product & Engineering)**
+- Organic SEO performance: 9% impressions growth, 1,000+ pages indexed
+- Cost management: $150K/month monthly burn, Gina service at $45K
+- RE architecture simplification: Merged, reduces technical debt
+- Prompt management: 13,000+ prompts with many-to-many relationships requiring optimization
+
+**Frontend & Performance**
+- First Contentful Paint and Largest Contentful Paint metrics degraded
+- Deferring major optimizations until Jose's backend rearchitecture completes
+- UI standardization for filters and selectors to reduce user confusion
+- Workspace URL privacy: obscuring IDs via encrypted cookies
+
+**Content & SEO**
+- Editorial improvements on category pages (H1 enhancements, descriptions)
+- Building topic authority per brand hub
+- Meta title tweaks driving positive CTR
+- Decoupling workflows from ContentOS to avoid reliance on buggy system
 
 ---
 
 ## Summary
 
-The team discussed strong organic growth with a 9% increase in impressions and over 1,000 pages now indexed, indicating strong momentum. Cost management emerged as a critical concern with monthly spending reaching $150,000, with Gina accounting for $45,000. The RE architecture simplification has been mostly merged, improving codebase maintainability with fewer expected bugs. The prompt management system with many-to-many relationships and 13,000+ prompts needs better organization. The onboarding flow remains a blocker pending input on pricing strategy. Frontend performance improvements are a priority, with the team deferring optimizations until Jose's rearchitecture is complete to avoid redundant work.
+Strong organic growth momentum with 9% impressions increase and 1,000+ pages indexed, but cost management is critical—monthly spend at $150K with Gina alone consuming $45K. RE architecture simplification merged successfully, reducing technical debt. The many-to-many prompt system with 13,000+ prompts and new probing cadence aims to optimize operational costs. Onboarding flow remains the critical blocker for launch; frontend performance improvements deferred until Jose's rearchitecture completes.
+
+---
+
+## Decisions & Commitments
+
+- **Cost visibility priority**: Daniel and Leo to build detailed expense tracking spreadsheet; split costs into two categories for line-by-line analysis
+- **Onboarding unblock**: Schedule follow-up call with Marcel, Jose, and Daniel to review onboarding docs and clarify pricing strategy
+- **Frontend optimization deferral**: Hold major PageSpeed fixes until Jose's rearchitecture concludes to avoid redundant work
+- **Prompt management**: Implement 7-day warm-up probing period followed by frequency backoff based on prompt type and user plan
+- **Editorial improvements**: Marcel to lead design/progression of category page enhancements for SEO with Carrie and Kavishka input
+- **Workspace ID privacy**: Implement encrypted cookie solution to obscure IDs in URLs (Jacopo to implement)
+
+---
+
+## Open Questions
+
+- What is the optimal pricing strategy for the onboarding flow (free vs. paid plan gating)?
+- How should cost per service per prompt be calculated to inform feature gating?
+- What is the timeline for Jose's backend rearchitecture completion?
+- Should all proposed filters for UI standardization be universally shared, or can some be context-specific?
+- How will the team monitor and validate the 7-day probing period effectiveness?
+
+---
+
+## Overview & Key Topics
+
+- Organic SEO growth and strategy
+- Cost management and expense tracking
+- Architecture improvements (RE simplification, backend rearchitecture)
+- Prompt management system optimization
+- Onboarding flow and launch readiness
+- Frontend performance and optimization
+- Content and editorial improvements
+- Privacy and security (workspace URL obscuring)
+
+---
 
 ---
 
 ## Action Items
 
-**Jose Farias**
-- Review Pedro's PR for many-to-many prompts and subcategories after the call
-- Drop an implementation plan for onboarding and unblock the team by clarifying technical risks
+**Jose Farias** (CheckThat)
+- Review Pedro's PR for many-to-many prompts and subcategories
+- Drop an implementation plan for onboarding and clarify technical risks to unblock team
 - Verify frontend PageSpeed indexes and loading performance post-backfill
-- Add status updates related to data vitrologies and visualizations during next meeting
+- Provide timeline estimate for backend rearchitecture completion
 
-**Pedro**
+**Pedro** (CheckThat)
 - Handle conflict resolution and reapply UI standardization changes for filter bar and selectors
 - Re-add pagination on brand logos in charts after Jose's refactor
-- Continue fixing assigned bugs especially related to brand management and charts
+- Continue fixing assigned bugs related to brand management and charts
 
-**Stevie Kim**
+**Stevie Kim** (CheckThat)
 - Assign blockers and open tickets related to brand management and charts
-- Investigate adding Groq to AI monitoring services and report back
-- Prepare and distribute next week's agenda earlier for team review and input
+- Investigate adding Groq to AI monitoring services and report findings
+- Prepare and distribute next week's agenda earlier for team review
 - Collaborate with editorial team to review and QA workspace tickets
 
-**Daniel Lopes**
-- Collaborate with Estevão on decoupling workflows from ContentOS pipelines for page generation
+**Daniel Lopes** (CheckThat)
+- Build detailed expense tracking spreadsheet with Leo to split costs across tools and products
+- Collaborate with Estevão on decoupling workflows from ContentOS pipelines
 - Join Marcel and Jose for onboarding flow review call
 
-**Estevão Mascarenhas**
+**Estevão Mascarenhas** (CheckThat)
 - Share existing workflows for page generation with Daniel
 
-**Marcel Santilli**
+**Marcel Santilli** (GrowthX)
 - Lead design and progression of editorial improvements on category pages for SEO
-- Share links to monetization and pricing strategy documents for team review
-- Collect team input on onboarding flow pricing strategy and optimal account setup processes
-- Continue monitoring impressions, clicks and SEO signals, share updates with team
+- Share monetization and pricing strategy documents with team for review
+- Collect team input on onboarding flow pricing strategy and account setup
+- Continue monitoring impressions, clicks, and SEO signals; share updates with team
 
-**Jacopo Beschi**
-- Continue monitoring site performance and finalize frontend fixes for PageSpeed optimization
-- Monitor frontend performance metrics, especially first and largest contentful paint
+**Jacopo Beschi** (CheckThat)
+- Continue monitoring site performance and hold major optimizations until rearchitecture completes
+- Monitor First Contentful Paint and Largest Contentful Paint metrics closely
 - Implement encrypted cookie solution to obscure workspace IDs in URLs
 
 ---
 
 ## Transcript
 
-**Marcel Santilli:** This meeting is being recorded. Hello. How's it going?
-
-**Jose Farias:** Hey. Morning.
-
-**Marcel Santilli:** How y'all doing?
-
-**Jose Farias:** Yes.
-
-**Marcel Santilli:** Everybody have a good Christmas?
+**Marcel Santilli:** This meeting is being recorded. Hey everyone. How's it going? Everybody have a good Christmas?
 
 **Pedro:** Lots of kids at home.
 
@@ -75,45 +155,41 @@ The team discussed strong organic growth with a 9% increase in impressions and o
 
 **Marcel Santilli:** Nice. How's the new baby?
 
-**Jose Farias:** Great. He might be getting sick, which is the news today. Just like a cold, minor stuff, but unfortunate timing.
+**Jose Farias:** Great. He might be getting sick—just a cold, minor stuff, but unfortunate timing.
 
-**Stevie Kim:** Kids is kind of like the wild west. It's impossible to.
+**Stevie Kim:** Kids are kind of like the wild west.
 
-**Marcel Santilli:** Good, good. I messed around with the meeting agenda a little bit just to organize it slightly different to see if it works well.
+**Marcel Santilli:** Good, good. I reorganized the meeting agenda a bit to see if the new structure works better.
 
-**Stevie Kim:** Okay, cool. Yeah, I checked it out, but I didn't have time to see all the new updates.
+**Stevie Kim:** Cool, yeah, I checked it out but didn't have time to see all the updates.
 
-**Marcel Santilli:** All good. But quick update maybe before we jump in. I know folks saw some results but really encouraging stuff so far.
+**Marcel Santilli:** No problem. Quick update before we jump in—really encouraging stuff so far. Our organic growth is looking solid. Impressions up about 9%, and we've surpassed 1,000 pages indexed.
 
-**Marcel Santilli:** So quick update on organic. We're really in a good place. Impressions up about 9%. Surpassed like over 1000 pages indexed.
+**Jose Farias:** That's very encouraging—a big milestone to hit.
 
-**Jose Farias:** That's very encouraging and a big milestone to hit.
-
-**Marcel Santilli:** Yeah. Yeah. It's like small things like meta title tweaks are definitely driving like a positive click through. And we're expecting this compounding effect to continue.
+**Marcel Santilli:** Small things like meta title tweaks are definitely driving positive click-through. We're expecting this compounding effect to continue. We're really focused on building topic authority per brand hub.
 
 **Daniel Lopes:** That's great momentum.
 
-**Marcel Santilli:** So we're really focused on like building topic authority per brand hub.
-
-**Stevie Kim:** So the organic growth is looking really green right now. But launch readiness I'd say is still in yellow status because onboarding and payment are still blockers.
+**Stevie Kim:** The organic growth is looking really green right now. But launch readiness is still in yellow status because onboarding and payment are still blockers.
 
 **Daniel Lopes:** Yes. And there's a cost concern.
 
-**Marcel Santilli:** Yeah. We hit 150K on our ramp card. Gina alone is 45K of that. So we really need to focus on cost visibility and optimization.
+**Marcel Santilli:** We hit 150K on our ramp card. Gina alone is 45K of that. We really need to focus on cost visibility and optimization.
 
 **Daniel Lopes:** Exactly. We need to split and track expenses across various scraping tools and products. I'm working with Leo to build a detailed expense tracking spreadsheet.
 
-**Marcel Santilli:** Yes. So we want to split cost views into two categories for line-by-line analysis to quickly identify major drivers and address them.
+**Marcel Santilli:** Right. We want to split cost views into two categories for line-by-line analysis to quickly identify major drivers and address them.
 
-**Jose Farias:** The RE architecture simplification is mostly merged. Delivering substantial codebase simplification and fewer merge conflicts now.
+**Jose Farias:** The RE architecture simplification is mostly merged. It's delivering substantial codebase simplification and fewer merge conflicts now.
 
-**Daniel Lopes:** The main benefit is fewer bugs in the future due to removing multiple code paths. User-facing improvements will be minor, mainly slight speed gains.
+**Daniel Lopes:** The main benefit is fewer bugs in the future due to removing multiple code paths. User-facing improvements will be minor—mostly slight speed gains.
 
-**Pedro:** I completed the many-to-many prompts subcategories feature. Awaiting Jose's review for merging tomorrow.
+**Pedro:** I completed the many-to-many prompts subcategories feature. Awaiting Jose's review for merging.
 
 **Jose Farias:** Yes, I'll get to that right after this call. It's crucial for enhancing content management and prompt organization.
 
-**Marcel Santilli:** Great. And the prompt management workflow... we're looking at about 13,000 prompts with many-to-many relationships now.
+**Marcel Santilli:** Great. The prompt management workflow—we're looking at about 13,000 prompts with many-to-many relationships now.
 
 **Stevie Kim:** Right. We proposed a warm-up probing period of 7 days for every new prompt, followed by backoff to reduced frequency based on prompt type and user plan.
 
@@ -123,7 +199,7 @@ The team discussed strong organic growth with a 9% increase in impressions and o
 
 **Daniel Lopes:** We also need to clarify cost per service per prompt to inform gating decisions for free vs. paid plans.
 
-**Stevie Kim:** And Estevão, can you share the existing workflows for page generation with Daniel?
+**Stevie Kim:** Estevão, can you share the existing workflows for page generation with Daniel?
 
 **Estevão Mascarenhas:** Yes, I'll share those after this call.
 
@@ -131,11 +207,11 @@ The team discussed strong organic growth with a 9% increase in impressions and o
 
 **Marcel Santilli:** Agreed. We want editors like Carrie and Kavishka to provide style and quality input to define what great content looks like.
 
-**Pedro:** And for category pages, we should lightly editiorialize with enhanced H1s and descriptions to improve SEO without altering core features.
+**Pedro:** For category pages, we should lightly editorialize with enhanced H1s and descriptions to improve SEO without altering core features.
 
 **Marcel Santilli:** Right. Every page should be one or two clicks away from key category and brand pages.
 
-**Stevie Kim:** UI standardization for filters and selectors is underway. We're looking at reducing user confusion from inconsistent placements.
+**Stevie Kim:** UI standardization for filters and selectors is underway. We're reducing user confusion from inconsistent placements.
 
 **Jose Farias:** Some filters may not need to be universally shared. We should question each filter's necessity.
 
@@ -147,7 +223,7 @@ The team discussed strong organic growth with a 9% increase in impressions and o
 
 **Marcel Santilli:** Agreed. Let's schedule a follow-up call to review the onboarding docs and unblock development.
 
-**Jacopo Beschi:** Frontend performance is slow currently. First and largest contentful paint metrics are poor.
+**Jacopo Beschi:** Frontend performance is slow currently. First and Largest Contentful Paint metrics are poor.
 
 **Marcel Santilli:** Jose, you're rewriting major parts of the frontend and backend architecture, right?
 
@@ -157,9 +233,9 @@ The team discussed strong organic growth with a 9% increase in impressions and o
 
 **Marcel Santilli:** The public pages share many components with the private side, so improvements will benefit both.
 
-**Marcel Santilli:** Lastly, there's the workspace URL structure issue where we're exposing sequence numbers.
+**Marcel Santilli:** Lastly, there's the workspace URL structure issue—we're exposing sequence numbers.
 
-**Jose Farias:** It's mostly aesthetic but obscuring those IDs could improve social sharing.
+**Jose Farias:** It's mostly aesthetic, but obscuring those IDs could improve social sharing.
 
 **Marcel Santilli:** Free accounts could be used to monitor workspace creation numbers, revealing growth rates publicly. That's a privacy concern.
 
@@ -169,4 +245,4 @@ The team discussed strong organic growth with a 9% increase in impressions and o
 
 **Jacopo Beschi:** Yes, I can add that to my list.
 
-**Marcel Santilli:** Great. So let's keep monitoring our organic growth metrics closely.
+**Marcel Santilli:** Great. Let's keep monitoring our organic growth metrics closely.

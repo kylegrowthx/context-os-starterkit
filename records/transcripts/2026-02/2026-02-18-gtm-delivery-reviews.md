@@ -5,10 +5,19 @@ date: 2026-02-18
 time: 21:00 UTC
 duration: 68 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Anna Baird, William Leborgne, Jason Gong, Bridget McGillivray, Leah Myers, Jeff Ignacío
+participants:
+  - Marcel Santilli
+  - Anna Baird
+  - William Leborgne
+  - Jason Gong
+  - Bridget McGillivray
+  - Leah Myers
+  - Jeff Ignacío
 fireflies_id: 01KH4KDKBBBV9A0PYP81HYFTSM
-meeting_link: 
+meeting_link:
 transcript_url: https://app.fireflies.ai/view/01KH4KDKBBBV9A0PYP81HYFTSM
+enriched_on: 2026-03-01 00:00 UTC
+source: fireflies
 </metadata>
 
 ---
@@ -88,172 +97,75 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 ---
 
+## Decisions & Commitments
+
+- **Increase operational accountability:** Marcel will implement stricter health updates and explicit next-steps documentation in all account handoffs to reduce confusion across the org (e.g., Brexit vs. Black Soul confusion).
+- **Define CheckThat positioning early:** Marcel committed to finalizing CheckThat inclusion/upsell strategy by end of Friday 2/21 so sales and delivery teams know what's bundled vs. upsold.
+- **Content quality over efficiency:** Publishing delays are acceptable if driven by quality improvements; William (Delivery) is accountable for content standards, with Panzer taking ownership of final QA.
+- **Establish bi-weekly editorial calibration:** William, Sydney, Jen, and Panzer will meet bi-weekly to set content quality standards and ensure cross-account consistency.
+- **Deploy self-booking widget:** Marcel agreed to revive the GrowthX website self-booking feature that historically drove 50-60% win rates from single meetings.
+- **Implement CheckThat presentation layer:** Marcel is prototyping a domain-in-insights-out experience to validate market fit before technical build.
+- **Weekly ARR health tracking:** Leah committed to building combined Sheets + HubSpot tracking as the north star metric for renewal visibility.
+
+---
+
+## Open Questions
+
+- **CheckThat conversion path:** Will the strategy session → trial → demo → decision flow scale beyond Nigel's manual effort? How do we operationalize conversions?
+- **Content quality cost impact:** How should we balance quality-driven publishing delays against client delivery timelines and margin targets?
+- **Renewal risk mitigation:** For high-risk Q2 accounts (50% flagged), what's the intervention playbook? Who owns outreach to Prophecy, Ambit, Udemy, Logic?
+- **Lead capture blind spot:** How many inbound leads are currently lost to non-HubSpot channels (email, social DMs, inbound booking links)? Jeff building a fix — what's the implementation timeline?
+- **Procore category saturation opportunity:** Is Hilti or Slashwire the priority target post-Procore acquisition? What's the engagement strategy?
+- **GrowthX website CheckThat visibility:** Should CheckThat be more prominent on the main site to drive top-of-funnel leads, or does the current "buried" approach reduce distraction for services buyers?
+
+---
+
 ## Action Items
 
-**Anna Baird**
-- Continue supporting sales team foundation, leadership candidate screenings, and help establish clear sales pipeline definitions (04:36)
+**Anna Baird** (Venture Partner)
+- Continue supporting sales team foundation, leadership candidate screenings, and help establish clear sales pipeline definitions
 
-**William Leborgne**
-- Set up bi-weekly coaching sessions with Sydney to improve content quality and editorial standards (48:11)
-- Fast-track hiring and ramping of new Engagement Managers and quality editors (41:23)
+**William Leborgne** (Head of Delivery)
+- Set up bi-weekly coaching sessions with Sydney to improve content quality and editorial standards
+- Fast-track hiring and ramping of new Engagement Managers and quality editors
 
-**Jason Gong**
-- Coordinate with Dig to retroactively create deals in HubSpot for missed inbound leads (14:50)
-- Clean up and document marketing plan and event calendar to enable funnel visibility (16:54)
-- Follow up with Dig post-meeting to align on opportunity creation and inbound lead management process (14:50)
+**Jason Gong** (GTM/Sales)
+- Coordinate with Dig to retroactively create deals in HubSpot for missed inbound leads
+- Clean up and document marketing plan and event calendar to enable funnel visibility
+- Follow up with Dig post-meeting to align on opportunity creation and inbound lead management process
 
-**Jason Gong & Marcel Santilli**
-- Advance social media setup and outreach, including strategic workshop for Marcel's social presence (29:40)
-- Host and document strategy workshop on Friday to refine social media and top-funnel processes (30:08)
+**Jason Gong & Marcel Santilli** (GTM/CEO)
+- Advance social media setup and outreach, including strategic workshop for Marcel's social presence
+- Host and document strategy workshop on Friday to refine social media and top-funnel processes
 
-**Marcel Santilli**
-- Prototype presentation layers for CheckThat strategy consultation experience; validate via strategy sessions before technical build (28:31)
-- Engage with Procore and subsidiary contacts to capitalize on post-acquisition marketing budgets (50:32)
+**Marcel Santilli** (CEO)
+- Prototype presentation layers for CheckThat strategy consultation experience; validate via strategy sessions before technical build
+- Engage with Procore and subsidiary contacts to capitalize on post-acquisition marketing budgets
+- Finalize CheckThat positioning (included vs. upsold) by EOD Friday
 
-**Bridget McGillivray**
-- Facilitate internal coordination with Jeff on Linear board/project management for Rev Ops tasks (07:18)
-- Support drafting communication to Viscom CEO to assess account continuation or exit strategy (01:05:19)
+**Bridget McGillivray** (Delivery/CM Ops)
+- Facilitate internal coordination with Jeff on Linear board/project management for Rev Ops tasks
+- Support drafting communication to Viscom CEO to assess account continuation or exit strategy
 
-**Leah Myers**
-- Continue refining ARR health dashboards, segregating publishing delays by cause for clearer renewal risk management (01:01:32)
+**Leah Myers** (Renewals/Ops)
+- Continue refining ARR health dashboards, segregating publishing delays by cause for clearer renewal risk management
+- Build weekly ARR health tracking (combined Sheets + HubSpot) as north star metric
+
+**Jeff Ignacío** (Rev Ops)
+- Build HubSpot syncs and integrations to capture inbound leads from email and social DMs
+- Define right deal stages for early inbound opportunities
 
 ---
 
 ## Transcript
 
-**elladillon:** This meeting is being recorded.
+**William Leborgne:** All right, I think that's most folks. Let's go ahead and jump right in.
 
-**William Leborgne:** Hello.
+**Marcel Santilli:** Tactically, William, did we change the schedule to Tuesday and Thursday?
 
-**William Leborgne:** Hello.
+**William Leborgne:** We did. I saw a bunch of emails go through with calendar updates, but the scheduling was a bit screwy. I apologize for the confusion — it took me a while to get everything synchronized.
 
-**George Haikal:** Good morning.
-
-**George Haikal:** Good morning.
-
-**William Leborgne:** How's it going?
-
-**elladillon:** Salutations.
-
-**William Leborgne:** Salutations.
-
-**elladillon:** I. I want to let you know that I'm in Seattle and I spy with my little eye.
-
-**elladillon:** You'll never guess.
-
-**elladillon:** You'll never guess.
-
-**elladillon:** Guess.
-
-**elladillon:** Guess.
-
-**elladillon:** Guess what?
-
-**elladillon:** What do you think?
-
-**William Leborgne:** The sunshine?
-
-**elladillon:** Yeah.
-
-**Aida Knezevic:** Yeah.
-
-**Aida Knezevic:** Yeah.
-
-**elladillon:** In fact, I might have to, like, close my shade.
-
-**William Leborgne:** Yeah, I was right.
-
-**William Leborgne:** It's so rare that you have sunshine.
-
-**William Leborgne:** That you're like, there's sunshine.
-
-**elladillon:** Is that too much energy for everybody?
-
-**William Leborgne:** No, it's just the right amount of energy.
-
-**elladillon:** By the way, George, are you.
-
-**elladillon:** Are you out of the grave?
-
-**elladillon:** How are you doing?
-
-**George Haikal:** Yeah, you can probably hear it in my voice a little.
-
-**George Haikal:** So it's just lingering.
-
-**George Haikal:** It's just lingering.
-
-**George Haikal:** Last week was bad, but, I mean.
-
-**George Haikal:** This week I've been working.
-
-**George Haikal:** It's just.
-
-**George Haikal:** It won't go away for some reason.
-
-**elladillon:** It just.
-
-**elladillon:** It sounded brutal.
-
-**George Haikal:** Yeah, it was so.
-
-**George Haikal:** It was so weird.
-
-**George Haikal:** Yeah.
-
-**George Haikal:** After Wednesday, I was just, like, deceased for two days.
-
-**George Haikal:** But we're back.
-
-**elladillon:** All right.
-
-**elladillon:** I'm glad you're back.
-
-**William Leborgne:** Was it Covid?
-
-**George Haikal:** Well, I didn't get tested.
-
-**George Haikal:** I don't know, but.
-
-**William Leborgne:** Oh, dang.
-
-**George Haikal:** Yeah.
-
-**George Haikal:** I don't know what it was, but didn't want to come in and get you all sick, so that's why.
-
-**George Haikal:** Stay at home.
-
-**elladillon:** There's some bad stuff going around.
-
-**elladillon:** Like, I've seen a bunch of people, they go down and they're going down hard.
-
-**George Haikal:** Yeah.
-
-**elladillon:** Maybe be a good girl and go get all my vaccines this year.
-
-**William Leborgne:** Yeah, Good call.
-
-**William Leborgne:** All right, I think that's most folks.
-
-**William Leborgne:** All right, let's go ahead and.
-
-**William Leborgne:** And jump right in.
-
-**elladillon:** And tactically, William, did we change it to Tuesday, Thursday?
-
-**William Leborgne:** We did.
-
-**elladillon:** Okay, awesome.
-
-**elladillon:** I saw a bunch of emails go through, but I didn't actually look at my calendar yet.
-
-**William Leborgne:** Honestly, you guys might have seen a bunch of different things because I was, like, adding them and it was all screwy.
-
-**William Leborgne:** So I apologize.
-
-**William Leborgne:** It took me a while to get it to work.
-
-**William Leborgne:** I don't know why it was.
+**Marcel Santilli:** Okay, awesome. I hadn't looked at my calendar yet but that makes sense now.
 
 **William Leborgne:** It was glitching.
 
@@ -277,71 +189,71 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** How are we doing?
 
-**Aida Knezevic:** I'm meeting Black Soul later with Carly, so she's going to meet them.
+**Bridget McGillivray:** I'm meeting Black Soul later with Carly, so she's going to meet them.
 
-**Aida Knezevic:** We're like, we didn't deliver their articles from last week, but I think they're going to be ready today.
+**Bridget McGillivray:** We're like, we didn't deliver their articles from last week, but I think they're going to be ready today.
 
-**Aida Knezevic:** I know they're in Sydney's queue and I know that we're also working on eight articles that are like, I think believe from this week.
+**Bridget McGillivray:** I know they're in Sydney's queue and I know that we're also working on eight articles that are like, I think believe from this week.
 
-**Aida Knezevic:** So if we could get like, I don't know how realistic it is to say that we can get this week's five by the end of the week, but Usman should be taking care, like, should be taking over content production next week for Black Soul.
+**Bridget McGillivray:** So if we could get like, I don't know how realistic it is to say that we can get this week's five by the end of the week, but Usman should be taking care, like, should be taking over content production next week for Black Soul.
 
 **William Leborgne:** Okay.
 
-**elladillon:** And Ada, this is the one I was confirming with you on Tuesday.
+**Marcel Santilli:** And Ada, this is the one I was confirming with you on Tuesday.
 
-**Aida Knezevic:** Right.
+**Bridget McGillivray:** Right.
 
-**elladillon:** Like, because I think in HubSpot Bridget has them as converted.
+**Marcel Santilli:** Like, because I think in HubSpot Bridget has them as converted.
 
-**George Haikal:** Yeah.
+**Jason Gong:** Yeah.
 
-**elladillon:** So like they're.
+**Marcel Santilli:** So like they're.
 
-**elladillon:** They should probably be in the converted.
+**Marcel Santilli:** They should probably be in the converted.
 
-**elladillon:** How long are we keeping them in Sprint or are you handing them over right now?
+**Marcel Santilli:** How long are we keeping them in Sprint or are you handing them over right now?
 
-**Aida Knezevic:** Oh, they're being handed over this week.
+**Bridget McGillivray:** Oh, they're being handed over this week.
 
-**elladillon:** Okay.
+**Marcel Santilli:** Okay.
 
-**elladillon:** Okay.
+**Marcel Santilli:** Okay.
 
-**Aida Knezevic:** I don't know, like the, the whole, the.
+**Bridget McGillivray:** I don't know, like the, the whole, the.
 
-**Aida Knezevic:** What's it called, the tracker wasn't updated.
+**Bridget McGillivray:** What's it called, the tracker wasn't updated.
 
-**Aida Knezevic:** Like this week, so I updated everything myself, but it did not move Black Soul.
+**Bridget McGillivray:** Like this week, so I updated everything myself, but it did not move Black Soul.
 
-**George Haikal:** So.
+**Jason Gong:** So.
 
-**elladillon:** Okay, that's fine.
+**Marcel Santilli:** Okay, that's fine.
 
 **William Leborgne:** Okay.
 
 **William Leborgne:** But they are officially converted.
 
-**elladillon:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**elladillon:** And if I could do a quick advertisement for the team, I felt like we had such a productive meeting on Tuesday, but we also had the pickle where, you know, poor William was out, Kathy's out, folks were sick.
+**Marcel Santilli:** And if I could do a quick advertisement for the team, I felt like we had such a productive meeting on Tuesday, but we also had the pickle where, you know, poor William was out, Kathy's out, folks were sick.
 
-**elladillon:** So my ask of the team is to make sure you put in explicit notes of customer health or conversion activity or so.
+**Marcel Santilli:** So my ask of the team is to make sure you put in explicit notes of customer health or conversion activity or so.
 
-**elladillon:** Like, because I'm still codifying everything in my mind.
+**Marcel Santilli:** Like, because I'm still codifying everything in my mind.
 
-**elladillon:** So sometimes I'm like, wait, is that Brexit or was that Black Soul?
+**Marcel Santilli:** So sometimes I'm like, wait, is that Brexit or was that Black Soul?
 
-**elladillon:** So I go into the meeting with Marcel and I'm like, that one is the.
+**Marcel Santilli:** So I go into the meeting with Marcel and I'm like, that one is the.
 
-**elladillon:** And if I can't find any notes, I just see activity.
+**Marcel Santilli:** And if I can't find any notes, I just see activity.
 
-**elladillon:** I can't like pull out the health of it.
+**Marcel Santilli:** I can't like pull out the health of it.
 
-**elladillon:** So.
+**Marcel Santilli:** So.
 
-**elladillon:** And doing the updates, please make sure that you anchor on a health update as well, like an explicit next steps.
+**Marcel Santilli:** And doing the updates, please make sure that you anchor on a health update as well, like an explicit next steps.
 
-**elladillon:** Just so that you know, if I'm munging a bunch of different accounts in my mind, I can parse it.
+**Marcel Santilli:** Just so that you know, if I'm munging a bunch of different accounts in my mind, I can parse it.
 
 **William Leborgne:** Yeah.
 
@@ -381,107 +293,107 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Ella.
 
-**elladillon:** Yep.
+**Marcel Santilli:** Yep.
 
-**elladillon:** Awesome.
+**Marcel Santilli:** Awesome.
 
-**elladillon:** Amazing.
+**Marcel Santilli:** Amazing.
 
 **William Leborgne:** Great.
 
-**elladillon:** The other thing that would help me folks for the done and you know the ball will be handed over to the you know, the growth EMS is for whatever reason anyone that we should call a risk from the get go, you know, like so for example, if I believe Turnstile, we've been working on our quality and we've been trying to perfect our pipelines and all that type of thing.
+**Marcel Santilli:** The other thing that would help me folks for the done and you know the ball will be handed over to the you know, the growth EMS is for whatever reason anyone that we should call a risk from the get go, you know, like so for example, if I believe Turnstile, we've been working on our quality and we've been trying to perfect our pipelines and all that type of thing.
 
-**elladillon:** So we shouldn't call that green yet until you know Seamus, as you guys are green for example.
+**Marcel Santilli:** So we shouldn't call that green yet until you know Seamus, as you guys are green for example.
 
-**elladillon:** So there are a couple anyway, so just make sure in the handoff that any of those risks for the team and then also just for me so that as I'm forecasting I'm, I'm being real and we're not caught by surprise.
+**Marcel Santilli:** So there are a couple anyway, so just make sure in the handoff that any of those risks for the team and then also just for me so that as I'm forecasting I'm, I'm being real and we're not caught by surprise.
 
-**George Haikal:** Yeah, the, the one thing I'll add here because it's been done but it technically isn't.
+**Jason Gong:** Yeah, the, the one thing I'll add here because it's been done but it technically isn't.
 
-**George Haikal:** We can leave it in this column.
+**Jason Gong:** We can leave it in this column.
 
-**George Haikal:** I don't know anywhere else to place it is Brex.
+**Jason Gong:** I don't know anywhere else to place it is Brex.
 
-**George Haikal:** It's staying in sprints for now.
+**Jason Gong:** It's staying in sprints for now.
 
-**George Haikal:** It's where I've been spending most of my time because we're working across three different lanes, building out a new resources hub for them, piping in all their current content and optimizing their website, building out custom interactive tools for them.
+**Jason Gong:** It's where I've been spending most of my time because we're working across three different lanes, building out a new resources hub for them, piping in all their current content and optimizing their website, building out custom interactive tools for them.
 
-**George Haikal:** So I'm working with Kirkland George Main on those lanes.
+**Jason Gong:** So I'm working with Kirkland George Main on those lanes.
 
-**George Haikal:** Plus we're doing an index and templates.
+**Jason Gong:** Plus we're doing an index and templates.
 
-**George Haikal:** Play as well that I'm building out.
+**Jason Gong:** Play as well that I'm building out.
 
-**George Haikal:** And so that's all ongoing.
+**Jason Gong:** And so that's all ongoing.
 
-**George Haikal:** I'll update the notes a little more comprehensively but a ton of work there.
+**Jason Gong:** I'll update the notes a little more comprehensively but a ton of work there.
 
-**George Haikal:** That like the sprint team or I guess I need to stay on top.
+**Jason Gong:** That like the sprint team or I guess I need to stay on top.
 
-**George Haikal:** Of and then when it's more stabilized.
+**Jason Gong:** Of and then when it's more stabilized.
 
-**George Haikal:** I already talked to Megan to work to handing it off but it's far from There right now.
+**Jason Gong:** I already talked to Megan to work to handing it off but it's far from There right now.
 
-**elladillon:** As a quick call out note not to steal all of your agenda, William, but just for context for the team, one of my.
+**Marcel Santilli:** As a quick call out note not to steal all of your agenda, William, but just for context for the team, one of my.
 
-**elladillon:** I had many fun meetings in San Francisco, but I had a two hour sort of whiteboarding session with Daniel.
+**Marcel Santilli:** I had many fun meetings in San Francisco, but I had a two hour sort of whiteboarding session with Daniel.
 
-**elladillon:** One hour.
+**Marcel Santilli:** One hour.
 
-**elladillon:** But what was really clarifying for me were, you know, we have Marcel's strategy, but that's kind of like up here.
+**Marcel Santilli:** But what was really clarifying for me were, you know, we have Marcel's strategy, but that's kind of like up here.
 
-**elladillon:** But I started to see the actual chess pieces like on the board of how Daniel would actually build the products and how they might all pin together.
+**Marcel Santilli:** But I started to see the actual chess pieces like on the board of how Daniel would actually build the products and how they might all pin together.
 
-**elladillon:** And then what does that mean for us as a team?
+**Marcel Santilli:** And then what does that mean for us as a team?
 
-**elladillon:** And sort of the functions that we're going to grow into and offers a value add, one of them is sort of more of this custom, you know, agency.
+**Marcel Santilli:** And sort of the functions that we're going to grow into and offers a value add, one of them is sort of more of this custom, you know, agency.
 
-**elladillon:** It's not just sort of like we're creating content, but this entire thing.
+**Marcel Santilli:** It's not just sort of like we're creating content, but this entire thing.
 
-**elladillon:** Like we'll have our os, but then we're going to have on top of it, you know, the lovable templates and all that type of thing is extra.
+**Marcel Santilli:** Like we'll have our os, but then we're going to have on top of it, you know, the lovable templates and all that type of thing is extra.
 
-**elladillon:** It's not going to be in the os.
+**Marcel Santilli:** It's not going to be in the os.
 
-**elladillon:** So very consciously and intentionally building sort of this custom team that would have a forward deployed engineer and all those things that would help build out this service model.
+**Marcel Santilli:** So very consciously and intentionally building sort of this custom team that would have a forward deployed engineer and all those things that would help build out this service model.
 
-**elladillon:** Georgia, just bring this up because I'd love you to have a meta point of view as you're doing your work, that this is work that we're going to sell intentionally as sort of this custom motion, so.
+**Marcel Santilli:** Georgia, just bring this up because I'd love you to have a meta point of view as you're doing your work, that this is work that we're going to sell intentionally as sort of this custom motion, so.
 
-**elladillon:** Yeah, exactly.
+**Marcel Santilli:** Yeah, exactly.
 
-**elladillon:** Productizing some of the customer service work.
+**Marcel Santilli:** Productizing some of the customer service work.
 
-**elladillon:** Exactly.
+**Marcel Santilli:** Exactly.
 
-**elladillon:** So just as you have that in your mind that this is going to be a thing that we sell.
+**Marcel Santilli:** So just as you have that in your mind that this is going to be a thing that we sell.
 
-**elladillon:** George.
+**Marcel Santilli:** George.
 
-**elladillon:** And so codifying the actions you're taking and like what the lanes of, of what you're doing, it's just, I just wanted you to have that extra strategic layer so you can kind of build the, build the railroad as you're going.
+**Marcel Santilli:** And so codifying the actions you're taking and like what the lanes of, of what you're doing, it's just, I just wanted you to have that extra strategic layer so you can kind of build the, build the railroad as you're going.
 
-**George Haikal:** Yeah, totally.
+**Jason Gong:** Yeah, totally.
 
-**George Haikal:** I talked to the, to Marcel and Daniel this week about it.
+**Jason Gong:** I talked to the, to Marcel and Daniel this week about it.
 
-**George Haikal:** And so everything that Kirkland I'm doing, Georgia, and I'm doing, I'm like turning.
+**Jason Gong:** And so everything that Kirkland I'm doing, Georgia, and I'm doing, I'm like turning.
 
-**George Haikal:** It into like a system or a playbook.
+**Jason Gong:** It into like a system or a playbook.
 
-**George Haikal:** So for like templates or for restructuring.
+**Jason Gong:** So for like templates or for restructuring.
 
-**George Haikal:** Their website and optimizing it, like how.
+**Jason Gong:** Their website and optimizing it, like how.
 
-**George Haikal:** Did we actually go about.
+**Jason Gong:** Did we actually go about.
 
-**George Haikal:** About it, what workflows the Kirkman build and why.
+**Jason Gong:** About it, what workflows the Kirkman build and why.
 
-**George Haikal:** And so there'll be something to start off of again.
+**Jason Gong:** And so there'll be something to start off of again.
 
-**elladillon:** Thank you.
+**Marcel Santilli:** Thank you.
 
-**elladillon:** Thank you.
+**Marcel Santilli:** Thank you.
 
-**elladillon:** Perfect.
+**Marcel Santilli:** Perfect.
 
-**elladillon:** Okay, William, back to you.
+**Marcel Santilli:** Okay, William, back to you.
 
 **William Leborgne:** I'll stop talking.
 
@@ -493,11 +405,11 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** In terms of the transition.
 
-**Aida Knezevic:** I think those have all been transitioned, so.
+**Bridget McGillivray:** I think those have all been transitioned, so.
 
 **William Leborgne:** They've been transitioned.
 
-**Aida Knezevic:** Yeah.
+**Bridget McGillivray:** Yeah.
 
 **William Leborgne:** Okay.
 
@@ -525,55 +437,55 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Okay, Ramp.
 
-**George Haikal:** Hasan, you can take this one away.
+**Jason Gong:** Hasan, you can take this one away.
 
-**George Haikal:** You've done a ton of work here.
+**Jason Gong:** You've done a ton of work here.
 
 **William Leborgne:** Hasan, are you on.
 
-**elladillon:** I saw him texting, so I know he is.
+**Marcel Santilli:** I saw him texting, so I know he is.
 
 **William Leborgne:** There he is.
 
-**Hassan Rashid:** Sorry.
+**Leah Myers:** Sorry.
 
-**Hassan Rashid:** Yeah, yeah, really good, you know, updates for Ramp.
+**Leah Myers:** Yeah, yeah, really good, you know, updates for Ramp.
 
-**Hassan Rashid:** So we're publishing three articles and four of those shorter posts today.
+**Leah Myers:** So we're publishing three articles and four of those shorter posts today.
 
-**Hassan Rashid:** She usually, Victoria usually doesn't review them, but I'll just ping her if she wants to review them and I'll just publish them either today or tomorrow.
+**Leah Myers:** She usually, Victoria usually doesn't review them, but I'll just ping her if she wants to review them and I'll just publish them either today or tomorrow.
 
-**Hassan Rashid:** The domain ranking increased from two to six, so that's really good.
+**Leah Myers:** The domain ranking increased from two to six, so that's really good.
 
-**Hassan Rashid:** And we got some really good AI visibility wins for those, those shorter query fan outposts that we published just five days ago.
+**Leah Myers:** And we got some really good AI visibility wins for those, those shorter query fan outposts that we published just five days ago.
 
-**Hassan Rashid:** So we've gotten a few wins there and some AI bot retrievals and the training requests, those are going up basically just week over week.
+**Leah Myers:** So we've gotten a few wins there and some AI bot retrievals and the training requests, those are going up basically just week over week.
 
-**Hassan Rashid:** And we've noticed a lot of the Cat Floodesque articles, they're being consistently cited for Brexit alternatives, Revolut and Mercury alternatives.
+**Leah Myers:** And we've noticed a lot of the Cat Floodesque articles, they're being consistently cited for Brexit alternatives, Revolut and Mercury alternatives.
 
-**Hassan Rashid:** So it's just across the funnel, like top of funnel, bottom funnel, really good citations as well.
+**Leah Myers:** So it's just across the funnel, like top of funnel, bottom funnel, really good citations as well.
 
-**Hassan Rashid:** And Victoria actually just replied to my message in the external channel.
+**Leah Myers:** And Victoria actually just replied to my message in the external channel.
 
-**Hassan Rashid:** She said she did also notice a significant increase in citations these last couple of days.
+**Leah Myers:** She said she did also notice a significant increase in citations these last couple of days.
 
-**Hassan Rashid:** So yeah.
+**Leah Myers:** So yeah.
 
 **William Leborgne:** Let'S go.
 
-**George Haikal:** Yeah, fantastic progress.
+**Jason Gong:** Yeah, fantastic progress.
 
-**George Haikal:** The only thing I'll add, I sent a message in the chat about this too, is like all of these are really great wins, but there's still like a little bit of a flag on Victoria isn't the decision maker and so waiting for some Brex wins to leverage to be able to meet with George, the stakeholder at Ramp to have some credibility and either pitch him on like converting right now or scoping up a.
+**Jason Gong:** The only thing I'll add, I sent a message in the chat about this too, is like all of these are really great wins, but there's still like a little bit of a flag on Victoria isn't the decision maker and so waiting for some Brex wins to leverage to be able to meet with George, the stakeholder at Ramp to have some credibility and either pitch him on like converting right now or scoping up a.
 
-**George Haikal:** Bit because we're doing the work pretty.
+**Jason Gong:** Bit because we're doing the work pretty.
 
-**George Haikal:** Pretty inexpensively.
+**Jason Gong:** Pretty inexpensively.
 
-**George Haikal:** And so that was kind of the.
+**Jason Gong:** And so that was kind of the.
 
-**George Haikal:** Decision there was to wait a bit.
+**Jason Gong:** Decision there was to wait a bit.
 
-**George Haikal:** So I think it'll always be a little under green until we get the real confirmation.
+**Jason Gong:** So I think it'll always be a little under green until we get the real confirmation.
 
 **William Leborgne:** I think it would be helpful if we.
 
@@ -587,27 +499,27 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** What should have happened for that to be the case?
 
-**George Haikal:** When we finish the five interactive tools for Brax and launch to indexes on their website and have the resources page live that connects all of them there so we can show in one experience how we optimize Rex's website all the five different tools that we made, plus.
+**Jason Gong:** When we finish the five interactive tools for Brax and launch to indexes on their website and have the resources page live that connects all of them there so we can show in one experience how we optimize Rex's website all the five different tools that we made, plus.
 
-**George Haikal:** The indexes play that we made all in one demo.
+**Jason Gong:** The indexes play that we made all in one demo.
 
 **William Leborgne:** So we're going to show probably.
 
 **William Leborgne:** We're going to show George at ramp the stuff that we're doing with Brex.
 
-**George Haikal:** Yes.
+**Jason Gong:** Yes.
 
 **William Leborgne:** Okay.
 
-**George Haikal:** On that.
+**Jason Gong:** On that.
 
-**George Haikal:** I don't know.
+**Jason Gong:** I don't know.
 
-**George Haikal:** Yeah, we're still in the middle of.
+**Jason Gong:** Yeah, we're still in the middle of.
 
 **William Leborgne:** Okay.
 
-**George Haikal:** Building all of it, so don't know.
+**Jason Gong:** Building all of it, so don't know.
 
 **William Leborgne:** Okay.
 
@@ -621,25 +533,25 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Are we talking like a month, A couple weeks for this Brex work?
 
-**George Haikal:** The index is.
+**Jason Gong:** The index is.
 
-**George Haikal:** Yeah, a month.
+**Jason Gong:** Yeah, a month.
 
 **William Leborgne:** A month.
 
 **William Leborgne:** Okay.
 
-**George Haikal:** At least.
+**Jason Gong:** At least.
 
-**George Haikal:** But I mean, there's still be early.
+**Jason Gong:** But I mean, there's still be early.
 
-**George Haikal:** Progress that we can show, like.
+**Jason Gong:** Progress that we can show, like.
 
 **William Leborgne:** Yeah.
 
-**George Haikal:** So that means tools will be ready.
+**Jason Gong:** So that means tools will be ready.
 
-**George Haikal:** Before the indexes and so mid March.
+**Jason Gong:** Before the indexes and so mid March.
 
 **William Leborgne:** And we have these guys until.
 
@@ -647,7 +559,7 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** No, transition is March 26th.
 
-**George Haikal:** Yeah.
+**Jason Gong:** Yeah.
 
 **William Leborgne:** Okay, so.
 
@@ -655,35 +567,35 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** All right, so go ahead.
 
-**elladillon:** Just where I went in my mind.
+**Marcel Santilli:** Just where I went in my mind.
 
-**elladillon:** Sorry.
+**Marcel Santilli:** Sorry.
 
-**elladillon:** I was kind of like thinking about two other things all at this in parallel, which is never smart, but I'm assuming this is gonna have to go to like, a Liz.
+**Marcel Santilli:** I was kind of like thinking about two other things all at this in parallel, which is never smart, but I'm assuming this is gonna have to go to like, a Liz.
 
-**elladillon:** Right.
+**Marcel Santilli:** Right.
 
-**elladillon:** And then in my mind, I'm just thinking about, like, what does Liz's portfolio look like and will all this be fine?
+**Marcel Santilli:** And then in my mind, I'm just thinking about, like, what does Liz's portfolio look like and will all this be fine?
 
-**George Haikal:** But Liz or Megan.
+**Jason Gong:** But Liz or Megan.
 
-**elladillon:** Okay, okay.
+**Marcel Santilli:** Okay, okay.
 
-**George Haikal:** Oh, sorry.
+**Jason Gong:** Oh, sorry.
 
-**George Haikal:** Ramp.
+**Jason Gong:** Ramp.
 
-**George Haikal:** Ramp.
+**Jason Gong:** Ramp.
 
-**George Haikal:** Yeah.
+**Jason Gong:** Yeah.
 
-**George Haikal:** Rex goes to Megan, that Liz for ramp.
+**Jason Gong:** Rex goes to Megan, that Liz for ramp.
 
-**elladillon:** Okay.
+**Marcel Santilli:** Okay.
 
 **William Leborgne:** Okay.
 
-**George Haikal:** Great.
+**Jason Gong:** Great.
 
 **William Leborgne:** Crv.
 
@@ -699,7 +611,7 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** An additional three.
 
-**Hassan Rashid:** Yeah.
+**Leah Myers:** Yeah.
 
 **William Leborgne:** Great.
 
@@ -727,11 +639,11 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** When is the 20th?
 
-**elladillon:** Next Thursday.
+**Marcel Santilli:** Next Thursday.
 
-**George Haikal:** Friday.
+**Jason Gong:** Friday.
 
-**elladillon:** Oh, next Friday.
+**Marcel Santilli:** Oh, next Friday.
 
 **William Leborgne:** Friday.
 
@@ -763,69 +675,69 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** And then obviously getting these results is a win.
 
-**elladillon:** And Hasan, thank you for putting.
+**Marcel Santilli:** And Hasan, thank you for putting.
 
-**elladillon:** I was just going to see if we'd shared all the good news in the channel, so it's awesome to see that you already shared all the early ones.
+**Marcel Santilli:** I was just going to see if we'd shared all the good news in the channel, so it's awesome to see that you already shared all the early ones.
 
-**elladillon:** That's cool.
+**Marcel Santilli:** That's cool.
 
-**elladillon:** Thanks.
+**Marcel Santilli:** Thanks.
 
 **William Leborgne:** Yeah, thank you for covering for me while I was out earlier this week.
 
-**Hassan Rashid:** No worries.
+**Leah Myers:** No worries.
 
 **William Leborgne:** Okay.
 
 **William Leborgne:** Panther Ada, I sent them their phase one summary.
 
-**Aida Knezevic:** We, Victor, did additional keyboard research for.
+**Bridget McGillivray:** We, Victor, did additional keyboard research for.
 
-**Aida Knezevic:** AI sock related articles.
+**Bridget McGillivray:** AI sock related articles.
 
-**Aida Knezevic:** Like, that's a huge priority for them.
+**Bridget McGillivray:** Like, that's a huge priority for them.
 
-**Aida Knezevic:** And it's been a priority for a couple of weeks now.
+**Bridget McGillivray:** And it's been a priority for a couple of weeks now.
 
-**Aida Knezevic:** But we didn't really have any like, like articles that were listicles in nature that targeted the AI stock keyword.
+**Bridget McGillivray:** But we didn't really have any like, like articles that were listicles in nature that targeted the AI stock keyword.
 
-**Aida Knezevic:** So Victor did some research there and I just need to add them to the content OS in terms of conversion potential.
+**Bridget McGillivray:** So Victor did some research there and I just need to add them to the content OS in terms of conversion potential.
 
-**Aida Knezevic:** I am very positive about them converting.
+**Bridget McGillivray:** I am very positive about them converting.
 
-**Aida Knezevic:** They did request like, you know, just.
+**Bridget McGillivray:** They did request like, you know, just.
 
-**Aida Knezevic:** Benchmarks and for us to kind of provide some context into how they're doing performance wise.
+**Bridget McGillivray:** Benchmarks and for us to kind of provide some context into how they're doing performance wise.
 
-**Aida Knezevic:** And they're doing well.
+**Bridget McGillivray:** And they're doing well.
 
-**Aida Knezevic:** It's on par, par with what we're usually seeing with other clients.
+**Bridget McGillivray:** It's on par, par with what we're usually seeing with other clients.
 
-**Aida Knezevic:** But yeah, they, this is, I, I would say this is green, but it's.
+**Bridget McGillivray:** But yeah, they, this is, I, I would say this is green, but it's.
 
-**Aida Knezevic:** Just.
+**Bridget McGillivray:** Just.
 
-**Aida Knezevic:** We kind of need to really push for commercial topics.
+**Bridget McGillivray:** We kind of need to really push for commercial topics.
 
-**Aida Knezevic:** Victor, I don't know if you staged.
+**Bridget McGillivray:** Victor, I don't know if you staged.
 
-**Aida Knezevic:** The three articles that are approved to be published, but there are two additional ones, the product listicles that I believe.
+**Bridget McGillivray:** The three articles that are approved to be published, but there are two additional ones, the product listicles that I believe.
 
-**Aida Knezevic:** I just need to ping Katie about today just to see if we have the green light to publish.
+**Bridget McGillivray:** I just need to ping Katie about today just to see if we have the green light to publish.
 
-**George Haikal:** Yeah, I'm staging those three today and.
+**Jason Gong:** Yeah, I'm staging those three today and.
 
-**Aida Knezevic:** Okay.
+**Bridget McGillivray:** Okay.
 
-**George Haikal:** The other ones will go.
+**Jason Gong:** The other ones will go.
 
-**Aida Knezevic:** Okay.
+**Bridget McGillivray:** Okay.
 
-**Aida Knezevic:** Okay.
+**Bridget McGillivray:** Okay.
 
-**Aida Knezevic:** Once you stage them, just let me.
+**Bridget McGillivray:** Once you stage them, just let me.
 
-**Aida Knezevic:** Know and then I'll Also let Katie know that I'll ask her about the other two.
+**Bridget McGillivray:** Know and then I'll Also let Katie know that I'll ask her about the other two.
 
 **William Leborgne:** So did I get that right, Victor.
 
@@ -837,13 +749,13 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Have we published anything with them yet?
 
-**Aida Knezevic:** Yes.
+**Bridget McGillivray:** Yes.
 
-**Aida Knezevic:** Okay, we have four articles published and.
+**Bridget McGillivray:** Okay, we have four articles published and.
 
-**Aida Knezevic:** Then five this published.
+**Bridget McGillivray:** Then five this published.
 
-**Aida Knezevic:** We're going to be published this week, God willing.
+**Bridget McGillivray:** We're going to be published this week, God willing.
 
 **William Leborgne:** Okay, cool.
 
@@ -857,11 +769,11 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** And then five in week five.
 
-**Aida Knezevic:** Yeah, I think we are a week.
+**Bridget McGillivray:** Yeah, I think we are a week.
 
-**Aida Knezevic:** Behind here because they had that production.
+**Bridget McGillivray:** Behind here because they had that production.
 
-**Aida Knezevic:** Freeze, we couldn't publish anything on their site.
+**Bridget McGillivray:** Freeze, we couldn't publish anything on their site.
 
 **William Leborgne:** Okay, got it.
 
@@ -871,119 +783,119 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Okay, cool.
 
-**George Haikal:** Nicks, I have to jump off for for ram.
+**Jason Gong:** Nicks, I have to jump off for for ram.
 
-**George Haikal:** Could I just give a quick update on Daylight before I head out?
+**Jason Gong:** Could I just give a quick update on Daylight before I head out?
 
 **William Leborgne:** Yeah, yeah, yeah, absolutely.
 
-**George Haikal:** Thank you.
+**Jason Gong:** Thank you.
 
-**George Haikal:** Sorry to interrupt the flow.
+**Jason Gong:** Sorry to interrupt the flow.
 
-**George Haikal:** I think it's one more to the left.
+**Jason Gong:** I think it's one more to the left.
 
-**George Haikal:** Yeah.
+**Jason Gong:** Yeah.
 
-**George Haikal:** So I've been jumping here for Kathy last week and this week.
+**Jason Gong:** So I've been jumping here for Kathy last week and this week.
 
-**George Haikal:** This week a, I mean ad has been crushing it.
+**Jason Gong:** This week a, I mean ad has been crushing it.
 
-**George Haikal:** Sydney already sent over and reviewed the calibration article.
+**Jason Gong:** Sydney already sent over and reviewed the calibration article.
 
-**George Haikal:** So thanks so much for the help there kind of work.
+**Jason Gong:** So thanks so much for the help there kind of work.
 
-**George Haikal:** The one thing I wanted to highlight.
+**Jason Gong:** The one thing I wanted to highlight.
 
-**George Haikal:** Was last week at the end of.
+**Jason Gong:** Was last week at the end of.
 
-**George Haikal:** The call she was talking about she's very experimental, former founder.
+**Jason Gong:** The call she was talking about she's very experimental, former founder.
 
-**George Haikal:** So we were just talking about these like off page experiments, Reddit like what she's trying and testing because she's the single person in marketing.
+**Jason Gong:** So we were just talking about these like off page experiments, Reddit like what she's trying and testing because she's the single person in marketing.
 
-**George Haikal:** And so I could tell she was.
+**Jason Gong:** And so I could tell she was.
 
-**George Haikal:** Interested there this week because I knew.
+**Jason Gong:** Interested there this week because I knew.
 
-**George Haikal:** That when I demoed check that showed check that and then scrunched and showed to the bot activity.
+**Jason Gong:** That when I demoed check that showed check that and then scrunched and showed to the bot activity.
 
-**George Haikal:** I showed her the work routing for.
+**Jason Gong:** I showed her the work routing for.
 
-**George Haikal:** Cash Flow Desk, which is an off page domain website.
+**Jason Gong:** Cash Flow Desk, which is an off page domain website.
 
-**George Haikal:** And she mentioned that she's starting this event series.
+**Jason Gong:** And she mentioned that she's starting this event series.
 
-**George Haikal:** So I kind of tied it all together.
+**Jason Gong:** So I kind of tied it all together.
 
-**George Haikal:** And she wants an upsell in us.
+**Jason Gong:** And she wants an upsell in us.
 
-**George Haikal:** To do that work for her either.
+**Jason Gong:** To do that work for her either.
 
-**George Haikal:** As like a separate page on the website to like launch this event series for her and manage that as its own lane as well.
+**Jason Gong:** As like a separate page on the website to like launch this event series for her and manage that as its own lane as well.
 
-**George Haikal:** And so that's what I'm scoping out.
+**Jason Gong:** And so that's what I'm scoping out.
 
-**George Haikal:** Today and tomorrow and I'm going to.
+**Jason Gong:** Today and tomorrow and I'm going to.
 
-**George Haikal:** Try to lock in the conversion as.
+**Jason Gong:** Try to lock in the conversion as.
 
-**George Haikal:** Part of that agreement.
+**Jason Gong:** Part of that agreement.
 
-**George Haikal:** But I was very candid with her.
+**Jason Gong:** But I was very candid with her.
 
-**George Haikal:** I'm like, the only reason this is.
+**Jason Gong:** I'm like, the only reason this is.
 
-**George Haikal:** Starting to work is because we had.
+**Jason Gong:** Starting to work is because we had.
 
-**George Haikal:** A lot of time.
+**Jason Gong:** A lot of time.
 
-**George Haikal:** So there's no early expectations.
+**Jason Gong:** So there's no early expectations.
 
-**George Haikal:** We had full control and there was minimal to no review after the.
+**Jason Gong:** We had full control and there was minimal to no review after the.
 
-**George Haikal:** After we aligned on brand and she.
+**Jason Gong:** After we aligned on brand and she.
 
-**George Haikal:** Was like totally on board and basically was like, how much would this cost?
+**Jason Gong:** Was like totally on board and basically was like, how much would this cost?
 
-**George Haikal:** Are you able to do this?
+**Jason Gong:** Are you able to do this?
 
-**George Haikal:** And so scoping that out There and.
+**Jason Gong:** And so scoping that out There and.
 
-**George Haikal:** Just trying to understand, like, how much extra work would be for the team.
+**Jason Gong:** Just trying to understand, like, how much extra work would be for the team.
 
-**George Haikal:** But she seems very on board, so I'll keep everyone updated there.
+**Jason Gong:** But she seems very on board, so I'll keep everyone updated there.
 
-**elladillon:** Awesome.
+**Marcel Santilli:** Awesome.
 
-**elladillon:** Yeah, you just.
+**Marcel Santilli:** Yeah, you just.
 
-**elladillon:** Oh, just quick for you too, George.
+**Marcel Santilli:** Oh, just quick for you too, George.
 
-**elladillon:** One of the things that I was hoping to nail, like, by Tuesday, but it's taken a little bit longer than I wanted, is clarifying.
+**Marcel Santilli:** One of the things that I was hoping to nail, like, by Tuesday, but it's taken a little bit longer than I wanted, is clarifying.
 
-**elladillon:** Check that for all of you of will Tyler just be bundling.
+**Marcel Santilli:** Check that for all of you of will Tyler just be bundling.
 
-**elladillon:** Check that in all things.
+**Marcel Santilli:** Check that in all things.
 
-**elladillon:** You don't have to worry about it at all because right now it's a bit of a smorgasbord of what current customers have been told it's included and what ones we're going to upsell them versus what one we're going to give for a safe play.
+**Marcel Santilli:** You don't have to worry about it at all because right now it's a bit of a smorgasbord of what current customers have been told it's included and what ones we're going to upsell them versus what one we're going to give for a safe play.
 
-**elladillon:** So, net, stay tuned.
+**Marcel Santilli:** So, net, stay tuned.
 
-**elladillon:** I hope by the end of today, Friday, we'll have, like, explicit directions so you know what's going to come your way with.
+**Marcel Santilli:** I hope by the end of today, Friday, we'll have, like, explicit directions so you know what's going to come your way with.
 
-**elladillon:** Check that.
+**Marcel Santilli:** Check that.
 
-**elladillon:** And when it's going to be included versus something you have to worry about positioning.
+**Marcel Santilli:** And when it's going to be included versus something you have to worry about positioning.
 
-**elladillon:** So thank you for just saying that so I could say it out loud.
+**Marcel Santilli:** So thank you for just saying that so I could say it out loud.
 
-**George Haikal:** Cool.
+**Jason Gong:** Cool.
 
-**George Haikal:** Gotta jump.
+**Jason Gong:** Gotta jump.
 
-**George Haikal:** And thank you.
+**Jason Gong:** And thank you.
 
-**elladillon:** Thank you.
+**Marcel Santilli:** Thank you.
 
 **William Leborgne:** Thanks, George.
 
@@ -1027,31 +939,31 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** So, long story short, I think we need to have a very clear SOP for that.
 
-**Aida Knezevic:** Yeah, I just create them and add.
+**Bridget McGillivray:** Yeah, I just create them and add.
 
-**Aida Knezevic:** Them, and then if they don't like them, they can add new ones.
+**Bridget McGillivray:** Them, and then if they don't like them, they can add new ones.
 
-**Aida Knezevic:** But I remember this was bubble, and this was.
+**Bridget McGillivray:** But I remember this was bubble, and this was.
 
-**Aida Knezevic:** They didn't.
+**Bridget McGillivray:** They didn't.
 
-**Aida Knezevic:** They didn't convert from the Sprint.
+**Bridget McGillivray:** They didn't convert from the Sprint.
 
-**Aida Knezevic:** And they were kind of like.
+**Bridget McGillivray:** And they were kind of like.
 
-**Aida Knezevic:** We asked them, like, what are the.
+**Bridget McGillivray:** We asked them, like, what are the.
 
-**Aida Knezevic:** Prompts that you want to track?
+**Bridget McGillivray:** Prompts that you want to track?
 
-**Aida Knezevic:** And they were like, well, you know, you're the AI expert, so you tell us.
+**Bridget McGillivray:** And they were like, well, you know, you're the AI expert, so you tell us.
 
-**Aida Knezevic:** So I.
+**Bridget McGillivray:** So I.
 
-**Aida Knezevic:** Since then I've been just.
+**Bridget McGillivray:** Since then I've been just.
 
-**Aida Knezevic:** I just generate the prompts as soon as we have the topics.
+**Bridget McGillivray:** I just generate the prompts as soon as we have the topics.
 
-**Aida Knezevic:** I load that up and start tracking.
+**Bridget McGillivray:** I load that up and start tracking.
 
 **William Leborgne:** I don't, I honestly do not think.
 
@@ -1075,19 +987,19 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Like I had this with Turnstile.
 
-**Aida Knezevic:** It's okay to share that with them.
+**Bridget McGillivray:** It's okay to share that with them.
 
-**Aida Knezevic:** Yeah, it's totally fine.
+**Bridget McGillivray:** Yeah, it's totally fine.
 
-**Aida Knezevic:** But.
+**Bridget McGillivray:** But.
 
-**Aida Knezevic:** Yeah, I think for a lot of like the prompts where we're comparing alternatives and just like asking what's the best platform for this.
+**Bridget McGillivray:** Yeah, I think for a lot of like the prompts where we're comparing alternatives and just like asking what's the best platform for this.
 
-**Aida Knezevic:** I think those prompts are always okay.
+**Bridget McGillivray:** I think those prompts are always okay.
 
-**Aida Knezevic:** And check that is positioned as like an evaluation stage tracking tool.
+**Bridget McGillivray:** And check that is positioned as like an evaluation stage tracking tool.
 
-**Aida Knezevic:** So I think a lot of the focus on the prompts is on like the more bottom of the funnel level stage prompts.
+**Bridget McGillivray:** So I think a lot of the focus on the prompts is on like the more bottom of the funnel level stage prompts.
 
 **William Leborgne:** Yeah.
 
@@ -1115,69 +1027,69 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** I believe we're on networks.
 
-**Aida Knezevic:** Yeah.
+**Bridget McGillivray:** Yeah.
 
-**Aida Knezevic:** So networks.
+**Bridget McGillivray:** So networks.
 
-**Aida Knezevic:** We published two new articles today, which is great.
+**Bridget McGillivray:** We published two new articles today, which is great.
 
-**Aida Knezevic:** I was able to get rid of an additional publishing blocker which was reaching.
+**Bridget McGillivray:** I was able to get rid of an additional publishing blocker which was reaching.
 
-**Aida Knezevic:** Out to the person who was going.
+**Bridget McGillivray:** Out to the person who was going.
 
-**Aida Knezevic:** To be the author of the article and asked them to review.
+**Bridget McGillivray:** To be the author of the article and asked them to review.
 
-**Aida Knezevic:** I told them straight up yesterday in the meeting can we create an author that's just network's team and they were okay with it.
+**Bridget McGillivray:** I told them straight up yesterday in the meeting can we create an author that's just network's team and they were okay with it.
 
-**Aida Knezevic:** So I still reached out to the person that we want to be the author.
+**Bridget McGillivray:** So I still reached out to the person that we want to be the author.
 
-**Aida Knezevic:** But we are, we can update the author page after publishing and I know we're due delivering.
+**Bridget McGillivray:** But we are, we can update the author page after publishing and I know we're due delivering.
 
-**Aida Knezevic:** We need to deliver additional drafts this week.
+**Bridget McGillivray:** We need to deliver additional drafts this week.
 
-**Aida Knezevic:** So I'm going to be on the lookout for those links tomorrow.
+**Bridget McGillivray:** So I'm going to be on the lookout for those links tomorrow.
 
-**Aida Knezevic:** Sydney, they had some thoughts around like the content audit.
+**Bridget McGillivray:** Sydney, they had some thoughts around like the content audit.
 
-**Aida Knezevic:** Apparently in October they updated a bunch of meta titles and meta descriptions.
+**Bridget McGillivray:** Apparently in October they updated a bunch of meta titles and meta descriptions.
 
-**Aida Knezevic:** But I told them when it comes to the content audit that we will be focusing on the P1 like articles so we wouldn't even be kind of, you know, refreshing the.
+**Bridget McGillivray:** But I told them when it comes to the content audit that we will be focusing on the P1 like articles so we wouldn't even be kind of, you know, refreshing the.
 
-**Aida Knezevic:** The P2 stuff.
+**Bridget McGillivray:** The P2 stuff.
 
-**Aida Knezevic:** And they were okay with that.
+**Bridget McGillivray:** And they were okay with that.
 
-**Aida Knezevic:** But yeah, right now it's.
+**Bridget McGillivray:** But yeah, right now it's.
 
-**Aida Knezevic:** They just have like I.
+**Bridget McGillivray:** They just have like I.
 
-**Aida Knezevic:** They have a technical audit and their.
+**Bridget McGillivray:** They have a technical audit and their.
 
-**Aida Knezevic:** Sop which that is like I think they're.
+**Bridget McGillivray:** Sop which that is like I think they're.
 
-**Aida Knezevic:** They're implementing the fixes from that technical Audit.
+**Bridget McGillivray:** They're implementing the fixes from that technical Audit.
 
-**Aida Knezevic:** But there's still strange things happening on their websites.
+**Bridget McGillivray:** But there's still strange things happening on their websites.
 
-**Aida Knezevic:** Like you get redirected to a page in a different language, so they're trying to figure those things behind the scenes.
+**Bridget McGillivray:** Like you get redirected to a page in a different language, so they're trying to figure those things behind the scenes.
 
-**Aida Knezevic:** But it's good that we're publishing content and hopefully by this time next week, we can have like, four article, six articles published.
+**Bridget McGillivray:** But it's good that we're publishing content and hopefully by this time next week, we can have like, four article, six articles published.
 
-**Aida Knezevic:** So, yeah, I think that, that, that that's kind of my priority for.
+**Bridget McGillivray:** So, yeah, I think that, that, that that's kind of my priority for.
 
-**Aida Knezevic:** For Netrix.
+**Bridget McGillivray:** For Netrix.
 
 **William Leborgne:** Okay.
 
 **William Leborgne:** How many articles do we have published so far?
 
-**Aida Knezevic:** Just the calibration refresh, which we had issues with because it wasn't showing up.
+**Bridget McGillivray:** Just the calibration refresh, which we had issues with because it wasn't showing up.
 
-**Aida Knezevic:** The content wasn't showing up on the website, even though we staged it and published it.
+**Bridget McGillivray:** The content wasn't showing up on the website, even though we staged it and published it.
 
-**Aida Knezevic:** So three.
+**Bridget McGillivray:** So three.
 
-**Aida Knezevic:** With the two that we published today, it's three.
+**Bridget McGillivray:** With the two that we published today, it's three.
 
 **William Leborgne:** Okay.
 
@@ -1187,7 +1099,7 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **Ademilade Shodipe-Dosunmu:** Yeah, it's actually four, not five, because we had to do like, a bunch of, like, keyword stuff for them earlier in the week.
 
-**Aida Knezevic:** Yeah.
+**Bridget McGillivray:** Yeah.
 
 **Ademilade Shodipe-Dosunmu:** And we had to set up, like a new competitive pipeline for, you know, bottom of the funnel content.
 
@@ -1197,61 +1109,61 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Okay, great.
 
-**elladillon:** I super apologize.
+**Marcel Santilli:** I super apologize.
 
-**elladillon:** Asking a question that I should be able to look up if I weren't being mauled by a puppy.
+**Marcel Santilli:** Asking a question that I should be able to look up if I weren't being mauled by a puppy.
 
-**elladillon:** Why were they yellow?
+**Marcel Santilli:** Why were they yellow?
 
-**elladillon:** Like, why what was.
+**Marcel Santilli:** Like, why what was.
 
-**elladillon:** Remind me, Muriel and why she was a blocker before.
+**Marcel Santilli:** Remind me, Muriel and why she was a blocker before.
 
-**elladillon:** Right.
+**Marcel Santilli:** Right.
 
-**elladillon:** Didn't she have.
+**Marcel Santilli:** Didn't she have.
 
-**elladillon:** Slowing us down with her?
+**Marcel Santilli:** Slowing us down with her?
 
-**elladillon:** Just.
+**Marcel Santilli:** Just.
 
-**elladillon:** I can't scroll down.
+**Marcel Santilli:** I can't scroll down.
 
-**elladillon:** So I just.
+**Marcel Santilli:** So I just.
 
-**Aida Knezevic:** Yeah, she was just.
+**Bridget McGillivray:** Yeah, she was just.
 
-**Aida Knezevic:** I think from Tyler's conversations with her.
+**Bridget McGillivray:** I think from Tyler's conversations with her.
 
-**Aida Knezevic:** She appeared like someone she didn't want to work with.
+**Bridget McGillivray:** She appeared like someone she didn't want to work with.
 
-**Aida Knezevic:** An agency, basically, and she was just hesitant to have.
+**Bridget McGillivray:** An agency, basically, and she was just hesitant to have.
 
-**Aida Knezevic:** Have someone in.
+**Bridget McGillivray:** Have someone in.
 
-**Aida Knezevic:** She, like, has high content quality standards, but we've clearly met them.
+**Bridget McGillivray:** She, like, has high content quality standards, but we've clearly met them.
 
-**Aida Knezevic:** So now she's very excited to work with us and she love, like, she.
+**Bridget McGillivray:** So now she's very excited to work with us and she love, like, she.
 
-**Aida Knezevic:** When we presented the content audit, I said, in phase two, we can start refreshing all of this content.
+**Bridget McGillivray:** When we presented the content audit, I said, in phase two, we can start refreshing all of this content.
 
-**Aida Knezevic:** And she was very excited about that.
+**Bridget McGillivray:** And she was very excited about that.
 
-**Aida Knezevic:** So she's been very good to work with.
+**Bridget McGillivray:** So she's been very good to work with.
 
-**elladillon:** Awesome.
+**Marcel Santilli:** Awesome.
 
-**elladillon:** Awesome.
+**Marcel Santilli:** Awesome.
 
-**elladillon:** Okay, so even so, we're.
+**Marcel Santilli:** Okay, so even so, we're.
 
-**elladillon:** We're getting up to speed on content and you feel like from a results perspective, I guess next week if we just presumptively assume they're going to phase two, you're feeling yellow still, but turning green.
+**Marcel Santilli:** We're getting up to speed on content and you feel like from a results perspective, I guess next week if we just presumptively assume they're going to phase two, you're feeling yellow still, but turning green.
 
-**elladillon:** Is that kind of what I'm hearing?
+**Marcel Santilli:** Is that kind of what I'm hearing?
 
-**Aida Knezevic:** Yeah.
+**Bridget McGillivray:** Yeah.
 
-**elladillon:** Okay, thank you.
+**Marcel Santilli:** Okay, thank you.
 
 **Sydney Arin Go:** I just wanted to flag for Netricks.
 
@@ -1287,29 +1199,29 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Tayra, our favorite.
 
-**Aida Knezevic:** They're still going well.
+**Bridget McGillivray:** They're still going well.
 
-**Aida Knezevic:** We have nine articles published for them.
+**Bridget McGillivray:** We have nine articles published for them.
 
-**Aida Knezevic:** So actually they're ahead of schedule.
+**Bridget McGillivray:** So actually they're ahead of schedule.
 
-**Aida Knezevic:** I they have access to check that right now.
+**Bridget McGillivray:** I they have access to check that right now.
 
-**Aida Knezevic:** So I was just kind of like walking them through the results.
+**Bridget McGillivray:** So I was just kind of like walking them through the results.
 
-**Aida Knezevic:** They were really excited to see that.
+**Bridget McGillivray:** They were really excited to see that.
 
-**Aida Knezevic:** One of the alternatives blog post that we published is showing up as being.
+**Bridget McGillivray:** One of the alternatives blog post that we published is showing up as being.
 
-**Aida Knezevic:** Cited in different LLM responses.
+**Bridget McGillivray:** Cited in different LLM responses.
 
-**Aida Knezevic:** Overall, just really green content is getting indexed super fast.
+**Bridget McGillivray:** Overall, just really green content is getting indexed super fast.
 
-**Aida Knezevic:** And yeah, we are due to send them an additional five articles to review for this week.
+**Bridget McGillivray:** And yeah, we are due to send them an additional five articles to review for this week.
 
-**Aida Knezevic:** We have CTA set up on their site.
+**Bridget McGillivray:** We have CTA set up on their site.
 
-**Aida Knezevic:** So we're also adding like CTAs to the content that we're publishing.
+**Bridget McGillivray:** So we're also adding like CTAs to the content that we're publishing.
 
 **William Leborgne:** Great.
 
@@ -1453,11 +1365,11 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Yeah, I just want to check in Becerra if the content OS has been built or is built.
 
-**elladillon:** I'm building it as we speak and I'm aiming to have it done by the meeting today?
+**Marcel Santilli:** I'm building it as we speak and I'm aiming to have it done by the meeting today?
 
 **William Leborgne:** By today's meeting with Tavis, you're going to have it done?
 
-**elladillon:** Yeah, aiming to have it done.
+**Marcel Santilli:** Yeah, aiming to have it done.
 
 **William Leborgne:** Okay, great.
 
@@ -1477,73 +1389,73 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** We covered Daylight Witness.
 
-**Aida Knezevic:** I am meeting them in an hour, actually 30 minutes.
+**Bridget McGillivray:** I am meeting them in an hour, actually 30 minutes.
 
-**Aida Knezevic:** No, an hour and a half to discuss, just to present the content strategy.
+**Bridget McGillivray:** No, an hour and a half to discuss, just to present the content strategy.
 
-**Aida Knezevic:** We've already done the product deep dive.
+**Bridget McGillivray:** We've already done the product deep dive.
 
-**Aida Knezevic:** Victor, I don't know if you updated the company brief with the Product Deep Dive transcript.
+**Bridget McGillivray:** Victor, I don't know if you updated the company brief with the Product Deep Dive transcript.
 
-**George Haikal:** I'm not sure I did that.
+**Jason Gong:** I'm not sure I did that.
 
-**Aida Knezevic:** Okay.
+**Bridget McGillivray:** Okay.
 
-**Aida Knezevic:** I updated the product in feature matrix, but you just need to just like, if there's any color that we need.
+**Bridget McGillivray:** I updated the product in feature matrix, but you just need to just like, if there's any color that we need.
 
-**Aida Knezevic:** To add, I want to be mindful.
+**Bridget McGillivray:** To add, I want to be mindful.
 
-**Aida Knezevic:** Of not overloading the company brief with too much information, but just if there's any color that we need to add to the company brief, we can do that with the transcript.
+**Bridget McGillivray:** Of not overloading the company brief with too much information, but just if there's any color that we need to add to the company brief, we can do that with the transcript.
 
-**Aida Knezevic:** And I know that we are working on a calibration article, but I'm aiming to have it, like, delivered early next week.
+**Bridget McGillivray:** And I know that we are working on a calibration article, but I'm aiming to have it, like, delivered early next week.
 
-**Aida Knezevic:** I just picked one of their existing.
+**Bridget McGillivray:** I just picked one of their existing.
 
-**Aida Knezevic:** Blog posts and we can, like, refresh, rewrite it.
+**Bridget McGillivray:** Blog posts and we can, like, refresh, rewrite it.
 
-**Aida Knezevic:** I would say this is green.
+**Bridget McGillivray:** I would say this is green.
 
-**Aida Knezevic:** I mean, you know, their feedback today is going to be really important, but.
+**Bridget McGillivray:** I mean, you know, their feedback today is going to be really important, but.
 
-**Aida Knezevic:** I think we have a lot of really good context because we already had the product Deep dive.
+**Bridget McGillivray:** I think we have a lot of really good context because we already had the product Deep dive.
 
-**Aida Knezevic:** I have a good understanding of, like.
+**Bridget McGillivray:** I have a good understanding of, like.
 
-**Aida Knezevic:** What is important to them, what their platform does.
+**Bridget McGillivray:** What is important to them, what their platform does.
 
-**Aida Knezevic:** And, like, the, the clusters that we have, I feel are covering kind of the gauntlet of what they do.
+**Bridget McGillivray:** And, like, the, the clusters that we have, I feel are covering kind of the gauntlet of what they do.
 
-**Aida Knezevic:** So I think we're in a good spot here.
+**Bridget McGillivray:** So I think we're in a good spot here.
 
-**Aida Knezevic:** But I will let you guys know how, how the meeting goes.
+**Bridget McGillivray:** But I will let you guys know how, how the meeting goes.
 
-**Aida Knezevic:** The, the, the, the, like, what I got so far is that they have like, a chief product officer, and he's been kind of at the product team might be involved in the content reviews.
+**Bridget McGillivray:** The, the, the, the, like, what I got so far is that they have like, a chief product officer, and he's been kind of at the product team might be involved in the content reviews.
 
-**Aida Knezevic:** But it's funny because in the sales.
+**Bridget McGillivray:** But it's funny because in the sales.
 
-**Aida Knezevic:** Handoff, they told Tyler that the product.
+**Bridget McGillivray:** Handoff, they told Tyler that the product.
 
-**Aida Knezevic:** Team doesn't have time to review content.
+**Bridget McGillivray:** Team doesn't have time to review content.
 
-**Aida Knezevic:** So that's also one of my goals for today is to actually talk about.
+**Bridget McGillivray:** So that's also one of my goals for today is to actually talk about.
 
-**Aida Knezevic:** How and who is going to be reviewing the content.
+**Bridget McGillivray:** How and who is going to be reviewing the content.
 
 **William Leborgne:** Okay.
 
 **William Leborgne:** Is this something that is potentially a concern to you or you're just going to wait and see?
 
-**Aida Knezevic:** We need to wait and see.
+**Bridget McGillivray:** We need to wait and see.
 
-**Aida Knezevic:** Some product Teams are easy to work with, others aren't.
+**Bridget McGillivray:** Some product Teams are easy to work with, others aren't.
 
-**Aida Knezevic:** So it depends.
+**Bridget McGillivray:** So it depends.
 
-**Aida Knezevic:** But if, if they are going to.
+**Bridget McGillivray:** But if, if they are going to.
 
-**Aida Knezevic:** Review, it's better for them to be.
+**Bridget McGillivray:** Review, it's better for them to be.
 
-**Aida Knezevic:** Like, involved early rather than like mid Sprint.
+**Bridget McGillivray:** Like, involved early rather than like mid Sprint.
 
 **William Leborgne:** Yeah.
 
@@ -1571,65 +1483,65 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Nothing major to report.
 
-**Aida Knezevic:** Yeah.
+**Bridget McGillivray:** Yeah.
 
-**Aida Knezevic:** For Elementum, I know Natalie's working on the artifacts.
+**Bridget McGillivray:** For Elementum, I know Natalie's working on the artifacts.
 
-**Aida Knezevic:** This company, they don't have like their website is very bare bones.
+**Bridget McGillivray:** This company, they don't have like their website is very bare bones.
 
-**Aida Knezevic:** They used to be, they've evolved a lot.
+**Bridget McGillivray:** They used to be, they've evolved a lot.
 
-**Aida Knezevic:** The previous iteration of the company, they were like a supply chain management company and then they pivoted into being a.
+**Bridget McGillivray:** The previous iteration of the company, they were like a supply chain management company and then they pivoted into being a.
 
-**Aida Knezevic:** Platform for like AI workflow orchestration.
+**Bridget McGillivray:** Platform for like AI workflow orchestration.
 
-**Aida Knezevic:** We had a great kickoff with their CEO who joined and kind of like.
+**Bridget McGillivray:** We had a great kickoff with their CEO who joined and kind of like.
 
-**Aida Knezevic:** Walked us through the pitch like, and.
+**Bridget McGillivray:** Walked us through the pitch like, and.
 
-**Aida Knezevic:** Like what the company's trying to solve.
+**Bridget McGillivray:** Like what the company's trying to solve.
 
-**Aida Knezevic:** And because every, like it's a crowded.
+**Bridget McGillivray:** And because every, like it's a crowded.
 
-**Aida Knezevic:** Market and everybody says that they have AI agents.
+**Bridget McGillivray:** Market and everybody says that they have AI agents.
 
-**Aida Knezevic:** So we, we got his thoughts there.
+**Bridget McGillivray:** So we, we got his thoughts there.
 
-**Aida Knezevic:** And then talking to the cmo, his short term priority is just having content that he can give to the sales team so that the sales team can send that to prospects.
+**Bridget McGillivray:** And then talking to the cmo, his short term priority is just having content that he can give to the sales team so that the sales team can send that to prospects.
 
-**Aida Knezevic:** Because there has to.
+**Bridget McGillivray:** Because there has to.
 
-**Aida Knezevic:** There like they, there still has to be a lot of education done in the market about like just what AI agents are.
+**Bridget McGillivray:** There like they, there still has to be a lot of education done in the market about like just what AI agents are.
 
-**Aida Knezevic:** A lot of companies think that they.
+**Bridget McGillivray:** A lot of companies think that they.
 
-**Aida Knezevic:** Can use like copilot to automate all.
+**Bridget McGillivray:** Can use like copilot to automate all.
 
-**Aida Knezevic:** Of their workflows and they can't.
+**Bridget McGillivray:** Of their workflows and they can't.
 
-**Aida Knezevic:** So I think a lot of our.
+**Bridget McGillivray:** So I think a lot of our.
 
-**Aida Knezevic:** Content initially is going to have to be a little broad in the sense that we might not be just talking.
+**Bridget McGillivray:** Content initially is going to have to be a little broad in the sense that we might not be just talking.
 
-**Aida Knezevic:** About like elementum or specifically like their competitors, although they are open to that type of content and it is going.
+**Bridget McGillivray:** About like elementum or specifically like their competitors, although they are open to that type of content and it is going.
 
-**Aida Knezevic:** To be in the strategy.
+**Bridget McGillivray:** To be in the strategy.
 
-**Aida Knezevic:** Also from like a competitor standpoint, they do have like, they did share like a slide deck where with some of their competitors across like different spheres.
+**Bridget McGillivray:** Also from like a competitor standpoint, they do have like, they did share like a slide deck where with some of their competitors across like different spheres.
 
-**Aida Knezevic:** But they could, one of the things that they said in the kickoff is that they could replace like almost every SaaS company because, for example, like one.
+**Bridget McGillivray:** But they could, one of the things that they said in the kickoff is that they could replace like almost every SaaS company because, for example, like one.
 
-**Aida Knezevic:** Of their current clients are replacing their CRM with elementum.
+**Bridget McGillivray:** Of their current clients are replacing their CRM with elementum.
 
-**Aida Knezevic:** So it's an interesting angle, but we.
+**Bridget McGillivray:** So it's an interesting angle, but we.
 
-**Aida Knezevic:** Have to be careful because right now.
+**Bridget McGillivray:** Have to be careful because right now.
 
-**Aida Knezevic:** They don't want to make enemies in the market and they're still kind of like.
+**Bridget McGillivray:** They don't want to make enemies in the market and they're still kind of like.
 
-**Aida Knezevic:** Working maybe with some of those SaaS companies.
+**Bridget McGillivray:** Working maybe with some of those SaaS companies.
 
-**Aida Knezevic:** So it's just interesting from a content perspective.
+**Bridget McGillivray:** So it's just interesting from a content perspective.
 
 **William Leborgne:** Sounds good.
 
@@ -1677,7 +1589,7 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** Okay, I think that's everything, y'.
 
-**George Haikal:** All.
+**Jason Gong:** All.
 
 **William Leborgne:** Any questions, comments or concerns?
 
@@ -1687,10 +1599,10 @@ Jeff (Rev Ops) started February 5. He's building HubSpot syncs and a Linear boar
 
 **William Leborgne:** But in the meantime, hit me up if there's any questions and have a great rest of your day.
 
-**elladillon:** Thank you all.
+**Marcel Santilli:** Thank you all.
 
-**Aida Knezevic:** Thank you.
+**Bridget McGillivray:** Thank you.
 
-**Aida Knezevic:** Bye Bye.
+**Bridget McGillivray:** Bye Bye.
 
-**elladillon:** Thank you.
+**Marcel Santilli:** Thank you.

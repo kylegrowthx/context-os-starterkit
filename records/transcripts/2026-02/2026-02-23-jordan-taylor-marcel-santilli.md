@@ -5,9 +5,23 @@ date: 2026-02-23
 time: 22:30 UTC
 duration: 31 minutes
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Jordan Taylor, Andreina Coronado, Carly Piekos, Ericksson, Bridget
+participants:
+  - name: Marcel Santilli
+    company: GrowthX
+    role: Founder & CEO
+  - name: Jordan Taylor
+    company: Vizcom
+    role: CEO
+  - name: Carly Piekos
+    company: GrowthX
+    role: Engagement Manager / SEO Specialist
+  - name: Kimberly
+    company: GrowthX
+    role: Content Lead
 fireflies_id: 01KHVQ2EXPH9SPQP1H9BS0P0KX
 transcript_url: https://app.fireflies.ai/view/01KHVQ2EXPH9SPQP1H9BS0P0KX
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
@@ -45,12 +59,42 @@ The GrowthX-Vizcom engagement had stalled due to leadership changes at Vizcom �
 
 ## Overview
 
-- **Six-Month Contract Agreement:** Transition to a six-month contract to mitigate risks and encourage measurable progress, with clear milestones for evaluation.
-- **Breakup Fee Proposal:** A fair breakup fee will cover initial work, respecting contributions from five team members and ensuring amicable separation if needed.
-- **Weekly Communication Strategy:** Regular alignment sessions, including weekly meetings and one-on-ones, to enhance transparency and involvement without overwhelming schedules.
-- **Focus on Student Signups:** Target industrial design students, as 60% of enterprise deals arise from initial free users; detailed ICP profiles will guide content development.
-- **SEO and Technical Support Needs:** A dedicated SEO specialist is essential for site visibility; major existing SEO issues have hindered accurate tracking and growth.
-- **Content Strategy Pivot:** Replace existing blog content with targeted guides and educational resources to better engage users and improve conversion rates.
+- **Six-Month Contract Restart:** Transitioned from 12-month to 6-month commitment with new "day zero" starting 2026-02-23, reducing risk and aligning incentives for both parties.
+- **Student Acquisition as North Star Metric:** 60% of Vizcom's enterprise deals originate from free-tier users; strategy now focuses on reaching industrial design, footwear, and apparel design students through targeted content.
+- **Content Strategy Pivot:** Remove existing blog content from main publication; create dedicated /guides, /templates sections linked only from footer, avoiding impact to homepage or social strategy.
+- **Technical SEO Foundation:** Vizcom's site had major SEO issues (missing metadata, no structured data, broken analytics tracking) that GrowthX has begun fixing; ongoing SEO work essential before visibility gains.
+- **Weekly Cadence & Direct CEO Involvement:** Jordan commits to weekly Tuesday syncs plus separate 1:1s with Carly; direct CEO participation eliminates misalignment from previous leadership turnover.
+- **In-Person Collaboration Opportunity:** Both teams located in SF area; potential for in-person meetings to strengthen alignment and accelerate execution.
+
+---
+
+## Decisions & Commitments
+
+**Contract Restructuring:**
+- Transitioned from 12-month to 6-month commitment starting from new "day zero" (2026-02-23)
+- Both parties committed to paying outstanding invoice
+- Breakup fee (~50% of remaining contract value) discussed as option but not pursued
+
+**Strategy Alignment:**
+- Shift focus from general blog content to targeted student acquisition pages
+- Create dedicated sections for guides and templates (linked from footer, not homepage)
+- Measure success via student signups, free-tier user growth, and conversion tracking
+- Weekly Tuesday syncs + separate 1:1s between Jordan and Carly to maintain alignment
+
+**Team Involvement:**
+- Jordan commits to regular participation in weekly meetings and providing historical data
+- Carly assigned as primary point of contact
+- Kimberly (GrowthX content lead) to spearhead technical SEO and structured data work
+- Marcel to activate all internal "lanes" and present aggressive strategy later in the week
+
+---
+
+## Open Questions
+
+- What specific student acquisition channels (search, social, paid) should GrowthX prioritize in the new strategy?
+- By what date should the team target measurable improvements in student signups before evaluating continuation beyond 6 months?
+- Will Vizcom hire an internal SEO specialist or growth PM during this 6-month window, and if so, how should the handoff be structured?
+- How should success metrics account for seasonality in academic calendars and hiring cycles for industrial design roles?
 
 ---
 
@@ -75,96 +119,37 @@ The team fixed broken analytics and conversion tracking on Vizcom's site. Signup
 
 ## Action Items
 
-**Marcel Santilli**
-- Develop a generous breakup fee proposal reflecting completed work and internal resource commitment
-- Regroup internally with GrowthX team to activate lanes and prepare aggressive strategy aligned with Jordan's input
-- Prepare and send amended contract reducing commitment from 12 months to 6 months starting from new "day zero"
-- Coordinate with Carly and team to produce Loom video walkthroughs and Slack deliverables for Jordan's review
-- Schedule follow-up meeting for later in the week to present detailed strategy and align on KPIs
-- Explore opportunity for an in-person meeting at the SF office
+**Marcel Santilli (GrowthX, Founder)**
+- Regroup internally with GrowthX team to activate all delivery lanes and prepare aggressive student-focused strategy
+- Prepare and send amended contract reducing commitment from 12 months to 6 months, starting "day zero" from 2026-02-23
+- Coordinate with Carly and team to produce Loom video walkthroughs and Slack deliverables for Jordan's async review
+- Schedule follow-up meeting for later in the week to present detailed strategy and align on specific KPIs
+- Explore in-person meeting opportunity at GrowthX SF office (noted Thursday availability)
 
-**Carly Piekos**
-- Serve as primary point of contact for Jordan; engage in regular one-on-one meetings
-- Lead SEO/structured data optimization and ensure Kimberly's contributions are integrated
-- Collaborate with Marcel on client-specific strategy adjustments focused on students and free-tier user signups
+**Carly Piekos (GrowthX, Engagement Manager/SEO Lead)**
+- Serve as primary point of contact for Jordan Taylor; schedule regular 1:1 meetings in addition to weekly Tuesday syncs
+- Lead SEO/technical optimization and structured data integration; coordinate with Kimberly on implementation
+- Develop new strategy focused on student acquisition pages and free-tier user growth
 
-**Jordan Taylor**
-- Commit to paying outstanding invoice and approve contract amendment to six-month term
-- Join weekly Tuesday GrowthX meetings and schedule additional one-on-ones with Carly
-- Provide historical data and trends from Vizcom to assist GrowthX in refining measurement and strategy
-- Engage actively in upcoming review session and maintain ongoing involvement
+**Kimberly (GrowthX, Content Lead)**
+- Spearhead technical SEO optimization and structured data work on Vizcom's site
+- Integrate with Carly on account strategy and implementation
+
+**Jordan Taylor (Vizcom, CEO)**
+- Approve and commit to paying outstanding invoice
+- Approve contract amendment to six-month term
+- Commit to regular participation in weekly Tuesday GrowthX meetings
+- Schedule 1:1 meetings with Carly to maintain strategic alignment
+- Provide historical data, user trends, and seasonal patterns from Vizcom to inform strategy
+- Actively engage in strategy presentation session later in the week
 
 ---
 
 ## Transcript
 
-**Marcel Santilli:** What up, Jordan?
-
-**Jordan Taylor:** Hey, how's it going, Marcel?
-
-**Carly Piekos:** Hi, Jordan.
-
-**Jordan Taylor:** Hey, Carlos.
-
-**Marcel Santilli:** How's the weekend?
-
-**Jordan Taylor:** Oh, amazing.
-
-**Jordan Taylor:** I'm in Los Angeles right now just for customer meetings and then, yeah, I'll be back that way soon.
-
-**Jordan Taylor:** It's really nice outside.
-
-**Jordan Taylor:** How are you?
-
-**Marcel Santilli:** Good, good.
-
-**Marcel Santilli:** It's like same thing.
-
-**Marcel Santilli:** It's like, you know, all the ring we had and it's like finally like in the 60s, it's like, ah, this is amazing.
-
-**Marcel Santilli:** Life is good again and we're ok.
-
-**Carly Piekos:** Like, I know both of you should not be complaining.
-
-**Carly Piekos:** I'm in the middle of a blizzard right now.
-
-**Jordan Taylor:** Oh, wow.
-
-**Carly Piekos:** Like, I have marks on my head from my hat from shoveling snow during my lunch break.
-
-**Jordan Taylor:** We gotta get.
-
-**Jordan Taylor:** Yeah.
-
-**Jordan Taylor:** There has to be autonomous these things yet.
-
-**Jordan Taylor:** Like.
-
-**Jordan Taylor:** Right.
-
-**Jordan Taylor:** Like I was.
-
-**Jordan Taylor:** There's, there's full.
-
-**Jordan Taylor:** There's like the fsd, like grass cutting things.
-
-**Jordan Taylor:** But yeah, for snow is always like difficult.
-
-**Carly Piekos:** Yeah, cool.
-
 **Marcel Santilli:** Well, I want to be respectful, Jordan, of your time, I think.
 
-**Marcel Santilli:** Like, so first I want to kind of figure out like we're.
-
-**Marcel Santilli:** We're kind of like thinking kind of similarly and whatnot.
-
-**Marcel Santilli:** Right.
-
-**Marcel Santilli:** Like, kind of like the, the.
-
-**Marcel Santilli:** My.
-
-**Marcel Santilli:** My assessment so far is, hey, Emily brought us in and she trusts us quite a bit.
+**Marcel Santilli:** So first I want to figure out if we're thinking similarly. My assessment so far is, Emily brought us in and she trusts us quite a bit.
 
 **Marcel Santilli:** The team, we've been working with the team, the team seems to be aligned and on the same page.
 
@@ -188,87 +173,17 @@ The team fixed broken analytics and conversion tracking on Vizcom's site. Signup
 
 **Marcel Santilli:** Right.
 
-**Marcel Santilli:** So that's kind of like how I was thinking.
+**Marcel Santilli:** So that's how I was thinking. But I wanted to confirm — we've done a ton of work under the contract, and I want to do right by everyone, including our team.
 
-**Marcel Santilli:** But Then, like, I wanted to kind of confirm if given, like, one.
+**Marcel Santilli:** So I want to figure out: is this a path forward or a breakup fee situation? I value our relationship and your investors like Radical Ventures. I don't want us to leave on a bad note — I'm confident we can deliver value.
 
-**Marcel Santilli:** You know, we did a ton of work and, you know, we have a contract and things like that.
+**Jordan Taylor:** Yeah, I definitely want to pursue a path forward. I'm open to seeing what you've done and compensating you fairly for the work. I'm not trying to time this to get free work — that's not my intention at all.
 
-**Marcel Santilli:** But I also want to do right by everyone, including our team getting into work.
+**Jordan Taylor:** A lot of this is on us. Emily came in for two months, didn't have enough context to understand what we actually needed, and then left. When I came in, I realized this wasn't strategically aligned for us right now.
 
-**Marcel Santilli:** And so I just want to kind of, like, figure out, like, is this a let's figure out path forward or is this a let's figure out breakup fee kind of thing?
+**Jordan Taylor:** We might need it later, but not now. I made the classic founder mistake of hiring experienced people and trusting them to do their thing without staying involved. It was my oversight, not your fault. I apologize for wasting your team's time — this is just honest miscommunication on my end. Nothing against GrowthX; you're doing incredible work. I just wasn't paying enough attention.
 
-**Marcel Santilli:** You know, value our relationship.
-
-**Marcel Santilli:** We have, you know, you have investors that I value as well to have relationship, like, radical ventures and others.
-
-**Marcel Santilli:** And so I'm, you know, I don't.
-
-**Marcel Santilli:** I don't want us to leave in that note and I confidently deliver value, you know.
-
-**Jordan Taylor:** Yeah, no, yeah, I definitely want to.
-
-**Jordan Taylor:** The latter.
-
-**Jordan Taylor:** So trying to figure out what's the best way to, like, break this.
-
-**Jordan Taylor:** But I'm, like, still super open to seeing what you guys have done, but in compensating for what you guys have already done.
-
-**Jordan Taylor:** Right.
-
-**Jordan Taylor:** Like.
-
-**Jordan Taylor:** Like, I'm not trying to, like, be like, okay, like, let me time this to, like, get free work.
-
-**Jordan Taylor:** Like, that's, like, not.
-
-**Jordan Taylor:** That's like, not my, like, idea here.
-
-**Jordan Taylor:** And, like, a lot of this is more so on us as far as just, like, you know, Emily came in.
-
-**Jordan Taylor:** She was.
-
-**Jordan Taylor:** She was only here for two months, and then just, like, didn't really have enough, like, context in her own journey to understand, like, oh, this is exactly what this company needs.
-
-**Jordan Taylor:** And then.
-
-**Jordan Taylor:** And then just, like, left.
-
-**Jordan Taylor:** So then I came in.
-
-**Jordan Taylor:** I'm like, okay, well, this is actually what we don't need right now.
-
-**Jordan Taylor:** We do probably need this at some point, but just in our journey currently, this is, like, what we currently aren't, like, strategically trying to do.
-
-**Jordan Taylor:** But I understood, like, from her mindset, like, how she came to these conclusions.
-
-**Jordan Taylor:** It just, like, wasn't really aligned.
-
-**Jordan Taylor:** And I just, like, made the classic founder mistake of like, hey, if I.
-
-**Jordan Taylor:** If I hire people that are more experienced and senior than me and just let them do their thing, then that should work, right?
-
-**Jordan Taylor:** Like, that's just like the classic, like, no matter how many people tell you this, you're always gonna make mistakes.
-
-**Jordan Taylor:** So it's like, that was more so on me.
-
-**Jordan Taylor:** And I'm like, I apologize for, like, wasting your guys's, like, time and, like, energy with this.
-
-**Jordan Taylor:** But this was, like, just an honest mistake on my end.
-
-**Jordan Taylor:** Like, this is like, nothing against growth X.
-
-**Jordan Taylor:** Like, you guys are doing absolutely incredible stuff.
-
-**Jordan Taylor:** It's just like, I just wasn't paying attention and, like, made a. Yeah, that's.
-
-**Marcel Santilli:** That.
-
-**Marcel Santilli:** Yeah, totally, totally understand.
-
-**Marcel Santilli:** I Appreciate.
-
-**Marcel Santilli:** And that's why I was like, let's just like, be super transparent, you know, like in and it.
+**Marcel Santilli:** Yeah, totally understand. That's why I wanted to be super transparent.
 
 **Marcel Santilli:** And also, like, we're not going to be able to deliver as much value if the CEO and the founder is not fully bought in and kind of understand.
 
@@ -362,85 +277,13 @@ The team fixed broken analytics and conversion tracking on Vizcom's site. Signup
 
 **Jordan Taylor:** Sorry, it's been like a long time talk there.
 
-**Jordan Taylor:** But.
+**Carly Piekos:** I've been in SEO for 10 years and I've found major issues with your site. Your metrics weren't even being tracked at the start because of those SEO issues. You need someone to take responsibility for this because if you don't, your site and product won't get found on the Internet. A lot of people don't understand that SEO isn't just putting content out there — it's about your technical foundation. Are we actually findable on LLM models? On Google, Bing?
 
-**Carly Piekos:** Yeah, and the only reason I bring this up is because I have been in SEO for 10 years and I have discovered a lot of things and issues with your site.
+**Carly Piekos:** I just want to make sure you have the support you need. If you do cancel, you're walking away from all the support we provide at GrowthX.
 
-**Carly Piekos:** In fact, your site metrics weren't even being tracked in the beginning.
+**Jordan Taylor:** I didn't realize there were five of you on this. I can see why Emily initiated — you probably talked to other marketing and growth folks with that kind of background. What's the breakdown of your team?
 
-**Carly Piekos:** Um, because there was a lot of major SEO issues.
-
-**Carly Piekos:** So I just want to be sure that you have someone to take responsibility for those things because if that doesn't happen, you're never.
-
-**Carly Piekos:** Your website and your product will not get found on the Internet.
-
-**Carly Piekos:** And that is just fact.
-
-**Carly Piekos:** So I just think that maybe.
-
-**Carly Piekos:** And I know that you're the CEO and I know you know what you're doing as an SEO specialist.
-
-**Carly Piekos:** I feel that a lot of people don't understand AEO and SEO strategy and what it actually does for them because it's not just let's put content out there, it's what is our technical foundation.
-
-**Jordan Taylor:** Are we.
-
-**Carly Piekos:** Are we actually findable on these LLM models?
-
-**Carly Piekos:** Are we findable on Google, Bing?
-
-**Marcel Santilli:** The.
-
-**Carly Piekos:** The latter.
-
-**Carly Piekos:** Like, I. I just want to make sure that you have the support that you need if you do cancel this contract because you do have all that support with us at Growth X.
-
-**Jordan Taylor:** And yeah, I guess that's like one thing I didn't realize.
-
-**Jordan Taylor:** There's like five of you on this.
-
-**Jordan Taylor:** Like.
-
-**Jordan Taylor:** Yeah, like what's like the.
-
-**Carly Piekos:** Right.
-
-**Jordan Taylor:** Like the technical.
-
-**Jordan Taylor:** Like you said.
-
-**Jordan Taylor:** Like, I am.
-
-**Jordan Taylor:** I'm at the ICP for this service because I like, don't know, like Emily.
-
-**Jordan Taylor:** I can see why, like Emily initiated.
-
-**Jordan Taylor:** Like you guys probably talked to other like marketing growth folks, I'd imagine that have like that kind of background.
-
-**Jordan Taylor:** Yeah.
-
-**Jordan Taylor:** So like, what is that?
-
-**Jordan Taylor:** Like what is.
-
-**Marcel Santilli:** Yeah, like just to give you kind of like a high level.
-
-**Marcel Santilli:** I think I told you about my background.
-
-**Jordan Taylor:** Yes, you were, you were previously.
-
-**Jordan Taylor:** Yeah, you were.
-
-**Jordan Taylor:** This was like your thing.
-
-**Jordan Taylor:** Like you were deep into growth marketing.
-
-**Jordan Taylor:** Like you understood that and you try to do like, like the.
-
-**Jordan Taylor:** Yeah, I'm already telling you this.
-
-**Marcel Santilli:** Yeah, like so, so, so the, the TLDR here is like CMO and.
-
-**Marcel Santilli:** Or had a growth or marketing for a few companies that Hashicorp Service, Titan Skill AI and Deepram all went from either public or you know, skill AI like 29 billion investment for meta and all that.
+**Marcel Santilli:** To give you a high-level overview of my background — I was CMO or VP of growth for a few companies: Hashicorp, Service Titan, Skill AI, and Deepmind. Skill AI had a $29B investment from Meta.
 
 **Marcel Santilli:** But it's like so.
 
@@ -492,19 +335,7 @@ The team fixed broken analytics and conversion tracking on Vizcom's site. Signup
 
 **Jordan Taylor:** You just mentioned a bunch of very like specific things like oh like the templates, the vulnerability page.
 
-**Jordan Taylor:** But like, but for us it felt like so like generalized that like I didn't really understand like like what's the angle here?
-
-**Jordan Taylor:** Is it to like get us our docs page, like to get people that are trying to learn about the tool to Then like, yeah, somehow get that to surface.
-
-**Jordan Taylor:** Like, like what's the angle?
-
-**Jordan Taylor:** And then also my next question is like, when you're done with these clients, do they have someone internally, is your assumption like they're going to then hire someone to maintain and continue this?
-
-**Jordan Taylor:** Like, I'd imagine this is a continuous thing as well.
-
-**Jordan Taylor:** So like, what does that look like usually?
-
-**Jordan Taylor:** I'm just curious.
+**Jordan Taylor:** For us, it felt really generalized. Is the angle to get our docs page visible, so people learning about the tool surface in search? When you finish with clients, do they hire someone internally to maintain this? I'd imagine it's continuous. What does that usually look like?
 
 **Marcel Santilli:** Yeah, yeah, you're right.
 
@@ -714,21 +545,9 @@ The team fixed broken analytics and conversion tracking on Vizcom's site. Signup
 
 **Marcel Santilli:** Is it signups?
 
-**Jordan Taylor:** Yeah, like, yeah, it's definitely like, it's, it's, it's signups, but qualitatively so like signups coming from students and I thought there's a way you can almost pinpoint the regions as well.
+**Jordan Taylor:** It's definitely signups, specifically from students. We can almost pinpoint the regions too. Student signups are a big piece — 60% of our enterprise deals come from people who started on the free tier. So the numbers we want to move are: how do we get more students aware of Vizcom? And how do we get more free users to sign up?
 
-**Jordan Taylor:** But like, so like student signups is definitely a big piece for us.
-
-**Jordan Taylor:** Okay.
-
-**Jordan Taylor:** 8, 60 of our enterprise deals come from people that started out on the free tier.
-
-**Jordan Taylor:** So there is some kind of validation of like, okay, like getting people to like just sign up for the free tier is maybe a number to move.
-
-**Jordan Taylor:** So yeah, I would say like, like if I were to focus on two things would be like, how do we get more students aware about Viscom?
-
-**Jordan Taylor:** And then also then how do we just get like more free users signed
-
-**Marcel Santilli:** up and then these are industrial design students specifically?
+**Marcel Santilli:** These are industrial design students specifically?
 
 **Marcel Santilli:** Or is there like other footwear?
 
@@ -998,45 +817,13 @@ The team fixed broken analytics and conversion tracking on Vizcom's site. Signup
 
 **Jordan Taylor:** Oh yeah, yeah, yeah, yeah.
 
-**Marcel Santilli:** So.
+**Marcel Santilli:** I'll be in the office Thursday if you want to do this in person. We can coordinate. We'll have more opportunities for in-person time.
 
-**Marcel Santilli:** So like Thursday I'll be in the office too.
+**Jordan Taylor:** Cool. I don't want to take up too much of your time. Let's do this and we'll meet again later this week.
 
-**Marcel Santilli:** So if we wanted to do in person as well, but.
+**Marcel Santilli:** My wife is flying to Pasadena on Wednesday.
 
-**Marcel Santilli:** But we can coordinate too if you want.
-
-**Marcel Santilli:** But also like, we don't need to let it that be a.
-
-**Marcel Santilli:** Because we'll have more opportunities to like sing as well.
-
-**Marcel Santilli:** In person for sure.
-
-**Jordan Taylor:** Okay, cool.
-
-**Jordan Taylor:** I know I don't want to go over your guys's time here, but.
-
-**Jordan Taylor:** Yeah, let's, let's do that.
-
-**Jordan Taylor:** We have emails now, so.
-
-**Jordan Taylor:** Yeah, we'll.
-
-**Jordan Taylor:** We'll meet again later this week.
-
-**Marcel Santilli:** Yeah, man, we'll enjoy la.
-
-**Marcel Santilli:** My wife is actually flying down there on Wednesday for, for a thing.
-
-**Marcel Santilli:** I'm not going this time, but in Pasadena, so.
-
-**Jordan Taylor:** Oh, very nice.
-
-**Jordan Taylor:** I'm super close to.
-
-**Jordan Taylor:** Yeah, I'm right by that area, so.
-
-**Jordan Taylor:** Very good.
+**Jordan Taylor:** Oh nice, I'm right by that area.
 
 **Marcel Santilli:** Awesome.
 

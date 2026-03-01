@@ -5,90 +5,147 @@ title: "Suriya Sharma - Executive Interview | Chief of Staff - Ops & Special Pro
 date: 2026-01-26
 duration: 55 minutes
 participants:
-  - Marcel Santilli (Interviewer)
-  - Suriya Sharma (Candidate)
+  - name: Marcel Santilli
+    role: Interviewer
+    company: GrowthX
+  - name: Suriya Sharma
+    role: Candidate
+    company: Everlance (acquired)
 organizer: marcel@growthxlabs.com
 meeting_type: Executive Interview
 transcript_id: 01KFRYCHEVPTRW6Z61VEN8DR6C
-source: Fireflies.ai
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 ---
 
 ## Summary
 
-Marcel interviews Suriya Sharma for a Chief of Staff role focused on operations and special projects. Suriya brings strong operational experience from Mixpanel, Airtable, and Everlance, where she scaled a team from 35 to managing 14 people while overhauling broken reimbursement processes. The conversation covers her approach to operational challenges, leadership style, and career goals. Marcel describes the role as an extension of himself—someone to bring structure, accountability, and systems thinking to a $12M company aiming for $36M.
+First-round interview for GrowthX Chief of Staff role. Suriya brings directly applicable operational and scaling experience from Mixpanel, Airtable, and Everlance (35→14 direct reports, zero-error reimbursement overhaul). Marcel articulates the role's core mandate: reduce his anxiety through systems thinking, drive accountability, manage business operations, and forward-deploy on special projects as the organization scales $12M→$36M ARR. Next step: Suriya completes written assignment on delivery marketplace strategy; follow-up discussion to evaluate thinking process and fit.
 
 ## Context
 
-This is a first-round executive interview for the Chief of Staff position at GrowthX. Suriya previously spoke with Tucker and Bridget before this conversation with Marcel. The role combines operational leadership with special projects, reporting directly to Marcel.
+First-round interview in GrowthX's Chief of Staff hiring process (Suriya previously spoke with Tucker Knowlton and Bridget Foley). The Chief of Staff role reports directly to Marcel and sits at the operational core of GrowthX—responsible for systems thinking, accountability mechanisms, and special projects across a 90-person organization. This is a critical hire for $12M→$36M scaling, bridging Marcel's pattern-recognition strength with the operational rigor needed to manage growing complexity. Suriya is local to Bay Area (Alamo Square, San Francisco), aligned with GrowthX's hybrid preference.
 
 ## Relevance to GrowthX
 
-**High relevance.** The Chief of Staff role is critical for GrowthX's growth from $12M to $36M ARR. The interview reveals:
+**Critical hire for scaling phase.** The Chief of Staff function is foundational to GrowthX's $12M→$36M trajectory.
 
-- How Marcel thinks about the role (reduce his anxiety, drive accountability, bring structure)
-- What operational challenges GrowthX faces (delivery model evolution, cross-functional coordination, scaling pains)
-- The marketplace strategy for delivery talent as a key priority
-- Preference for local/hybrid candidates to accelerate onboarding
+**Operations & Delivery:** Suriya's reimbursement overhaul (10% error rate→zero errors, 20% delays→zero delays) directly maps to GrowthX's delivery marketplace challenge—moving from full-time contractor model (hiring, bench management, training overhead) to flexible marketplace-based production talent. Her methodology: baseline process, identify error sources, build incrementally with cross-functional lock-step.
+
+**Leadership & Accountability:** Marcel explicitly describes anxiety around organizational chaos and lack of follow-through at scale (90 people, 60 customers). Suriya's track record (managing 14 people, driving process discipline) and Dan's characterization (proactive, scrappy, drives to finish line) align with needed accountability drivers.
+
+**Strategic Fit:** Local/hybrid (San Francisco), proven ability to own special projects while running operations (not purely heads-down), intrinsically motivated by impact and execution—all requirements Marcel articulated.
 
 ## Overview
 
-- **Candidate Experience:** Suriya scaled teams and products at Mixpanel, Airtable, and Everlance, showing strong operational and execution skills
-- **Leadership Style:** Described as proactive and accountable; values autonomy, feedback, and honest communication within teams
-- **Operational Improvements:** Overhauled reimbursement process with 10% error reduction, achieving zero errors and delays with a self-serve platform
-- **Growth Vision:** GrowthX aims to triple ARR from $12M to $36M, needing a systems-oriented leader to manage complexity
-- **Team Dynamics:** Prefers hybrid collaboration; values in-person interactions for better feedback and relationship building during early tenure
-- **Long-term Goals:** Aspires to gain deep operational expertise, eventually stepping into a COO role focused on scaling growth
+**Candidate Trajectory:** Consulting→Mixpanel (ops cadence, KPIs)→Airtable (pricing/packaging execution)→Everlance (post-sales overhaul, 35-person startup). Career thesis: maximize impact by moving from advisory to execution roles; drawn to inflection-point companies.
+
+**Operational Strengths:** Structured problem-solver who can establish baselines, identify root causes, and build incrementally. Reimbursement case study: discovered 10% error rate and 20% payment delays rooted in spreadsheet-based manual process; built self-serve platform achieving zero errors, zero delays, and scalable operations—required lockstep product/ops coordination.
+
+**Leadership Style:** Hands-off but candid. Manages by giving long autonomy leash (trusting teams to execute), maintains honest communication about situations without sugarcoating. Learned from COO Dan's model of transparency and accountability. 14-person team pre-acquisition described her as trusting, autonomous, and candid; peer feedback noted passion but opportunity to invest in relationship-building small talk.
+
+**What Energizes Her:** Impact and purpose; cross-functional "Swiss Army knife" operator touching all parts of the business; momentum and execution (dislikes politics, meetings about meetings, lack of follow-through). Aspires to COO-level role at $50-100M ARR company.
+
+**Location & Working Style:** Based in San Francisco (Alamo Square). Values hybrid collaboration, especially in-person for early-stage relationship building and feedback loops.
 
 ## Key Topics
 
-### Suriya's Background (07:11 - 10:54)
-- Started in consulting, moved to startups for more impact
-- Mixpanel: Set operational cadence and KPIs across functions
-- Airtable: Led pricing and packaging model execution
-- Everlance: Joined at 35 people, grew into managing all post-sales (implementation, reimbursements, customer success/support)
-- Company acquired 9 months ago by a slower-moving legacy firm
+### Career Journey: Consulting to Ops to Scaling
 
-### The Reimbursement Operations Project (16:04 - 26:50)
-- Initial state: 10% error rate, 20% delay rate in driver payments
-- Challenge: Build product features while improving operations in parallel
-- Approach: Baseline the process, identify error sources, build incrementally
-- Outcome: Zero error rate, zero delay rate, scalable self-serve platform
-- Key insight: Had to work product and operations in lockstep
+**Consulting Foundation → Startup Execution:** Suriya began in consulting but felt disconnected from impact. Moved to startups (Mixpanel→Airtable→Everlance) to be a builder/operator rather than advisor. Philosophy: "I want to actually execute and see impact every day."
 
-### Leadership and Management Style (26:50 - 34:56)
-- Reported to COO Dan, then promoted to report directly to CEO after Dan left
-- Managed 14 people pre-acquisition
-- Dan's view: Proactive, drives things across finish line, scrappy problem-solver
-- Team's view: Trusting manager, gives autonomy, honest and candid
-- Peer feedback: Passionate advocate, could invest more in relationship-building small talk
+**Mixpanel:** Set company-wide operational cadence, established KPIs for each function, structured how business operationally functions at scale.
 
-### What Drives Suriya (35:18 - 42:43)
-- Core motivation: Impact and purpose
-- Goal: Scale companies to $50-100M ARR, eventually become COO
-- Pet peeve: Angry customers when you can't fix the underlying issue
-- Energy drain: Politics, meetings about meetings, lack of execution
+**Airtable:** Focused on special projects—primary: execute new pricing and packaging model, partnering with go-to-market teams to validate and measure success.
 
-### Marcel's Vision for the Role (43:16 - 47:55)
-- Purpose: Reduce Marcel's anxiety by bringing structure and systems
-- Problem: Marcel is good at going deep/wide but struggles with follow-through and prioritization
-- Need: Someone to manage business operations, drive accountability, forward-deploy on special projects
-- Current state: 90+ people, 60+ customers, $200K+ average contract, flat org structure with growing pains
+**Everlance (inflection point):** Joined at 35 people. Started as IC in "biz ops and strategy" but mandate was dual: (1) help build product to be self-serve and scalable (company had presold product not yet built), and (2) fix operationally-broken processes. Scope expanded from IC to managing all post-sales functions: implementation, reimbursement operations, customer success, customer support (14 direct reports pre-acquisition). Company acquired 9 months ago by legacy firm—led her to explore new opportunities.
 
-### Delivery Marketplace Strategy (51:13 - 53:48)
-- Current model: Full-time international contractors assigned to accounts
-- Problem: Hiring, training, bench management limitations
-- Goal: Move toward marketplace model for production talent
-- Assignment: Think through marketplace strategy (focus on thought process, not final answers)
+### The Reimbursement Operations Overhaul: Systems Thinking in Action
+
+**Problem State:** 10% error rate, 20% delay rate in driver payments. Process entirely manual: spreadsheets, INDEX-MATCH formulas, no product automation—operationally brittle.
+
+**Complexity:** Had to improve operations *while* product team simultaneously built the platform. Suriya had to coordinate product releases with operational process changes; whenever product launched, operations had to re-adapt.
+
+**Methodology:** (1) Baseline current process, (2) identify root causes of errors/delays, (3) build incrementally, (4) maintain lockstep coordination between product and ops.
+
+**Outcome:** Zero error rate, zero delay rate, scalable self-serve platform. Key insight: "Product and operations have to move together or you fall apart."
+
+### Leadership: Dan's Influence & Suriya's Style
+
+**Manager:** COO Dan (hired her at Everlance). Dan's characterization: "Proactive, drives things across the finish line, scrappy problem-solver."
+
+**Reporting Evolution:** Initially reported to Dan; when Dan left, promoted to report directly to CEO (expanded scope).
+
+**Team Feedback:** "Trusting manager, gives long leash for autonomy, very honest and candid about situations—no sugarcoating, no doom-saying, just facts and next steps." Peers noted: "Passionate advocate," with opportunity to invest more in relationship-building small talk.
+
+**Influence:** Learned from Dan the value of candor and not sugarcoating problems—Suriya now applies this in her own leadership.
+
+### What Energizes & Drains Suriya
+
+**Core Driver:** Impact—wants to see work translate directly to business outcomes and company growth momentum.
+
+**Sweet Spot:** Cross-functional "Swiss Army knife" operator who touches all parts of the business, especially at inflection points where there's momentum to capture and scale.
+
+**Long-term Vision:** Aspires to COO-level role at $50-100M ARR company; wants to develop deep operational expertise and eventually drive full business scaling strategy.
+
+**Drains:** Politics, meetings about meetings, lack of execution. Pet peeve: "Angry customers when you can't fix the underlying issue"—indicates focus on root-cause problem-solving, not just symptoms.
+
+**Work Context:** Prefers working with people she enjoys; company culture and team dynamics matter as much as the role itself.
+
+### Marcel's Vision: Chief of Staff as Anxiety Reduction & Systems Anchor
+
+**Marcel's Self-Awareness:** "I'm very good at going super deep, understanding how things work, connecting dots, seeing patterns, communicating big picture. I'm not good at follow-through or prioritization. I get good at going 100 different directions; figuring out how to prioritize or add structure to those ideas is hard."
+
+**The Problem:** At 90 people, 60 customers, $200K+ average contract, with flat org structure, Marcel experiences anxiety when organization feels chaotic—"systems don't connect, people are all over the place." This makes him less effective as a leader.
+
+**The Solution:** Chief of Staff role = "reduce my anxiety by helping us understand what's happening, who's accountable for what, and manage the business from a systems perspective." Includes driving accountability to functions and business areas—some have functional leaders (pull from them), others don't (new accountability structures needed).
+
+**The Business Context:** GrowthX is operationally heavy ($12M ARR, 90 people, 55 in delivery). Build side ≠ Delivery side. As platform/systems evolve, delivery roles evolve. Need someone who can "run operations" but also "forward-deploy on special projects" as needed.
+
+### The Delivery Model & Marketplace Transformation Challenge
+
+**Current State:** Full-time international contractors, assignment-based. Engagement managers and editors own accounts (single point of contact with customers). Production talent (like data labeling pipeline) hired, onboarded, trained, assigned to accounts.
+
+**Constraints:** Hiring overhead, training burden, bench management (must keep people on bench to ensure availability), limited ability to measure productivity, low flexibility.
+
+**Vision:** Move toward marketplace model for production talent. Think of production work as similar to data labeling (work can be rated, reviewed, improved via feedback—training happens through the process, not upfront).
+
+**The Assignment:** Suriya to write up: What would a marketplace strategy for GrowthX delivery look like? Goal is not final answer, but her process: How does she think about it? What questions does she ask first? What would she need to know? Does she have the right mental model for this kind of transformation?
+
+## Decisions & Commitments
+
+**GrowthX Commitments:**
+- Marcel to discuss with Bridget and send Suriya written assignment details on delivery marketplace strategy (focus: thought process and question-framing, not final answers)
+- Marcel to invite Suriya to Thursday CMO breakfast (optional, no obligation)
+- Marcel to follow up with Tucker and Bridget on candidate progress and next steps
+
+**Suriya's Commitment:**
+- Complete and submit written assignment on delivery marketplace strategy (no timeline given; expected ~1-2 weeks for thoughtful response)
+- Attend follow-up discussion to discuss approach and thinking
+
+**Interview Process Status:** First-round clear; Marcel noted "no red flags," ready to advance Suriya in process pending assignment quality and follow-up conversation.
+
+## Open Questions
+
+**From Marcel's Perspective:**
+- How will Suriya approach the delivery marketplace strategy assignment? (What framework, what questions does she ask first? How does her thinking process translate to GrowthX's specific constraints?)
+- Fit for the "forward-deploy on special projects" part of the role—how does she balance ongoing operations with ad-hoc high-impact work?
+- Reference calls with Dan and her team—will they confirm the "proactive, scrappy, drives to finish line" characterization?
+
+**From Suriya's Perspective:**
+- Clarification on reporting structure and decision rights (who else reports to Marcel? scope of authority over delivery team?)
+- Specifics on "flat org structure with growing pains"—which functions lack clear leadership? Where are the biggest bottlenecks?
+- Integration plan into existing leadership team (Tucker, Bridget, etc.); existing expectations or conflicts to surface early?
 
 ## Action Items
 
-### Marcel Santilli
-- [ ] Confirm with Bridget to send Suriya the assignment details on delivery marketplace strategy (51:14)
-- [ ] Share details of the Thursday CMO breakfast event invitation to Suriya (53:48)
-- [ ] Follow up with Tucker and Bridget to update on candidate progress and next steps (54:04)
+### Marcel Santilli | GrowthX
+- [ ] Confirm with Bridget Foley to send Suriya the assignment details on delivery marketplace strategy
+- [ ] Share details of the Thursday CMO breakfast event invitation to Suriya
+- [ ] Follow up with Tucker Knowlton and Bridget Foley to update on candidate progress and next steps
 
-### Suriya Sharma
-- [ ] Prepare written assignment on marketplace strategy for delivery model (53:50)
+### Suriya Sharma | Everlance (acquired)
+- [ ] Prepare written assignment on delivery marketplace strategy approach and questions
 
 ## Full Transcript
 

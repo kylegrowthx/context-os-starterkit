@@ -1,0 +1,3544 @@
+{
+    "title": "DG agenda creation\u00a0 + Looker update overview",
+    "meeting_title": "Impromptu Zoom Meeting",
+    "url": "https://fathom.video/calls/459457883",
+    "created_at": "2025-10-30T18:01:38Z",
+    "scheduled_start_time": "2025-10-30T17:25:02Z",
+    "scheduled_end_time": "2025-10-30T17:40:02Z",
+    "recording_id": 98097791,
+    "recording_start_time": "2025-10-30T17:25:54Z",
+    "recording_end_time": "2025-10-30T18:01:29Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "The week's been good.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "It just feels like I was doing article generation through the Agentec pipeline thinking it was good, and then I started fact-checking and realizing there's a lot of issues with the research step, a lot of issues with the fact-checking step, and so the article's no good because it takes too much work to go in and check 20 different references.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So then I have to revisit, okay, how are we going to do this using Claude and the old pipeline and trying to improve that, and so I'm back to, it feels like I'm back to square one since this afternoon.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, the main issue right now is that it generates false facts through a research pipeline grid.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, let's do this, Nathan.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So we're going to create the agenda, so the, I think it's the sync 45 that will be this time.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Notion, and then we're going to update Looker, or I don't know exactly what we have to do with Looker, but that was one step that you said we have to do, usually.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's the first thing that we should do when we are working on creating agendas, but let's go through the meeting files first.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can just go here, duplicate this meeting.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once it's duplicated, I suggest to delete the guests, because if you duplicate it, the invitations we're going to send.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But once you fill in everything, once we get final, applies to the document, then you can just type Tiago and Caitlin there.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So basically, we should change this.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's call it 45, and let's just randomly pick.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The icon, not going to think too much, and then you can customize the color that you want.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's stick with this.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then let's change the event time, and I think it should be tomorrow, right?",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's 31, Friday.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so once it's changed, then we will delete the old URL of Fathom recording.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And now let's.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's move to the Looker.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Basically, are logging in using the Kim's account.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just note, because personal accounts, they do not have the accesses to Looker.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go to the data grid.",
+            "timestamp": "00:02:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is the relevant space for us.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the first thing that we should do is to go to edit button here.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just click on this.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And once this floats, you should visit the region.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Resource here and click the first button, Manage Edit Data Sources.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is the space where we centralize all our data.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So look, here is the data platform that unites data we have in Google Search Console and Analytics.",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we have GCS and Plus Analytics GA4 as well.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's head here.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And an important note is that once we update the base with newly published articles, we should update the GA and Search Console base as well.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's start with GA.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We should click on Edit.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I know there's like tons of sections here, but you will need the one with FX on the right side.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is a space where our URLs are centralized.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And basically, we should pick.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The latest one.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you click on the ethics, and you will see a bunch of URLs here, Nathan.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So our mission is to create the Regex formula and add newly published articles in database.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So these will be the articles that were published last Friday?",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, these will be articles that went live last week, last Friday.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's go to the air table.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's...",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go to DataGrid.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And let's head on published pages.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Also important, even though these articles, refreshes, were published last week, we do not update this in Looker.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We only put the new URLs.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this means that we need to...",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, this misses the URL.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just...",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Make sure whenever you create the ticket to tell the Suleman to update the URL field as well.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But basically, as mentioned last week, I will create the onboarding document for you where I'm going to go through the details that we would need.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So basically, we need to include stack.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, ah, no.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep, that's it.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's copy all the editorials.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Check it just to make sure he didn't use a different slide by accident.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, we can check it.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We also can check whether the URLs are live or not.",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's find slugs.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, it's better to open.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This in full screen mode.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So first is improve CRM data, improve CRM data, it's correct.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Six strategies, it's correct.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Simple guide customer lifetime value, it's correct.",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think all good, Nathan, do you notice something abnormal?",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, it looks good.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's copy this.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe open the spreadsheet here.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once I open the spreadsheet, I have to check the categories of these articles.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I copy template categories.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Look, this field is called template category, and I copy the cluster data, and I put this in here.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so let's go to the chat GPT.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can quickly allocate the folder of the.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then go here, and you see this chat, it mentions the local code.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Is this just the Teams ChatGPT or PodA?",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is Teams ChatGPT.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And basically, we can copy the example that's correct.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I always try to give it the example again, because sometimes it loses the context and gives you wrong code.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So just say that this is GA for Regex formula, and I have to update more URLs and categorize, just like a ball.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you can basically copy this.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And paste it here.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Why is it so slow?",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You do not have to validate from here whether the formatting is correct or not.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just copy.",
+            "timestamp": "00:08:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Go here and paste it.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you see that the colors are matching, basically, it means that the formatting is correct.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If the formatting is off, then you're going to quickly notice because these ones won't be colored anymore.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So no need to double check manually.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Delete the blank space here and we can click on Update.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We are set for the GA4 data.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go back and then select Search Console.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is Search Console.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I click on Edit.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "and I go to URL List 5 and I click on FX.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so what we're going to do right now is I'm going to copy the Search Consulting Format thing, and here we can say now we are doing this for GAC, and the format that I need here is URLs are the same.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And just to make sure that nothing gets health-nated, let's just paste it.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Oh, no.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, it's weird, I don't know.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Well, weird, yeah, you copied the blank space for some reason.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have to restart to just have the latest Mac update.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Great.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank Thank",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it had some weird issues until you restarted.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So it needed some time.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So I decided not to.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So now it should pump them out in the new format for GSC.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Basically, the difference is that GA only includes Slack.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the Search Console gives you the full URL.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's the sole formatting difference that you can quickly notice.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go here.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's this.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And as you see, everything looks good.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can click on Update.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That works.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go back.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And just quickly, I'll open the agenda file.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So that's what you do for Looker?",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "That's it?",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Or are we going to take a screenshot, something like that?",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Or is that the stuff that...",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But we then need to put the proper dates and check appropriate fields here to create the agenda.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Can you see it?",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or should I?",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, no, no.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's too much.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "I can't read it, but I can see it.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There we go.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's good.",
+            "timestamp": "00:11:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, this is the overall performance field.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here what we should do first is go to URL cohorts and make sure to untick non-growthx URLs because we only track the performance of the blocks that we produce.",
+            "timestamp": "00:11:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We do not track this sidewise.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We do not include home page and everything.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's untick this.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then change the dates.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the first time that we started...",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Interaction with DataGrid, and the first meeting was in 2024, and it was December 30.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here, as the end date, we should choose the Sunday.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The week's latest Sunday.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay, so we don't bring it all the way up to today.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, no.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "It's only two days after publication.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, yeah, yeah.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:12:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we should click on Apply.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And when it comes to mediums, we should select Organic and Referral.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For DataGrid, just remember that it's Organic and Referral, because we also track the AI visits.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So everything is updated here, Nathan, and you can see the latest stats.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is basically the latest one.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "From October 20 to October 6.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the first thing that we notice is that the sessions has declined slightly.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can use this point to include in the agenda, or even you can say that performance was within the expected range.",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I would rather say that it was a slight, slight decline.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's...",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We should mention this point in performance update field here.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But before we go to performance update, let's go through the details here.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So as of general updates, we will say that article generation is going as planned, because I think I have provided the articles, Usman is on track, and you're also on track.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have finished deleting the broken internal links.",
+            "timestamp": "00:13:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we can say that this...",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "task has been finished, so let's change this, and say we, you can later proof edit, like, and change the phrasing, but yeah, let's leave this like this, we claim broken internal links of current articles, then we are working on the newsletter outline and design templates, I don't know the status of this process, did anybody mention this in our chat, because Andy's handling it, and yeah, and she opened up a ticket, and they're waiting on something from them, but they are doing, we're doing something, I don't know, I guess she made a ticket, okay, okay, we can, we can keep this point, as it is, and then we mentioned data grid product demo, this should have happened last week, it didn't happen, and nobody has brought up anything, so I will delete this, but if there is some news, but it, maybe we'll be back with",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I have not read anything in public channel.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Have you noticed any updates in public channel that needs to be mentioned here?",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I didn't check the channel as much because I had plenty of time.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So we did, like, on Monday, the Monday updates.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "All that we said was that we sent the updated contract with newsletter wording.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "That's our weekly goal.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "And then an update.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "We published five editorial, six refreshes.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then there was a bunch of action items.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that was it.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And Caitlin had some questions.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "He has answered it.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "And there was no follow-up conversation.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe we keep this point and we squeeze it somewhere about the newsletter wording and updating the contract.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have published five new editorials last week.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "True.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We refreshed six articles last week.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How many was lined up for this week?",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think it should be six because they...",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's leave it like it is.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is there any progress about the PSCO from DataGrid?",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I see that they didn't mention anything, so it just tastes as it is.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go to the performance update then.",
+            "timestamp": "00:16:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Here we should say that they should limit the date to October 26th, because that's the date of the Sunday.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's the Sunday.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the first thing that we see here, we have the screenshot of overall performance.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So basically just, we will go there and take a screenshot of this.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then delete the old image and list it here.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's a good one.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the first point is that we've seen like slight decline compared to last week.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then I say that it was primarily due to reduced performance from Google and ChatGPT.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's check the sources.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can scroll down and you'll see sessions by refers and we can quickly check that it's 527.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And now, yeah.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So Google traffic has declined.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There is a Bing traffic also slightly declines.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The ChatGPT traffic has increased.",
+            "timestamp": "00:17:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So no need to mention this about declines.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it's not that important.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, as I said, the element of traffic has improved.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, yeah, yeah.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we can say that primarily due to reduced performance on Google.",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "On Google.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, this point is set.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then, as you see, we talked about non-branded impressions that are slightly down.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we say that we are ranking number one for this much of non-branded keywords.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is it annoying that I always open the...",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, it is excellent.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, very good.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's go to the non-branded traffic.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "And here, we can check...",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "the second.",
+            "timestamp": "00:18:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, here.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is the non-branded performance.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And as you see, this is the middle of...",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's not relevant for us to take a look at this, even if you do not change the dates.",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is the time frame for us to look for.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And as you see, the impressions, non-branded impressions, also have been slightly declined.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And clicks, they are within the same range, like not much of difference.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we can mention this in the sub-bullet.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But let's quickly go to this.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here, Nathan, we have non-branded query ranking distribution.",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you can go to October 26, and we see that 273 keywords are ranking as number one.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think it has been so declined.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, no, no, no.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It has been improved.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's change this number.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Write this.",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, this point.",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Stays the same because it was a slight decline for non-branded impressions.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And Nathan, can we jump on content?",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Should we say that in parentheses, that's, I don't know, what was it before?",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We do not typically report this.",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It was 85K, and now it's 82K.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But it's up to you.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But we do not usually put this.",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, number one pages, I mean.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Because that's just, that looks like a good win.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So go back to the doc.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "To the doc?",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, to the notion.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then just undo the 273.",
+            "timestamp": "00:20:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because what was it before 273?",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "This is non-branded keywords.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Before it was 200.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Before it was something else.",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "200.",
+            "timestamp": "00:20:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, it was 265.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So should we say that's an 8?",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "8.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "8.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Or even you could just say eight more compared to last week.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, of course.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Anyway, yeah, yeah, okay, sounds good.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Of course, we can indicate like this if it's okay with you.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:21:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, and then you see we have the content categories, but I want to go through all the details here before we jump on content categories.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So here we have conversion events, and we do not track this.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can always ignore conversion events.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In case it changed, then we can go back to this.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then we have courts, and these courts are our content categories.",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So what we should do is we, again, go to the court section, antique non-growthx URLs.",
+            "timestamp": "00:21:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we'll go.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then here, as we mentioned, we need to take organic and preferable, and then we have to set the timeframes.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Here, Nathan, I typically hit a weak timeframe, but even if you do not change this, you have this chart here, and this is the last week chart.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But we need to update this, because when we scroll down, you'll see that this demonstrates the session change from periods to period.",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So basically, I should go up and select October, and it will be from Monday to Sunday.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then I click on Apply.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once I do this, the period over...",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Period percentages will be correct.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is the important step, just to let you know.",
+            "timestamp": "00:23:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here you can see which clusters have been performing well.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can quickly check from here or even scroll down.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "that percent change, the delta there, so that's comparing October 20th to 26th to what?",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or it's comparing from last Monday to last, yeah, yeah, yeah.",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, it's comparing from last Monday to last Sunday.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, but usually here we tend to track the click changes rather than sessions because it's comparative performance.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here also we have the data of average position.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's why we prefer to report to the state or class.",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cluster category, performances, and here we see that basically some clusters, they were performing well, others were not, and we just have to go through the numbers, we can also download this name.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's click on export, go to Google Sheets.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can quickly set the filters, okay, this is very inconvenient, so let's turn to percent, you just, no.",
+            "timestamp": "00:24:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe we do not need to sit here right now.",
+            "timestamp": "00:24:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "I want to see how you're doing it, so you exported it.",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so, look, this is.",
+            "timestamp": "00:24:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The more section here, above these metrics, I click here, then I click on export data, and I love to work on Google Sheets.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So then I click this and then export.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And maybe, Nathan, we can sort this from set to A.",
+            "timestamp": "00:25:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Basically, the data that you see here means that nothing has been changed, or it has insufficient data to track it.",
+            "timestamp": "00:25:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But what we can see right now is that productivity tools and techniques had improved clicks, but this cluster is typically underperforming because it received six clicks, and it had this much improvement.",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we can go through the data, non-growthx URLs.",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this has been declining.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The articles, for example, AI agents for healthcare for insurance, it was going on an upward trend for like three, four consecutive weeks.",
+            "timestamp": "00:26:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we might say that, hey, the articles that were performing well in last week, they have declined.",
+            "timestamp": "00:26:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And maybe you can say that we need another week to observe the tendency because it might be seasonal.",
+            "timestamp": "00:26:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, it maybe depends on topic, that's what I mean.",
+            "timestamp": "00:26:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay, so what do we, so let's do it.",
+            "timestamp": "00:26:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Because I, like, what would you update now in the Notion agenda?",
+            "timestamp": "00:26:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Look, AI agents for government law, healthcare, and insurance performed well.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The articles that performed well, for example, healthcare, it has declined, right?",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Insurance, it has declined.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For government for For",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's been actually performing, and let's check a little.",
+            "timestamp": "00:27:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So do you always report on the same categories, or do we just choose the positives that we're...",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Like, how do you choose what to include in the agenda here?",
+            "timestamp": "00:27:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just know the context that these articles, these clusters, they are new.",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "they started to generate, like, good numbers, but this is the first time after four weeks that it faced a declining tendency.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think it is relevant for me to report this.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just the context thing, to be honest.",
+            "timestamp": "00:27:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Don't have much clearer answer for that.",
+            "timestamp": "00:27:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we can say that AI agents for healthcare insurance law that has been performing well in the world.",
+            "timestamp": "00:27:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Fathom, UX, decline.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, this is the updated point.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's bold this, and then we're gonna unbold.",
+            "timestamp": "00:28:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The new editorial cluster for AI at scale has already started attracting sessions.",
+            "timestamp": "00:28:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, let's delete this.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, you know, we have started, like, new editorial work streams for them.",
+            "timestamp": "00:28:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So for us, it would be interesting to see whether these new clusters, have started to attract the traffic.",
+            "timestamp": "00:28:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So just, let's go to, where was it?",
+            "timestamp": "00:28:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The content pillars, and check sales acceleration.",
+            "timestamp": "00:28:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, just a single click impression.",
+            "timestamp": "00:28:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's a positive thing, because we had started to publish this two weeks ago.",
+            "timestamp": "00:28:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the timeframe here is very short.",
+            "timestamp": "00:28:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I would see this as a positive trend, and I would say that the new cluster, sales acceleration, has started to attract impressions.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I won't mention clicks because it's useless, right?",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just a single thing.",
+            "timestamp": "00:29:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then let's check proposal and project management.",
+            "timestamp": "00:29:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, it has 13 impressions.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But, you know, still technically it's a good thing.",
+            "timestamp": "00:29:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because if I see that all articles, all clusters started to attract impressions, that I would say that all new, like, clusters have been attracting impressions.",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just a highlighter point.",
+            "timestamp": "00:29:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's check Hustor Intelligence.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hustor Intelligence has 265 impressions.",
+            "timestamp": "00:29:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's a good sign.",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's check the AI at scale.",
+            "timestamp": "00:29:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "AI at scale has three clicks and look at the number of impressions.",
+            "timestamp": "00:29:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's good.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So maybe we can phrase, basically it's up to you.",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But we can say that newly generated clusters.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And say AI at skill, customer intelligence, intelligence, what was it?",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sales.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm very slow today.",
+            "timestamp": "00:30:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it was proposal and project management, right?",
+            "timestamp": "00:30:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Proposal and project management have started to attract impressions.",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And basically, it's up to you whether you want to indicate the numbers.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But what I've seen with Vivek, he doesn't tend to micro-report stuff because they can go themselves into Looker and check.",
+            "timestamp": "00:30:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, it's up to you guys.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Marketing documents that traditionally underperformed are now generating increased clicks.",
+            "timestamp": "00:30:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So maybe we can check this as well.",
+            "timestamp": "00:30:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Marketing document handling, it stayed within the same range, so let's delete this, no need to mention this, and the last point that I say is that some of the older clusters that we were previously performing showed a slight decline, positions are able.",
+            "timestamp": "00:31:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Again, when I say older clusters, I just know the context.",
+            "timestamp": "00:31:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So typically, our well-performing articles are this, look, AI agents, AI-powered automation, software integrations, construction, blah, blah, blah, they are our older clusters, and this is also our older cluster.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But as an overall tendency, I can say that most of our older clusters that were underperforming last week started to get stable.",
+            "timestamp": "00:31:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Does it make sense?",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "whatever, 5%, 4%.",
+            "timestamp": "00:31:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, most of the older clusters that we're forming last week, I know it's not ideal, we can delete this, and then let's just take an overall look to it.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is not a relevant thing for us to report, these clusters are typically underperforming, and they have very low URLs inside, so I ignore this.",
+            "timestamp": "00:32:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "AI agents for mining, AI agents for finance, and AI agents for transportation, I think this is slightly newer articles, and it's good to mention that AI agents for marketing, mining companies, finance, and transportations grow.",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because these ones were not that much of stable last week.",
+            "timestamp": "00:32:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I would try to include this.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Any agents for marketing, mining, companies, finance, transportation have been performing well this week.",
+            "timestamp": "00:33:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, and I would say that that's it.",
+            "timestamp": "00:33:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can also include, you can also include, okay, sorry, please go on.",
+            "timestamp": "00:33:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "I have to jump to another meeting very soon.",
+            "timestamp": "00:33:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Oh, really?",
+            "timestamp": "00:33:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, so this, the last one there, LLM traffic, including, so then do you go to anywhere else?",
+            "timestamp": "00:33:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, yeah, yeah, just, we're going to do this very quick.",
+            "timestamp": "00:33:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is the LLM traffic chart here.",
+            "timestamp": "00:33:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let's select, again, 2024.",
+            "timestamp": "00:33:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We need the October here.",
+            "timestamp": "00:33:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We need, sorry, let me.",
+            "timestamp": "00:33:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So just for that week from Monday to Sunday?",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, you can, like, initially we can glance on the full picture.",
+            "timestamp": "00:34:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I've seen that it was improvement, but to have the weekly improved performance data, I prefer to set the weekly filters.",
+            "timestamp": "00:34:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I would say that, hey, the LM traffic has been improved compared to last week.",
+            "timestamp": "00:34:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have seen the upward trend from chat, GPT, and perplexity, and Gemini declined.",
+            "timestamp": "00:34:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Is that the last thing that we would do for the agenda?",
+            "timestamp": "00:34:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, and you should also create the TLDR message.",
+            "timestamp": "00:34:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So my call is with Panzer, so I can't really miss it.",
+            "timestamp": "00:34:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I've got to hop on to that.",
+            "timestamp": "00:34:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Of course, of course.",
+            "timestamp": "00:34:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I hope it was helpful.",
+            "timestamp": "00:34:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This was very helpful, yeah.",
+            "timestamp": "00:34:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Are you able to finish that agenda?",
+            "timestamp": "00:34:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I can include the last point about the LLM, but.",
+            "timestamp": "00:34:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, make sure to edit the language because I was just pre-styling on a migrate.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sounds That's a great combination.",
+            "timestamp": "00:35:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:35:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, I'll do that.",
+            "timestamp": "00:35:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "And then whatever for the TLDR.",
+            "timestamp": "00:35:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "I think you showed me how do that once, Yeah, it's very simple.",
+            "timestamp": "00:35:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "I'll just look at the previous one and try to imitate it.",
+            "timestamp": "00:35:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, in case you have some questions, please just ping me.",
+            "timestamp": "00:35:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:35:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:35:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks.",
+            "timestamp": "00:35:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you, Nathan, for your time.",
+            "timestamp": "00:35:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you, Nika.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:35:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nika Narimanidze",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:35:32"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Train Nathan on the weekly agenda creation workflow.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=50.0)\n\n## Key Takeaways\n\n  - [**Looker Update:** Add new article URLs to Looker's GA4 (slugs) and GSC (full URLs) data sources via regex to ensure accurate weekly reporting.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=150.0)\n  - [**Weekly Reporting:** Analyze performance for the prior Monday\u2013Sunday (Oct 20\u201326) to capture a full week of data, using only Organic & Referral traffic.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=690.0)\n  - **Key Findings:** Overall sessions declined slightly, driven by a drop in Google traffic. A key win was a +8 increase in \\#1 non-branded keywords (to 273).\n  - [**Content Strategy:** New clusters (e.g., AI at Scale) are attracting impressions, while some previously strong clusters (e.g., AI Agents for Healthcare) saw a decline, requiring further observation.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1594.0)\n\n## Topics\n\n### Looker Data Source Update\n\n  - [**Goal:** Add new article URLs to Looker's data sources to enable accurate weekly performance tracking.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=150.0)\n  - [**Process:**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=150.0)\n    1.  [Log in to Looker using Kim's account (required for access).](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=150.0)\n    2.  [Navigate to the `DataGrid` space \u2192 `Edit` \u2192 `Manage Edit Data Sources`.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=160.0)\n    3.  **GA4 Update:**\n          - [Edit the GA4 data source \u2192 find the field with the `fx` icon.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=215.0)\n          - [Generate regex for new article slugs and their `template category` using the Teams ChatGPT prompt: \"This is a GA4 Regex formula, and I have to update more URLs and categorize, just like a ball.\"](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=409.0)\n          - [Paste the regex into the field. Correct formatting is confirmed by the color-coding.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=489.0)\n    4.  **GSC Update:**\n          - [Edit the GSC data source \u2192 find `URL List 5` with the `fx` icon.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=524.0)\n          - [Generate regex for the full URLs of new articles using the Teams ChatGPT prompt: \"now we are doing this for GSC, and the format that I need here is URLs are the same.\"](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=541.0)\n          - [Paste the regex into the field.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=489.0)\n\n### Weekly Performance Analysis\n\n  - [**Goal:** Analyze Looker data to populate the weekly agenda document.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=644.0)\n  - [**Global Filters:**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=690.0)\n      - [**URL Cohorts:** Untick `non-growthx URLs` to focus on owned content.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=690.0)\n      - [**Date Range:** Prior Monday\u2013Sunday (e.g., Oct 20\u201326) to capture a full week.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=690.0)\n      - [**Mediums:** Select `Organic` and `Referral`.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=754.0)\n  - [**Key Findings (Oct 20\u201326):**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=769.0)\n      - [**Overall Performance:** Slight session decline.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=769.0)\n          - [**Driver:** Reduced Google traffic.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1034.0)\n          - [**Counter-Trend:** ChatGPT traffic increased.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1034.0)\n      - [**Non-Branded Keywords:**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1100.0)\n          - [Impressions: Slightly down.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1100.0)\n          - [Clicks: Stable.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1100.0)\n          - \\#1 Rankings: **Increased by 8** to 273.\n      - [**Content Cluster Performance:**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1304.0)\n          - [**Declining:** AI Agents for Healthcare, Insurance, and Law.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1594.0)\n              - [**Significance:** This is the first decline after 4 weeks of growth.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1641.0)\n              - [**Action:** Observe for another week to confirm if it's a trend or anomaly.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1566.0)\n          - [**New Clusters Attracting Impressions:** AI at Scale, Customer Intelligence, Sales Acceleration, and Proposal & Project Management.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1691.0)\n          - [**Growing:** AI Agents for Marketing, Mining, Finance, and Transportation.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=1961.0)\n      - [**LLM Traffic:**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2014.0)\n          - [**Growth:** ChatGPT and Perplexity.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2062.0)\n          - [**Decline:** Gemini.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2062.0)\n\n## Next Steps\n\n  - [**Nika:**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2094.0)\n      - [Complete the LLM traffic analysis in the agenda.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2014.0)\n      - [Refine the agenda's language for clarity.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2094.0)\n  - [**Nathan:**](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2078.0)\n      - [Create the TLDR summary for the agenda.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=2078.0)\n      - [Update the Notion meeting page with the final agenda and guest list.](https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd?tab=summary&timestamp=85.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Add TLDR to Sync 45 Notion agenda",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:34:27",
+            "recording_playback_url": "https://fathom.video/calls/459457883?timestamp=2067.9999",
+            "assignee": {
+                "name": "Nathan Navidzadeh",
+                "email": "nathan@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Finalize Sync 45 Notion agenda: add LLM, proofread, send to Tiago + Caitlin",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:34:43",
+            "recording_playback_url": "https://fathom.video/calls/459457883?timestamp=2083.9999",
+            "assignee": {
+                "name": "Nika Narimanidze",
+                "email": null,
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Nathan Navidzadeh",
+            "email": "nathan@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Nathan Navidzadeh"
+        }
+    ],
+    "recorded_by": {
+        "name": "Nathan Navidzadeh",
+        "email": "nathan@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/3ZafjxKVshzKbeewUBBVPu2GDUagmcrd",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

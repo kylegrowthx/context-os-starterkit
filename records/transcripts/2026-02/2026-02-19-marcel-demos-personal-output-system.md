@@ -5,39 +5,154 @@ date: 2026-02-19
 time: 19:00 UTC
 duration: 72 minutes
 organizer: marcel@growthxlabs.com
-participants: Clint Shryock, Stefano Zanata, Marcel Santilli, Ben Church, Daniel Lopes
+participants:
+  - name: Marcel Santilli
+    company: GrowthX
+    role: CEO
+  - name: Daniel Lopes
+    company: GrowthX
+    role: CTO
+  - name: Ben Church
+    company: GrowthX
+    role: VP Product
+  - name: Clint Shryock
+    company: GrowthX
+    role: VP Engineering
+  - name: Stefano Zanata
+    company: GrowthX
+    role: Principal Engineer
 fireflies_id: 01KH96HM55YEGA24Q7PTDEFXF6
 transcript_url: https://app.fireflies.ai/view/01KH96HM55YEGA24Q7PTDEFXF6
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel demonstrated a context engineering system that has delivered tenfold productivity gains through organized AI workflows, curated knowledge files, and automated processes. The team discussed a multi-stage research pipeline using Claude Cowork for high-quality outputs and the challenges of integrating complex AI workflows. Plans for company-wide workshops on context engineering were emphasized, along with strategies for evolving the AI framework to support modular, reusable workflows. A new archetype of "automation engineers" was identified, representing non-traditional engineers blending domain expertise with AI tooling.
+Marcel demonstrated a context engineering system achieving 10x productivity gains through structured knowledge curation, AI workflows, and automated indexing. The team aligned on three priorities: packaging workflows as reusable micro-apps, building a scalable API gateway for unified workflow execution across products, and educating the company on context-native knowledge work. A new role emerged—"automation engineers"—bridging domain expertise and AI tooling, representing rapid market shift toward democratized AI development.
+
+---
+
+## Context
+
+Marcel has spent months building a personal productivity system centered on "context engineering"—organizing company knowledge, voice guidelines, decision-making personas, and AI-native workflows into a structured workspace accessible to Claude and Cursor agents. This system powers GrowthX's content marketing service and informs the design of CheckThat (OpenAI visibility index). The leadership team (Daniel Lopes/CTO, Ben Church/VP Product, Clint Shryock/VP Engineering, Stefano Zanata/Principal Engineer) gathered to evaluate whether this personal model can scale into Output, the company's planned AI workflow automation product. The conversation explores both the technical architecture (storage, APIs, workflow composition) and organizational implications (new role types, skill distribution, knowledge management practices).
+
+---
+
+## Relevance
+
+**CheckThat (Product Strategy)**
+- Context engineering architecture informs design decisions for Output's workflow automation platform
+- Storage and API challenges identified are core product infrastructure needs
+- User research on "automation engineers" shapes go-to-market and feature prioritization
+
+**GrowthX Services (Operations & Delivery)**
+- Context curation approach directly enables high-quality content marketing delivery at scale
+- Proposed company-wide workshops on context engineering directly impact team productivity
+- Knowledge management practices model extends to scaling team across new engagements
+
+**Technology & Infrastructure**
+- Global API gateway design proposed for unified workflow execution across products
+- Temporal server integration and distributed execution architecture discussed
+- MCP (Model Context Protocol) server integration patterns identified as critical and unstable
+
+**Team & Organization**
+- New "automation engineer" archetype identified (George, Tammy, Sergey as examples)
+- Shift toward democratized AI engineering suggests hiring and team structure implications
+- Knowledge work productivity multiplier (10x claimed) impacts hiring needs and capacity planning
+
+---
+
+## Decisions & Commitments
+
+**Agreed Priorities for Output Platform**
+1. Package Marcel's workflows as reusable micro-apps with skill registry and reproducible validation
+2. Design global API gateway for unified workflow execution, supporting bring-your-own Temporal server pattern
+3. Establish dedicated storage service for context/metadata management separate from core product
+
+**Sequencing & MVP Scope**
+- Prioritize web product stabilization: cost tracking, Sentry integration, error monitoring before advanced AI features
+- Defer complex storage/workflow embedding into framework; focus on best-practice documentation and education
+- Personal/hyper-individualized workflows remain internal tools, not product features
+
+**Organizational Commitment**
+- Marcel to lead 5-hour company-wide workshop on context engineering and AI workflow setup
+- Maintain and share company handbook and starter kit repositories for team adaptation
+- Establish standardized VS Code workspace setup combining product code and handbook for AI-native development
+
+---
+
+## Open Questions
+
+- How to handle MCP server integration stability and error handling at production scale?
+- What storage abstraction best supports both short-term and long-term memory patterns for AI workflows?
+- How to evaluate and maintain quality consistency for user-generated workflows via skill registry?
+- What organizational structure best supports "automation engineers" (hiring, reporting, skill development)?
+- How aggressive should Output pursue external user adoption vs. internal GrowthX use cases?
 
 ---
 
 ## Action Items
 
-**Marcel Santilli**
-- Conduct workshops for company-wide AI coaching and onboarding on context engineering and workflow setup
-- Share and maintain the company handbook and starter kit repositories for team access and adaptation
-- Continue refining AI skills, rules, and folder structures to improve automation maintainability and accuracy
+**Marcel Santilli (GrowthX/CEO)**
+- Conduct 5-hour company-wide workshop on context engineering, AI workflow setup, and knowledge curation best practices
+- Publish company handbook and starter kit repositories with documentation on folder organization and maintenance practices
+- Continue refining AI skills, rules, and folder structures; document lessons learned for team adoption
 
-**Daniel Lopes**
-- Focus on integrating reusable workflows/micro apps into the Output framework and consider API unification for workflow execution across products
-- Prioritize essential framework features including Sentry integration and cost tracking before expanding large AI capabilities
-- Recruit engineering manager for the 4Deploy team to support automation engineers with AI workflow development and deployment
+**Daniel Lopes (GrowthX/CTO)**
+- Lead technical design for Output platform: integrate reusable workflows as micro-apps, plan API unification for cross-product execution
+- Establish MVP scope: prioritize Sentry integration, cost tracking, and error monitoring before advanced AI features
+- Recruit engineering manager for 4Deploy team to mentor automation engineers on AI workflow development and deployment
 
-**Stefano Zanata**
-- Begin conceptualizing global API endpoints facilitating scalable, distributed workflow execution potentially supporting external Temporal servers
+**Stefano Zanata (GrowthX/Principal Engineer)**
+- Conceptualize global API gateway architecture supporting distributed workflow execution with bring-your-own Temporal server pattern
+- Design storage service abstraction for context, metadata, and long-term/short-term memory management
 
-**Ben Church, Clint Shryock, Stefano Zanata, and Marcel Santilli**
-- Have follow-up discussions for feedback on new ideas and roadmap refinement
+**Ben Church (GrowthX/VP Product)**
+- Gather team feedback on "automation engineer" archetype (role definition, skill requirements, career path)
+- Document emerging user archetypes and market signals for product strategy refinement
 
-**Unassigned**
-- Explore packaging Marcel's complex workflows into reproducible, validated workflows or micro apps for easier company adoption and sharing
+**Cross-Functional (Ben Church, Clint Shryock, Stefano Zanata, Marcel Santilli)**
+- Schedule weekly follow-up meetings to refine roadmap, implementation approach, and organizational structure
+- Establish standards for VS Code workspace setup and multi-folder AI development practices
+
+**Unassigned/Next Sprint**
+- Package Marcel's complex workflows as reproducible, validated micro-apps for skill registry and team sharing
+- Define evaluation criteria and quality assurance process for user-generated workflows in Output platform
+
+---
+
+## Overview & Key Topics
+
+**System Architecture & Design**
+- Context engineering model: folder structures, voice/persona/knowledge curation, automated indexing, MCP server integration
+- Multi-stage research pipeline: input → scratchpad → output → study guides (with Claude Cowork execution)
+- Storage challenges: context metadata, chunk overlap, short-term vs. long-term memory abstractions
+- Proposed solutions: dedicated storage service, global API gateway, Temporal server integration for distributed execution
+
+**Workflow Composition & Packaging**
+- Current: modular local file I/O with remote execution
+- Target: reusable skills/micro-apps via registry, composable workflows (workflows calling other workflows)
+- QA approach: offline evaluation loops using Phoenix frameworks, consistent voice/persona outputs for testing
+
+**Organizational & Market Dynamics**
+- Emerging "automation engineer" archetype: non-traditional coders with domain expertise learning AI tooling
+- Examples: George, Tammy, Sergey rapidly adopting Cursor and Claude for workflow automation
+- Market signal: split between web app users and technical users narrowing faster than expected
+- Implication: hiring, team structure, skill development strategies must adapt
+
+**Output Platform Product Implications**
+- Use case fit: repeatable, consistent workflows well-suited; hyper-individualized use cases better as personal tools
+- MVP priorities: stabilize core product, cost tracking, error monitoring before advanced AI features
+- Scaling strategy: education on context curation, folder organization, best-practice guides over embedded complexity
+- Integration pattern: VS Code workspaces combining product code and handbook for multi-folder AI sessions
+
+**Company Knowledge Management**
+- Company handbook converted to AI-readable workspace (methodology, benchmarks, product vision, operational context)
+- Starter kit created for replication (2-hour setup reveals significant "aha moments")
+- Ongoing requirements: regular cleanup, rule updates, context integrity maintenance
 
 ---
 

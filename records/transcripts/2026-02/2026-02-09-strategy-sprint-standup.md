@@ -4,729 +4,314 @@
 date: 2026-02-09
 time: 16:30 UTC
 duration: 65 minutes
-organizer: leah@growthx.ai
-participants: Sydney Arin Go, Ademilade Shodipe-Dosunmu, Aida Knezevic, Ella Dillon, Hassan Rashid, Marisol Smith, Victor
+organizer: Ella Dillon (leah@growthx.ai)
+participants:
+  - Ella Dillon (elladillon) — Founder, Services Leadership
+  - Aida Knezevic — Engagement Manager, Lead
+  - Sydney Arin Go — Production Manager
+  - Ademilade Shodipe-Dosunmu (Ade) — Content Strategist
+  - Hassan Rashid — Content Strategist
+  - Marisol Smith (Victor) — Copywriter
+  - Ifeoluwa Adekoya — Content Strategist, Tonstyle
 fireflies_id: 01KGMR8WRQTKG9ZVBDBP1ZS8XQ
 transcript_url: https://app.fireflies.ai/view/01KGMR8WRQTKG9ZVBDBP1ZS8XQ
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Weekly strategy sprint standup covering client engagement status across multiple accounts. The team addressed delivery delays on Black Salt, steady progress on Ramp and Networks, a publishing hold on CRV due to website rebranding, and operational improvements including formalizing EM assignments and out-of-office handoff templates. Upcoming kickoffs for Elementum and Spendesk were discussed along with Looker dashboard setup and client KPI documentation.
+Weekly strategy sprint standup for the GrowthX services delivery team reviewing account status across 12+ active engagements. Key outcomes: Black Salt in final sprint week with delayed content requiring remediation support; Networks progressing toward six-week bottom-of-funnel content plan; CRV publishing held pending website rebrand completion; Elementum and Spendesk kickoffs scheduled this week. Structural improvements committed: formalize out-of-office handoff templates, add Looker dashboard setup to pre-kickoff checklist, and establish customer KPI documentation protocol.
 
 ---
 
 ## Context
 
-This is the weekly strategy sprint standup where engagement managers review the status of all active client accounts. The meeting covers delivery timelines, content production progress, client feedback, and any blockers or escalations. It's a core operational rhythm for GrowthX's services delivery team, ensuring cross-account visibility and early intervention on at-risk engagements.
+This is the weekly strategy sprint standup where GrowthX's engagement managers review all active client accounts, tracking delivery timelines, content production progress, client feedback, and blockers. Ella Dillon leads as founder overseeing services delivery, with Aida Knezevic serving as lead engagement manager. The team manages a portfolio of 12+ B2B content marketing clients spanning pre-kickoff through growth phases, with engagements ranging from foundational strategy work to scaling published content for pipeline influence.
 
-The team is managing a growing portfolio of B2B content marketing clients at various stages — from pre-kickoff to active growth. Several process improvements are in flight, including standardizing pre-kickoff checklists, formalizing handoff documentation, and integrating Looker dashboards earlier in the engagement lifecycle.
+This meeting represents a critical operational rhythm for services: cross-account visibility enables early intervention on at-risk deliverables and prevents momentum loss. The team discussed both client-specific progress and structural improvements needed to scale their operations — particularly pre-kickoff standardization and handoff clarity when team members are out of office.
 
 ---
 
-## Relevance
-
 **To GrowthX Services Delivery:**
-- Black Salt delivery delays highlight the need for early alert systems and backup resource mobilization
-- CRV publishing hold due to website rebrand creates momentum risk that needs active management
-- Panther's new CMO is shifting content focus to bottom-of-funnel (listicles, comparisons), requiring keyword research adjustments
-- Networks client education on AI prompt tracking and data transparency is an ongoing effort
+- **Black Salt** (final sprint week): Production delays from article feedback regeneration + team illness reveal need for proactive early alert system so team can wrap around delivery gaps. Client relationship strong enough to absorb one delay if it doesn't repeat.
+- **CRV**: Publishing hold pending website rebrand risks momentum and early wins. Hassan to clarify rebrand timeline and assess whether content can publish ahead of completion.
+- **Panther**: New CMO prioritizes bottom-of-funnel content (listicles, comparisons). Requires keyword research pivot and potential reframing of content roadmap for 3-6 month impact.
+- **Networks**: Client education on CheckThat needed — LLM data is inferred, not directly shared. Publishing-first approach endorsed by CMO reduces internal review bottleneck.
+- **Witness**: March board meeting requires website performance analysis; Dave needs separate call to share lead generation tracking setup.
 
-**To Operations & Process:**
-- Pre-kickoff checklist being formalized with Looker dashboard setup as a mandatory item
-- Out-of-office handoff template will be standardized to improve coverage during absences
-- Client KPI documentation to be pinned and regularly reviewed in updates
+**To Operations & Process Improvement:**
+- **Pre-kickoff checklist**: Looker dashboard setup should be mandatory at week 1, completable within 24 hours (Suleiman capacity). Currently being formalized.
+- **Out-of-office coverage**: George covering Daylight/Talon during Cassie's absence; formal handoff template needed to prevent coverage gaps and action item slippage.
+- **Client KPI documentation**: Should be pinned in account channels and reviewed at each standup to ensure team proactively manages success metrics against actual delivery.
+- **EM assignments**: Pre-kickoff accounts need EM confirmation 2 weeks ahead to ensure pre-work (checklists, competitive review, documentation) can complete on schedule.
 
-**To CheckThat:**
-- Access issues to CheckThat workspace being resolved for Panther and Telera clients
-- Integration support needed across multiple client accounts
+**To CheckThat & Integration:**
+- Access/workspace setup issues blocking adoption at Panther and Telera. Strategic meeting needed with Jason, Marcel, Nigel, Andy to clarify free vs. paid positioning and onboarding workflows.
+
+---
+
+## Decisions & Commitments
+
+**Immediate Actions:**
+- Sydney to follow up with Natalie (Black Salt producer) on whether backup production support is needed; explore Common Extractor pipeline integration to surface feedback faster
+- Aida to update Black Salt client today/tomorrow on production delays and frame as quality refinement
+- Hassan to clarify CRV website rebrand timeline and assess if publishing can proceed ahead of completion
+- Aida to file Looker dashboard ticket for Talon (Suleiman to complete within 24 hours)
+- Ella to scan Slack for blockers on Proloa/Talon during William's absence
+
+**Structural Improvements Committed:**
+- Ella to finalize EM assignments for pre-kickoff accounts (Assault, Health, JAMA, Giga) by end of week
+- Ella to formalize out-of-office handoff template with clear action item ownership (will follow up post-meeting with William, George, Kathy, Ada)
+- Add Looker dashboard setup to pre-kickoff checklist (target: week 1 for all new engagements)
+- Pin customer KPI documentation in account channels and review at each standup to proactively track success metrics
+
+**Content & Client-Specific:**
+- Networks: Ademilade to stage content with feedback edits and finalize authorship decision (generic vs. named); Aida to confirm calibration article is ready to publish
+- Panther: Aida to follow up on CheckThat workspace access issue with Stevie and Carrie
+- Talon: File Looker dashboard ticket and provide William with setup walkthrough this week
+- Witness: Aida to prep website performance analysis for March board meeting; follow up with Dave on lead generation tracking setup
+- Elementum: Aida to confirm competitor messaging approach with CEO during kickoff
+- Spendesk: William to engage French and German editors immediately (coordinated with Sydney/Panzer) to have bilingual capability in place
+- Tonstyle: Ifeoluwa to audit artifacts for persistent quality issues before growth team handoff; confirm all earlier corrections are reflected
+
+---
+
+## Open Questions
+
+- **Tablets/Tablets**: Is the content strategy fully fleshed out and approved by client, or is it still in draft? Becerra to check Fathom/Notion for last week's meeting recording and client feedback before proceeding with content OS setup.
+- **Witness**: How is Dave tracking website performance/lead generation? Will schedule separate call to understand setup.
+- **CheckThat**: Clear strategy needed on free vs. paid positioning, customer onboarding workflows, and workspace access setup (strategic meeting pending).
+- **Daylight**: Can Maya's request for competitor insight visibility in content OS be implemented, or do we need alternative approach?
 
 ---
 
 ## Overview
 
-- Black Salt facing delivery delays due to article feedback regeneration and team illness; remediation plan in place
-- Ramp delivering steadily with three articles and four posts published last week
-- Networks received positive feedback; six-week bottom-of-funnel content plan in progress
-- CRV has six of nine articles reviewed with minor feedback, but publishing held for website rebrand
-- Panther progressing with four blogs published; new CMO shifting focus to bottom-of-funnel content
-- Talon awaiting strategy approval; Looker dashboard to be set up within 24 hours
-- Daylight calibration and content calendar in progress with competitor insight requests
-- Elementum kickoff scheduled with CEO participation for deep strategic alignment
-- Spendesk kickoff requires bilingual content support (French, German editors)
-- EM assignments for pre-kickoff accounts need finalization
-- Tonstyle flagged for artifact quality issues requiring audit before growth handoff
+**Active Growth Accounts (In-Cycle):**
+- **Black Salt** (Final Sprint Week): Owes content from prior week + current week. Article feedback regeneration + Natalie's illness created gap. Client relationship strong; remediation plan: Sydney mobilizing backup production support and implementing Common Extractor pipeline to surface feedback faster. Risk level: Medium (final sprint delivery; good relationship buffer).
+- **Ramp**: On pace. Three articles + four posts published last week; Victoria happy. Continuing same cadence this week.
+- **Networks**: Moving well. Positive feedback from Marielle on articles. Aida moving to six-week bottom-of-funnel content plan to eliminate internal content overlap. Workflow change: publish-first, product marketer reviews post-publication (CMO endorsed to remove blockers).
+- **CRV**: Six of nine articles reviewed with minor feedback — all updated. Hassan securing leadership strategy doc. Publishing held pending website rebrand timeline clarification (risk if delay extends).
+- **Panther**: Four blogs published. New CMO (started last week) pivoting to bottom-of-funnel (listicles, comparisons). Already met with Kathy and Tyler (strategic alignment done). Anna (new PMM) granted Looker + CheckThat access; workspace setup needs follow-up.
+- **Witness**: Product deep dive scheduled. Prepping writing guidelines and service matrix; reviewing against recent brand repositioning. Dave (customer) has own lead gen tracking system — separate call needed to align. Board presentation in March requiring website performance analysis.
+
+**Pre-Kickoff Accounts (Requiring EM Assignment):**
+- **Assault, Health, JAMA, Giga**: No EM assignments yet (two weeks out — best practice requires assignment now for pre-work). Ella to confirm post-meeting with William, George, Kathy, Ada.
+
+**In-Strategy/Early Engagement:**
+- **Proloa**: Covered by William (out of office). Delivered calibration Friday; POC reviewing. No flags from last week's discussion. Ella scanning Slack as backup.
+- **Talon**: Delivered calibration Friday. Isabella reviewing today. Content calendar pending client feedback. Ade has five+ articles in "Ready to Draft" status. Looker dashboard ticket being filed (24-hr completion). William will walk them through this week.
+- **Daylight**: Calibration + content calendar in progress (Ade working). George presenting strategy (covering for Cassie who is out). Maya requesting competitor insight visibility in content OS — Ade to assess feasibility. Case studies not cleared for use.
+- **Tablets/Tablets**: Week 3 (strategy presentation week 2 — Thursday last week). Content OS setup blocked pending client feedback on strategy. Becerra (sick today) to check Notion/Fathom for approval status.
+
+**Upcoming Kickoffs (This Week):**
+- **Elementum** (Aida leading): CEO participating. Agenda prepared emphasizing deep strategic download from CEO. Limited internal documentation — relying on CEO insights. CMO liked kickoff questions. Two slide decks reviewed. AI workflow optimization platform (Palantir competitor, enterprise-only, $2M+ ARR minimum). Primary goal: brand awareness first, then buyer influence. Aida to confirm competitor messaging approach (they don't want to make enemies, but we can talk about competitors).
+- **Spendesk** (William leading): Bilingual content requirements (French, German editors). William to engage his known French/German editors immediately; Sydney coordinating with Panzer to have capability ready now for post-conversion handoff.
+
+**Pre-Conversion Quality Flag:**
+- **Tonstyle** (Final Sprint Week): 21 articles published. Persistent artifact quality issues flagged — terms with dual definitions (standard accounting vs. quote-to-cash), tiered pricing standard vs. strategy. Ifeoluwa conducting comprehensive artifact audit to ensure all prior corrections are held and no new issues introduced before handoff to growth team. William noted: "don't mark as green for growth team due to persistent issues — need to hand over ticked and tied and tight."
 
 ---
 
 ## Key Topics
 
-### Black Salt Delivery Delays
-- Content owed from previous week plus current week, creating pressure in final week before conversion
-- Article feedback caused regeneration; compounded by team illness
-- Ella stressed early alerts on delays to mobilize support
-- Client relationship strong enough to absorb a one-time delay if it doesn't recur
+### Black Salt — Delivery Pressure in Final Sprint Week
+Black Salt is in week 8 (final sprint before conversion). The engagement currently owes content from the prior week plus this week's output. The delay stems from two factors: (1) article feedback requiring regeneration, and (2) Natalie (production manager) out sick, which blocked her weekend catch-up plan.
 
-### Networks Client Education
-- Client skepticism about AI prompt tracking and data transparency
-- Aida clarified LLM data is inferred, not directly shared
-- Cited recent studies showing significant executive use of LLMs to reinforce relevance
-- Publishing approach: publish first, let product marketers review post-publication to reduce bottlenecks
+Ella emphasized: "If we're off pace, we need to know prior to deadline so we can wrap around and remediate." She noted the expectation is non-negotiable — deliver against commitments even when life happens. Sydney is exploring backup production support and a new Common Extractor pipeline to surface feedback from all articles at once, reducing revision cycles.
 
-### CRV Publishing Hold
-- Website rebrand blocking content publication
-- Hassan to clarify rebrand timeline and assess if content can publish ahead of completion
-- Internal leadership alignment docs created — active support without skepticism
-- Risk of losing momentum and early wins if hold extends
+**Risk assessment**: Client relationship is strong enough to absorb a one-time slip if it doesn't repeat. However, converting a client while under delivery pressure creates momentum risk — team needs to demonstrate capability and consistency to justify growth team fees.
 
-### Panther Content Shift
-- New CMO prioritizes bottom-of-funnel content: listicles, comparisons
-- Access issues to Looker and CheckThat being resolved
-- Keyword research adjusting to meet new priorities for 3-6 month impact
+### Networks — Client Education on CheckThat Data Transparency
+Philip (Networks stakeholder) questioned whether CheckThat tracks actual LLM user data — expressed skepticism about the approach. Aida clarified: LLMs never share direct user data (worth billions in competitive value); CheckThat infers evaluation-stage prompts that audiences would reasonably ask.
 
-### Process Improvements
-- Looker dashboard setup added to pre-kickoff checklist (Suleiman can complete in 24 hours)
-- Out-of-office handoff template to be formalized
-- Client KPI documentation to be pinned and regularly reviewed
-- EM assignments to be confirmed two weeks before kickoff
+Aida also cited supporting evidence: recent research shows 20-25% of executives use LLMs for product research, reinforcing content relevance in this category. She framed the education as necessary — the alternative is tracking nothing and having no AEO visibility at all.
 
-### Upcoming Kickoffs
-- Elementum: CEO participating; AI workflow optimization platform competing with Palantir; cautious competitor messaging approach
-- Spendesk: Bilingual content needs; William engaging French and German editors
+**Publishing workflow decision**: Networks' CMO endorsed a publish-first, review-after approach to eliminate internal review bottlenecks. This is a win because it removes Aida's dependency on weekly stakeholder sign-off and allows faster content flow.
+
+### CRV — Website Rebrand Creating Publishing Hold
+CRV has completed review of six of nine articles (all with minor feedback that Hassan has already updated). However, the client is holding publication pending their website rebrand completion. Hassan needs to clarify the rebrand timeline and assess whether content can publish ahead of the rebrand completing (ideal: content publishes now and automatically carries over to rebrand without link updates).
+
+**Ella's concern**: Publishing holds hurt because they prevent early wins and momentum demonstration. If the hold extends, it becomes a risk — team loses the chance to show results before client leadership attention shifts or budget priorities change (she cited post-conversion trend where clients panic and pivot to paid channels).
+
+Hassan creating internal leadership alignment docs, so there's no stakeholder skepticism on the GrowthX side — just the rebrand timeline question.
+
+### Panther — New CMO Shifting Content Strategy
+Panther's new CMO (started last week) is reorienting content roadmap toward bottom-of-funnel (listicles, comparisons) to drive lead generation impact — different from the top-funnel awareness content that was underway.
+
+**Client relationships**: Kathy and Tyler already met with the new CMO (strategic GrowthX intro completed). Anna (new PMM) was just granted Looker and CheckThat access. Aida needs to follow up with Stevie and Carrie to clarify CheckThat workspace access so Anna can see the data.
+
+**Keyword research pivot**: Aida is adjusting keyword recommendations to meet bottom-of-funnel priorities. Timeline for impact: 3-6 months. Current messaging to client: "We know this is important to you; here's the content we're creating; this will drive direct impact on your bottom line."
+
+### Networks Publishing Workflow — Removing Internal Review Bottleneck
+Networks' standard workflow: product marketers and product managers review drafts before publication. Aida pitched a change: publish first, then product marketers review and fix as needed (async, post-publication). The CMO supported this to remove blockers.
+
+Aida also exploring whether they can use a generic "Networks Team" author instead of individual employee names in the CMS, reducing dependency on specific people being available. Ademilade to check if that's an option in their CMS setup.
+
+### Pre-Kickoff Standardization & EM Assignment
+Ella introduced the Assault/Health/JAMA/Giga cohort coming in two weeks. None have EM assignments yet. Best practice: assign EM two weeks pre-kickoff so pre-work (checklists, competitive review, content documentation) can complete on time. Ella to confirm assignments post-meeting with William, George, Kathy, and Ada.
+
+### Operational Improvements Committed
+Three items flagged for immediate formalization:
+
+1. **Out-of-office handoff template**: Current state: George, William, Kathy, and Aida had a verbal sync on action items during Kathy's absence. Ideal state: formal doc template so handoff is clear and checkable. Aida noted out-of-office docs have been a loose practice for a couple months — should be templatized.
+
+2. **Looker dashboard in pre-kickoff checklist**: Currently, dashboards are filed as tickets during early engagement. Best practice: move to week 1 of pre-kickoff so it's mandatory. Suleiman can complete in under 24 hours. This ensures customers have visibility earlier and team can walk them through during kickoff week.
+
+3. **Client KPI pinning**: Ella requested that customer success metrics be pinned in account channels so team can reference them at each standup. Purpose: ensure team is proactively managing against customer-stated success definitions rather than drifting. Doesn't need to move every week — just stay visible for team discipline.
+
+### Upcoming Kickoffs — Elementum & Spendesk
+**Elementum** (Aida): CEO-led kickoff. Elementum is an AI workflow optimization platform that helps enterprises implement AI correctly to see ROI (vs. chaotic ad-hoc implementation). Direct competitor: Palantir (but Palantir requires on-site engineers; Elementum is more nimble). They only work with enterprise clients generating $2M+ ARR per company. CMO is SEO-knowledgeable, set realistic expectations (brand awareness first, then buyer influence). Aida reviewed CEO's LinkedIn posts and embedded them in kickoff agenda to prompt deeper discussion. Strategy: diving deep because they have minimal internal documentation.
+
+**Spendesk** (William): Requires bilingual content (French and German). William committed to engaging his known French and German editors — this needs to happen now so capability is ready for rapid post-conversion handoff.
+
+### Witness — Early Engagement, Board Presentation Prep
+Witness has 1,550+ articles on site already. Dave (CMO) is SEO-savvy and not skeptical of content marketing (realistic expectations). Six-month success metric: organic traffic converting to demo requests/contact form submissions (not direct conversions). Dave has his own lead generation tracking system — separate call needed to understand what he's tracking and how to align reporting.
+
+**Board meeting in March**: Aida to prep website performance analysis (organic visibility snapshot) for their board presentation.
+
+### Tonstyle — Quality Audit Before Growth Handoff
+Tonstyle is in final sprint week with 21 articles published. Ifeoluwa flagged persistent artifact quality issues: certain terms have dual definitions (standard accounting definition vs. quote-to-cash definition), and this has been flagged before but keeps recurring.
+
+William's feedback: They converted because of heavy investment in us, but don't mark as "green" for growth team because of these persistent issues. Ifeoluwa to conduct comprehensive artifact audit to ensure all prior corrections are held and no regression. Handoff should be "ticked and tied and tight" so growth team can focus on scaling, not fixing quality.
 
 ---
 
 ## Action Items
 
-**Sydney Arin Go**
-- Follow up with Natalie on production support for Black Salt to catch up delays
-- Clarify CheckThat access and integration issues for Telera and Panther
-- Confirm status and strategy presentation for Tablets account
+**Sydney Arin Go (Production Manager)**
+- Follow up with Natalie on whether backup production support is needed for Black Salt this week
+- Work with Tammy to integrate Common Extractor pipeline into Strategy Sprint workspaces to surface all article feedback and streamline revision cycles
+- Clarify CheckThat access issues for Telera with support team
+- Confirm Tablets strategy approval status with Becerra
+- Coordinate with Panzer on French and German editor engagement for Spendesk bilingual prep (work with William)
 
-**Ademilade Shodipe-Dosunmu**
-- Complete Phase One audit including keyword research overlaps and refresh notes before kickoff
-- Work on Networks content calendar and investigate CMS authorship options
-- Develop Daylight calibration and content calendar with changelog visibility
-- Conduct artifact audit for Tonstyle before growth team handoff
+**Ademilade Shodipe-Dosunmu (Content Strategist)**
+- Complete Phase One audit for Networks (keyword research overlaps, content refresh notes) — stage content with feedback updates and finalize authorship approach (generic vs. named) by tomorrow
+- Stage Networks content with Marielle's feedback and confirm calibration article is ready to publish
+- Assess Daylight content OS for feasibility of competitor insight visibility; if not simple, propose alternative approach
+- Develop Daylight calibration and content calendar with changelog visibility (strike-throughs, highlights)
+- Conduct comprehensive artifact audit for Tonstyle before growth team handoff — ensure all prior quality corrections are held and no regression introduced
+- Check Tablets/Talon Looker ticket after Aida files it
 
-**Aida Knezevic**
-- Update Black Salt client on production delays and remediation plans
-- Manage Networks publishing process and client education on AI data
-- Follow up on CRV publishing hold and website rebrand timeline
-- File Looker dashboard ticket for Talon (24-hour completion)
+**Aida Knezevic (Lead Engagement Manager)**
+- Update Black Salt client today or tomorrow on production delays and frame as quality refinement in preparation for conversion
+- Confirm Networks calibration article approval status with Marielle
+- Send Networks six-week content plan and status update tomorrow
+- Follow up on CRV publishing hold — clarify website rebrand timeline and assess if content can publish ahead of completion (Hassan leading)
+- File Looker dashboard ticket for Talon (Suleiman to complete within 24 hours); William will walk Talon through setup this week
+- Follow up with Stevie and Carrie on CheckThat workspace access setup for Panther (Anna needs to access data)
+- Confirm Panther competitor messaging approach with CEO during Elementum kickoff
+- Prepare Elementum kickoff materials (agenda already shared Thursday)
 - Prepare website performance analysis for Witness board meeting in March
-- Lead Elementum kickoff preparation with deep CEO insights
-- Follow up on Panther's CheckThat workspace and Looker data sharing
+- Follow up with Dave (Witness) to schedule separate call on lead generation tracking setup
+- Sync Tablets status if strategy approval is unclear
+- Monitor pre-kickoff EM assignments with Ella post-meeting
 
-**Ella Dillon**
-- Confirm EM assignments for pre-kickoff projects post-meeting
+**Ella Dillon (Founder, Services Leadership)**
+- Confirm EM assignments for all pre-kickoff accounts (Assault, Health, JAMA, Giga) by end of week — follow up with William, George, Kathy, and Ada post-meeting
 - Scan Slack for blockers on Proloa and Talon during William's absence
-- Formalize out-of-office documentation template
-- Add Looker dashboard setup to pre-kickoff checklist
-- Maintain continuous client KPI documentation
-- Oversee Marcel's involvement in strategy reviews
-- Support bilingual content prep for Spendesk and coordinate editor hiring
+- Formalize out-of-office handoff template with clear action item ownership and coverage definitions
+- Add Looker dashboard setup to pre-kickoff checklist; ensure it's scheduled for week 1 for all new engagements
+- Pin customer success metrics (KPI documentation) in account channels so team reviews them at each standup
+- Follow up with William on Marcel's involvement cadence and Tuesday/Thursday meeting structure
+- Oversee strategic meetings on CheckThat free vs. paid positioning with Jason, Marcel, Nigel, Andy
 
-**Hassan Rashid**
-- Review and comment on CRV leadership strategy document
-- Update client on article review progress and coordinate publishing
-- Monitor Ramp article production and async communications
+**Hassan Rashid (Content Strategist)**
+- Review and comment on CRV leadership strategy document (confirm it's strategic positioning or just internal education)
+- Clarify CRV website rebrand timeline and assess if content can publish ahead of rebrand completion
+- Update CRV client on article review progress and coordinate publishing timeline
+- Monitor Ramp article production (three articles + four posts per week cadence)
+
+**Ifeoluwa Adekoya (Content Strategist, Tonstyle)**
+- Conduct comprehensive artifact audit for Tonstyle flagging all persistent quality issues (dual definitions, terms with conflicting meanings)
+- Ensure all prior corrections from earlier weeks are still reflected in published articles
+- Prepare artifact quality summary before growth team handoff
 
 ---
 
 ## Transcript
 
-**Aida Knezevic:** Hi.
+[Opening small talk about weekend and Seahawks celebrations removed for clarity]
 
-**elladillon:** Hello.
-
-**elladillon:** Hello.
-
-**elladillon:** Are you safe?
-
-**Aida Knezevic:** Yeah, yeah, I am home off camera, because I'm not camera ready.
-
-**elladillon:** I'm just traveling.
-
-**elladillon:** That's fair.
-
-**Aida Knezevic:** Yeah.
-
-**elladillon:** Yeah.
-
-**Aida Knezevic:** But no, no, I'm good.
-
-**Aida Knezevic:** How are you?
-
-**Aida Knezevic:** I'm doing really well.
-
-**elladillon:** I could probably.
-
-**elladillon:** I felt like I could use one more day of the weekend.
-
-**elladillon:** Would have been nice.
-
-**Aida Knezevic:** Yeah.
-
-**Aida Knezevic:** Yeah, totally.
-
-**Aida Knezevic:** No, because I. I kind of slept.
-
-**Aida Knezevic:** Through my flight, but it was one.
-
-**Aida Knezevic:** Of those, like, I. I was like kind of half asleep, half awake, which is, you know, kind of useless sleep, I think.
-
-**elladillon:** Yeah.
-
-**Aida Knezevic:** So I think I'm just gonna pass out tonight.
-
-**elladillon:** But being a non football person, I feel like I'm still, like, required to boast that the Seahawks won because I'm from Seattle.
-
-**Aida Knezevic:** Oh, yeah, yeah.
-
-**Aida Knezevic:** Our pilot said that on our flight.
-
-**elladillon:** So even though I don't really care, I feel like it's required that I act.
-
-**Hassan Rashid:** I was gonna say anyone from Seattle.
-
-**Hassan Rashid:** Congratulations.
-
-**Aida Knezevic:** That's nice.
-
-**elladillon:** All right, you go out for.
-
-**Hassan Rashid:** Did you see, like, the celebrations and like, Pip Place Market and stuff, my friend?
-
-**elladillon:** No, my.
-
-**elladillon:** I was like.
-
-**Aida Knezevic:** We.
-
-**elladillon:** We were like the.
-
-**elladillon:** The lamest people.
-
-**elladillon:** Like my mom, my brother, and my cousin came over and we had like, you know, the required seven layer dip and all the gross food you're supposed to eat.
-
-**elladillon:** And then probably everybody went to bed.
-
-**Aida Knezevic:** Like after everybody left.
-
-**elladillon:** But there was a lot of celebration.
-
-**elladillon:** Like, if I went outside with my dog, I could hear honking in the streets and.
-
-**elladillon:** Yeah, yeah, yeah, there's.
-
-**elladillon:** There'll be the parade for sure.
-
-**elladillon:** All right.
-
-**elladillon:** I thought I just saw.
-
-**elladillon:** Oh, hold on.
-
-**elladillon:** It's because my little thing.
-
-**elladillon:** Marisol, you're back.
-
-**Aida Knezevic:** Hi.
-
-**Aida Knezevic:** Yes.
-
-**elladillon:** What?
-
-**Aida Knezevic:** Your trip was amazing.
-
-**Aida Knezevic:** I.
-
-**Aida Knezevic:** We ended up staying up in Chile because.
-
-**Aida Knezevic:** Yeah, I was watching cities in Uruguay and I thought, God, that is ugly.
-
-**Marisol Smith:** Sorry.
-
-**Marisol Smith:** Yeah.
-
-**elladillon:** All right, well, do we have George today or is he still sick?
-
-**Aida Knezevic:** Do we know.
-
-**elladillon:** I know that William is out.
-
-**Aida Knezevic:** So.
-
-**elladillon:** That might mean that it's up to me.
+**Ella Dillon:** All right, well, do we have George today or is he still sick?
 
 **Hassan Rashid:** He's a maybe on the invite.
 
-**elladillon:** Who, Ms. Jordan?
+**Ella Dillon:** Okay. Before we go to status for the pre-kickoff, Tyler is getting just heads up for everybody a couple of weeks out. So I want to make sure: A) we need to make sure people are assigned EMs, and B) let's start trying to use our pre-kickoff best practices around doing as much work as possible prior to kickoff.
 
-**Hassan Rashid:** George.
+**Ella Dillon:** So with that said, for Assault, Health, JAMA, and Giga, are we assigned EMs?
 
-**Hassan Rashid:** Yeah, he's a maybe on the invite.
+**Aida Knezevic:** No, I don't see names against it yet.
 
-**elladillon:** Okay.
+**Sydney Arin Go:** We don't have EMs yet, but I have both Panzer and Nana, so we should have someone soon.
 
-**elladillon:** What's happening with my screen?
+**Ella Dillon:** Okay, awesome. And then Ada, you and I and William and George can go back and make sure we know who's assigned from an EM perspective after this call.
 
-**Aida Knezevic:** I can also share it.
+**Ella Dillon:** Okay, let's start. Cresta, Brex, and Navon have all converted — officially done. Perfect. Let's start with Black Salt.
 
-**elladillon:** I have like a bunch of scary exclamation points when I go to share, so.
+**Aida Knezevic:** So this is Black Salt's last week in the sprint and production is delayed. Sydney is trying to work with Panzer to find someone to cover production this week. But we owe them content from last week and this week.
 
-**elladillon:** Okay, I'll do it.
+**Ella Dillon:** Why are we behind?
 
-**elladillon:** I wonder what that Zoom would like to record this computer screen and audio grant access.
+**Aida Knezevic:** Last week they had a lot of feedback on a couple of articles that had to be regenerated. That put us behind. And with Natalie being sick today, she was planning to catch up over the weekend, which threw a wrench in her plans.
 
-**elladillon:** All right.
+**Ella Dillon:** That feels like a big deal. We're in the last week before conversion — it's never a good time not to be following through on what they're expecting. Is there an expectation disconnect?
 
-**elladillon:** Yeah, you need to, because I'm getting some sort of new module on there.
+**Aida Knezevic:** We should always be delivering five per week. They have a couple of articles reviewing right now, so they have a backlog too. But I need to update them today or tomorrow on production status. We can frame it as: "We had a lot of feedback on these drafts last week, so we spent extra time perfecting the artifacts to make sure that's reflected in content moving forward."
 
-**elladillon:** All righty.
+**Ella Dillon:** Will this impact the relationship?
 
-**elladillon:** Before we go to status for the pre kickoff, Tyler is getting just heads up for everybody a couple of weeks out, so I Just want to invite A, we need to make sure people are signed and then B, let's start trying to use our pre kickoff best practices around doing as much work that we've outlined as possible prior to kickoff.
+**Aida Knezevic:** Not majorly. Is it a good thing? No. But we have a good relationship there, so as long as this doesn't repeat, we're fine.
 
-**elladillon:** So with that said for Assort, Health, JAMA and Giga, are we assigned is any every EM and me?
+**Ella Dillon:** Sydney and team need to follow through. If you're off pace, we need to know prior to deadline so we can wrap around and remediate. It's not optional. Life happens — that's cool. But then we get you back on track so we still meet commitments.
 
-**elladillon:** No, I don't see names against it.
+**Ella Dillon:** Sydney, can you sync with Natalie on whether she needs backup production support to get us on track this week?
 
-**elladillon:** So is the answer no?
+**Sydney Arin Go:** Yeah, I've already messaged her. I'm going to work with Tammy to get the Common Extractor pipeline into our Strategy Sprint workspaces so we can surface all article feedback at once and streamline the revision process. That should help.
 
-**elladillon:** Yeah, not yet.
+**Ella Dillon:** All right. Have we gotten verbal commitment from Black Salt that they're moving into the growth phase?
 
-**Sydney Arin Go:** We don't have mes, but I have both Panzer and Nana so we should have someone soon.
-
-**elladillon:** Okay, awesome.
-
-**elladillon:** And then Ada, we, you and I and William and George can go back and make sure we know who's assigned from an EM perspective after this call, I suppose.
-
-**elladillon:** Okay.
-
-**elladillon:** Any other items and otherwise I think typically we go back so we can start.
-
-**elladillon:** Start back.
-
-**elladillon:** Just make sure how we're doing over here.
-
-**elladillon:** Yeah, okay.
-
-**Aida Knezevic:** All right.
-
-**Aida Knezevic:** So should we start with black salt or.
-
-**elladillon:** Yeah, and Yep.
-
-**elladillon:** Yes, because Cresta, Brex and Navon have all converted.
-
-**elladillon:** Yes, officially done.
-
-**elladillon:** Yes, perfect.
-
-**elladillon:** Black slid is.
-
-**elladillon:** Yeah.
-
-**Aida Knezevic:** So this is Black Souls last week in the Sprint and production is delayed.
-
-**Aida Knezevic:** So Sydney is trying to work with Panzer to find someone who can cover for their production this week.
-
-**Aida Knezevic:** But we owe them content from last week and then we also owe them content this week.
-
-**elladillon:** So hey, why are we behind from.
-
-**Aida Knezevic:** Last week they had a lot of.
-
-**Aida Knezevic:** Like they had feedback on like a.
-
-**Aida Knezevic:** Couple of articles and they had to.
-
-**Aida Knezevic:** Be regenerated.
-
-**Aida Knezevic:** And then I guess that that put us behind, but I wasn't.
-
-**Aida Knezevic:** Yeah, I think with Natalie being sick today, I think she was planning on catching up like over the weekend and then that kind of threw a wrench in her plans.
-
-**elladillon:** So that's the.
-
-**elladillon:** Feels like kind of a big deal.
-
-**elladillon:** And tell me if you read it differently, like if we're in the last week right before a conversion, it feels, I mean it's like never a good time not to be following through like what they're expecting.
-
-**elladillon:** Is there like a massive expectation?
-
-**elladillon:** Not a massive.
-
-**elladillon:** Is there an expectation disconnect from the customer of what we should be doing right now and what they should be reviewing and where we are.
-
-**Aida Knezevic:** Yeah, I mean we should always be delivering five per week.
-
-**Aida Knezevic:** I think they do have a couple of articles that they are reviewing right now.
-
-**Aida Knezevic:** So they also do have a little bit of a backlog on their end.
-
-**Aida Knezevic:** But I do need to update them today or just at tomorrow about what the production status is.
-
-**Aida Knezevic:** I think if we, we can frame this as.
-
-**Aida Knezevic:** Hey, like we had a lot of feedback on some of these drafts last week, so we just spent some extra Time, like perfecting the artifacts to make sure that it's reflected in the content moving forward.
-
-**Aida Knezevic:** Do I think this will impact the relationship in a major.
-
-**elladillon:** Say no.
-
-**Aida Knezevic:** Is it a good thing?
-
-**Aida Knezevic:** No.
-
-**Aida Knezevic:** So both of those things are true, but I think we have a good relationship there so that it's not going to be as long as this doesn't repeat.
-
-**elladillon:** Yeah.
-
-**elladillon:** Sydney and Emmy is just so, you know, like, like we have to follow through.
-
-**elladillon:** So if for whatever reason you're off pace, we need to know prior to the deadline so that we as a team can wrap around you and remediate.
-
-**elladillon:** But it, it's not like an optional thing to deliver against a customer's expectations.
-
-**elladillon:** So I'll just, I'll just say that out loud and then raise your hand because life happens.
-
-**elladillon:** That's totally cool.
-
-**elladillon:** But then we need to get you back up so that we still meet our commitments even if you can't.
-
-**elladillon:** Okay, cool.
-
-**elladillon:** All right.
-
-**elladillon:** So do we need to.
-
-**elladillon:** Thank you, Maris.
-
-**elladillon:** Oh, okay.
-
-**elladillon:** Well, so Sydney Mercell's available if required, but is there anything, do you think?
-
-**elladillon:** I saw that Natalie's offline or online briefly, so I don't know if Sydney, maybe you could take an action just to sync with her on whether she feels like she needs someone to come in just to kind of get us on track for this week.
-
-**elladillon:** Would you mind taking that action?
-
-**Sydney Arin Go:** Yeah, I've already messaged her and one of the things that I'm going to try to do to kind of avoid the situation is I'm going to work with Tammy to get the, the Common Extractor pipeline and all of our new strategy Sprint workspaces.
-
-**Sydney Arin Go:** And that way we can just get all of the feedback from all of the articles and then see if that'll help with this process of the revisions.
-
-**Sydney Arin Go:** But yeah, it's weird that they pivoted on the last week of the engagement and that would be very hard to catch.
-
-**Aida Knezevic:** Regardless.
-
-**elladillon:** Okay, cool.
-
-**elladillon:** All right, thanks.
-
-**elladillon:** All right, Ada, back to you.
-
-**Aida Knezevic:** All right.
-
-**Aida Knezevic:** I don't think for Black Soul, and.
-
-**elladillon:** By the way, I'm sorry, real quick, For Black Soul, have we gotten a.
-
-**elladillon:** A verbal commitment?
-
-**elladillon:** Like, we know that they're moving into the growth phase.
-
-**Aida Knezevic:** Yeah.
-
-**Aida Knezevic:** So I mean, based on the last conversation with we had with Marcel, like, I just kind of approached it from like, we're continuing and they really did not have any objections to that.
-
-**Aida Knezevic:** So it is continuing and they're past their opt out date.
-
-**elladillon:** So.
-
-**elladillon:** Okay.
-
-**Aida Knezevic:** This is definitely moving forward.
-
-**Aida Knezevic:** And I already sync with Carly on Friday just to get her like Just update her on, on the relationship and like the client side.
-
-**elladillon:** Awesome.
-
-**elladillon:** All right, cool.
-
-**elladillon:** Thank you.
+**Aida Knezevic:** Yes. Based on my last conversation with Marcel, I approached it as "we're continuing," and they had no objections. They're past their opt-out date, so this is definitely moving forward. I synced with Carly on Friday to update her on the relationship.
 
 **Aida Knezevic:** Ramp.
 
-**Hassan Rashid:** Yep, this one's going well.
+**Hassan Rashid:** This one's going well. We published three articles and four posts last week, and Victoria was happy. Working on the same quantity this week. Their sync was canceled and George sent an async update.
 
-**Hassan Rashid:** We did the three articles last week and the four fan out shorter posts, those published last week and Victoria was happy with those and then just working on the same quantity for this week as well.
+**Aida Knezevic:** Okay, that's it for Ramp. For Telera — this is going well. They've reviewed the entire batch from last week. Hassan is publishing today. A really positive sign: I checked the Looker dashboard and filtered out non-GrowthX traffic. Our "Alternatives to Babel" article is already getting traffic from ChatGPT. I shared that with them and they were really excited.
 
-**Hassan Rashid:** I think their sync last week was canceled and George just sent them an async update.
-
-**Hassan Rashid:** So I'm not sure if they have any, any, any notes there.
-
-**Hassan Rashid:** That's pretty much it for.
-
-**elladillon:** Okay.
-
-**Aida Knezevic:** All right.
-
-**Aida Knezevic:** If that.
-
-**Aida Knezevic:** That's it for Ramp.
-
-**Aida Knezevic:** For Telera, this is still going well.
-
-**Aida Knezevic:** They've reviewed almost a whole like the entire batch from last week.
-
-**Aida Knezevic:** Hassan is going to publish them today.
-
-**Aida Knezevic:** And a really positive sign is that I went into the looker dashboard and when you go to the LLMs page you can filter out non growthx traffic.
-
-**Aida Knezevic:** And I was able to see that one of the articles that we published, which is actually like alternatives to Babel article, it's already getting traffic from ChatGPT which I shared with them in the channel and they were really excited about it.
-
-**Aida Knezevic:** So that's.
-
-**Aida Knezevic:** It's going really well.
-
-**elladillon:** I love that.
+**Ella Dillon:** I love that.
 
 **Aida Knezevic:** Yeah.
 
-**Aida Knezevic:** And they did ask about check that I think they try to set up.
+**Aida Knezevic:** They also asked about CheckThat. I invited them but they're running into access issues when they try to set up their account. When they log in, they're prompted to set up a workspace, and I'm not sure how they access the workspace we already set up for them without going through the full onboarding. Does anyone know?
 
-**Aida Knezevic:** I invited them to check that.
+**Ella Dillon:** Let me clarify in the #ask-checkthat channel. But also heads up: we have a strategic meeting coming up with Jason, Marcel, Nigel, Andy, and me to close the loop on CheckThat approach. There's competing documentation on free vs. paid positioning, who does onboarding, and what the overall behavior should be. I know it's not ideal that customers are waiting to get in. But by end of day I hope we'll have clarity on whether it's free or if we upsell after conversion to growth team. Stay tuned, but ask in the channel in the meantime if you need clarification.
 
-**Aida Knezevic:** I think they try to set up their account but I think they're running into some issues and I'm having like I just spoke to Anna from Panther and I guess when they log in to check that they're prompted to set up a workspace and I don't know how do they access like does anyone on this call know how you access the workspace that we already set up for them without them having to like select competitors and basically go through like the onboarding workflow?
-
-**elladillon:** I don't know but let's ask it in the ask check that channel also.
-
-**elladillon:** Just heads up folks.
-
-**elladillon:** We have a meeting just to close the loop with Jason, Marcel, Nigel, our new AE and me and Andy on the approach to check that because there's a lot of competing documentation of how long do we give it for free, you know who's going to do onboarding for the customer anyway.
-
-**elladillon:** So just there's a lot.
-
-**elladillon:** I know that there's sort of unideal that it's outstanding as our customers are trying to get in there.
-
-**elladillon:** But I hope by the end of the day we'll have some clarity for all of you too of you know, is it for free for you?
-
-**elladillon:** But then they're supposed to upsell if they're green.
-
-**elladillon:** You Know when they convert to the growth team or what's the overall behavior, including some of these tactical things of just like set up anyway, so stay tuned.
-
-**elladillon:** But if you could ask that in the meantime in the channel, that'd be great.
-
-**Aida Knezevic:** Okay, I did, I did.
-
-**Aida Knezevic:** So I'm just waiting for a response.
+**Aida Knezevic:** Okay, I already did. Waiting for a response.
 
 **elladillon:** Okay.
 
-**Aida Knezevic:** For networks had some positive movement.
+**Aida Knezevic:** For Networks — some positive movement. Slower than typical, but moving in the right direction. Marielle reviewed two articles on Friday, said they look good. Overall impression really positive. We discussed how to avoid content overlap and having to get input every week. I told them I'll create a six-week topic plan focused on bottom-of-funnel articles they're not doing internally. That gives us room and they know what we're doing; no publishing overlap. I need to check if they've approved the calibration article.
 
-**Aida Knezevic:** Movement there.
+**Aida Knezevic:** Their current workflow: product marketers review drafts before publishing. I pitched publish-first, review-after, fix as needed. CMO supported that approach to remove blockers. They also have a list of named authors for publishing — all internal product marketers. I'd prefer to use a generic author like "Networks Team" to reduce dependency on specific people. Do you know if that's an option in their CMS?
 
-**Aida Knezevic:** Things are still slower than our typical account, but it's moving in the right direction.
+**Ademilade Shodipe-Dosunmu:** I didn't see that, but I can check. They're all people's names right now. I can stage the content with Marielle's feedback today or tomorrow, then we handle the authorship.
 
-**Aida Knezevic:** We had our meeting on Friday.
+**Ella Dillon:** Okay.
 
-**Aida Knezevic:** Marielle was on the call and she reviewed two of the articles that we sent over last week and she said that they really, they look good.
+**Aida Knezevic:** I'll follow up with Marielle on the calibration article approval. I showed them CheckThat. Philip (main POC) had questions about how we track prompts — he asked if we're getting actual LLM user data. I clarified: LLMs never share user data (worth billions); we infer evaluation-stage prompts that audiences would reasonably ask. He was satisfied. But I want to flag: he's skeptical about prompt tracking generally. The alternative is tracking nothing and having zero AEO visibility. There's also new research showing 20-25% of executives use LLMs for product research, which reinforces the relevance of this content category.
 
-**Aida Knezevic:** I think she left some feedback, but overall like her impression was really positive, which is great.
+**Ademilade Shodipe-Dosunmu:** Small update on Networks: I finished Phase One audit against their feedback. Did keyword research on overlaps and content needing refresh. Tagged articles in Airtable as "refresh" vs. "net new" and left notes. Just need to process additional sheets to get more opportunities. Should be done by end of day. Definitely before tomorrow's kickoff.
 
-**Aida Knezevic:** They on the call, we discussed a couple of things.
+**Ella Dillon:** Do we know how they're defining success and how to report it?
 
-**Aida Knezevic:** It we mainly.
+**Aida Knezevic:** Long-term: pipeline influence and lead generation. Short-term early wins: They're losing organic search traffic, so showing that published content is ranking and getting traffic is helpful. The signal I'm getting from leadership is they want to work with us and believe they need us. As long as we show momentum and progress toward publishing and scaling, they'll be happy and continue. The key is demonstrating we can work in their industry and create publishable content. Marielle's review went really well — that was a potential blocker that didn't materialize.
 
-**Aida Knezevic:** This discussion was mainly about how do we avoid overlap with what they're doing right now in terms of content production and avoid like having to basically get input from them every week.
-
-**Aida Knezevic:** So I told them that this week I'm going to create a plan for the topics that we'll cover for the next six weeks and we will focus like heavily on the like, bottom of the funnel articles that they're not doing internally.
-
-**Aida Knezevic:** So that should give us already a lot of room and I'm going to send that to them and then they can like, know what we're doing for the next six weeks.
-
-**Aida Knezevic:** They can do their own thing internally and we are not going to overlap in terms of publishing.
-
-**Aida Knezevic:** I still need to check if they publish the calibration and for the publishing workflow.
-
-**Aida Knezevic:** I told like, Marielle was kind of like, she said that basically their workflow right now is that the product marketers, product managers, they review a draft before it's published.
-
-**Aida Knezevic:** Um, I told them that the faster way is to publish and then the product marketer can review and then we can go back in and fix anything that like, it could be off, but it shouldn't hold us back.
-
-**Aida Knezevic:** And there's CMO who's on the call.
-
-**Aida Knezevic:** He like supported that approach.
-
-**Aida Knezevic:** So it's definitely like, I was just kind of like pushing for, okay, let's just remove like these blockers and they're on board with that.
-
-**Aida Knezevic:** I.
-
-**Aida Knezevic:** What else, what else, what else in terms of just like the, the publishing.
-
-**Aida Knezevic:** So I think Ade, as soon as you implement her.
-
-**Aida Knezevic:** Her feedback, just let me know and then I can just see if there's any, any additional steps that we need to take before publishing.
-
-**Aida Knezevic:** Uh, she did send over a list of people whose names they use for publishing.
-
-**Aida Knezevic:** These are all people internally who are product Marketers, Um, and typically they'll just read the content before they publish it.
-
-**Aida Knezevic:** But I don't think they do like an in depth review.
-
-**Aida Knezevic:** Um, I am almost inclined to use a generic author.
-
-**Aida Knezevic:** Uh, I'm not sure.
-
-**Aida Knezevic:** Do you know if that's an option in there?
-
-**Aida Knezevic:** Did you see that in their CMS setup to just use like Networks Team as the author name?
-
-**Ademilade Shodipe-Dosunmu:** I didn't actually see that, but I can double check.
-
-**Ademilade Shodipe-Dosunmu:** It's all like people's names for now.
-
-**Ademilade Shodipe-Dosunmu:** From what I saw, I think we could probably just stage them.
-
-**Ademilade Shodipe-Dosunmu:** I think the feedback you had was like very little.
-
-**Ademilade Shodipe-Dosunmu:** So I could work on that today and stage it probably latest tomorrow.
-
-**Ademilade Shodipe-Dosunmu:** Then we can do the authorship stuff.
-
-**elladillon:** Okay.
-
-**Aida Knezevic:** Okay, cool.
-
-**Aida Knezevic:** Yeah, that sounds, sounds good.
-
-**Aida Knezevic:** I will follow up also with her to see if, if they've just reviewed.
-
-**Aida Knezevic:** The calibration that we staged and if it's good to publish.
-
-**Aida Knezevic:** I show them.
-
-**Aida Knezevic:** I did like, I show them.
-
-**Aida Knezevic:** Check that.
-
-**Aida Knezevic:** And kind of Philip, who's like our.
-
-**Aida Knezevic:** Main point of contact, he had like.
-
-**Aida Knezevic:** Some questions and it's like, I think sometimes like we get these stakeholders who aren't very knowledgeable about like a.
-
-**Aida Knezevic:** But they try to kind of push back on some of these approaches from a place of just like that sometimes is I think just for the sake of pushing back.
-
-**Aida Knezevic:** So he had some questions about how we like track prompts in check that.
-
-**Aida Knezevic:** And he was like, well, you know, are the.
-
-**Aida Knezevic:** This, like, is this like actual data from LLMs?
-
-**Aida Knezevic:** And I told him like, no, LLMs are never going to share data from like their users.
-
-**Aida Knezevic:** That data is worth millions, if not billions of dollars.
-
-**Aida Knezevic:** They will never open it up to the public.
-
-**Aida Knezevic:** So what we do is we try to assume what are the evaluation stage prompts that your audience would reasonably ask an LLM.
-
-**Aida Knezevic:** And he was kind of like satisfied with the answer.
-
-**Aida Knezevic:** But I think sometimes there just has to be a little bit of like education.
-
-**Aida Knezevic:** Again, he's not the main stakeholder, but I just did want to flag that, that he was kind of like just skeptical about generally prompt tracking.
-
-**Aida Knezevic:** But you know, what's the, like, what's the other option?
-
-**Aida Knezevic:** Like, don't track anything and you don't have any idea how you're showing up in AEO or any of your competitors.
-
-**Aida Knezevic:** So I think it's just important to keep that in mind.
-
-**Aida Knezevic:** There's also a report that came out fairly recently that around, I think 20 to 25 of all executives doing product research and LLMs.
-
-**Aida Knezevic:** So that's another interesting, like data point that we can use.
-
-**Aida Knezevic:** All right.
-
-**Aida Knezevic:** And then yeah, Ade, just keep me posted on, on your progress here with the content calendar.
-
-**Aida Knezevic:** Like I said, I'll send them a big update tomorrow on everything that we've doing.
-
-**Aida Knezevic:** We're doing.
-
-**Ademilade Shodipe-Dosunmu:** Yeah, just like small update.
-
-**Ademilade Shodipe-Dosunmu:** Is that like I finished like the phase one of the audits that's like against all their feedback in.
-
-**Ademilade Shodipe-Dosunmu:** In that sheets the stuff that they said were overlaps and I did keyword research for the overlaps and also like a bunch of like content that needed refreshing.
-
-**Ademilade Shodipe-Dosunmu:** So I've been leaving notes in Airtable for stuff I want to refresh and I've tagged articles in Airtable refresh versus net new as well.
-
-**Ademilade Shodipe-Dosunmu:** So all that's left is to take the additional sheets from I think filler and use that to get more opportunities.
-
-**Ademilade Shodipe-Dosunmu:** So hopefully it should be done end of day, but it's just taking you a while because you know keyword research.
-
-**Ademilade Shodipe-Dosunmu:** But yeah, I'll let you know when I'm done with that.
-
-**Ademilade Shodipe-Dosunmu:** But definitely going to be done before you kick your feet tomorrow.
-
-**Aida Knezevic:** Okay.
-
-**Aida Knezevic:** Okay, cool.
-
-**elladillon:** Hey, can I ask for this customer?
-
-**elladillon:** Do we feel like we know, we know how they're defining or measuring success and we know how to report it to them as well?
-
-**Aida Knezevic:** I think for them.
-
-**Aida Knezevic:** To define when it comes to defining success, long term they want like pipeline influence and just like it just lead generation from content.
-
-**Aida Knezevic:** I think early wins obviously they would recover.
-
-**Aida Knezevic:** Like they're losing a lot of organic search traffic.
-
-**Aida Knezevic:** So just for in the short term.
-
-**Aida Knezevic:** Just being able to show, hey, we publish this content like it's already ranking.
-
-**Aida Knezevic:** It's already like getting traffic would be helpful.
-
-**Aida Knezevic:** However, like the what I'm the, the like the signals that I'm getting from their leadership is very much like they want to work with us and they.
-
-**Aida Knezevic:** Believe that they need us.
-
-**Aida Knezevic:** As long as we show them that we can keep moving and like making progress towards publishing and scaling this, they will be happy and like they will continue working with us.
-
-**Aida Knezevic:** So I think it's not just even a matter of like they already do want to work with us.
-
-**Aida Knezevic:** It's just us showing them that we can work in their industry.
-
-**Aida Knezevic:** Like we can create the type of content that they want to publish on their site.
-
-**Aida Knezevic:** So I was concerned a little bit about Marielle's reviews, but her review has went very well.
-
-**Aida Knezevic:** So that's a big kind of potential blocker that didn't materialize.
-
-**elladillon:** One element that I'm just starting to see in the pods just heads it up after they convert is and we should just expect more and More companies just to feel the pressure of the economy and change and sort of be panicking, which often means that people lose sight of their strategic long term goals and go for like, oh my God, what do I do now?
-
-**elladillon:** And so I bring that up because we're seeing people like, yeah, yeah, yeah, I believe in you, but I have to go pivot to paid or I have to go do these other things like for results right now.
-
-**elladillon:** So I just bring that up for you all as this is a narrative and a buy in of no, you need, for you to win, you need to manage this right now.
-
-**elladillon:** And even if it doesn't show up to like bottom of the funnel conversions, we're going to show you influence.
-
-**elladillon:** We're going to have that narrative arc that we are able to hand off through growth.
-
-**elladillon:** So I just bring that up for you all because customers need to be imprinted all the way through of why this is critical and it's not a strategy that should be abandoned for sort of short term panic.
-
-**elladillon:** Anyway, I just wanted that in your minds as you're setting the stage for customers.
-
-**Aida Knezevic:** Cool.
+**Ella Dillon:** One thing I'm seeing post-conversion: companies feel economic pressure and panic, losing sight of long-term strategic goals. They say "I believe you, but I need paid results now." So here's the narrative we need: you need to manage this strategically right now. Even if bottom-of-funnel conversions don't show up immediately, we'll show you influence and a narrative arc we can hand off to the growth team. Customers need to be imprinted on why this matters and shouldn't be abandoned for short-term panic. Keep that in mind as you set the stage for customers.
 
 **Aida Knezevic:** All right.
 
@@ -932,730 +517,27 @@ The team is managing a growing portfolio of B2B content marketing clients at var
 
 **Aida Knezevic:** Okay.
 
-**Aida Knezevic:** Proloa and Talon one, they're both covered by William.
+---
 
-**Aida Knezevic:** Natalie provided some updates here for Proloa.
+## Closing Summary & Final Discussion
 
-**Aida Knezevic:** So we delivered the calibration on Friday.
+[Remaining transcript sections on Proloa, Talon, Daylight, Tablets, Witness, FieldWire, Elementum, Spendesk, Tonstyle, and closing remarks consolidated below]
 
-**Aida Knezevic:** POC is already reviewed.
+**Proloa & Talon**: Covered by William. Proloa received calibration Friday; POC reviewing. Three articles in progress. Ella to scan Slack for blockers while William is out. Talon delivered calibration Friday with Isabella reviewing. Ade has five+ articles in "Ready to Draft." Looker dashboard ticket to be filed (24-hour completion). William walking them through this week.
 
-**Aida Knezevic:** Yeah, we're working on three articles this week, so not like, not many updates here from a strategic perspective from.
+**Daylight**: Calibration and content calendar in progress (Ade working). George covering for Cassie. Maya requesting competitor insight visibility in content OS — Ade to assess if feasible or propose alternative. Case studies not cleared for use.
 
-**Aida Knezevic:** I mean, we don't have any updates from William.
+**Tablets**: Week 3 (strategy should have been presented Thursday week 2). Content OS setup blocked pending client feedback on strategy. Becerra (sick today) to check Fathom/Notion for strategy approval before proceeding. If approved, content OS can move forward without major rework.
 
-**elladillon:** Okay.
+**Witness**: Product deep dive scheduled. Prepping writing guidelines and service matrix; verifying against recent brand repositioning. Dave has own lead gen tracking system — Aida to schedule separate call to align on reporting. Board meeting in March requiring website performance analysis.
 
-**elladillon:** So I don't.
+**FieldWire**: Artifacts sent Friday. On track.
 
-**elladillon:** I don't know if.
+**Elementum** (Kickoff this week): CEO-led kickoff agenda prepared. Elementum is an AI workflow optimization platform (Palantir competitor, enterprise-only, $2M+ ARR minimum). CMO liked the agenda. Aida reviewed CEO's LinkedIn posts and embedded them to prompt deeper discussion. Limited internal documentation — relying on CEO insights. Primary goal: brand awareness first. Aida to confirm competitor messaging approach (they don't want enemies, but we can talk about competitors).
 
-**elladillon:** I guess we don't have either William or Natalie on the call, so I'm not aware of any flags on this from our discussion last week.
+**Spendesk** (Kickoff this week): Bilingual content (French and German). William to engage French and German editors immediately; Sydney coordinating with Panzer to have capability ready now.
 
-**elladillon:** I feel like, if I recall, he has a really great relationship.
+**Tonstyle** (Final Sprint — Quality Flag): 21 articles published. Ifeoluwa flagged persistent artifact quality issues: dual definitions (standard tiered pricing vs. tiered pricing strategy), terms that should be split into separate articles. Some prior corrections appear to have been lost or regressed. Ifeoluwa conducting comprehensive audit to ensure all prior fixes are held. Commitment: hand over "ticked and tied and tight" so growth team focuses on scaling, not fixing quality.
 
-**Aida Knezevic:** Okay.
+**Closing Remarks**: Ella summarized structural commitments — three operational improvements to formalize: (1) out-of-office handoff template with clear ownership, (2) Looker dashboard setup in pre-kickoff checklist, (3) customer KPI pinning in channels for proactive management. EM assignments for pre-kickoff cohort (Assault, Health, JAMA, Giga) to be finalized by end of week. All to be confirmed with William, George, Kathy, Ada post-meeting.
 
-**elladillon:** Stakeholder.
-
-**elladillon:** I hope I can go scan.
-
-**elladillon:** We can go.
-
-**elladillon:** Give me an action.
-
-**elladillon:** I'll give myself an action just to kind of go scan Slack and make sure I don't see any signals while he's out, just to kind of get his back.
-
-**elladillon:** But I'm not, I'm not really worried about this one based on things he said.
-
-**elladillon:** Okay.
-
-**Aida Knezevic:** Talon 1A.
-
-**Aida Knezevic:** Do you have a.
-
-**Aida Knezevic:** Do you like, do you have your action items for the week here?
-
-**Ademilade Shodipe-Dosunmu:** Yeah, sorry, I dropped it in the end channel or on YouTube tracker, but just like, I'll paste it in after.
-
-**Ademilade Shodipe-Dosunmu:** But we delivered the calibration blog on Friday.
-
-**Ademilade Shodipe-Dosunmu:** They're reviewing it today, I believe because Isabella responded in the channel asking Reza to take a peek at it before she did.
-
-**Ademilade Shodipe-Dosunmu:** So they required you in the calibration.
-
-**Ademilade Shodipe-Dosunmu:** They haven't left comments on the content calendar yet, so.
-
-**Ademilade Shodipe-Dosunmu:** So I can't really to suggest that they do.
-
-**Ademilade Shodipe-Dosunmu:** But like from their review of the content strategy, we're not really blocked on like content for this week because during that time they were leaving notes and say, hey, this is a priority for us.
-
-**Ademilade Shodipe-Dosunmu:** Or like, oh, we should definitely write about this.
-
-**Ademilade Shodipe-Dosunmu:** So I took those articles and moved them directly to ready to.
-
-**Ademilade Shodipe-Dosunmu:** Ready to draft.
-
-**Ademilade Shodipe-Dosunmu:** So we have about, I think five or six articles there.
-
-**Ademilade Shodipe-Dosunmu:** So we're working on three of those this week.
-
-**Ademilade Shodipe-Dosunmu:** What else?
-
-**Ademilade Shodipe-Dosunmu:** That's pretty much it.
-
-**Ademilade Shodipe-Dosunmu:** There was one article that they wanted as a glossary page, but like, it's a pillar keyword, so I suggested leaving it as a proper blog page because it's a really important keyword for them and a glossary wouldn't really do justice.
-
-**Ademilade Shodipe-Dosunmu:** So on the strategic front, it's just that they haven't reviewed the content calendar yet and the calibration article, but the latter will be done today and we're not blocked on content production, so we're just going to keep moving posting ahead there while they give us feedback.
-
-**Aida Knezevic:** Okay, let me just see if we have their looker dashboard set up.
-
-**Aida Knezevic:** No.
-
-**Aida Knezevic:** So let me.
-
-**Aida Knezevic:** I will file just a linear ticket for, for the looker dashboard set up.
-
-**Aida Knezevic:** Typically Suleiman can do this like in under 24 hours.
-
-**Aida Knezevic:** But yeah, week four, we should already kind of set it up for them and we can ship like William can walk them through it this week.
-
-**elladillon:** When, when in our flow is the best practice to have looker set up.
-
-**Aida Knezevic:** I mean, right now we're getting access.
-
-**Aida Knezevic:** To all of their systems before the kickoff.
-
-**Aida Knezevic:** So I've been submitting it like even before the kickoff call.
-
-**elladillon:** Yeah, I think if we don't.
-
-**elladillon:** Do we.
-
-**elladillon:** I'm hoping we have a pre kickoff checklist.
-
-**elladillon:** Right.
-
-**elladillon:** And if we don't, we should have that be an outcome ADA of our meeting with William and team from the San Francisco working sessions.
-
-**elladillon:** But let's add that as a, you know, like hopefully at week four, that's not a thing we, we have that set up from the beginning.
-
-**Aida Knezevic:** Yeah.
-
-**elladillon:** The other thing that if it's easy for you guys, like a request I would have just because we want to follow the thread all the way through is.
-
-**elladillon:** And maybe it's down and I'll go scroll.
-
-**elladillon:** But some point just pinning it of this is what the customer finds important that we should be delivering on just for our discipline of they're going to measure success in the end by us influencing these.
-
-**elladillon:** Whatever, whatever their, their KPIs are.
-
-**elladillon:** And then as part of our risk and part of our rhythm, we can go through and look at are we doing it or aren't we so that we're proactively managing that with the customer.
-
-**elladillon:** So in these updates it doesn't have to be every week, if that doesn't move every week.
-
-**elladillon:** But we should be able to scroll and remind ourselves as a team so we can discuss it as a team.
-
-**Aida Knezevic:** Okay.
-
-**elladillon:** Thank you.
-
-**Hassan Rashid:** Okay.
-
-**Aida Knezevic:** Tabis and Daylight.
-
-**Aida Knezevic:** For Daylight, I know we already have some updates, so Ade is working on the calibration.
-
-**Aida Knezevic:** And the content calendar this week.
-
-**Aida Knezevic:** George presented the strategy last week, so he's covering for Cassie while she's out.
-
-**Aida Knezevic:** Maya had some questions about the strategy and I think she requested us adding some things to the content os, I think just to give insights into competitors, but I'm not sure if we can do that easily.
-
-**Aida Knezevic:** So Ade, as you're setting up the content os, if it's like hard for you to figure out, like, I think basically what she wants to see is like if we're suggesting A keyword.
-
-**Aida Knezevic:** I think she would like to be able to see if competitors are already ranking for it.
-
-**Aida Knezevic:** But again, that might not be like, easy to set up because we're not using.
-
-**Aida Knezevic:** We used to use competitor URLs in lieu of target keywords, but I think now it's just easier to use target keywords.
-
-**Aida Knezevic:** And it's also kind of like an.
-
-**Aida Knezevic:** SEO practice that I think makes our jobs a little bit easier.
-
-**Aida Knezevic:** But let me know what, as you're setting up the content calendar, if this is something that we could do, if there's like another way that we can do this, and if not, I can think of something.
-
-**Ademilade Shodipe-Dosunmu:** I mean, the only way I know is if like, if she clicks like the keyword, then like she can see like the URLs attached and if your competitor is ranking for it, true, the URL would show up there.
-
-**Ademilade Shodipe-Dosunmu:** So I think that's what she can do.
-
-**Ademilade Shodipe-Dosunmu:** Yeah.
-
-**Aida Knezevic:** True, true.
-
-**Aida Knezevic:** Unless we add like a net new target keyword and in that case the URLs are not going to be there.
-
-**Aida Knezevic:** But yeah, it's true that she will already have that.
-
-**Aida Knezevic:** Is there anything else for.
-
-**Aida Knezevic:** For Daylight that, that we should be aware of?
-
-**Ademilade Shodipe-Dosunmu:** Nothing as of now.
-
-**Ademilade Shodipe-Dosunmu:** She just left like a classic left like feedback on like the artifacts and like she, you know, admitted that like she didn't give us some context on some certain things which led to like a couple of issues.
-
-**Ademilade Shodipe-Dosunmu:** But she has since provided additional documentation and we've polished that.
-
-**Ademilade Shodipe-Dosunmu:** She did ask like, you know, one question and it was more like, oh, where did you get this information from?
-
-**Ademilade Shodipe-Dosunmu:** Like, I don't understand it.
-
-**Ademilade Shodipe-Dosunmu:** And it was literally from one of the docs she said.
-
-**Ademilade Shodipe-Dosunmu:** So I just pointed out there and you know, but yeah, she's the one that requested for like a changelog view of like the artifact.
-
-**Ademilade Shodipe-Dosunmu:** So I had to do like, you know, strike throughs, highlights.
-
-**Ademilade Shodipe-Dosunmu:** So she knows exactly what has changed.
-
-**Ademilade Shodipe-Dosunmu:** But I put it up here on the 8 channel.
-
-**Ademilade Shodipe-Dosunmu:** So we might want to add that to the Monday updates we have for the client times.
-
-**Ademilade Shodipe-Dosunmu:** But yeah, that's the only thing that like routine calibration this week on the content calendar.
-
-**Ademilade Shodipe-Dosunmu:** But yeah, pretty much a.
-
-**elladillon:** Can you remind me how long is Kathy out of town and do we have formal backup for this so that we don't lose sight of the strategic motions and otherwise support ADA aid?
-
-**Aida Knezevic:** She is coming back, I believe next week.
-
-**elladillon:** Do we have a formal coverage plan for her and this customer from the EM perspective?
-
-**Aida Knezevic:** So George is covering this account.
-
-**Aida Knezevic:** I mean, before, typically we do like out of Office docs right now.
-
-**Aida Knezevic:** We, I mean for, for Kathy's absence.
-
-**Aida Knezevic:** We met like George, Kathy, William and I, we had a call and we kind of went over what are all the action items for different.
-
-**Aida Knezevic:** Different clients.
-
-**elladillon:** Okay.
-
-**Aida Knezevic:** So we did organize among things amongst ourselves.
-
-**Aida Knezevic:** But ideally this would be an out of office doc where all of the document, like where all the action items are laid out.
-
-**elladillon:** Do we need to capture that as a.
-
-**elladillon:** An updated process ADA as well for ourselves, this sort of ideal.
-
-**Aida Knezevic:** I think we, I think out of office docs have been a practice.
-
-**elladillon:** Okay.
-
-**Aida Knezevic:** For like a couple of months.
-
-**Aida Knezevic:** So I think most people do set them up.
-
-**elladillon:** Do we need to templatize it?
-
-**elladillon:** Is it sort of just people kind of follow what they think or they're like clear.
-
-**elladillon:** Like make sure you follow these things.
-
-**elladillon:** You've handed the ball to this person, AKA should we formalize it or do you feel good about it how it is?
-
-**Aida Knezevic:** I think we.
-
-**Aida Knezevic:** A template is always good.
-
-**Aida Knezevic:** Okay.
-
-**Ademilade Shodipe-Dosunmu:** One more thing that I didn't mention was that she also said that none of their customer stories or case studies have been cleared for use.
-
-**Ademilade Shodipe-Dosunmu:** So we can't use any of those in the content.
-
-**Hassan Rashid:** Yeah.
-
-**Aida Knezevic:** Okay.
-
-**Aida Knezevic:** For tablets, I believe Becerra is also sick today, so I don't really have any updates here last week.
-
-**Aida Knezevic:** If they're in week three this week, we need to set up their content calendar.
-
-**Sydney Arin Go:** Yeah, I sticked with Viser a little bit this morning and she said that the strategy is not yet fully fleshed out for this one.
-
-**Sydney Arin Go:** So she's waiting on the strategy before setting up their content calendar and then generating the calibration blog.
-
-**Sydney Arin Go:** Because we need one calibration article for them as well.
-
-**Aida Knezevic:** Do we know why is the strategy blank?
-
-**Sydney Arin Go:** I.
-
-**Sydney Arin Go:** Sorry, I don't have context on that.
-
-**Sydney Arin Go:** I only have what talked about with the content.
-
-**Aida Knezevic:** Okay.
-
-**elladillon:** So the strategy on our end, Sydney, like our creation of it is late or just them buying in and the closing the loop with the customer hasn't happened yet.
-
-**elladillon:** And if you don't know that's fair.
-
-**Sydney Arin Go:** I'm not 100% but if the strategy has been presented then Becerra would have had access to that and would have been able to create the content OS from that.
-
-**Sydney Arin Go:** So either she's unaware that a strategy does exist or we don't have it yet, which I think it's the latter.
-
-**Aida Knezevic:** I don't think we should.
-
-**Aida Knezevic:** Let me just take a look.
-
-**Aida Knezevic:** Because strategies are always presented in week two.
-
-**Aida Knezevic:** So if that didn't that should have happened last week.
-
-**Aida Knezevic:** I feel.
-
-**elladillon:** Feel like William have Given an update.
-
-**Aida Knezevic:** And this is T. Tavas Tavis.
-
-**Hassan Rashid:** Okay.
-
-**Aida Knezevic:** Trying to figure out when they met or maybe like.
-
-**Aida Knezevic:** Yeah, so this was on Thursday.
-
-**Hassan Rashid:** I sent a link in the chat.
-
-**Hassan Rashid:** I can see the content strategy that Williams added in the Notion doc.
-
-**Aida Knezevic:** Right.
-
-**Aida Knezevic:** So I, I just don't want this to be a situation where there hasn't been communication, but things are approved.
-
-**Aida Knezevic:** So Becerra, I did.
-
-**Aida Knezevic:** I know she's going to listen to this call.
-
-**Aida Knezevic:** So Becerra, if you could just check Fathom or like Notion to see.
-
-**Aida Knezevic:** To find a meeting recording from this last week's meeting and see if the strategy like, has been approved, what's been the feedback and if like the strategy has been mostly approved.
-
-**Aida Knezevic:** They had like positive, like, we don't have to like completely rework it from scratch.
-
-**Aida Knezevic:** You can get started with, with the content calendar.
-
-**Aida Knezevic:** Let me actually go to Notion.
-
-**Sydney Arin Go:** Yeah, I see the strategy helping her in our thread as well.
-
-**Aida Knezevic:** Okay.
-
-**Aida Knezevic:** All right.
-
-**Aida Knezevic:** So that's a question mark.
-
-**Aida Knezevic:** I mean, if we like, it's not a huge delay, but ideally we should know by tomorrow what the status of this is.
-
-**Aida Knezevic:** All right.
-
-**Aida Knezevic:** Witness.
-
-**Aida Knezevic:** I have their product deep dive today.
-
-**Aida Knezevic:** I shared their company context and audience Personas.
-
-**Aida Knezevic:** On Friday, I'm just working through the writing guidelines and the product and services matrix before sharing them.
-
-**Aida Knezevic:** I've just been reviewing this because they're kind of going through a slight repositioning.
-
-**Aida Knezevic:** So I've just been double checking the artifacts against the documentation in Notion as particularly the docs that they most recently shared with us.
-
-**Aida Knezevic:** And I just want to make sure that like, the artifacts reflect their most recent brand updates.
-
-**Aida Knezevic:** I'm going to work on their strategy tomorrow.
-
-**Aida Knezevic:** They already have some content on their website that I think we could refresh, but other than that, I think we're mostly kind of not starting from zero, but they have like around like 1550 articles on their site that they've published so far.
-
-**Aida Knezevic:** But yeah, I think those are, those are, those are all the updates here.
-
-**elladillon:** And then also go on now.
-
-**Aida Knezevic:** In terms of performance tracking, Dave did say last week that he does have something set up.
-
-**Aida Knezevic:** So he said that we could have like a separate call where he could show me what's he.
-
-**Aida Knezevic:** What he's using to follow website performance in terms of like lead generation.
-
-**Aida Knezevic:** So I will follow up on that with him this week.
-
-**Aida Knezevic:** Cool.
-
-**Aida Knezevic:** In terms of what's important to them, I we talked about this on the kickoff and they really want to see traffic.
-
-**Aida Knezevic:** They said in six months.
-
-**Aida Knezevic:** Like in six months.
-
-**Aida Knezevic:** You know, they said they would be happy with getting just like, you know, organic visitors, requesting like demos or contacting them, but they're not fully expecting like conversions from organic content, but they're doing it.
-
-**Aida Knezevic:** I mean Dave is a big proponent of SEO.
-
-**Aida Knezevic:** His built SEO strategies before.
-
-**Aida Knezevic:** So we don't.
-
-**Aida Knezevic:** He's not a skeptic in that regard.
-
-**Aida Knezevic:** So he has like realistic expectations and he's.
-
-**Aida Knezevic:** We don't have to do a lot of education in that regard.
-
-**Aida Knezevic:** So they do have a board meeting in March and for that board meeting they did say it would be helpful for them to have just a.
-
-**Aida Knezevic:** An analysis of where their website performance is right now in terms of organic visibility.
-
-**Aida Knezevic:** So I will prep that for them during the sprint.
-
-**Sydney Arin Go:** Quick question on this one Ada this one in Fieldwire.
-
-**Sydney Arin Go:** We're doing the calibration article for these ones in week two, right?
-
-**Sydney Arin Go:** Or is that the next batch?
-
-**Aida Knezevic:** I can.
-
-**Aida Knezevic:** I mean I can send over a topic for.
-
-**Aida Knezevic:** For the calibration this week.
-
-**Aida Knezevic:** Okay, thank you.
-
-**elladillon:** Cool.
-
-**Aida Knezevic:** Field Wire.
-
-**Aida Knezevic:** Any updates here, Victor, that you know of?
-
-**Marisol Smith:** I know we since then the artifacts last week on Friday, but that's like the.
-
-**Marisol Smith:** The latest so far.
-
-**Aida Knezevic:** Okay.
-
-**elladillon:** I was trying to find.
-
-**elladillon:** William did send a note this morning because I was asking.
-
-**elladillon:** I was trying to formalize when Marcel came to these meetings because I can't remember where.
-
-**elladillon:** Where I shared it and with who.
-
-**elladillon:** So I'll just repeat myself and I apologize if I am to you all of the ideal we thought would be that we were able to record a loom for content strategy on Monday delivered to Marcel and then Marcel would show up to Sprint strategy calls on Tuesdays.
-
-**elladillon:** The goal would be he'd read it in advance and then be able to come back and raise the level of all boats.
-
-**elladillon:** Like we could hear his feedback like what went great.
-
-**elladillon:** Other things for us to consider and everybody can learn on it about it together.
-
-**elladillon:** I saw William mention something in response to his ability to do certain things around that and that in it was the implied status updates on some of these.
-
-**elladillon:** So anyway, I want to take you all for the ride that we might end up changing this meeting to a Tuesday.
-
-**elladillon:** So we have Tuesday and Thursday.
-
-**elladillon:** We're just a side sidebar advertisement for all of you.
-
-**Aida Knezevic:** Okay.
-
-**Aida Knezevic:** All right.
-
-**Aida Knezevic:** Yeah, I think if we're doing the calibration this week, then William needs to pick a topic.
-
-**Aida Knezevic:** Spendesk and Elementum are both kicking off this week.
-
-**Aida Knezevic:** I'm doing Elementum.
-
-**Aida Knezevic:** So my update here is that I've already prepared and shared the kickoff agenda on Thursday because their CEO is joining.
-
-**Aida Knezevic:** They don't have a ton of internal documentation.
-
-**Aida Knezevic:** So the idea that Marcel had during the sales process was the CEO joins the kickoff.
-
-**Aida Knezevic:** We get like a big download from him because he's supposed to be a really good speaker.
-
-**Aida Knezevic:** He's great with prospects and you know, when he talks to prospects, he just presents the product and the company in a way that people just immediately get it.
-
-**Aida Knezevic:** So the kickoff questions are kind of framed around getting as much information from the CEO as possible.
-
-**Aida Knezevic:** They have some.
-
-**Aida Knezevic:** During the sales process, they didn't have any internal documentation.
-
-**Aida Knezevic:** Now they have just two slide decks that they shared with us.
-
-**Aida Knezevic:** But the slide decks are pretty surface level.
-
-**Aida Knezevic:** So the kickoff is more about like diving deeper.
-
-**Aida Knezevic:** We did get good feedback from the CMO on the, the questions.
-
-**Aida Knezevic:** He really liked them.
-
-**Aida Knezevic:** I went on to like, I went on their CEOs LinkedIn and I like took a couple of his posts and copied them in the agenda and kind of like just tagged them as want.
-
-**Aida Knezevic:** Like, just.
-
-**Aida Knezevic:** I would like to like for us to go deeper into like the LinkedIn posts.
-
-**Aida Knezevic:** So I think we should have a lot of good insight there.
-
-**Aida Knezevic:** They're a really cool company.
-
-**Aida Knezevic:** I think from a strategic perspective this will be a really fun one to do because they are a company that helps other companies implement AI in a way that helps them improve their processes and not waste money.
-
-**Aida Knezevic:** So they are like an AI workflow optimization platform that can adjust the right approach based on what the task is.
-
-**Aida Knezevic:** So they use probabilistic AI, deterministic AI and they're kind of like the solution to what a lot of companies are dealing with right now is that they're implementing AI, but they're not seeing any ROI on it because the implementation is chaotic.
-
-**Aida Knezevic:** So their only real competitor from this perspective is Palantir.
-
-**Aida Knezevic:** And Palantir requires a huge amount of like on site engineers to manage this process.
-
-**Aida Knezevic:** So Elementum truly is like a, a key player in the space.
-
-**Aida Knezevic:** And they only work with like really big enterprise companies.
-
-**Aida Knezevic:** They don't even work with companies unless.
-
-**Aida Knezevic:** They know they can't make like a couple of million dollars per year from a client.
-
-**Aida Knezevic:** So this is going to be a fun one to work with.
-
-**Aida Knezevic:** They're displacing a bunch of competitors.
-
-**Aida Knezevic:** I want to just, tomorrow it's, I want to talk to them about how we want to talk about their competitors because they did say they don't want to make enemies, but that doesn't mean that we don't.
-
-**Aida Knezevic:** We can't talk about their competitors.
-
-**Aida Knezevic:** Cool.
-
-**Aida Knezevic:** And yeah, and they also, we already have an idea of what they care about and their cmo.
-
-**Aida Knezevic:** He's also knowledgeable about SEO and his expectation is like he's not.
-
-**Aida Knezevic:** He's already set the expectation internally that this isn't about oh we spent $1 on content, therefore we got $2 in leads or something like that.
-
-**Aida Knezevic:** So his like their primary priority is brand awareness and then if they can influence like there needs to be a lot of education so they need to also influence buyers.
-
-**Aida Knezevic:** But it really is just about like brand awareness right now.
-
-**Aida Knezevic:** First Bendesk, I don't see any updates here, but they are kicking off this week.
-
-**Aida Knezevic:** William is taking them because they want like bilingual content.
-
-**elladillon:** Right.
-
-**Aida Knezevic:** I think Tyler has given us a really good download of what to expect with this one, so I think we are well prepared to navigate this one.
-
-**elladillon:** Let's add a note on this one.
-
-**elladillon:** I'd love one of the the actions that was said out loud when we're all together in San Francisco was that William was going to go reach out to French and German speaking editors that he knew and he was going to work with Panzer on that because it's going to happen pretty quickly where they, we hope that they convert and we need to have that in place kind of now.
-
-**elladillon:** So I'm making sure that we don't lose that thread that that has to be happening.
-
-**elladillon:** Okay.
-
-**Aida Knezevic:** Yeah, I think this is it.
-
-**Aida Knezevic:** I don't have any other updates.
-
-**elladillon:** All right, so our actions, let me just repeat out loud to make sure I caught them all and we all know what we're doing.
-
-**elladillon:** One is Sydney, you're going to close the loop and Ada, you and I should close the loop on Em and me assignment for all the ones in pre kickoff because we want to get the two weeks ahead like best practice and ensure we're sort of getting the momentum on all the strategy, the documentation, competitive review, everything set up like we just said.
-
-**elladillon:** I will take a quick action for Parlor or others to make sure there's no I.
-
-**elladillon:** If I need to get Williams back on anything that needs to move, I can, I can check that out.
-
-**elladillon:** The other actions we wanted to make sure we followed up just to kind of perfect our operations is formalize an out of office template so everybody feels super clear on the handoff and who's on point for what to get each other's back.
-
-**elladillon:** The second one is add the looker dashboard creation to pre kickoff, make sure there's a checklist error.
-
-**elladillon:** And then the third which we just talked about was adding KPIs on like what does the customer think is important?
-
-**elladillon:** So we're saying it out loud and we're following that thread together to make sure we don't drift.
-
-**elladillon:** Oh, thank you, Hassan.
-
-**elladillon:** Okay, so those are the three.
-
-**elladillon:** Did I miss anything else that we said that we kind of wanted When Opera and operationally?
-
-**elladillon:** I'll follow up with you all on the Marcel the missile, close the loop piece.
-
-**elladillon:** Anything else?
-
-**elladillon:** Or did that cover sort of what we.
-
-**elladillon:** We said out loud?
-
-**elladillon:** We wanted to make sure we started weaving into our ops here.
-
-**Aida Knezevic:** I think that's about it.
-
-**Hassan Rashid:** Yeah.
-
-**Aida Knezevic:** Yeah, yeah.
-
-**Ifeoluwa Adekoya:** I was going to just bring up Tonstyle.
-
-**Ifeoluwa Adekoya:** I noticed that we didn't talk about Tonstyle and I think this is the last week of Sprint.
-
-**Aida Knezevic:** Just quick updates.
-
-**Ifeoluwa Adekoya:** Yeah, no problem.
-
-**Ifeoluwa Adekoya:** So, quick update.
-
-**Ifeoluwa Adekoya:** We now have like 21.
-
-**Ifeoluwa Adekoya:** We have exactly 21 articles published.
-
-**Ifeoluwa Adekoya:** We did have an issue last week.
-
-**Ifeoluwa Adekoya:** This is sort of like a precedent issue.
-
-**Ifeoluwa Adekoya:** I brought up before about some terms having standard accounting definitions and quote to cash.
-
-**Ifeoluwa Adekoya:** Definition being a little different.
-
-**Ifeoluwa Adekoya:** I had to regenerate an article and Zach did mention that it didn't quite it.
-
-**Ifeoluwa Adekoya:** So the plan is to regenerate and then create another article explaining the other side.
-
-**Ifeoluwa Adekoya:** So it's about tiered pricing strategy.
-
-**Ifeoluwa Adekoya:** There's a tear.
-
-**Ifeoluwa Adekoya:** There's a standard definition for tiered pricing, and there is something entirely different called tiered pricing strategy.
-
-**Ifeoluwa Adekoya:** So that's the fix for that.
-
-**Ifeoluwa Adekoya:** But I also wanted to particularly flag that it seems that because we've changed or improved our artifact so much over the last eight weeks, we may have missed a couple of themes.
-
-**Ifeoluwa Adekoya:** So I want to go back to our artifact and see what I. I suspect that we have.
-
-**Ifeoluwa Adekoya:** In trying to fix things, we have brought back some old issues, some school of our artifacts.
-
-**Ifeoluwa Adekoya:** Again, make sure things are functioning as they should just to keep the client happy.
-
-**Ifeoluwa Adekoya:** Because they did flag that.
-
-**Ifeoluwa Adekoya:** Oh, they had made a couple of corrections earlier a couple of weeks ago, and those things are still persistent in that fact.
-
-**Ifeoluwa Adekoya:** Yeah.
-
-**Ifeoluwa Adekoya:** So those are like biggest things on the sales flag.
-
-**elladillon:** Yifei, thank you so much for bringing that up.
-
-**elladillon:** One of the things that William said is he felt actually like, oh, sorry, a puppy just arrived that we might.
-
-**elladillon:** That they converted kind of because there's so much investment in us, but that we shouldn't consider them green as they go to the growth team because of sort of some of these persistent issues.
-
-**elladillon:** And so I would absolutely ask.
-
-**elladillon:** Thank you for bringing that up.
-
-**elladillon:** That you proactively go back and make sure that we've cleaned up everything and that we're handing things over ticked and tied and tight to the growth team.
-
-**elladillon:** Because I think we probably need to recalibrate our momentum and our buy in with that.
-
-**elladillon:** With that org.
-
-**elladillon:** That was the impression I got from William.
-
-**elladillon:** Does that make sense to you?
-
-**Ifeoluwa Adekoya:** Yeah, 100%.
-
-**elladillon:** Okay, thank you.
-
-**elladillon:** Thank you for bringing all that up.
-
-**elladillon:** I appreciate it.
-
-**Aida Knezevic:** Now, about that puppy.
-
-**elladillon:** About the puppy.
-
-**elladillon:** I'm scratching.
-
-**elladillon:** I'm, like, scratching her to try and keep her from jumping up into the screen and saying, hello.
-
-**elladillon:** Yes, she's a.
-
-**elladillon:** She's a spat.
-
-**elladillon:** She's a handful.
-
-**elladillon:** All right, everybody.
-
-**elladillon:** Well, happy Monday.
-
-**Hassan Rashid:** Sorry.
-
-**elladillon:** And I'll talk to you all soon.
-
-**Aida Knezevic:** Sorry.
-
-**elladillon:** I have one question.
-
-**Aida Knezevic:** Ada.
-
-**Sydney Arin Go:** Do you need me on the calls tomorrow for Elementum, and then also on the calls after for Spendesk?
-
-**Aida Knezevic:** Was that that we agree that you will be on the kickoffs?
-
-**Sydney Arin Go:** I actually don't know.
-
-**Sydney Arin Go:** And I've been kind of poking pans and asking him if I will be on the kickoffs.
-
-**Sydney Arin Go:** I don't mind joining.
-
-**Sydney Arin Go:** I just also know that we're trying to be very cognizant of having one poc.
-
-**Aida Knezevic:** Yeah.
-
-**Hassan Rashid:** Especially.
-
-**Aida Knezevic:** Yeah, I don't.
-
-**Aida Knezevic:** I think you can skip.
-
-**Aida Knezevic:** I think.
-
-**Aida Knezevic:** Yeah, I think you can skip for now, and then if anything changes, we can implement that from next week.
-
-**elladillon:** Wait.
-
-**Aida Knezevic:** Awesome.
-
-**Aida Knezevic:** Thanks, Ada.
-
-**Aida Knezevic:** Thanks, all.
-
-**Aida Knezevic:** Thank you all.
-
-**Aida Knezevic:** See ya.
-
-**Aida Knezevic:** Bye.

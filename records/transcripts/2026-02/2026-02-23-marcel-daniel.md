@@ -4,199 +4,261 @@
 date: 2026-02-23
 time: 19:57 UTC
 duration: 32 minutes
+source: fireflies
 organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Daniel Lopes
+participants:
+  - name: Marcel Santilli
+    role: Founder & CEO, GrowthX
+    email: marcel@growthxlabs.com
+  - name: Daniel Lopes
+    role: CTO, GrowthX
+    email: daniel@growthxlabs.com
 fireflies_id: 01KJ61874JJZWXMZAYGQQZ27CK
 transcript_url: https://app.fireflies.ai/view/01KJ61874JJZWXMZAYGQQZ27CK
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel and Daniel discussed refining CheckThat's UI and scoring methodology with Esteban's support for rapid iteration. The team plans to bring Esteban onsite for approximately a month to accelerate UI development while working with static data first, with a targeted feature freeze and launch by mid-March. They aligned on integrating CheckThat and OS workflows, automating workspace creation with pre-sales flagging, and using a reputation-based vendor shortlist from analyst reviews to guide deep research and competitive analysis.
+Marcel and Daniel aligned on accelerating CheckThat's UI development by bringing Esteban (designer/developer) onsite for a month to iterate on static data, with target launch by March 17. They mapped integration between CheckThat and OS: automating workspace creation via API, using a reputation-based vendor shortlist (filtered through Gartner/G2/Forrester analyst reviews) to pre-populate competitor data and eliminate manual pre-sales research, and standardizing the audit report as a shared asset for both platforms.
+
+---
+
+## Context
+
+Marcel has invested over 200 hours on CheckThat in the past 30 days, with 100+ hours spent on UI code that distracted from core product development. The meeting focuses on three urgent priorities: (1) UI/UX refinement for CheckThat's three key outputs (public pages, authenticated user experience, and audit report), (2) documenting OS feature scope for mid-March launch, and (3) linking CheckThat and OS workflows to eliminate redundant research in sales and delivery. Daniel is unavailable March 9–16 due to personal commitments and needs the team to reach feature completion and QA by that date.
+
+---
+
+## Relevance
+
+**CheckThat (AI Visibility Software)**
+- Finalizing presence, reputation, and influence scoring methodology with real data validation
+- Building three primary UI outputs: public profiles, authenticated experience, and audit/grading interface
+- Creating static-data UI mockups before backend integration to validate UX with live data later
+
+**OS (Site Audit & Crawler)**
+- Planning two-week feature completion sprint, QA phase during Daniel's absence (March 9–16)
+- Integrating three-layer crawler: sitemap discovery → health check → multi-tier SEO analysis
+- Coordinating with CheckThat via API to automate workspace setup and pre-populate competitor research
+
+**Sales & Delivery**
+- Eliminating repetitive pre-sales research bottleneck by pre-computing CheckThat profiles for competitor categories
+- Using reputation-filtered vendor lists (Gartner/G2/Forrester leaders) to auto-trigger workspace creation and deep research
+- Delivering audit reports as shared asset across both products and sales process
+
+**Product Documentation & Knowledge**
+- Creating in-codebase product guides and tutorials to enable AI agents to learn product behavior in parallel with development
+- Updating handbook with methodology and thinking as products evolve (reducing outdated context debt)
+- Planning feature-complete documentation and enablement materials by March 17 launch
+
+---
+
+## Decisions & Commitments
+
+1. **Bring Esteban onsite ASAP** for one month to do rapid UI/UX iteration on CheckThat with Marcel, focusing on static data first
+2. **Feature-complete timeline for OS**: Next two weeks (through March 9), then QA/bug fixes March 9–16, launch by March 17
+3. **CheckThat audit report** becomes the primary launch feature—nail all screens for the report area before adding other features
+4. **API integration between CheckThat and OS**: Workspace creation in OS will trigger CheckThat profile creation and crawler setup via API
+5. **Pre-sales workspace flag** in CheckThat to streamline non-production research workspaces and eliminate manual setup
+6. **Vendor shortlist methodology**: Use top 25–50 brands from Gartner/Forrester/G2/Trust Radius magic quadrants to auto-populate competitor lists (no human approval needed for analyst-vetted vendors)
+7. **Documentation-first approach**: In-codebase product guides linked to code, updated during feature development, not after
+
+---
+
+## Open Questions
+
+- How will API authentication work between CheckThat and OS for automated workspace and crawler triggering?
+- Should the pre-sales workspace flag appear in the OS interface, or remain hidden from end users?
+- How will CheckThat scoring handle companies with <0.1% visibility (Esteban example)—the tiered modifier approach prevents 100 score, but is it intuitive to users?
+- When will Jose and Pedro (backend team) be available to design the architecture for CheckThat data querying and OS analytics integration?
+- Should the audit report support both CheckThat-branded and GrowthX-branded versions, or standardize to one?
+
+---
+
+## Overview & Key Topics
+
+- **UI/UX Development**: Esteban onsite for static-data UI mockups; focus on report area for March launch
+- **CheckThat Scoring**: Presence, reputation, influence methodology; tiered modifiers to prevent artificial 100 score
+- **OS Feature Scope**: Feature completion by March 9, QA by March 16, launch March 17; three-layer crawler system
+- **CheckThat + OS Integration**: API-driven workspace creation, shared audit report, auto-triggered competitor research
+- **Sales Efficiency**: Eliminate manual pre-sales research by pre-computing CheckThat profiles; use analyst-vetted vendor lists
+- **Documentation Strategy**: In-codebase product guides updated during development; handbook as single source of truth
+- **Product Architecture**: Jupyter notebook for data validation; render MCP for direct data querying; git submodule for docs sync
 
 ---
 
 ## Action Items
 
 **Marcel Santilli**
-- Confirm and communicate Esteban's start date for UI collaboration upon Daniel's approval
-- Continue refining presence, reputation, and influence scoring methodology with real data validation
-- Update and maintain internal documentation for CheckThat and OS integration and workflows
-- Coordinate data querying approach with backend team while Esteban focuses on UI design
+- Confirm Esteban's start date and green-light his onboarding for one-month UI collaboration
+- Continue refining presence, reputation, and influence scoring with real data validation using Jupyter notebook
+- Update GrowthX handbook with CheckThat methodology (presence, reputation, influence, shortcut recommendation paths)
+- Coordinate static-data UI development with Esteban; prepare second and third brands for sequential validation after CheckThat report UI ships
+- Document data querying approach and write guide for render MCP before involving backend team
 
 **Daniel Lopes**
-- Facilitate Esteban's onboarding ASAP to start UI development with static data
-- Oversee QA onboarding and documentation creation for OS feature freeze with target launch around March 17th
-- Support architecture and analytics integration between OS and CheckThat with backend team
-- Implement API workflows to automate workspace creation and site audits between CheckThat and OS platforms
+- Facilitate Esteban's onboarding ASAP
+- Drive OS feature completion by March 9 (coordinate with Jakob on analytics, Brad on three-layer crawler)
+- Oversee QA onboarding and documentation creation for feature-complete launch scope by March 17
+- Design API integration between CheckThat and OS (workspace creation, site audit, competitor list auto-population)
+- Implement pre-sales workspace flag in CheckThat to streamline non-production research workspaces
 
 ---
 
 ## Transcript
 
-**Marcel Santilli:** Link, copy, invite, link.
-
-**Daniel Lopes:** This meeting is being recorded.
-
-**Marcel Santilli:** And then you go into Fireflies and you go capture and then paste the link here and then put like, whatever the title is and says, start capturing and then approve it to get in.
-
-**Daniel Lopes:** Oh, nice.
-
-**Marcel Santilli:** But it's like a bit of a pain, you know, when it's an ad hoc meeting. It doesn't have any triggers to auto join.
-
-**Daniel Lopes:** Yeah, they don't have a local app.
-
-**Marcel Santilli:** So what I was thinking is to get your approval and alignment to bring Esteban. He said he's down for it for like a month or whatever and just have him sitting next to me. I've spent over 200 hours on CheckThat in the last 30ish days, and at least a hundred of those are UI coding things that weren't me connecting the dots. By having Esteban here, we can do a few half days and full days of iterating quickly.
+**Marcel Santilli:** So what I was thinking is to get your approval and alignment to bring Esteban. He said he's down for it for like a month or whatever, and just have him sitting next to me. I've spent over 200 hours on CheckThat in the last 30 days, and at least a hundred of those are UI coding things that weren't me connecting the dots. By having Esteban here, we can do a few half days and full days of iterating quickly.
 
 **Daniel Lopes:** Yeah, yeah.
 
-**Marcel Santilli:** The way to think about Steven is he's a designer that can code. He's a worse designer than most designers, but he's a better programmer than most designers.
+**Marcel Santilli:** The way to think about Esteban is he's a designer that can code. He's a worse designer than most designers, but he's a better programmer than most designers.
 
 **Daniel Lopes:** Yeah, let's do that. Makes a lot of sense.
 
-**Marcel Santilli:** So in my mind, there's three potential outputs here. One output is the public pages. Another output is what the experience for someone signed up and logged in is like. And then another output is like the equivalent of an audit or an AO grader. This one can be effectively the same for when we kick off an engagement as well as for CheckThat.
+**Marcel Santilli:** In my mind, there's three potential outputs. One is the public pages. Another is the authenticated user experience. And then another is like the equivalent of an audit or grader. This one can be effectively the same for when we kick off an engagement as well as for CheckThat.
 
 **Daniel Lopes:** Yeah, right, right.
 
-**Marcel Santilli:** The report is the easiest to do and will help validate. Just to show you, this current version takes a minute to load. But I took the MD files from all my outputs and created a quick report to visualize it better. There's too many tabs, it doesn't fit together. But it had like competitive landscape with a bit of an audit and competitive SEO analysis. This part is really cool because it looks at all their competitors by authority, keywords ranked, traffic value, backlinks, content pages and traffic per page.
+**Marcel Santilli:** The report is the easiest to do and will help validate. I took the MD files from all my outputs and created a quick report to visualize it better. It had competitive landscape with an audit and competitive SEO analysis. This part is really cool because it looks at all their competitors by authority, keywords ranked, traffic value, backlinks, content pages and traffic per page.
 
-**Daniel Lopes:** Yeah, yeah, yeah. I need to look at this. This is overlap because what we're building now, literally the three areas of OS is Jakob is sprinting through revamping the analytics collection of metrics and Brad is building the Crawler in a three layer system. The first layer is just a sitemap finder collecting all URLs. The second is a very basic crawler that hits all pages and gets the meta tags to see which ones are live, 404, or redirect. And then the third is a multi tier analysis with health check using data for SEO instead of Lighthouse.
+**Daniel Lopes:** Yeah, yeah, yeah. I need to look at this. This is overlap because what we're building now, literally the three areas of OS is Jakob sprinting through revamping analytics collection, and Brad is building the crawler in a three-layer system. First layer is sitemap discovery. Second is basic crawl that gets meta tags to see which are live, 404, or redirect. Third is multi-tier analysis with health check using SEO data instead of Lighthouse.
 
-**Marcel Santilli:** Yeah, yeah. Because this is all based on pretty much just URLs and slugs. This only uses Semrush MCP servers. And the idea here on this section was just like suggesting clusters without giving them how to do it, because ideas are cheap. It's just giving value without actually giving them an assignment.
+**Marcel Santilli:** This is based on URLs and slugs using Semrush MCP servers. The idea was suggesting clusters without prescribing how to do it—giving value without assigning work.
 
-**Daniel Lopes:** And very interesting.
+**Daniel Lopes:** Very interesting.
 
-**Marcel Santilli:** I created a new version asking how would you reimagine this app versus taking CheckThat and going refactor CheckThat. This is more of how would you approach it with our new methodology. And I feel like it's already closer. So you have the presence score, reputation which looks at overall reputation and reviews, community authority, analyst coverage, and community signals. Then perception, which is your perception score over time where you rank in perception and by each attribute by engine. And then influence score.
+**Marcel Santilli:** I created a new version asking how would you reimagine this app versus refactoring CheckThat. It's how would you approach it with our new methodology. You have presence score, reputation (overall reputation, reviews, community authority, analyst coverage, community signals), then perception (score over time, ranking by attribute and engine), and influence score.
 
 **Daniel Lopes:** How did you get all this data into this app?
 
-**Marcel Santilli:** This was like a deep researcher coming up with this and this is influenced by CheckThat data. But I set up the render MCP and Jose gave me that tip. So I can essentially query the data directly.
+**Marcel Santilli:** A deep researcher came up with this, influenced by CheckThat data. I set up the render MCP—Jose gave me that tip. So I can essentially query the data directly.
 
 **Daniel Lopes:** That's so scary. Make sure there's no deletion or write back.
 
-**Marcel Santilli:** I'm writing a guide on how I was planning on doing it first.
+**Marcel Santilli:** I'm writing a guide on how I was planning to do it first.
 
-**Daniel Lopes:** I think the ideal set up here would be to fly out Steven, he works with you on this and get the UI as close as possible focused on static data in the app. Like not query one off if needed.
+**Daniel Lopes:** I think the ideal setup would be to fly out Esteban, have him work with you, and get the UI as close as possible focused on static data in the app. Not query one-off if needed.
 
-**Marcel Santilli:** Yeah, exactly. Like query one off for only one brand. And then we're like cool, this looks great. Now let's do a second brand. And by the time we do a third, we're like okay. And then as we identify areas there's like okay, this is great. Then we can try to make it so the deep researcher is querying things that should just be querying from a public page like information it needs.
+**Marcel Santilli:** Yeah, exactly. Query one-off for only one brand. We're like, cool, this looks great. Now a second brand. By the third, we're confident. Then we can make it so the deep researcher queries things that should be from a public page.
 
-**Daniel Lopes:** If he could come ASAP, and you guys finish the UI as close as possible but static, then you can bring in Jose to think about the architecture because Jacob was thinking about all the clickhousing analytics data and high volume metrics from OS. That would have overlap with the architecture for this. And then they can shape the technical side. If Stefan was here already, I could see that just being like two weeks on this, you two working together. And then second half March is turning that into reality with Jose and Pedro.
+**Daniel Lopes:** If he could come ASAP and you guys finish the UI as close as possible but static, then you can bring in Jose to think about the architecture. Jacob was thinking about ClickHouse analytics data and high-volume metrics from OS. That overlaps with the architecture here. They can shape the technical side. If Esteban was here already, I could see that being two weeks on this—you two working together. Then second half March is turning that into reality with Jose and Pedro.
 
-**Marcel Santilli:** Yeah, exactly. So he said he's available, I checked in with him. He's available if needed. So I can tell him to give him the green light.
+**Marcel Santilli:** Yeah, exactly. He said he's available. I checked with him. He's available if needed. I can tell him to give him the green light.
 
 **Daniel Lopes:** Make sense.
 
-**Marcel Santilli:** I modified the presence rate today because it was too heavily weighted towards visibility quality. I made changes so now the next stage is going to be focusing on querying the data and assigning scores and seeing if it makes sense with actual real data.
+**Marcel Santilli:** I modified the presence rate today because it was too heavily weighted toward visibility quality. Now the next stage is focusing on querying data, assigning scores, and seeing if it makes sense with real data.
 
-**Daniel Lopes:** And that can even be like a Jupyter notebook for you to be querying this stuff and validating the formulas while he's doing the UI.
+**Daniel Lopes:** That can even be like a Jupyter notebook for you to query this stuff and validate formulas while he's doing the UI.
 
-**Marcel Santilli:** Yeah. For example, I modified presence rates. Like I don't think this makes sense because as I did the UI for the audit, presence rates were too high. Eon has 0.1% visibility so a 30 score out of 100 if they have 0.1% visibility makes no sense. I came up with tweaks where you have different tiers and modifiers so it's effectively impossible to hit 100. That way for you to be 100, it's like reaching AGI. So there's always a gap to fill.
+**Marcel Santilli:** Yeah. I modified presence rates. I don't think this makes sense. When I did the UI for the audit, presence rates were too high. Eon has 0.1% visibility, so a 30 score out of 100 makes no sense. I came up with tweaks—different tiers and modifiers so it's effectively impossible to hit 100. To be 100, it's like reaching AGI. There's always a gap to fill.
 
 **Daniel Lopes:** Yeah.
 
-**Marcel Santilli:** It's getting to the same place we got to on OS, which is okay, now there's agnostic patterns we can hit. Like low presence plus low influence means AI has no material from you, establish source from scratch. High reputation plus low presence, okay cool. So those are all shortcut paths to recommend something.
+**Marcel Santilli:** It's getting to the same place we got with OS. Low presence plus low influence means AI has no material from you—establish source from scratch. High reputation plus low presence—okay, cool. Those are shortcut paths to recommend something.
 
 **Daniel Lopes:** That makes a lot of sense.
 
-**Marcel Santilli:** Let me update the handbook with this because there's this energy that happens when you put something on there. And when I get the grid to look good, I'm like yes, okay cool. This is awesome. This is going to work.
+**Marcel Santilli:** Let me update the handbook with this. There's energy that happens when you put something there. When the grid looks good, I'm like, yes, okay cool. This is awesome. This is going to work.
 
-**Daniel Lopes:** Yeah, yeah, yeah. I know exactly what you mean. Words and fat marker stuff just makes me less anxious. Still anxious until I see all the screens.
+**Daniel Lopes:** Yeah, yeah, yeah. I know exactly what you mean. Words and fat marker stuff make me less anxious. Still anxious until I see all the screens.
 
 **Marcel Santilli:** Yeah.
 
-**Daniel Lopes:** Where we are with OS, I think we need to get to that stage. I think you progressed enough on words. If we can get to where we have all the screens, or at least all the screens for one area. If we just pick the report and do all those screens for the report. The feature that we launch is this report area.
+**Daniel Lopes:** Where we are with OS, I think we need to get to that stage. You've progressed enough on words. If we can get all the screens, or at least all screens for one area—just pick the report and do all those screens. The feature we launch is this report area.
 
-**Marcel Santilli:** By the way, I highly recommend as you're building things to update the handbook with how your thinking is evolving. Everything is here, so at any point if you want to use it, it's all here. The latest and greatest.
+**Marcel Santilli:** I highly recommend updating the handbook with how your thinking evolves. Everything is here. At any point, you want to use it—it's all here. The latest and greatest.
 
-**Daniel Lopes:** Yeah, I need to do that. I do something similar on the project folder. But this is a good idea. I actually put it on the agenda for today. Second half of this month once we get past feature completion. I think the timeline for OS will be this week and next, working as hard as we can to get to QA stage from ninth forward. We onboard a QA and beta, Whedon and whoever can test. During that week as well we create guides for how to use the product in the product code, here's how this screen works, here's the high level.
+**Daniel Lopes:** Yeah, I need to do that. I do something similar in the project folder, but this is a good idea. I put it on the agenda for today. Second half of this month once we get past feature completion. The OS timeline is this week and next, working hard to get to QA stage by the ninth. We onboard QA and beta—Whedon and whoever can test. During that week, we create guides for how to use the product in the code: here's how this screen works, high level.
 
-**Marcel Santilli:** That's why I created guides and tutorials. So if it's internal we can use this. And I create a section or a tab. That's why I created tutorials. But we can do like product tabs as well.
+**Marcel Santilli:** That's why I created guides and tutorials. If it's internal, we can use this. I create a section or tab. We can do product tabs as well.
 
-**Daniel Lopes:** But the value of being in the code base is that agents can read it while you're coding and vice versa, you can create pages really fast by reversing the code.
+**Daniel Lopes:** The value of being in the codebase is that agents can read it while you're coding, and vice versa—you create pages fast by reversing the code.
 
-**Marcel Santilli:** Yeah, that's one of the restrictions maybe we have. For me I effectively do the same. But the trade off of having it locally is then anytime I need that context for anything else, it becomes harder. So I just run it as a workspace parallel folder.
+**Marcel Santilli:** That's one restriction we have. I effectively do the same, but the trade-off of having it locally is then any time I need that context for anything else, it becomes harder. I run it as a workspace parallel folder.
 
-**Daniel Lopes:** Yeah but you can't do like CI. We shouldn't launch a large feature without docs. Like we can reinforce things like that on the output, but you can tie the whole thing together.
+**Daniel Lopes:** But you can't do CI. We shouldn't launch a large feature without docs. We can reinforce things on the output, but you can tie the whole thing together.
 
-**Marcel Santilli:** Is there a way to like effectively do a symlink or something close to that to where it's in both places, but anytime a push happens to one, it syncs to the other?
+**Marcel Santilli:** Is there a way to do a symlink or something close—where it's in both places, but any time a push happens to one, it syncs to the other?
 
-**Daniel Lopes:** You can do a git submodule. It's a bit of a hassle, but the docs become its own repo. You can send link as well.
+**Daniel Lopes:** You can do a git submodule. It's a bit of a hassle, but the docs become their own repo. You can send link as well.
 
-**Marcel Santilli:** Right now it's like I had docs in context one and now that I started making docs in the handbook better, I almost never reference my docs in context zone because they're so outdated. It would effectively take a thousand dollars worth of credits to make it better.
-
-**Daniel Lopes:** Yeah.
-
-**Marcel Santilli:** The handbook is the most thought through. Regardless, I think it would be really helpful for me to convert the OS things we've discussed into docs here. If we had the equivalent of what I have for CheckThat for OS or if you point me in the right direction, I can help.
-
-**Daniel Lopes:** I think that's what I was thinking that this should be done when we make all the features. As in demo, what is feature complete, what is not a part of the scope. So what is there is actually the training for how to learn. That's like William, this part is not going to need a lot of training. But everyone else needs training so it has to be really enablement material.
-
-**Marcel Santilli:** So it's almost like methodology more here because we have too many things to read. People don't read.
+**Marcel Santilli:** Right now it's like I had docs in context one. Now that I'm making docs in the handbook better, I almost never reference my context docs because they're so outdated. It would take a thousand dollars worth of credits to make them better.
 
 **Daniel Lopes:** Yeah.
 
-**Marcel Santilli:** Yeah, that's true. I was just using this like quick context. Everything. So I don't have to explain like what an opportunity is. I don't have to explain. And it shortcuts like the things. But anyways it's fine. It's not a big deal. But even this helps. Having this already explained, which I took from your doc.
+**Marcel Santilli:** The handbook is the most thought through. Regardless, I think it would be helpful for me to convert the OS things we've discussed into docs. If we had the equivalent of what I have for CheckThat for OS, or if you point me in the right direction, I can help.
+
+**Daniel Lopes:** I think that should be done when we make all the features. Demo what is feature complete, what's not in scope. What's there is the training for how to learn. For someone like William, this doesn't need a lot of training. But everyone else needs training, so it has to be really enablement material.
+
+**Marcel Santilli:** It's almost like methodology, because we have too many things to read. People don't read.
 
 **Daniel Lopes:** Yeah.
 
-**Marcel Santilli:** Like the product ecosystem just helps a lot. Understanding like, yeah, we'll figure out.
+**Marcel Santilli:** That's true. I use this like quick context—everything. So I don't have to explain what an opportunity is. It shortcuts things. But having this already explained helps. I took it from your doc.
 
-**Daniel Lopes:** I think a big part of the second half of the month once we lock in all the features. Because there's still some features to be defined as in how can we ship this in the next two weeks? Because the way I'm thinking is the next two weeks is to get your feature complete. Whatever I don't finish, because I need to be off from like 9th to 16th because of my parents here. And then during that week they will be in QA bug fixes. And then when I come back, it's William. The beta team starts and documentation. I write it. And that week will also be the week that we can launch the output. The guys are just finishing wrapping up the set of features that were not possible before until the foundation. So the cost and the like replacing Langviews and Galileo became possible just because we have all this infrastructure. So I want to have these features as part of the launch. So they're clear, oh wow, this is not possible before. So they're finishing that this week. Next week they essentially QA everything and polish. And then they have one week where I'm out to do whatever is left and then announcement on the 17th. Both products will be essentially in a good spot on the week of the 15th.
+**Daniel Lopes:** Yeah.
 
-**Marcel Santilli:** Okay, I think that sounds good. How should I think about this? In my mind, it's like it's almost like a subset of CheckThat in the public pages plus a subset of the OS is what we use in both as an audit. And it will accelerate the crap out of efficiency. Because most of the inefficiency in both our sales process and the first two weeks of a sprint is go research them, go research their space, go research all the competitors.
+**Marcel Santilli:** The product ecosystem helps a lot. Understanding—yeah, we'll figure it out.
 
-**Daniel Lopes:** I think OS needs to do it as part of the workspace calibration. It's the setup phase. And yeah, that is because the workflow we actually have there is that for the opportunity finding.
+**Daniel Lopes:** A big part of the second half of the month is once we lock in all the features. There's still some features to define—how can we ship this in two weeks? The way I'm thinking: next two weeks get to feature complete. Whatever I don't finish—I'm off from the ninth to sixteenth because of my parents—during that week it's QA bug fixes. When I come back, it's William. Beta team starts and documentation. That week we launch the output. The guys are finishing features that weren't possible before until the foundation—replacing Langviews and Galileo became possible because of this infrastructure. I want those features in the launch. So they're clear: oh wow, this is not possible before. They're finishing this week. Next week QA and polish. Then one week where I'm out to do whatever's left, then announcement on the seventeenth. Both products will be in a good spot the week of the fifteenth.
 
-**Marcel Santilli:** But you need to do it so there's one quick thing though. You definitely need to do it as part of the setup. But we do it no matter what in sales and like. And we need to do a version of it for CheckThat. For instance right now, Corelogix. The deal is kind of stuck and had I done a quick process of just showing their gap, it would move a little bit more.
+**Marcel Santilli:** Okay, I think that sounds good. How should I think about this? In my mind, it's like a subset of CheckThat in the public pages plus a subset of OS is what we use in both as an audit. It'll accelerate efficiency. Most inefficiency in both our sales process and first two weeks of a sprint is: go research them, go research their space, go research all the competitors.
 
-**Daniel Lopes:** Oh, I think the audit is. We talked about that with the team last week because we have the on page health stuff that data for SEO gives that we can do for like 5 dollars for like 10,000 pages or something. And then you have site wide things that we would need anyway. But we could expose those as consumable things.
+**Daniel Lopes:** OS needs to do it as part of workspace calibration. It's the setup phase. That's the workflow for opportunity finding.
+
+**Marcel Santilli:** You definitely need to do it as part of setup. But we do it no matter what in sales. We need a version of it for CheckThat. For instance, right now, Corelogix—the deal is stuck. Had I done a quick process just showing their gap, it would move more.
+
+**Daniel Lopes:** I think the audit is... we talked about that with the team last week. We have on-page health stuff that data for SEO gives us. We can do about five dollars for ten thousand pages. Then site-wide things we'd need anyway. We could expose those as consumable things.
 
 **Marcel Santilli:** Yeah.
 
 **Daniel Lopes:** Integrate both.
 
-**Marcel Santilli:** Exactly. Like imagine if like you send a version of this during sales. But then there's parts of this that are similar to Crunchbase where if you go to Crunchbase there's locks everywhere. Or if you go down here, it's like you know, it'll be cleaner. But the idea is like as much as possible it's public and CheckThat pages and we use that so we don't have to do deep research from scratch on every brand. Like if you've already done the whole, you already mapped the whole category, you've already done reputation analysis and overall brand context on every player. You have their AI visibility already computed. We're doing that already. And then we're just going and doing a quick audit on a few more things and then presenting mostly that information.
+**Marcel Santilli:** Exactly. Imagine sending a version of this during sales. But parts are like Crunchbase—there are locks everywhere. Or cleaner. But as much as possible, it's public CheckThat pages so we don't have to do deep research from scratch on every brand. If you've already mapped the whole category, done reputation analysis, overall brand context on every player, have their AI visibility computed—we're doing that. Then we do a quick audit on a few more things and present mostly that information.
 
-**Daniel Lopes:** Yeah. Like I don't see why we wouldn't be able to like if you have a sales lead, you go into CheckThat, you create a workspace. You go into OS, create a workspace and then let that trigger the site audit and the basic crawler and sitemap discovery. And you do the same on CheckThat to find all the visibility and all the things. And one calls the other as an API.
+**Daniel Lopes:** Yeah. I don't see why we wouldn't be able to—if you have a sales lead, you go into CheckThat, create a workspace. Go into OS, create a workspace, then let that trigger the site audit and basic crawler and sitemap discovery. Do the same on CheckThat to find all visibility and things. One calls the other as an API.
 
-**Marcel Santilli:** Yeah, okay. Yeah. Because like these audit pages can both be checked out or GrowthX branded. It's just swapping the logo and where you host it. But it's like effectively it's the same thing.
+**Marcel Santilli:** Yeah, okay. Because these audit pages can be CheckThat-branded or GrowthX-branded. It's just swapping the logo and where you host it. Effectively it's the same thing.
 
-**Daniel Lopes:** Yeah. And like if you do that, let's say CheckThat wants to generate these pages. Like let's say we want to have those audit pages as like a magic link inside CheckThat that you can send around as a salesperson. If we have like this API that requires doing something on OS to enable to render that, that is possible.
+**Daniel Lopes:** Yeah. And if you do that—let's say CheckThat wants to generate these pages. Like, we want those audit pages as a magic link inside CheckThat that a salesperson can send around. If we have an API that requires doing something on OS to render that, that's possible.
 
-**Marcel Santilli:** So do we need to create a workspace? Because like what I'm noticing with CheckThat is like I have to create the workspace so I'm creating a bunch of workspaces. They're not really effectively workspaces. It's me like running these processes, which is fine, but it's almost like a pre stage workspace.
+**Marcel Santilli:** So do we need to create a workspace? What I'm noticing with CheckThat is I have to create the workspace. I'm creating a bunch of workspaces. They're not really effectively workspaces. It's me running these processes, which is fine, but it's almost like a pre-stage workspace.
 
-**Daniel Lopes:** Yeah, we can shortcut that. We can have like a pre sales workspace flag or something that doesn't show up in the grid. And it's just used for doing site audits. And that's pretty straightforward. And it could even create on the fly.
+**Daniel Lopes:** Yeah, we can shortcut that. We can have a pre-sales workspace flag or something that doesn't show up in the grid. It's just used for doing site audits. Pretty straightforward. Could even create on the fly.
 
-**Marcel Santilli:** Because CheckThat actually has more dependencies on having to run things a bit more. But then were you imagining that? So let's imagine we don't know there's a legit brand like Corelogix. They're legit. Or even Eon, which just raised 127 million. They're legit, they effectively need help. But we don't know if they're going to be a free user, a CheckThat user, or a GrowthX client. Do you imagine like they come in inbound and they're very warm and legit? Do you imagine automatically trigger, which one creates first a CheckThat account or OS account first?
+**Marcel Santilli:** Because CheckThat has more dependencies on having to run things. But were you imagining that? So let's imagine a legit brand like Corelogix—they're legit. Or Eon, which just raised 127 million—they're legit. They need help. But we don't know if they're a free user, CheckThat user, or GrowthX client. They come in inbound, warm and legit. Do you imagine automatically trigger, which one creates first—CheckThat account or OS account?
 
-**Daniel Lopes:** Yeah, I think the CheckThat one makes a lot of sense because CheckThat runs a bunch of research and creates articles and stuff first. And then OS essentially has a prerequisite to run this first.
+**Daniel Lopes:** Yeah, CheckThat makes a lot of sense because CheckThat runs a bunch of research and creates articles first. OS has a prerequisite to run after.
 
 **Marcel Santilli:** And then OS is all about auditing their website.
 
-**Daniel Lopes:** Yeah, ideally, ideally every company on OS has a CheckThat profile so we don't have to do all this heavy lifting of reputation and competitor and all that.
+**Daniel Lopes:** Yeah, ideally every company on OS has a CheckThat profile so we don't have to do all this heavy lifting of reputation and competitor stuff.
 
-**Marcel Santilli:** But the ideal process here is like we're computing the workspace and CheckThat has to be created to do certain things. So let's pick this category. This category has 50 players. Okay, let's make sure those 50 profiles are created and then make sure we're tracking all 50.
+**Marcel Santilli:** The ideal process is we're computing the workspace and CheckThat has to be created to do certain things. Let's pick a category. This category has fifty players. Make sure those fifty profiles are created and tracked.
 
-**Daniel Lopes:** The competitors I added on the workspace. Now workspace set up on OS is hard coded. Because I was expecting to be able to hit an API on CheckThat and pull from there. Like one of the steps in the setup should be like create a CheckThat profile.
+**Daniel Lopes:** The competitors I added to the workspace. Now workspace setup on OS is hardcoded because I was expecting to hit an API on CheckThat and pull from there. One of the setup steps should be create a CheckThat profile.
 
-**Marcel Santilli:** The way I was doing here that I think could be really interesting is use reputation to create a short list of 25 to 50 which are the ones that Gartner and G2 rate the highest. It's a combination of all of them essentially. Like it's effectively like you have the entire audience and then the short list that for sure triggers are the ones that have shown up and have legit reputation.
+**Marcel Santilli:** The way I was doing here is interesting—use reputation to create a short list of twenty-five to fifty, the ones Gartner and G2 rate highest. It's a combination of all of them. You have the entire audience, then the short list—ones that have shown up and have legit reputation.
 
-**Daniel Lopes:** Yeah, like, it's essentially like there's 50 of these, right? Where they show up as like a leader in the magic quadrant.
+**Daniel Lopes:** Yeah, like, it's essentially fifty of these, right? Where they show up as a leader in the magic quadrant.
 
-**Marcel Santilli:** Exactly. Like some spaces call it one thing, others call it something else. Cloud native storage versus data center backup versus enterprise backup. But they all effectively are similar. And then there's our version of how we categorize too, which is going to evolve. But our version is like data and backup or something like that.
+**Marcel Santilli:** Exactly. Some spaces call it one thing, others another—cloud native storage versus data center backup versus enterprise backup. They're effectively similar. Our version of how we categorize will evolve. Our version is like data and backup or something.
 
 **Daniel Lopes:** Right, right.
 
-**Marcel Santilli:** And this essentially creates a really good short list of legit companies. And then that's the short list that those for sure should be mapped, should have deep research, should be analyzed. Because if Gartner put an analyst on a vendor and that analyst talked to over 20 customers, they have to have like over X amount of revenue, they are as legit as they get. You should know them.
+**Marcel Santilli:** This creates a really good short list of legit companies. That's the short list that for sure should be mapped, should have deep research, should be analyzed. If Gartner put an analyst on a vendor and that analyst talked to over twenty customers, they have over X amount of revenue, they're as legit as it gets. You should know them.
 
 **Daniel Lopes:** Yeah.
 
-**Marcel Santilli:** And so that was kind of my thought process. Between Gartner, Forrester, and some of these, plus peer reviews, mostly G2 and Trust Radius, Giga Ohm, you can get to the top 25 to 50 legitimately reviewed ones. And then those for sure we trigger. And we don't need a human to approve it.
+**Marcel Santilli:** Between Gartner, Forrester, peer reviews—mostly G2, Trust Radius, Giga Ohm—you get to top twenty-five to fifty legitimately reviewed ones. Those for sure we trigger. No human approval needed.
 
 **Daniel Lopes:** Yeah, it makes sense.
 
-**Marcel Santilli:** And then for the OS setup, hopefully we can just pull from that.
+**Marcel Santilli:** And for OS setup, hopefully we can just pull from that.
 
 **Daniel Lopes:** From that. Yeah, we can pull from. Yep.
 
@@ -204,7 +266,7 @@ Marcel and Daniel discussed refining CheckThat's UI and scoring methodology with
 
 **Daniel Lopes:** Okay, cool. All right. I'm gonna work on some.
 
-**Marcel Santilli:** All right, man. Sounds good. I'll let Stone know, and then I'll keep you posted.
+**Marcel Santilli:** All right, man. Sounds good. I'll let Esteban know, and then I'll keep you posted.
 
 **Daniel Lopes:** Sounds good. Yeah, whenever the sooner he can come, the better.
 

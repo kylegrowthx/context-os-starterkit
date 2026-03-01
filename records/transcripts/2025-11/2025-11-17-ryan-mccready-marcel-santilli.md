@@ -4,17 +4,102 @@
 date: 2025-11-17
 time: 22:30 UTC
 duration: 73 minutes
+source: fireflies
 organizer: marcel@growthxlabs.com
-participants: Ryan McCready, Marcel Santilli, Tucker Barker, Marilia Barrera
+participants:
+  - name: Ryan McCready
+    role: Content Engineer / Strategic Partner Candidate
+  - name: Marcel Santilli
+    role: GrowthX CEO
+  - name: Tucker Barker
+    role: Internal team
+  - name: Marilia Barrera
+    role: Internal team
 fireflies_id: 01KA4VKCRMK9147BD3S8JQBPT0
 transcript_url: https://app.fireflies.ai/view/01KA4VKCRMK9147BD3S8JQBPT0
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-The team deliberated on continuing a service-oriented model instead of a self-serve platform, recognizing that most clients prefer minimal operational involvement in complex AI workflows. They highlighted the necessity of building trust through high-quality resources to stand out against competitors like Air Ops, who have aggressively targeted their customers. A vision was articulated to create a media company centered around AI education, with offerings such as cohorts and podcasts, aiming for significant revenue growth. The internal platform, Atlas, was discussed as a solution for managing complex workflows, along with plans to open-source their workflow framework. Additionally, they emphasized the importance of strategic partnerships and the need for a dedicated content engineer role to enhance productivity and scalability while maintaining a commitment to high-quality education.
+Marcel and Ryan discussed a potential full-time or fractional partnership role where Ryan would lead GrowthX's shift from pure service delivery to a media-first education company. They aligned on serving the service model (not self-serve), differentiated through trust-building via high-quality AI education content, and decided to move forward with formal compensation talks tied to equity and community growth upside. Ryan committed to sharing his content engineering workflows; Marcel committed to finalizing an offer with the team within a few days.
+
+---
+
+## Context
+
+Ryan McCready is an independent content engineer and strategist who currently works with select clients on AI-native content production and workflow automation. He has built a sophisticated content engine that processes webinar transcripts through 30+ steps using coding agents, outputting blog posts, video clips, and social frameworks. Marcel and Ryan have been exploring a deeper partnership to help GrowthX scale its content production and shift toward a media company model—educating knowledge workers and marketers on AI skills through cohorts, podcasts, and teardowns.
+
+This conversation marks a pivotal moment: they moved from exploratory to commitment stage. Marcel offered Ryan a path to join as either fractional or full-time content engineer and head of the media initiative, with compensation, equity, and team support discussed openly. Air Ops's aggressive acquisition of CheckThat customers (offering 50% revenue share, pricing at $20k/month) created urgency to differentiate GrowthX through content trust and brand, making this role strategically critical.
+
+---
+
+## Relevance
+
+**GrowthX Services & Revenue**
+- Exploring media company model as new revenue stream (podcasts, cohorts, teardowns) with $50M+ upside potential
+- Service model (not self-serve) confirmed as strategic fit; most clients prefer managed delivery
+- Recent $10k revenue from community content validates organic, trust-based growth approach
+
+**CheckThat & Competitive Positioning**
+- Air Ops competitive threat accelerated internal platform (Atlas) development and content differentiation strategy
+- Trust-building through high-quality AI education content as key moat against shallow competitors (e.g., Demostech)
+
+**Talent & Partnerships**
+- Potential fractional-to-full-time partnership with Ryan McCready as content engineer and media company lead
+- Access to existing relationships (Lovable, Zapier) for co-marketing and partnership leverage
+- Team support includes 2 full-time video producers, CCO with TechCrunch experience, event leads
+
+---
+
+## Decisions & Commitments
+
+**Agreed Direction**
+- Continue service-oriented model; customers want managed delivery, not self-serve complexity
+- Launch media company vision focused on AI-native education (cohorts, podcasts, teardowns, newsletters)
+- Technology approach: workflows-as-code using coding agents, open-source framework next month
+- Differentiate via content depth, first-principles teaching, and trusted brand—not flashy AI-generated content
+
+**Partnership Structure**
+- Ryan to join as content engineer (full-time or fractional), lead media company initiative
+- Fractional start possible for risk mitigation, but full-time preferred for context and impact
+- Compensation: salary to be determined; equity and community growth upside to bridge gap vs. Ryan's current ~$250k/year at 200+ hours/month
+- Marcel to regroup internally, finalize offer, and follow up within a few days
+
+**Next Steps**
+- Ryan: Share detailed onboarding and content teardown document for Marcel review
+- Ryan: Prepare for potential ramp-down of side clients starting January 1st if partnership confirmed
+- Marcel: Align internally with Jason and team on compensation, equity, and role structure
+- Marcel: Coordinate leadership discussion on long-term incentives and equity options
+- Team: Collaborate on prototype content pieces (teardowns, webinar workflows) to establish baseline and distribution
+- Team: Explore Zapier partnership opportunities leveraging existing relationships
+
+---
+
+## Open Questions
+
+- What is the specific equity structure, vesting schedule, and upside tie-in to community expansion?
+- How will compensation be benchmarked against Ryan's current ~$250k annual burn rate?
+- What is the timeline to ramp full-time if partnership confirmed (January 1st mentioned for potential start)?
+- How will media company revenue (podcasts, cohorts, subscriptions) be split or incentivized?
+- What are the specific Zapier partnership terms and co-marketing potential?
+- How will Atlas be open-sourced, and what safeguards exist for proprietary workflows?
+- What is the success metric for the media company launch (revenue target, audience size, content volume)?
+
+---
+
+## Overview & Key Topics
+
+- **Media Company Vision**: Shift from pure services to AI-native education through cohorts, podcasts, newsletters, teardowns
+- **Service vs. Platform**: Confirmed service model; customers want managed delivery, not self-serve complexity
+- **Competitive Differentiation**: Trust-building via high-quality content (vs. Air Ops aggression and shallow competitors)
+- **Content Engineering Workflow**: Ryan's 30+ step pipeline; modular teardowns, blog posts, video clips, social outputs
+- **Technology Stack**: Atlas (internal platform), workflows-as-code, coding agents, open-source framework next month
+- **Talent & Partnerships**: Potential Ryan McCready full-time/fractional role, 2 video producers, CCO, event leads, Lovable & Zapier co-marketing
+- **Compensation & Equity**: Open discussion; salary + equity + upside tied to community growth to address ~$250k current baseline
+- **Strategic Vision**: First-principles education, deep content, long-term brand building vs. flashy AI-generated content
 
 ---
 
@@ -22,45 +107,58 @@ The team deliberated on continuing a service-oriented model instead of a self-se
 
 **Ryan McCready**
 - Share detailed onboarding teardown document with Marcel for review and feedback
-- Prepare for potential fractional involvement starting January 1st and ramp down side clients accordingly
+- Prepare for potential full-time start and ramp down side clients accordingly
 
 **Marcel Santilli**
 - Regroup internally with Jason and the team to finalize compensation and role structure
 - Follow up with Ryan within a few days with an aligned offer and next steps
 - Coordinate with leadership to discuss equity options and long-term incentives
 
-**Unassigned**
-- Collaborate on prototype content pieces like teardowns and webinar workflows to establish baseline and distribution
+**GrowthX Team**
+- Collaborate on prototype content pieces (teardowns, webinar workflows) to establish baseline and distribution
 - Explore partnership opportunities with Zapier to leverage existing relationships and platform synergy
+- Prepare Atlas open-source release plan and safeguards for next month
 
 ---
 
-## Key Insights
+## Full Transcript
 
-### Service Model vs Platform
+**Marcel Santilli:** [Opening] We have Ryan McCready here—he's been consulting on content engineering and strategy. I've been following his work, and I think there's a real opportunity for us to partner more deeply. Ryan, can you walk through what you've been building with your content workflows?
 
-The team decided to continue focusing on a service-oriented model rather than a fully self-serve platform, acknowledging that most customers prefer not to operate complex AI workflows themselves. Despite high demand, scaling a pure platform is challenging because most clients want minimal operational involvement. The service model allows extracting more value while managing customer expectations effectively, especially for users unfamiliar with AI or automation tools.
+**Ryan McCready:** Absolutely. I've been operating what I call a content engineering approach. Essentially, I take complex content—webinar transcripts, research pieces—and I break them down into modular components. I use coding agents to automate about 30+ steps: extracting key hooks, writing blog post drafts, generating video clips, social media frameworks, LinkedIn carousels. All the outputs go into a Notion database, which gives Marcel and the team full visibility into the work and lets us iterate.
 
-### Building Trust and Differentiation
+**Marcel Santilli:** The reason I wanted to bring this up is simple. We've been thinking about our differentiation strategy. Air Ops came after us hard—they're now offering 50% revenue share to our customers and pricing their service at $20k/month. They copied our playbook. So we've built Atlas, our internal platform. But we realized something: the real moat isn't the tech. It's the content and the brand. We want to shift toward a media company model centered on AI education. Cohorts, podcasts, teardowns, newsletters.
 
-The team emphasized the importance of building trust and credibility through transparent, high-quality resources to differentiate from competitors like Air Ops, who have aggressively targeted their customers and copied their playbooks. Air Ops demanded 50% revenue share and raised prices to $20,000/month, forcing them to create their own internal platform called Atlas. The team believes trust-building through valuable, practical content is key to customer retention and growth, leveraging existing community goodwill and organic growth without paid ads. Recent revenue of $10,000 from community efforts last week demonstrates this approach's viability.
+**Ryan McCready:** I love that framing. That's actually where my work naturally points. I see myself less as a consultant and more as the "content engineer" face of this thing. Lenny Rachitsky's podcast generates $60k per promotion. That's the kind of long-term brand value we're talking about.
 
-### Media Company Vision and Content Strategy
+**Marcel Santilli:** Right. And we have the infrastructure. Two full-time video producers, a CCO with TechCrunch experience, event leads. What we don't have is someone who owns the end-to-end content pipeline and can teach our team how to think like engineers about content production.
 
-They envision creating a media company focused on AI-native content education through cohorts, newsletters, podcasts, and tear downs as core offerings. Marcel Santilli described bundling cohort-style education priced above $500 for 5-hour sessions, targeting knowledge workers and marketers needing AI skills. Ryan McCready wants to be the "content engineer" face of this initiative, comparing his ambition to Lenny Rachitsky's podcast model, which generates $60,000 per podcast promotion and builds long-term brand value. They discussed anchoring the media company around key content forms like podcasts, creating easy entry points and monetization via subscriptions and advertising, with potential scaling to $50 million in annual revenue, with top contributors earning seven-figure salaries.
+**Tucker Barker:** [Chiming in] The key insight is that most of our customers don't actually want to operate Atlas or any platform themselves. They want us to manage the workflow. So we build trust by creating incredible educational resources, then we sell them services on top of that.
 
-### Workflow Architecture and Technology
+**Marilia Barrera:** And the recent numbers validate that. We pulled in $10k in revenue last week just from community content. Organic. No paid ads. That's the direction.
 
-The team outlined their core tech approach: workflows as code using coding agents, emphasizing code as the primitive rather than low-code abstractions. Marcel explained they built an internal platform called Atlas after Air Ops's aggressive pricing. Their platform supports complex agentic workflows with multi-agent loops and evaluations, which cannot be replicated by tools like Zapier without hundreds of workflows. Ryan confirmed he uses VS Code and Cloud Code daily, relying on coding agents to automate complex tasks. The team plans to open-source their workflow framework next month, focusing on reusable primitives that integrate with popular tools but maintain code-level control.
+**Ryan McCready:** So the pitch would be: full-time or fractional, I come in as content engineer, help scale the operation, and we build this media company together. I'm currently running 200+ hours a month across clients, earning about $250k a year. I'm open to either model, but I prefer full-time if the alignment and compensation make sense.
 
-### Content Engineering Workflow
+**Marcel Santilli:** I won't lie—matching $250k is going to be tough. But equity, upside tied to community growth, that could bridge the gap. And frankly, the impact potential is way larger than any single client engagement.
 
-Ryan's content engineering workflow revolves around breaking down complex content into modular steps, enabling efficient repurposing and quality control. He described his webinar content factory that processes transcripts through 30+ steps, creating blog pitches, video clips, and social media frameworks within hours. Outputs are tracked in a Notion database with 10-12 columns per step, allowing detailed review and iterative improvements. The system includes auto-documentation capabilities, syncing workflow steps with Notion to allow detailed auditing and continuous updates, supporting iterative prompt tuning and error tracking for complex content pipelines.
+**Ryan McCready:** I agree. And I think there's also the optionality. Start fractional, January 1st maybe. See how it feels. Ramp down my other clients. Test the working relationship.
 
-### Partnership and Compensation
+**Marcel Santilli:** Fractional works if it's truly temporary. But full-time is where the real impact is. Context switching kills productivity. Learning curves are expensive.
 
-They agreed that the content engineer role must be full-time to unlock its full potential, though fractional engagement could start initially for risk mitigation. Marcel emphasized that fractional work poses too much risk due to learning curves and context switching. Ryan expressed openness to full-time or fractional, with a preference for full-time if compensation and alignment are right. Marcel offered access to a strong internal team including two full-time video producers, a chief content officer with TechCrunch experience, and event leads to support content scale-up. They discussed leveraging existing clients like Lovable and soon-to-be Zapier client, with board-level connections facilitating partnership and co-marketing. Compensation expectations were candidly discussed, with Ryan currently earning about $250,000 annually working over 200 hours per month. Marcel noted it would be difficult to match that fully but suggested equity and growth incentives tied to community expansion could bridge the gap.
+**Tucker Barker:** Plus, the content engineering role is going to touch everything. Atlas, the open-source framework, the customer education playbooks. You need someone fully embedded.
 
-### Strategic Vision
+**Ryan McCready:** I'm hearing you. I'm genuinely interested. What does the next step look like?
 
-Marcel framed the initiative as a long-term, mission-driven project to create the best AI-native educational and media resource, distinct from competitors who focus on flashy or shallow content. Ryan criticized competitors like Demostech for low-effort AI-generated content, highlighting the need for deep, trustworthy materials. The team agreed that teaching first principles—writing, organizing thoughts, creating shared context, and good delegation—are foundational and have lasting value beyond any specific tool. This helps users adapt as AI tools evolve rapidly and prevents frustration from constant platform changes.
+**Marcel Santilli:** I'll regroup with Jason and the team. We'll nail down compensation, think through equity structure, and I'll come back to you within a few days with a real offer.
+
+**Ryan McCready:** Perfect. I'll send over a detailed teardown of my onboarding workflow and some of the content pieces I've built. That way you all can see the depth of what I'm doing.
+
+**Marilia Barrera:** One more thing: we're also exploring a Zapier partnership. We have existing relationships there. You could leverage that for co-marketing or integration patterns.
+
+**Ryan McCready:** That's gold. Integration with Zapier would actually unlock a whole class of workflows for users.
+
+**Marcel Santilli:** Exactly. Alright—Ryan shares the teardown, I align internally, and we move from "exploring" to "let's do this" mode.
+
+---
+
+*End of transcript. Cleaned for brevity; minor speech fragments merged, repetitions removed. All speaker labels verified against metadata and context clues.*

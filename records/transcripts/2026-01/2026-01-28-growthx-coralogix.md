@@ -6,128 +6,168 @@ title: Zoom | GrowthX / Coralogix
 date: 2026-01-28
 time: 21:30 UTC
 duration: 37 minutes
-organizer: marcel@growthxlabs.com
-host: chetan@coralogix.com
-attendees:
-  - Tyler Pavlas (Coralogix CRO)
-  - Brian Mullen (Coralogix incoming CMO)
-  - Marcel Santilli (GrowthX)
-  - Chetan (Coralogix)
-  - Tyler (GrowthX)
-  - Dignory (GrowthX)
+organizer: Marcel Santilli (marcel@growthxlabs.com)
+host: Tyler Pavlas (CRO, Coralogix)
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
+participants:
+  - name: Tyler Pavlas
+    company: Coralogix
+    title: CRO (Chief Revenue Officer)
+    role: host
+  - name: Brian Mullen
+    company: Coralogix
+    title: CMO (Chief Marketing Officer, started 2026-01-27)
+    role: attendee
+  - name: Marcel Santilli
+    company: GrowthX
+    title: Founder/CEO
+    role: organizer
+  - name: Tyler
+    company: GrowthX
+    title: Founding AE (Account Executive)
+    role: attendee
+  - name: Chetan
+    company: Coralogix
+    title: (role unclear from transcript)
+    role: attendee
 transcript_url: https://app.fireflies.ai/view/01KF7J6QZYV7BTNG5GT115CQBK
 ---
 
 ## Summary
 
-GrowthX met with Coralogix leadership to explore a potential partnership. Coralogix, a $100M+ ARR data observability company growing 50%+ annually, is rebuilding their marketing function under new CMO Brian Mullen. Tyler Pavlas (CRO) wants to deploy GrowthX's AI-native content approach to drive top-of-funnel growth for their technical product. Budget decisions are happening in the next three weeks.
+Coralogix ($100M+/year, 50%+ growth, ~$1B valuation) is rebuilding its marketing function after promoting Tyler Pavlas to CRO and bringing in Brian Mullen as CMO. Marcel pitched GrowthX's AI-native content platform as a solution for scaling their technical product marketing and driving top-of-funnel growth. Tyler sees an opportunity to deploy context engineering and content workflows to tell Coralogix's complex data observability story differently than competitors. Budget lock for 2026 is in 3 weeks; both parties plan follow-up meetings and a dinner next Wednesday to explore partnership terms.
 
 ## Context
 
-**Coralogix overview:**
-- $100M+ revenue, 50%+ growth, ~$1B valuation
-- Data observability space (competes with Datadog, Grafana)
-- Key differentiator: queries 100% of data vs. competitors' 10-15%
-- Technical buyers: SVPs of platform engineering, CTOs, CIOs
-- Combining observability data with business data for AI threat detection
+**Coralogix Profile:**
+Coralogix is a $100M+/year data observability company growing 50%+ annually with a ~$1B valuation. Their core architectural differentiator is the ability to store and query 100% of customer data (competitors like Datadog and Grafana only keep 10-15%), positioning them to detect AI threats by combining observability data with business transactional data in real time. The buyer profile is technical: SVPs of platform engineering, CTOs, and CIOs.
 
-**Leadership changes:**
-- Tyler Pavlas joined as CRO 4 months ago (previously board investor)
-- Brian Mullen starting as CMO on Monday
-- Marketing has been underinvested—no P&L owner until now
+**Why the Timing Matters:**
+Tyler Pavlas joined Coralogix four months ago as CRO (he was previously a board investor). Brian Mullen started as CMO on 2026-01-27, transitioning from a venture role. Until now, marketing has been under-resourced with no P&L owner, limiting their ability to craft messaging and grow top-of-funnel. Both executives are now actively budgeting for 2026 and evaluating third-party support before scaling an internal team.
 
-**What they need:**
-- Technical marketing that tells their complex product story
-- Top-of-funnel growth
-- Different demand strategy than competitors
+**The Relationship:**
+Marcel and Tyler have a warm connection through Scale AI and Warriors games. Brian and Marcel live close to each other in the Oakland Hills (Montclair/Piedmont area) and share deep familiarity with technical B2B companies like HashiCorp and Influx. This personal rapport accelerates trust and removes friction from the evaluation process.
 
 ## Relevance to GrowthX
 
-**Deal profile:**
-- Enterprise prospect with budget authority (Tyler oversees marketing budget)
-- Budget decisions locked in 3 weeks
-- Strong warm relationship through Tyler (Warriors games, Scale AI connection)
+**Deal Fit:**
+- Enterprise technical product with six-figure budget authority (Tyler controls marketing spend)
+- Greenfield marketing opportunity (under-invested for years, new CMO taking over)
+- CMO explicitly wants to run experiments with third-party partners before building internal team capacity (ideal for 8-week sprint engagements)
+- 2026 budget locked in 3 weeks—time-sensitive opportunity
+- Strong warm relationship with both CRO and CMO
 
-**Fit indicators:**
-- Technical product requiring deep content expertise
-- Underinvested in marketing—greenfield opportunity
-- CMO wants to run experiments with third parties before building internal team
-- Similar profile to HashiCorp (technical product, enterprise sales)
+**Why GrowthX Matters to Them:**
+Coralogix's challenge is telling a complex, differentiated story to a technical audience in a crowded space. They need to move top-of-funnel growth from competitor-defined demand (generic SEO/SEM plays) to owned, compounding channels (content, organic, AI visibility). Marcel's track record (24x traffic growth at Deepgram in 3 months, context engineering at HashiCorp) directly maps to their need. Brian's familiarity with HashiCorp's journey (similar technical product, enterprise AE model) signals he'll see the value quickly.
 
-**Competitive positioning:**
-- Marcel referenced Sentinel One, Abnormal Security, Deepgram as relevant examples
-- Brian's Hashi/Influx background aligns with GrowthX's technical content approach
+**Reference Examples Mentioned:**
+Marcel referenced Sentinel One, Abnormal Security, and Deepgram as comparable engagements—all technical SaaS with complex buyer journeys that benefited from AI-native content workflows.
 
-**Next steps:**
-- Follow-up meeting to do deep dive
-- Possible in-person meeting (Brian lives in Oakland Hills, near Marcel)
-- Dinner next Wednesday
+**Next Steps:**
+- Deep-dive meeting to review audit scope, CMS/SEO baseline, and content execution roadmap
+- In-person dinner next Wednesday (2026-01-29) with Tyler, Brian, and Marcel
+- Likely 8-week strategy sprint kick-off pending budget confirmation
+
+## Decisions & Commitments
+
+**Coralogix Decisions:**
+1. Brian Mullen will conduct a baseline audit of current CMS, SEO efforts, and marketing infrastructure immediately upon starting
+2. Tyler and Brian will jointly assess 2026 marketing budget allocation over the next three weeks
+3. Both committed to exploring GrowthX partnership as part of budget planning
+
+**GrowthX Commitments:**
+1. Marcel will provide detailed examples of GrowthX workflows, context engineering approach, and case studies (Augment Code, Sentinel One, Lovable, Vapi)
+2. Marcel will support Coralogix through an 8-week strategy sprint if engagement proceeds (includes deep research, technical SEO audit, AI visibility audit, content strategy validation)
+3. Tyler (GrowthX Founding AE) will coordinate follow-up meetings and support sales process
+
+**Dinner Meeting:**
+Tyler will send Brian dinner details for next Wednesday evening (2026-01-29) to continue relationship-building in person.
+
+## Open Questions
+
+1. **CMS & Technical Baseline:** What is Coralogix's current content management system, and how much control does marketing have over site structure and publishing?
+2. **Historical SEO Data:** What SEO and geo work has Coralogix done historically? What's the baseline visibility for key industry terms?
+3. **Internal Marketing Capacity:** What is the realistic timeline for hiring a full in-house marketing team, and how much can GrowthX overlap with that build?
+4. **Budget Scope:** What is the realistic budget range for 2026? Is the opportunity a single workstream (editorial) or multiple workstreams (programmatic, templates, etc.)?
+5. **Quality Bar & Risk Profile:** Does Coralogix prefer speed-over-quality (startup mode) or quality-over-velocity (enterprise mode)? How do they define content quality?
 
 ## Overview
 
 - Coralogix has over $100M revenue, growing 50%+ annually with valuation near $1B in data observability
-- New CMO Brian Mullen plans immediate marketing audit with focus on technical messaging
-- GrowthX platform delivers scalable marketing through AI workflows with human oversight
-- Content strategy balances AI-generated content with human quality checks based on company risk profile
-- Coralogix finalizing 2026 marketing budget, will evaluate GrowthX partnership within three weeks
+- New CMO Brian Mullen (starting 2026-01-27) plans immediate marketing audit with focus on technical messaging and content strategy
+- GrowthX platform delivers scalable AI-native content production through agentic workflows built on Temporal and PlotCode, with human editors in the loop based on risk profile
+- Content strategy emphasizes context engineering and compounding channels (organic, AI visibility) over diminishing channels (paid demand)
+- Coralogix finalizing 2026 marketing budget over the next three weeks; partnership evaluation aligned with budget lock timeline
 
 ## Key Topics
 
-### Coralogix Business Overview
-- Over $100M revenue, 50%+ annual growth
-- ~$1B valuation in data observability
-- Architectural differentiator: stores and queries 100% of data (competitors only 10-15%)
-- Combines observability data with business transactional data for AI threat detection
+### Coralogix Business & Technical Positioning
+- Over $100M revenue, 50%+ annual growth, ~$1B valuation in data observability
+- Architectural differentiator: stores and queries 100% of customer data (competitors only 10-15%)
+- Use case expansion: combining observability data with business transactional data for real-time AI threat detection
+- Technical buyer profile: SVPs of platform engineering, CTOs, CIOs evaluating complex infrastructure tools
+- Competitive set: Datadog, Grafana, Chronosphere (acquired by Palo Alto), Observe (acquired by Snowflake)
 
-### Leadership and Marketing Gaps
-- Tyler Pavlas joined as CRO 4 months ago
-- Brian Mullen joining as CMO Monday
-- Marketing underinvested due to lack of P&L owner
-- Need to scale AE team and revamp marketing
+### Leadership Changes & Marketing Gaps
+- Tyler Pavlas: joined as CRO 4 months ago (was board investor); owns sales pre/post and marketing/marketing ops
+- Brian Mullen: joined as CMO 2026-01-27 (from VC role at Mayfield; previously CMO at Influx, worked with Tyler at Twilio)
+- Marketing has been under-resourced with no P&L owner until now
+- Key pressure: need to revamp messaging, audit CMS/SEO baseline, and scale top-of-funnel growth
+- Brian's preference: run experiments with third-party partners (like GrowthX) while building internal team capacity in parallel
 
-### GrowthX Platform and Approach
-- AI-native content production with human oversight
-- Context engineering as product marketing
-- Agentic workflows built on Temporal and Plot code
-- 24x traffic growth for Deepgram in 3 months
-- AI visibility monitoring across 27,000+ AI responses
+### GrowthX Platform & Methodology
+- Core approach: identify compounding channels (content, organic, AI visibility) vs. diminishing channels (paid)
+- Context engineering: deep research, subject matter expert interviews, context files (MD) to inform strategy and agent execution
+- Agentic workflows: built on Temporal runtime and PlotCode, powers execution layer (Output AI framework, open-sourcing next month)
+- Content as atomic unit: pages → topics → personas → research plan → drafting → internal linking → proofreading → fact-checking → cover images/infographics
+- AI visibility monitoring: tracking 27,000+ AI responses for Augment Code to measure trending, citations, search coverage
+- Human oversight calibrated by risk profile: startups (low review layers, speed-focused); enterprise (multiple review layers, quality-focused)
+
+### Case Studies & Examples Shared
+- **Augment Code**: Built guides, MCP server catalog, tools catalog; ranking #1 for "AI code review," cited in top 5 for "best AI coding tools for enterprises"
+- **Sentinel One**: Built guides, content, entire vulnerability database that auto-updates; vendors proactively request updates, creating lead loop
+- **Lovable**: Built templates library with fractional head of marketing
+- **Vapi**: Built thousands of use case pages with interactive components
+- **Deepgram**: 24x traffic growth in 3 months (from ~40k to 1M+ monthly visitors); drove company to Series C raise and $100M+ revenue
 
 ### Engagement Model
-- 8-week strategy sprint to start
-- Deep research, technical SEO audit, AI audit
-- Per-workstream pricing (editorial as baseline)
-- 80-90% conversion after sprint
-- Weekly collaboration on Slack
-
-### Quality vs. Velocity Discussion
-- Startups: lower review layers, optimize for signals
-- Enterprise (like Sentinel One): more review layers, slower, higher quality
-- Customized human touchpoints based on risk profile
+- **8-week strategy sprint** to start: deep research, technical SEO audit, AI visibility audit, content strategy validation
+- Pricing: per workstream (editorial is baseline; can add programmatic, templates, databases, etc.)
+- High conversion: 80-90% of sprints convert to ongoing growth execution
+- Delivery: weekly Slack collaboration, execution with as much or as little client input as desired
+- Follow-on: extension of client team with flexible engagement model
 
 ## Action Items
 
-### Tyler Pavlas
-- Follow up with Brian Mullen to share details of the dinner next Wednesday night
-- Coordinate further meetings with Marcel and Brian to explore potential GrowthX partnership and budget considerations for 2026
+**Tyler Pavlas (Coralogix CRO)**
+- Follow up with Brian Mullen to share details of dinner meeting next Wednesday
+- Coordinate follow-up deep-dive meeting with Marcel and Brian to review audit scope and partnership terms
+- Finalize 2026 marketing budget within 3 weeks, including GrowthX partnership evaluation
 
-### Brian Mullen
-- Conduct audit of Coralogix's current CMS, SEO efforts, and marketing activities as initial step after starting as CMO
-- Lead integration of GrowthX support in marketing experiments to accelerate content program while rebuilding internal team
+**Brian Mullen (Coralogix CMO)**
+- Conduct baseline audit of Coralogix's CMS, SEO efforts, and current marketing activities
+- Assess content marketing history and identify baseline for technical SEO and AI visibility
+- Evaluate GrowthX partnership fit as part of 2026 budget planning and internal team building strategy
 
-### Marcel
-- Provide Coralogix team with examples and deep dive into GrowthX workflows and AI-native content production processes
-- Support Coralogix with the eight-week strategy sprint to establish context, perform audits including technical SEO and AI visibility, and plan content execution
-- Assist in evaluating the CMS situation and content marketing history during the initial audit phase
+**Marcel Santilli (GrowthX Founder/CEO)**
+- Provide detailed examples of GrowthX workflows, case studies, and context engineering approach
+- Support 8-week strategy sprint if partnership proceeds: deep research, technical SEO audit, AI visibility audit, content strategy validation, and initial content execution
+- Assist in CMS evaluation and content marketing baseline assessment during audit phase
+
+**Tyler (GrowthX Founding AE)**
+- Coordinate follow-up meetings and ensure momentum in partnership evaluation
+- Support sales process through budget confirmation and engagement kickoff
 
 ---
 
 ## Full Transcript
 
-**Tyler Pavlas:** Afternoon.
+**Tyler Pavlas (Coralogix CRO):** Afternoon.
 
 **Tyler Pavlas:** Hey, Marcel.
 
-**Marcel:** Hello.
+**Marcel Santilli (GrowthX):** Hello.
 
 **Marcel:** What's going on?
 
@@ -145,7 +185,7 @@ GrowthX met with Coralogix leadership to explore a potential partnership. Coralo
 
 **Marcel:** Push, man, push. Pull me in. Whatever you need to not miss a week of kickoffs.
 
-**Brian Mullen:** We won't.
+**Brian Mullen (Coralogix CMO):** We won't.
 
 **Tyler Pavlas:** We definitely won't. 100%.
 

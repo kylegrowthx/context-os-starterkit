@@ -5,10 +5,14 @@ date: 2026-02-13
 time: 16:45 UTC
 duration: 58 minutes
 organizer: tyler@growthx.ai
-participants: Tyler Pavlas, Bridget McGillivray
+participants:
+  - Tyler Pavlas (tyler@growthx.ai, sales lead)
+  - Bridget McGillivray (bridget@growthx.ai, sales/operations lead)
 fireflies_id: 01KGMF53GRP24MQBCARPV8Y3QV
 meeting_link: https://growthx-ai.zoom.us/j/89580929355?pwd=kAYZPAyAOEAKoahKlNxYPGiUZ05pjX.1
 transcript_url: https://app.fireflies.ai/view/01KGMF53GRP24MQBCARPV8Y3QV
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
@@ -122,6 +126,65 @@ Bridget acknowledged new platform sales contracts will add at least a month to t
 - Challenge Tyler to push good-fit deals to book further out and build pipeline buffer
 - Clarify with legal team the full contract vs. ToS approach for platform/AI training IP protections
 - Ensure Marcel is aligned on Notion cleanup and AI knowledge base project
+
+---
+
+## Decisions & Commitments
+
+**Pricing & ARR Strategy:**
+- Hold $18k/month baseline pricing for services contracts; do not offer $15k/year discounts proactively.
+- If clients negotiate on price, offer quarterly payment terms (vs. monthly).
+- Discounts available only for upfront annual payment (discounting cash, not ARR).
+- This preserves reported ARR while giving clients path to reduce monthly cash flow burden.
+
+**Legal Process & Role Definition:**
+- Andrea's role: build legal knowledge base and contract concession playbook in Notion; do not edit contracts already in circulation.
+- Josh to handle all redline reviews for complex indemnification/liability language; target 1-day turnaround.
+- Create contract concession playbook with three tiers for each section: default position, first acceptable concession, final acceptable concession.
+- Goal: eventually enable Tyler and sales team to resolve most redlines without legal involvement; route only complex issues to Josh.
+
+**Contract Templates & Platform Sales:**
+- Three new Panda contract templates (Services only, CheckThat only, Services + CheckThat) to roll out by next week.
+- In interim, use Andrea's new version with ToS link for contracts going out now.
+- Platform contracts must include explicit sections on: data retention, IP ownership of custom prompts, and AI training permissions.
+- GrowthX intends to build shared prompt library from client inputs; contracts must reserve IP ownership of client-generated prompts.
+- AI training default is on; enterprise clients can negotiate off (similar to Claude privacy toggle).
+- Accept that platform sales cycle will extend by ~1 month due to IP/data complexity.
+
+**Pipeline Management & Deal Classification:**
+- Remove Run Layer from active pipeline immediately (delivery risk, poor relationship dynamics, downselling precedent).
+- Eliminate "backup" categorization for deals; treat all good-fit opportunities as active bookings.
+- Strategy: push all good-fit deals to book kickoff dates weeks out, even if slow-moving, to build pipeline buffer.
+- Avoid scenario where team scrambles for 2 deals/week at crunch time.
+
+**Sales Operations & Notion:**
+- Notion sales workspace needs urgent cleanup: archive stale content, verify key docs, update with AI tools.
+- AI agents (Claude + HubSpot/Fireflies MCPs) will query Notion; ensure only verified content is there.
+- Marcel building separate knowledge base outside Notion for AI agent reliability.
+
+**Organizational & Hiring:**
+- Actively hiring third AE focused on services sales; third AE expected to relieve Tyler's deal volume pressure.
+- Evaluate Nigel's potential for services sales based on performance from Check That strategy sessions outreach campaign (150 people).
+- In interim, assign Nigel 2–3 lower-priority calls per week (particularly Check That pitches) to build reps and rhythm.
+
+---
+
+## Open Questions
+
+**Legal & Contract:**
+- How detailed should the AI training consent language be for different customer tiers (mid-market vs. enterprise)?
+- For the IP ownership of client-generated prompts: does GrowthX need separate terms, or can this live in main MSA?
+- Should the concession playbook include fallback positions if clients refuse AI training (i.e., can we negotiate that off completely)?
+
+**Sales & Pipeline:**
+- What's the expected sales cycle extension for platform contracts once new templates launch (1 month, 6 weeks, more)?
+- How should the team prioritize between pursuing new services deals vs. getting existing pipeline across the line?
+- Nigel's services sales capacity: is this a trial to assess fit, or a permanent workload shift?
+
+**Operations & AI Tooling:**
+- What's the scope of the Notion cleanup project? Which docs are "source of truth" vs. reference?
+- For the AI integration workflow (HubSpot + Fireflies + Slack MCPs): what's the rollout plan for team training?
+- How will Marcel's external knowledge base integrate with Notion for team reference?
 
 ---
 

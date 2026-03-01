@@ -4,53 +4,111 @@
 date: 2025-12-02
 time: 21:00 UTC
 duration: 59 minutes
-organizer: marcel@growthxlabs.com
-participants: Akash, A.S. Nguyen, Matt Angelosanto, D. Yang, G (Ramp), Marcel Santilli, Adeak, Victoria Naef, Erik O'Brien, George Haikal, Mara
+organizer: Marcel Santilli (marcel@growthxlabs.com)
+participants:
+  - Marcel Santilli (GrowthX)
+  - Matt Angelosanto (Ramp)
+  - Victoria Naef (Ramp)
+  - Erik O'Brien (Ramp)
+  - George Haikal (Ramp)
 fireflies_id: 01KBBAH7CMV5PCB1TVPHBEE52T
 transcript_url: https://app.fireflies.ai/view/01KBBAH7CMV5PCB1TVPHBEE52T
+enriched_on: 2026-03-01 00:00 UTC
+source: fireflies
+speaker_note: Participant list cleaned to identified core speakers; some attendee names from transcript require disambiguation
 </metadata>
 
 ---
 
 ## Summary
 
-A focused eight-week strategy sprint was initiated to enhance Ramp's brand visibility through a new domain experiment branded as Cash Flow Desk. Matt Angelosanto highlighted the importance of identifying key contacts and initial deliverables for efficient collaboration. The project aims to use a third-party site to influence large language models' perceptions of Ramp, with success measured by improvements in visibility for finance-related topics. A nuanced content strategy was proposed, focusing on low competition, long-tail keywords tailored to specific business verticals. The live site is targeted for launch within two weeks, starting with high-quality content on easy-to-rank topics. Branding efforts include aligning with existing assets and exploring cross-linking strategies for credibility and indexing support. Next steps involve refining audience personas and building the initial content library for relevance and impact.
+GrowthX and Ramp kicked off an 8-week strategy sprint to launch Cash Flow Desk, a third-party domain designed to improve Ramp's visibility in LLM results and organic search for finance-related keywords. The team committed to a live, polished site within 2 weeks featuring high-quality, long-tail content targeting underserved business verticals (HVAC, restaurants, etc.), with success measured by indexing improvements, impressions, and LLM visibility gains. Next steps: Matt Angelosanto will define detailed audience personas and key questions; GrowthX will build initial mockups and workflows; Ramp will provide affiliate partnership data and cross-linking support.
+
+---
+
+## Context
+
+This was the project kickoff for a new GrowthX engagement with Ramp, a financial operations platform for SMBs. Marcel Santilli (GrowthX) led the session with Matt Angelosanto and Victoria Naef representing Ramp's strategy side. The initiative stems from Ramp's need to expand its organic visibility beyond ramp.com itself — particularly in AI-generated search results and general web discovery. Rather than optimizing their primary domain (which is heavily brand-focused), Ramp wants to use a third-party property (Cash Flow Desk) to organically rank for finance-related long-tail keywords while subtly building credibility and citations back to Ramp. This is a strategic pivot from traditional SEO toward "AI visibility" — influencing what large language models return when users ask finance questions. The 8-week sprint is designed to test the approach quickly with initial content, measure success through GrowthX's proprietary AI visibility index, and scale if results validate the model.
+
+---
+
+## Relevance
+
+**To GrowthX Services & Delivery**
+- Core AEO (AI visibility) and SEO methodology at scale: third-party domain play unlocks experimental SEO techniques (aggressive backlinking, cross-linking) that Ramp wouldn't do on ramp.com
+- New test case for portfolio mix strategy (balancing brand-mention vs. purely informational content) — validates approach for future clients
+- High-quality editorial execution required: design team from Grammarly/Lyft, Strong editorial voice (inspired by Simple Magazine), rapid iteration on content quality
+
+**To CheckThat Product**
+- Direct use case for AI visibility index: Cash Flow Desk becomes a measurement vehicle for LLM citation tracking and visibility gains — hard metrics for ROI
+- Opportunity to showcase tool's value in production: Ramp is willing to implement tracking; results become case study / competitive differentiator
+- Long-term: potential for Ramp to become reference customer if results hit targets
+
+**To GrowthX Business Development**
+- $200k+ engagement with strong upside: 8-week sprint is foundation; Ramp has signal to extend if metrics validate (YouTube channel, additional domains, content scaling)
+- Cross-functional Ramp team (Matt, Victoria, Erik, George) indicates executive buy-in — good expansion signal
+- Affiliate network leverage: Ramp will share partner data, opening new distribution / link-building channels for GrowthX workflows
+
+---
+
+## Decisions & Commitments
+
+**Decisions Made:**
+- 8-week strategy sprint model as engagement structure
+- Cash Flow Desk as first third-party domain experiment (YouTube channel planned as second test case)
+- 2-week launch target for live site with initial content
+- Portfolio mix strategy: balance educational long-tail content with brand-influence pieces
+- Use GrowthX's proprietary AI visibility index for success measurement (beyond traditional SEO metrics)
+
+**Commitments:**
+- **Matt Angelosanto (Ramp)**: Define detailed audience personas and map key questions for content targeting within days
+- **Victoria Naef (Ramp)**: Provide inputs on cross-linking opportunities and affiliate backlink support (within moderation guidelines)
+- **Marcel Santilli / GrowthX**: Build and deploy initial mock site rapidly on GrowthX infrastructure; develop content creation workflows; explore backlinking and directory submissions; implement AI visibility index tracking
+- **Ramp**: Share list of affiliate partners and potential affiliate sites for research and benchmarking
+
+---
+
+## Open Questions
+
+- Exact cross-linking structure between ramp.com and Cash Flow Desk — how much link juice should flow, and which pages on ramp.com link to new domain (to maintain brand purity)
+- Approval workflow for initial design mockups — who signs off on final design before publishing
+- How Ramp's engineering team will ultimately host and maintain the site (currently planned with external team; transfer to Ramp's GitHub repo needed long-term)
+- Volume scaling timeline: after initial validation with small content set, how quickly should content volume ramp up?
 
 ---
 
 ## Action Items
 
-**Marcel & GrowthX Team**
-- Share a list of affiliate partners and potential affiliate sites (including ones with prior interest) for research and benchmarking
+**Marcel Santilli (GrowthX)**
 - Build and deploy initial mock site rapidly on GrowthX infrastructure
 - Develop content creation workflows prioritizing low difficulty, long-tail keywords to validate indexing and impressions
 - Explore backlinking and directory submissions to accelerate domain authority growth
 - Implement AI visibility index tracking as part of the engagement for performance measurement
-
-**Matt Angelosanto**
-- Lead defining detailed audience personas and map key questions for content targeting during upcoming days
-
-**Victoria Naef**
-- Provide inputs on cross-linking opportunities and affiliate backlink support within moderation guidelines
-
-**GrowthX Team (Continued)**
 - Iterate the portfolio mix content strategy balancing educational and brand-mention content
+
+**Matt Angelosanto (Ramp)**
+- Define detailed audience personas and map key questions for content targeting
+
+**Victoria Naef (Ramp)**
+- Provide inputs on cross-linking opportunities and affiliate backlink support within moderation guidelines
+- Share list of affiliate partners and potential affiliate sites for research and benchmarking
 
 ---
 
-## Project Overview
+## Key Topics
 
 **Kickoff Session Focus**
-- Eight-week strategic sprint for new web ecosystem
-- Goal: influence LLM perception and visibility beyond ramp.com
-- New domain branded as "Cash Flow Desk" as first test case
-- Similar YouTube channel approach planned
+- Eight-week strategic sprint for new web ecosystem beyond ramp.com
+- Goal: improve Ramp's visibility in LLM results and organic search for finance-related keywords
+- New domain branded as "Cash Flow Desk" as first test case; YouTube channel planned as second test
+- Target audience: business owners, founders, operators, and finance teams at small to mid-sized companies
 
 **Success Metrics**
-- Track citations from new domain to improve visibility
-- Use proprietary AI visibility index and SEO metrics for measurement
-- Balance editorial quality and brand mentions to build credibility
-- Measure indexing, impressions, and click-through rates
+- Indexing improvements (measured via Google Search Console, Bing Webmaster Tools)
+- Impressions and click-through rates for target long-tail keywords
+- Citations from new domain back to Ramp
+- LLM visibility gains (tracked via GrowthX's proprietary AI visibility index)
+- Balance editorial quality with brand-mention content to build credibility without overt promotion
 
 ---
 

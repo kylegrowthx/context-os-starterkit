@@ -5,17 +5,34 @@ date: 2026-02-18
 time: 21:00 UTC
 duration: 34 minutes
 organizer: tyler@growthx.ai
-participants: Tyler Pavlas, Brian Mullen (Coralogix), Katie McCoole (Coralogix), Emma Mock (Coralogix), Ishaan Bhardwaj (Coralogix)
+participants:
+  - name: Tyler Pavlas
+    company: GrowthX
+    role: Founding Account Executive
+  - name: Brian Mullen
+    company: Coralogix
+    role: Head of Marketing
+  - name: Katie McCoole
+    company: Coralogix
+    role: Demand Gen Lead (NA/EMEA)
+  - name: Emma Mock
+    company: Coralogix
+    role: Campaign Manager
+  - name: Ishaan Bhardwaj
+    company: Coralogix
+    role: Analytics/Marketing Operations/Organic SEO
 fireflies_id: 01KHMEW1SN5WGGWYGXFBVG9R87
+source: fireflies
 meeting_link: https://growthx-ai.zoom.us/j/4783917602?pwd=SaydcdMdj9OaMnVHpCiwZwIQfrIQxB.1
 transcript_url: https://app.fireflies.ai/view/01KHMEW1SN5WGGWYGXFBVG9R87
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Tyler walked Coralogix's demand gen, campaign, and marketing ops team through GrowthX's content platform — methodology, case studies, workflow architecture, and CMS integration. Coralogix has a clear need: outdated blog content (2021–2022), schema gaps, and limited hands-on SEO writing capacity. Brian Mullen will confirm the partnership decision by Thursday next week; target kickoff is 3–4 weeks out with Q2 results expected.
+Tyler presented GrowthX's end-to-end content platform to Coralogix's demand gen and SEO team, covering workflow architecture, Temporal-based publishing pipelines, and CMS integration. Coralogix identified critical wins: 2–3 year old blog pages requiring refresh, schema gaps post-website rebuild, and insufficient internal SEO writing capacity. Decision expected Thursday next week; kickoff 3–4 weeks out; results projected Q2 2026.
 
 ---
 
@@ -102,21 +119,51 @@ Brian expects the team to align on a decision by Thursday next week. Marcel and 
 
 ---
 
+## Decisions & Commitments
+
+**Partnership Decision:**
+- Brian (Coralogix) to confirm partnership decision by Thursday next week
+- Follow-up meeting with Marcel scheduled for Friday next week; Tyler and Marcel will be in Boston
+
+**GrowthX Commitments:**
+- Open additional kickoff slot to enable Coralogix to start sooner if they decide quickly
+- Perform website scan and content audit to generate V1 strategy artifacts
+- Support multiple review rounds including legal vetting for comparative content
+- Configure direct WordPress CMS access for staging and automated publishing
+- Self-serve platform access available month 2–3 of 12-month engagement
+
+**Coralogix Commitments:**
+- Provide website resources and documentation for artifact refinement
+- Create separate site sections for legally-reviewed comparative content (e.g., "Datadog vs. Coralogix")
+- Coordinate internal review process with legal team for sensitive comparative content
+
+---
+
+## Open Questions
+
+- **FAQ-style content:** Coralogix priority is ChatGPT AI Overviews optimization via FAQ content
+- **Developer relations integration:** How will DevRel team's technical blog contributions integrate into GrowthX publishing workflows?
+- **Community content:** Coralogix interested in Reddit/community-led content; GrowthX focusing on owned channels (Coralogix website)
+- **Self-serve timeline:** Exact feature set and timing for month 2–3 self-serve platform access to be clarified
+
+---
+
 ## Action Items
 
-**Brian Mullen**
-- Finalize partnership decision and confirm by Thursday next week (33:09)
+**Brian Mullen (Coralogix)**
+- Finalize partnership decision and confirm by Thursday next week
 
-**Tyler Pavlas**
-- Schedule follow-up meeting with Marcel and Coralogix team for next Thursday or Friday (33:19)
-- Offer one-on-one or group meetings with Katie, Emma, and Ishaan to address questions before the group call (33:50)
+**Tyler Pavlas (GrowthX)**
+- Schedule follow-up meeting with Marcel and Coralogix team for next Friday
+- Offer one-on-one or group meetings with Katie, Emma, and Ishaan before the full-team call
 
-**Coralogix team (Katie McCoole, Emma Mock, Ishaan Bhardwaj)**
-- Prepare and compile relevant website resources for GrowthX's artifact creation and strategy sprint initiation (24:17)
+**Coralogix (Katie McCoole, Emma Mock, Ishaan Bhardwaj)**
+- Prepare and compile relevant website resources, documentation, and brand guidelines for artifact creation
+- Coordinate with legal team on review process for comparative content
 
 **GrowthX**
-- Perform website scan and content audit to develop V1 artifacts and content roadmap (20:35)
-- Configure CMS access for direct staging and publishing of refreshed and new content (30:45)
+- Perform website scan and content audit to develop V1 strategy artifacts and keyword roadmap
+- Configure WordPress CMS access for direct staging and automated publishing of refreshed and new content
 
 ---
 
@@ -128,7 +175,7 @@ Brian expects the team to align on a decision by Thursday next week. Marcel and 
 
 **Ishaan Bhardwaj:** Good. How's it going?
 
-**Tyler Pavlas:** Yeah, it's going well. Ishan, am I pronouncing your name okay?
+**Tyler Pavlas:** Yeah, it's going well. Ishaan, am I pronouncing your name okay?
 
 **Ishaan Bhardwaj:** Yep.
 
@@ -138,7 +185,7 @@ Brian expects the team to align on a decision by Thursday next week. Marcel and 
 
 **Tyler Pavlas:** Nice, nice. Have you been in like more of the technical space at your prior roles or is this a more technical company than the past?
 
-**Ishaan Bhardwaj:** I've been on the agency side for CoreLogic for almost three years prior to this.
+**Ishaan Bhardwaj:** I've been on the agency side for almost three years prior to this.
 
 **Tyler Pavlas:** Oh, amazing. Where were you helping them out on the agency side?
 
@@ -160,13 +207,13 @@ Brian expects the team to align on a decision by Thursday next week. Marcel and 
 
 **Tyler Pavlas:** Yeah, just going to be me from our side. But Marcel mentioned if we needed to do a follow up where the team could kind of go through some Q and A, we can definitely do that. Thought it would be helpful, you know, since this is the first call making sure that they had a good overview and introduction to everything we're doing here first.
 
-**Brian Mullen:** Yeah, great. Well, let me give a little context for our meeting today. So this is more — I don't know if you guys already did intros, but we can do those in just a second if we haven't. I wanted to bring our demand and analytics and SEO team together. So this is it. We've got Katie and Emma and Ishan and really I just wanted to kind of expand on the conversation I had with Marcel the other day and I'd love to have you guys just kind of give the team — or you, Tyler — give the team an overview of kind of what the purpose of GrowthX is and exactly kind of what you guys do in terms of surfacing Personas and behaviors and trends from our website so that can be used across, you know, put into other efforts that we have. So that was kind of like the gist of what I talked about with Marcel, which I thought was like a good framing for what you guys do and how it would be useful for us. So I'd love for the team — I was hoping you could just kind of walk through that and treat this as like an explainer meeting.
+**Brian Mullen:** Yeah, great. Well, let me give a little context for our meeting today. So this is more — I don't know if you guys already did intros, but we can do those in just a second if we haven't. I wanted to bring our demand and analytics and SEO team together. So this is it. We've got Katie and Emma and Ishaan and really I just wanted to kind of expand on the conversation I had with Marcel the other day and I'd love to have you guys just kind of give the team — or you, Tyler — give the team an overview of kind of what the purpose of GrowthX is and exactly kind of what you guys do in terms of surfacing Personas and behaviors and trends from our website so that can be used across, you know, put into other efforts that we have. So that was kind of like the gist of what I talked about with Marcel, which I thought was like a good framing for what you guys do and how it would be useful for us. So I'd love for the team — I was hoping you could just kind of walk through that and treat this as like an explainer meeting.
 
-**Tyler Pavlas:** Yeah, that sounds perfect. We'll go super deep today. And as a quick intro, I'm the founding AE here at GrowthX. So I work hand in hand with our CEO Marcel, who Brian has had the chance to meet, and happy to bring him in on a later call, but would love to just do quick intros. Emma, Katie and Ishan — with you and maybe like the thing you're most looking forward to learning over the next 27 minutes.
+**Tyler Pavlas:** Yeah, that sounds perfect. We'll go super deep today. And as a quick intro, I'm the founding AE here at GrowthX. So I work hand in hand with our CEO Marcel, who Brian has had the chance to meet, and happy to bring him in on a later call, but would love to just do quick intros. Emma, Katie and Ishaan — with you and maybe like the thing you're most looking forward to learning over the next 27 minutes.
 
 **Katie McCoole:** Perfect. I'm Katie, I've been with Coralogix for almost three years now running Demand Gen North America and some of EMEA with the digital marketing side of things. Have Emma here on my team managing North America. Well, I guess Emma, I should let you do a self intro so I can pass it over to you.
 
-**Emma Mock:** I'm Emma, I've been at Coralogix about a year and a half and my role as a marketing campaign manager is a little bit field and a little bit digital and then working full time to move over to like full time campaign launch across all the different channels. So a little bit of this, a little bit of that and then we have the lovely Ishan. I'll pass it over to you.
+**Emma Mock:** I'm Emma, I've been at Coralogix about a year and a half and my role as a marketing campaign manager is a little bit field and a little bit digital and then working full time to move over to like full time campaign launch across all the different channels. So a little bit of this, a little bit of that and then we have the lovely Ishaan. I'll pass it over to you.
 
 **Ishaan Bhardwaj:** Thank you so much. Hi Tyler. So I've been with Coralogix for a little over six months now. I'm helping manage the analytics side of things, also kind of managing marketing operations, handling Marketo and then also managing the organic SEO side of things as well. So, you know, a little bit of here and there as well.
 
@@ -180,9 +227,9 @@ Brian expects the team to align on a decision by Thursday next week. Marcel and 
 
 **Tyler Pavlas:** Makes sense. You're selling to developers at the end of the day so definitely want to resonate with the level of technical depth in the content that you're creating. Katie, is the team using any AI tools to create content or as part of the process currently?
 
-**Katie McCoole:** From our side when Ishan and I create it's mostly taking what we currently have on the website, customizing it using AI, but then really going back and customizing it from there to have more of the Coralogix brand tone. From the devrel's PMM side I assume they're probably leveraging AI and then going back and fixing it where it makes sense.
+**Katie McCoole:** From our side when Ishaan and I create it's mostly taking what we currently have on the website, customizing it using AI, but then really going back and customizing it from there to have more of the Coralogix brand tone. From the devrel's PMM side I assume they're probably leveraging AI and then going back and fixing it where it makes sense.
 
-**Tyler Pavlas:** Okay, makes sense. And I guess when you split up the work — is it really like the less technical, more just search optimized content falls on you and Ishan's plate and then higher technical bar is the devrel team and product marketing?
+**Tyler Pavlas:** Okay, makes sense. And I guess when you split up the work — is it really like the less technical, more just search optimized content falls on you and Ishaan's plate and then higher technical bar is the devrel team and product marketing?
 
 **Ishaan Bhardwaj:** To give you a little bit of background, the website that Coralogix has was updated somewhere last year in June or July. And then when the website was launched, some of the key things like meta tags, H1, H2 descriptions and all of that were kind of not there. So we leveraged AI to do a backfill of it. And then what I did was I ran the website through Semrush — they have that AI visibility tracker — and kind of established that these are the areas where we are missing. We are mentioned in search, especially AI overview searches, but not that often. So we started creating content using AI to specifically focus towards making sure we can fill out those content schemas that they're looking for now. Like the next evolution of that would be to have FAQ style content so that as you know, ChatGPT also consumes a lot of FAQ style of content. So basically creating that.
 
@@ -206,7 +253,7 @@ Brian expects the team to align on a decision by Thursday next week. Marcel and 
 
 **Ishaan Bhardwaj:** Got it. Yeah, that sounds like a good plan to have a separate section.
 
-**Tyler Pavlas:** Yeah. And so getting a bit more tactical into our process in phase one. The first thing that we do is we're diving super deep into the keyword universe. So yes, AI search is a little different but always good to actually look into the search volume that we can quantify and where the keyword difficulty may be lower against competitor pages. And from here we're creating a roadmap of assignments, about three to six months of content at that five per week clip. And then we're connecting it all to different topic clusters where you want authority. And then as we start to get content approved, we prioritize based on one, either where we think is going to drive the most results or two, by collaborating with you to understand what the top content priorities might be. And from there we're sending over drafts. So it's really you get five drafts each week. We'll have weekly meetings and then we'll do feedback async and in sessions if helpful so that we can continue to optimize our engineering and what we're doing here. And this is also happening in week one. That's kind of the name of the game for us. We want to move super fast without breaking things. We create those artifacts. And so with Engine we created persona artifacts across all those different industries and we went super deep into everything that the titles they care about are thinking when it comes to business travel. So everything that you're seeing here, it's a business travel related fear or motivation or what's going to win their trust or lose their trust. And then we connect it back to the client and we do the same thing for the finance manager, the project manager. And this will feed into each piece of content that we create along with artifacts like the writing guidelines — good and bad examples, what terminology should we use or not use, how should we structure the content. What's great about this is that we have a point of view on the V1 for these artifacts. It's not something that you need to spend a ton of time finding the right examples for or thinking about how can we make this perfect before we start. We get a lot of that and then build it in through the feedback that you give us on those calibration articles. Katie, Ishan, any questions about the context engineering?
+**Tyler Pavlas:** Yeah. And so getting a bit more tactical into our process in phase one. The first thing that we do is we're diving super deep into the keyword universe. So yes, AI search is a little different but always good to actually look into the search volume that we can quantify and where the keyword difficulty may be lower against competitor pages. And from here we're creating a roadmap of assignments, about three to six months of content at that five per week clip. And then we're connecting it all to different topic clusters where you want authority. And then as we start to get content approved, we prioritize based on one, either where we think is going to drive the most results or two, by collaborating with you to understand what the top content priorities might be. And from there we're sending over drafts. So it's really you get five drafts each week. We'll have weekly meetings and then we'll do feedback async and in sessions if helpful so that we can continue to optimize our engineering and what we're doing here. And this is also happening in week one. That's kind of the name of the game for us. We want to move super fast without breaking things. We create those artifacts. And so with Engine we created persona artifacts across all those different industries and we went super deep into everything that the titles they care about are thinking when it comes to business travel. So everything that you're seeing here, it's a business travel related fear or motivation or what's going to win their trust or lose their trust. And then we connect it back to the client and we do the same thing for the finance manager, the project manager. And this will feed into each piece of content that we create along with artifacts like the writing guidelines — good and bad examples, what terminology should we use or not use, how should we structure the content. What's great about this is that we have a point of view on the V1 for these artifacts. It's not something that you need to spend a ton of time finding the right examples for or thinking about how can we make this perfect before we start. We get a lot of that and then build it in through the feedback that you give us on those calibration articles. Katie, Ishaan, any questions about the context engineering?
 
 **Katie McCoole:** Will you scan our website for this or do we have to upload everything into this engine?
 
@@ -240,7 +287,7 @@ Brian expects the team to align on a decision by Thursday next week. Marcel and 
 
 **Brian Mullen:** How about Friday? Because we — this team is mostly in Boston, but Brian and I are traveling to Boston for like three days next week. So that's like Tuesday through Thursday. So if Thursday doesn't work, let's do Friday.
 
-**Tyler Pavlas:** Okay, sounds good. I'll connect with Marcel and I'll send you some specific times. And before then, Katie, Emma, Ishan, if you want to do a one on one, a group meeting, happy to do that before the Marcel meeting too.
+**Tyler Pavlas:** Okay, sounds good. I'll connect with Marcel and I'll send you some specific times. And before then, Katie, Emma, Ishaan, if you want to do a one on one, a group meeting, happy to do that before the Marcel meeting too.
 
 **Katie McCoole:** Perfect. Thank you so much.
 

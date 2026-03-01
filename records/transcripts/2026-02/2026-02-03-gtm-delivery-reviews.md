@@ -4,513 +4,454 @@
 date: 2026-02-03
 time: 18:30 UTC
 duration: 67 minutes
-organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Jason Gong, Leah Dillon, Jeff, Bridget, Andy, Chad
+organizer: Marcel Santilli (marcel@growthxlabs.com)
+participants:
+  - Marcel Santilli (CEO)
+  - Jason Gong (VP GTM)
+  - Leah Dillon (Revenue Operations)
+  - Jeff (Operations/Data)
+  - Bridget (Sales Operations)
+  - Andy (Customer Success/Engagement)
+  - Chad (Customer Success/Engagement)
 fireflies_id: 01KG3C052GANKN4GBEKYYKH0ES
 transcript_url: https://app.fireflies.ai/view/01KG3C052GANKN4GBEKYYKH0ES
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Go-to-market and delivery review covering pipeline management, opportunity creation pacing, marketing attribution, renewal forecasting, and account health scoring. The team is running at 74% of the quarterly ops creation target and nearly 40% of ARR ($4.5M) is at risk of churn this fiscal year.
+Leadership GTM and delivery review assessing quarterly pipeline health, market execution, and renewal risk. The team created 6 qualified opportunities per week (target: 14/week), delivering only 312 annually against a required 420 to support revenue goals. Critical finding: nearly 40% of annual recurring revenue ($4.5M) faces churn risk this fiscal year due to weak health scoring and data hygiene in HubSpot. Immediate priorities are establishing stage-zero lead capture, weekly account health visibility with 60% confidence by end of week, and a 30-60-90 plan for data infrastructure fixes.
 
 ---
 
 ## Context
 
-This was a structured GTM and delivery review session where the leadership team assessed pipeline health, marketing execution, and renewal risk. The meeting covered the full sales funnel from opportunity creation through renewal management. Key tensions include the gap between current opportunity creation rate (6/week) and the target (14/week), underdeveloped paid marketing, and high renewal risk requiring urgent data hygiene improvements in HubSpot.
+Marcel led this structured review of the full sales funnel—from opportunity creation through renewal management—with the executive team responsible for revenue, operations, and customer success. The meeting revealed three critical gaps: (1) the pace of opportunity creation at 6/week is half the 14/week needed to support growth targets and reach Q2 contract kickoff goals; (2) renewal forecasting lacks real-time visibility into account health, with engagement managers unable to confidently score their book of business; and (3) HubSpot data quality issues prevent accurate pipeline analysis, attribution modeling, and renewal risk quantification. This review sets a framework for disciplined reporting, outcome-driven behavior change, and rapid data stabilization.
 
 ---
 
 ## Relevance
 
 **To GrowthX Revenue:**
-- Current run rate of 6 qualified ops/week delivers 312 annually — only 74% of the 420 needed for 36 Q2 kickoffs
-- Target is 14 qualified ops per week to stabilize pipeline
-- Nearly 40% of ARR (~$4.5M) forecasted lost this fiscal year from churn
+- Opportunity creation shortfall (6 vs 14/week target) forces pipeline into critical state: only 1 week of kickoffs in flight
+- 312 opportunities annually at current pace = 74% of 420 needed to launch 36 Q2 contracts
+- 40% of ARR ($4.5M out of $10.4M) flagged as at-risk this fiscal year; GRR would fall to 60% if realized
+- Early renewals and leverage deals required to create breathing room in budget constraints
 
 **To GrowthX Marketing:**
-- 108 qualified ops target this quarter, currently pacing at 73%
-- Four workshops planned this month; organic channels growing (400 organic visitors to CheckThat weekly)
-- Paid marketing marked red — no paid search, LinkedIn ads and newsletters only channels active
-- Retargeting planned for website visitors and pricing page browsers
+- Q1 ops target: 108 qualified opportunities, currently pacing at 73%
+- Organic channels gaining traction (400 weekly visitors to CheckThat site)
+- Events/workshops (4 planned this month) and referrals working well
+- Paid marketing marked red: only LinkedIn ads and newsletter active; retargeting campaigns needed on Meta and LinkedIn targeting pricing page and homepage visitors
+- Shift from broad outreach to clustered, lookalike account-based marketing
 
-**To GrowthX Operations:**
-- New "stage zero" in HubSpot to capture pre-qualified leads before opportunity creation
-- Account health scoring with five signals: strong, healthy, risky, or critical categories
-- Jeff tasked with 30-60-90 day plan for HubSpot data accuracy and reporting improvements
+**To GrowthX Operations & Customer Success:**
+- New "stage zero" in HubSpot to capture pre-qualified leads before official opportunity creation
+- Five-signal health scoring (relationship strength, engagement, expansion, expansion risk, competitive threat) required weekly by Friday at account level
+- Target confidence: 60% this week, 70% by next meeting; scores will drive renewal pipeline discipline
+- No late renewals policy; treat renewals as proactive sales pipeline with 100% forecast accuracy
+- Jeff leading 30-60-90 plan to fix pipeline stage definitions, build automation, and establish manual data processes
+
+---
+
+## Decisions & Commitments
+
+**Immediate (This Week):**
+- Account health scoring baseline due by Friday EOD: all engagement managers score their books with 60% confidence across five signals (relationship, engagement, expansion, expansion risk, competitive threat)
+- Goal: weekly visibility into ARR health by score category (strong, healthy, risky, critical)
+- No waiting for perfect automation—manual data input acceptable short-term (targeting 15 accounts in under 30 minutes)
+
+**Near-term (Next 30 Days):**
+- Jason Gong to build "stage zero" lead stage in HubSpot pipeline to capture pre-qualified leads before opportunity creation
+- Jeff to prioritize HubSpot infrastructure: fix stage definitions, build requested fields/automation, propose manual data input processes (30-60-90 day plan)
+- Leah Dillon to own weekly opportunity creation reporting—must show pacing vs quarterly 108-op target and weekly 14-op goal
+- Launch paid retargeting campaigns on LinkedIn and Meta targeting pricing page and homepage visitors
+- Four workshops scheduled for February; internal organic content marketing program to launch
+
+**Strategic:**
+- Shift from broad outreach to clustered, lookalike account-based marketing
+- Attribution modeling simplified to three buckets: inbound, referrals, events—no complex multi-touch until pipeline stabilizes
+- Treat renewals as active sales pipeline with no "late renewal" concept; forecast accuracy target is 100%
+
+---
+
+## Open Questions
+
+- What is the exact breakdown of the 40% at-risk ARR by renewal date? Urgency of near-term churn vs. FY-end risk needs clarification
+- How many accounts should we prioritize for early renewal discussions to create Q1/Q2 budget breathing room?
+- Should we consider pulling in external resources (freelancers, agencies) to accelerate opportunity creation, or is this a sales motion/messaging problem?
+- What is the current confidence level of Leah's weekly op creation numbers? Are we tracking by creation date vs. actual sales meeting date?
+- Once health scores are in HubSpot, how will the team validate that engagement managers are accurately assessing their accounts?
 
 ---
 
 ## Overview
 
-- Opportunity creation rate at 6/week needs to reach 14/week for Q2 targets
-- New "stage zero" lead stage in HubSpot to capture early qualified leads
-- Marketing pacing at 73% of quarterly target with four workshops this month
-- Paid marketing underdeveloped — retargeting campaigns planned for LinkedIn and Meta
-- Renewal risk high: ~40% ARR at risk, urgent need for accurate health scoring
-- Account health scoring targets 60% confidence this week, 70% by next meeting
-- Jeff leading HubSpot fixes on a 30-60-90 day timeline
-- Attribution simplified to rough buckets: inbound, referrals, events
+- Opportunity creation rate at 6/week needs to reach 14/week for Q2 targets and Q2 contract launches
+- New "stage zero" lead stage in HubSpot to capture early qualified leads before traditional opportunity creation
+- Marketing pacing at 73% of quarterly target; four workshops planned for February
+- Paid marketing underdeveloped — retargeting campaigns launching on LinkedIn and Meta targeting website/pricing page visitors
+- Renewal risk critical: ~40% of ARR ($4.5M) at risk this fiscal year; GRR would drop to 60% if churn realized
+- Account health scoring framework rolled out: five signals scored weekly, 60% confidence target this week, 70% next meeting
+- Jeff prioritized for HubSpot fixes with 30-60-90 day plan; manual data input acceptable short-term
+- Attribution simplified to three buckets: inbound, referrals, events
+- No late renewals policy—renewals treated as active sales pipeline with disciplined forecasting
 
 ---
 
 ## Key Topics
 
 ### Pipeline & Opportunity Creation
-- Current: 6 qualified ops/week, delivering 312 annually (74% of 420 target)
-- Goal: 14 qualified ops/week to support 36 Q2 kickoffs
-- New "stage zero" in HubSpot for pre-qualified leads before official opportunity creation
-- Pipeline stages being renamed to reflect true sales progress
-- Gap identified between record creation dates and actual sales meetings
+- **Current State:** 6 qualified ops/week, delivering 312 annually (74% of 420 target for 36 Q2 kickoffs)
+- **Target:** 14 qualified ops/week to stabilize pipeline to 4-8 week lead time on kickoffs (currently at critical 1-week state)
+- **Gap:** Pipeline is extremely tight; missing two deals this week now means missing annual numbers or doing six kickoffs in one week later
+- **Solution:** New "stage zero" in HubSpot for pre-qualified leads before official opportunity creation; clarify stages to reflect true sales progress, not admin dates
+- **Data Issue:** Gap between record creation dates and actual sales meetings; need weekly reporting by true sales activity, not CRM timestamp
 
 ### Marketing Strategy & Channels
-- 108 qualified ops target this quarter, pacing at 73%
-- Events driving results: workshops, dinners, breakfasts with four workshops planned this month
-- Organic growing steadily — 400 organic visitors to CheckThat last week
-- Paid marketing marked red: LinkedIn ads and newsletters only, no paid search
-- Retargeting planned for pricing page and homepage visitors via Meta and LinkedIn
-- Shifting from broad outreach to clustered, lookalike account-based marketing
+- **Q1 Target:** 108 qualified ops, currently pacing at 73% (~79 YTD)
+- **What's Working:** Events/workshops, referrals, organic growing (400 CheckThat visitors/week)
+- **What Needs Work:** Paid marketing marked red—only LinkedIn ads and newsletters active; no paid search program
+- **Retargeting Strategy:** Launch Meta and LinkedIn retargeting campaigns targeting pricing page browsers and homepage visitors; shift to account-based clustering over broad outreach
+- **Events:** Four workshops scheduled for February; continuing dinners and breakfasts with warm prospects
+- **Content:** Internal organic content marketing program launching this quarter
 
 ### Renewals & Account Health
-- Nearly 40% of ARR (~$4.5M) at risk this fiscal year
-- Five-signal health scoring: strong, healthy, risky, or critical
-- Target: 60% confidence in scores this week, 70% next meeting
-- No late renewals policy — treating renewals like a sales pipeline
-- Line-by-line HubSpot review required for forecast accuracy
+- **Risk Profile:** $4.5M of $10.4M ARR (nearly 40%) flagged as at-risk this fiscal year
+- **Impact:** If realized, GRR drops to 60%; combined with Q1/Q2 churn, budget constraints leave almost no room for incremental resource allocation
+- **Five-Signal Framework:** Relationship strength, engagement level, expansion potential, expansion risk, competitive threat—all scored weekly by engagement managers
+- **Scoring Rules:** Strong (above X threshold), Healthy (between thresholds, all signals 3+), Risky (one signal below 2 or below threshold), Critical (below floor)
+- **Implementation:** Manual scoring acceptable; get scores in HubSpot by Friday weekly, roll up to account level for automated status calculation
+- **Discipline:** Treat renewals as sales pipeline; confidence targets are 60% this week, 70% next week; flag accounts based on relationship and risk signals weekly
+- **Policy:** No late renewals; proactive outreach required with early renewal leverage to free up budget
 
 ### Data Hygiene & Reporting
-- Jeff prioritized for HubSpot fixes with 30-60-90 day plan
-- Manual data entry needed short-term, targeting 15 accounts in under 30 minutes
-- Attribution simplified to rough categories: inbound, referrals, events
-- Goal: embed disciplined reporting to drive proactive management
+- **Owner:** Jeff tasked with 30-60-90 day HubSpot plan (stage fixes, field builds, automation setup)
+- **Priority:** Data accuracy and visibility over perfect automation; manual input is acceptable short-term
+- **Scope:** Fix stage definitions, build requested fields, propose manual data processes, set up triggers for escalation
+- **Reporting Cadence:** Weekly ops creation (pacing vs target), weekly health scores (ARR by status), quarterly churn forecast
+- **Measurement:** Outcome-first approach—measure the metric (health score % by category), validate behavior driving it second
+- **Accessibility:** All teams (sales, engagement, ops) must know and understand the measurement and how their behavior impacts it
 
 ---
 
 ## Action Items
 
-**Leah Dillon**
-- Own and ensure accuracy of weekly opportunity creation reports, including pacing vs quarterly goals
+**Leah Dillon (Revenue Operations, GrowthX)**
+- Own and ensure accuracy of weekly opportunity creation reports, including pacing vs 108-op Q1 target and 14-op weekly goal
+- Work with Bridget to validate data accuracy and identify pipeline creation vs. sales meeting date gaps
+- Report weekly ARR by health score category (strong, healthy, risky, critical) once health scores are in HubSpot
 
-**Jeff**
+**Jeff (Operations, GrowthX)**
 - Support Leah with weekly reporting of opportunity creation data
-- Prioritize HubSpot stage fixes and reporting workflows over next two weeks
-- Build requested fields and automation, propose manual data input processes
+- Prioritize HubSpot stage fixes and reporting workflows as P0 over next two weeks
+- Build requested fields (health score fields, status rollups, automation) with clear data entry instructions
+- Propose manual data input processes that can be executed in under 30 minutes per 15 accounts
+- Provide 30-60-90 day plan summary in single doc for team visibility and accountability tracking
 
-**Jason Gong**
-- Build new "stage zero" lead phase in pipeline to capture early qualified leads
-- Coordinate retargeting paid campaigns on LinkedIn and Meta
-- Assist with internal organic content marketing program
-- Provide updated sales and marketing activity status and budgets
-- Develop targeted outreach lists for personalized reconnection campaigns
+**Jason Gong (VP GTM, GrowthX)**
+- Build new "stage zero" lead phase in HubSpot pipeline to capture pre-qualified leads before opportunity creation
+- Define clear criteria for stage progression to eliminate gaps between record creation and actual sales meetings
+- Coordinate retargeting paid campaigns on LinkedIn and Meta (target: pricing page and homepage visitors)
+- Assist with internal organic content marketing program launch
+- Provide updated sales and marketing activity status, budget allocation, and team capacity for Q1
 
-**Bridget**
-- Assist Leah with weekly op creation data reporting and validation
+**Bridget (Sales Operations, GrowthX)**
+- Assist Leah with weekly opportunity creation data reporting and validation
+- Participate in line-by-line HubSpot data review for pipeline accuracy
+- Flag any discrepancies between create dates and sales activity dates
 
-**Marcel**
-- Coordinate with Jason and team to clarify pipeline definitions and support data hygiene
+**Marcel Santilli (CEO, GrowthX)**
+- Coordinate with Jason and team to finalize pipeline stage definitions and resolve data hygiene blockers
+- Review Jeff's 30-60-90 plan and provide prioritization guidance
+- Approve any resource allocation or team redirects needed to accelerate opportunity creation and health scoring
 
-**Engagement Managers**
-- Immediately update all account health scores weekly in HubSpot
-- Flag accounts based on relationship and risk indicators
-
-**Andy and Chad**
-- Participate in upstream data review for renewal and risk scoring frameworks
+**Andy and Chad (Customer Success/Engagement, GrowthX)**
+- Update all account health scores weekly in HubSpot (or Notion for initial rollout) by Friday EOD
+- Score each account using five signals: relationship strength, engagement level, expansion potential, expansion risk, competitive threat
+- Flag accounts in critical or risky category; initiate early renewal conversations where applicable
+- Participate in upstream data review to validate health scoring methodology and improve accuracy week-over-week
 
 ---
 
 ## Transcript
+
+*(Note: Speaker attribution reconstructed from Fireflies transcript. Team members confirmed by context references: Jason Gong, Leah Dillon, Jeff, Andy, Chad. Primary speakers: Marcel Santilli and Jason Gong.)*
+
 **Jason Gong:** This meeting is being recorded.
 
-**Board Room:** Mount Field, which I kind of went in like.
+**Marcel Santilli:** Let me actually share this with you as well and then we'll move this. But wanted to go through the plan detail the fiscal planning goals. But that's what we were going to share at all hands. But we need more time to like go through with the board and whatnot. Jason, take a look at that. It's pretty. There's nothing new that you haven't seen from our last 101.
 
-**Board Room:** I think it's close enough.
+**Marcel Santilli:** And so the main thing on top of funnel that I really want to. I put goals for the different, like, functions, if you will. But on the marketing side, like, the thing I really care about is like weekly ops created as the most important thing. And then that's the thing that for this meeting, until things are stable and we feel like we're in a good place. The TLDR is like we have about 52 ops open right now. A lot on the sales side.
 
-**Board Room:** Who's the honor of this meeting?
+**Marcel Santilli:** And there's a lot of ops that we let it go super cold and now they're not engaged anymore and probably already bought from someone else.
 
-**Board Room:** Maybe me.
+**Marcel Santilli:** And so there is pressure on.
 
-**Board Room:** Oh, no, you are somebody like him.
+**Marcel Santilli:** On Tyler to really push hard to get us further than one week out in kickoffs, which is like a really like.
 
-**Board Room:** Who sent the invite?
+**Marcel Santilli:** Other than when we like intentionally paused in May kickoffs through like we think the.
 
-**Board Room:** I asked Dave to send this.
+**Marcel Santilli:** The onboarding we almost always operated at like four to eight weeks out.
 
-**Board Room:** Let me get in like five people.
+**Marcel Santilli:** So it's like one week is like super scary, you know, because it's like essentially like if we don't close two deals this week now we miss our entire numbers for the year essentially.
 
-**Board Room:** We're doing great.
+**Marcel Santilli:** Or we have to now do six kickoffs at some point in one week, you know, like.
 
-**Board Room:** Okay, I'll take this.
+**Marcel Santilli:** And so it kind of adds this crazy pressure, but also it impacts because kickoffs then can only convert eight weeks later.
 
-**Board Room:** Organizer.
+**Marcel Santilli:** So now that ARR can no longer convert, you know, like, it's like you lost like 300k in that quarter.
 
-**Board Room:** It's not letting me remove people from the.
+**Marcel Santilli:** And so every week that we don't do two unless you immediately pile up the next one.
 
-**Board Room:** I just want to take the note takers out and just keep the fireflies in the other one.
+**Marcel Santilli:** But then it puts pressure on the team now all of a sudden to just like have four, you know.
 
-**Board Room:** Yeah, I can't either assess them.
+**Marcel Santilli:** And so that impacts everything.
 
-**Board Room:** Organizer.
+**Marcel Santilli:** Right.
 
-**Board Room:** Maybe Degas.
+**Marcel Santilli:** Like, so at the end of the day is us doing whatever is necessary to give sales the best shot possible and doing whatever's necessary on the sales side, which we should actually have ever joined us as well stabilize it.
 
-**Board Room:** Oh, Ella's the host.
+**Marcel Santilli:** But we can also do the pipeline inspection, but separately as well.
 
-**Board Room:** I'm the host.
+**Marcel Santilli:** But anyway, so that.
 
-**Board Room:** I didn't even look because I like.
+**Marcel Santilli:** That's the thing I really care about.
 
-**Board Room:** Why would I be the host?
+**Marcel Santilli:** So can we look at just like in the last few weeks how many ops we created each week?
 
-**Board Room:** I think in the zoom invite it says Ella.
+**Marcel Santilli:** Yeah, this is a new business.
 
-**Board Room:** Okay, so maybe if you join then you can kick them all out or you can make me the host.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** Sorry, I was.
+**Marcel Santilli:** And I just need to see like there's this one is new deals per week.
 
-**Board Room:** I didn't know.
+**Marcel Santilli:** I need to look at that stages to know the exact submission.
 
-**Board Room:** Okay, so the recording has stopped.
+**Marcel Santilli:** This is by create date.
 
-**Board Room:** Quick notion.
+**Marcel Santilli:** But it does look like we doubled last week.
 
-**Board Room:** Yeah, yeah.
+**Marcel Santilli:** It should be one way to enter intro.
 
-**Board Room:** Keep the fireflies and the note tick are just making the best.
+**Marcel Santilli:** Right.
 
-**Board Room:** The other two are.
+**Marcel Santilli:** Okay.
 
-**Board Room:** Okay.
+**Marcel Santilli:** Well, yeah, that's.
 
-**Board Room:** Okay.
+**Marcel Santilli:** I'm not sure if it's like I think it would be created into intro.
 
-**Board Room:** I'm supposed to get rid of the Marcel's luminum ticker.
+**Marcel Santilli:** Then let's figure out right now like because it's like we are.
 
-**Board Room:** I gotta try.
+**Marcel Santilli:** There's too many like we're not sure of like on both like the account and things just like otherwise we just have to go back to II or something.
 
-**Board Room:** Okay, so if we haven't shared broadly with the company, but forgive me, I feel like if we don't want it in here, it's only going to be pin it.
+**Marcel Santilli:** It's like, you know, it's like we've been HubSpot for six months.
 
-**Board Room:** You can't get rid of them though.
+**Marcel Santilli:** We really need to have answers to these things, you know of like how many ops did we create last week?
 
-**Board Room:** I can't get rid of it.
+**Marcel Santilli:** How many ops do we create in January?
 
-**Board Room:** So weird.
+**Marcel Santilli:** Right.
 
-**Board Room:** But you got rid of other stuff.
+**Marcel Santilli:** Like new business ops.
 
-**Board Room:** I haven't gotten rid of any.
+**Marcel Santilli:** And what is our definition in the system?
 
-**Board Room:** I just got it.
+**Marcel Santilli:** Is it create date of the Op.
 
-**Board Room:** That's so weird.
+**Marcel Santilli:** Is it when it enters date?
 
-**Board Room:** You're not the host either.
+**Marcel Santilli:** Well, they would.
 
-**Board Room:** Okay.
+**Marcel Santilli:** That's where I don't.
 
-**Board Room:** Okay.
+**Marcel Santilli:** Leah, do you know when they're created?
 
-**Board Room:** So the.
+**Jason Gong:** I imagine they're in intro phase.
 
-**Board Room:** Let me actually share this with you as well and then we'll move this.
+**Jason Gong:** There's nothing before that.
 
-**Board Room:** But wanted to go through the plan detail the fiscal planning goals.
+**Jason Gong:** Yeah, it's the first stage of the app.
 
-**Board Room:** But that's what we were going to share at all hands.
+**Marcel Santilli:** So if it's progressed through the pipeline faster, like I created this card specifically, so I, I didn't put this one's right because it had eight last week.
 
-**Board Room:** But we need more time to like go through with the board and whatnot.
+**Marcel Santilli:** Some of them are progressing.
 
-**Board Room:** And so.
+**Marcel Santilli:** We're still counting it by create date.
 
-**Board Room:** Jason, take a look at that.
+**Marcel Santilli:** So there's.
 
-**Board Room:** It's pretty.
+**Marcel Santilli:** Let's remove the.
 
-**Board Room:** There's nothing new that you haven't seen from our last 101.
+**Marcel Santilli:** Compared to last year.
 
-**Board Room:** And so the main thing on top of funnel that I really want to.
+**Marcel Santilli:** There was no data for last January, so the last year is not a good comparison.
 
-**Board Room:** I put goals for the different, like, functions, if you will.
+**Marcel Santilli:** Last fiscal quarter.
 
-**Board Room:** But on the marketing side, like, the thing I really care about is like weekly ops created as the most important thing.
+**Marcel Santilli:** Can I remove.
 
-**Board Room:** And then that's the thing that for this meeting, until things are stable and we feel like we're in a good place.
+**Marcel Santilli:** We can, we can compare on a monthly basis to previous month or previous quarter.
 
-**Board Room:** Like the.
+**Marcel Santilli:** But it's just so like if you compare February to September, it's going to be off.
 
-**Board Room:** The TLDR is like we.
+**Marcel Santilli:** If you compare, you know, February, you know, it's really like to the previous quarter on aggregate.
 
-**Board Room:** We have about 52 ops open right now.
+**Marcel Santilli:** It's good to know.
 
-**Board Room:** A lot on the sales side.
+**Marcel Santilli:** And it's good to know like what our targets are, which is like if, if we look at the goals, right.
 
-**Board Room:** And there's a lot of ops that we let it go super cold and now they're not engaged anymore and probably already bought from someone else.
+**Marcel Santilli:** We need to create.
 
-**Board Room:** And so there is pressure on.
+**Marcel Santilli:** Marketing's goal is to create 108 qualified ops this quarter.
 
-**Board Room:** On Tyler to really push hard to get us further than one week out in kickoffs, which is like a really like.
+**Marcel Santilli:** Right.
 
-**Board Room:** Other than when we like intentionally paused in May kickoffs through like we think the.
+**Marcel Santilli:** And so that is what we need to create in order to give us the best shot at closing 36 kickoffs in Q2.
 
-**Board Room:** The onboarding we almost always operated at like four to eight weeks out.
+**Marcel Santilli:** So market whatever marketing does this quarter on average is what for the most part will impact how many close one kickoffs we book in Q2, you know, and, and so it's always kind of like 1/4 ahead.
 
-**Board Room:** So it's like one week is like super scary, you know, because it's like essentially like if we don't close two deals this week now we miss our entire numbers for the year essentially.
+**Marcel Santilli:** And, and this, all of this is assuming a 3x pipeline coverage, which is relatively low pipeline coverage based on the latest win rates.
 
-**Board Room:** Or we have to now do six kickoffs at some point in one week, you know, like.
+**Marcel Santilli:** But that's okay.
 
-**Board Room:** And so it kind of adds this crazy pressure, but also it impacts because kickoffs then can only convert eight weeks later.
+**Marcel Santilli:** Like, we gotta like push hard on win rates and I will make sure that happens there.
 
-**Board Room:** So now that ARR can no longer convert, you know, like, it's like you lost like 300k in that quarter.
+**Marcel Santilli:** So but then on a weekly basis, which is this meeting, we want to know like quarter to date and what we're pacing against, like I mentioned last time on Tuesday.
 
-**Board Room:** And so every week that we don't do two unless you immediately pile up the next one.
+**Marcel Santilli:** Right.
 
-**Board Room:** But then it puts pressure on the team now all of a sudden to just like have four, you know.
+**Marcel Santilli:** So if we look at for instance, like, and then always looking at the previous week.
 
-**Board Room:** And so that impacts everything.
+**Marcel Santilli:** Right.
 
-**Board Room:** Right.
+**Marcel Santilli:** Like I don't care about Monday and today essentially.
 
-**Board Room:** Like, so at the end of the day is us doing whatever is necessary to give sales the best shot possible and doing whatever's necessary on the sales side, which we should actually have ever joined us as well stabilize it.
+**Marcel Santilli:** Right.
 
-**Board Room:** But we can also do the pipeline inspection, but separately as well.
+**Marcel Santilli:** Like we're always looking like wrapping.
 
-**Board Room:** But anyway, so that.
+**Marcel Santilli:** Closing out the week.
 
-**Board Room:** That's the thing I really care about.
+**Marcel Santilli:** Right.
 
-**Board Room:** So can we look at just like in the last few weeks how many ops we created each week?
+**Marcel Santilli:** And sorry.
 
-**Board Room:** Yeah, this is a new business.
+**Marcel Santilli:** Okay, so that's roughly what I saw.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** This wallet, which is we created 25 deals in January, But who is the one person accountable for making sure this number is right and report on this number?
 
-**Board Room:** And I just need to see like there's this one is new deals per week.
+**Marcel Santilli:** Leah, I think that should be you.
 
-**Board Room:** I need to look at that stages to know the exact submission.
+**Jason Gong:** I'm happy to do that.
 
-**Board Room:** This is by create date.
+**Jason Gong:** Okay.
 
-**Board Room:** But it does look like we doubled last week.
+**Marcel Santilli:** Brigid.
 
-**Board Room:** It should be one way to enter intro.
+**Marcel Santilli:** Agree.
 
-**Board Room:** Right.
+**Marcel Santilli:** I'll help you.
 
-**Board Room:** Okay.
+**Marcel Santilli:** Okay.
 
-**Board Room:** Well, yeah, that's.
+**Marcel Santilli:** And Jeff.
 
-**Board Room:** I'm not sure if it's like I think it would be created into intro.
+**Marcel Santilli:** Jeff.
 
-**Board Room:** Then let's figure out right now like because it's like we are.
+**Marcel Santilli:** Jeff is awesome.
 
-**Board Room:** There's too many like we're not sure of like on both like the account and things just like otherwise we just have to go back to II or something.
+**Marcel Santilli:** Jeff knows exactly what I expect from weekly reports he ran that meeting for me and created all the spreadsheets and everything so that we report on upkeep.
 
-**Board Room:** It's like, you know, it's like we've been HubSpot for six months.
+**Marcel Santilli:** So tell him do the what we had the go to market meeting for upkeep.
 
-**Board Room:** We really need to have answers to these things, you know of like how many ops did we create last week?
+**Marcel Santilli:** He knows exactly what it does.
 
-**Board Room:** How many ops do we create in January?
+**Marcel Santilli:** He can do that in his sleep as he started.
 
-**Board Room:** Right.
+**Marcel Santilli:** Yes, but just on Friday.
 
-**Board Room:** Like new business ops.
+**Marcel Santilli:** And like whatever else he's working on is not more important than making sure like we have this view on, you know, ops created all the way to renewal.
 
-**Board Room:** And what is our definition in the system?
+**Marcel Santilli:** And once we have that and as long as it's not impacting our ability to do that faster and report on that faster, then, you know, then, then it's a big brand to work on.
 
-**Board Room:** Is it create date of the Op.
+**Marcel Santilli:** But it's like this is the number one priority.
 
-**Board Room:** Is it when it enters date?
+**Marcel Santilli:** So.
 
-**Board Room:** Well, they would.
+**Marcel Santilli:** Okay, so that's 26, but can you double click on that and look at weekly for this quarter?
 
-**Board Room:** That's where I don't.
+**Marcel Santilli:** Yeah, well, I know it's was.
 
-**Board Room:** Leah, do you know when they're created?
+**Marcel Santilli:** I don't know how to get rid of the last quarter one, but I think it was better to look at it.
 
-**Board Room:** I imagine they're in intro phase.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** There's nothing before that.
+**Marcel Santilli:** Here.
 
-**Board Room:** Yeah, it's the first stage of the app.
+**Marcel Santilli:** So we did 10, 4, 3, 8, super lumpy.
 
-**Board Room:** So if it's progressed through the pipeline faster, like I created this card specifically, so I, I didn't put this one's right because it had eight last week.
+**Marcel Santilli:** But it did go back up to eight last week and that was some really good ones.
 
-**Board Room:** Some of them are progressing.
+**Marcel Santilli:** Okay, great.
 
-**Board Room:** We're still counting it by create date.
+**Marcel Santilli:** Nerdio.
 
-**Board Room:** So there's.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** Let's remove the.
+**Marcel Santilli:** So going through that.
 
-**Board Room:** Compared to last year.
+**Marcel Santilli:** So Vercel customer referral Nerdial.
 
-**Board Room:** There was no data for last January, so the last year is not a good comparison.
+**Marcel Santilli:** Nerdio is the guy that was Brian who was CMO of Sentinel One is now CMO of Nerdial.
 
-**Board Room:** Last fiscal quarter.
+**Marcel Santilli:** So that was like call it customer word of mouth referral Gladia I think was true.
 
-**Board Room:** Can I remove.
+**Marcel Santilli:** Inbound, they're a competitor B gram Tree Kit.
 
-**Board Room:** We can, we can compare on a monthly basis to previous month or previous quarter.
+**Marcel Santilli:** I'm not sure the priority goal.
 
-**Board Room:** But it's just so like if you compare February to September, it's going to be off.
+**Marcel Santilli:** I'm not sure either.
 
-**Board Room:** If you compare, you know, February, you know, it's really like to the previous quarter on aggregate.
+**Marcel Santilli:** I think it's Edwards Life Science.
 
-**Board Room:** It's good to know.
+**Marcel Santilli:** I'm assuming same thing.
 
-**Board Room:** And it's good to know like what our targets are, which is like if, if we look at the goals, right.
+**Marcel Santilli:** Greenhouse was the event, the webload event I spoke at Forlogix was running into the someone I worked with that scale CRO and joined that company at the wars game.
 
-**Board Room:** We need to create.
+**Marcel Santilli:** So it's like word of mouth, if you will or like you know, CEO intro let's call it, you know.
 
-**Board Room:** Marketing's goal is to create 108 qualified ops this quarter.
+**Marcel Santilli:** So I think like Jason, what I like is we don't need a crazy attribution thing.
 
-**Board Room:** Right.
+**Jason Gong:** If you can, you know, just own the roughly based on what you know and you know.
 
-**Board Room:** And so that is what we need to create in order to give us the best shot at closing 36 kickoffs in Q2.
+**Jason Gong:** And then later on you can delegate to Jose to do this.
 
-**Board Room:** So market whatever marketing does this quarter on average is what for the most part will impact how many close one kickoffs we book in Q2, you know, and, and so it's always kind of like 1/4 ahead.
+**Jason Gong:** But just like.
 
-**Board Room:** And, and this, all of this is assuming a 3x pipeline coverage, which is relatively low pipeline coverage based on the latest win rates.
+**Jason Gong:** Sorry, what is keep saying Jose.
 
-**Board Room:** But that's okay.
+**Jason Gong:** Sorry I keep saying Jose.
 
-**Board Room:** Like, we gotta like push hard on win rates and I will make sure that happens there.
+**Jason Gong:** I don't know.
 
-**Board Room:** So but then on a weekly basis, which is this meeting, we want to know like quarter to date and what we're pacing against, like I mentioned last time on Tuesday.
+**Jason Gong:** Jesus.
 
-**Board Room:** Right.
+**Jason Gong:** On just having like a rough bucket of like source, if you will.
 
-**Board Room:** So if we look at for instance, like, and then always looking at the previous week.
+**Jason Gong:** And it can be like manual.
 
-**Board Room:** Right.
+**Jason Gong:** The manual like tree kid.
 
-**Board Room:** Like I don't care about Monday and today essentially.
+**Jason Gong:** Did they come from the website based on the call with you know, transcript and everything else Is this like, you know, like don't worry about attribution.
 
-**Board Room:** Right.
+**Jason Gong:** This is not to guide Performance of any individual or any team or anything.
 
-**Board Room:** Like we're always looking like wrapping.
-
-**Board Room:** Closing out the week.
-
-**Board Room:** Right.
-
-**Board Room:** And sorry.
-
-**Board Room:** Okay, so that's roughly what I saw.
-
-**Board Room:** This wallet, which is we created 25 deals in January, But who is the one person accountable for making sure this number is right and report on this number?
-
-**Board Room:** Leah, I think that should be you.
-
-**Board Room:** I'm happy to do that.
-
-**Board Room:** Okay.
-
-**Board Room:** Brigid.
-
-**Board Room:** Agree.
-
-**Board Room:** I'll help you.
-
-**Board Room:** Okay.
-
-**Board Room:** And Jeff.
-
-**Board Room:** Jeff.
-
-**Board Room:** Jeff is awesome.
-
-**Board Room:** Jeff knows exactly what I expect from weekly reports he ran that meeting for me and created all the spreadsheets and everything so that we report on upkeep.
-
-**Board Room:** So tell him do the what we had the go to market meeting for upkeep.
-
-**Board Room:** He knows exactly what it does.
-
-**Board Room:** He can do that in his sleep as he started.
-
-**Board Room:** Yes, but just on Friday.
-
-**Board Room:** And like whatever else he's working on is not more important than making sure like we have this view on, you know, ops created all the way to renewal.
-
-**Board Room:** And once we have that and as long as it's not impacting our ability to do that faster and report on that faster, then, you know, then, then it's a big brand to work on.
-
-**Board Room:** But it's like this is the number one priority.
-
-**Board Room:** So.
-
-**Board Room:** Okay, so that's 26, but can you double click on that and look at weekly for this quarter?
-
-**Board Room:** Yeah, well, I know it's was.
-
-**Board Room:** I don't know how to get rid of the last quarter one, but I think it was better to look at it.
-
-**Board Room:** Yeah.
-
-**Board Room:** Here.
-
-**Board Room:** So we did 10, 4, 3, 8, super lumpy.
-
-**Board Room:** But it did go back up to eight last week and that was some really good ones.
-
-**Board Room:** Okay, great.
-
-**Board Room:** Nerdio.
-
-**Board Room:** Yeah.
-
-**Board Room:** So going through that.
-
-**Board Room:** So Vercel customer referral Nerdial.
-
-**Board Room:** Nerdio is the guy that was Brian who was CMO of Sentinel One is now CMO of Nerdial.
-
-**Board Room:** So that was like call it customer word of mouth referral Gladia I think was true.
-
-**Board Room:** Inbound, they're a competitor B gram Tree Kit.
-
-**Board Room:** I'm not sure the priority goal.
-
-**Board Room:** I'm not sure either.
-
-**Board Room:** I think it's Edwards Life Science.
-
-**Board Room:** I'm assuming same thing.
-
-**Board Room:** Greenhouse was the event, the webload event I spoke at Forlogix was running into the someone I worked with that scale CRO and joined that company at the wars game.
-
-**Board Room:** So it's like word of mouth, if you will or like you know, CEO intro let's call it, you know.
-
-**Board Room:** So I think like Jason, what I like is we don't need a crazy attribution thing.
-
-**Board Room:** If you can, you know, just own the roughly based on what you know and you know.
-
-**Board Room:** And then later on you can delegate to Jose to do this.
-
-**Board Room:** But just like.
-
-**Board Room:** Sorry, what is keep saying Jose.
-
-**Board Room:** Sorry I keep saying Jose.
-
-**Board Room:** I don't know.
-
-**Board Room:** Jesus.
-
-**Board Room:** On just having like a rough bucket of like source, if you will.
-
-**Board Room:** And it can be like manual.
-
-**Board Room:** The manual like tree kid.
-
-**Board Room:** Did they come from the website based on the call with you know, transcript and everything else Is this like, you know, like don't worry about attribution.
-
-**Board Room:** This is not to guide Performance of any individual or any team or anything.
-
-**Board Room:** This is mostly to know like high level what's having the biggest like final impact.
+**Jason Gong:** This is mostly to know like high level what's having the biggest like final impact.
 
 **Jason Gong:** Yeah.
 
@@ -528,245 +469,245 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** So we're going to create like a lead object.
 
-**Board Room:** That's all I've always done.
+**Jason Gong:** That's all I've always done.
 
-**Board Room:** So it's like stage zero.
+**Jason Gong:** So it's like stage zero.
 
-**Board Room:** And so the stage zero can be like inbound or you know, or whatever.
+**Jason Gong:** And so the stage zero can be like inbound or you know, or whatever.
 
-**Board Room:** Forgot what we used to call.
+**Jason Gong:** Forgot what we used to call.
 
-**Board Room:** But think of like meeting happen as the intro and.
+**Jason Gong:** But think of like meeting happen as the intro and.
 
-**Board Room:** And then if it passes past that and it.
+**Jason Gong:** And then if it passes past that and it.
 
-**Board Room:** So.
+**Jason Gong:** So.
 
-**Board Room:** So after that meeting it's either close lost or it moves up.
+**Jason Gong:** So after that meeting it's either close lost or it moves up.
 
-**Board Room:** Like there, you know, there's.
+**Jason Gong:** Like there, you know, there's.
 
-**Board Room:** There's got to be like, you got to be super strict on that.
+**Jason Gong:** There's got to be like, you got to be super strict on that.
 
-**Board Room:** And.
+**Jason Gong:** And.
 
-**Board Room:** And.
+**Jason Gong:** And.
 
-**Board Room:** But then there needs to be like a holding piece that is not yet created.
+**Jason Gong:** But then there needs to be like a holding piece that is not yet created.
 
-**Board Room:** And that's why like creating as a best practice in our wrap ops, you can't don't use Create date record Create date as anything at all.
+**Jason Gong:** And that's why like creating as a best practice in our wrap ops, you can't don't use Create date record Create date as anything at all.
 
-**Board Room:** Right, Right.
+**Jason Gong:** Right, Right.
 
-**Board Room:** Because that can mean so many different things.
+**Marcel Santilli:** Because that can mean so many different things.
 
-**Board Room:** Like someone can create the record and immediately go into like stage five.
+**Marcel Santilli:** Like someone can create the record and immediately go into like stage five.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** And it's because they forgot to create or didn't do something.
+**Marcel Santilli:** And it's because they forgot to create or didn't do something.
 
-**Board Room:** And that doesn't mean the opportunity was created that day.
+**Marcel Santilli:** And that doesn't mean the opportunity was created that day.
 
-**Board Room:** You need to backfill when the opportunity was truly, you know, created, you know, or when it was truly qualifies.
+**Marcel Santilli:** You need to backfill when the opportunity was truly, you know, created, you know, or when it was truly qualifies.
 
-**Board Room:** And so like create a.
+**Marcel Santilli:** And so like create a.
 
-**Board Room:** It should always be entered the stage that you care about and the way you care about.
+**Marcel Santilli:** It should always be entered the stage that you care about and the way you care about.
 
-**Board Room:** You know, I guess to Jason's point though, he's like, do want to know if there's some massive gap between Create date and when Tyler actually gets on the call?
+**Marcel Santilli:** You know, I guess to Jason's point though, he's like, do want to know if there's some massive gap between Create date and when Tyler actually gets on the call?
 
-**Board Room:** Because he's saying he three times three deals last weekend.
+**Marcel Santilli:** Because he's saying he three times three deals last weekend.
 
-**Board Room:** He's like, they're not meetings yet.
+**Marcel Santilli:** He's like, they're not meetings yet.
 
-**Board Room:** So that's a problem.
+**Marcel Santilli:** So that's a problem.
 
-**Board Room:** Okay, so who takes notes for this meeting?
+**Marcel Santilli:** Okay, so who takes notes for this meeting?
 
-**Board Room:** Okay, cool.
+**Marcel Santilli:** Okay, cool.
 
-**Board Room:** There one action one is.
+**Marcel Santilli:** There one action one is.
 
-**Board Room:** Let's create stage zero.
+**Marcel Santilli:** Let's create stage zero.
 
-**Board Room:** And we might need to rename the stages.
+**Marcel Santilli:** And we might need to rename the stages.
 
-**Board Room:** And so like if we.
+**Marcel Santilli:** And so like if we.
 
-**Board Room:** It's like if we want to call intro this new stage, don't rename that one and.
+**Marcel Santilli:** It's like if we want to call intro this new stage, don't rename that one and.
 
-**Board Room:** Or don't move intro to that and then create another one here.
+**Marcel Santilli:** Or don't move intro to that and then create another one here.
 
-**Board Room:** Does that make sense?
+**Marcel Santilli:** Does that make sense?
 
-**Board Room:** So create truly a stage zero and at stage zero you want to call intro.
+**Marcel Santilli:** So create truly a stage zero and at stage zero you want to call intro.
 
-**Board Room:** We name intro as meeting.
+**Marcel Santilli:** We name intro as meeting.
 
-**Board Room:** Does that make sense?
+**Marcel Santilli:** Does that make sense?
 
-**Board Room:** Yes.
+**Marcel Santilli:** Yes.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** I think we need to re look at them all across the board because Tyler also serves a lot of stuff in proposal and contract.
+**Marcel Santilli:** I think we need to re look at them all across the board because Tyler also serves a lot of stuff in proposal and contract.
 
-**Board Room:** And I think we could split it out even to like.
+**Marcel Santilli:** And I think we could split it out even to like.
 
-**Board Room:** Yeah, negotiating.
+**Marcel Santilli:** Yeah, negotiating.
 
-**Board Room:** But at the way I always think about it is like product yes, then commercial yes.
+**Marcel Santilli:** But at the way I always think about it is like product yes, then commercial yes.
 
-**Board Room:** You know, and then there's like truly like 100.
+**Marcel Santilli:** You know, and then there's like truly like 100.
 
-**Board Room:** Like commercial yes means yes, I agree it's going to be 18, not 15.
+**Marcel Santilli:** Like commercial yes means yes, I agree it's going to be 18, not 15.
 
-**Board Room:** Yes, I agree it's going to be a 12 month thing.
+**Marcel Santilli:** Yes, I agree it's going to be a 12 month thing.
 
-**Board Room:** Like this is like true commercial yes.
+**Marcel Santilli:** Like this is like true commercial yes.
 
-**Board Room:** Then contract yes is like yes, liability will be capped at 2x, not 10x.
+**Marcel Santilli:** Then contract yes is like yes, liability will be capped at 2x, not 10x.
 
-**Board Room:** Like you know, like, you know that type of thing, you know.
+**Marcel Santilli:** Like you know, like, you know that type of thing, you know.
 
-**Board Room:** No, you can't cancel for.
+**Marcel Santilli:** No, you can't cancel for.
 
-**Board Room:** Because you know you're having a bad day.
+**Marcel Santilli:** Because you know you're having a bad day.
 
-**Board Room:** I'm sorry, like, and so, but we do need that holding pattern intro so that, that.
+**Marcel Santilli:** I'm sorry, like, and so, but we do need that holding pattern intro so that, that.
 
-**Board Room:** Jason, I'm okay with having that be the thing you're looking at more as a leading indicator so long as that converts at a really high percentage to actual meetings help.
+**Marcel Santilli:** Jason, I'm okay with having that be the thing you're looking at more as a leading indicator so long as that converts at a really high percentage to actual meetings help.
 
-**Board Room:** And, but that's a virtuating cross layer as far as like if that does or not.
+**Jason Gong:** And, but that's a virtuating cross layer as far as like if that does or not.
 
-**Board Room:** But, but still like at the end of the day, like the number is 180 qualified ops.
+**Jason Gong:** But, but still like at the end of the day, like the number is 180 qualified ops.
 
-**Board Room:** And the definition of that today is qualified meetings.
+**Jason Gong:** And the definition of that today is qualified meetings.
 
-**Board Room:** Like a meeting that we legit.
+**Jason Gong:** Like a meeting that we legit.
 
-**Board Room:** We're not like, this is complete garbage.
+**Jason Gong:** We're not like, this is complete garbage.
 
-**Board Room:** This is like a Gmail stranger that should not be taking up Tyler's back.
+**Jason Gong:** This is like a Gmail stranger that should not be taking up Tyler's back.
 
-**Board Room:** Right.
+**Jason Gong:** Right.
 
-**Board Room:** Like a legit company that should have a meeting.
+**Marcel Santilli:** Like a legit company that should have a meeting.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And so the way the kind of math works is if you took like, you know, the 168 ops in Q4 and you multiply that by four meaning and you divide that by 50 weeks, let's say that comes out to about 13, let's call it 14 apps.
+**Marcel Santilli:** And so the way the kind of math works is if you took like, you know, the 168 ops in Q4 and you multiply that by four meaning and you divide that by 50 weeks, let's say that comes out to about 13, let's call it 14 apps.
 
-**Board Room:** So like everything we're doing right now is trying to create programs and things so that our run rate of ops created gets to about to 14.
+**Marcel Santilli:** So like everything we're doing right now is trying to create programs and things so that our run rate of ops created gets to about to 14.
 
-**Board Room:** And right now we're oscillating between can you go back 10, 6, 6 and 8 or something?
+**Marcel Santilli:** And right now we're oscillating between can you go back 10, 6, 6 and 8 or something?
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** So it's like.
+**Marcel Santilli:** So it's like.
 
-**Board Room:** I think it's roughly.
+**Marcel Santilli:** I think it's roughly.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** Okay, so let's just say last four weeks, right?
+**Marcel Santilli:** Okay, so let's just say last four weeks, right?
 
-**Board Room:** You can do 10 plus 4 plus 4 or 3 plus 8 divided by 4.
+**Marcel Santilli:** You can do 10 plus 4 plus 4 or 3 plus 8 divided by 4.
 
-**Board Room:** So our run rate right now is 6.
+**Marcel Santilli:** So our run rate right now is 6.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** 0.25.
+**Marcel Santilli:** 0.25.
 
-**Board Room:** If you multiply that by 50, that's 312.
+**Marcel Santilli:** If you multiply that by 50, that's 312.
 
-**Board Room:** So currently our run rate will get us to 312 divided by 420.
+**Marcel Santilli:** So currently our run rate will get us to 312 divided by 420.
 
-**Board Room:** 74% attainment for the year.
+**Marcel Santilli:** 74% attainment for the year.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Like so.
+**Marcel Santilli:** Like so.
 
-**Board Room:** So it's one way to think about it.
+**Marcel Santilli:** So it's one way to think about it.
 
-**Board Room:** Another way to think about it is to say like we're currently at you know, 26 or so created.
+**Marcel Santilli:** Another way to think about it is to say like we're currently at you know, 26 or so created.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Or 23.
+**Marcel Santilli:** Or 23.
 
-**Board Room:** And you can look at how many weeks are left.
+**Marcel Santilli:** And you can look at how many weeks are left.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And so and which is 6.25 per week.
+**Marcel Santilli:** And so and which is 6.25 per week.
 
-**Board Room:** But then there, there are how many weeks left?
+**Marcel Santilli:** But then there, there are how many weeks left?
 
-**Board Room:** Let's see, we have this week, four weeks in February and five weeks in March.
+**Marcel Santilli:** Let's see, we have this week, four weeks in February and five weeks in March.
 
-**Board Room:** So it's nine weeks.
+**Marcel Santilli:** So it's nine weeks.
 
-**Board Room:** So if you do nine times 6.25 plus 23, that that means we're pacing towards 79 ops created, which is versus 108 at the target.
+**Marcel Santilli:** So if you do nine times 6.25 plus 23, that that means we're pacing towards 79 ops created, which is versus 108 at the target.
 
-**Board Room:** Yeah, makes sense.
+**Marcel Santilli:** Yeah, makes sense.
 
-**Board Room:** So like the reporting at top of Funnelway Jason is like, hey, these are the activities we're doing, but we're leading with like, hey, last week we created eight opportunities up from the previous week and we are pacing to 79 divided by 108.
+**Marcel Santilli:** So like the reporting at top of Funnelway Jason is like, hey, these are the activities we're doing, but we're leading with like, hey, last week we created eight opportunities up from the previous week and we are pacing to 79 divided by 108.
 
-**Board Room:** We're pacing to 73% attainment on our pipeline creation target.
+**Marcel Santilli:** We're pacing to 73% attainment on our pipeline creation target.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And then the activities inform.
+**Marcel Santilli:** And then the activities inform.
 
-**Board Room:** What are we doing to try to catch up to.
+**Marcel Santilli:** What are we doing to try to catch up to.
 
-**Board Room:** To that.
+**Marcel Santilli:** To that.
 
-**Board Room:** Can I ask a relevant aside and I don't want to distract you, but I would love when I think about customers or ask us about attribution for all of our organic activity, which bullet in your mind?
+**Marcel Santilli:** Can I ask a relevant aside and I don't want to distract you, but I would love when I think about customers or ask us about attribution for all of our organic activity, which bullet in your mind?
 
-**Board Room:** Like if we're going to use our own self as our own best practices that we could then discuss with, you know, like all these activities that we're doing, like dinners, breakfast, AEO workshops, like to drive leads.
+**Marcel Santilli:** Like if we're going to use our own self as our own best practices that we could then discuss with, you know, like all these activities that we're doing, like dinners, breakfast, AEO workshops, like to drive leads.
 
-**Board Room:** You know, if our customers ask us, hey, how do I get attribution from all the organic.
+**Marcel Santilli:** You know, if our customers ask us, hey, how do I get attribution from all the organic.
 
-**Board Room:** I'm just wondering, do we have a bullet for ourselves on all of our motions around organic?
+**Marcel Santilli:** I'm just wondering, do we have a bullet for ourselves on all of our motions around organic?
 
-**Board Room:** Yeah, I mean organic is like a huge thing.
+**Marcel Santilli:** Yeah, I mean organic is like a huge thing.
 
-**Board Room:** Like for instance, Anna Chan, who's, you know, a port observer asked to discuss it in board meeting.
+**Marcel Santilli:** Like for instance, Anna Chan, who's, you know, a port observer asked to discuss it in board meeting.
 
-**Board Room:** Why when all their portfolio companies search for AO insert agency tool, platform, SEO agency tool, platform, like you know, content or content marketing, you know, agency platform or tool, none of those variations ever show up like us or, or check that.
+**Marcel Santilli:** Why when all their portfolio companies search for AO insert agency tool, platform, SEO agency tool, platform, like you know, content or content marketing, you know, agency platform or tool, none of those variations ever show up like us or, or check that.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And so like that's a valid question of like that is like an important thing to think about.
+**Marcel Santilli:** And so like that's a valid question of like that is like an important thing to think about.
 
-**Board Room:** And like where we won or earn a lot has been the credibility has been like the community has been like the word of mouth and things like that.
+**Marcel Santilli:** And like where we won or earn a lot has been the credibility has been like the community has been like the word of mouth and things like that.
 
-**Board Room:** So that's good.
+**Marcel Santilli:** So that's good.
 
-**Board Room:** And so we want to continue to build that through events.
+**Marcel Santilli:** And so we want to continue to build that through events.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And that's what's been working and then like externally giving a lot of value in teaching.
+**Marcel Santilli:** And that's what's been working and then like externally giving a lot of value in teaching.
 
-**Board Room:** But I do think like for us to hit our numbers this, this year, we're going to need to be more aggressive on the super high intent Stuff too so that we're like showing up a bit more.
+**Marcel Santilli:** But I do think like for us to hit our numbers this, this year, we're going to need to be more aggressive on the super high intent Stuff too so that we're like showing up a bit more.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** I guess my only ask is, I feel like the two for one is.
+**Marcel Santilli:** I guess my only ask is, I feel like the two for one is.
 
-**Board Room:** One is that if this is what we do for customers, we should crack it for ourselves.
+**Marcel Santilli:** One is that if this is what we do for customers, we should crack it for ourselves.
 
-**Board Room:** And then secondly, Jason, you know, the ask of you is the team is asking for these thought practices and like bring into their meetings about the showcaser expertise.
+**Marcel Santilli:** And then secondly, Jason, you know, the ask of you is the team is asking for these thought practices and like bring into their meetings about the showcaser expertise.
 
-**Board Room:** So if we could even showcase ourselves, it just doubled.
+**Jason Gong:** So if we could even showcase ourselves, it just doubled.
 
-**Board Room:** So anyway, so it'd just be cool if we have our own metrics against it.
+**Jason Gong:** So anyway, so it'd just be cool if we have our own metrics against it.
 
 **Jason Gong:** Yeah, I mean that is a program we need to spin up.
 
@@ -776,85 +717,85 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** We got to do it for ourselves.
 
-**Board Room:** Yeah, I mean check.
+**Jason Gong:** Yeah, I mean check.
 
-**Board Room:** That is a great example of like we went from zero to now.
+**Marcel Santilli:** That is a great example of like we went from zero to now.
 
-**Board Room:** You know, last week we had 400 organic visitors to check that last week.
+**Marcel Santilli:** You know, last week we had 400 organic visitors to check that last week.
 
-**Board Room:** So that's, you know, that's a pretty.
+**Marcel Santilli:** So that's, you know, that's a pretty.
 
-**Board Room:** What were we searching on yesterday where Check that came up?
+**Marcel Santilli:** What were we searching on yesterday where Check that came up?
 
-**Board Room:** Yeah, yesterday was a good one where I was searching for webstacks because we were using that as an example of like.
+**Marcel Santilli:** Yeah, yesterday was a good one where I was searching for webstacks because we were using that as an example of like.
 
-**Board Room:** And check.
+**Marcel Santilli:** And check.
 
-**Board Room:** That came up as one of the sources describing what web stacks does, which is like a great example of like all these long tail companies, you know, that don't have a lot of information written about them.
+**Marcel Santilli:** That came up as one of the sources describing what web stacks does, which is like a great example of like all these long tail companies, you know, that don't have a lot of information written about them.
 
-**Board Room:** The opportunity of like later on, check that to serve services as well, but don't want to gear us off like at the end of the day.
+**Marcel Santilli:** The opportunity of like later on, check that to serve services as well, but don't want to gear us off like at the end of the day.
 
-**Board Room:** Like what I truly care about right now is getting ahead of the tried and true things, which is like the exact dinners, getting people getting the right speakers, associating with them.
+**Marcel Santilli:** Like what I truly care about right now is getting ahead of the tried and true things, which is like the exact dinners, getting people getting the right speakers, associating with them.
 
-**Board Room:** Like a lot of the things that like we're, we're grinding a little bit where we essentially let events die down.
+**Marcel Santilli:** Like a lot of the things that like we're, we're grinding a little bit where we essentially let events die down.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Like it's the tldr.
+**Marcel Santilli:** Like it's the tldr.
 
-**Board Room:** Is that something that I think last time we discussed like a full year plan.
+**Marcel Santilli:** Is that something that I think last time we discussed like a full year plan.
 
-**Board Room:** Is that, does that exist yet, Jason?
+**Marcel Santilli:** Is that, does that exist yet, Jason?
 
 **Jason Gong:** Like I screenshotted it there, but it's like not completely done.
 
 **Jason Gong:** I need to like build up to.
 
-**Board Room:** I just mean like the budget is calendar almost.
+**Jason Gong:** I just mean like the budget is calendar almost.
 
-**Board Room:** Does that exist?
+**Jason Gong:** Does that exist?
 
-**Board Room:** Yeah, yeah, let's do a like next week a. Yeah, like three, four hour of like let's review the plan together end to end.
+**Jason Gong:** Yeah, yeah, let's do a like next week a. Yeah, like three, four hour of like let's review the plan together end to end.
 
-**Board Room:** That doesn't mean like pause execution, like keep going, you know, But I think we need like a full half day, you know, like go to market planning end to end.
+**Marcel Santilli:** That doesn't mean like pause execution, like keep going, you know, But I think we need like a full half day, you know, like go to market planning end to end.
 
-**Board Room:** You know, we can have sales and marketing in the room as well just to go through the plan together in more detail versus like, because right now it's like we only do it in our 101s.
+**Marcel Santilli:** You know, we can have sales and marketing in the room as well just to go through the plan together in more detail versus like, because right now it's like we only do it in our 101s.
 
-**Board Room:** Then it's like, then I need to communicate that to everyone else, so might as well just have one single one.
+**Marcel Santilli:** Then it's like, then I need to communicate that to everyone else, so might as well just have one single one.
 
-**Board Room:** Is it.
+**Marcel Santilli:** Is it.
 
-**Board Room:** Is it okay?
+**Marcel Santilli:** Is it okay?
 
-**Board Room:** I just te.
+**Marcel Santilli:** I just te.
 
-**Board Room:** I just slacked you.
+**Marcel Santilli:** I just slacked you.
 
-**Board Room:** But Jason, is it okay?
+**Marcel Santilli:** But Jason, is it okay?
 
-**Board Room:** Marcel, do you think it's distracting to add as a next step to add our own organic, like eat our own dog food as the next step?
+**Jason Gong:** Marcel, do you think it's distracting to add as a next step to add our own organic, like eat our own dog food as the next step?
 
-**Board Room:** Yes, like that.
+**Jason Gong:** Yes, like that.
 
-**Board Room:** That's a program there that has listed organic content at the bottom.
+**Jason Gong:** That's a program there that has listed organic content at the bottom.
 
-**Board Room:** And so like to be clear, like, we've prioritized doing a lot of this organic stuff on AI lab growth and check that.
+**Jason Gong:** And so like to be clear, like, we've prioritized doing a lot of this organic stuff on AI lab growth and check that.
 
-**Board Room:** But now I think we need to also have some of that on Robex as well.
+**Jason Gong:** But now I think we need to also have some of that on Robex as well.
 
-**Board Room:** Yeah, just kind of like some of the basic stuff, you know, just to try to get to some of it there.
+**Jason Gong:** Yeah, just kind of like some of the basic stuff, you know, just to try to get to some of it there.
 
 **Jason Gong:** Yeah, I mean that was like, we know what it looks like.
 
 **Jason Gong:** It's like, yeah, list the cloud social.
 
-**Board Room:** Okay, let's keep going.
+**Jason Gong:** Okay, let's keep going.
 
-**Board Room:** How are you feeling overall, Jason?
+**Marcel Santilli:** How are you feeling overall, Jason?
 
-**Board Room:** Like on activities that will drive up created or inbound and things like that, I think I feel good.
+**Jason Gong:** Like on activities that will drive up created or inbound and things like that, I think I feel good.
 
-**Board Room:** Channels or any additional things outside of events?
+**Jason Gong:** Channels or any additional things outside of events?
 
 **Jason Gong:** Yeah, so like events, I feel good, at least relatively.
 
@@ -872,45 +813,45 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** Like this month we're going to do four, like two workshops, two dinners, you know, and a breakfast that's like, I think we're on track to, you know, have the right activities, I guess.
 
-**Board Room:** Yeah, I mean, honestly, I. I would rather us not focus so much on build the infra.
+**Jason Gong:** Yeah, I mean, honestly, I. I would rather us not focus so much on build the infra.
 
-**Board Room:** But that shouldn't be a blocker like you have, you know, like in the sense that we can use for example, like a HubSpot MCP and have Tyler go manually, like, or have one of our EAs go look through our database and figure out like, you know, draft emails.
+**Marcel Santilli:** But that shouldn't be a blocker like you have, you know, like in the sense that we can use for example, like a HubSpot MCP and have Tyler go manually, like, or have one of our EAs go look through our database and figure out like, you know, draft emails.
 
-**Board Room:** Like, meaning a personalized email from me will be way more impactful than a random templatized nurture saying, hey, it's been 30 days.
+**Marcel Santilli:** Like, meaning a personalized email from me will be way more impactful than a random templatized nurture saying, hey, it's been 30 days.
 
-**Board Room:** Like, you know what I mean?
+**Marcel Santilli:** Like, you know what I mean?
 
-**Board Room:** Like there's no way it's going to be better, you know, and so it's like, give me a target list of who went cold and then let's go map out within those companies everybody that we want to build a relationship with and then let's like have it come from me.
+**Marcel Santilli:** Like there's no way it's going to be better, you know, and so it's like, give me a target list of who went cold and then let's go map out within those companies everybody that we want to build a relationship with and then let's like have it come from me.
 
-**Board Room:** Trying to rebuild the bridge in the relationship.
+**Marcel Santilli:** Trying to rebuild the bridge in the relationship.
 
-**Board Room:** We're trying to like offer something like, hey, wanted to kind of catch up.
+**Marcel Santilli:** We're trying to like offer something like, hey, wanted to kind of catch up.
 
-**Board Room:** I know like you had a reach out a few months back.
+**Marcel Santilli:** I know like you had a reach out a few months back.
 
-**Board Room:** Like I was talking to the team and wanted to share.
+**Marcel Santilli:** Like I was talking to the team and wanted to share.
 
-**Board Room:** Like we just launched, check that.
+**Marcel Santilli:** Like we just launched, check that.
 
-**Board Room:** And you know, we've been doing like this AO strategy sessions.
+**Marcel Santilli:** And you know, we've been doing like this AO strategy sessions.
 
-**Board Room:** Like curious of like you want to do that.
+**Marcel Santilli:** Like curious of like you want to do that.
 
-**Board Room:** We have like two more spots open.
+**Marcel Santilli:** We have like two more spots open.
 
-**Board Room:** Like here's, you know, like, let me know.
+**Marcel Santilli:** Like here's, you know, like, let me know.
 
-**Board Room:** But if you don't have time, I can all send it just a PDF, you know.
+**Marcel Santilli:** But if you don't have time, I can all send it just a PDF, you know.
 
-**Board Room:** But it would be a lot better to like walk you through it.
+**Marcel Santilli:** But it would be a lot better to like walk you through it.
 
-**Board Room:** Like stuff like that, you know, it's like a value add step that feels like, you know, a bit more of like a let's go Spearfish this quarter or this month more than spray and pray, you know, or set and forget, you know, and, and then like.
+**Marcel Santilli:** Like stuff like that, you know, it's like a value add step that feels like, you know, a bit more of like a let's go Spearfish this quarter or this month more than spray and pray, you know, or set and forget, you know, and, and then like.
 
-**Board Room:** But even those are conversion mechanisms that the most you can do is 100 conversion of the ones that are already there, which won't happen.
+**Marcel Santilli:** But even those are conversion mechanisms that the most you can do is 100 conversion of the ones that are already there, which won't happen.
 
-**Board Room:** And we need more like mechanisms to like pull in the right people, you know, and intentionally go after the kinds of logos we want to create, AKA not just like a bunch of like YC comics kind of thing.
+**Marcel Santilli:** And we need more like mechanisms to like pull in the right people, you know, and intentionally go after the kinds of logos we want to create, AKA not just like a bunch of like YC comics kind of thing.
 
-**Board Room:** Yeah, well, I mean like that, that.
+**Marcel Santilli:** Yeah, well, I mean like that, that.
 
 **Jason Gong:** Is the low tank thing.
 
@@ -918,97 +859,97 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** We'll just make that list and then book a call with you, whoever it is, and we'll just, we'll just get going.
 
-**Board Room:** Yeah, but like, I'll give you an example.
+**Jason Gong:** Yeah, but like, I'll give you an example.
 
-**Board Room:** Like we have, you know, anything lovable soon vercel/v0 we had previously, which we can kind of say worked with Bolt and Bubble.
+**Marcel Santilli:** Like we have, you know, anything lovable soon vercel/v0 we had previously, which we can kind of say worked with Bolt and Bubble.
 
-**Board Room:** So it's like, are there any other lookalikes?
+**Marcel Santilli:** So it's like, are there any other lookalikes?
 
-**Board Room:** Like should we go hit up airtable?
+**Marcel Santilli:** Like should we go hit up airtable?
 
-**Board Room:** Should we go hit up like, you know, like what are all the lookalikes of that use case in that audience we have Relay 5, ramp racks, Fendesk.
+**Marcel Santilli:** Should we go hit up like, you know, like what are all the lookalikes of that use case in that audience we have Relay 5, ramp racks, Fendesk.
 
-**Board Room:** Like what other fintechs are there?
+**Marcel Santilli:** Like what other fintechs are there?
 
-**Board Room:** Should we go get Mercury?
+**Marcel Santilli:** Should we go get Mercury?
 
-**Board Room:** Do we work our relationships with Mercury?
+**Marcel Santilli:** Do we work our relationships with Mercury?
 
-**Board Room:** Should we go through like every company and Madrona's portfolio and ask for interest from every partner in Madrona's portfolio.
+**Marcel Santilli:** Should we go through like every company and Madrona's portfolio and ask for interest from every partner in Madrona's portfolio.
 
-**Board Room:** Right?
+**Marcel Santilli:** Right?
 
-**Board Room:** Like, should we look at every common connection and you know what I mean?
+**Marcel Santilli:** Like, should we look at every common connection and you know what I mean?
 
-**Board Room:** Like that, that's the.
+**Marcel Santilli:** Like that, that's the.
 
-**Board Room:** And then like, how do we then go and create like a list of lookalike companies so that like we're not just spraying every CMO in LinkedIn and spending, you know, 100 grand a month or on LinkedIn impressions and instead we're like being very like targeted on these.
+**Marcel Santilli:** And then like, how do we then go and create like a list of lookalike companies so that like we're not just spraying every CMO in LinkedIn and spending, you know, 100 grand a month or on LinkedIn impressions and instead we're like being very like targeted on these.
 
-**Board Room:** On clusters, you know, or.
+**Marcel Santilli:** On clusters, you know, or.
 
-**Board Room:** And you know, I think like that's kind of what I'm saying is like, let's take the customers that are super successful.
+**Marcel Santilli:** And you know, I think like that's kind of what I'm saying is like, let's take the customers that are super successful.
 
-**Board Room:** Like we have an ass ton of security companies.
+**Marcel Santilli:** Like we have an ass ton of security companies.
 
-**Board Room:** Okay, let's go clean table and get every fucking security company.
+**Marcel Santilli:** Okay, let's go clean table and get every fucking security company.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Like, and that, that's what I mean.
+**Marcel Santilli:** Like, and that, that's what I mean.
 
-**Board Room:** And so it's like think of clusters as geographical clusters.
+**Marcel Santilli:** And so it's like think of clusters as geographical clusters.
 
-**Board Room:** Like Bay Area, we're super saturated.
+**Marcel Santilli:** Like Bay Area, we're super saturated.
 
-**Board Room:** Great, let's keep doing that.
+**Marcel Santilli:** Great, let's keep doing that.
 
-**Board Room:** But like, how do we open up New York, Austin, Boston, Atlanta, Miami, like Denver, whatever.
+**Marcel Santilli:** But like, how do we open up New York, Austin, Boston, Atlanta, Miami, like Denver, whatever.
 
-**Board Room:** Seattle, Louisiana.
+**Marcel Santilli:** Seattle, Louisiana.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** As next clusters.
+**Marcel Santilli:** As next clusters.
 
-**Board Room:** And then like, then there's like categories.
+**Marcel Santilli:** And then like, then there's like categories.
 
-**Board Room:** And the cool thing with like taking more of like kind of this category approach that aligns really well with check that as well where you can say, hey, we looked at your category, we analyze all your competitors.
+**Marcel Santilli:** And the cool thing with like taking more of like kind of this category approach that aligns really well with check that as well where you can say, hey, we looked at your category, we analyze all your competitors.
 
-**Board Room:** And the work of making sure the prompts are really good at the categories will give you the full list of all the competitors in that category.
+**Marcel Santilli:** And the work of making sure the prompts are really good at the categories will give you the full list of all the competitors in that category.
 
-**Board Room:** And that's our target list to go hit up and retarget, you know, like take more of that approach, which is more of like a.
+**Marcel Santilli:** And that's our target list to go hit up and retarget, you know, like take more of that approach, which is more of like a.
 
-**Board Room:** It's not a marketing as a broad thing we do.
+**Marcel Santilli:** It's not a marketing as a broad thing we do.
 
-**Board Room:** It's marketing as an intentional thing.
+**Marcel Santilli:** It's marketing as an intentional thing.
 
-**Board Room:** We go after and try to get, you know, and capture my only other thought bubble, maybe just plan additional.
+**Marcel Santilli:** We go after and try to get, you know, and capture my only other thought bubble, maybe just plan additional.
 
-**Board Room:** But like second step is we have this hypothesis about.
+**Marcel Santilli:** But like second step is we have this hypothesis about.
 
-**Board Room:** Hypothesis about icp, but we also have the secondary, like maybe we don't go tech and early adopters, we go more traditional where we really blow their minds.
+**Marcel Santilli:** Hypothesis about icp, but we also have the secondary, like maybe we don't go tech and early adopters, we go more traditional where we really blow their minds.
 
-**Board Room:** And then the question for you, Jason, would be, what would be that cohort if we wanted to kind of take a step away from what looks and smells like what we've been doing as early adopters?
+**Marcel Santilli:** And then the question for you, Jason, would be, what would be that cohort if we wanted to kind of take a step away from what looks and smells like what we've been doing as early adopters?
 
-**Board Room:** Let's go, let's go test that.
+**Jason Gong:** Let's go, let's go test that.
 
-**Board Room:** Let's go see if we can get a funnel of those and see what that conversion looks like and that retention looks like, Expect it would be better since they have no capability to do what we do today.
+**Jason Gong:** Let's go see if we can get a funnel of those and see what that conversion looks like and that retention looks like, Expect it would be better since they have no capability to do what we do today.
 
-**Board Room:** So building a funnel of that would be cool.
+**Jason Gong:** So building a funnel of that would be cool.
 
-**Board Room:** Yeah.
+**Jason Gong:** Yeah.
 
-**Board Room:** Okay, so let's go back to the, the notes really quickly.
+**Marcel Santilli:** Okay, so let's go back to the, the notes really quickly.
 
-**Board Room:** I see paid as red.
+**Marcel Santilli:** I see paid as red.
 
-**Board Room:** And so can you tell me More why that is.
+**Marcel Santilli:** And so can you tell me More why that is.
 
 **Jason Gong:** Sorry, which one's red?
 
-**Board Room:** Paid paid.
+**Jason Gong:** Paid paid.
 
-**Board Room:** I think you.
+**Jason Gong:** I think you.
 
 **Jason Gong:** I mean we should just never done.
 
@@ -1024,27 +965,27 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** But it's red because like we just need to get it off the ground.
 
-**Board Room:** But beta is really broad.
+**Jason Gong:** But beta is really broad.
 
-**Board Room:** Right?
+**Jason Gong:** Right?
 
-**Board Room:** Like is it your paid.
+**Marcel Santilli:** Like is it your paid.
 
 **Jason Gong:** Paid means I guess two things.
 
-**Board Room:** Do you validate paid search or validated LinkedIn meta paid newsletter?
+**Jason Gong:** Do you validate paid search or validated LinkedIn meta paid newsletter?
 
-**Board Room:** LinkedIn.
+**Jason Gong:** LinkedIn.
 
 **Jason Gong:** LinkedIn and newsletters are the two things.
 
-**Board Room:** Okay.
+**Jason Gong:** Okay.
 
-**Board Room:** Okay.
+**Marcel Santilli:** Okay.
 
-**Board Room:** So try to be more specific on that and then like.
+**Marcel Santilli:** So try to be more specific on that and then like.
 
-**Board Room:** And so you're not gonna try paid search at all?
+**Marcel Santilli:** And so you're not gonna try paid search at all?
 
 **Jason Gong:** Not.
 
@@ -1056,7 +997,7 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** So I'm gonna try that and newsletters we were already doing.
 
-**Board Room:** What I don't understand yet is like what is the offer that has already been validated with organic traction that drives to inbound opportunities created.
+**Jason Gong:** What I don't understand yet is like what is the offer that has already been validated with organic traction that drives to inbound opportunities created.
 
 **Jason Gong:** So you're talking about the channel.
 
@@ -1078,75 +1019,75 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** That seems like what the inbound channel is mostly right now.
 
-**Board Room:** But that the.
+**Jason Gong:** But that the.
 
-**Board Room:** The way to think about it is like that is investing in like brand awareness campaigns and that's okay.
+**Jason Gong:** The way to think about it is like that is investing in like brand awareness campaigns and that's okay.
 
-**Board Room:** That's implication.
+**Marcel Santilli:** That's implication.
 
-**Board Room:** That's just like growing our brand and that is okay to do that.
+**Marcel Santilli:** That's just like growing our brand and that is okay to do that.
 
-**Board Room:** But like we are doing zero demand capture or competitive takeout or even protecting our brand and people bidding against Griffax even.
+**Marcel Santilli:** But like we are doing zero demand capture or competitive takeout or even protecting our brand and people bidding against Griffax even.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And so those are high intent.
+**Marcel Santilli:** And so those are high intent.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Like when someone is searching for directives as a SEO agency, they are in the market.
+**Marcel Santilli:** Like when someone is searching for directives as a SEO agency, they are in the market.
 
-**Board Room:** That is the search they're doing.
+**Marcel Santilli:** That is the search they're doing.
 
-**Board Room:** They are going to find someone and they're going to reach out to someone.
+**Marcel Santilli:** They are going to find someone and they're going to reach out to someone.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Like when they're Searching for air ops or profound or when they're searching for AO tool or they're searching for, you know, content marketing agency or an SEO agency or AEO agency, they're going to get somewhere, right?
+**Marcel Santilli:** Like when they're Searching for air ops or profound or when they're searching for AO tool or they're searching for, you know, content marketing agency or an SEO agency or AEO agency, they're going to get somewhere, right?
 
-**Board Room:** And that, and that is like, I am buying or I am comparing, and those are intent.
+**Marcel Santilli:** And that, and that is like, I am buying or I am comparing, and those are intent.
 
-**Board Room:** And so awareness, we're trying to generate them in and create them in and drive people to think about our brand when they're ready to buy.
+**Marcel Santilli:** And so awareness, we're trying to generate them in and create them in and drive people to think about our brand when they're ready to buy.
 
-**Board Room:** Whereas here it's like, these are people that we are not in the consideration set that we want to find ways to capture some of this, right?
+**Marcel Santilli:** Whereas here it's like, these are people that we are not in the consideration set that we want to find ways to capture some of this, right?
 
-**Board Room:** Like, which is like, way easier because they're already there.
+**Marcel Santilli:** Like, which is like, way easier because they're already there.
 
-**Board Room:** They already decided they need an SEO agency.
+**Marcel Santilli:** They already decided they need an SEO agency.
 
-**Board Room:** They already decided they need help.
+**Marcel Santilli:** They already decided they need help.
 
-**Board Room:** They already decided they're searching for, you know, you know, editors for hire freelance.
+**Marcel Santilli:** They already decided they're searching for, you know, you know, editors for hire freelance.
 
-**Board Room:** Like, you know, then it's just like, okay, what are creative slices here that we don't go pay?
+**Marcel Santilli:** Like, you know, then it's just like, okay, what are creative slices here that we don't go pay?
 
-**Board Room:** $30 a click right now, right?
+**Marcel Santilli:** $30 a click right now, right?
 
-**Board Room:** And so like from a paid strategy, you never, we never want to go 100 one way or another, right?
+**Marcel Santilli:** And so like from a paid strategy, you never, we never want to go 100 one way or another, right?
 
-**Board Room:** Because like, if you only capture, eventually it'll dry out and your competitors will catch up to what you're doing.
+**Marcel Santilli:** Because like, if you only capture, eventually it'll dry out and your competitors will catch up to what you're doing.
 
-**Board Room:** And then it gets more expensive.
+**Marcel Santilli:** And then it gets more expensive.
 
-**Board Room:** But then also, like, if you only do brand awareness and you'll have at least a couple of lanes where it's like super strong.
+**Marcel Santilli:** But then also, like, if you only do brand awareness and you'll have at least a couple of lanes where it's like super strong.
 
-**Board Room:** If this, then that, right?
+**Marcel Santilli:** If this, then that, right?
 
-**Board Room:** And you want to start to validate, right?
+**Marcel Santilli:** And you want to start to validate, right?
 
-**Board Room:** Well, we know today is that based on your total, like marketing budget, if you spend $5,500 to generate one single opportunity, that is good, right?
+**Marcel Santilli:** Well, we know today is that based on your total, like marketing budget, if you spend $5,500 to generate one single opportunity, that is good, right?
 
-**Board Room:** Like, so that's one way to think about it, is like, Jason, you generated eight opportunities last week.
+**Marcel Santilli:** Like, so that's one way to think about it, is like, Jason, you generated eight opportunities last week.
 
-**Board Room:** This week, can you generate nine?
+**Jason Gong:** This week, can you generate nine?
 
-**Board Room:** And if you are going to spend $5,500 to get that nine, where do you want to put that that you feel confident will reasonably get you that one extra opportunity?
+**Jason Gong:** And if you are going to spend $5,500 to get that nine, where do you want to put that that you feel confident will reasonably get you that one extra opportunity?
 
-**Board Room:** That's another mental model to think about it.
+**Jason Gong:** That's another mental model to think about it.
 
-**Board Room:** Right?
+**Jason Gong:** Right?
 
-**Board Room:** Like, so in that sense, you need a couple things here that are like a for sure driver, you know, like lower in the funnel and more like that will confirm that.
+**Marcel Santilli:** Like, so in that sense, you need a couple things here that are like a for sure driver, you know, like lower in the funnel and more like that will confirm that.
 
 **Jason Gong:** Yeah, that's fair.
 
@@ -1164,29 +1105,29 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** I think that's a good call.
 
-**Board Room:** Yeah.
+**Jason Gong:** Yeah.
 
-**Board Room:** So the level of plan here needs to be on that level.
+**Marcel Santilli:** So the level of plan here needs to be on that level.
 
-**Board Room:** Okay, so you're going to do retargeting.
+**Marcel Santilli:** Okay, so you're going to do retargeting.
 
-**Board Room:** You want to do like a paid search, like a search modifier based on retargeting based on like having visited our homepage.
+**Marcel Santilli:** You want to do like a paid search, like a search modifier based on retargeting based on like having visited our homepage.
 
-**Board Room:** You would do like retargeting on meta and LinkedIn and like RGB and I can help with that.
+**Marcel Santilli:** You would do like retargeting on meta and LinkedIn and like RGB and I can help with that.
 
-**Board Room:** Jason.
+**Marcel Santilli:** Jason.
 
-**Board Room:** So we can spend time but I think that's the level that is helpful.
+**Marcel Santilli:** So we can spend time but I think that's the level that is helpful.
 
-**Board Room:** And then putting an insane pressure under storage essentially say hey, we really need to go hard here and you guys need to step up and like just push really hard to see if they.
+**Marcel Santilli:** And then putting an insane pressure under storage essentially say hey, we really need to go hard here and you guys need to step up and like just push really hard to see if they.
 
-**Board Room:** They have to step up here essentially right like and help us there.
+**Marcel Santilli:** They have to step up here essentially right like and help us there.
 
-**Board Room:** They are paying the agency as well and that's the majority of what they do.
+**Marcel Santilli:** They are paying the agency as well and that's the majority of what they do.
 
-**Board Room:** More like execute what they do.
+**Marcel Santilli:** More like execute what they do.
 
-**Board Room:** But if for whatever reason they're not knocking it out of the park, there's ad conversion that we can hire as well and performers if needed, you know, to help there.
+**Marcel Santilli:** But if for whatever reason they're not knocking it out of the park, there's ad conversion that we can hire as well and performers if needed, you know, to help there.
 
 **Jason Gong:** Yeah, I mean for they're not doing paid for us.
 
@@ -1194,592 +1135,592 @@ This was a structured GTM and delivery review session where the leadership team 
 
 **Jason Gong:** They're like doing outreach but we can use them for good.
 
-**Board Room:** Okay, you have a column 15 to do some renewals or did you all already talk about renewals earlier?
+**Jason Gong:** Okay, you have a column 15 to do some renewals or did you all already talk about renewals earlier?
 
-**Board Room:** No, let's do the.
+**Marcel Santilli:** No, let's do the.
 
-**Board Room:** I did a very quick like fiscal year assessment which needs to live in HubSpot just a sheets for now and this is by renewal date so you'll see surge is like popping up in August so we could obviously do it by close date.
+**Marcel Santilli:** I did a very quick like fiscal year assessment which needs to live in HubSpot just a sheets for now and this is by renewal date so you'll see surge is like popping up in August so we could obviously do it by close date.
 
-**Board Room:** But I'm just trying to look at of our monthly renewals like how far you know how much is at risk every month.
+**Marcel Santilli:** But I'm just trying to look at of our monthly renewals like how far you know how much is at risk every month.
 
-**Board Room:** And then they've got at risk and already closed loss here.
+**Marcel Santilli:** And then they've got at risk and already closed loss here.
 
-**Board Room:** So it's not.
+**Marcel Santilli:** So it's not.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** So two things.
+**Marcel Santilli:** So two things.
 
-**Board Room:** One, I need to be ugly and I think we should spend like maybe Monday and you and I just like go ham and hop spot.
+**Marcel Santilli:** One, I need to be ugly and I think we should spend like maybe Monday and you and I just like go ham and hop spot.
 
-**Board Room:** There's submit like this shouldn't equal like 12:1.
+**Marcel Santilli:** There's submit like this shouldn't equal like 12:1.
 
-**Board Room:** Well yeah.
+**Marcel Santilli:** Well yeah.
 
-**Board Room:** Okay.
+**Marcel Santilli:** Okay.
 
-**Board Room:** And then also I think I just put a time on Andy's calendar and Leo, we should pull you in.
+**Marcel Santilli:** And then also I think I just put a time on Andy's calendar and Leo, we should pull you in.
 
-**Board Room:** Is the good news is the team is flagging things that I'm asking them to flag.
+**Marcel Santilli:** Is the good news is the team is flagging things that I'm asking them to flag.
 
-**Board Room:** The bad news is now showing up for you as red when it's not read from a forecast perspective.
+**Marcel Santilli:** The bad news is now showing up for you as red when it's not read from a forecast perspective.
 
-**Board Room:** AKA hey we someone brought up agencies and like you know it's not a risk because you actually suggested the paid agency to that customer.
+**Marcel Santilli:** AKA hey we someone brought up agencies and like you know it's not a risk because you actually suggested the paid agency to that customer.
 
-**Board Room:** But the team is like oh I know to be sensitive to that because maybe it's competitive.
+**Marcel Santilli:** But the team is like oh I know to be sensitive to that because maybe it's competitive.
 
-**Board Room:** So.
+**Marcel Santilli:** So.
 
-**Board Room:** So this is looking more dire than maybe necessarily it is and that's what we need to go through up for you of yay.
+**Marcel Santilli:** So this is looking more dire than maybe necessarily it is and that's what we need to go through up for you of yay.
 
-**Board Room:** We have the team appropriately aware.
+**Marcel Santilli:** We have the team appropriately aware.
 
-**Board Room:** Boo now you don't know what to act on.
+**Marcel Santilli:** Boo now you don't know what to act on.
 
-**Board Room:** And so that's what we need.
+**Marcel Santilli:** And so that's what we need.
 
-**Board Room:** I wanted.
+**Marcel Santilli:** I wanted.
 
-**Board Room:** I want to literally go line online with you and Andy and like, let's go get super crisp about the difference between how we're trying to teach the team to care about the commercials and how to make sure we don't scare you unnecessarily.
+**Marcel Santilli:** I want to literally go line online with you and Andy and like, let's go get super crisp about the difference between how we're trying to teach the team to care about the commercials and how to make sure we don't scare you unnecessarily.
 
-**Board Room:** I don't want to pretend we shouldn't be scared here.
+**Marcel Santilli:** I don't want to pretend we shouldn't be scared here.
 
-**Board Room:** I'm not.
+**Marcel Santilli:** I'm not.
 
-**Board Room:** I'm not saying that.
+**Marcel Santilli:** I'm not saying that.
 
-**Board Room:** It's just to your point of make sure everybody's filling it out, but now we need to go make sure it's actionable and accurate.
+**Marcel Santilli:** It's just to your point of make sure everybody's filling it out, but now we need to go make sure it's actionable and accurate.
 
-**Board Room:** For you.
+**Marcel Santilli:** For you.
 
-**Board Room:** Yeah, the.
+**Marcel Santilli:** Yeah, the.
 
-**Board Room:** For me, the thing I need to see, like, ideally end of this week, but definitely by next time we have this meeting is like, by quarter.
+**Marcel Santilli:** For me, the thing I need to see, like, ideally end of this week, but definitely by next time we have this meeting is like, by quarter.
 
-**Board Room:** What is.
+**Marcel Santilli:** What is.
 
-**Board Room:** Like what is going to be?
+**Marcel Santilli:** Like what is going to be?
 
-**Board Room:** What is up for renewal that quarter by quarter and what percentage are we like, for sure?
+**Marcel Santilli:** What is up for renewal that quarter by quarter and what percentage are we like, for sure?
 
-**Board Room:** One AKA sign for sure.
+**Marcel Santilli:** One AKA sign for sure.
 
-**Board Room:** Lost.
+**Marcel Santilli:** Lost.
 
-**Board Room:** Like lost lost.
+**Marcel Santilli:** Like lost lost.
 
-**Board Room:** And.
+**Marcel Santilli:** And.
 
-**Board Room:** And then like what we're forecasting to lose versus renewal and.
+**Marcel Santilli:** And then like what we're forecasting to lose versus renewal and.
 
-**Board Room:** And then know within the context that our fiscal plan, right.
+**Marcel Santilli:** And then know within the context that our fiscal plan, right.
 
-**Board Room:** Is we are budgeting.
+**Marcel Santilli:** Is we are budgeting.
 
-**Board Room:** And when I say budgeting, like, that is really bad.
+**Marcel Santilli:** And when I say budgeting, like, that is really bad.
 
-**Board Room:** 4.5 million in turn.
+**Marcel Santilli:** 4.5 million in turn.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And so that means we ended the year at 12.1.
+**Marcel Santilli:** And so that means we ended the year at 12.1.
 
-**Board Room:** If you lose 4.5, you can do the math.
+**Marcel Santilli:** If you lose 4.5, you can do the math.
 
-**Board Room:** That's like, you know, what is that?
+**Marcel Santilli:** That's like, you know, what is that?
 
-**Board Room:** 40%?
+**Marcel Santilli:** 40%?
 
-**Board Room:** Almost 40%, right.
+**Marcel Santilli:** Almost 40%, right.
 
-**Board Room:** That means our GRR would be 60%, which is awful given, like surge is a huge piece of that.
+**Marcel Santilli:** That means our GRR would be 60%, which is awful given, like surge is a huge piece of that.
 
-**Board Room:** And we'll talk in the board meeting today about it.
+**Marcel Santilli:** And we'll talk in the board meeting today about it.
 
-**Board Room:** But the way to think about it is like, between surge and already losing an extra million this quarter, like, we have almost nothing left in that budget for the rest of the year.
+**Marcel Santilli:** But the way to think about it is like, between surge and already losing an extra million this quarter, like, we have almost nothing left in that budget for the rest of the year.
 
-**Board Room:** Which means one, like anything Q1 and Q2, any incremental on top of that is very bad.
+**Marcel Santilli:** Which means one, like anything Q1 and Q2, any incremental on top of that is very bad.
 
-**Board Room:** Like, very, very, very, very, very, very bad.
+**Marcel Santilli:** Like, very, very, very, very, very, very bad.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** So if in the next two, three months we need to like full Rand George main need to pull for the boy engineers need to do whatever is necessary there.
+**Marcel Santilli:** So if in the next two, three months we need to like full Rand George main need to pull for the boy engineers need to do whatever is necessary there.
 
-**Board Room:** We need to pull in raise as an agency to help augment.
+**Marcel Santilli:** We need to pull in raise as an agency to help augment.
 
-**Board Room:** You need to like, whatever needs to be done within reason, you know, to.
+**Marcel Santilli:** You need to like, whatever needs to be done within reason, you know, to.
 
-**Board Room:** To like get something or if there is like leverage that we can use in order to get an early renewal to like, allow us to breathe a little bit, you know, like pull those triggers.
+**Marcel Santilli:** To like get something or if there is like leverage that we can use in order to get an early renewal to like, allow us to breathe a little bit, you know, like pull those triggers.
 
-**Board Room:** But, like, so that that's the number one thing I need to know is like the forecast for by quarter to know for the year and for the quarters based on how much we have allocated for Each quarter, like, are we on track or off track to.
+**Marcel Santilli:** But, like, so that that's the number one thing I need to know is like the forecast for by quarter to know for the year and for the quarters based on how much we have allocated for Each quarter, like, are we on track or off track to.
 
-**Board Room:** To like, you know, be even worse than what we already said is a bad like goal.
+**Marcel Santilli:** To like, you know, be even worse than what we already said is a bad like goal.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And then the second part is healthy air are week over week, quarter over quarter, which is just simply like a snapshot.
+**Marcel Santilli:** And then the second part is healthy air are week over week, quarter over quarter, which is just simply like a snapshot.
 
-**Board Room:** Currently we have 10.4 million in AR.
+**Marcel Santilli:** Currently we have 10.4 million in AR.
 
-**Board Room:** What?
+**Marcel Santilli:** What?
 
-**Board Room:** Based on the five scores and the rules that I have and the how to measure client success doc, right.
+**Marcel Santilli:** Based on the five scores and the rules that I have and the how to measure client success doc, right.
 
-**Board Room:** The.
+**Marcel Santilli:** The.
 
-**Board Room:** The four status is based on that.
+**Marcel Santilli:** The four status is based on that.
 
-**Board Room:** So we're not asking the team to put the status, we're asking the team to put in on the roll up to the account level.
+**Marcel Santilli:** So we're not asking the team to put the status, we're asking the team to put in on the roll up to the account level.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** What are the five scores?
+**Marcel Santilli:** What are the five scores?
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Each week.
+**Marcel Santilli:** Each week.
 
-**Board Room:** And so by Friday in the day, those scores have to be in ideally to HubSpot however you want them to put it in and however get service to the account.
+**Marcel Santilli:** And so by Friday in the day, those scores have to be in ideally to HubSpot however you want them to put it in and however get service to the account.
 
-**Board Room:** I don't care.
+**Marcel Santilli:** I don't care.
 
-**Board Room:** It can be manual, a zoo, somebody Valentina, dig me, whoever, like, right?
+**Marcel Santilli:** It can be manual, a zoo, somebody Valentina, dig me, whoever, like, right?
 
-**Board Room:** An NCP server, somebody just does that.
+**Marcel Santilli:** An NCP server, somebody just does that.
 
-**Board Room:** So get the input in there on the account level.
+**Marcel Santilli:** So get the input in there on the account level.
 
-**Board Room:** And then based on that, you just have very simple rules.
+**Marcel Santilli:** And then based on that, you just have very simple rules.
 
-**Board Room:** And.
+**Marcel Santilli:** And.
 
-**Board Room:** And the rules are in the doc, which is mostly like, if you know you're above X, then strong.
+**Marcel Santilli:** And the rules are in the doc, which is mostly like, if you know you're above X, then strong.
 
-**Board Room:** If you're between this and this and everything is at least 3 or higher, then it's healthy.
+**Marcel Santilli:** If you're between this and this and everything is at least 3 or higher, then it's healthy.
 
-**Board Room:** And if at least one account is 2 or the score is below a certain score, then it's risky.
+**Marcel Santilli:** And if at least one account is 2 or the score is below a certain score, then it's risky.
 
-**Board Room:** And then if it's below that, then it's a critical.
+**Marcel Santilli:** And then if it's below that, then it's a critical.
 
-**Board Room:** And then that is truly like our measure of the total ARR we currently have, which if we improve conversion, that grows right.
+**Marcel Santilli:** And then that is truly like our measure of the total ARR we currently have, which if we improve conversion, that grows right.
 
-**Board Room:** Like now it's more ARR getting added.
+**Marcel Santilli:** Like now it's more ARR getting added.
 
-**Board Room:** Like what percentage of that total pie.
+**Marcel Santilli:** Like what percentage of that total pie.
 
-**Board Room:** If 100% of them were to ask to be renewal today and have to make a decision today, that is an indicator, a leading indicator of how likely it is that there is not a perfect indicator, but it's like on average.
+**Marcel Santilli:** If 100% of them were to ask to be renewal today and have to make a decision today, that is an indicator, a leading indicator of how likely it is that there is not a perfect indicator, but it's like on average.
 
-**Board Room:** And then if we can do that, then we'll be in like a really good.
+**Marcel Santilli:** And then if we can do that, then we'll be in like a really good.
 
-**Board Room:** That at least will tell me like, are we getting better like this week?
+**Marcel Santilli:** That at least will tell me like, are we getting better like this week?
 
-**Board Room:** I don't know.
+**Marcel Santilli:** I don't know.
 
-**Board Room:** Is it better than last week?
+**Marcel Santilli:** Is it better than last week?
 
-**Board Room:** I have no idea.
+**Marcel Santilli:** I have no idea.
 
-**Board Room:** You know, and I really need to see that.
+**Marcel Santilli:** You know, and I really need to see that.
 
-**Board Room:** Another, we can take off this offline with Andy and maybe Chad can help.
+**Marcel Santilli:** Another, we can take off this offline with Andy and maybe Chad can help.
 
-**Board Room:** But the way I used to run this outreach was almost like a sales pipeline.
+**Marcel Santilli:** But the way I used to run this outreach was almost like a sales pipeline.
 
-**Board Room:** Like the team had to come in like Q1.
+**Marcel Santilli:** Like the team had to come in like Q1.
 
-**Board Room:** I mean, at the beginning of the quarter, they gave us the confidence of like, wait, we had like a confidence level like give or take like 10, but they sure as hell better land it, you know, like it should get down to zero.
+**Marcel Santilli:** I mean, at the beginning of the quarter, they gave us the confidence of like, wait, we had like a confidence level like give or take like 10, but they sure as hell better land it, you know, like it should get down to zero.
 
-**Board Room:** Like we like aka it was 100% whatever we were calling was what was going to happen.
+**Marcel Santilli:** Like we like aka it was 100% whatever we were calling was what was going to happen.
 
-**Board Room:** And it forced people just to be very well like aware and managing it.
+**Marcel Santilli:** And it forced people just to be very well like aware and managing it.
 
-**Board Room:** And there's no such thing as late renewal.
+**Marcel Santilli:** And there's no such thing as late renewal.
 
-**Board Room:** And anyway there are just things like that that are just like typical disciplines that our team never had to do before because it was never, you know.
+**Marcel Santilli:** And anyway there are just things like that that are just like typical disciplines that our team never had to do before because it was never, you know.
 
-**Board Room:** Anyway.
+**Marcel Santilli:** Anyway.
 
-**Board Room:** Okay, so this playback because I want to make sure we're not.
+**Marcel Santilli:** Okay, so this playback because I want to make sure we're not.
 
-**Board Room:** We gotta build leverage, we gotta build systems, we gotta build best practices.
+**Marcel Santilli:** We gotta build leverage, we gotta build systems, we gotta build best practices.
 
-**Board Room:** But we're also should not prioritize that over actually having utility to what the hell is happening.
+**Marcel Santilli:** But we're also should not prioritize that over actually having utility to what the hell is happening.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And so ultimately I would like you to be the ultimate person accountable by the end of this week to feel like I know exactly what the score is.
+**Marcel Santilli:** And so ultimately I would like you to be the ultimate person accountable by the end of this week to feel like I know exactly what the score is.
 
-**Board Room:** Then next week you can answer the.
+**Marcel Santilli:** Then next week you can answer the.
 
-**Board Room:** I actually think this is not accurate.
+**Marcel Santilli:** I actually think this is not accurate.
 
-**Board Room:** Like that's okay.
+**Marcel Santilli:** Like that's okay.
 
-**Board Room:** Like, you know what I mean?
+**Marcel Santilli:** Like, you know what I mean?
 
-**Board Room:** Like you don't need to tell me.
+**Marcel Santilli:** Like you don't need to tell me.
 
-**Board Room:** Essentially what I want is like with a 60% confidence, this is the score of this week for every single account.
+**Marcel Santilli:** Essentially what I want is like with a 60% confidence, this is the score of this week for every single account.
 
-**Board Room:** But like let's do aim for that for the end of this week and by definitely at this meeting next week.
+**Marcel Santilli:** But like let's do aim for that for the end of this week and by definitely at this meeting next week.
 
-**Board Room:** Yes.
+**Marcel Santilli:** Yes.
 
-**Board Room:** And then next week can be now with 70% score confidence.
+**Marcel Santilli:** And then next week can be now with 70% score confidence.
 
-**Board Room:** This is the score.
+**Marcel Santilli:** This is the score.
 
-**Board Room:** And we improve this practice over here.
+**Marcel Santilli:** And we improve this practice over here.
 
-**Board Room:** Yeah.
+**Marcel Santilli:** Yeah.
 
-**Board Room:** You know what I mean?
+**Marcel Santilli:** You know what I mean?
 
-**Board Room:** Like let's just take it in stages.
+**Marcel Santilli:** Like let's just take it in stages.
 
-**Board Room:** Like right now there's just too much like that whole chart over there was like whoa.
+**Marcel Santilli:** Like right now there's just too much like that whole chart over there was like whoa.
 
-**Board Room:** Like this is awesome.
+**Marcel Santilli:** Like this is awesome.
 
-**Board Room:** But it's like you all don't even know how many accounts are at risk for sure right now.
+**Marcel Santilli:** But it's like you all don't even know how many accounts are at risk for sure right now.
 
-**Board Room:** Like necessarily right or at least no one can tell me for sure.
+**Marcel Santilli:** Like necessarily right or at least no one can tell me for sure.
 
-**Board Room:** Give me a.
+**Marcel Santilli:** Give me a.
 
-**Board Room:** That is trying to translate into the right behaviors so that you can do the right things, that's really well done.
+**Marcel Santilli:** That is trying to translate into the right behaviors so that you can do the right things, that's really well done.
 
-**Board Room:** But if you give them a massive doc of amazing behavior and you don't have confidence that you even know that you where they are and how that behavior improved or if that behavior is actually happening, then you can't.
+**Marcel Santilli:** But if you give them a massive doc of amazing behavior and you don't have confidence that you even know that you where they are and how that behavior improved or if that behavior is actually happening, then you can't.
 
-**Board Room:** We can't manage through like essentially we have to hold like outcomes faith, outcomes driven.
+**Marcel Santilli:** We can't manage through like essentially we have to hold like outcomes faith, outcomes driven.
 
-**Board Room:** Essentially.
+**Marcel Santilli:** Essentially.
 
-**Board Room:** Right Outcome first work backwards and then behavior should be then have an impact.
+**Marcel Santilli:** Right Outcome first work backwards and then behavior should be then have an impact.
 
-**Board Room:** Then people draw the line.
+**Marcel Santilli:** Then people draw the line.
 
-**Board Room:** Oh I see.
+**Marcel Santilli:** Oh I see.
 
-**Board Room:** Like you're.
+**Marcel Santilli:** Like you're.
 
-**Board Room:** And then the behavior is it to improve the accuracy of the reporting or as to you have accuracy in the reporting or in the in in what you're reporting yourself self reporting and you're trying to improve the actual outcome of that metric.
+**Marcel Santilli:** And then the behavior is it to improve the accuracy of the reporting or as to you have accuracy in the reporting or in the in in what you're reporting yourself self reporting and you're trying to improve the actual outcome of that metric.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** And then like those two things are two things we need to do.
+**Marcel Santilli:** And then like those two things are two things we need to do.
 
-**Board Room:** But right now if you don't even have the thing yet.
+**Marcel Santilli:** But right now if you don't even have the thing yet.
 
-**Board Room:** And that thing is not even in the system, then we won't know.
+**Marcel Santilli:** And that thing is not even in the system, then we won't know.
 
-**Board Room:** And then as turn is happening and things are red or not red or you don't know if they're red or not or we know, but like there's no consistent definition for all of us.
+**Marcel Santilli:** And then as turn is happening and things are red or not red or you don't know if they're red or not or we know, but like there's no consistent definition for all of us.
 
-**Board Room:** Yeah, violently.
+**Marcel Santilli:** Yeah, violently.
 
-**Board Room:** Just so you know, that's internal for us.
+**Marcel Santilli:** Just so you know, that's internal for us.
 
-**Board Room:** So we can actually drive the visibility and the discipline and the prioritization of that stuff.
+**Marcel Santilli:** So we can actually drive the visibility and the discipline and the prioritization of that stuff.
 
-**Board Room:** Just like no team whatever.
+**Marcel Santilli:** Just like no team whatever.
 
-**Board Room:** But my, my, my ask here just.
+**Marcel Santilli:** But my, my, my ask here just.
 
-**Board Room:** It's not just on your area.
+**Marcel Santilli:** It's not just on your area.
 
-**Board Room:** This is like in marketing.
+**Marcel Santilli:** This is like in marketing.
 
-**Board Room:** This is everywhere is like the P0 here is go spend four hours going one by one with every single em in this company and going this account.
+**Marcel Santilli:** This is everywhere is like the P0 here is go spend four hours going one by one with every single em in this company and going this account.
 
-**Board Room:** Why is it not there?
+**Marcel Santilli:** Why is it not there?
 
-**Board Room:** Is it there?
+**Marcel Santilli:** Is it there?
 
-**Board Room:** Like, literally like to me, like, then once that's done, now we can actually be like, cool.
+**Marcel Santilli:** Like, literally like to me, like, then once that's done, now we can actually be like, cool.
 
-**Board Room:** Okay, now let's go.
+**Marcel Santilli:** Okay, now let's go.
 
-**Board Room:** Position is not some brilliant even.
+**Marcel Santilli:** Position is not some brilliant even.
 
-**Board Room:** Like, I know we need the number first to make the behaviors, but I don't know that people even know that behavior.
+**Marcel Santilli:** Like, I know we need the number first to make the behaviors, but I don't know that people even know that behavior.
 
-**Board Room:** It's a full circle.
+**Marcel Santilli:** It's a full circle.
 
-**Board Room:** Like, what's the behavior to the answer?
+**Marcel Santilli:** Like, what's the behavior to the answer?
 
-**Board Room:** I don't think they know if their accounts are not just gotta start somewhere.
+**Marcel Santilli:** I don't think they know if their accounts are not just gotta start somewhere.
 
-**Board Room:** But that's why it's like, well, that's why we're trying to go in.
+**Marcel Santilli:** But that's why it's like, well, that's why we're trying to go in.
 
-**Board Room:** And like all of you, even you talk someone talk to the customer.
+**Marcel Santilli:** And like all of you, even you talk someone talk to the customer.
 
-**Board Room:** Just like, I think they're logging health scores across the five signals.
+**Marcel Santilli:** Just like, I think they're logging health scores across the five signals.
 
-**Board Room:** It's just a notion and not in HubSpot.
+**Marcel Santilli:** It's just a notion and not in HubSpot.
 
-**Board Room:** So the first iteration seems simple enough where we just get those logged in HubSpot where in notion on the client db.
+**Marcel Santilli:** So the first iteration seems simple enough where we just get those logged in HubSpot where in notion on the client db.
 
-**Board Room:** Yeah, I'm just wondering, like, I, you know, I was just updating the numbers this week.
+**Marcel Santilli:** Yeah, I'm just wondering, like, I, you know, I was just updating the numbers this week.
 
-**Board Room:** Exec.
+**Marcel Santilli:** Exec.
 
-**Board Room:** We just closed it.
+**Marcel Santilli:** We just closed it.
 
-**Board Room:** It was free last week, so the exact renewal was green up until it was closed lost.
+**Marcel Santilli:** It was free last week, so the exact renewal was green up until it was closed lost.
 
-**Board Room:** So it just makes me wonder if people don't like, actually know how to score.
+**Marcel Santilli:** So it just makes me wonder if people don't like, actually know how to score.
 
-**Board Room:** But it's the second thing to.
+**Marcel Santilli:** But it's the second thing to.
 
-**Board Room:** To fix.
+**Marcel Santilli:** To fix.
 
-**Board Room:** Like, it was the same thing happened when we checked that, right?
+**Marcel Santilli:** Like, it was the same thing happened when we checked that, right?
 
-**Board Room:** Like, oh, we're using an example, Jason.
+**Marcel Santilli:** Like, oh, we're using an example, Jason.
 
-**Board Room:** But like in December, like one of the growth meetings, we were talking about product roadmap.
+**Marcel Santilli:** But like in December, like one of the growth meetings, we were talking about product roadmap.
 
-**Board Room:** And I was like, stop.
+**Marcel Santilli:** And I was like, stop.
 
-**Board Room:** Like, the pages are not even getting indexed.
+**Marcel Santilli:** Like, the pages are not even getting indexed.
 
-**Board Room:** Like, it's like, okay, focus on that.
+**Marcel Santilli:** Like, it's like, okay, focus on that.
 
-**Board Room:** Don't worry about product roadmap.
+**Marcel Santilli:** Don't worry about product roadmap.
 
-**Board Room:** Right?
+**Marcel Santilli:** Right?
 
-**Board Room:** And then we fixed that and I was like, okay, cool.
+**Marcel Santilli:** And then we fixed that and I was like, okay, cool.
 
-**Board Room:** Now they're getting indexed.
+**Marcel Santilli:** Now they're getting indexed.
 
-**Board Room:** Oh, look, there's impressions now.
+**Marcel Santilli:** Oh, look, there's impressions now.
 
-**Board Room:** Like the next thing, the next thing.
+**Marcel Santilli:** Like the next thing, the next thing.
 
-**Board Room:** And then once things are stable.
+**Marcel Santilli:** And then once things are stable.
 
-**Board Room:** And I'm not saying don't go do the, the other stuff is just that I, I need this, right?
+**Marcel Santilli:** And I'm not saying don't go do the, the other stuff is just that I, I need this, right?
 
-**Board Room:** And right now I feel like we, like, this is pre ella even I said, this is the score.
+**Marcel Santilli:** And right now I feel like we, like, this is pre ella even I said, this is the score.
 
-**Board Room:** I need this every single week, reported on every single account, and I want to know what it is.
+**Marcel Santilli:** I need this every single week, reported on every single account, and I want to know what it is.
 
-**Board Room:** And this was like four months ago.
+**Marcel Santilli:** And this was like four months ago.
 
-**Board Room:** And here's an example, though, is that the team says green on a relationship and then there's churn because the person's nice and they give them green signals, but they're not the buyer.
+**Marcel Santilli:** And here's an example, though, is that the team says green on a relationship and then there's churn because the person's nice and they give them green signals, but they're not the buyer.
 
-**Board Room:** And the team did not know how to ask the right questions.
+**Marcel Santilli:** And the team did not know how to ask the right questions.
 
-**Board Room:** So a lot of like, what you just saw there was identifying the triggers where we're teaching the team.
+**Marcel Santilli:** So a lot of like, what you just saw there was identifying the triggers where we're teaching the team.
 
-**Board Room:** Do you even know how to actually do discovery?
+**Marcel Santilli:** Do you even know how to actually do discovery?
 
-**Board Room:** Like, that's literally where we are.
+**Marcel Santilli:** Like, that's literally where we are.
 
-**Board Room:** So what you saw up on that whiteboard or like up on the screen is Andy saying, like, here are the things we need to make sure the team really knows how to ask and get under because they're reporting these things.
+**Marcel Santilli:** So what you saw up on that whiteboard or like up on the screen is Andy saying, like, here are the things we need to make sure the team really knows how to ask and get under because they're reporting these things.
 
-**Board Room:** But to your question, okay, like, for me, like, you know, it's like all of these should be like red because relationship should be a 2, not a 5.
+**Marcel Santilli:** But to your question, okay, like, for me, like, you know, it's like all of these should be like red because relationship should be a 2, not a 5.
 
-**Board Room:** Like because.
+**Marcel Santilli:** Like because.
 
-**Board Room:** Or strategy should be a 2 because clearly, like superhuman already turn, you know, and even oka and all these things, right?
+**Marcel Santilli:** Or strategy should be a 2 because clearly, like superhuman already turn, you know, and even oka and all these things, right?
 
-**Board Room:** Like, and all those are ultimately, it's like their turn, right?
+**Marcel Santilli:** Like, and all those are ultimately, it's like their turn, right?
 
-**Board Room:** Like octa churn supreme already turn.
+**Marcel Santilli:** Like octa churn supreme already turn.
 
-**Board Room:** School AI already turn.
+**Marcel Santilli:** School AI already turn.
 
-**Board Room:** And interwar definitely at risk.
+**Marcel Santilli:** And interwar definitely at risk.
 
-**Board Room:** Like, there's no way it's a 23.
+**Marcel Santilli:** Like, there's no way it's a 23.
 
-**Board Room:** They're UPD.
+**Marcel Santilli:** They're UPD.
 
-**Board Room:** They're updating it.
+**Marcel Santilli:** They're updating it.
 
-**Board Room:** See, this is where he's updating it.
+**Marcel Santilli:** See, this is where he's updating it.
 
-**Board Room:** But this has already been ongoing.
+**Marcel Santilli:** But this has already been ongoing.
 
-**Board Room:** Right?
+**Marcel Santilli:** Right?
 
-**Board Room:** But, but that's fine.
+**Marcel Santilli:** But, but that's fine.
 
-**Board Room:** Like, it's okay.
+**Marcel Santilli:** Like, it's okay.
 
-**Board Room:** Well, I like, unless we're canceling our HubSpot subscription.
+**Marcel Santilli:** Well, I like, unless we're canceling our HubSpot subscription.
 
-**Board Room:** Like, I, I, I don't know where this is.
+**Marcel Santilli:** Like, I, I, I don't know where this is.
 
-**Board Room:** I've never seen this view before.
+**Marcel Santilli:** I've never seen this view before.
 
-**Board Room:** I've never seen this page before.
+**Marcel Santilli:** I've never seen this page before.
 
-**Board Room:** I don't know what Pod HQ is.
+**Marcel Santilli:** I don't know what Pod HQ is.
 
-**Board Room:** That's amazing.
+**Marcel Santilli:** That's amazing.
 
-**Board Room:** This looks beautiful.
+**Marcel Santilli:** This looks beautiful.
 
-**Board Room:** It's going to be used before HubSpot or moving into HubSpot spot.
+**Marcel Santilli:** It's going to be used before HubSpot or moving into HubSpot spot.
 
-**Board Room:** And what, and what I'm asking is, like, have every single person in this company, every engagement manager, stop whatever they're doing for the rest of today or tomorrow and just say, I don't care how long it takes.
+**Marcel Santilli:** And what, and what I'm asking is, like, have every single person in this company, every engagement manager, stop whatever they're doing for the rest of today or tomorrow and just say, I don't care how long it takes.
 
-**Board Room:** But it shouldn't take that long.
+**Marcel Santilli:** But it shouldn't take that long.
 
-**Board Room:** You're copying at number 12.22.5 and putting that somewhere in HubSpot.
+**Marcel Santilli:** You're copying at number 12.22.5 and putting that somewhere in HubSpot.
 
-**Board Room:** Yeah, like, that's all I'm asking.
+**Marcel Santilli:** Yeah, like, that's all I'm asking.
 
-**Board Room:** Because then at that point, like, and make sure every account in HubSpot has the Right.
+**Marcel Santilli:** Because then at that point, like, and make sure every account in HubSpot has the Right.
 
-**Board Room:** Status.
+**Marcel Santilli:** Status.
 
-**Board Room:** Yes.
+**Marcel Santilli:** Yes.
 
-**Board Room:** It's a field.
+**Marcel Santilli:** It's a field.
 
-**Board Room:** It's.
+**Marcel Santilli:** It's.
 
-**Board Room:** We're talking 15.
+**Marcel Santilli:** We're talking 15.
 
-**Board Room:** Right.
+**Marcel Santilli:** Right.
 
-**Board Room:** Like it's.
+**Marcel Santilli:** Like it's.
 
-**Board Room:** There's no way it takes more than 15 minutes for us to update 15, you know, meeting between eight people.
+**Marcel Santilli:** There's no way it takes more than 15 minutes for us to update 15, you know, meeting between eight people.
 
-**Board Room:** Like we gotta be able to do it in like 30 minutes.
+**Marcel Santilli:** Like we gotta be able to do it in like 30 minutes.
 
-**Board Room:** And.
+**Marcel Santilli:** And.
 
-**Board Room:** And it's just like.
+**Marcel Santilli:** And it's just like.
 
-**Board Room:** And then like next week we can go, hey, what the hell?
+**Marcel Santilli:** And then like next week we can go, hey, what the hell?
 
-**Board Room:** Exactly.
+**Marcel Santilli:** Exactly.
 
-**Board Room:** Green.
+**Marcel Santilli:** Green.
 
-**Board Room:** And they just turn.
+**Marcel Santilli:** And they just turn.
 
-**Board Room:** How are you doing this?
+**Marcel Santilli:** How are you doing this?
 
-**Board Room:** Oh, I was doing based on this.
+**Marcel Santilli:** Oh, I was doing based on this.
 
-**Board Room:** Okay, let's change the definition and the practice and you know, and then we can get the inputs, higher quality inputs so it's not garbage in, garbage out.
+**Marcel Santilli:** Okay, let's change the definition and the practice and you know, and then we can get the inputs, higher quality inputs so it's not garbage in, garbage out.
 
-**Board Room:** But.
+**Marcel Santilli:** But.
 
-**Board Room:** And again, like there are two separate things here.
+**Marcel Santilli:** And again, like there are two separate things here.
 
-**Board Room:** There are the signals, there are the account health status and then there's like churn forecast.
+**Marcel Santilli:** There are the signals, there are the account health status and then there's like churn forecast.
 
-**Board Room:** Yes, those are three separate things and I want to look at all three together and separately, but not convolute the three things.
+**Marcel Santilli:** Yes, those are three separate things and I want to look at all three together and separately, but not convolute the three things.
 
-**Board Room:** Like those are very different things.
+**Marcel Santilli:** Like those are very different things.
 
-**Board Room:** Exact was green.
+**Marcel Santilli:** Exact was green.
 
-**Board Room:** But they turn.
+**Marcel Santilli:** But they turn.
 
-**Board Room:** Like that's okay.
+**Marcel Santilli:** Like that's okay.
 
-**Board Room:** That can't be true.
+**Marcel Santilli:** That can't be true.
 
-**Board Room:** It can't be true.
+**Marcel Santilli:** It can't be true.
 
-**Board Room:** And hopefully eventually we get to a point where that is unlikely to happen in the future.
+**Marcel Santilli:** And hopefully eventually we get to a point where that is unlikely to happen in the future.
 
-**Board Room:** Oh, seriously?
+**Marcel Santilli:** Oh, seriously?
 
-**Board Room:** Okay, I know I'm being super direct and a little harsh, but it's like, no.
+**Marcel Santilli:** Okay, I know I'm being super direct and a little harsh, but it's like, no.
 
-**Board Room:** All the data people, I love it.
+**Marcel Santilli:** All the data people, I love it.
 
-**Board Room:** I'm fired up.
+**Marcel Santilli:** I'm fired up.
 
-**Board Room:** Can we, and I please have Jeff for like two weeks?
+**Marcel Santilli:** Can we, and I please have Jeff for like two weeks?
 
-**Board Room:** Just.
+**Marcel Santilli:** Just.
 
-**Board Room:** I just want him to respond to us first or like make this feel.
+**Marcel Santilli:** I just want him to respond to us first or like make this feel.
 
-**Board Room:** Do this the la.
+**Marcel Santilli:** Do this the la.
 
-**Board Room:** Like I would.
+**Marcel Santilli:** Like I would.
 
-**Board Room:** It would be great.
+**Marcel Santilli:** It would be great.
 
-**Board Room:** Like I know you have him on some stuff, but I think this is higher priority.
+**Marcel Santilli:** Like I know you have him on some stuff, but I think this is higher priority.
 
-**Board Room:** Just like fix the stages, blah, blah, blah.
+**Marcel Santilli:** Just like fix the stages, blah, blah, blah.
 
-**Board Room:** If you guys have it all, like, Okay, let me take a step back.
+**Marcel Santilli:** If you guys have it all, like, Okay, let me take a step back.
 
-**Board Room:** Whoever is owning the plan of like, I think Jeff gave us like a.
+**Marcel Santilli:** Whoever is owning the plan of like, I think Jeff gave us like a.
 
-**Board Room:** A 30, 60, 90.
+**Marcel Santilli:** A 30, 60, 90.
 
-**Board Room:** And I think you have a lot of context.
+**Marcel Santilli:** And I think you have a lot of context.
 
-**Board Room:** Everybody else has context.
+**Marcel Santilli:** Everybody else has context.
 
-**Board Room:** Like I need just someone to pull that into one single doc of what we're like high level, like a brief of what Jeff is going to do so that we like.
+**Marcel Santilli:** Like I need just someone to pull that into one single doc of what we're like high level, like a brief of what Jeff is going to do so that we like.
 
-**Board Room:** And then I can help manage to it.
+**Marcel Santilli:** And then I can help manage to it.
 
-**Board Room:** But, but if, like see if Jeff is open to pulling forward some hours in the next two weeks.
+**Marcel Santilli:** But, but if, like see if Jeff is open to pulling forward some hours in the next two weeks.
 
-**Board Room:** See if he has capability to do more.
+**Marcel Santilli:** See if he has capability to do more.
 
-**Board Room:** Yeah, I'd ask him.
+**Marcel Santilli:** Yeah, I'd ask him.
 
-**Board Room:** I know he was really, if that's the bottom act, just like pay more.
+**Marcel Santilli:** I know he was really, if that's the bottom act, just like pay more.
 
-**Board Room:** No, it's more like just telling him who to respond to first.
+**Marcel Santilli:** No, it's more like just telling him who to respond to first.
 
-**Board Room:** We ping him in slack, like do it right away kind of thing.
+**Marcel Santilli:** We ping him in slack, like do it right away kind of thing.
 
-**Board Room:** I think he just needs that direction.
+**Marcel Santilli:** I think he just needs that direction.
 
-**Board Room:** A lot of these things though are like data things of we shouldn't be completely blocked, you know, on there's no automation here.
+**Marcel Santilli:** A lot of these things though are like data things of we shouldn't be completely blocked, you know, on there's no automation here.
 
-**Board Room:** We're asking.
+**Marcel Santilli:** We're asking.
 
-**Board Room:** It's truly just like.
+**Marcel Santilli:** It's truly just like.
 
-**Board Room:** And then you can work on the like.
+**Marcel Santilli:** And then you can work on the like.
 
-**Board Room:** How do you make the input a little bit easier, more automated?
+**Marcel Santilli:** How do you make the input a little bit easier, more automated?
 
-**Board Room:** How can you make the like triggers a little bit easier or whatever, you know, but.
+**Marcel Santilli:** How can you make the like triggers a little bit easier or whatever, you know, but.
 
-**Board Room:** But even today, we could just send them, hey, can you make these seven fields?
+**Marcel Santilli:** But even today, we could just send them, hey, can you make these seven fields?
 
-**Board Room:** This type of field, this is how it's calculated or whatever that we don't have to do it?
+**Marcel Santilli:** This type of field, this is how it's calculated or whatever that we don't have to do it?
 
-**Board Room:** I actually have a robust backlog that I built last week.
+**Marcel Santilli:** I actually have a robust backlog that I built last week.
 
-**Board Room:** Yeah, just like, hey, can you go build all these data?
+**Marcel Santilli:** Yeah, just like, hey, can you go build all these data?
 
-**Board Room:** Like, it'd just be nice if we can do that instead of us.
+**Marcel Santilli:** Like, it'd just be nice if we can do that instead of us.
 
-**Board Room:** By the way, Punspot has a full MCP that allows you to create fields as well.
+**Marcel Santilli:** By the way, Punspot has a full MCP that allows you to create fields as well.
 
-**Board Room:** So I want to see your MCP so bad.
+**Marcel Santilli:** So I want to see your MCP so bad.
 
-**Board Room:** I know you don't have time.
+**Marcel Santilli:** I know you don't have time.
 
-**Board Room:** Yeah, yeah.
+**Marcel Santilli:** Yeah, yeah.
 
-**Board Room:** This is good because Kyle's so.
+**Marcel Santilli:** This is good because Kyle's so.
 
-**Board Room:** Thanks, Jason.
+**Marcel Santilli:** Thanks, Jason.
 
-**Board Room:** Appreciate it, man.
+**Marcel Santilli:** Appreciate it, man.
 
 **Jason Gong:** All right, talk to you later.

@@ -2,10 +2,20 @@
 
 ---
 **date:** 2026-01-08
+**time:** Not specified
 **type:** internal standup
 **duration:** 69 minutes
-**attendees:** Aida Knezevic, Victor Alagbe, Ella Dillon, William Leborgne, George Haikal, Hassan Rashid, Kathy Lam, Ifeoluwa Adekoya
-**source:** [Fireflies Transcript](https://app.fireflies.ai/view/01KEA2BFDGCX53ENTXKCCN02PC)
+**source:** fireflies
+**enriched_on:** 2026-03-01 00:00 UTC
+**participants:**
+  - Aida Knezevic (AK)
+  - Ella Dillon (ED)
+  - William Leborgne (WL)
+  - George Haikal (GH)
+  - Hassan Rashid (HR)
+  - Kathy Lam (KL)
+  - Ifeoluwa Adekoya (IA)
+**fireflies_link:** [Fireflies Transcript](https://app.fireflies.ai/view/01KEA2BFDGCX53ENTXKCCN02PC)
 ---
 
 ## Summary
@@ -69,39 +79,61 @@ Ella requested that leads flag customer success metrics at critical milestones (
 
 Team assigned resources for next week's kickoffs: Hassan takes Telera (language learning platform), Sydney takes Netricks (more technical).
 
+## Decisions & Commitments
+
+- **Brex trust recovery**: Direct meeting scheduled for today (George + Aida) with client John to address quality concerns transparently. Will tie feedback back to strategy, outline process improvements, and gather actionable requirements.
+- **CheckThat over Scrunch**: Shift internal demos away from Scrunch toward internal CheckThat product for client visibility reporting. Ella to coordinate with Marcel and Daniel on talking points and positioning.
+- **Resource allocation next week**: Hassan → Telera Emmy assignment, Sydney → Netricks Emmy assignment, Parloa kickoff the week after.
+- **Ramp indexing strategy**: Pursue multi-pronged approach (backlinks, newsletter, social media, external traffic) using Talal's CheckThat playbook. Victoria (client) aligned on treating this as setup phase with tracking from here forward.
+- **Sydney quality review**: Review Brex article drafts against their blog benchmark to provide objective quality scoring.
+
+## Open Questions
+
+- **Brex quality bar**: Is the team outputting at 70% of target, or is John's feedback more process-driven (distrust) than quality-driven? George and Aida to clarify in today's meeting.
+- **Ramp indexing timeline**: What's the realistic timeline for boosting domain authority to get remaining 20+ articles indexed? Creative solutions in progress but unclear on success metrics.
+- **CheckThat rollout**: When will internal talking points and CheckThat-based demos be ready for Cresta and other clients? Pending Marcel/Daniel output.
+- **Turnstile scope**: Three articles publishing this week—will client request expand scope once in production, or maintain current cadence?
+
 ## Action Items
 
-### William Leborgne
+**William Leborgne** (GrowthX)
 - Review initial batch of CRV artifacts and share with client
 - Coordinate CMS walkthrough with Hassan and agency contact
 - Begin content strategy development after artifacts and keyword research delivered
 - Continue follow-up on Turnstile articles and confirm publishing queue
 
-### Kathy Lam
+**Kathy Lam** (GrowthX)
 - Review Sydney's Panther artifacts and assess voice/tone calibration against founder's inputs
 - Follow up with Natalie on Black Soul content status and posting schedule
 
-### George Haikal
-- Support Ada in Brex client meeting to restore trust and clarify feedback
+**George Haikal** (GrowthX)
+- Support Aida in Brex client meeting to restore trust and clarify feedback
 - Coordinate Emmy assignments for Telera and Netricks kickoffs (Hassan and Sydney)
 - Monitor content indexing and domain authority challenges on Ramp
-- Work with Talal on strategy solutions for indexing
+- Work with Talal on strategy solutions for Ramp indexing
 
-### Hassan Rashid
+**Hassan Rashid** (GrowthX)
 - Assist with CRV CMS walkthrough, focus on metadata handling
 - Take lead on Telera Emmy assignment for next week kickoff
+- Support indexing troubleshooting on Ramp
 
-### Sydney
+**Ifeoluwa Adekoya** (GrowthX)
+- Finalize writing guidelines for Turnstile based on client feedback
+- Confirm publishing of first three Turnstile articles and prepare six additional articles
+
+**Sydney** (GrowthX)
 - Review Brex article drafts for objective quality scoring against their blog benchmark
+- Take lead on Netricks Emmy assignment for next week kickoff
 
-### Aida Knezevic
+**Aida Knezevic** (GrowthX)
 - Verify indexing and impressions for published Brex articles to present positive signals in client call
 - Review Brex content for quality and alignment with client expectations
 - Support calibration efforts
 
-### Ella Dillon
+**Ella Dillon** (GrowthX)
 - Coordinate internal communications to ensure customer success metrics are flagged and tracked across updates
-- Lead development of internal talking points and demos to reduce reliance on Scrunch
+- Lead development of internal talking points and CheckThat-based demos to replace Scrunch reliance
+- Work with Marcel and Daniel to finalize talking points for Cresta and other clients
 
 ---
 
@@ -109,59 +141,27 @@ Team assigned resources for next week's kickoffs: Hassan takes Telera (language 
 
 **Aida Knezevic:** This meeting is being recorded.
 
-**Victor Alagbe:** Hi, William.
-
-**Ella:** Hello.
-
-**William Leborgne:** How are you doing, Victor?
-
-**Victor Alagbe:** Good.
-
-**William Leborgne:** How's the weather in London?
-
-**Victor Alagbe:** Yeah, it might snow again tonight. It's like three conflicting reports anyway, so we'll see which one plays out.
-
-**William Leborgne:** Okay.
-
-**Victor Alagbe:** We had one two days ago. I mean, it snows, but it just doesn't really settle. But, like, it might settle tonight.
-
-**William Leborgne:** When you say it doesn't settle, like it lands on the ground and melts.
-
-**Victor Alagbe:** Yes, yes.
-
-**William Leborgne:** Yeah, yeah. Okay. Still, that's kind of magical to have a snowy Christmas, you know, winter time.
-
-**Victor Alagbe:** We actually had a proper. No, we didn't get it for Christmas. We got it for New Year as well. But it was actually snowing on New Year. But this year it came day before I started. That's on the fifth rather than New Year, so.
-
-**William Leborgne:** Gotcha.
-
-**Victor Alagbe:** But always ready. I mean, I say it's good UI, bad UX. It looks good from outside, but when you have to walk through it.
-
-**William Leborgne:** That's such a nerdy answer. I love it. It's good UI, but bad UX.
-
 **George Haikal:** Good morning. Good morning. How are we?
 
 **William Leborgne:** Good morning.
 
-**Victor Alagbe:** Hello.
+**George Haikal:** Amazing. Ella might join in a little bit, but before we jump into the regular track, I know we have extra time here, so William and Kathy just kind of wanted to dig into the first week on both of the new kickoffs, see how that was going, if everything's on track and more. So just like your process for research, artifacts, how you feel it's going, what more could be done, all that.
 
-**George Haikal:** Amazing. Ella might join in a little bit, but before we jump into the regular track, I know we have extra time here, so William and Kathy just kind of wanted to, you know, dig into the first week on both of the new kickoffs, see how that was going, if everything's on track and more. So just like your process for research, artifacts, how you feel it's going, what more could be done, all that.
+**William Leborgne:** Yeah. Do you want me to just kick it off? Yep, sure. So, broadly speaking, with CRV, it went really well. We have one primary stakeholder, so that makes it a lot easier. They're very engaged in terms of moving these forwards. Hassan actually just finished the initial batch of artifacts. I'm going to look over those and make sure everything is locked in and then share it with the client. He's working on a couple more things, which I think is a keyword gap analysis, which should be finished today. So I think we're looking in really good shape. The interesting thing with CRV is we didn't have to do a product deep dive, so that saved us a lot of time. So we're ahead of schedule, I would say. The only other thing is the CMS walkthrough, which I'm coordinating with their agency to get that set up. So that should be pretty straightforward, but it's all Webflow. So honestly, it should be pretty easy to do. I was going to include Hassan in that walkthrough because I feel like it'd be good for both of us to see what it's like.
 
-**William Leborgne:** Yeah. Do you want me to just kick it off? Yep, sure. So, broadly speaking, with CRV, it went really well. We have one primary stakeholder, so that makes it a lot easier. They're very engaged in terms of moving these forwards. Hassan actually just finished the initial batch of artifacts. I'm going to look over those and make sure everything is locked in and then share it with the client. He's working on a couple more things, which I think is a keyword gap analysis, which should be. I think he said finish today. So I think we're looking in really good shape. The interesting thing with CRV is we didn't have to do a product deep dive, so that saved us a lot of time. So we're ahead of schedule, I would say. The only other thing is the CMS walkthrough, which I'm coordinating with their agency to get that set up. So that should be pretty straightforward, but it's all Webflow. So it's. Honestly, it should be. Unless they've set up their Webflow in a weird way, it should be pretty easy to do. I did think I was. Correct me if I'm wrong, but Hassan, I was going to include you in that walkthrough because I feel like it'd be good for both of us to see what it's like.
+**Hassan Rashid:** Yeah, that's a good idea. Just so we can see the details with the metadata and all of that stuff, so if there's any questions, I can jump in.
 
-**Hassan Rashid:** Yeah, that's a good idea. Just so we can, you know, there's some, like, little details with like, the metadata and all of that stuff, so if there's any questions, I can jump in.
+**William Leborgne:** Yeah, cool. So that's pretty much it. I'm also spending time today doing prep and research, just thinking through the content strategy, which I'll really start to kick off tomorrow and then Monday, based off of the artifacts that Hassan's building out and the keyword research is really going to give me the fuel to get that started. But broadly speaking, I think it's looking in very good shape.
 
-**William Leborgne:** Yeah, cool. Yeah, so that's pretty much it. I'm also spending a little bit more time today doing a little more prep and research, just thinking through the content strategy, which I'll really start to kick off tomorrow and then Monday, based off of the artifacts that he's building out and the keyword research is really going to give me the fuel to get that started. But broadly speaking, I think it's looking in very good shape.
-
-**George Haikal:** Fantastic. Fantastic. It all sounds good. Yeah, that was a good one. It was unique. She was like, so bought in and there's nothing done prior in terms of marketing and she's super open to our entire approach. So if we could find 10 more clients like them, it'd be amazing, but wishful thinking.
+**George Haikal:** Fantastic. Fantastic. It all sounds good. Yeah, that was a good one. It was unique. The stakeholder was so bought in and there's nothing done prior in terms of marketing and she's super open to our entire approach. So if we could find 10 more clients like them, it'd be amazing, but wishful thinking.
 
 **William Leborgne:** They might give us 10 more clients if we do well.
 
 **George Haikal:** I know that's the cool thing with VCs and portfolio companies and fractional CMOs for that matter, like SEMA with Panther as well. How's Panther going, Kathy?
 
-**Kathy Lam:** For the first week, pretty good. We also have to kick off, unlike William, where there's no demo, we're going to do like a deep dive as well as kind of a voice and tone with the founder. I think this one's unique in that I think even though SEMA really loves us, I think there's some. I think the founder has some hesitancies on whether or not AI generated content can be good, but I think based on what's out there and the comparison with some of the competitors, I think we have a really good approach. So, yeah, similarly, we'll be working on the content strategy. Last yesterday, I spent a little bit of time doing some research on Jack's Substack and seeing how that will inform, like, what content we want to put on the actual Panther blog. What's interesting is that he also has a podcast, but there's not a lot of views, like maybe less than like 50 to 100 views. So it'd be good to see if some of that content that he's created we can kind of pull back over to Panther's website to give it more domain authority. Yeah, also I think Sydney's created, like, the first bunch of artifacts. I'm reviewing that, but this looks like a really good account just because they really put a lot of energy into it. And so now we're just trying to see, like, what extra oomph we can give it.
+**Kathy Lam:** For the first week, pretty good. We also have to kick off. Unlike William, where there's no demo, we're going to do a deep dive as well as voice and tone work with the founder. This one's unique in that even though SEMA really loves us, I think the founder has some hesitancies on whether AI generated content can be good. But based on what's out there and comparisons with competitors, I think we have a really good approach. So, similarly, we'll be working on the content strategy. Yesterday, I spent time doing research on the founder's Substack and seeing how that will inform what content we want to put on the actual Panther blog. What's interesting is that he also has a podcast, but there's not a lot of views, maybe less than 50 to 100 views. So it'd be good to see if some of that content that he's created we can pull back over to Panther's website to give it more domain authority. Yeah, also Sydney's created the first bunch of artifacts. I'm reviewing that, but this looks like a really good account just because they really put a lot of energy into it. And now we're just trying to see what extra oomph we can give it.
 
-**George Haikal:** Nice. Yeah, this is a good one because right off the bat, the main thing we saw was their review process being a potential issue. So they have a technical writer. Their CEO is very technical and opinionated and has his own Substack, and they have all good data on the wifi, technical, the Substack. And they have a product marketing team as well. And so historically, their threat research team directly wrote, you know, one article per week, one article every two weeks, and published right away. So an engineer would just go from start to finish and publish themselves. And so we're trying to overcome that early on by going, getting the trust from the CEO and his voice and tone and everything that he writes on his Substack, distilling that down into writing guidelines and perspective. And so coming to that call tomorrow, prepped with, hey, here's what we, like, analyze from everything you've said so far. Here's how we think you're positioning Panther and what makes it different. Tell us where we're off. So it's almost like a mini calibration that we're doing with their CEO, who's one of their most important people that we need to sign off on for the tone and the content quality. And so we're doing that in parallel with a product dive as well with PMM and one of their lead engineers. So immediately, like, we kind of raised that concern live on the call with them and unblocked it, which is good. So especially for technical clients.
+**George Haikal:** Nice. Yeah, this is a good one because right off the bat, the main thing we saw was their review process being a potential issue. So they have a technical writer. Their CEO is very technical and opinionated and has his own Substack. They have a product marketing team as well. Historically, their threat research team directly wrote one article per week or one article every two weeks, and published right away. So an engineer would just go from start to finish and publish themselves. We're trying to overcome that early on by getting the trust from the CEO, analyzing his voice and tone and everything he writes on his Substack, distilling that down into writing guidelines and perspective. Coming to that call tomorrow, we'll be prepped with, "Here's what we analyzed from everything you've said so far. Here's how we think you're positioning Panther and what makes it different. Tell us where we're off." It's almost like a mini calibration that we're doing with their CEO, who's one of their most important people that we need to sign off on for tone and content quality. We're doing that in parallel with a product dive as well with PMM and one of their lead engineers. We kind of raised that concern live on the call with them and unblocked it, which is good. Especially for technical clients.
 
 **William Leborgne:** Sorry, real quickly, we never spoke about Parloa. Is that coming at the same time as Telera and Netricks, or is that later?
 
@@ -171,11 +171,7 @@ Team assigned resources for next week's kickoffs: Hassan takes Telera (language 
 
 **George Haikal:** Correct. The handoff. There's one account or one deal pending getting closed that week as well. He's trying to fill up the pipeline, so we have two each week. But yeah, next week we'll have that handoff.
 
-**William Leborgne:** Okay, cool. All right. And then just to clarify, Telera is Ada's the lead. Netricks, Kathy's lead, but I'm tag teaming that one with her. Brex is Ada is the lead. Ramp, I am the lead.
-
-**George Haikal:** Correct.
-
-**William Leborgne:** Okay, cool. Just making sure we're all clear.
+**William Leborgne:** Okay, cool. And then just to clarify, Telera is Aida's the lead. Netricks, Kathy's lead, but I'm tag teaming that one with her. Brex is Aida is the lead. Ramp, I am the lead.
 
 **George Haikal:** Correct. Correct. Amazing.
 
@@ -185,83 +181,65 @@ Team assigned resources for next week's kickoffs: Hassan takes Telera (language 
 
 **George Haikal:** Yeah, let's do it. Use that capacity. Hassan, how's your capacity?
 
-**Hassan Rashid:** I think with Ramp, there's just you know, five every week. And then for CRV, we're not even, you know, like we have to. We got to do the calibration first. So I can take one. One of these.
+**Hassan Rashid:** I think with Ramp, there's five every week. And then for CRV, we got to do the calibration first. So I can take one of these.
 
-**George Haikal:** Okay. Do you have a preference? This one's more. Netricks is more technical. Telera is less. Do you have an inclination towards either?
+**George Haikal:** Okay. Do you have a preference? Netricks is more technical. Telera is less. Do you have an inclination towards either?
 
-**Hassan Rashid:** If you're following like the same kind of pattern where Sydney takes a more technical one, I don't mind either.
+**Hassan Rashid:** If you're following the same pattern where Sydney takes a more technical one, I don't mind either. What is Telera about? I have no idea.
 
-**George Haikal:** Yeah. I mean, for these, right. It's like you all are like super experienced and skilled. It's more so if you have an interest that. Oh, I would, you know, I particularly would want.
-
-**Hassan Rashid:** What is Telera about? I have no idea what it is about.
-
-**George Haikal:** What does it do?
-
-**Aida Knezevic:** It's a language learning platform for business. Like really big businesses. Like business communication.
+**Aida Knezevic:** It's a language learning platform for business. Really big businesses. Business communication.
 
 **Hassan Rashid:** Okay, yeah, I'm fine with that.
 
 **George Haikal:** Cool. We'll do that split with you here and then Sydney on Netricks.
 
-**Hassan Rashid:** Sydney, I hope that works for you.
-
-**George Haikal:** Lovely.
-
 **Aida Knezevic:** Yeah, that works. Thank you.
 
 **George Haikal:** Welcome in Ella. Basically we just covered the first week and how CRV was going for William and how Panther was going for Kathy and then assigned people for the kickoffs next week.
 
-**Ella:** Awesome. Any. Any it looks like from the chat or external. External chatter in Slack. That all was well, but any call outs that you guys have.
-
-**Aida Knezevic:** For any of the clients?
-
-**Ella:** Well, no, for the kickoff, CRV and Panther.
+**Ella Dillon:** Awesome. Any callouts from Slack or external chatter? That all was well, but any callouts that you guys have?
 
 **William Leborgne:** Everything is looking good.
 
-**Ella:** Awesome. Cool.
+**Ella Dillon:** Awesome. Cool. Let's get into the rest of the clients. Turnstile. How's that going?
 
-**George Haikal:** Amazing. Let's get into the rest of the clients, then it'll be left to drop off for Ramp here in 20. Turnstile. How's that going?
-
-**William Leborgne:** Yeah, Turnstile is good. We had a sync with them yesterday. Sorry I didn't fill this out. I actually just put a little reminder on my calendar every day to fill this out. Not as good as some of my colleagues, but yes, we had a sync with them yesterday. It went well. We went over a bunch of different things, including, like, the imagery, the content. We should be publishing our first three pieces today or tomorrow, I think. Ife. Am I saying that right? Ife.
+**William Leborgne:** Yeah, Turnstile is good. We had a sync with them yesterday. It went well. We went over a bunch of different things, including the imagery, the content. We should be publishing our first three pieces today or tomorrow. Ifeoluwa, am I saying that right?
 
 **Ifeoluwa Adekoya:** Ife.
 
-**William Leborgne:** Ife. Okay. Sorry. Thank you. Ife has been really fantastic in giving, having quick responses to their feedback. And so I'm feeling pretty confident we're going to be able to publish this first three or at least put them into the queue and then. And then he's finishing up another six articles today that we'll send over to them. So broadly speaking, it's looking, looking strong.
+**William Leborgne:** Ife. Okay. Thank you. Ifeoluwa has been really fantastic in giving quick responses to their feedback. So I'm feeling pretty confident we're going to be able to publish these first three or at least put them into the queue. Then Ifeoluwa is finishing up another six articles today that we'll send over to them. Broadly speaking, it's looking strong.
 
-**Ifeoluwa Adekoya:** William. I also wanted to flag the fact that I worked on the writing guidelines based on the feedback they gave during yesterday's meeting and also feedback they gave on the Code to Cash article because that has been more or less our perfect calibration article. So you can just give it a look over, but I think it's pretty good. It's just too long right now, so I just want to look at what future outputs are like for the three pieces.
+**Ifeoluwa Adekoya:** William. I also wanted to flag that I worked on the writing guidelines based on the feedback they gave during yesterday's meeting and also feedback on the Code to Cash article, which has been more or less our perfect calibration article. I think it's pretty good, but it's too long right now, so I want to look at what future outputs are like for the three pieces.
 
-**William Leborgne:** Okay, got it. And with the feedback that we got yesterday, were you able to then implement that into the six new articles?
+**William Leborgne:** Okay, got it. And with the feedback from yesterday, were you able to implement that into the six new articles?
 
-**Ifeoluwa Adekoya:** Yes, yes. Again, thank you so much for like pointing out where to check. And also they've been really, really great. I like that they've been very open about the kind of output they're looking for. They've been very explicit, which has been great for me. Yeah, super.
+**Ifeoluwa Adekoya:** Yes, yes. Thank you so much for pointing out where to check. They've been really great. I like that they've been very open about the kind of output they're looking for. They've been very explicit, which has been great for me.
 
-**William Leborgne:** Yeah. Great. So that's the latest. We're definitely on track to start to ramp up production.
+**William Leborgne:** Yeah. Great. So that's the latest. We're definitely on track to ramp up production.
 
 **George Haikal:** How is Black Soul going?
 
-**Kathy Lam:** Pretty, pretty good. Nicole's been awesome in like looking through the content OS and like approving like articles already. So Natalie like worked like very quickly and got us like the three articles. So I just reviewed them. We'll be reviewing that for today. I think that calibration article's already ready to be posted. I'm not sure if we've done that yet. So I'll, I'll check in with Natalie on that. But yeah, just basically going to get a read on what their thoughts are so far and then to kind of get ramped for the next couple of articles. For the next, for the next week.
+**Kathy Lam:** Pretty good. Nicole's been awesome in reviewing the content OS and approving articles. Natalie worked quickly and got us the three articles. I just reviewed them. I think the calibration article's already ready to be posted. I'm not sure if we've done that yet. So I'll check in with Natalie on that. Basically we're going to get a read on what their thoughts are so far and then ramp for the next couple of articles next week.
 
 **George Haikal:** Fantastic. Black Soul was with SEMA, right? As well.
 
-**Kathy Lam:** No, this is like the person. That's like eight and a half person team. So it's primarily Nicole.
+**Kathy Lam:** No, this is a separate contact. It's an eight and a half person team. So it's primarily Nicole.
 
-**William Leborgne:** Yeah, it's Nicole. So SEMA is Turnstile, Turnstile and Panther.
+**William Leborgne:** Yeah, it's Nicole. So SEMA is Turnstile and Panther.
 
-**Kathy Lam:** It'll be great if SEMA was our contact for a few more.
+**Kathy Lam:** It'll be great if SEMA was our contact for a few more founders. It's insane.
 
-**George Haikal:** Founders. It's insane.
+**Ella Dillon:** So folks, one thing that would be great—and I'm flipping between the Slack channels of the customers—is quick updates at critical weeks, like right when we've done calibration and we're about to start going into production. I want to make sure we never lose the throughline of how the customer is measuring success. When we get to week eight, I want to make sure we haven't lost touch with what that original discussion was, or if we have purposefully moved off and decided to do something else. What I need is for you to throw up a flag—just a reminder that we're doing these things the way they expect to see success. That ensures we're all thinking about it and makes it easier for me to follow the throughline through all the different update channels. Does that make sense?
 
-**Ella:** So folks, one thing that would be great, and I'm kind of trying to like flip screens back and forth between sort of the Slack channels of the customers or whatnot, is quick updates like at critical weeks, like right when we've done the calibration. We think we're about to start going into production like and we're going to want to start getting signals. I want to make sure we never lose the throughline of what the customer, how the customer is measuring success so that when we get to week eight, we've never lost touch with like what that original discussion was or if we have purposefully moved off and decide to do something else. Need is if you could just as you're going through these, make sure you throw up a flag of just a reminder we're doing these things the way they expect to see success is just, just to kind of A, make sure we're all thinking about it and B, it's easier for me to kind of follow the throughline when I'm going through all the different update channels would be great. Sound good? Does that make sense as an ask? Was I clear? Okay.
+**George Haikal:** Amazing. Brex. Aida, you've done a ton of work here. I added some notes. We can talk about it because they're less related to the content. Would love to hear your thoughts first.
 
-**George Haikal:** Amazing. Brex. I know Ada, you now have done a ton of work here. I added some notes. We can talk about it because they're less related to the content. So would love to hear your thoughts first.
-
-**Aida Knezevic:** I feel like I don't feel very positive about how things have been going so far and it just could be because John has like super high standards and but it feels like there were like, for example, like he tagged me and this was like my mistake. But we have like a secondary column stat secondary keywords column where we provide suggestions for secondary keywords that he can use as anchor text for internal links to our content in other blog posts and I was adding those in and I, I, I made a mistake and I added like a slightly unsuitable secondary keyword and, and his comment was like this isn't like the right keyword. Like who is doing this? Like that's kind of like just, it's just the way that the feedback is given, it's giving me the impression that there's not a lot of trust there which is very concerning to me right now. And like my number one priority right now. They are in a 10 week sprint. We're in week six, so we have four more weeks. But it's like I really, we like really need to recover that trust. It feels like he's really looking at everything with like a magnifying glass and. Yeah, I think, I don't know. Yeah.
+**Aida Knezevic:** I feel like I don't feel very positive about how things have been going so far. It just could be because John has super high standards. But for example, he tagged me—and this was my mistake. We have a secondary keywords column where we provide suggestions for secondary keywords that he can use as anchor text for internal links to our content in other blog posts. I was adding those in and I made a mistake and added a slightly unsuitable secondary keyword. His comment was, "This isn't the right keyword. Who is doing this?" The way that the feedback is given, it's giving me the impression that there's not a lot of trust there, which is very concerning to me right now. My number one priority right now. They are in a 10 week sprint. We're in week six, so we have four more weeks. But I really need to recover that trust. It feels like he's really looking at everything with a magnifying glass.
 
 **Ella:** Oh, sorry. Go on. What was your last.
 
 **Aida Knezevic:** No, no, those are my thoughts. Yeah.
 
-**Ella:** Yeah, I would, I, I love that that flag is so key and I would not just try and build trust sort of passively through Slack channels. And like the quality of editorial. I think that needs be to, to be a direct meeting where. Let's just go do an out loud retrospective of where, where we are and I, I'm seeing that you have concerns and so let's talk about our process, let's talk about excellence. Let's talk about what you want to be doing. Like, like bring him up out of the weeds around and tie him back to the, the big goals and then tr. Make the, the process transparent about how we're going to do it. But if you haven't already. When's the next meeting with him?
+**Ella Dillon:** Yeah, I would say that flag is so key. I would not just try and build trust passively through Slack channels, and like the quality of editorial. That needs to be a direct meeting where we do an out loud retrospective of where we are. I'm seeing that you have concerns, and so let's talk about our process, let's talk about excellence. Let's talk about what you want to be doing. Bring him up out of the weeds and tie him back to the big goals. Make the process transparent about how we're going to do it. When's the next meeting with him?
 
 **George Haikal:** Today.
 
@@ -287,92 +265,54 @@ Team assigned resources for next week's kickoffs: Hassan takes Telera (language 
 
 **Aida Knezevic:** Yeah, George, also Marcel just DM'd us in the internal channel. It looks like John sent him the same message. He was like, is this, are these two articles what I should be expecting on average for articles?
 
-**George Haikal:** Yeah, he just said that same exact thing to me this morning.
+**George Haikal:** Yeah, he just said that same exact thing to me this morning. John sent to me, I shared in the internal. John sent to Marcel, Marcel shared in the internal.
 
-**Aida Knezevic:** Yeah.
+**Ella Dillon:** By the way, is Natalie out today?
 
-**George Haikal:** And show everybody here.
+**Kathy Lam:** I don't think so, but she was up until very late last night creating articles for Black Soul.
 
-**Ella:** John did or Marcel shared?
+**George Haikal:** So this morning, this is what he sent to me. Just what to expect for articles targeting best types of keywords.
 
-**George Haikal:** Well, both. John sent to me, I shared in the internal. John sent to Marcel, Marcel shared in the internal.
+**Aida Knezevic:** I think we can make the listicles more in depth. Like they cover four articles right now—four different software solutions. But I think we can be more comprehensive. I know that Atlas has been handling the pipeline and they've been doing a lot of post processing. Sydney, I really trust your experience. Could you just take a closer look at these drafts and give an honest objective score based on your editing experience and what Brex publishes on their blog? I think that would be really helpful for us.
 
-**Aida Knezevic:** Is.
+**Sydney:** Yeah, sure.
 
-**Ella:** By the way, is Natalie out today?
+**Aida Knezevic:** Brex is publishing in the same Trends subfolder. They have a bunch of product listicles and how-to guides. It's all been created by John and he does use AI to create articles. So just understand if we can meet that benchmark with reasonable turnaround. George, what we can tell Marcel is that we're having our best editor reviewing the drafts to see if this is the quality bar and that we'll get back to them.
 
-**Kathy Lam:** I don't think so, but she was up until like very late last night on. On creating articles for Black Soul.
+**George Haikal:** What's your opinion, Aida? We need to address it and make it right with John. Is his feedback so nuanced because he has a specific perspective, or is it more so that the quality of what we've been outputting could use a lift?
 
-**George Haikal:** So this morning, and this is for context to. On the meta tags, but most recently this morning, this is what he sent to me. Just what to expect for articles targeting best types of keywords.
-
-**Aida Knezevic:** I think we can make like the listicles. Like they cover like four articles right now. I mean not the four different software solutions. I think we can be more in depth. But I know that Atlas has kind of been like the pipeline itself. They've been doing a lot of post processing so I don't know if there's anybody like Sydney because I like I really, I trust your experience. So could you just take a closer look at these drafts and kind of give it like an honest like objective score based on like your editing experience and what Brex publishes on their blog. I think that would be really helpful for us.
-
-**Ella:** Yeah, sure.
-
-**Aida Knezevic:** But from my understanding Brex is publishing on a different subfolder for our content, right? No, it's the same subfolder. So we're all publishing in Trends. Yeah. And they have a bunch of like product listicles and just like different how to guides. So I think it's just worth like comparing what they've published so far because that's all been created by John and he does use AI to create articles. So just kind of like just understand like if we can meet that benchmark with a reasonable in a reason like in a reasonable amount of time. Okay, I'll take a look today. Thank you. I think George, what we can tell Marcel is that we're having like our best editor reviewing the drafts to like see if, if like whether this is the quality bar and that we can, we'll get back to them.
-
-**George Haikal:** Yep. Yeah. What's your opinion Ada on either way? Like we need to address it and make it right with John. But what's your opinion on is where he's coming from so nuanced because he has such a specific perspective or is it more so the quality of what we've been outputting so far still could use a lift, a big lift.
-
-**Aida Knezevic:** I think that we are like 70, 70% of the way there just from what like just a quick skim. I think that there are some things that we can improve. I think the comprehensiveness, like if we're doing a product listicle, the majority of the article has to be about the products that we're talking about. It can't be other content. So I think there's room for improvement but I don't think we're like way off the mark in terms of quality.
+**Aida Knezevic:** I think we're at about 70% of the way there from a quick skim. There are some things we can improve. If we're doing a product listicle, the majority of the article has to be about the products we're talking about. It can't be other content. So there's room for improvement, but I don't think we're way off the mark in terms of quality.
 
 **George Haikal:** Got it.
 
-**Ella:** Yeah. I think unfortunately I guess a couple things. One is I wouldn't and I wouldn't lead him to believe that we have. I guess the way you frame that Ada, I would be worried about of like hey, we're just, we're now going to bring in one of our best. Yeah, yeah. Things like as if we had the B team on it before. So. So I think more of we're going to invest extra time to calibrate. You know some of this is the process of us calibrating and built in X, Y and Z. But we're doubling down to make sure that we get you know, dive into explicitly the lane he wants us to be in. But again I want to make sure that we pull this back up to strategy, we build it to trust, then we talk about what's the right level of transparency to make sure we get to where he feels comfortable.
+**Ella Dillon:** Yeah. I wouldn't lead him to believe that we're now just bringing in one of our best editors as if we had the B team on it before. Instead, I'd frame it as: we're going to invest extra time to calibrate. Some of this is the process of us calibrating. But we're doubling down to make sure that we dive explicitly into the lane he wants us to be in. I want to make sure that we pull this back up to strategy, build it to trust, then talk about what's the right level of transparency to make sure we get to where he feels comfortable.
 
-**Aida Knezevic:** Yeah, exactly. And I also want to highlight that we published four articles this week, three of which are brand new and clearly there wasn't that like those were fine.
+**Aida Knezevic:** Yeah, exactly. And I also want to highlight that we published four articles this week, three of which are brand new and those were fine. So I'm concerned that he might just be frustrated with some things he was reading and wondering what he's looking at.
 
-**George Haikal:** Yeah.
+**Ella Dillon:** Do we have any good signals we can bring to that call? Not to be defensive or dismissive of his feedback, but to show some early signals. We did these four articles. Here's some early signals. We want to scaffold the fact that we're making progress even while we're learning from him about what he wants.
 
-**Aida Knezevic:** So I'm concerned that he might just be having like have a. Have had, you know, was a little frustrated with some things that he was reading and that he kind of was like what is this? What am I reading?
+**Aida Knezevic:** Yeah. The four that have been published, I think have already been indexed and are getting impressions. But I will double check and see what we can present in the call.
 
-**Ella:** Yeah. Do we have any good signals we can bring to that call? Like just not again to be defensive or not be good listening to his feedback but just again bring some. We did these five articles. Here's some early signals. Again we want to scaffold the fact that we're making progress even while we're learning from him about what he wants.
+**Ella Dillon:** Yeah. Any good facts about progress that we're making. We never want to feel defensive and we want to make sure we're listening. But also celebrate wins.
 
-**Aida Knezevic:** Yeah. The four that have been published, I think I've already been indexed and are getting impressions but I will double check and see what we can present in the call.
+**George Haikal:** Yep, I do too, for Ramp. So let me see here. Aida, did you just want to give a quick update on Cresta?
 
-**Ella:** Yeah. Again, any good facts about progress that we're making. You know, again, we never want to feel defensive and we want to make sure we're listening, but. But also, you know, celebrate. Celebrate wins.
+**Aida Knezevic:** Yeah. Tyler and I met with Cresta. Overall, they're happy. The CMO acknowledged he's an executive who wants to do things 2x faster. But the good thing is that we should be publishing between five to ten articles this week, depending on their VP of Product. He knows he's a bottleneck, so he's going to try to be more mindful of the reviews. I showed them some really great signals. A comparison article that we published over Christmas is already ranking in Scrunch for those exact prompts. Scrunch has a feature where you can upload target keywords in a list and it turns them into prompts. So that makes it easier for us to report on AI visibility of the topics we're publishing. They were really excited to see that. They did ask about Scrunch access. I said we can give them access, but we are working on something ourselves and they should have access when that happens.
 
-**Aida Knezevic:** Yeah.
-
-**Ella:** By the way, Ada, how are you feeling? Are you better? Are you feeling better?
-
-**Aida Knezevic:** I am doing well. My camera is off just because my wifi was causing me issues earlier, but I'm good. Thank you.
-
-**Ella:** Okay.
-
-**Aida Knezevic:** I have to jump in a couple of minutes for. For a Hex call.
-
-**George Haikal:** Yep, I do too, for Ramp. So let me see here. Ada, did you just want to give a quick on Cresta and Navon?
-
-**Aida Knezevic:** Yeah. Tyler and I met with Cresta. Overall, they're happy. I think the CMO, like, acknowledged he's like, I'm an executive. I want to do things like 2x speed. But the good thing is that we should be publishing between like five to ten articles this week, depending on their VP of Product management. He did say that he knows he's a bottleneck, so he's going to try to be, like, more mindful of the reviews. I showed them some really great signals. Like, a comparison article that we published over Christmas is like, already ranking in Scrunch for those exact prompts. And by the way, Scrunch has a feature that we can use. You can just upload target keywords in a list and it's going to turn them into prompts. So that makes it easier for us to like, report on, like, AI visibility of the topics that we're publishing. And they were really kind of excited to see that. They did ask about Scrunch access. I did say no, that we can give them access, but that we are kind of working on something ourselves and that they should have access when that happens.
-
-**Ella:** So the only reason I grimaced is, don't. For that very point, don't we want to be using CheckThat so that we're not promoting Scrunch? And what do we need as this team? We still need. This team is waiting on, like, the talking points. What to show, how to show it. You're waiting on that still? Okay.
+**Ella Dillon:** The only reason I grimaced is, don't we want to be using CheckThat so that we're not promoting Scrunch? What do we need as this team? This team is waiting on the talking points. What to show, how to show it. You're waiting on that still?
 
 **Aida Knezevic:** Yeah. Yeah.
 
-**Ella:** All right. Who do I need to go to? Do we know to go help draft that for this team ASAP?
+**Ella Dillon:** All right. Who do I need to go to? We need to help draft that for this team ASAP.
 
 **George Haikal:** Probably Marcel.
 
-**Ella:** Okay. Marcel and Daniel. All right, I will go back into that channel because I do think that we want to make sure that we're. We're starting to flip off and just flip to presenting our own thing versus Scrunch as soon as possible. And only really with this team. We don't want to do demos. We, we don't want you to kind of like go big into like the product. Like you're becoming kind of product managers and gathering feedback, but just literally that you're just showing our stuff versus Scrunch. Um.
-
-**Aida Knezevic:** Mm.
-
-**Ella:** Okay, so I'll take the action and then close the loop back with all of you.
-
-**Aida Knezevic:** Okay, thanks everyone. I need to jump, but I will see you later.
-
-**Ella:** Take care.
-
-**Aida Knezevic:** Bye.
+**Ella Dillon:** Okay. Marcel and Daniel. All right, I will go back into that channel because I do think we want to make sure we're starting to flip off and flip to presenting our own thing versus Scrunch as soon as possible. Only really with this team. We don't want to do demos. We don't want you to become product managers and gather feedback. Just literally show our stuff versus Scrunch. Okay, so I'll take the action and then close the loop back with all of you.
 
 **George Haikal:** Cool. Okay, we can cover Ramp quick and then I think William and I need to jump for Ramp, but William, you can go first and I have some extra context to add.
 
-**William Leborgne:** Yeah. So broadly speaking, we've been producing between five and like eight articles a week. We have some early wins that we're going to be sharing with them. There's some issues with the indexing, which I think we're. We're working through with Hassan's help and somebody else. I can't remember who it was, but we have six articles indexed. We're still waiting for another additional 20 plus articles to get indexed, but we are still getting some initial good feedback. And then, George, you've been pushing. Well, I'll let you speak to the domain authority stuff.
+**William Leborgne:** Yeah. So broadly speaking, we've been producing between five and eight articles a week. We have some early wins that we're going to be sharing with them. There's some issues with indexing, which we're working through with Hassan's help. We have six articles indexed. We're still waiting for another 20+ articles to get indexed, but we are getting some initial good feedback. George, you've been pushing the domain authority work. Let me let you speak to that.
 
-**George Haikal:** Yeah, I think that kind of goes in tandem with getting things indexed as well right now. But basically the biggest blocker here is we're stuck at 6 articles indexed. We're not getting other articles indexed to do that. We have like a few different ideas that we're presenting and proposing. One is backlinks. The other is how can we get creative with a newsletter or building out socials and posting and pointing external sources back to Cash Flow Desk to boost its credibility and reliability. And so Talal on our team did that for CheckThat starting. CheckThat from zero. It has a little playbook around there. I talked to him yesterday. He's helping us come up with quick strategy and things we can test and iterate on because we have full control of the site. So that is the biggest blocker. But I talked to Victoria yesterday, I showed her CheckThat and she seems to be positive and in the mindset of, we understand this is a setup period, let's just make sure everything can be tracked from here on out moving forward, especially in terms of AI visibility and prompts. And then let's stay on top of the indexing and signals moving forward. And so that's our biggest goal. And to me we seem pretty aligned. This next meeting I think will be an extension of that. But we can keep everybody updated because it's. We got to get creative here.
+**George Haikal:** Yeah, I think that goes in tandem with getting things indexed. Basically the biggest blocker is we're stuck at 6 articles indexed. We're not getting other articles indexed. We have a few different ideas we're proposing. One is backlinks. The other is how can we get creative with a newsletter or building out socials and pointing external sources back to Cash Flow Desk to boost its credibility and reliability. Talal on our team did that for CheckThat starting from zero. It has a playbook around there. I talked to him yesterday. He's helping us come up with quick strategy and things we can test and iterate on because we have full control of the site. But I talked to Victoria yesterday, I showed her CheckThat and she seems positive and in the mindset of, we understand this is a setup period, let's just make sure everything can be tracked from here on out moving forward, especially in terms of AI visibility and prompts. That's our biggest goal. And to me we seem pretty aligned. This next meeting I think will be an extension of that. We can keep everybody updated because we got to get creative here.
 
 **William Leborgne:** Yep. We do have to jump. Thanks, y'all.
-
-**Kathy Lam:** All.
-
-**George Haikal:** Thanks, everybody. Yeah. It. It.

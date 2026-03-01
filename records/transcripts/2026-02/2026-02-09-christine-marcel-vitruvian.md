@@ -4,8 +4,16 @@
 date: 2026-02-09
 time: 22:30 UTC
 duration: 33 minutes
-organizer: marcel@growthxlabs.com
-participants: Marcel Santilli, Christine Kang (Vitruvian Partners)
+organizer: Marcel Santilli (GrowthX)
+source: fireflies
+enriched_on: 2026-02-28 20:00 UTC
+participants:
+  - name: Marcel Santilli
+    title: CEO & Co-Founder
+    company: GrowthX
+  - name: Christine Kang
+    title: Tech & AI Investing Lead
+    company: Vitruvian Partners
 fireflies_id: 01KGXMHTMCQMB5T2BCTH0M2R7H
 transcript_url: https://app.fireflies.ai/view/01KGXMHTMCQMB5T2BCTH0M2R7H
 </metadata>
@@ -14,33 +22,78 @@ transcript_url: https://app.fireflies.ai/view/01KGXMHTMCQMB5T2BCTH0M2R7H
 
 ## Summary
 
-Marcel met Christine Kang from Vitruvian Partners ($8B global growth fund) for a relationship-building/investor intro. Marcel walked through the GrowthX business model, technology (agentic framework, AI visibility platform), and financials ($13M ARR, 9x growth last year, 70% gross margin, burn multiple ~0.3). Christine expressed interest in portfolio synergies and exploring partnership after the open-source launch. They planned to connect at Christine's AI dinner (March 25, Foreign Cinema, SF) and mid-March Bay Area meetups.
+Marcel introduced GrowthX's AI-powered content platform and agentic framework to Christine Kang (Vitruvian Partners), demonstrating $13M ARR with 9x YoY growth, 70% gross margin, and 0.3x burn multiple — positioned as a capital-efficient platform solving the "AI restructuring of the web" macro trend that aligns directly with Vitruvian's investment thesis. Christine expressed interest in reviewing her portfolio for customer/partner intros and confirmed attendance at her AI dinner (March 25, Foreign Cinema, SF), with mid-March Bay Area follow-ups planned. No immediate commitment, but relationship-building momentum established with a potential $30–50M Series A raise window post-Q1 product launches (open-source framework, platform GA).
 
 ---
 
 ## Context
 
-This was an intro call between Marcel and Christine Kang of Vitruvian Partners, a growth-stage fund investing from Series B to pre-IPO. The connection came through Madrona and Deepgram circles. Christine's thematic investing focuses on AI restructuring of the web and alternative SEO methods — directly aligned with GrowthX's positioning. This call is part of GrowthX's selective relationship-building with potential growth capital partners ahead of a possible $30–50M raise around end of Q1.
+This was an intro call facilitated through Madrona (who connected them) and Deepgram (where Marcel and Karan Bajaj worked together). Vitruvian Partners is an $8B global growth fund investing from Series B to pre-IPO across 90 portfolio companies, with 80% of deployments in the US. Christine Kang leads their tech and AI investing mandate, with explicit thematic focus on "dynamic situations" — companies riding macro shifts (technology, regulatory, behavioral) in markets. Her specific investment theme of "AI restructuring of the web" (moving beyond traditional SEO to alternative visibility methods) maps directly to GrowthX's business and ICP. This call represents GrowthX's selective relationship-building strategy: Karan Bajaj (GrowthX's main investor) recommended the meeting, and Marcel is methodical about building trust incrementally rather than disclosing IP broadly (lessons learned from previous VC conversations that led to competitive copying). The timing aligns with GrowthX's product roadmap (open-source framework launch, platform GA) and potential Series A raise window (post-Q1, $30–50M range).
 
 ---
 
 ## Relevance
 
-**To GrowthX Fundraising:**
-- Vitruvian Partners: $8B global growth fund; invests Series B to pre-IPO; flexible on check size.
-- Christine focuses on "dynamic situations" driven by macro shifts (tech, regulatory, behavioral) — AI restructuring of web and alternative SEO maps directly to GrowthX.
-- Marcel shared financials: ~$13M ARR, 9x growth last year, 3x target this year, 70% gross margin, burn multiple ~0.3, cash flow positive last 3 months, $3.5M total capital spent.
-- Potential raise: $30–50M, timing after open-source launch and Q1 product milestones.
-- Christine to review Vitruvian portfolio for intro opportunities; Marcel to share open-source launch details.
+**To GrowthX Fundraising & Capital:**
+- Strategic fit: Vitruvian's $8B fund, Series B to pre-IPO mandate, flexible check sizes ($10–50M+ range), thematic focus on "dynamic situations" (macro shifts in tech/behavior/regulation) directly aligns with GrowthX positioning.
+- Financials conversation: $13M ARR, 9x growth YoY, 3x target this year, 70% gross margin, 0.3x burn multiple, cash flow positive last 3 months, $3.5M total capital to date — signals capital efficiency and traction.
+- Raise window: $30–50M range post-Q1 product launches; Marcel cautious about broad disclosure (prior experience with VC information leaks and competitive copying).
+- Portfolio/network value: Christine to review Vitruvian's 90-company portfolio for customer/partner intros; potential strategic synergies with portfolio companies investing in AI/web restructuring.
 
-**To GrowthX Business:**
-- Marcel described the business model: 60+ customers, $200K ACV, ~$18K/month per work stream, end-to-end website content management at scale (5,000–50,000 pages).
-- Platform evolution: shifting from full-service to enabling customers to run workflows themselves; editors remain for quality control.
-- Technology: agentic framework (18 months old, workflows as code, open-sourcing soon), AI visibility platform (launched last week, aggregates search console + analytics + AI perception data).
+**To GrowthX Product & Technology:**
+- Agentic framework (18 months old, workflows as code, pre-Claude-era design): open-sourcing in weeks; cloud-hosted version launching in months; represents core IP and runs entire company operations (hiring, content creation, client workflows).
+- AI visibility platform (launched week of 2026-02-02): aggregates search console, analytics, AI perception surveys; key competitive differentiator for AEO (mapping AI agent audience).
+- Platform transition: currently 100% full-service (60+ customers, $200K ACV, ~$18K/month per work stream); shift to client-operated mode with GrowthX editors as QA layer — unlocks scalability without proportional headcount.
+- Use case insight: managing 5,000–50,000 page websites; constant refresh/optimization; content decay is faster post-AI; half-life much shorter than pre-LLM era.
 
-**To Networking / Events:**
-- Christine's AI dinner: March 25, Foreign Cinema, San Francisco — Marcel attending.
-- Additional mid-March Bay Area meetups planned to deepen relationship.
+**To GrowthX Market & Positioning:**
+- Macro validation: "AI restructuring of the web" as macro shift (not traditional SEO play); agents pulling 50–200 URLs per query, not single results; websites now serving human buyers, AI agents, training data bots.
+- Customer base: 60+ including Ramp, Lovable, Brex, Navon, Vercel, Webflow, Airbyte; dominated by developer platforms and high-growth B2B SaaS; strong community-driven/API-heavy segment.
+- Problem statement: 100,000+ marketing agencies, 40,000+ martech tools, 100,000s of freelancers — marketers overwhelmed; GrowthX solves unified end-to-end (context, strategy, creation, publishing, monitoring, iteration).
+
+**To GrowthX Sales & Go-to-Market:**
+- GTM efficiency: only 1 AE, minimal marketing, enterprise customers largely inbound/referral-driven (workshop attendees from Deepgram days); contrast to competitors with 20+ AEs and heavy ad spend.
+- Expansion path: potential to introduce GrowthX to Vitruvian portfolio companies as end-to-end content platform, especially developer platforms and SaaS with large doc/integration/template libraries.
+
+**To GrowthX Founder & Networks:**
+- Founder background: 15-year trajectory from IBM Security Intelligence to HP/Micro Focus (TechBeacon) to HashiCorp to ServiceTitan to Scaly to Deepgram (CMO); clear pattern of building high-ROI, compounding content strategies.
+- VC caution: Marcel protective of IP after observing competitors adopt similar terminology and VC firms invest in copied competitors; trust-building in increments, not full disclosure up front.
+
+**To Networking & Relationship Building:**
+- Christine's AI dinner: March 25, Foreign Cinema, San Francisco — Marcel confirmed attendance (returning from Madrona LP event March 24, hosting something March 26).
+- Mid-March Bay Area follow-ups planned; GrowthX offices in South Park, SF (convenient location for Bay Area meetups).
+- Relationship stage: early, high-quality intro; no pressure; momentum building for potential future collaboration.
+
+---
+
+## Decisions & Commitments
+
+**Marcel's Commitments:**
+- Share open-source framework launch details once publicly available (post-launch, likely mid-to-late February).
+- Share cloud platform details once ready (post-launch, timing TBD).
+- Attend Christine's AI dinner at Foreign Cinema on March 25, 2026.
+- Coordinate mid-March Bay Area follow-up meeting before/after AI dinner.
+
+**Christine's Commitments:**
+- Review Vitruvian portfolio (90 companies) for potential customer/partner introductions to GrowthX.
+- Send formal invite to AI dinner at Foreign Cinema, March 25, 2026.
+- Coordinate mid-March Bay Area follow-up meetings.
+
+**No Formal Commitments:**
+- No decision to fundraise yet; Marcel still operating under assumption GrowthX may not need to raise.
+- No NDA or information exclusivity discussed; relationship remains exploratory.
+- No timeline pressure; next decision point tied to product launches (open-source, platform GA) and Q1 milestone completion.
+
+---
+
+## Open Questions
+
+- Vitruvian's specific portfolio companies that could be strategic partners or customers (TBD pending Christine's portfolio review).
+- Timing and details of open-source framework launch (Marcel indicated "couple weeks" from 2026-02-09, so likely targeting early-to-mid February).
+- Cloud-hosted platform launch timing (Marcel indicated "few months" from call date).
+- What specific Q1 product milestones trigger potential Series A raise decision.
+- How much of GrowthX IP is safe to share with VCs without competitive risk (evident concern from Marcel).
+- Exact scope of mid-March Bay Area meetings (one meeting vs. multiple sessions).
 
 ---
 
@@ -57,40 +110,64 @@ This was an intro call between Marcel and Christine Kang of Vitruvian Partners, 
 
 ## Key Topics
 
-### GrowthX business model and technology
+### GrowthX Business Model & Product Positioning
 
-- 60+ customers including Ramp, Lovable, Brex, Navon, Vercel; $200K ACV; ~$18K/month per work stream.
-- End-to-end: brand context, strategy mapping, content creation workflows, publishing, monitoring, iterative improvement.
-- Managing 5,000–50,000 page websites; constant refresh and optimization.
-- Platform transition: moving from full-service to customer-operated workflows with editor quality control.
-- Agentic framework: 18 months old, workflows as code, integrates with Claude, runtime abstracted from Temporal; open-sourcing in coming weeks.
-- AI visibility platform: launched last week; aggregates search console, analytics, AI perception surveys; guides content strategy.
+- **Customer Base & Pricing**: 60+ customers including Ramp, Lovable, Brex, Navon, Vercel, Webflow, Airbyte; $200K ACV; ~$18K/month per work stream; currently 100% full-service delivery model.
+- **Work Stream Structure**: Each customer's engagement divided into "lanes of work" (examples: Lovable has 2, Augment Code has 3, Vercel launching 3). Work streams can be: doc auto-updates (Airbyte), integration page management (Webflow), template libraries (Lovable), guides creation (Lovable), AI Gateway pages (Vercel).
+- **Delivery Scope (End-to-End)**: Brand context + personas input → strategy/opportunity mapping → agentic content workflows (with humans in loop) → publishing + monitoring + iterative improvement. Platform manages 5,000–50,000 pages per customer; constant refresh/optimization critical as content decay faster in AI-augmented search landscape.
+- **Platform Evolution**: Currently 100% full-service (GrowthX does all work). Goal: shift to "client-operated" mode where customers run workflows themselves with GrowthX editors in QA role ("forward deploy services"). This unlocks scalability without proportional headcount.
+- **Defensibility**: Content context engine (brand/product/personas data) unique to each customer and core to agentic execution; highly proprietary workflows; traceability of all work enables continuous agent refinement via editor feedback loops.
 
-### Financial performance
+### Technology & Intellectual Property
 
-- $13M ARR; 9x growth last year; targeting 3x this year.
-- 70% gross margin; burn multiple ~0.3; cash flow positive last 3 months.
-- Total capital spent: $3.5M to date.
-- Growth limited by capital, not demand; one AE currently.
-- Potential raise: $30–50M, timing post open-source and Q1 product milestones.
+- **Agentic Framework** (Core IP): Built 18 months ago (pre-Claude era); TypeScript workflows-as-code framework; file system representation (agents are very good at file systems); runtime abstracted from Temporal; integrates with Claude; open-sourcing in weeks; cloud-hosted version launching in months. Entire company (hiring, recruiting, content workflows) runs on this framework. Built on Terraform/Infrastructure-as-Code mental model: "drag-and-drop is not the future; code is."
+- **AI Visibility Platform** (CheckThat): Launched week of 2026-02-02; aggregates search console data, analytics, AI perception surveys; maps buyer questions to brand perception across AI engines; shows how AI agents perceive brands, what URLs they cite, what content drives perception change. Positioned as "Super Bowl ad measurement for AI" — similar to survey-based lift/brand recall measurement but for AI agents.
+- **Signal Ingestion**: Pulling from search console, analytics, AI visibility data, editor QA feedback; enables continuous agent improvement via coded workflow tweaks.
 
-### Partnership and capital
+### Market & Macro Positioning
 
-- Vitruvian Partners: $8B global growth fund; Series B to pre-IPO; thematic investing around AI restructuring of web.
-- Christine to review portfolio for GrowthX customer/partner intros.
-- Marcel protective of IP; careful about VC information leaks.
-- Ongoing relationship-building; no rush to raise.
+- **Macro Shift**: "AI restructuring of the web" — not traditional SEO, but rather how AI agents retrieve and surface information. Agents pull 50–200 URLs per query (not single result). Websites now serve three audiences: human buyers, AI agents, training data bots.
+- **Scale Problem**: Websites now 5,000–50,000 pages (e.g., e-commerce scale). Content decay faster post-AI. Half-life much shorter than pre-LLM era. Marketers overwhelmed: 100,000+ agencies, 40,000+ martech tools, 100,000s freelancers. No single tool solves "outcomes + inputs + not-doing-work-yourself" problem.
+- **GrowthX Positioning**: "Super modern agency powered by AI" (how customers buy it today); underneath: software + service hybrid with agentic framework, visibility platform, context engine.
+
+### Financial Performance & Capital Efficiency
+
+- **Metrics**: $13M ARR; 9x growth last year; targeting 3x growth this year; 70% gross margin; 0.3x burn multiple; cash flow positive last 3 months.
+- **Capital to Date**: $3.5M lifetime spend; Karan Bajaj (GrowthX investor via Deepgram connection) as main investor; couple of angels + strategic investors but kept very small.
+- **Growth Constraints**: Not demand-constrained; capital is limiting factor only for scaling GTM/headcount. Only 1 AE hired 4 months ago; minimal marketing; mostly inbound/referral-driven (e.g., Deepgram workshop attendees).
+- **Burn Efficiency**: Running below 0.3x burn multiple intentionally; each wave of hiring/investment, then letting burn return to neutral. Company built for long-term, not venture speed.
+- **Raise Plans**: If raising, $30–50M range post-Q1 product launches. But company operating under assumption may never raise. Raising would "pour gasoline on fire" not be success driver. Marcel cautious about VC due to prior IP leaks (competitors copied terminology, VC firms invested in copycats).
+
+### Founder Background & Personal Context
+
+- **15-Year Pattern**: IBM Security Intelligence (founded non-IBM.com domain, became highest ROI marketing program, 15-year lifespan, $17M close-won revenue year 1); HP/Micro Focus TechBeacon (1,000 contributor network, 20 articles/week, 50% of leads for business unit); HashiCorp (6→100M), ServiceTitan (first CMO, hired successor), Scaly (first CMO), Deepgram (built agentic workflows, 24x traffic in 6 months, then started GrowthX workshops).
+- **Connection to Karan Bajaj**: Met at Deepgram when Karan was on board; approached for Series A after GrowthX proved traction (workshop attendees signed up, Ramp/others on board before Marcel left Deepgram).
+- **IP Protection Stance**: Marcel observed VC information sharing leading to competitive copying, similar terminology adoption by competitors, VCs investing in copycats. Now building trust incrementally vs. full disclosure. Hesitant to reveal IP broadly.
+- **Market Conviction**: 15-year conviction that content/distribution compounds better than ads; macro change in how companies buy and how websites matter; understands CMO pain intimately via network.
+
+### Vitruvian Partners & Investment Thesis
+
+- **Fund Profile**: $8B global growth fund; Series B to pre-IPO investments; 90 portfolio companies across US, Europe, Asia; flexible checks ($10–50M+ range); started in London, 80% deployed in US (increasing).
+- **Investment Criteria**: "Dynamic situations" — every investment must have underlying macro shift (technology, regulatory, human behavior). Looking for category winners riding structural changes; combining asset-light business model, category winner status, global expansion.
+- **Thematic Focus**: "AI restructuring of the web" — explicit investment theme; moved beyond traditional SEO to alternative visibility methods; invested in multiple companies in this space.
+- **Fund Performance**: Top 1% performance; every fund has doubled; strong returns driven by dynamic situations criteria.
+- **Flexibility**: Can do primary or secondary; examples include Deepgram (both); all-in on helping build global businesses.
 
 ---
 
 ## Action Items
 
-**Christine Kang**
-- Review Vitruvian portfolio for companies to introduce to GrowthX (30:00)
-- Send invite and coordinate attendance for AI dinner at Foreign Cinema, March 25 (32:00)
+**Christine Kang (Vitruvian Partners)**
+- Review Vitruvian portfolio (90 companies) for customer/partner intro opportunities to GrowthX; focus on companies in AI, web, developer platforms, and SaaS niches.
+- Send formal invite and coordinate attendance for AI-focused dinner at Foreign Cinema, March 25, 2026.
+- Confirm mid-March Bay Area follow-up meeting(s) before/after AI dinner.
 
-**Marcel Santilli**
-- Share open-source launch details and cloud platform info once publicly available (31:00)
+**Marcel Santilli (GrowthX)**
+- Share GrowthX open-source framework launch details once publicly available (post-launch, likely mid-to-late February 2026).
+- Share cloud-hosted platform details once ready for sharing (timeline: "few months" from call, likely April–May 2026).
+- Confirm attendance at Foreign Cinema AI dinner, March 25, 2026.
+- Coordinate mid-March Bay Area follow-up meeting(s) with Christine.
+- Continue building relationship; no rush on raise decision until Q1 product milestones complete.
 
 
 ---

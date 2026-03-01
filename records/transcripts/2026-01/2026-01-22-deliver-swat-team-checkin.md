@@ -7,197 +7,366 @@ time: 22:00 UTC
 duration: 77 minutes
 organizer: bridget@growthxlabs.com
 participants:
-  - Matthew Panzarino
-  - Kyle Gaudreau
-  - Andi Bailey
-  - Bridget McGillivray
-  - William Leborgne
-  - George Haikal
-  - Ella Dillon
-source: Fireflies.ai
+  - Matthew Panzarino (Chief Content Officer)
+  - Kyle Gaudreau (VP, Customer Growth)
+  - Andi Bailey (Director, Content Strategy)
+  - Bridget McGillivray (VP Operations)
+  - William Leborgne (Sprint Delivery Lead)
+  - George Haikal (Chief of Staff)
+  - Ella Dillon (VP People & Operations)
+source: fireflies
 transcript_url: https://app.fireflies.ai/view/01KFBXHV8BB99HQ21G78N5JE8T
+enriched_on: 2026-03-01 00:00 UTC
 ---
 
 ## Summary
 
-The team addressed publishing stability concerns around Suleiman's potential departure, reviewed editing efficiency metrics (average 1.5 hours per deliverable), and discussed immediate hiring needs for engagement managers. Key focus areas included upsell strategy development, client engagement risks with Brex/Ramp/Capital One, and process improvements for better workflow visibility.
+Leadership confirmed Suleiman's staying put, validated capacity model requiring three EMs immediately (one every six weeks thereafter), and locked Brex renewal at $480K with full rescope coming to Marcel within 24 hours. Critical blocker: multi-threading missing at Ramp (Victoria is contact, George is decision-maker) and Capital One acquisition requiring urgent stakeholder mapping to close before new compliance freeze hits.
 
 ## Context
 
-Weekly leadership sync for the Deliver organization covering production operations, client renewals, Sprint team performance, and capacity planning. The team manages content delivery for GrowthX's B2B clients across pod and sprint engagements.
+Weekly leadership sync for the Deliver organization's executive team covering operations capacity, client renewals, and engagement model scaling. The Deliver org manages all content delivery to B2B clients via two models: Pod teams (12-week strategic relationships starting at 3 accounts per EM, ramping to 5) and Sprint teams (2-month proof-of-concept engagements at 4 accounts per EM, flat). Current headcount planning assumes EMs manage $1.5M–$1.7M book of business annually. Multiple major accounts in renewal/renegotiation cycles create both revenue protection and hiring urgency.
 
 ## Relevance to GrowthX
 
-This meeting directly impacts GrowthX's core service delivery:
-- **Revenue protection**: Brex renewal ($480K), Ramp conversion, Capital One acquisition risk
-- **Operational scaling**: Need 3 EMs immediately, 1 new hire every 6 weeks to match growth
-- **Quality control**: Time Doctor data revealing editing bottlenecks and process inefficiencies
-- **Team structure**: Megan role discussion for custom strategic accounts
+This meeting directly impacts GrowthX's core service delivery and growth:
 
-## Overview
+**Revenue Risk & Protection**
+- Brex $480K renewal closing in 2 weeks (positive signal; acquisition timing favors auto-renew)
+- Ramp decision-maker (George) not yet multi-threaded; Victoria (current contact) lacks budget authority
+- Capital One acquisition creates stakeholder uncertainty; urgent need to map new content team and close before compliance freeze
 
-- **Publishing Team Concerns:** Sole publishing specialist's potential departure raises workload and quality concerns; urgent automation needed to prevent burnout.
-- **Editing Efficiency Metrics:** Average editing time is 1.5 hours; inefficiencies noted in longer times affecting quality and increasing error risk.
-- **Hiring Needs:** Team requires three engagement managers immediately to maintain service levels, with continuous hiring every six weeks aligned to revenue growth.
-- **Upsell Strategy Development:** Need for clear ownership and pricing for upsells; proposed one-pagers to streamline internal review and approval processes.
-- **Client Engagement Risks:** Positive renewal with Brex; potential risks with Ramp and Capital One acquisitions; proactive networking recommended to mitigate losses.
-- **Process Improvement Initiatives:** Data-driven capacity planning dashboard in development to enhance workflow visibility; refining ticket prioritization and accountability measures.
+**Operational Scaling**
+- Capacity model locked: 3 EMs needed immediately, 1 new hire every 6 weeks to support 80% Sprint conversion rate
+- Current EM book: $1.5M ramping to $1.7M annually
+- Pod model (strategic): EMs start 3 accounts, ramp to 5
+- Sprint model (proof-of-concept): EMs cap at 4 accounts flat
+
+**Quality & Process**
+- Time Doctor data shows editing bottleneck: average 1.5 hours per deliverable; best case (Felix) 8–24 minutes; worst case (Lawrence on Rimkus) 2.5–3 hours
+- Publishing automation urgent (Suleiman sole specialist; confirmed staying but burnout risk remains)
+- Client Ops tickets sitting 5 weeks in queue; Ella taking accountability for prioritization
+
+**People & Roles**
+- Megan's skill fit better for strategic custom accounts than transactional ticket work
+- Kyle to clarify Megan's appetite for elevated EM role with leadership responsibilities on upsell strategy
+- Contract change: new clients transition to bi-weekly (vs. weekly) meetings; risk of perceived service cliff needs active management
+
+## Decisions & Commitments
+
+**Hiring & Capacity (locked for execution)**
+- Hire 3 EMs immediately; then 1 EM every 6 weeks through year-end
+- Two-month hiring lead time before revenue cycles (e.g., hire in April to support June client ramp)
+- Bridget owns headcount planning; Daniel (finance/ops) approving; team to confirm if hiring can slip to April if capacity holds
+
+**Upsell Process (delegated to Kyle)**
+- Kyle to create one-pager: client upsell asks, GrowthX solutions, recommended pricing (e.g., Sunbit website build)
+- Andi to outline scenarios and questions for internal alignment
+- All upsells require Marcel sign-off before pricing goes external
+- Connection: tie AI-led growth experiments to EM client communications
+
+**Client Account Actions (tied to renewal windows)**
+- **Brex**: George drafting full rescope proposal for Marcel review; 1.5-hour call today confirmed $480K renewal expected in 2 weeks; budget is not a concern for them
+- **Ramp**: Andi to lead multi-threading effort to George (decision-maker); Victoria is positive but lacks budget authority; clear requirements from Ramp on 2-month conversion path
+- **Capital One**: Urgent outreach to new structure post-acquisition; George coordinating via back-channel intro to content team lead; timing favors GrowthX (contract signed, auto-renews, acquisition creates stakeholder distraction)
+- **Turnstile**: Two-week no-cost extension approved (no billing if no conversion); if converts, bill retroactively from extension start; 14 pieces this week, 5 per week thereafter; momentum positive
+
+**Megan's Role (conversation pending)**
+- Kyle to have direct conversation with Megan on appetite for elevated EM role (strategic custom accounts vs. transactional ticket response)
+- If she takes strategic role, consider successor for ticket/ops work
+- Role tied to upsell strategy leadership and deeper client engagement
+
+**Contract & Meeting Model (transparency required)**
+- New client contracts specify bi-weekly meetings (vs. weekly in Sprint)
+- Teams must explicitly communicate this during Pod transition to avoid perception of service cliff
+- Bridget to confirm contract language; Tyler to ensure all handoff docs include bi-weekly cadence
+- Bi-weekly format invitation to deepen agendas (vs. set-and-forget meetings)
+
+**Operational Improvements (in flight)**
+- Matthew: provide detailed Time Doctor editing data report by next meeting; investigate Atlas admin reports API
+- Ella: coordinate SF all-hands week agenda; drive Client Ops accountability with Kirkland's team (5-week ticket queue blocker)
+- William/Ada: schedule Marcel account check-ins; pre-record Loom for each strategic EM update so Marcel can consume in advance and attend Pod health call for team coaching
+
+**Process Clarity Needed (resolved in call)**
+- Turnstile extension terms clarified: two weeks at no cost, billing on conversion applies retroactively from day 1 of extension
+- Capital One timing: acquisition timing actually helps GrowthX (contract already signed and auto-renews; new buyer won't have time to renegotiate in next 2 weeks)
+
+## Open Questions
+
+**Account-Level Clarity**
+- **Ramp**: Why did decision-maker (George) become invisible after Victoria became contact point in June (when Luke left)? What should have happened differently in multi-threading strategy?
+- **Ramp reporting**: How do we quantify AI visibility progress (current: anecdotal screenshots) into a clear ROI narrative that justifies 12-month contract to budget-holder?
+- **Kathy's next role**: Is she staying in Sprint long-term, or will William evaluate moving her as part of team restructure?
+- **Megan's timeline**: When should she transition into strategic EM role (if she's interested)?
+
+**Operational Gaps**
+- **Editing variance**: Why does editing time range from 8 minutes (Felix on monograph) to 3 hours (Lawrence on Rimkus)? What's the workflow difference?
+- **Client Ops queue**: Why are tickets sitting 5 weeks? Is it prioritization, capacity, or process friction?
+- **Turnstile decision timeline**: What's their realistic conversion window (currently in 2-week extension, 14 pieces plus weekly content ongoing)?
+
+**Strategic Alignment**
+- **AI-led growth + engagement**: How explicitly should EMs weave GrowthX's AI-led growth experiments into client conversations?
+- **Marcel's availability for accounts**: Which accounts get Marcel's time? On what cadence? (Current: ad-hoc scheduling; Ella wants explicit pre-recorded Loom + Pod health call model)
+- **SF all-hands week utilization**: What conversations/decisions require in-person time? (Ella pushing for explicit calendar holds now vs. ad-hoc scheduling during the week)
 
 ## Key Topics
 
-### Publishing Team Stability and Automation
-Suleiman, the sole publishing specialist, was rumored to be leaving due to burnout from manual workload. The team confirmed he's staying after a direct conversation. Engineering support for automations is critical to prevent future attrition.
+### Publishing Team Stability & Automation Backlog
+**Context**: Suleiman is the sole publishing specialist. Rumor circulated he was leaving due to burnout.
+**Outcome**: Matthew confirmed directly with Suleiman — he is staying. However, burnout risk remains real. Engineering support for publishing automations is critical to prevent future attrition and reduce manual workload.
+**Owner**: Matthew to follow up with Suleiman on automation roadmap and workload improvements.
 
-### Editing and Production Efficiency
-Time Doctor data shows average editing time of 1.5 hours per deliverable. Bright spots exist (Felix at 8-24 minutes on monograph), but problem cases (Lawrence at 2.5-3 hours for Rimkus) indicate pipeline issues. Long editing sessions cause fatigue and errors.
+### Editing Efficiency & Quality Issues
+**Data**: Time Doctor reveals average editing time is 1.5 hours per deliverable.
+**Variance**: Felix on monograph averages 8–24 minutes (best practice). Lawrence on Rimkus averages 2.5–3 hours (problem case).
+**Root causes**: Pipeline inefficiencies, brief context switching, fatigue accumulation (3-hour sessions error-prone).
+**Next step**: Matthew to provide detailed Time Doctor report by next meeting; investigate Atlas admin reports API for better data slicing.
 
-### Client Ops Ticket Backlog
-Tickets sitting up to 5 weeks in queue. Kirkland's team is overloaded. Ella taking on dotted-line accountability to drive prioritization and visibility across teams.
+### Client Ops Ticket Backlog & Accountability
+**Problem**: Tickets sitting 5+ weeks in queue. Kirkland's team overloaded.
+**Solution**: Ella taking on dotted-line accountability to drive prioritization and cross-team visibility.
+**Target**: Clear ticket SLAs and ownership model; weekly reporting.
 
-### Engagement Manager Capacity Planning
-Current model: EMs manage $1.5M book ramping to $1.7M by year end. Pod EMs start at 3 accounts, ramping to 5. Sprint EMs at 4 accounts flat. Need one new EM every 6 weeks to match 80% conversion rate.
+### Engagement Manager Capacity Model (Locked)
+**Pod model** (12-week strategic engagements): EMs start 3 accounts, ramp to 5 by year-end.
+**Sprint model** (2-month proof-of-concept): EMs manage 4 accounts flat.
+**Revenue assumption**: $1.5M per EM (current), ramping to $1.7M by year-end.
+**Hiring cadence**: 3 EMs needed immediately; then 1 EM every 6 weeks (2-month lead time).
+**Team composition**: Excess Pod EMs will move into lead roles to create flatter structure.
+**Contingency**: Daniel (finance) objecting to near-term hiring; Bridget's plan assumes hiring ASAP. If capacity holds, can push start to April.
 
-### Megan Role Discussion
-Megan's skills better suited for strategic custom accounts (like Liz) than ticket response work. Kyle to have direct conversation about her appetite for elevated EM role with leadership responsibilities on upsell strategy.
+### Megan's Role: Strategic vs. Transactional
+**Issue**: Megan's skills better suited for strategic custom account leadership (like Liz) than reactive ticket response.
+**Decision pending**: Kyle to have direct conversation on her appetite for elevated EM role with upsell strategy responsibility.
+**Success metrics**: If she moves strategic, who backfills operational/ticket work?
 
-### Upsells and Pricing
-Sunbit requesting website build (similar to Ramp). No programmatic process exists for scoping/pricing upsells. Andy to create one-pager outlining asks, solutions, and recommended pricing for Marcel's approval.
+### Upsell Process & Pricing Gap
+**Trigger**: Sunbit requesting website build (similar to Ramp ask).
+**Problem**: No programmatic upsell process exists (scoping, pricing, approval).
+**Solution**: Kyle to create one-pager outlining ask, GrowthX solution, recommended pricing.
+**Andi's role**: Outline scenarios and questions for internal alignment; forward to Marcel for approval.
+**Principle**: All upsells require Marcel sign-off before external pricing quoted.
+**Integration**: Connect AI-led growth experiments to EM client communication strategy.
 
-### Client Account Updates
-- **Brex**: Positive energy, $480K renewal expected in 2 weeks. George drafting rescoping proposal. Capital One acquisition creates uncertainty but timing favors GrowthX (contract already auto-renews).
-- **Ramp**: Progress positive but lacking decision-maker (George) engagement. Must multi-thread to VP level.
-- **Turnstile**: Two-week no-cost extension granted. Content creation continues; billing resumes if they convert.
-- **Capital One**: Acquisition risk flagged. Aggressive outreach to new stakeholders recommended.
+### Client Account Renewal & Risk Status
+- **Brex** (Yellow → Green): $480K renewal, closing in 2 weeks. George had 1.5-hour call confirming positive energy; budget is not a concern. Full rescope proposal being drafted for Marcel review. Capital One acquisition creates nominal risk but contract is auto-renew (favorable).
+- **Ramp** (Yellow): Positive engagement momentum; clear 2-month conversion requirements from them. Problem: decision-maker (George, VP) has not been multi-threaded. Victoria (current contact) is positive but lacks budget authority. Andi to lead multi-threading effort; consider Marcel involvement if first approach fails.
+- **Turnstile** (Yellow): Two-week no-cost extension approved. Team delivering 14 pieces this week, then 5 per week during extension. Billing retroactively applies if conversion happens. Client messaging: positive, momentum building.
+- **Capital One** (Red → Yellow): Acquisition announcement creates stakeholder flux but actually helps GrowthX (contract signed, auto-renews post-acquisition, new buyer won't have time to renegotiate). George coordinating back-channel intro to new content team lead. Urgent need to map new structure and secure renewal conversation before compliance freeze hits.
 
-### Contract Changes
-New contracts specify bi-weekly client meetings (vs weekly). Team cautioned to maintain service perception during Sprint-to-Pod transitions.
+### Contract Model Change: Bi-Weekly Meetings
+**Change**: New contracts specify bi-weekly client meetings (vs. weekly in Sprint).
+**Risk**: Perception of service cliff during Sprint-to-Pod transition.
+**Mitigation**: Teams must explicitly communicate cadence change and emphasize depth-over-frequency (fewer but richer meetings). Bridget to confirm contract language; Tyler to include in handoff docs.
+**Opportunity**: Invitation to review agendas and ensure every bi-weekly is high-value (not set-and-forget).
 
 ## Action Items
 
-### Matthew Panzarino
-- Provide detailed Time Doctor data report on editing times by next meeting
-- Investigate Atlas admin reports API accessibility for better data slicing
-- Follow up with Suleiman on automations and workload improvements
-- Participate in account and EM shuffle with Bridget post-meeting
+### Matthew Panzarino (Chief Content Officer)
+- Provide detailed Time Doctor report on editing times, variance analysis (why 8 min vs 3 hours?), and recommendations
+- Investigate Atlas admin reports API accessibility for better data slicing by department/account
+- Follow up with Suleiman on automation roadmap and workload pressure mitigation
+- Account/EM shuffle post-call with Bridget (finalize pod/sprint assignments)
 
-### Kyle Gaudreau
-- Have direct conversation with Megan to clarify role fit and appetite for strategic engagements
-- Prepare one-pager outlining upsell client requests, solutions, and recommended pricing
-- Connect AI-led growth experiments with engagement managers' client communications
+### Kyle Gaudreau (VP Customer Growth)
+- Direct conversation with Megan on appetite for elevated EM role (strategic custom accounts + upsell strategy leadership)
+- Create upsell one-pager: client requests, GrowthX solutions, recommended pricing (examples: Sunbit website build, Ramp additional services)
+- Map how AI-led growth experiments integrate with EM client communication strategy
+- Follow up on Megan's decision and back-fill planning (if she moves strategic, who owns ops/tickets?)
 
-### Andi Bailey
-- Outline upsell scenarios and questions for internal alignment and Marcel approval
-- Coordinate meeting with Jason in SF to lock down drip campaign content calendar
-- Lead client engagement to secure decision-maker contact at Ramp
-- Collaborate with Kyle and Marisol on team prioritization strategies
+### Andi Bailey (Director, Content Strategy)
+- Outline upsell scenarios and Q&A framework for internal alignment
+- Multi-threading at Ramp: lead initiative to secure regular check-ins with George (VP, decision-maker); Victoria is current contact but lacks budget authority
+- Coordinate drip campaign content calendar with Jason Gong in SF
+- Partner with Kyle and Marisol on team prioritization strategy (especially ticket queue SLAs)
 
-### Bridget McGillivray
-- Share headcount and capacity plans with leadership
-- Coordinate with William and George on EM assignments
-- Review and confirm contract terms (bi-weekly meetings, auto-renewal communication)
-- Facilitate discussions with Daniel and Kirkland on Client Ops priorities
+### Bridget McGillivray (VP Operations)
+- Finalize and share headcount/capacity plan with leadership (including contingency if hiring pushes to April)
+- Coordinate EM assignments with William and George (pod/sprint shuffle)
+- Confirm contract language for bi-weekly meeting cadence and auto-renewal communication with Tyler
+- Facilitate Client Ops accountability discussion with Daniel (finance) and Kirkland (ops lead) on ticket SLA targets
 
-### William Leborgne
-- Confirm with Turnstile client the terms of two-week extension (no immediate cost, billing on conversion)
-- Coordinate with Ada for Marcel presentation scheduling during SF visit
-- Continue pushing Turnstile toward conversion with 14 pieces this week plus weekly deliveries
+### William Leborgne (Sprint Delivery Lead)
+- Confirm with Seema (Turnstile) the extension terms: 2 weeks at no cost for review + content creation; retroactive billing if conversion
+- Coordinate with Ada (content) on Marcel presentation scheduling during SF visit week (high-touch Turnstile engagement)
+- Execute Turnstile content delivery: 14 pieces this week, 5 pieces weekly during extension period
+- Schedule explicit check-ins with Marcel (pod accounts): pre-record Loom for each strategic update, share in advance, invite Marcel to Pod health call
 
-### George Haikal
-- Draft detailed Brex rescoping and renewal plan for Marcel's review
-- Assist William with client engagement planning and Marcel sessions
-- Continue outreach to Capital One's new structure to identify content team contacts
-- Research ramp decision-maker engagement strategy
+### George Haikal (Chief of Staff)
+- Draft Brex rescoping and renewal strategy for Marcel review (tie to 1.5-hour call with John confirming budget and scope priorities)
+- Capital One post-acquisition: map new stakeholder structure, secure intro to content team lead (back-channel contact), identify renewal contact before compliance freeze
+- Outline for William: Ramp decision-maker engagement strategy (why George became invisible, what to learn, Marcel involvement?)
+- Support William on client engagement planning and Marcel session scheduling for high-touch accounts
 
-### Ella Dillon
-- Coordinate meeting agendas for SF all-hands week to maximize in-person impact
-- Support team on timelines and reporting schedules for client engagements
-- Drive Client Ops accountability through dotted-line relationship with Kirkland's team
+### Ella Dillon (VP People & Operations)
+- Coordinate SF all-hands week agenda: identify which decisions/conversations require in-person time; calendar holds now (vs ad-hoc during week)
+- Support team on client engagement timelines and Marcel availability coordination
+- Drive Client Ops accountability: dotted-line ownership with Kirkland's team on ticket queue SLAs and prioritization (current state: 5+ weeks sitting)
 
 ---
 
 ## Full Transcript
 
-**William Leborgne:** What's up?
+### Opening: Suleiman's Status (False Alarm → Confirmed Staying)
 
-**Kyle Gaudreau:** What's going on, man?
+**Kyle Gaudreau:** So the TLDR is, Talal and I were diagnosing some reporting stuff. And I was impressed by how deep Suleiman's knowledge goes, asking myself why we haven't leveraged him more. Then Talal mentioned Suleiman's leaving, and it hit me—he's our only publishing specialist. This would be a huge problem.
 
-**William Leborgne:** How goes it?
+**Matthew Panzarino:** I don't blame him for considering it. He's massively overworked. Automations needed to be in place long ago.
 
-**Kyle Gaudreau:** Pretty good, you know, been a crazy week, but what week isn't? But, you know, overall good?
+**Ella Dillon:** Is anyone on this call already aware of this?
 
-**William Leborgne:** What week isn't? Yeah. Goodness gracious.
+**Andi Bailey:** I just reached out to him now.
 
-**Kyle Gaudreau:** Especially this. Well, the short ones. The short ones especially.
+**Matthew Panzarino:** I'll follow up with everyone so we know about departures in advance going forward.
 
-**William Leborgne:** The short ones are harder, that's for sure.
+*(Note: Matthew later confirmed with Suleiman directly that he is staying. However, burnout risk and automation backlog remain critical.)*
 
-**Matthew Panzarino:** Yeah.
+### Editing Efficiency Data (Matthew's Update)
 
-**Kyle Gaudreau:** I see you're still in your cozy cabin.
+**Matthew Panzarino:** I'll have a full Time Doctor report by next meeting. Early data shows a mean of about 1.5 hours per deliverable for editing alone (not including atlas pipeline or logistics).
 
-**William Leborgne:** I'm never leaving, man. I am never leaving this. No, honestly, like, I. I really. I really hope. We've been. We talked about this when I was in sf, but we've been looking now for, I don't know, like, four months to buy a place, and it's just. We're just not. It's not hitting home yet, so we haven't found a winner, so it's. It's frustrating.
+**Variance breakdown:**
+- **Best case:** Felix on monograph (8, 9, 12, 24 minutes per piece across the week)
+- **Good case:** New editor Igor on augment code (37 min to 1 hr 39 min as he's ramping, learning standards)
+- **Nightmare case:** Lawrence on Rimkus (2.5–3 hours per piece due to quality pressure and pipeline friction)
 
-**Kyle Gaudreau:** Yeah. I recall my. Our own search when we did that. I'm trying to remember how many offers we put in now. I think this house I'm in now is the 13th.
+**Matthew (continued):** The mean aligns with what I expected. I'm not shocked because I talk to folks regularly. This data just confirms perception vs. reality—people think editing takes an hour, but Time Doctor shows 2.5 hours.
 
-**William Leborgne:** Dang.
+**William Leborgne:** At my last company using Air Ops, freelancers averaged ~48–49 minutes on editing alone. What drove the difference?
 
-**Kyle Gaudreau:** Yeah.
+**Matthew:** Our deliverables are more complex (Biologica articles take longer than monographs). Some editors aren't automation-savvy and lag on pipeline understanding. Some clients are just harder. This data lets us identify bright spots and problem areas and drill down on root causes.
 
-**Ella Dillon:** Yeah.
+**Matthew (continued on visibility gaps):** I'm building a Time Doctor API dashboard to slice data in multiple ways—we need to see who hasn't tracked, why, and where the pipeline is breaking. I also need Atlas admin reports API access so I can query which accounts have zero Atlas activity this week, who's still producing outside the pipeline, etc. Currently, I have to manually ask.
 
-**Kyle Gaudreau:** And, like, a ridiculous amount of houses we saw that we didn't offer, obviously.
+**Ella Dillon:** Two questions: (1) Does the team know when to escalate if the pipeline is bad?
 
-**William Leborgne:** Dang. Yeah, that's. That's nuts.
+**Matthew:** Yes. We review the escalation rubric every production team meeting.
 
-**Ella Dillon:** Hey, guys. I have a new interview tactic to test people and sort of their ability to handle things. My puppy was in surgery. Had surgery last week, and I thought. I put myself on mute.
+**Ella Dillon:** (2) Where are we on team cohesion around quality standards and care? Do they feel as horrified as you do if something slops through to the customer?
 
-**Andi Bailey:** And.
+**Matthew:** It varies by tenure. Longer-tenured folks get it (why are you even telling me?). Newer folks, I'm establishing standards. Most of the team gets it. I don't see wanton negligence. Where we'll see improvements is by fixing processes—when someone spends 2.5–3 hours editing, exhaustion sets in and things slip. That exhaustion often comes from Atlas inefficiencies (e.g., 40 links per piece to check deeply when the pipeline delivers bullshit link sourcing).
 
-**Ella Dillon:** And my puppy was licking her wound. I wasn't on mute, and I started yelling at my puppy to stop licking.
+**Ella Dillon:** Got it. And just to advertise: I'm meeting with Daniel and Kirkland tomorrow about Client Ops prioritization. Kirkland is dotting-line to me so we can drive focus. Currently, tickets sit 5+ weeks in queue because Kirkland takes them, gets overloaded, then hands them off late.
 
-**Kyle Gaudreau:** Can you click this and share it, please?
+**Andi Bailey:** This is real. EMs raise it constantly in one-on-ones. Unless Panzer or I ping the linear ticket and escalate it as urgent, it gets tossed in backlog.
 
-**Ella Dillon:** She handled it, Matt. I'm like, I'm such a big fan. Like, so instead of being like, what the hell is just happening right now?
+**Matthew (example just before call):** I posted in production asking if anyone's still generating content outside Atlas. Jaisal's like, yeah, the pipeline's still a mess. Linear ticket is 9 weeks old. Marcus somehow got wind and is helping, but he has other things on his plate. That's the visibility gap I need to solve.
 
-**William Leborgne:** Like, she.
+**Ella Dillon:** The way we help them help us is by being clear and prioritized. I'm going to gather all our needs, make them explicit and prioritized, and drive accountability.
 
-**Ella Dillon:** Like, she was, like, quick on it. She built. Anyway, it was. I was like, I should just start doing that on purpose. Like, just start randomly yelling. Let's see what happen.
+### Strategy Sprint Quality Issues (Post-Exit Reviews Needed)
 
-**William Leborgne:** Incredible.
+**Andi Bailey:** Strategy Sprint does one review of clients/pipelines and calls them done. They're not updating articles or checking if pipelines still work as calibration changes happen. Cresta's a good example—it just exited Strategy Sprint, still taking a long time to edit, and the product team just weighted in on all Cresta's articles, so we have to redo everything. Kirkland looked at the pipeline 4–5 weeks ago, which is an eternity in Sprintland.
 
-**Ella Dillon:** So, anyway, that's your comedy for the moment.
+**Matthew:** At minimum, we need a two-week-out audit: current state, time to delivery, production-readiness. And a tight loop week-to-week: what improvements? What's the standard of good? I'm making this promise to Sprint EMs in one-on-ones—you guys figure out how to deliver on it.
 
-**William Leborgne:** I know you had another dog that was going through surgery, an older dog. How'd that go?
+### Engagement Manager Capacity Model (Bridget's Presentation)
 
-**Ella Dillon:** Oh, it's not good. She. She most likely has cancer, so they did a big biopsy, but it wasn't a tumor. It was just. I don't want to gross you guys out. Yeah. But anyway, apparently goldens have cancer shows up like this, where it's, like, in your blood vessels. Anyway, so she's under my feet right now. Yeah. I did yell at her, though, so.
+**Bridget McGillivray:** Let me share my screen. I've split Pod and Sprint because the models are different.
 
-**William Leborgne:** Yeah, she's probably on the other side of the house just like, thank God it's not me.
+**Sprint EMs:** 4 accounts each, flat across the year. Current headcount: 5; need 1 more.
 
-**Ella Dillon:** Yeah. Anyway, figured I'd share the humor. Hi, Andy.
+**Pod EMs:** Start at 3 accounts, ramp to 5 by year-end. Revenue assumption: $1.5M per EM now, ramping to $1.7M by year-end (goal is closer to $2M but team is still green). Current: too many EMs for the volume. Plan: move excess EMs into lead roles (flatter structure). Pod EMs hiring urgent now.
 
-**Bridget McGillivray:** Hello.
+**Director-level:** Assuming Megan moves into strategic role. But Kyle to confirm her appetite first.
 
-**William Leborgne:** Hey.
+**Sprint/Pod distinction on hiring:** 2-month lead time (hire in April to support June client ramp). If the team confirms we're okay until then, we can push non-urgent hiring from immediate to April.
 
-**Andi Bailey:** I'm here.
+**Matthew:** Just want to verify book of business numbers for complexity rating. Some accounts are 80K, others are 8K—makes capacity planning tricky.
 
-**Bridget McGillivray:** I'm just eating Lunch.
+**Bridget:** Revenue is the clearest metric. The range is wide, but it's more straightforward than complexity scores.
 
-**Kyle Gaudreau:** Thanks for joining us from the dungeon.
+**Matthew:** Understood. I'm shuffling accounts post-call and will share revised assignments.
 
-**Bridget McGillivray:** I know I haven't dealt with it.
+### Turnstile Extension Terms (Clarified)
 
-**Kyle Gaudreau:** No, it doesn't look bad.
+**William Leborgne:** Seema is asking: is the two-week extension for review of existing content, or do we keep producing 5 blogs/week and not bill?
 
-**Bridget McGillivray:** Falling low on the priority list these days. What are we waiting for? Oh, Panzer. Kyle, what's this on Suleiman? I had the first I've heard of that.
+**Bridget:** Two weeks at no cost for content creation. If they convert, we bill retroactively from day 1 of extension (aligns with contract dates, avoids amendment hassle).
 
-**Ella Dillon:** I didn't know that either.
+**Matthew:** They should see that as additional confidence: new content, new wins. That builds the case.
 
-**Kyle Gaudreau:** Did I just break news that no.
+**William:** We're delivering 14 pieces this week, then 5/week during extension. Messaging from Seema is positive. Andrew (content) is great and keeping pace.
 
-**Matthew Panzarino:** One was aware of?
+### Brex Renewal & Capital One Acquisition Risk (George's Update)
 
-**Ella Dillon:** Oh sure you did. Yeah.
+**George Haikal:** Had a 1.5-hour call today with John (Brex stakeholder). Very positive energy. Budget is not a concern. He asked directly: out of 10, how's engagement? He said we're pretty much the only people who can solve the non-content parts. I'll draft full rescope for Marcel review tomorrow, plus an hour with Marcel to run through it.
+
+**Status:** Yellow but doable. Clear path to close.
+
+**Capital One acquisition:** Announcing a back-channel intro (my friend who sold a large contract to Brex). Already messaged John and Alex (who signed our check) asking for intel on changes. The timing is actually favorable for GrowthX: contract is already signed, auto-renews, and the new buyer won't have time to renegotiate before the renewal window.
+
+**George (Ramp issue - bigger strategic question):** Marcel and I were on kickoff and initial calls. Goal was to loop George (their VP, decision-maker) back in. But it wasn't clear from the start. Engagement felt driven by Victoria.
+
+**Andi Bailey:** That was Marcel's stated goal. I thought he was bringing George back in.
+
+**George:** Didn't feel clear. But here's the real issue: we're showing them anecdotal screenshots of prompt influence on their AI visibility. If I put myself in their shoes, how do I communicate this to the person who signed the check to justify a 12-month contract? Right now, there's no quantifiable story.
+
+**William:** She said what you're sharing is good. That was her response.
+
+**George:** To me, that's a yellow flag. No one I've worked with today has decision-making authority to quantify this clearly to the budget-holder. It feels like an experiment mindset, not a conversion mindset.
+
+**Bridget:** Should we put together a proposal with all the screenshots showing our wins?
+
+**George:** We can, but the work is so nuanced. It's harder to quantify than a standard reporting metric. We have two more months to figure this out and talk to their George.
+
+### Ramp Multi-Threading (Clear Gap)
+
+**Andi Bailey:** Victoria likes us but isn't the decision-maker. We need regular check-ins with George (their VP). At original renewal, Victoria said she'd renew but doesn't have budget.
+
+**William:** George didn't mention this until today. We haven't connected with their George. We should write to Victoria and ask for George's time.
+
+**George Haikal:** Why did George become invisible after Luke left in June? Should we use Marcel to approach George again, or is there a reason we deferred to Victoria?
+
+**Andi Bailey:** Luke was the driver. When he left in June, Victoria owned it, and nobody multi-threaded. Part of Sprint's goal was more multi-threading, but they've set up barriers. We thought Ramp was healthy until we asked for more money.
+
+**Kyle Gaudreau:** Luke was the original point of contact, not Victoria.
+
+**William:** We need to take this offline and learn from the last approach. Let's design a better multi-threading strategy.
+
+### Marcel's Account Involvement & SF All-Hands Coordination
+
+**Ella Dillon:** Marcel was very positive about Ada's (Turnstile) content strategy. But we didn't schedule explicit times for account reports. We should coordinate: when will you send the thing? What call should Marcel attend? Probably just one if customer timing allows.
+
+**Ella (continued):** For Pod EMs too—if an EM is presenting strategy or competitive research, have them pre-record a Loom, share with Marcel in advance, and invite him to the Pod health call. That way the team benefits from his coaching in a focused way. He's already said he prefers to consume material in advance (doesn't want to randomize the team by showing up unprepared).
+
+**William:** I'll coordinate that with Ada and myself.
+
+**Ella:** SF all-hands next week. We have dinner planned, but let's maximize in-person time. Identify which decisions/conversations need face-to-face, calendar them now vs. ad-hoc.
+
+**George:** William flies out Thursday late (10pm for board meeting). Second half of week is better for Marcel sessions if we want him. I can outline agenda.
+
+**Ella:** George, thank you. That helps.
+
+### Capital One Acquisition Strategy (Urgent Multi-Threading)
+
+**George:** Back-channel intro in progress to content team lead. Already messaged John and Alex for intel. Any past tactics for acquisitions beyond mapping new structure and current stakeholders?
+
+**Bridget:** Contract is already signed and auto-renews. They won't disclose acquisition details for two weeks (public company rules). Prime timing—nobody knows anything yet.
+
+**Ella:** Get it closed before compliance freeze. If they order a spend freeze, we're stuck.
+
+**Bridget:** Contract is signed. Just needs the seven-day mark to hit, then it auto-renews. They'd have to actively opt-out.
+
+**George:** Confirmed—they must actively opt out.
+
+**Ella:** If their Joe stays on board, all he has to do is not raise a flag. We should be safe.
+
+### Bi-Weekly Meeting Model Change (Contract Language & Risk)
+
+**Bridget (announced):** New contracts specify bi-weekly meetings, not weekly. All new Pod contracts use this.
+
+**Andi Bailey:** Does it clarify that at the end of Sprint? Sprint should communicate this: when you transition, it'll be bi-weekly.
+
+**Bridget:** Yes, it's in phase two docs. Double-check contract language. Tyler will include in handoff.
+
+**Ella:** Watch for perception of service cliff. If they suddenly see half the face time, but we cut content, that's bad. All of sudden they 10x spend. Be flexible if they need more touches. But also: make every bi-weekly meeting deeply valuable. Maybe we reduce frequency but increase agenda density.
+
+**George:** Do we explicitly bring up the change to them?
+
+**Bridget:** Yeah, best practice. Otherwise if they don't read the contract, they might cry foul at renewal.
+
+**William:** Acquisitions take forever. Even after close. So timing is actually our friend here (Capital One).
 
 **Kyle Gaudreau:** Oh, so the TLDR is. Talal and I, we've been diagnosing some stuff with reporting. Trying to get like, oh, this looks a little weird what's going on here? Instead of just asking questions. And I'd just been like, wow, the way he's answering these questions. I'm like, this dude is like way deeper than I thought. Like why are we having him do all this stuff? And he's like, yeah, you know for sure. He seems amazing. It's too bad he's leaving. And that was. Yeah, I don't know.
 

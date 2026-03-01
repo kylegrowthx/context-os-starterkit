@@ -1,6 +1,6 @@
 # Index: knowledge/seo-aeo/
 
-> 19 files in `knowledge/seo-aeo/`
+> 20 files in `knowledge/seo-aeo/`
 
 See [README.md](README.md) for an overview.
 
@@ -10,6 +10,7 @@ See [README.md](README.md) for an overview.
 | [guides/buyer-evaluation-prompts-study-guide.md](guides/buyer-evaluation-prompts-study-guide.md) | study guide |
 | [guides/prompt-writing-methodology.md](guides/prompt-writing-methodology.md) | guide |
 | [keyword-optimization-clustering-study-guide-v1.md](keyword-optimization-clustering-study-guide-v1.md) | study guide |
+| [page-level-scoring-methodology-v1.md](page-level-scoring-methodology-v1.md) | methodology |
 | [prompt-taxonomy-and-ontology-v1.md](prompt-taxonomy-and-ontology-v1.md) | guide |
 | [reseo-aeo/brand-evaluation-research-analysis-v1.md](reseo-aeo/brand-evaluation-research-analysis-v1.md) | research |
 | [reseo-aeo/buyer-evaluation-research-notes.md](reseo-aeo/buyer-evaluation-research-notes.md) | research |

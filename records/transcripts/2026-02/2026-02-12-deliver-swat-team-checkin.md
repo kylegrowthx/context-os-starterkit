@@ -4,23 +4,31 @@
 date: 2026-02-12
 time: 22:30 UTC
 duration: 70 minutes
-organizer: bridget@growthxlabs.com
-participants: William Leborgne, Andi Bailey, Kyle Gaudreau, Ella Dillon, Matthew Panzarino
+organizer: Bridget Endicott (bridget@growthxlabs.com)
+participants:
+  - William Leborgne (VP Operations)
+  - Andi Bailey (VP Client Delivery)
+  - Kyle Gaudreau (Director Engineering)
+  - Ella Dillon (Head of Delivery)
+  - Matthew Panzarino (Head of Capacity)
+attendee_count: 5
 fireflies_id: 01KGSS22E6CXW0T4NRNAM1AQSR
 transcript_url: https://app.fireflies.ai/view/01KGSS22E6CXW0T4NRNAM1AQSR
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-The core delivery team covered EM onboarding gaps, backlink vendor strategy, product integration confusion between CheckThat and OS, and capacity planning. Key decisions: deprioritize backlinks until a qualified vendor and owner emerge, escalate CheckThat/OS pricing questions to Daniel and Marcel before making client-facing moves, and immediately backfill Pamela and Yosef's capacity slots.
+Delivery leadership aligned on four critical operational issues: EM onboarding is underdeveloped and needs a 5-week structured program with practicum and graduation criteria; backlinks are deprioritized due to vendor quality issues with no internal ownership; CheckThat and OS bundling/pricing strategy requires immediate clarification from leadership before client communication; and capacity is critically tight at 79/83 slots with urgent backfill needs following Yosef and Pamela departures.
 
 ---
 
 ## Context
 
-This is the weekly "swat team" check-in for GrowthX's core delivery leadership. The team manages EM operations, client delivery quality, and internal tooling. This session happened the week of Feb 9 — a period of active investment in AI tooling (Claude Cowork), onboarding infrastructure, and CheckThat product readiness for the broader GrowthX customer base.
+The delivery swat team consists of GrowthX's senior operations leadership, responsible for EM hiring/onboarding, client delivery quality, capacity planning, and vendor partnerships. This meeting occurred during a period of significant operational pressure: capacity is at 95% utilization, two key team members recently departed, CheckThat is being prepared for broader customer adoption, and Claude Cowork (AI automation tool) was newly deployed for content strategy work. Bridget Endicott (organizer, Chief Product Officer) and George (onboarding lead) were absent but their work—particularly George's initial onboarding framework and Bridget's capacity model—was central to discussion.
 
 ---
 
@@ -35,6 +43,49 @@ This is the weekly "swat team" check-in for GrowthX's core delivery leadership. 
 **To CheckThat:**
 - Internal confusion about how CheckThat and OS will bundle/price. Team needs Marcel and Daniel to clarify before they push pricing or packaging to clients.
 - Claude Cowork is live and being adopted by EMs — William cited strong results, but privacy scoping (Slack DMs, Notion docs) requires careful governance.
+
+---
+
+## Decisions & Commitments
+
+**EM Onboarding Structure**
+- Committed to formalizing a 5-week structured onboarding program with weekly modules, clear practicum track (shadowing → sidecaring → portfolio ownership), and graduation criteria.
+- Marisol, George, William, and Andi will collaborate on this design; session scheduled for when Marisol returns.
+
+**Backlink Strategy (Final)**
+- Backlinks officially deprioritized. Default position: no backlinks offered unless client explicitly requests them.
+- If clients insist: recommend two vetted vendors with cost-pass-through model.
+- Legacy contracts with backlinks (e.g., Imabit) will be honored but phased out at renewal.
+- No single owner assigned for vendor evaluation; Kyle will investigate viable alternatives as lower-priority work.
+
+**CheckThat / OS Clarification**
+- Andi and Ella to send detailed question table to Daniel (CEO) and Marcel (likely co-founder/product lead) covering: bundling strategy, standalone vs. integrated experience, pricing tiers, packaging for different segments.
+- No client-facing positioning on CheckThat/OS until leadership clarifies strategy.
+
+**Agency Onboarding (Paid/Social Partner)**
+- Create a curated, summarized content brief rather than exposing raw proprietary docs, keyword research, or QBR decks.
+- Andi and Matthew to co-produce this brief.
+
+**Claude Cowork Governance**
+- Tool is approved for use; William reports strong results on content strategy tasks.
+- Privacy scope must be carefully defined: establish which Slack channels and Notion docs can be accessed.
+- Matthew to finalize governance and usage guidelines.
+- Best practice: summarize sessions into markdown files to prevent context window degradation and preserve work across new sessions.
+
+**Capacity Backfill**
+- Immediate action: backfill Yosef's and Pamela's slots (combined loss of 5-6 capacity units).
+- Patricia will temporarily cover editorial review for Panther accounts as a stopgap.
+- Bridget's growth trajectory (4 new hires by June) depends on aggressive OS engineering success; team skeptical this will materialize without product delivery improvements.
+
+---
+
+## Open Questions
+
+- How does Bridget's capacity growth plan (4 new hires by June) align with OS delivery timeline and engineering capacity?
+- Will OS engineering progress fast enough to justify current client ops constraints, or should GrowthX accelerate hiring of mid-level operators?
+- What are the technical/legal privacy boundaries for Claude Cowork access to Slack DMs and Notion docs?
+- Are there qualified backlink vendors that meet GrowthX quality standards, or should the team commit fully to the "no backlinks" default?
+- How will the new paid/social agency partner be managed if they don't have access to core strategy docs—what's the governance model?
 
 ---
 
@@ -53,52 +104,55 @@ This is the weekly "swat team" check-in for GrowthX's core delivery leadership. 
 
 ### EM Onboarding
 
-George created high-level onboarding materials useful for week one, but they lack job-specific tactical training. New EMs are relying on peers for process details. William and Kathy have started building Loom-based quick-reference tutorials. A dedicated session with Marisol and George is planned to formalize a 5-week onboarding program with chunked modules, graduation criteria, and a practicum track (shadowing → sidecaring → portfolio ownership).
+George created foundational onboarding materials suitable for week-one context-setting, but they lack hands-on tactical training specific to EM job functions. William Leborgne (the most recent EM hire) confirmed the gap: George's materials got him 40% of the way, but he required extensive peer support from Andi, Kyle, and others for process details. William and Kathy have begun building Loom-based quick-reference tutorials as an interim solution. The team consensus is that onboarding needs a formal 5-week structure with chunked modules (e.g., artifact building, account setup, client-facing communication), clear graduation criteria tied to readiness assessments, and a practicum track that moves candidates from shadowing → sidecaring → independent portfolio ownership. Marisol has already drafted a modular framework; next step is to formalize the practicum and graduation criteria with George, Marisol, William, Andi, and Ella.
 
 ### Backlink Strategy
 
-Current vendors (Imabit and others) are producing low-quality, potentially risky backlinks. No one on the team wants to own the vendor search. Team consensus: deprioritize backlinks entirely. If clients insist, recommend two vetted vendors with pass-through costs. Backlinks remain in some legacy contracts but are being phased out at renewal.
+Current vendors (Imabit and others) are producing low-quality backlinks with potential SEO/brand risk. No team member volunteered ownership of vendor evaluation. Team consensus: deprioritize backlinks entirely and shift to "no backlinks by default." For legacy accounts with backlinks in contracts, honor the commitment but phase out at renewal. If a client explicitly requests backlinks, recommend two pre-vetted vendors using a cost-pass-through model. Kyle acknowledged the need to investigate viable alternatives but agreed this is lower-priority work that shouldn't distract from core delivery.
 
 ### CheckThat / OS Product Integration
 
-The team is confused about how CheckThat and OS will relate — whether CheckThat is bundled into OS, whether there's a standalone CheckThat experience, and what pricing tiers look like. Ella and Andi will send a detailed table of questions to Daniel and Marcel to get clarity before making any client-facing pricing or packaging decisions.
+The team revealed a critical information gap: no one understands the product relationship between CheckThat (the standalone AI visibility tool) and OS (the broader operational system being built internally). Key ambiguities: Is CheckThat bundled into OS, or standalone? What pricing tiers exist? How will customers experience the two products? Andi and Ella committed to drafting a detailed question table for Daniel (CEO) and Marcel (product/co-founder) and will not engage clients in pricing or packaging conversations until leadership clarifies strategy.
 
 ### Agency Collaboration
 
-A new paid/social agency is onboarding. The team debated whether to give them access to content OS, QBR decks, and strategy docs. Decision: create a curated brief summarizing key strategy points instead of sharing raw files, to avoid exposing proprietary data or keyword research.
+GrowthX is onboarding a new paid/social advertising agency partner. The team debated whether to grant the agency access to content OS, QBR deck templates, strategy frameworks, and keyword research. Concern: exposing proprietary data could create liabilities and reduce competitive advantage. Decision: Andi and Matthew will create a curated summary document highlighting key strategy points the agency should understand, rather than providing raw files. This protects IP while still enabling collaboration.
 
 ### Claude Cowork Deployment
 
-William reported strong results using Claude Cowork for content strategy tasks. Kyle suggested summarizing sessions into markdown files to avoid context overload. Privacy risks: the tool reads Slack DMs and Notion docs, so channel and document scope must be carefully defined. Matthew will continue refining governance and usage guidelines.
+William Leborgne reported strong early results using Claude Cowork (Anthropic's AI collaborative workspace tool) for content strategy development. The tool solved a critical problem: traditional Claude on Chrome browser would crash during memory-intensive content strategy tasks, whereas Claude Cowork handled them reliably. Kyle suggested a best practice: at the end of each session, ask Claude Cowork to summarize key decisions and findings into a markdown file. This practice prevents context window degradation (which causes subtle output quality loss) and preserves work across sessions if the UI clears. Privacy concern flagged by Matthew: Claude Cowork reads Slack DMs and Notion docs, so the team must carefully scope which channels and documents the tool can access to prevent unintended data exposure. Matthew committed to finalizing governance and usage guidelines.
 
 ### Capacity Planning
 
-Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yosef, Pamela) cost 5-6 slots. Saskia, Kavishka, and Marisol are allocated to CheckThat projects (9 slots removed from general pool). Large accounts like Webflow and Augment consume disproportionate capacity. Patricia will temporarily cover editorial review for Panther accounts.
+Matthew Panzarino presented detailed capacity metrics: 83 total EM/CMS slots, 79 currently filled, serving 66 clients (46 strategy sprints, 20 production accounts). Two recent departures consumed capacity: Yosef (3+ slots, already reassigned) and Pamela (3 slots, creates a gap). Additionally, Saskia, Kavishka, and Marisol are assigned to CheckThat projects, removing 9 slots from the general delivery pool. Net result: the team went from a 4-slot buffer down to zero. Large enterprise accounts—particularly Webflow (Ismail 100% + Jenny 33% + Suchetta backlog) and Augment (Igor primary + Martha 33%)—consume disproportionate capacity. Bridget's growth plan assumes 4 new hires by June, but that depends on "aggressive OS engineering"—a bet the team is skeptical about. Immediate action: backfill Yosef and Pamela. Patricia will serve as a temporary editorial stopgap for Panther accounts (a 2-week fractional assignment) and eventually graduate to a third full account as she moves from CM to EM track.
 
 ---
 
 ## Action Items
 
-**William Leborgne**
-- Review Marisol's onboarding flow document and identify tactical gaps with Kathy
+**William Leborgne** (GrowthX VP Operations)
+- Review Marisol's onboarding flow document and identify tactical gaps in collaboration with Kathy
+- Validate 5-week onboarding program structure with Andi and Ella once drafted
 
-**Andi Bailey**
-- Finalize readiness checklist document and circulate for team comments before sending to Marcel and Daniel
-- Work with Matthew Panzarino to create a curated, summarized content brief for new agency onboarding
-- Set up follow-up session with Marisol and George to finalize EM onboarding structure, graduation criteria, and practicum process
-- Communicate agreed stance on backlinks to avoid recurring debate
+**Andi Bailey** (GrowthX VP Client Delivery)
+- Finalize CheckThat/OS readiness checklist and send to Marcel and Daniel with detailed questions on bundling, pricing, and packaging strategy
+- Coordinate with Ella on EM onboarding working session with Marisol and George to lock graduation criteria and practicum structure
+- Work with Matthew Panzarino to create curated content brief for new paid/social agency partner
+- Communicate agreed backlinks stance (deprioritized, two vetted vendors on request) to eliminate recurring debate
 
-**Kyle Gaudreau**
-- Investigate backlink vendor options for cost/benefit fit but don't let it disrupt higher-priority work
+**Kyle Gaudreau** (GrowthX Director Engineering)
+- Investigate backlink vendor options for cost/benefit fit, but do not prioritize over core delivery work
+- Contribute to EM training calendar planning and onboarding framework discussion
 
-**Ella Dillon**
-- Coordinate with Marisol and George on onboarding working session
-- Finalize launch readiness checklist with Andi and circulate for comments
+**Ella Dillon** (GrowthX Head of Delivery)
+- Lead coordination with Marisol and George on EM onboarding working session to formalize structure and graduation criteria
+- Finalize launch readiness checklist with Andi and circulate to team for input
 
-**Matthew Panzarino**
-- Finalize skills automation tool draft and share with team
-- Create capacity plan documentation addressing current constraints and projected backfills; circulate to stakeholders
-- Collaborate with Andi to produce a summarized content brief for agency handoff
+**Matthew Panzarino** (GrowthX Head of Capacity)
+- Finalize skills automation tool draft and share with team for feedback
+- Produce detailed capacity plan documentation (with current utilization, departure impact, and backfill timeline) and circulate to leadership
+- Work with Andi to produce curated content brief for agency partner handoff
+- Finalize Claude Cowork governance and usage guidelines including Slack/Notion privacy scoping
 
 ---
 
@@ -274,7 +328,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** And so horse.
 
-**elladillon:** The horse is beautiful.
+**Ella Dillon:** The horse is beautiful.
 
 **Andi Bailey:** Yeah.
 
@@ -362,7 +416,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Kyle Gaudreau:** Sounds good.
 
-**elladillon:** That.
+**Ella Dillon:** That.
 
 **Andi Bailey:** Okay.
 
@@ -396,21 +450,21 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Kyle Gaudreau:** Let's just bring it to this group to discuss.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
-**elladillon:** And my hope, unfortunately, we have both Bridget and George out.
+**Ella Dillon:** And my hope, unfortunately, we have both Bridget and George out.
 
-**elladillon:** Like, here was my hope, William, is that between what you and George have been Doing.
+**Ella Dillon:** Like, here was my hope, William, is that between what you and George have been Doing.
 
-**elladillon:** I know George was really, from a survival perspective, trying to put a lot of onboarding together when, you know, you joined and whatnot.
+**Ella Dillon:** I know George was really, from a survival perspective, trying to put a lot of onboarding together when, you know, you joined and whatnot.
 
-**elladillon:** I don't.
+**Ella Dillon:** I don't.
 
-**elladillon:** I don't know if we want to flag it here and then take it as a separate working session.
+**Ella Dillon:** I don't know if we want to flag it here and then take it as a separate working session.
 
-**elladillon:** But I also don't know, based on what Marisol did, what George did, where we are and.
+**Ella Dillon:** But I also don't know, based on what Marisol did, what George did, where we are and.
 
-**elladillon:** But I just thought it was the right flag because we are trying to go hire a bunch of people in your world and in Andy's pod world.
+**Ella Dillon:** But I just thought it was the right flag because we are trying to go hire a bunch of people in your world and in Andy's pod world.
 
 **William Leborgne:** Well, I can speak a little bit as, like, the most recent person to go through all this stuff.
 
@@ -484,7 +538,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **William Leborgne:** I don't think it is, but I just want to check.
 
-**elladillon:** No.
+**Ella Dillon:** No.
 
 **Kyle Gaudreau:** No.
 
@@ -512,35 +566,35 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Matthew Panzarino:** So you're starting that out there.
 
-**elladillon:** But I know that George is trying to do that.
+**Ella Dillon:** But I know that George is trying to do that.
 
-**elladillon:** So maybe what.
+**Ella Dillon:** So maybe what.
 
-**elladillon:** What we do is we bookmark this carryover for next Thursday when maybe Marisol's back and George can join and just do a quick survey of here's where we are.
+**Ella Dillon:** What we do is we bookmark this carryover for next Thursday when maybe Marisol's back and George can join and just do a quick survey of here's where we are.
 
-**elladillon:** And the only gap is how do you parse that into a five week onboarding program for someone where they have bite sized chunks that are actually actionable and the operational layer, which I don't think has ever been determined, which is great.
+**Ella Dillon:** And the only gap is how do you parse that into a five week onboarding program for someone where they have bite sized chunks that are actually actionable and the operational layer, which I don't think has ever been determined, which is great.
 
-**elladillon:** You have all this content to go through, but you're going to go ride sidecar with this em.
+**Ella Dillon:** You have all this content to go through, but you're going to go ride sidecar with this em.
 
-**elladillon:** Or all of these different rules, roles.
+**Ella Dillon:** Or all of these different rules, roles.
 
-**elladillon:** And then this is sort of like, here's how we're going to operationalize the learning and your integration to the team and when and how you graduate to get a.
+**Ella Dillon:** And then this is sort of like, here's how we're going to operationalize the learning and your integration to the team and when and how you graduate to get a.
 
-**elladillon:** A portfolio of customers?
+**Ella Dillon:** A portfolio of customers?
 
-**elladillon:** I don't think that's been formalized.
+**Ella Dillon:** I don't think that's been formalized.
 
 **William Leborgne:** Yeah.
 
-**elladillon:** And so I think that's the.
+**Ella Dillon:** And so I think that's the.
 
-**elladillon:** That's the next go do of.
+**Ella Dillon:** That's the next go do of.
 
-**elladillon:** Great.
+**Ella Dillon:** Great.
 
-**elladillon:** We have all the content, but now we have to chunk it, come up with how we shadow sidecar things.
+**Ella Dillon:** We have all the content, but now we have to chunk it, come up with how we shadow sidecar things.
 
-**elladillon:** Inspect and then assign at the end.
+**Ella Dillon:** Inspect and then assign at the end.
 
 **Andi Bailey:** Yeah.
 
@@ -572,25 +626,25 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** So what we need is graduation criteria.
 
-**elladillon:** And the practicum.
+**Ella Dillon:** And the practicum.
 
 **Andi Bailey:** Right.
 
 **Andi Bailey:** Like.
 
-**elladillon:** How do you get to speed and work on customers without being in front of customers?
+**Ella Dillon:** How do you get to speed and work on customers without being in front of customers?
 
 **Andi Bailey:** Yeah, yeah.
 
 **Andi Bailey:** Graduation criteria across.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
 **Andi Bailey:** And evaluation for.
 
 **Andi Bailey:** For how, you know someone's ready.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **William Leborgne:** All right.
 
@@ -604,7 +658,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** And like, if we were going to do this again, we need high quality backlinks.
 
-**Andi Bailey:** So last week, Panzer, Ella and I had like a small side conversation.
+**Andi Bailey:** So last week, Matthew, Ella and I had like a small side conversation.
 
 **Andi Bailey:** The takeaway was we can't use these vendors.
 
@@ -682,43 +736,43 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Kyle Gaudreau:** But if we are, if we are saying that, you know, it's putting risks to like churn then.
 
-**elladillon:** So two things I started right there.
+**Ella Dillon:** So two things I started right there.
 
-**elladillon:** One is who was the customer?
+**Ella Dillon:** One is who was the customer?
 
-**elladillon:** Was it, who's the dinner?
+**Ella Dillon:** Was it, who's the dinner?
 
-**elladillon:** Well, okay, so did we find out who they're using?
+**Ella Dillon:** Well, okay, so did we find out who they're using?
 
 **Andi Bailey:** No, I asked and she never got back to me.
 
-**elladillon:** Okay, here's my impression.
+**Ella Dillon:** Okay, here's my impression.
 
-**elladillon:** Andy and team to confirm or deny, we can't dodge this.
+**Ella Dillon:** Andy and team to confirm or deny, we can't dodge this.
 
-**elladillon:** We don't think it's the future.
+**Ella Dillon:** We don't think it's the future.
 
-**elladillon:** We don't want to recommend it.
+**Ella Dillon:** We don't want to recommend it.
 
-**elladillon:** It is coming up like a bad penny we can't, we can't get rid of.
+**Ella Dillon:** It is coming up like a bad penny we can't, we can't get rid of.
 
-**elladillon:** And I think to be customer forward, we have to have an answer that's better, that's better than what we have today.
+**Ella Dillon:** And I think to be customer forward, we have to have an answer that's better, that's better than what we have today.
 
-**elladillon:** And I think the strategic answer is this isn't the future.
+**Ella Dillon:** And I think the strategic answer is this isn't the future.
 
-**elladillon:** Like, we want to get to the why of why you shouldn't be doing backlinks.
+**Ella Dillon:** Like, we want to get to the why of why you shouldn't be doing backlinks.
 
-**elladillon:** Because we're going to solve it with great, you know, gravity oriented content.
+**Ella Dillon:** Because we're going to solve it with great, you know, gravity oriented content.
 
-**elladillon:** But in the absence of that, if you insist upon doing this thing that is archaic as a short term win here, two vendors that we would recommend to you and we can manage it if you want, but we're going to pass through our costs or you can go manage it on your own.
+**Ella Dillon:** But in the absence of that, if you insist upon doing this thing that is archaic as a short term win here, two vendors that we would recommend to you and we can manage it if you want, but we're going to pass through our costs or you can go manage it on your own.
 
-**elladillon:** I kind of feel like that's the.
+**Ella Dillon:** I kind of feel like that's the.
 
 **Andi Bailey:** Yeah.
 
-**elladillon:** Coming up.
+**Ella Dillon:** Coming up.
 
-**elladillon:** So much gone.
+**Ella Dillon:** So much gone.
 
 **Andi Bailey:** Yeah.
 
@@ -742,11 +796,11 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** The P1 or P0 list.
 
-**elladillon:** I agree.
+**Ella Dillon:** I agree.
 
-**elladillon:** It's not a P0.
+**Ella Dillon:** It's not a P0.
 
-**elladillon:** It's just a pain in the ass.
+**Ella Dillon:** It's just a pain in the ass.
 
 **Andi Bailey:** Yeah.
 
@@ -764,13 +818,13 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** Right now.
 
-**elladillon:** Apologize.
+**Ella Dillon:** Apologize.
 
-**elladillon:** I'm trying to eat lunch.
+**Ella Dillon:** I'm trying to eat lunch.
 
-**elladillon:** So that's why I'm off camera and all the things.
+**Ella Dillon:** So that's why I'm off camera and all the things.
 
-**elladillon:** Pandra, not to put you on the spot, did you or didn't you have contacts with people you thought were less shady than the people we're using today?
+**Ella Dillon:** Matthew, not to put you on the spot, did you or didn't you have contacts with people you thought were less shady than the people we're using today?
 
 **Matthew Panzarino:** I don't.
 
@@ -780,7 +834,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Matthew Panzarino:** I wouldn't claim to be an expert on the buy side of this stuff.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
 **Matthew Panzarino:** I was really always on the sell side where people were trying to sell links on TechCrunch and we always declined.
 
@@ -850,7 +904,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** Yeah, like, valuable.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
 **Andi Bailey:** I think this is the least valuable.
 
@@ -868,9 +922,9 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Kyle Gaudreau:** Whether it's a downgrade or turn element of this and, you know, anything that has some element of that does deserve some attention.
 
-**elladillon:** So what were some of the other ones that churned just as I make my own notes?
+**Ella Dillon:** So what were some of the other ones that churned just as I make my own notes?
 
-**elladillon:** It was exact and inner.
+**Ella Dillon:** It was exact and inner.
 
 **Andi Bailey:** Well, Interwal just.
 
@@ -882,7 +936,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Kyle Gaudreau:** Yeah.
 
-**elladillon:** All right, Cool.
+**Ella Dillon:** All right, Cool.
 
 **William Leborgne:** Yeah.
 
@@ -946,33 +1000,33 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** The two seconds on the readiness checklist?
 
-**elladillon:** Two seconds are that.
+**Ella Dillon:** Two seconds are that.
 
-**elladillon:** I think there's been a lot of learnings of what we need to provide the team in advance of a product launch.
+**Ella Dillon:** I think there's been a lot of learnings of what we need to provide the team in advance of a product launch.
 
-**elladillon:** Like check that or OS or anything I had gone and created and Andy might have already started to perfect this sort of checklist just to hand.
+**Ella Dillon:** Like check that or OS or anything I had gone and created and Andy might have already started to perfect this sort of checklist just to hand.
 
-**elladillon:** You know, basically Marcel was like, hand me a good, good bill of goods, Ella, that we can kind of start running through.
+**Ella Dillon:** You know, basically Marcel was like, hand me a good, good bill of goods, Ella, that we can kind of start running through.
 
-**elladillon:** So I wanted to put something together and make it a little bit more polished than how I did it just to hand to Marcel and team before I leave town.
+**Ella Dillon:** So I wanted to put something together and make it a little bit more polished than how I did it just to hand to Marcel and team before I leave town.
 
-**elladillon:** So that if, you know, we want to go launch os March 21, we kind of have a workback plan that basically means we probably should have been starting like end of January and a bunch of things.
+**Ella Dillon:** So that if, you know, we want to go launch os March 21, we kind of have a workback plan that basically means we probably should have been starting like end of January and a bunch of things.
 
-**elladillon:** Right.
+**Ella Dillon:** Right.
 
-**elladillon:** So I wanted to make sure, from an operational standpoint, we started ticking and tying, like just the things that should.
+**Ella Dillon:** So I wanted to make sure, from an operational standpoint, we started ticking and tying, like just the things that should.
 
-**elladillon:** We should know before we launched that they could go through.
+**Ella Dillon:** We should know before we launched that they could go through.
 
-**elladillon:** Um, so I just want to flag this here.
+**Ella Dillon:** Um, so I just want to flag this here.
 
-**elladillon:** I think Andy was going to give it a little love sauce, hopefully today.
+**Ella Dillon:** I think Andy was going to give it a little love sauce, hopefully today.
 
 **William Leborgne:** Andy.
 
-**elladillon:** Because what my hope is is to wrap up a bunch of recommendations before I leave town just to give Marcel and Daniel.
+**Ella Dillon:** Because what my hope is is to wrap up a bunch of recommendations before I leave town just to give Marcel and Daniel.
 
-**elladillon:** So I wanted to kind of, even if it's not perfect, hand it off for them to read and consume before I leave tomorrow.
+**Ella Dillon:** So I wanted to kind of, even if it's not perfect, hand it off for them to read and consume before I leave tomorrow.
 
 **Andi Bailey:** Okay.
 
@@ -982,39 +1036,39 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** I will do this later as well.
 
-**elladillon:** And again, it's meant to be a thought, a thought discipline of, you know, before we launch, you know, like, even Andy and I today, we.
+**Ella Dillon:** And again, it's meant to be a thought, a thought discipline of, you know, before we launch, you know, like, even Andy and I today, we.
 
-**elladillon:** I had hoped to make a very crisp check, that pricing recommendation.
+**Ella Dillon:** I had hoped to make a very crisp check, that pricing recommendation.
 
-**elladillon:** And then all of a sudden I had this, like, reading through Marcel's handbook.
+**Ella Dillon:** And then all of a sudden I had this, like, reading through Marcel's handbook.
 
-**elladillon:** In it, he has os.
+**Ella Dillon:** In it, he has os.
 
-**elladillon:** And in that there's the implication in my mind that the pricing and packaging of OS includes check that.
+**Ella Dillon:** And in that there's the implication in my mind that the pricing and packaging of OS includes check that.
 
-**elladillon:** And then it was like, well, if that's true, if it's true, that assumption, I'm reading from his two sentences in there, all this sort of scenarios that Andy and I have been developing of like, if this do that sort of gets blown up because it's going to go away, it's just going to be bundled.
+**Ella Dillon:** And then it was like, well, if that's true, if it's true, that assumption, I'm reading from his two sentences in there, all this sort of scenarios that Andy and I have been developing of like, if this do that sort of gets blown up because it's going to go away, it's just going to be bundled.
 
-**elladillon:** So there's Some things like that that I think understandably they're not thinking about.
+**Ella Dillon:** So there's Some things like that that I think understandably they're not thinking about.
 
-**elladillon:** But for us to do the right thing right now, preferably we're thinking about and we're doing the actions right now that will ladder to what's going to be true in three months.
+**Ella Dillon:** But for us to do the right thing right now, preferably we're thinking about and we're doing the actions right now that will ladder to what's going to be true in three months.
 
-**elladillon:** So just heads up, that's the kind of thing that we're going to want to have more thought about in advance before a launch.
+**Ella Dillon:** So just heads up, that's the kind of thing that we're going to want to have more thought about in advance before a launch.
 
-**elladillon:** As an example.
+**Ella Dillon:** As an example.
 
-**elladillon:** And that's just an advertisement.
+**Ella Dillon:** And that's just an advertisement.
 
-**elladillon:** That's the second thing, with Andy's help and all your help that I'm hoping I can get some clarity on.
+**Ella Dillon:** That's the second thing, with Andy's help and all your help that I'm hoping I can get some clarity on.
 
-**elladillon:** Tomorrow's a big day.
+**Ella Dillon:** Tomorrow's a big day.
 
-**elladillon:** There's a lot of things I'm hoping to nail for tomorrow.
+**Ella Dillon:** There's a lot of things I'm hoping to nail for tomorrow.
 
-**elladillon:** I may not, I may not stick the landing.
+**Ella Dillon:** I may not, I may not stick the landing.
 
-**elladillon:** I'm just saying out loud.
+**Ella Dillon:** I'm just saying out loud.
 
-**elladillon:** But I'm gonna try.
+**Ella Dillon:** But I'm gonna try.
 
 **Kyle Gaudreau:** Right?
 
@@ -1190,39 +1244,39 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** But again yeah, but we, I'm not in the loop.
 
-**elladillon:** So it's like, I mean there, yeah, I think there and there are two things here.
+**Ella Dillon:** So it's like, I mean there, yeah, I think there and there are two things here.
 
-**elladillon:** This is why Andy and I started wrapping ourselves around the axle when we were trying to get all crisp.
+**Ella Dillon:** This is why Andy and I started wrapping ourselves around the axle when we were trying to get all crisp.
 
-**elladillon:** We thought we were going to like drop the mic on direction today.
+**Ella Dillon:** We thought we were going to like drop the mic on direction today.
 
-**elladillon:** And then all of a sudden we're like oh well wait a minute.
+**Ella Dillon:** And then all of a sudden we're like oh well wait a minute.
 
-**elladillon:** Because it could happen two ways, right?
+**Ella Dillon:** Because it could happen two ways, right?
 
-**elladillon:** Like you could have OS that has check that within it, but it's still abstracted.
+**Ella Dillon:** Like you could have OS that has check that within it, but it's still abstracted.
 
-**elladillon:** Check that is abstracted away from the customer.
+**Ella Dillon:** Check that is abstracted away from the customer.
 
-**elladillon:** It's just that OS is powered by check that but like the customer doesn't get to use it, they sure as hell don't get to have it viral and or perpetuate across their company.
+**Ella Dillon:** It's just that OS is powered by check that but like the customer doesn't get to use it, they sure as hell don't get to have it viral and or perpetuate across their company.
 
-**elladillon:** Away from OS perhaps.
+**Ella Dillon:** Away from OS perhaps.
 
-**elladillon:** But then what does that look like?
+**Ella Dillon:** But then what does that look like?
 
-**elladillon:** You know, because you can buy check that as a standalone without os.
+**Ella Dillon:** You know, because you can buy check that as a standalone without os.
 
-**elladillon:** So what happens when you buy OS with check that.
+**Ella Dillon:** So what happens when you buy OS with check that.
 
-**elladillon:** But other organizations outside of our day to day stakeholder want check that AKA that starts to expand differently.
+**Ella Dillon:** But other organizations outside of our day to day stakeholder want check that AKA that starts to expand differently.
 
-**elladillon:** It's it just we all of a sudden realize if we can answer these questions and we wanted, we wanted to debate it with all of you to make sure we were crisp about all the questions to be answered because then I want to go and tool or like queue up Daniel and Marcel to give us a point of view and to be fair they might not have thought through this yet.
+**Ella Dillon:** It's it just we all of a sudden realize if we can answer these questions and we wanted, we wanted to debate it with all of you to make sure we were crisp about all the questions to be answered because then I want to go and tool or like queue up Daniel and Marcel to give us a point of view and to be fair they might not have thought through this yet.
 
-**elladillon:** But what Andy and I didn't want to do is go happily and merrily go trigger down our way of say here's the four buckets of current customer type and here's what we're going to upsell and here's what we're going to include and here's what's going to be a saved play only to have that be stupid in three like brilliant right now stupid in three months because of the way we end up rolling out os.
+**Ella Dillon:** But what Andy and I didn't want to do is go happily and merrily go trigger down our way of say here's the four buckets of current customer type and here's what we're going to upsell and here's what we're going to include and here's what's going to be a saved play only to have that be stupid in three like brilliant right now stupid in three months because of the way we end up rolling out os.
 
-**elladillon:** So anyway that, that's the why that all of a sudden she and I are going deep on the but here what about this scenario or what about that scenario?
+**Ella Dillon:** So anyway that, that's the why that all of a sudden she and I are going deep on the but here what about this scenario or what about that scenario?
 
-**elladillon:** Because we don't want to have to unwind something that we don't have to unwind if we take a two click deeper dive right now.
+**Ella Dillon:** Because we don't want to have to unwind something that we don't have to unwind if we take a two click deeper dive right now.
 
 **Kyle Gaudreau:** Yeah.
 
@@ -1266,17 +1320,17 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Kyle Gaudreau:** It's a wrapper, right?
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
-**elladillon:** And this is where I think it's a little bit the blindly, the blind is what I want to do with Andy and you all is build this table with enough context that we provide it to them, share what we think the implications are and then like, well, that's, that's not how factually we're going to build it.
+**Ella Dillon:** And this is where I think it's a little bit the blindly, the blind is what I want to do with Andy and you all is build this table with enough context that we provide it to them, share what we think the implications are and then like, well, that's, that's not how factually we're going to build it.
 
-**elladillon:** It'll be completely different.
+**Ella Dillon:** It'll be completely different.
 
-**elladillon:** So 50 of this table is just a premise that doesn't belong.
+**Ella Dillon:** So 50 of this table is just a premise that doesn't belong.
 
-**elladillon:** But I want to give them some.
+**Ella Dillon:** But I want to give them some.
 
-**elladillon:** I think it'll be easier for them to answer our questions if they give a visual of what we're trying to understand.
+**Ella Dillon:** I think it'll be easier for them to answer our questions if they give a visual of what we're trying to understand.
 
 **Andi Bailey:** And I guess the other question that just came up for me is like, where does Pro fit?
 
@@ -1284,33 +1338,33 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** Like, will there be tiers of OS as well?
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
-**elladillon:** Yeah.
+**Ella Dillon:** Yeah.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
-**elladillon:** So I think the two actions I'll take is try and get sort of a reaction to this table.
+**Ella Dillon:** So I think the two actions I'll take is try and get sort of a reaction to this table.
 
-**elladillon:** So Andy, if you feel like you want to, if, if in your mind I should just take this, add notes and send it to Daniel and Marcel so they can just react to the detail, I can do that tonight.
+**Ella Dillon:** So Andy, if you feel like you want to, if, if in your mind I should just take this, add notes and send it to Daniel and Marcel so they can just react to the detail, I can do that tonight.
 
-**elladillon:** Do you recommend that as the next step or do you have something else you prefer to do first?
+**Ella Dillon:** Do you recommend that as the next step or do you have something else you prefer to do first?
 
 **Andi Bailey:** I mean, I think that's like this is the most basic version of this answer and I don't want us to go very far down a road that is going to like, yeah, very wrong.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
-**elladillon:** And then my ask of all of you, do not spend a ton of time on it, but for the, the launch checklist document that Andy flashed, if I could rudely ask you all just to take a gander at that this afternoon and put comments in.
+**Ella Dillon:** And then my ask of all of you, do not spend a ton of time on it, but for the, the launch checklist document that Andy flashed, if I could rudely ask you all just to take a gander at that this afternoon and put comments in.
 
-**elladillon:** Not to make you adhere to my self inflicted timeline, but I would like to get that into Marcel and Daniel's hands again next week.
+**Ella Dillon:** Not to make you adhere to my self inflicted timeline, but I would like to get that into Marcel and Daniel's hands again next week.
 
-**elladillon:** I mean tomorrow.
+**Ella Dillon:** I mean tomorrow.
 
-**elladillon:** And it doesn't mean it can't live and develop, but I want to at least make sure that any reaction, initial reactions you have are captured in there.
+**Ella Dillon:** And it doesn't mean it can't live and develop, but I want to at least make sure that any reaction, initial reactions you have are captured in there.
 
-**elladillon:** Is that too much to ask?
+**Ella Dillon:** Is that too much to ask?
 
-**elladillon:** Is that okay?
+**Ella Dillon:** Is that okay?
 
 **Kyle Gaudreau:** Should be fine.
 
@@ -1330,7 +1384,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Kyle Gaudreau:** Okay.
 
-**elladillon:** Is it still in Google right now or where is it, Andy?
+**Ella Dillon:** Is it still in Google right now or where is it, Andy?
 
 **Andi Bailey:** Yeah, it's in Google Docs.
 
@@ -1338,27 +1392,27 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** I was closing out.
 
-**elladillon:** Oh, okay.
+**Ella Dillon:** Oh, okay.
 
-**elladillon:** If you guys want.
+**Ella Dillon:** If you guys want.
 
-**elladillon:** What I can do is I can just throw it in Notion just so we do it in Notion from the get go.
+**Ella Dillon:** What I can do is I can just throw it in Notion just so we do it in Notion from the get go.
 
-**elladillon:** Do you want me to do that?
+**Ella Dillon:** Do you want me to do that?
 
 **Matthew Panzarino:** We're.
 
 **Matthew Panzarino:** Nobody on this call is allergic to Google Docs.
 
-**elladillon:** Okay.
+**Ella Dillon:** Okay.
 
-**elladillon:** Yeah, all right, all right.
+**Ella Dillon:** Yeah, all right, all right.
 
 **Matthew Panzarino:** And it'll end up in Notion anyway, but you might as well grab the comments from Docs, whatever you want.
 
-**elladillon:** All right, cool.
+**Ella Dillon:** All right, cool.
 
-**elladillon:** All right, well then just for your own expediency, especially if you already have the link, please throw any comments, any suggestions additions into it and then I'll go clean it up in Notion.
+**Ella Dillon:** All right, well then just for your own expediency, especially if you already have the link, please throw any comments, any suggestions additions into it and then I'll go clean it up in Notion.
 
 **Matthew Panzarino:** Hey, Claude, comment this up.
 
@@ -1366,15 +1420,15 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Matthew Panzarino:** I will read it, I promise.
 
-**elladillon:** Oh my God, that's brilliant.
+**Ella Dillon:** Oh my God, that's brilliant.
 
 **William Leborgne:** Cool.
 
-**elladillon:** All right.
+**Ella Dillon:** All right.
 
-**elladillon:** I don't think we answered anything, but we talked about a lot of good things.
+**Ella Dillon:** I don't think we answered anything, but we talked about a lot of good things.
 
-**elladillon:** Anything else?
+**Ella Dillon:** Anything else?
 
 **Andi Bailey:** There was one other thing on this agenda.
 
@@ -1506,27 +1560,27 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** Yeah.
 
-**elladillon:** So I do.
+**Ella Dillon:** So I do.
 
-**elladillon:** I don't want to send like any of our proprietary secret sauce.
+**Ella Dillon:** I don't want to send like any of our proprietary secret sauce.
 
-**elladillon:** So I, yeah, I like this idea of.
+**Ella Dillon:** So I, yeah, I like this idea of.
 
-**elladillon:** Here's a, like, here's a brief of what we've done.
+**Ella Dillon:** Here's a, like, here's a brief of what we've done.
 
-**elladillon:** I don't know, like a brief of sort of a tdlr.
+**Ella Dillon:** I don't know, like a brief of sort of a tdlr.
 
-**elladillon:** Tdlr.
+**Ella Dillon:** Tdlr.
 
-**elladillon:** I like that.
+**Ella Dillon:** I like that.
 
-**elladillon:** And then it can be.
+**Ella Dillon:** And then it can be.
 
-**elladillon:** Once they're onboarded, we can't wait to collaborate with them holistically.
+**Ella Dillon:** Once they're onboarded, we can't wait to collaborate with them holistically.
 
-**elladillon:** But this is like, to help them on board.
+**Ella Dillon:** But this is like, to help them on board.
 
-**elladillon:** Here's some context.
+**Ella Dillon:** Here's some context.
 
 **Andi Bailey:** Yeah, okay, cool.
 
@@ -1920,21 +1974,21 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Matthew Panzarino:** But beyond that, to be clear, Panzer.
 
-**elladillon:** I don't think she's pushing back.
+**Ella Dillon:** I don't think she's pushing back.
 
-**elladillon:** I think she's just the.
+**Ella Dillon:** I think she's just the.
 
 **Andi Bailey:** What do you call it?
 
 **William Leborgne:** The.
 
-**elladillon:** The base units are different.
+**Ella Dillon:** The base units are different.
 
-**elladillon:** You Know, like she had the way, I think the way her capacity plan, she just was formulating it differently than the way you were planning it.
+**Ella Dillon:** You Know, like she had the way, I think the way her capacity plan, she just was formulating it differently than the way you were planning it.
 
-**elladillon:** And she wanted it to be apples to apples.
+**Ella Dillon:** And she wanted it to be apples to apples.
 
-**elladillon:** So she.
+**Ella Dillon:** So she.
 
 **Matthew Panzarino:** Yeah, yeah, yeah.
 
@@ -2072,17 +2126,17 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Andi Bailey:** Yeah.
 
-**elladillon:** Out of a question.
+**Ella Dillon:** Out of a question.
 
-**elladillon:** Did you and William decide kind of like to pull Kirkland into that?
+**Ella Dillon:** Did you and William decide kind of like to pull Kirkland into that?
 
-**elladillon:** Like if you.
+**Ella Dillon:** Like if you.
 
-**elladillon:** For example, we're gonna pull, you know, add someone who already had three accounts but it was already under stress and be like, I have.
+**Ella Dillon:** For example, we're gonna pull, you know, add someone who already had three accounts but it was already under stress and be like, I have.
 
-**elladillon:** Did you guys decide to do that?
+**Ella Dillon:** Did you guys decide to do that?
 
-**elladillon:** Because that'll be one way.
+**Ella Dillon:** Because that'll be one way.
 
 **Kyle Gaudreau:** Yeah.
 
@@ -2138,7 +2192,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Matthew Panzarino:** That's the three pronged attack of getting turned style and shape for your context.
 
-**elladillon:** Okay, awesome.
+**Ella Dillon:** Okay, awesome.
 
 **Matthew Panzarino:** That's in my.
 
@@ -2212,7 +2266,7 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Matthew Panzarino:** Anyhow, I will freshen this up and ship it it so that everybody can poke at it.
 
-**elladillon:** Awesome.
+**Ella Dillon:** Awesome.
 
 **Matthew Panzarino:** That's my capacity discussion.
 
@@ -2244,14 +2298,14 @@ Total capacity: 83 slots, 79 filled, serving 66 clients. Recent departures (Yose
 
 **Matthew Panzarino:** Okay.
 
-**elladillon:** Yes, please.
+**Ella Dillon:** Yes, please.
 
 **Matthew Panzarino:** Sweet.
 
 **Andi Bailey:** Bye, guys.
 
-**elladillon:** Bye, y'.
+**Ella Dillon:** Bye, y'.
 
-**elladillon:** All.
+**Ella Dillon:** All.
 
 **Kyle Gaudreau:** Bye.

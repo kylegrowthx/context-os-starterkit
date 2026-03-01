@@ -5,42 +5,50 @@ date: 2026-02-18
 time: 17:00 UTC
 duration: 34 minutes
 organizer: tyler@growthx.ai
-participants: Marcel Santilli, Tyler Pavlas, Mark Hatton (Tines), Michael O'Connell (Tines)
+participants:
+  - Marcel Santilli (GrowthX)
+  - Tyler Pavlas (GrowthX)
+  - Mark Hatton (Tines)
+  - Michael O'Connell (Tines)
 fireflies_id: 01KH7PK49A9Q8X09WGSRB8TX4R
-meeting_link: 
+meeting_link:
 transcript_url: https://app.fireflies.ai/view/01KH7PK49A9Q8X09WGSRB8TX4R
+source: fireflies
+enriched_on: 2026-03-01 00:00 UTC
 </metadata>
 
 ---
 
 ## Summary
 
-Marcel walked Tines' revenue marketing lead (Mark Hatton) and marketing head (Michael O'Connell) through GrowthX's AI-driven content platform — architecture, methodology, and service model. Tines is an intelligent workflow automation platform expanding beyond its security SOAR roots; they're evaluating GrowthX for compounding organic growth. Key discussion points: scalability of GrowthX's service model, IP ownership, timeline to self-service, and a fractional security expert collaboration offer. The call ended positively with both sides aligned on next steps.
+Marcel presented GrowthX's AI-driven content platform architecture, service model, and scaling roadmap to Tines' Mark Hatton (revenue marketing) and Michael O'Connell (CMO). Key outcomes: Tines committed to internal evaluation of GrowthX's approach; Marcel offered GrowthX's fractional head of security for content validation; both sides aligned on next discussion around implementation timeline and IP ownership (GrowthX will open-source the Output AI framework). Partnership focus is driving organic growth for Tines' expansion beyond SOAR into sales ops, IT, and finance workflows.
 
 ---
 
 ## Context
 
-Tines is an existing or prospective GrowthX client in the B2B security/workflow automation space. They built their reputation as a next-gen SOAR (Security Orchestration, Automation, and Response) platform and are now trying to expand into sales ops, finance, and IT workflows without losing their security-first identity. Their biggest growth channel is currently word-of-mouth within the security community — they need a scalable organic content engine to reduce reliance on that. This call was a Q&A deep dive with Marcel to evaluate GrowthX's approach before moving forward.
+Tines is a prospective $10M+ ARR platform founded by former security ops leaders. Initially gained traction as a next-gen SOAR platform (replacing legacy tools like QRADAR) for security teams at major AI companies and federal clients. Strategic inflection point: expanding beyond security into sales ops, IT, and finance workflows to address TAM constraint and avoid becoming a "Swiss army knife" product. Current challenge is brand clarity — market perception of Tines as security-only limits GTM effectiveness. Word-of-mouth dominates acquisition in security vertical; they lack a scalable content engine for organic growth in adjacent markets. This call was GrowthX's deep-dive Q&A to help Tines evaluate whether partnership aligns with their expansion strategy and brand positioning goals.
 
 ---
 
 ## Relevance
 
-**To GrowthX Services:**
-- Tines is evaluating GrowthX for a content engagement targeting B2B security and IT workflow buyers
-- Mark Hatton leads revenue marketing / SEO; Michael O'Connell runs overall marketing
-- Word-of-mouth is Tines' primary lead source — they need organic content at scale to expand
-- GrowthX's 8-week strategy sprint model was explained; most clients need ongoing support, not self-service
-- Client example cited: site reaching ~1,200 clicks/day post-engagement
-- GrowthX has 90 employees: 60 in client delivery, 25 engineers from Terraform, Airbite, and similar firms
-- Command center self-service platform launches in 3–4 weeks
-- Open sourcing the Output AI framework in ~2 weeks enables API integration with Tines' own workflows
-- GrowthX's fractional head of security offered to collaborate on content review/validation for Tines
-- Tyler Pavlas praised by Marcel as critical to scaling client communications as the sole salesperson
+**To GrowthX Services (Primary):**
+- Tines is expanding beyond security-first positioning into adjacent markets (sales ops, IT, finance) — a perfect use case for GrowthX's programmatic + curated content model targeting multiple buyer personas and use cases
+- Mark Hatton (revenue marketing lead) controls demand gen, ABM, partner marketing, web, and growth — direct buyer of content services
+- Michael O'Connell (CMO, 2.5 years at Tines) evaluating at enterprise level; concerned with scaling content operations and maintaining IP
+- Word-of-mouth is Tines' primary acquisition channel in security; they have minimal organic presence in adjacent verticals
+- Recent PLG launch generating feedback "isn't Tines just a security product?" — content strategy critical to reposition brand
+- GrowthX's 8-week strategy sprint model fits Tines' timeline; Marcel explained most clients benefit from ongoing guidance beyond self-service
+- Reference case: GrowthX client sites reach ~1,200 organic clicks/day post-engagement
+- GrowthX operating at 90 headcount (60 delivery, 30 engineering); institutional knowledge compounds across 70 active clients
+- Tines founders have similar security background to Marcel (15+ years) — cultural fit for partnership execution
+- Tyler Pavlas (GrowthX sales) positioned as liaison and knowledge transfer lead during onboarding
 
-**To CheckThat:**
-- Not directly discussed; the AEO/AI visibility angle was touched on (buyer behavior shift toward AI agents as trusted brokers) but not CheckThat specifically
+**To CheckThat (Secondary):**
+- Marcel mentioned CheckThat as a signal layer (AI visibility platform) ingesting millions of AI responses; informed internal data science research on engine optimization
+- Tines could become early adopter case study for AI visibility in non-security verticals
+- Not discussed directly with Tines team
 
 ---
 
@@ -91,21 +99,53 @@ Marcel offered to connect Tines with GrowthX's fractional head of security for c
 
 ---
 
+## Decisions & Commitments
+
+**GrowthX:**
+- Will open command center self-service platform to Tines within 3–4 weeks
+- Will share technical details on Temporal-based workflow architecture and enable API integrations
+- Will connect Tines with fractional head of security for content review and validation
+- Will open-source Output AI framework in ~2 weeks, allowing Tines to retain IP and migrate workflows independently
+
+**Tines:**
+- Will evaluate GrowthX's approach internally (Mark and Michael leading)
+- Will assess potential investment in in-house content engineering capability over next 12–18 months
+- Will consider switching from services-based engagement to ARR subscription model if internal capacity scales
+- Will maintain partnership if in-house team mature enough to leverage GrowthX's quality engineering and new use case development
+
+---
+
+## Open Questions
+
+- What are the contract terms and pricing structure for an 8-week strategy sprint + ongoing engagement?
+- How does the ARR model differ from the services model in terms of feature access and support?
+- What specific KPIs does GrowthX use to measure success (organic traffic, leads, visibility, conversions)?
+- How quickly can Tines onboard and see initial results from programmatic content?
+- What does the fractional head of security engagement look like in terms of SLA and support hours?
+- How does GrowthX handle content refreshes and republishing for existing Tines content once open-sourced?
+- What happens to the partnership if Tines builds out a full in-house content team?
+
+---
+
 ## Action Items
 
-**Marcel Santilli**
-- Open up GrowthX platform command center for client self-service within next 3–4 weeks (25:30)
-- Share technical details and enable API integrations with Tines workflows (13:30)
-- Provide access or connect Tines team with fractional head of security for content review and validation (32:55)
+**Marcel Santilli (GrowthX)**
+- Open up GrowthX platform command center for client self-service within next 3–4 weeks
+- Share technical details and enable API integrations with Tines workflows
+- Provide access or connect Tines team with GrowthX fractional head of security for content review and validation
 
-**Michael O'Connell**
-- Evaluate GrowthX's approach to scaling content operations over next 12–18 months; consider potential investment in in-house content engineering capability (28:15)
+**Tyler Pavlas (GrowthX)**
+- Continue as liaison and support knowledge transfer between GrowthX and Tines during onboarding and implementation
 
-**Mark Hatton**
-- Coordinate follow-up internal discussions around addressing SEO gaps and integrating GrowthX's offerings into Tines' organic growth strategy (17:35)
+**Michael O'Connell (Tines)**
+- Evaluate GrowthX's approach to scaling content operations over next 12–18 months
+- Assess potential investment in in-house content engineering capability
+- Schedule follow-up to discuss contract terms and ARR model transition plan
 
-**Tyler Pavlas**
-- Continue as liaison and support knowledge transfer between GrowthX and Tines during onboarding and implementation (30:15)
+**Mark Hatton (Tines)**
+- Coordinate follow-up internal discussions around addressing SEO gaps
+- Integrate GrowthX's offerings into Tines' organic growth strategy
+- Schedule technical deep-dive around workflow templates and use cases for sales ops, IT, finance verticals
 
 ---
 
