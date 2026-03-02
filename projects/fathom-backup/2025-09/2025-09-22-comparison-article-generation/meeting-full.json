@@ -1,0 +1,1690 @@
+{
+    "title": "Comparison Article Generation",
+    "meeting_title": "Comparison Article Generation",
+    "url": "https://fathom.video/calls/416327465",
+    "created_at": "2025-09-22T15:22:03Z",
+    "scheduled_start_time": "2025-09-22T15:00:00Z",
+    "scheduled_end_time": "2025-09-22T15:30:00Z",
+    "recording_id": 88844632,
+    "recording_start_time": "2025-09-22T15:00:22Z",
+    "recording_end_time": "2025-09-22T15:21:57Z",
+    "calendar_invitees_domains_type": "only_internal",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Doing all right.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Getting through all the updates.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Me too.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I was out of office Thursday and Friday, and now I'm going crazy with the Slack messages and emails and everything.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Hi, Kavishka.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "Hey.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "Hey.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "Hey.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, yeah, thanks for taking the time.",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We are in a bit of a pressured situation with HockeyStack.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "They want to start publishing, like, this week, and they're in week five.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so we've kind of prioritized some comparison content just based off their leadership wanting to get that done.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so we've seen Augment's comparison articles coming out pretty well.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so we've wanted just to see kind of how you guys have that pipeline set up and any kind of other tips or tricks you guys have for making those come out clean.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think we've set up an agentic workflow, but it's not pulling in all the context correctly.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I don't know if there's specific artifacts you guys use to pull into that or if it's just a different setup.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Well, we do have a pipeline called Comparison Articles, I think.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Comparison Article Generation.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I used it a couple of times, to be honest.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I didn't use it much because the articles were very small and I didn't really like the structure it was providing.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So what I do is I use the agentic article generation and to...",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "To have a very robust comparison article, I focus on the assignment brief.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So what I did, I'm going to share my screen.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I basically use a lot of prompts.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So can you see my screen?",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Which one am I sharing?",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Are you seeing Notion?",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I see Notion, yeah.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Okay, so first I have an, when I generate the assignments in Atlas, I use this prompt that I created, write a comparison or listicle style articles, etc.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And here are some product features, the voice and tone, and here's the content structure that it should have, like main sections and conclusions.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And then there is a part of the content strategy, TOFU, MOFU, BOFU, SEO, and keyword usage, and the quality checklist.",
+            "timestamp": "00:03:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And basically how I did this was I grabbed, I did my Google search, found some listicles and comparison articles, selected a few, and then reversed and engineered the structure.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I asked the LLM, okay, analyze these articles, assess them on the structure they have, see which ones are better for SEO, then generate a content structure based on these.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Then I used that content to combine it with the product features of Augment Code that are mentioned here, like the most important ones.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And I summarized the voice and tone.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Artifact we have, and basically I combined everything, like a mixed salad, into this prompt that I used to generate the assignment.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So in Atlas, whenever I generate the assignment, I input the keyword or the topic, and then I paste this prompt that I just copied here.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I copy it and I paste it in Atlas.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So it generates a more adequate assignment.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And then when I do have the assignments, and I have to move them to the article generation pipeline, I have another one.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And let me see, I think this is the one, assignment direction.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Oh no, this is for the other articles.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I forgot how I did it.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Oh, that's newsletter.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Oh, no, wait.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "When I do have, let me move things.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Oh, working on that.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "How do I move this?",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Here it is.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "When I move the assignment to Earth, table, it already has the instructions here in the assignment brief.",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So instead of just copying the whole chunk, because it's way too big, I've been testing this in a few different ways.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I just copy the whole chunk and I go to ChatGPT and I ask a custom GPT that I have to make this shorter under",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Or 600 tokens and just keeping the most important information, the key information, whatever.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Then it has been working well.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Another way that I do it is I just, the Agentex pipeline has already, already has some instructions here.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So what I do is I just copy the overview, like this is the description.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So what I do is I just go here.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And then I copy the structure.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I skip this target audience SEO metadata because it's already basically mentioned here.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And I scroll down to the proposed content structure.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I analyze this, of course.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I just make sure it follows the structure we want.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Remove the fluff.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Information that we don't want.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "For example, sometimes we have like real cases or real use cases of this.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I remove the whole section because generally the LLM hallucinates real cases.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "They never exist.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Yeah, sometimes I, this case, for example.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So I just remove that because it's non-existent.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Also, I look for information that might be not of interest to developers, to the senior developers, because sometimes the LLM writes very basic information, like what it's, I don't know, what's an LLM.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "We don't need that information.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "We're, we're talking to senior developers, CTOs.",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "We're",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "People who have been around over 10 years developing.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, I wish I did this in a more detailed way, but because I am generating 30 articles per week, I just generate a prompt that I will use and optimize everything.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Instead of going one by one with the articles, for example, I have this custom GPT called Context Engineering Applied.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Is this the one?",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, for example, here is the whole assignment brief.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Let me go to this.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "this.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Turn this brief into a system prompt, low, 600 tokens, return it in Markdown.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And then I just wait for it to return everything.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I ask it to return it in Markdown just because I have the copy.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I code here instead of just having to.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "If I had more time, what I would do is I would go to the competitors and see what they're doing, see how we can improve our content in contrast to theirs.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So now that I have this built under 600 tokens,",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I can go here, and I can replace this, or I can just replace everything.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And in the topic, I just copy the title, and I create.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So that's my process, because I need to generate 30, and it needs to be very, very fast.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, again, where is Notion here?",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, the assignment direction, this is for generating the assignment.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Let's go to the assignment generator.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So whenever you generate an assignment, you need to enter either a keyword or URL.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Right?",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And then, in this...",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "In the assignment direction, you can give the LLM custom instructions, and here is where I input the, this one, I just copy this, input here, and I include the keyword or the topic or the URL here, and I just create that, for example, spec-driven-development.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Some, well, it depends on the article.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Sometimes we're using the same keyword, and I have to adapt the assignment direction.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Sometimes we want to do a how-to article, a listicle.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "This prompt is specific for listicles and comparison articles.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I do have another one for more expanded definitions.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "But that's what I do to generate the articles.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Then when the article is generated, sorry, for example, let's take a look at this.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Here's the output.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "It's way too large.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So in this case, the pipeline didn't follow my instructions in relation to the amount of words.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "But it doesn't matter because what I do is I just paste it in a Google Doc, download it as MD, markdown.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And I already have other prompts that I use for post-editing.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I don't have the bandwidth to edit 30 articles in detail.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So what I do is just skim the whole thing and I apply these two prompts.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "First, I ask it to analyze the article.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I do this in Claude, in the project for augment code.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Analyze this article for augment code, assess it, and how it aligns to the writing guidelines and the company context, propose improvements.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Then I check what improvements Claude proposes, and I ask it to apply those or some of them, keeping the original titles and URLs.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And then I use this polishing prompt, like, you are an expert technical editor for augment code.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I did this draft into a polished SEO optimized resource, et cetera.",
+            "timestamp": "00:13:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, and then I read the article.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I remove hallucinations and check that the URLs are OK, not 404s.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And then I apply this prompt.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "We'll be right back.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "To generate a more human-like context.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "This is basically applying Paul Graham's style, not using the first person singular, removing all them dashes.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, let me see.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And we end up with here.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, I like the Paul Graham style because it removes fluff.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I didn't apply it here.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I apply it sometimes.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "You get short paragraphs, which is more easy to read in general.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And in some cases, it just gives a more human touch.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I don't know if you have any questions so far.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I don't know if I'm making sense of anything.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, no, makes sense to me, Kavishka.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "Well, especially the prompts and, you know, editing the flow is just great.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And a very huge issue that I find is that we don't want to repeat ourselves, of course, that we don't want to have cannibalization in the article.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So once a week, I download the list of published articles.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And I compare them to the articles that we're going to generate and ask the LLM, okay, see which one, which ones.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "All of these are already covered.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "We don't want to have duplicate content.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Which one of these are very similar that we should combine?",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So that's a pain.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And for comparison, I also use LLM Gemini or Claude to provide a list like, okay, we have augment code and this is the list of competitors.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Make random combinations so we can compare one by one or in threes or four.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So that's how I've been generating the comparison, like the titles.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And for the agentic pipeline that you guys use, does it pull in the product and service?",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "It should be, I think I saw it, it's building our company context, audience personas, fact checking, no, cover image, I know I saw it somewhere.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "But I also have another prompt for that, because I do not trust Atlas so much.",
+            "timestamp": "00:17:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So, for example, for the spec-driven articles, I generated this prompt, it's a little bit big, but it has the technical validation for augment code.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So this is what augment code can do.",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So I asked Claude, in this case, to assess the articles to see if any technical feature is being mentioned that does not apply to what augment code can actually do.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I repeat the voice and tone refinement, the audience.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And what I've been doing for augment as well, I have an automation going on because augment code, or generally all development-related companies, they have a changelog page.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "So once a week, it's pulling the changelog updates and leaving them here in the docs for augment code.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "And the idea is to have this as an artifact, so pulling this data onto the Atlas Pipeline, so it can have updated product features and technical information.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "It's not pulling that in the best way, like, you know, but at least the information is there.",
+            "timestamp": "00:19:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I have so many tabs open, sorry.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I don't know if you have any questions, specific questions.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I know that the agentic pipeline works very, very well.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "But I don't know for sure how it works under the hood, like, on the back end.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I mean, if it works...",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "works, I don't touch it.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Basically.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If it ain't perfect, don't fix it.",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:20:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Kavishka, any questions on your end?",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "I think I'm good for now.",
+            "timestamp": "00:20:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "The big picture thing I took away was really dialing the assignment direction for the agentic pipeline.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "Because I did try using it a couple of times just, you know, last week to sort of see if it could work.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "I didn't have amazing results, but I also didn't use a prompt that was like, you know, as detailed as yours.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "I'm going to try that today and that should hopefully work.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "So, yeah, we're good, we're good.",
+            "timestamp": "00:20:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Yeah, if I had to do that, I would go to the competitors, see what they are doing in relation to comparison articles.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Grab the top results and ask the LLM to reverse engineer a problem.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "to generate similar or better content based on those.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kavishka Kanayake",
+                "matched_calendar_invitee_email": "kavishka.kanayake@growthx.ai"
+            },
+            "text": "That's a cool idea.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "I'm definitely going to try that.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Very wonderful.",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, can give you nine minutes back so you can get back to catching up.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Appreciate it, Marisol.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marisol",
+                "matched_calendar_invitee_email": "marisol@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:21:33"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss strategies for generating high-quality comparison articles efficiently for HockeyStack's urgent publishing needs.](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=34.0)\n\n## Key Takeaways\n\n  - [Marisol uses a custom prompt-based approach with the agentic pipeline for comparison articles, focusing on robust assignment briefs and post-editing techniques](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=54.0)\n  - [Key steps: reverse-engineer competitor structures, use custom GPTs for prompt optimization, and apply post-editing prompts for polish and SEO](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=60.0)\n  - [Emphasis on avoiding content cannibalization and ensuring technical accuracy through regular changelog updates and validation prompts](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=70.0)\n\n## Topics\n\n### Comparison Article Generation Process\n\n  - [Marisol uses agentic article generation with focus on detailed assignment briefs](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=109.0)\n  - [Custom prompt created for comparison/listicle articles, including:](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=146.0)\n      - [Product features](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=225.0)\n      - [Voice and tone](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=233.0)\n      - [Content structure (main sections, conclusions)](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=167.0)\n      - [Content strategy (TOFU, MOFU, BOFU)](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=181.0)\n      - [SEO and keyword usage](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=181.0)\n      - [Quality checklist](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=181.0)\n  - [Process involves reverse-engineering competitor articles for optimal structure](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=191.0)\n  - [Uses custom GPT (Context Engineering Applied) to optimize prompts under 600 tokens](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=206.0)\n  - [Generates \\~30 articles per week, prioritizing speed and efficiency](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=619.0)\n\n### Assignment Creation and Optimization\n\n  - [Uses Atlas for assignment generation with custom prompts](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=649.0)\n  - [Adapts assignment direction based on article type (listicle, comparison, how-to)](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=693.0)\n  - [Optimizes assignment briefs by removing unnecessary sections (e.g., hypothetical use cases)](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=456.0)\n  - [Tailors content for senior developer audience, avoiding basic explanations](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=476.0)\n\n### Post-Editing and Refinement\n\n  - [Applies post-editing prompts for analysis and improvement suggestions](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=778.0)\n  - [Uses Claude AI for technical validation and alignment with writing guidelines](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=780.0)\n  - [Implements a \"polishing prompt\" for SEO optimization and readability](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=818.0)\n  - [Applies Paul Graham-inspired style for more human-like, concise paragraphs](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=846.0)\n\n### Content Cannibalization Prevention\n\n  - [Weekly download of published articles to compare with upcoming content](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=942.0)\n  - [Uses LLM to identify potential duplicates or articles that should be combined](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=960.0)\n  - [Generates diverse comparison topics using AI-suggested competitor combinations](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=987.0)\n\n### Technical Accuracy and Product Updates\n\n  - [Custom prompt for technical validation of Augment Code features](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=1080.0)\n  - [Automated weekly changelog updates to maintain current product information](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=1129.0)\n  - [Aims to integrate changelog data into Atlas pipeline for up-to-date product features](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=1140.0)\n\n## Next Steps\n\n  - [Kavishka to implement detailed assignment direction prompts in the agentic pipeline](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=1231.0)\n  - [Consider reverse-engineering competitor comparison articles for improved content structure](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=1244.0)\n  - [Explore integration of automated changelog updates into the Atlas pipeline for better product accuracy](https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw?tab=summary&timestamp=1140.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Try detailed prompt for agentic pipeline. Use Marisol's approach: competitor analysis, reverse engineer prompt, optimize assignment direction <600 tokens\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:20",
+            "recording_playback_url": "https://fathom.video/calls/416327465?timestamp=1220.9999",
+            "assignee": {
+                "name": "Kavishka Kanayake",
+                "email": "kavishka.kanayake@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Marisol Smith",
+            "email": "marisol@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Marisol"
+        },
+        {
+            "name": "Kavishka Kanayake",
+            "email": "kavishka.kanayake@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Kavishka Kanayake"
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/VYzxNVmVXpEQ2y6V7znAt_vpGPRVY3pw",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

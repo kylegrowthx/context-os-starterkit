@@ -1,34 +1,34 @@
 # Knowledge
 
-Study guides, playbooks, and reference materials for skill development and domain expertise.
-
-Everything in this directory is designed to be read, studied, and applied. Each file distills research into actionable knowledge.
+Study guides, playbooks, and reference materials. Each file synthesizes deep research into actionable knowledge.
 
 ---
 
-## Subdirectories
+## How to Use
+
+1. **Search first.** Use grep/search to find guides by topic or keyword.
+2. **Load individually.** Read specific files — never bulk-load.
+3. **Study guides are synthesized.** Each distills multiple sources into structured, actionable knowledge.
+
+## Directories
 
 | Directory | What's There | Files |
 |-----------|-------------|-------|
-| [content/](content/) | Writing craft, style, and LinkedIn content creation | 4 study guides |
-| [building/](building/) | Company operations, leadership, and SaaS metrics | 4 study guides |
-| [product/](product/) | AI product strategy and engineering practices | 2 study guides |
-| [aeo/](aeo/) | AEO & AI Visibility — guides, research, 103-source deep research | 8 files |
+| [seo-aeo/](seo-aeo/) | SEO + AEO unified — ranking factors, AI visibility, prompt taxonomy, brand measurement | 19 |
+| [ai/](ai/) | AI product leadership, context engineering, voice agents, prompting | 5 |
+| [building/](building/) | Leadership, company building, scaling, recruiting | 4 |
+| [productivity/](productivity/) | CEO effectiveness, email, scheduling, EA operations, AI tools | 4 |
+| [writing/](writing/) | Craft, style, communication fundamentals | 2 |
+| [social/](social/) | LinkedIn engagement, hooks, distribution strategy | 2 |
+| [revenue/](revenue/) | SaaS metrics, retention, HubSpot, sales ops | 2 |
+| [content/](content/) | LLM writing mastery | 2 |
+| [growthx/](growthx/) | GrowthX product data, database references, internal tools | 1 |
+| [people-company/](people-company/) | Company and leadership study guides | 1 |
+| [archive/](archive/) | Outdated or superseded files | 1 |
 
-## How to Navigate
+Root file: [hubspot-crm-system-guide-v1.md](hubspot-crm-system-guide-v1.md) — HubSpot CRM reference
 
-Pick the subdirectory that matches what you're doing:
-
-- **Creating content?** Start at [content/README.md](content/README.md)
-- **Building the company?** Start at [building/README.md](building/README.md)
-- **Building product?** Start at [product/README.md](product/README.md)
-- **Working on AEO / AI visibility?** Start at [aeo/README.md](aeo/README.md)
-
-## Archive
-
-| File | Summary |
-|------|---------|
-| [archive/context-engineering-ultimate-guide-growthx-v1.md](archive/context-engineering-ultimate-guide-growthx-v1.md) | Original context engineering guide (superseded by study guide) |
+**Total: 45 study guides and reference files across 10 active directories.**
 
 ---
 

@@ -1,0 +1,2106 @@
+[
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "this meeting is being recorded um how's the weekend uh pretty good been uh thinking about the trip to Hawaii so i was looking into that or the weekend but other than that nothing too of it fun nice not just uh that sounds fun i'll be good to um get out of uh winterland and go into uh you know forever summerland i guess right before i yeah yeah it's been um i guess you're you're also based in Oakland if i recall the record right so yeah it's been a little bit dreary i think the last few days so it has my mindset i'm like i'll swear i'm over already like we've had like that's weather you know it was even warm right like last week and then like the last few days like cold and rainy and i was like i'm over this like give me a hug here yeah exactly we're still spoiled i love it i know i know yeah i'm originally from like the east coast from like Toronto so like you know i'm nothing to complain about they're probably already getting snowed by now but uh yeah for",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I'm a bit of a baby, I want to talk to you.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We're barely getting started in winter.",
+    "timestamp": "00:01:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "anyways, what would be most helpful?",
+    "timestamp": "00:01:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "know you mentioned, there's a few things that I think I can show you, but the TLDR is like, I can give you some insights on kind of how, well, the work we did at DeepGram really helped on the enterprise side too, which is super counterintuitive, because like, we've done weren't enterprise wasn't enterprise focused.",
+    "timestamp": "00:01:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so, so essentially, there's an angle there, right?",
+    "timestamp": "00:01:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, but before jumping, maybe you can give me a little bit of context to when you're kind of how you're thinking about it.",
+    "timestamp": "00:01:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, so in terms of like why the sort of change and shift from like, you know, focusing on our.",
+    "timestamp": "00:01:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I guess kind of product-led and like self-serve growth over compared to like enterprise.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Just in terms of like our revenue like right now, it's like very heavily on like the enterprise side, I'd say, and we are doing some motions around trying to expand that.",
+    "timestamp": "00:02:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So most recently, we're getting into like the Azure and AWS marketplaces which should help in terms like selling.",
+    "timestamp": "00:02:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So we're probably going to go to like conferences around those like reinvent probably next year and go in like NDC, I think, in January.",
+    "timestamp": "00:02:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "that's like one item that we expect to like have more enterprise like touch points, I'd say.",
+    "timestamp": "00:02:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And then the other is that we just sent like kind of a partnership agreement with like Akamai, is like another kind of cloud provider, sort of like a tier two, I'd say, behind like the big ones.",
+    "timestamp": "00:02:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And they're also going to be doing a lot of the selling of our product for us, essentially.",
+    "timestamp": "00:02:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "But it's like, you know, if the customers are interested, right?",
+    "timestamp": "00:02:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So in order to kind of garner interest and more touch points with these kind of",
+    "timestamp": "00:02:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "developers and, you know, executives, we were hoping that, you know, growth X can have like a place to play there, whether it's looking and drafting the SEL or through like our content, for example, we just feel like it is at least more like, you know, if we were to make the choice between like focusing on like onboarding more self-serve customers right now, because it's onboarding more enterprise right now.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "We're focused on the enterprise because as like a team, we're not like super huge.",
+    "timestamp": "00:03:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "We're raising next year, so hopefully we can like hire and to kind of fill the gaps.",
+    "timestamp": "00:03:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "But, you know, our support is only going to be able to stretch up and we'd rather focus on that the enterprise support, which can, you know, get us more revenue, more break for our buck, at least in the course of, you know, half a year or so, and then before focusing on self-serve again in the future.",
+    "timestamp": "00:03:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, and like, do you feel like you have a good sense of on the enterprise side versus any other personas?",
+    "timestamp": "00:03:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, are there different types of things that you have confidence in that people are searching?",
+    "timestamp": "00:03:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Because,",
+    "timestamp": "00:03:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And I'll tell you, like, I think one of the tricky things with enterprise, and we've seen this across the board, right, is when you try to narrow down on enterprise only audiences from an SEO content perspective, it usually means like you end up getting almost no traffic, right?",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:04:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We're kind of seeing the opposite that I can give you few examples, but I don't know.",
+    "timestamp": "00:04:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "There's all the exceptions here, right?",
+    "timestamp": "00:04:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So, I think that what would be helpful is, you know, you mentioned one thing, which is around, like, the counterintuitiveness about how just, I guess, increasing overall traffic can increase like enterprise sales.",
+    "timestamp": "00:04:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "we could chat about the other thing, I guess, is like strategies.",
+    "timestamp": "00:04:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Maybe you've employed at other companies that have resulted in growth in enterprise with this, like programmatic SEO or whether it's content.",
+    "timestamp": "00:04:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I guess, like, what strategy you think you've seen at least works bad, and that's in terms of working with.",
+    "timestamp": "00:04:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I mean, we're.",
+    "timestamp": "00:04:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "pretty bought in in terms of like the whole thing like ethos and your sort of workflow and everything like that it's more just matter of like does it make sense and can I get us to like the goals that we want to be right so like it's really just like you know it's not a matter of like okay do we like you or not it's more okay does this make sense for both of us right we don't want you going like too far out of your we allows you to do something like weird or you know custom yeah let me just show you give me second i'm just i want to show you there's two things that come two examples that come to mind recently none is um good call um who essentially like increased their traffic like crazy and then because of that they've been able to actually um like um three extra ARR but then it's kind of counterintuitive because when you look at their traffic it was on the programmatic place",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And you can see like the increase has been pretty wild, like as well.",
+    "timestamp": "00:06:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, it's really high, yeah.",
+    "timestamp": "00:06:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And it's all like area code essentially related or mostly, right?",
+    "timestamp": "00:06:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then they started with like productivity apps, or not productivity apps, but like you can see like business productivity, you know.",
+    "timestamp": "00:06:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And you think like based on this is like, okay, this is all literally consumer base, right?",
+    "timestamp": "00:06:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, but they actually gotten a lot of enterprise deals because of this, which is super counterintuitive.",
+    "timestamp": "00:06:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And that's what I was saying.",
+    "timestamp": "00:06:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's just that you're not hitting out everyone that's coming that's low in 10.",
+    "timestamp": "00:06:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "You're finding ways to get those lower in 10 right people within the signals to convert, but then you actually have signals to optimize for, right?",
+    "timestamp": "00:06:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And this is, we saw something similar with deep gram where it's like, we're actually seen like because you're",
+    "timestamp": "00:06:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "kind of cast as very wide net, you start to see brand awareness increase in people searching for you by brand by name.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then you're able to then go like and essentially go fishing in your own little pond of like lower intent qualified accounts.",
+    "timestamp": "00:07:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "If that makes sense.",
+    "timestamp": "00:07:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "so like I would say like based on what you're telling me, I think I don't know if you guys are using anything kind of similar to Quala, but that's Okay, perfect.",
+    "timestamp": "00:07:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Okay, so so then like the idea is like how do we increase the signals as quickly as humanly possible, right?",
+    "timestamp": "00:07:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So that like the chances of having the right ICP within your signals is higher, right?",
+    "timestamp": "00:07:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then like essentially what we've seen is the companies that like our clients that wanted to go way more selective in like enterprise and under content and not cast a wider net at the beginning ended up getting less results after six months than the one.",
+    "timestamp": "00:07:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "that cast the wider net and then doubled down on what was working, know, and kind of building from there, you know.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So, because I think from our initial conversation, especially on playing off of the success you guys already had, I think there's a lot of potential.",
+    "timestamp": "00:08:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "the TLDR is like, I don't think we need to do like, I wouldn't recommend doing like a crazy change in strategy at the beginning, you know, but I could be wrong here.",
+    "timestamp": "00:08:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I haven't dug in as much, you know.",
+    "timestamp": "00:08:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, yeah, absolutely.",
+    "timestamp": "00:08:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "at least it might take away from what you said, at least for like, you know, for like a call, like they were just like giving me more traffic out there.",
+    "timestamp": "00:08:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "At least one gave you like, through the quality screen you're printing, you knew which accounts were at least like interested or working in like space, and then two, like the brand awareness led to more brand traffic, even if the initial one was low intent basically.",
+    "timestamp": "00:08:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "But did they",
+    "timestamp": "00:08:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, did you or like a great deep gram or them and like they call do anything to kind of optimize like from that first visit to convert that into like someone who might be Like interested like with the page optimization or what was that like Not not a whole lot.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But I mean, good call is mostly like they had more CTA's that that were kind of coming in and mostly like kind of signing up.",
+    "timestamp": "00:09:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But the idea is like They were reaching out to the people that fell more into the enterprise Right, right.",
+    "timestamp": "00:09:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Thanks, right.",
+    "timestamp": "00:09:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so it's just Organically people like right now they have the sixth digit deal that's gonna turn to the seventh digit deal That just kind of came organically most kind of like this massive like trucking company that can't came in through that And it was like hey, we have like all these locations blah blah blah Like could you guys do this for us and they were ready to kind of see the opportunity, but with deep premise kind of the opposite where Like I would just show you",
+    "timestamp": "00:09:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "off the record.",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "But yeah, the deep grammar is what I'm most interested in and say in terms of like, the ideas are sort of similar as far as like, you know, the deep grammar was like the AI app directory or like an API directory.",
+    "timestamp": "00:10:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So it's like the same sort of like, I don't know, not someone looking to buy deep grammar, right?",
+    "timestamp": "00:10:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "They're just like looking into like that specific tool, but then, oh, hey, what's, what's this, right?",
+    "timestamp": "00:10:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, like, and, you know, like, kind of off the record, like, this is like, like, cozy, like, you know, they're just like, seeing this huge, like, momentum, essentially, like, And this is from, like, a direct result of the, the, like, directory that you guys have.",
+    "timestamp": "00:10:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "That was the main, like, inflection point was the combination.",
+    "timestamp": "00:10:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But this is where, like, it's not about, like, one thing, right?",
+    "timestamp": "00:10:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It was kind of like, the content, kind of really helped.",
+    "timestamp": "00:10:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But then we augmented with a second thing, which was the glossary, then we started, like, doubling down on the Learn Center.",
+    "timestamp": "00:10:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "like vlogs and things like that, but then we really got really good at the product launches, right, and making sure that the product launches were very intentional about trying to make a bigger splash, right, but then we also had just a place to drive all the conversions to, you know, which I would recommend as well, like in our case was like the AImines.com newsletter, but the way I think about it is like, can we have some kind of offer, the signup might be it already, but it's like, is there something that's so valuable that people are kind of like pinching themselves like, wait, are they really giving this away?",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It could be like some kind of resource we pull together, it can be like anything that serves as your front end offer that's just super irresistible to your market, right?",
+    "timestamp": "00:11:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "you have that, then like essentially we're going from only capturing the signals to capturing the signals and trying to turn those signals into subscribers at a much higher rate, like one to three percent, and then at that,",
+    "timestamp": "00:11:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "you're not only fishing from your signals, you're also like fishing from known users, because like, that's the main thing, right?",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, if you can guarantee that they become known users, then you know exactly what they are who they work for.",
+    "timestamp": "00:12:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then, and then we can, like, you're already using quality.",
+    "timestamp": "00:12:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So it's a lot easier.",
+    "timestamp": "00:12:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's so much easier to do, like, the play where either your SDRs or AEs are automatically taking the signals and then going and doing warm outbound to those accounts.",
+    "timestamp": "00:12:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Doesn't need to be that person, right?",
+    "timestamp": "00:12:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Like, you can like prospect against, like, the company, for example, but as long as you know, the domain, that's what we mean.",
+    "timestamp": "00:12:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:12:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I understand.",
+    "timestamp": "00:12:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "At this point, it's like, the name of the game is like, once you have that all working, it's like, how quickly can you get more people in through the signals?",
+    "timestamp": "00:12:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Because your signals are converting direct to product signups, demo requests, which we saw like an all-time high demo requests since the traffic route, like every single month, it's been like, orders of magnitude higher as well.",
+    "timestamp": "00:12:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then some product signups.",
+    "timestamp": "00:12:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "demo requests, newsletter or front-end offer conversions, and signals that drive to essentially warm outbound.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "at that point, you're just cranking.",
+    "timestamp": "00:13:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:13:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "You have a flywheel essentially that you're building.",
+    "timestamp": "00:13:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "That's what we want to go for to you.",
+    "timestamp": "00:13:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I was kind of interested to know, I guess from the flywheel perspective, is that mostly generate kind of self-serve or startup to your customers, has it been effective in terms of driving enterprise service as well.",
+    "timestamp": "00:13:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "At first, it looked like that.",
+    "timestamp": "00:13:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But then we're starting to see enterprise-level deals that came from either self-sign up, or from actually the startup program as well, we got into just people running out of credits and raising around doing well.",
+    "timestamp": "00:13:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Now, there's definitely some things that are market-related.",
+    "timestamp": "00:13:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I don't want to  you and be like, oh, voice AI is hitting a bit more about inflection.",
+    "timestamp": "00:13:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But I think like this is where Like you just have a lot more surface area to work from right yeah Like you have your product usage you have your sign-up You have a website traffic you have your conversions you have your demo requests like and so you as some point you get to a point where That surface area is planning like you don't need to go to like someone that never heard of you, you know But then like I think I show this before in in the One of the workshops we did but Let me just show you really quickly Like we're not running these anymore through here, but I just wanted to show you like some of them Like you can see here like 67% open rate 42% reply rate, you know And we can run plays like this right and this is part of the scope as well like on the link building side It's like hey there reaching out to you because you essentially got",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "sure over here like your API catalog or whatever.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Oh, I understand.",
+    "timestamp": "00:15:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:15:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so now it's not just outreaching from like a link building, it's actually increasing your awareness.",
+    "timestamp": "00:15:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And some of those can actually turn into conversions.",
+    "timestamp": "00:15:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "if you get what you're saying, so you reach out to like the API providers themselves.",
+    "timestamp": "00:15:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:15:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And this you also did through like your growth X sort of like system over.",
+    "timestamp": "00:15:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "This is more like you did it through, like you had some other like automated.",
+    "timestamp": "00:15:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So we're actually doing this as part of like an offering on AI outbound.",
+    "timestamp": "00:15:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But then what we started with the AI outbound is like, we should run AI outbound for link building.",
+    "timestamp": "00:15:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And when we started doing that, we're like, consistent link getting to 25 like high domain authority links.",
+    "timestamp": "00:15:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so we're starting to position that work stream as not just link building.",
+    "timestamp": "00:15:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's more of like co-marketing campaign partnership outbound, you know, single because you're reaching out with value already.",
+    "timestamp": "00:15:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like you're reaching out already featured.",
+    "timestamp": "00:15:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "want to",
+    "timestamp": "00:15:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "collaborate you know and but then essentially like i'll just show you this again like we have a great relationship so i i don't want to be asked or anything so i'm trying to be as transparent as possible yeah i appreciate it um this one of our clients that we did um like look at his four demos into like two days yeah he's so happy and it's just like so we're sending it all up right like so it's the same way we're doing for link building is the same we're doing for ai outbound which is like we're setting using like clay smart lead you know that ai and in like and it will set up like essentially like domain warming and then start sending those outreaches you know right and that um as far as like gathering the contact information of like the you know in your case you have like i guess the ai app like owner you use your own agent i assume to go in like collect that information for like do this exactly in your case like we could take like that's where the programmatic and the link",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "building connects so well right like is on the programmatic and let's say you have a catalog of like 500 of these like we can go reach out and take like essentially go create like a lead list on like of all those 500 right right then on like there's other angles as well just in general and the content not just like you know people on the brands in the catalog you know yeah yeah I totally understand and as far as like I guess budgeting for this so I think the programmatic SEO side of things I think I have a good understanding on that side and then the sort of that other portion you just showed me I guess that yeah I like bound it and like building that's like the separate that's like another 6k from from what I would call right on that yeah exactly and in it it's a combination of things like so the um on the link building that that's why I recommend it when we first talked is because we're so much success and like",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "a lot of the clients where we started to do that, it just accelerated like there's one firework where they weren't seeing as much results from the content and we were like kind of, we helped them on the technical side with some oddities, there's some issues with their site, and then we're like, we really think we need to start doing building for you all, and we did, and then like now they're seeing a lot more.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, you know, wouldn't be capable for us to phase it.",
+    "timestamp": "00:18:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So like, here's my thing, I guess, in terms of like just finding this to like the seaside, I think before we make like the 15k commitment, I guess on like a monthly basis, I would need to prove the 9k works.",
+    "timestamp": "00:18:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I mean, look like I mentioned, we're like a startup, we need to like make sure every dollar counts is there some way to kind of stage our contract like that, I guess, where it'd be like, I don't know, kind of like graduated.",
+    "timestamp": "00:18:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, I, yes, for sure.",
+    "timestamp": "00:18:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So,",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I think the there's a couple of ways we can do this we can I can essentially position it as like a discount upfront if you want that way we start the work in a budgeting perspective like I'm okay with that with the 6k like just so you know like on the 6k it is like the only reason is 6 is because like on the AI about like it would be a lot more because like we're doing like the lead enrichment we're doing like like the strategy we're reaching out to so there's like quite there but because we're already doing the content that makes a lot more sense you know for us because we already have like the context and we know that's actually like the way we think about it with brands that don't have as much traffic or domain authority the 6k is almost like an insurance policy that guarantees that or not guarantees but it's like increases the chances by quite a bit that we're faster which means like the engagement is going to you know be successful long term you know",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Right, so like it's better as like a like it's more codey super centrally, right?",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, yeah, so it's like that's why I would rather try to get flexible on on something like if budget is a concern rather than like removing that piece only.",
+    "timestamp": "00:20:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, that would probably be preferable for me too.",
+    "timestamp": "00:20:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I just want to make sure that I can prove the effectiveness of the system.",
+    "timestamp": "00:20:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Like pretty quickly, otherwise, you know, questions will come up to me and be like, Okay, why'd you send this like 12 month deal with these guys, right?",
+    "timestamp": "00:20:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Tell me more about like, let's just put budget aside for a second, right?",
+    "timestamp": "00:20:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "tell me more of like, you know, ideal case scenario of, you know, from from your leadership and of like, how do you make you and the company look like rock stars, right?",
+    "timestamp": "00:20:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I know, it means like raising like, I know a couple of companies are now fundraising off of traffic growth as well, not that that's the only thing, but it sends like a lot of strong signals to to investors and, you know, but maybe tell me more about that.",
+    "timestamp": "00:20:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So",
+    "timestamp": "00:20:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "It was about, I guess, how I'm thinking about it.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "We generally, I mean, to give you, I guess, in the basic context, we sort of tried the traditional approach earlier this year, where we kind of hired in, like, OK, you know, SDR, and marketing, stuff like that, in didn't really work for us as far as, like, I mean, I don't know if was necessary, like, our hires weren't, like, very good, but we just, again, they're just kind of focused on, like, so the enterprise, and deal making, and quality signals, and stuff like that.",
+    "timestamp": "00:21:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "It didn't really work out as far as we didn't have enough, like, top funnel and demand gen going on to really, like, make them effective, right?",
+    "timestamp": "00:21:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Then we let them go, we've kind of, we started it against the summer, more focused on, like, SEO, as you've seen demand gen, and sort of re-vamping our cold outbound as well.",
+    "timestamp": "00:21:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So the cold outbound side, and we're already working with, like, an agency, they're called Center Wind.",
+    "timestamp": "00:21:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "They're going to handle, like, a lot of the cold, like, necessarily parts.",
+    "timestamp": "00:21:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So really, it's just a warm side of things with it.",
+    "timestamp": "00:21:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "an in-be-out.",
+    "timestamp": "00:21:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "or like organic growth that I'm primarily focused on.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And in terms of why we want to go with like an aching at all, right, is we want to really like accelerate it to make out for the gap that we've created for ourselves, like from kind of messing up in the beginning of this year, right, as we go to like fundraise mode, probably I think in Q2 of next year, right?",
+    "timestamp": "00:22:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So the main things we want to probably show off, right, is, you know, one that called out on started working together, which is, you know, part of our responsibilities with the agency to where demand like we have like strong interest in like our product, and we're, you know, driving traffic in here and, you know, for the more that we're actually able to convert this traffic to, like leads at least of a top of funnel, right?",
+    "timestamp": "00:22:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Because I think that's mostly what you really want for like your series area, at having like top of funnel, whether or not you convert from there, it's like, you know, hard to do, right?",
+    "timestamp": "00:22:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, that's helpful, because like, I think there's this one example to you that's kind of interesting, like, where for deep breath, it's kind of",
+    "timestamp": "00:22:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "an interesting one because in full transparency they were our only turn and then last week the CO reached out to us and it was like can we restart again and the reason for that the only reason they turned is because for in a mind that was their fractional CMO essentially joined a company and so they had like no resources to help execute and so the CO was like I need to refocus a little bit but it's like the like we stopped working with them like right here and then since it's just like their traffic just kind of exploded yeah exploded right like but but the reason I was showing you is because like there's some similarities here where a lot of the content that's doing well like we created this right like it's like a lot of the common questions we found around like like GraphQL and like more technical questions and and so it's like especially like in well established spaces or yeah like this",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "It's probably a hard keyword to rank for right as soon.",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, but it's kind of cool because there's so much surface area, essentially, the quote unquote API world, right?",
+    "timestamp": "00:24:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's kind of domain authority around like a topical authority around so many different topics.",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So that later on when we're trying to rank for the things that you really care about, this would work really well, know?",
+    "timestamp": "00:24:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "It's very like, what is the difference between this and that and, you know, And in terms of like the PSCO side of things, right?",
+    "timestamp": "00:24:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "terms of working with you, would it only be like, we would be working with you on like as the directory side of things?",
+    "timestamp": "00:24:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Or if we felt like maybe that wasn't necessarily working out, we could think it's more about the content play of things.",
+    "timestamp": "00:24:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Exactly.",
+    "timestamp": "00:24:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And that's why I was showing you this.",
+    "timestamp": "00:24:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "think of like PSCO, not as a section of the site, but as like the approach overall, right?",
+    "timestamp": "00:24:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "so you're all in the volume, right?",
+    "timestamp": "00:24:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "like 1,200 plus pages overall going as aggressive as we can, template type, right?",
+    "timestamp": "00:24:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like so let me show you.",
+    "timestamp": "00:24:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, for example, what we're doing for a hymns, like we were showing them.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so like, they're trying to catch up to essentially good our hacks.",
+    "timestamp": "00:25:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so like, it's fine.",
+    "timestamp": "00:25:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I think it comes over here, where like, we can start with drug comparison, for example, in this case here, right, but we see it like, this is still like, well, we templatize it quite a bit.",
+    "timestamp": "00:25:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, and so it's just like, it starts to overview and key differences.",
+    "timestamp": "00:25:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It has like certain, like, very specific sections that it must like cover.",
+    "timestamp": "00:25:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's kind of filling in the blanks, essentially.",
+    "timestamp": "00:25:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "then we're building custom knowledge bases to fill in those blanks from only trusted sources.",
+    "timestamp": "00:25:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "then if you look at How much on their side did they have to do compared to how much research I guess you guys had to do for crafting an article like this?",
+    "timestamp": "00:25:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Just like all us, like, and like, they're coming to us because like, they paid and I'm seeing them.",
+    "timestamp": "00:25:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "on a money for 450 pages that were like pure humans.",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And they're just like, it's essentially good.",
+    "timestamp": "00:26:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Our X-37,000 pages published, they have two.",
+    "timestamp": "00:26:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:26:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We need 30,000 pages done.",
+    "timestamp": "00:26:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "we're literally going to spend, you know, tens of millions of dollars if we don't do it this way.",
+    "timestamp": "00:26:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:26:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "For us, like our blog costs are like a round at least $200 per writer, approximately.",
+    "timestamp": "00:26:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Or it's my time, which is probably more valuable in some ways.",
+    "timestamp": "00:26:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:26:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Exactly.",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So the way to think about it, right, it's just like 200 times 1,200 pages and I think we can do more than 1,200 pages.",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "That's too helpful.",
+    "timestamp": "00:26:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Because we have like C data for you as well as far as our competitors, things like that.",
+    "timestamp": "00:26:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so like, so if you just think about it like that way, it's just like, it's a very easy kind of way to think about it.",
+    "timestamp": "00:26:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's like, hey, being 200, we're paying like 60-ish or less.",
+    "timestamp": "00:26:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But it's not.",
+    "timestamp": "00:26:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yes.",
+    "timestamp": "00:26:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's to publish.",
+    "timestamp": "00:26:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "like to prove ourselves.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But the main thing is like, we don't want to turn like, like, turn us, yeah, you know what I mean?",
+    "timestamp": "00:28:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So for us, we're rather start, you know, like lower and even it out and do this kind of front.",
+    "timestamp": "00:28:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then for you, it like helps you on your budget right now, because we're kicking off essentially like the link building will essentially like give it for free the first month essentially, like 6,000, you know, for free in the first month, you know.",
+    "timestamp": "00:28:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But like, you just tell me like, I think for us, like the main thing is like, especially if we're trying to fundraise at a certain time next year, like the sooner we start the better as well.",
+    "timestamp": "00:28:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, I think about it just because like, like, yeah, like, I know we mentioned like February 3rd, is that still like when you want to start?",
+    "timestamp": "00:28:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, I think that would be good for us as far as like, in terms of my own person.",
+    "timestamp": "00:28:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "all bandwidth.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "In January, I'll only be focused on getting our outbound mission really tight in as far as working with the agents who we are there.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I'd rather make sure I can give each of you your own time of day.",
+    "timestamp": "00:29:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I'm sure you know.",
+    "timestamp": "00:29:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "There's this pretty hard as far as like, oh, who's this guy's name?",
+    "timestamp": "00:29:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "It's like, I want to make sure I have a focus block in January, I guess, as far as like, okay, getting them like set up, getting them successful, making sure they have everything they need.",
+    "timestamp": "00:29:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And then kind of like switching my focus over to you guys in February and going forward, because I'd probably be in like Q2, so I don't know, sometimes like April May or something like that.",
+    "timestamp": "00:29:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "So ideally we can start seeing some momentum before that part, but let me know if that sounds like realistic.",
+    "timestamp": "00:29:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, like, and that's what I was saying, like, it depending on money Q2, like, I'll tell you like, the first three months is just like planting the seeds as aggressively as possible.",
+    "timestamp": "00:29:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then you start to",
+    "timestamp": "00:29:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "see like signals.",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But then it's hard to go when it goes to like incremental growth to like like this big jump.",
+    "timestamp": "00:30:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like we're seeing it across the board.",
+    "timestamp": "00:30:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's just like, it's like still like week over week growth.",
+    "timestamp": "00:30:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then every now and then there will be like something just unlocks and there will be this kind of like bigger jump, you know.",
+    "timestamp": "00:30:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Here I'll show you it was kind of like a few weeks back where like three of our clients in the same week all had like a breakthrough.",
+    "timestamp": "00:30:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "You know, I'm trying to find a chart here in Nelson to you.",
+    "timestamp": "00:30:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But yeah, like so that's what I was saying.",
+    "timestamp": "00:30:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like if we starting in February, even if we're only considered like three months out, then you're really like, you know, I think you might not be as far out in seeing additional growth.",
+    "timestamp": "00:30:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But I think you use a little different because you guys already done some things.",
+    "timestamp": "00:30:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And so we can go more on the refresh side.",
+    "timestamp": "00:30:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "as well earlier in the engagement that way.",
+    "timestamp": "00:31:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "We're refreshing and enriching pages you already have as well.",
+    "timestamp": "00:31:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's kind of like a mix, you know?",
+    "timestamp": "00:31:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Okay, that makes it as long as we can kind of share promise around the time that we have the fundraising go up.",
+    "timestamp": "00:31:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Again, like I want to see, I guess like, you know, investors are probably looking for like coffee sticks and terms like, oh, is like their demos book.",
+    "timestamp": "00:31:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "This is like the traffic or whatever.",
+    "timestamp": "00:31:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "mean, if we need to shift it earlier like into like late January, I would be open.",
+    "timestamp": "00:31:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "That's what I was thinking.",
+    "timestamp": "00:31:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:31:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We do have one more spot in January 20th.",
+    "timestamp": "00:31:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, we can do January 20th then.",
+    "timestamp": "00:31:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "That I think my, let me just look really quickly.",
+    "timestamp": "00:31:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, like we could do either January 20th or that's actually the only one we have.",
+    "timestamp": "00:31:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Okay.",
+    "timestamp": "00:31:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I mean, we could do the team and I can just swap for like the third.",
+    "timestamp": "00:31:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I mean, also could actually work as well, but I don't know if that's too early and I think the 13th might be a little bit tough.",
+    "timestamp": "00:32:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I think the 20th makes sense.",
+    "timestamp": "00:32:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I assume it'd probably be the 21st because I think 20th is an okay day, but.",
+    "timestamp": "00:32:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Oh, my goodness.",
+    "timestamp": "00:32:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "You're right.",
+    "timestamp": "00:32:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "That means I have to move to kick off.",
+    "timestamp": "00:32:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:32:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Good thing you know now.",
+    "timestamp": "00:32:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "All right.",
+    "timestamp": "00:32:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Good call.",
+    "timestamp": "00:32:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Thank you for that.",
+    "timestamp": "00:32:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:32:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "But like the 21st, I think, is okay.",
+    "timestamp": "00:32:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "extra sort of week will help us out there.",
+    "timestamp": "00:32:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "And then as far as like the updated statement of work, let me know when you can send that over again.",
+    "timestamp": "00:32:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I'll review it back with the team and hopefully we can get back to super.",
+    "timestamp": "00:32:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:32:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Sounds great.",
+    "timestamp": "00:32:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I'll update it here.",
+    "timestamp": "00:32:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Give me just like 30, 30, 40 minutes.",
+    "timestamp": "00:32:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I'll update it, send it to you and then I'll be on Slack really quickly just to give you a.",
+    "timestamp": "00:32:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Yeah, perfect.",
+    "timestamp": "00:32:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "I got to drop off.",
+    "timestamp": "00:32:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "have another call.",
+    "timestamp": "00:32:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Thank you for meeting.",
+    "timestamp": "00:32:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We'll quickly Marcel, we appreciate it.",
+    "timestamp": "00:33:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "All right, talk soon then.",
+    "timestamp": "00:33:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "All right, catch you later.",
+    "timestamp": "00:33:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Good talk to you.",
+    "timestamp": "00:33:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Adrian Machado",
+      "matched_calendar_invitee_email": "adrian@zuplo.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:33:04"
+  }
+]

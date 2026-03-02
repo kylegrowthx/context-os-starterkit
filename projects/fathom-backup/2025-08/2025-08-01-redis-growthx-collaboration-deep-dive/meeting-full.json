@@ -1,0 +1,3103 @@
+{
+    "title": "Redis <> GrowthX \u2014 Collaboration Deep Dive",
+    "meeting_title": "Redis <> GrowthX \u2014 Collaboration Deep Dive",
+    "url": "https://fathom.video/calls/368077291",
+    "created_at": "2025-08-01T18:33:04Z",
+    "scheduled_start_time": "2025-08-01T18:00:00Z",
+    "scheduled_end_time": "2025-08-01T18:30:00Z",
+    "recording_id": 78032763,
+    "recording_start_time": "2025-08-01T18:02:26Z",
+    "recording_end_time": "2025-08-01T18:32:57Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's going, you know, what we were trying to do is just get all the folks in the right room together.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You know, we had a good conversation with Megan, you know, shared a lot of insights into, you know, opportunities, challenges, some, like, areas of focus.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Hey, Marcel, hopefully you got a good drink of water or something.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Not yet.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'll have a bathroom break after this.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I was just a very high level updating, Cody, on our conversation with Megan.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And, you know, it seems like you all have a ton of content, ton of opportunities, just so much surface area, super exciting.",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so we were just sharing a little bit of how we work and collaborate with teams and it seemed to resonate quite well with Megan.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so our mindset today was just helping catch you up a bit on how we think, how we work, answer any questions you have.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And we can always dive in deeper, you know, explore what kind of opportunities we could theoretically collaborate on.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "But...",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "But...",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "That was the mindset coming into today.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Marcel, Cody shared, he's just leaving SF, so we missed him.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "He's heading to the airport, so off camera, but with us here.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Sorry, Cody.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Are you back anytime soon?",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I'll be back in, I guess, yeah, exactly a month from today.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That sounds good.",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Where are you based?",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Austin, Texas.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, no way.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm a longhorn, so.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, nice.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And my parents live just outside of Austin, so.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Are you native from Austin, or?",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I'm not.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I was one of the many Bay Area transplants.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Nice.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, I spent my whole 20s in SF and then moved to, I'm also out just outside of Austin, but most people don't know the suburbs out there.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Where, like Round Rock or some?",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "No, I'm south.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, I'm in Dripping Springs.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Nice.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm sure traffic is.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "It's a lot of fun these days if you're outside of Austin.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "It's a nightmare.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Always.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I imagine it hasn't changed.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I used to take Mopac to school and I loved like, anyways, it's just like this, this bottlenecks, you know, like, you're just like.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, it's insane.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then every time I go to Austin, it's like a year in between.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I'm like, I don't remember these 30 different buildings being here.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Not like one.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "was, it's like, Kyle's crazy.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, I don't know if you've been to Austin recently, but it's like the downtown went from like all flat to just like all high rises.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And every time I go, there's like five more being stood up.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And I'm like, this is insane, man.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I noticed it a little bit, probably not as much as you just knowing it so well.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But yeah, I had like a five, eight year gap or something between stops.",
+            "timestamp": "00:02:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I was like, well, okay, this is quite different.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I could definitely feel it.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But Cody, maybe also before we jump in, we'd love to, Megan, share like a lot of things with us.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But like, you guys have just met right before we talked and like.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Thought through things.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so it's like, it would be awesome to just understand like a bit of context on your end and almost like what are the, if you had a magic one, things you wish you had more help on or kind of how you're thinking about things.",
+            "timestamp": "00:03:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Any context.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I don't know how much context she gave you on like my role and the teams that I lead, but maybe that helps to set some of the context.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "That would be amazing.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Um, so I lead our growth function and that includes things like the website.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So I have our web team, including the infrastructure.",
+            "timestamp": "00:03:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Um, I've got, uh, actual growth marketers.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Like we're, we're just trying to get people to sign up for the cloud product really.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "and, and the Andres.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Um, but also under that, that team, I've got a technical marketing team and a product marketing team.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Um, and we create a ton of content.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Um, mostly, you know, the technical marketing team creates a lot of tutorials, um, in multiple different languages.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Uh, and then the.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Our product marketing team obviously creates the typical marketing.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "They're the ones who own the web pages and stuff like that, just anything outside of tutorials.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So my team spent a ton of time building, rebuilding the technical stuff, especially.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "You know, code pushes make tutorials no longer relevant.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I think we're also seeing that, you know, we were kind of ahead of the LLM, the AEO, GenEO, whatever they want to call it today.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And in tracking things, and, like, we're hooked up with Profound, and we track our visibility scores.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And we tend to see that, like, the most cited content has really made in the last, like, 12 months.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So we're, yeah, so if I could wave my, wave a magic wand, I guess it would just be to, to...",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So some kind of tool or service that helps my teams create refreshed technical content really quickly.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Nice.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm just switching screens here.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then if I share my screen, are you able to see it?",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, I can see it.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, yeah, that's, I, so many areas to jump in.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But one thing I wanted to mention, too, is turns out we're using Redis for every single part of our platform.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Amazing.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so you guys are our caching layer.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And, and anyways, it's just like, it's really cool to, you know, be able to potentially work together with a company that we use for every single aspect of everything we do.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "That's, that's great to hear.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But, but, but yeah, so, so maybe like, um,",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "What I could do, Kyle, if you think makes sense as well, is like just show you like high level a little bit kind of how we work and a little bit the behind the scenes.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I just finished this two-hour workshop, so I can also send you the recording of that too in case anyone on your team or anybody wants to like listen.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's essentially going be two hours talking about like geo, how to build content strategy, how we do things, why we do it the way we do, you know, like a little bit of like if you want to replicate everything we do, here's how we do it kind of thing, you know, like.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Oh, super cool.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I can send you that too, but okay, so at a super high level, like the way to kind of think about it is, especially with technical companies.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So for instance, like we, we work with, let me just pull it up here.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I just have these slides done because I just did them, but a lot of like kind of technical companies, you know, so like Metronome, Agma Code, Webflow.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We did all the developer side, integration pages, abnormal security, SentinelOne, Akna, Diligent, Strapi, Airbuy, like these are all like pretty like technical companies, know, CIO.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so it's like, I think, and I've been doing technical, you know, marketing to technical companies my whole life, pretty much.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "IBM, HP Software, and then HashiCorp, and then Skill.ai.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so that's kind of like our sweet spot.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But one of things is like that we do is just really go deep into understanding kind of your space.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So let me maybe grab, I'll grab one here that like just be super transparent on like SentinelOne maybe is a good one to kind of go in and dig in.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But it's like a lot of what we're doing is creating like this company context for a company, you know.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it goes a lot deeper into how you kind of see your whole space.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And what we find is even if you have amazing product marketing, often this doesn't exist inside of companies.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then what we're trying to do is define your personas in a much more concrete way and understand their fears and certainties, what motivates them.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And all this context, all these artifacts, they're what is going to allow us to, like, scale with quality and make sure we're all working from the same big picture.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Otherwise, like, there's no amount of human review, even if you're not using AI, that will allow us to scale, right?",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you're never going to agree on anything.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You're going to always be bottlenecked by people trying to, like, line edit things.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so if we agree on the big picture, then everything else allows us to scale, right?",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So part of that is also, like, understanding what we want to sound like.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then from there, like, a lot of what we do is, like, map out.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'll just kind of recall content OS.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like we look at map out the entire ecosystem, others like in this case, group ties, personas, industries, and then start mapping them against topic clusters.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And the reason that's really critical, you know, you guys are using Profound, like we scrunch as well and others, but like the queries you're monitoring in these tools are only as good as what those queries are, those prompts are, right?",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And if you're not mapped back to a deep understanding of your audience and how that maps your bigger kind of picture, but then backed into like these clusters and topics within these clusters that actually make logical order or sense, then like you're just like measuring or tracking a bunch of random things that like it's really, you know, like for some customers, like we might be tracking, I don't know, hundreds of topic clusters, you know, eventually and groups of prompts.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then like thousands and thousands of different prompts, like it's like, it becomes impossible for you.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, why, like what's working and not working within that context, right?",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So this makes it a lot easier from the planning phase to do that.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Then what we do is like we do an entire audit of all your pages, everything you're doing, as well as competitive audits.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm sure you've done those before, but like, you know, we go super deep here.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then from there, we start to then create these assignments that I can show you kind of like the step by step of those assignments in our system, right?",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so then, like, the reason that allows us to move a lot faster is because, like, we have this workflow engine under the hood as well as, like, a way to streamline this whole process using our workflows, right?",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, and so, like, the way to kind of think about it is, like, the assignment brief, the research, the outline, the drafting, fact-checking, all those steps are, like, really, really detailed and I'll use...",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's all the artifacts already created for you, you know?",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so because of that, like, we just can achieve a level of, like, quality and speed.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And but then you also have an editor in the loop that is here and can kind of come here and say, like, you know, work within the context of things we already like.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Add a TLDR and improve the first sentence to be more of a hook that doesn't turn off this audience.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you know, like, I don't know, this is horrible comments, but it's like, but you kind of get the point.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like our editors can kind of work with this and use the artifacts and use the context and use the understanding of your business to kind of guide this process along.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it's particularly important, especially with, like, technical content, because you want to make sure it's really, really, really accurate.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Right.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So anyways, that's what we do at a high level.",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then just to show you some examples, like, as we're scaling this out, that's really cool, recently is,",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, we, after we go through this whole process, we create these artifacts, right, we calibrate, and then we start mapping it to all the right opportunities, like I just showed you, right, like based on topics, topics discovery, all within the audience first mindset, and audit all your existing pages, map it all out, like I showed you, create these assignments, and then start to produce these assignments and start to learn from those signals.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And, and the way, like, the part that's really interesting is, because of this process, we're just seeing these signals happen way, way faster than we even thought was possible, where sometimes, like, we'll update or publish a new page, and almost immediately the language will be incorporated in the AI overviews, or complexity, and, you know, and so, like, Ramp is just a great example where we've done not only these audience first topics, for instance, like, how long do ACH transfers take, kind of, content, and we've done, like, hundreds and hundreds of",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Articles for them over the last year.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And you can see it's like so consistent how like now that we've done it consistent and we kept that content fresh and we cross-linked it really well.",
+            "timestamp": "00:13:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it's highly cited with like really unique information.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like they're showing up so consistently on AI overviews, perplexity, chat GPT, and also just organic search.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then we started to kind of pile that up with additional programs.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like we did this vendor's catalog for them, which is really cool, where it's just like all unique information from here, from their data as well to enrich all these articles.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we do everything from the planning, the publishing, the optimization, like every single aspect of this, the graphics, everything.",
+            "timestamp": "00:13:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, so because of that, like we remove a lot of the bottlenecks from these teams that don't have as much capacity, you know, we did a per diem calculator tool that then it's interactive and it has.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "By state and by city pages with tables and data, all up to date and highly cited.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We've done expense category catalogs for them that is also doing super well.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And all of these you see kind of getting cited and mentioned, you know.",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And so you're recommending these things, like, I mean, that calculator or that's something that's generated from your kind of the initial research?",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Or did they come and ask for something like that?",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's a combination, like, per DM was our suggestion.",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Expense categories, it was super outdated.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we refreshed for them and a bunch.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "The vendor's catalog, I think they originally came up with the idea, but then we crafted the entire experience and, like, how to scale it out.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They just said, hey, we have a bunch of data.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It'll be cool to start creating pages based on vendors of data that we have, you know.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, for instance, like, augment code, like, we created and used a section of their site called guides, right?",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And this was, like, the most shocking one.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Probably.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we published this two days ago, July 29th, July 30th, it starts getting cited and mentioned immediately.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And this is a brand new section of their site.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They don't have a ton of authority.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just like, but it's so well researched that it's pretty insane.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then what we see is like the actual language that we use starts to get pulled almost verbatim in some of these tools, you know?",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so we're just like consistently seeing this.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And like the part that's really crazy, just so you see like not bullshitting, but it's like, we just like, it's just quickly returning to signals just so, so fast, man.",
+            "timestamp": "00:15:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just really, really wild, you know?",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so a lot of this is because of our approach of how we do deep research and all the context.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So you can see part of our steps, like the deep research, and then we generate questions already.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's part of our process was like, it's not just a topic and a brief.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We break down that topic within the context of your company into specific questions, and then we do deep research on all those questions.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then when we're drafting the content and executing, it uses all this research within the context.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so anyways, it's pretty cool.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There's a lot of different use cases as well, but the majority, I think our sweet spot is normally technical companies with large footprints because that's where they have just a lot of bottlenecks.",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then moving fast, literally, you can see results so fast because of that, you know, signals because you like, like for Airbuy, we've refreshed 300 pages in the last three weeks, for example, you know, and almost 2x impressions.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then it started to kind of measure the signals from there, you know, so we can move a lot faster because of that.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And I don't know if you saw it, Marcel, but Mario was just sharing, I think it was yesterday, they just closed a 100k deal off of ChatGPT from some of the content we were doing.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that was",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's pretty exciting.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's pretty cool.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "That's wild.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There are a couple of customers now where the LM referral, because we look at not only the visibility, and you have Propound, so we can look at that as well.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We pull some data ourselves as well.",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We make sure we do give you all the context as well as give you all the queries and do it ourselves as well, and monitor all of that, because of the quality of the queries that you're monitoring, or the prompts that you're monitoring makes a huge difference.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "For sure.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then we're also looking at LLM referrals, as well as pulling data from GSC and GA to start to correlate both reach, visibility, and then when people do land on your site, what is that engagement like?",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "What is the quality of the content based on that?",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Time on page?",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Things like that.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then conversions after that.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, this is awesome.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "How long is the, like, what is the actual research process up front?",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "It feels like that's, like, the big investment, right?",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And you can kind of crank after that.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so most companies, as long as they give us access and they're responsive, you know, we're done with calibration in the artifact generation, or like by week two or three.",
+            "timestamp": "00:18:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And like engine.com, for example, it's week eight next week, and we've published 24 pieces of content, and they're already getting clicks and impressions and improving their LN visibility.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we already have 30 more in production already.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so they're very responsive, and obviously like with more technical and larger footprints, it's all about like us aligning on a few lanes of like personas and audiences or topics, right?",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that we don't try to do like 50 things, you know, because then you're going to end up doing having to do like 50 calibration cycles, pretty much because it's like if every one of your.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Audiences is completely different or something like that, or the topics are wildly different, or there's like completely different stakeholders.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so what we try to do is week one, schedule a bunch of deep technical deep dives and talk to experts, ingest as much information as possible.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But the benefit of Redis is that you'll have, due to the open source nature, so much information available as well.",
+            "timestamp": "00:19:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That there's so many things out there that, you know, we can move quite fast because of that, where we're not completely bottlenecked by, you know, doing deep dives with internal experts, for instance, you know.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Anything else on your end, though, I think we didn't cover, like, you know, if now we can also kind of switch into, like, some of the unique, I think, opportunities that we're seeing as well for you guys, you know.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I don't know if I have any other specific questions just yet, but I'm sure I'll come up with something.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, like, the part that's really interesting is, like, you guys have, like, over almost, like, 6,000 pages if you include everything.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "It's an absurd amount of pages.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I know we're doing a replatform right now.",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So, yeah, it's been a nightmare.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's fun project.",
+            "timestamp": "00:20:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, if you filter out docs content, which, you know, maybe in this case we wouldn't focus there, it's still a large footprint, like, maybe 1,300, 1,400 pages.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I don't know if that sounds about right, Cody, but.",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's close, yeah.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Talk with SEMrush sometimes.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's going to miss some things, but.",
+            "timestamp": "00:20:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And, like, do you have a sense of, like, what has worked so far from a content and just your digital footprint perspective overall?",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, from an organic perspective, mostly, you know?",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, I mean, the majority of organic traffic comes in from docs, right?",
+            "timestamp": "00:20:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "But also any of the, any of.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "The technical content, the tutorials, stuff like that.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "That's why we focus on that largely.",
+            "timestamp": "00:21:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Benchmarking works really, really well.",
+            "timestamp": "00:21:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So one of our newer posts, but also one of the top performing blog posts is a vector database benchmarking one.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So people like to see the proof.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They like to see how to do things.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think those are the main things.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Nice.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And like the part that's really interesting too that I was mentioning is the, because you have so much footprint between the resources, learn, and blog, like there's no way you're updating it with up-to-date information.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so what ends up happening, like, and what we're seeing is like, if you can go back to that surface area because you have so much authority, and even if you're already ranking, but then it's not just about ranking and showing up because you have so much brand authority.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "One, refreshing helps continue to maintain that leadership, but also like show up even more.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But two, it's like...",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Tweaking the language.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I know, for instance, like, Megan mentioned, like, hey, Pinecone and others have a lot more brand awareness around, like, vector databases, right?",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "That's right.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Retrieval use cases for, or retrieval for AI use cases, right?",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And whereas, like, Redis, people associate more with, like, caching, for instance, right?",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's right.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "How do we change that?",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "the only way to change that is to actually, like, also say that, you know, across everything you do, you know?",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so that requires to, like, essentially, like, an exercise of not completely changing your whole site, but going through and surgically, like, tweaking that and addressing those things, you know, at a massive scale, you know?",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And what we've seen, like, when you do that immediately, like, like, augment code wasn't showing up when you search for, you know, coding tools for large code bases.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And within a day, it started showing up as number one in a lot of those queries, you know, in LLM.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it was all about the language we used in kind of informational articles more than what they said on their homepage.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "know, nothing changed.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "sure.",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "You know?",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, completely agree.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I mean, I think one of the things I see a tendency for us to do is to just create net new content.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "But I think especially like you just said it, like we're ranked really well in caching, but we're trying to build the AI story.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I think there's a lot of existing, like some, if we could reframe the caching page so that it talked about AI, talked about some of these things and how caching does relate to the AI stack.",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "But we just, yeah, we're always capacity constrained, I think, there.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so what, I don't know if Kyle is sure, but so one of the things, way we work is we do these strategy sprints at the beginning.",
+            "timestamp": "00:23:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "The benefit of",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That is like eight-week strategy sprint.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "At the end of it, you guys can fire us, we can fire you, but so far that hasn't happened.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And what's cool is we can go super, super deep and not only do all the artifacts, the content strategy, and everything else, but also start to execute, but then also de-risks things quite a bit for you as well.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But I think this is one of those things where it would be, I think, so beneficial.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We can really, I think, knock it out of the park for you, and we have a ton of good references, too, if needed, on companies that are not competitive with you, but similar.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And, you know, like we're working, for instance, like LOAI, the AI space, like we worked with the Promful and the LM security space, obviously, like Abnormal and Sentinel-1.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But I think the only thing that would be interesting to kind of think through is just, I don't know, how long the procurement process",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Processes on your end as well, but at least on our end, we can move super, super quickly to hopefully be able to start refreshing content and crafting the right strategy, I guess.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, it completely depends on what, I think, day of the week you hit the procurement team on.",
+            "timestamp": "00:25:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "It's kind of a nightmare, but yeah, that would be more of a, yeah, we would know once it gets all, gets submitted through the system, they have like, I don't know, they have like two weeks to approve things.",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "But that's usually about how long the initial piece takes, unless there's a security review, which I don't think this would, unless you're getting any access to like our internal systems.",
+            "timestamp": "00:25:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sometimes we get questions just because when you hear AI, it perks up, but usually, you know, us sharing a bit how we work, how we, you know, are focused on public.",
+            "timestamp": "00:25:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Data with a lot of what we do tends to alleviate those concerns pretty quick, but usually there's just a few things we have to go through.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "One question that did come up is like, how do you keep stuff on, we've got a really strict, I don't know what the right way, right and nice way to say this is, but our brand team cares a lot about brand voice and that every piece of content goes through them before it gets published.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And do you, how do you manage that?",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Like, do you, do you work with brand teams who are similar or do you build it into your tools so that it automatically does this?",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Like we pay for writer AI today.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "think that kind of tries to do that.",
+            "timestamp": "00:26:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I've never used it to be honest, but yeah.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's a common trend of like a lot of teams, like they buy a lot of tools, but then very few people are actually using because to set it up is time consuming, but also to do a lot of the process of.",
+            "timestamp": "00:26:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like interviewing people, creating the right artifacts and doing all of that.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so it's like, want to think about it as like, we're end-to-end.",
+            "timestamp": "00:27:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "do not only, we help with the strategy, the execution, the AI workflows, all the tooling.",
+            "timestamp": "00:27:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We buy all the access to all the APIs, all implement it.",
+            "timestamp": "00:27:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "There's no like usage-based type of, you know, restrictions.",
+            "timestamp": "00:27:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we also do all the lift on like getting access to your CMS, hitting publish, like optimizing the content, doing SEO audits, like all of that.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we meet weekly and we're an extension of your team, essentially, you know.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Oh, that's cool.",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, like we try to give you no homework ever other than make sure we're heading in the right direction and then calibrating, you know, but we're truly like an extension of your, of the team.",
+            "timestamp": "00:27:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I'm sure Megan told you that we work with like an SEO agency today.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I don't know if you work complimentary to somebody like that.",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "That's, that's all they focus on.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I mean, they do give us like content briefs and I, they're not.",
+            "timestamp": "00:27:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Not very helpful to me, but some writer writes them and the content is hit or miss.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "want to waste the money, you keep paying them, but we've, Ramp had multiple agencies, they fire all of them, Reddit fire them as well after they started working with us.",
+            "timestamp": "00:28:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like most, it's like in-house helps a bit more at times just because like they help share context and things like that.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But honestly, like most of our best engagements are ones where we can execute quickly.",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So for instance, like Engine, the example that I was using, they switched from this agency called Graphi.",
+            "timestamp": "00:28:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We've actually had another one as well that did the same.",
+            "timestamp": "00:28:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And also these agencies just charge a lot of money and like give you briefs if you want to briefs, but it's like the brief doesn't do anything because.",
+            "timestamp": "00:28:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "No, it doesn't.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, it's like, you still got to do the work.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Then I have to review all the briefs and then review all the, them through my team for technical life.",
+            "timestamp": "00:28:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "And everything else, takes, yeah, all of that takes forever.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "We've got a queue of 60 briefs spun up, I think, and no action on them.",
+            "timestamp": "00:29:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So it's a nightmare.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, just think of it as, like, a lot of us are former in-house marketers.",
+            "timestamp": "00:29:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We've built these teams.",
+            "timestamp": "00:29:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We've inherited agencies.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, we've been trying to, like, we felt that pain.",
+            "timestamp": "00:29:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So that's kind of why we modeled the way we did.",
+            "timestamp": "00:29:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cody, I got to run, but what do you think could be logical next step?",
+            "timestamp": "00:29:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Should we do, like, maybe a deep dive while at the same time sending maybe a proposal over or something like that?",
+            "timestamp": "00:29:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, again, like, we're super simple in how we work together, but we'd love to lean on your lead here, you know?",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, so I want to talk.",
+            "timestamp": "00:29:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I think we definitely need to have Feng Lin in these conversations.",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "She's the one who owns that budget for the SEO agency, and she's the one who's doing all these briefs and everything else right now.",
+            "timestamp": "00:29:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "So she's got to be part of the conversation.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "I think somebody from the brand team would be great to pull into the conversation.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "But I think if you send whatever a proposal is good, and I'm super interested in this, I'd love to, and I know it's a lot of upfront work, but if you send that, like, I would love to see, like, some of pieces of content that have been created, especially for anybody who's, like, close to us, more technical, yeah.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Yeah, that's perfect.",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool.",
+            "timestamp": "00:30:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:30:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we'll follow up and have a safe trip back.",
+            "timestamp": "00:30:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Appreciate it.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Talk soon.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cody Henshaw",
+                "matched_calendar_invitee_email": "cody@redis.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:30"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Explore potential collaboration between Redis and GrowthX for content strategy and execution.](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Redis faces challenges with content refresh, AI-related positioning, and scaling technical content creation](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=6.0)\n  - [GrowthX offers end-to-end content strategy and execution services, with rapid results in AI/LLM visibility](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=45.0)\n  - [Redis team is interested in GrowthX's approach, particularly for refreshing existing content and improving AI-related messaging](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=53.0)\n  - [Next steps include involving key Redis stakeholders and reviewing a formal proposal from GrowthX](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1781.0)\n\n## Topics\n\n### Redis Content Landscape and Challenges\n\n  - [Redis has \\~6,000 total pages, \\~1,300-1,400 excluding docs](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1216.0)\n  - [Majority of organic traffic comes from docs and technical content (tutorials, benchmarking)](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1264.0)\n  - [Current focus on creating new content rather than refreshing existing pages](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1392.0)\n  - [Capacity constraints limit ability to reframe existing content (e.g., relating caching to AI stack)](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1409.0)\n  - [Brand team has strict review process for content voice and style](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1567.0)\n  - [Current SEO agency provides content briefs, but execution is challenging (60 unused briefs in queue)](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1744.0)\n\n### GrowthX Approach and Capabilities\n\n  - [End-to-end service: strategy, execution, AI workflows, tooling, and CMS integration](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1624.0)\n  - [8-week initial strategy sprint with option to continue or terminate](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1438.0)\n  - [Rapid results: e.g., Engine.com seeing improvements by week 8](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=866.0)\n  - [Deep research and context-building process (2-3 weeks for calibration and artifact generation)](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1426.0)\n  - [Focus on efficient, high-quality content creation aligned with company context](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1624.0)\n  - [Ability to quickly improve AI/LLM visibility through strategic content updates](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=919.0)\n\n### Potential Collaboration Areas\n\n  - [Refreshing and optimizing Redis' extensive content library](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1392.0)\n  - [Improving Redis' positioning in AI and vector database spaces](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1345.0)\n  - [Streamlining content creation and approval processes](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1567.0)\n  - [Replacing or complementing current SEO agency services](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1667.0)\n\n### GrowthX Case Studies\n\n  - [Ramp: Consistent AI overview appearances, vendor catalog, per diem calculator](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=744.0)\n  - [Augment Code: Immediate citations for new \"Guides\" section](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=900.0)\n  - [Airbuy: 300 pages refreshed in 3 weeks, nearly 2x impressions](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=990.0)\n\n## Next Steps\n\n  - [GrowthX to send a formal proposal to Redis](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1764.0)\n  - [Redis to involve Feng Lin (SEO budget owner) and brand team representatives in future discussions](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1782.0)\n  - [GrowthX to provide examples of content created for similar technical companies](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1822.0)\n  - [Redis to review proposal and content examples](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1822.0)\n  - [Schedule a deep-dive meeting with expanded Redis team](https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG?tab=summary&timestamp=1822.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Send Cody recording of 2-hr workshop on GEO/content strategy\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:49",
+            "recording_playback_url": "https://fathom.video/calls/368077291?timestamp=349.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Send proposal to Cody for Redis engagement (incl. 8-wk strategy sprint details)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:17",
+            "recording_playback_url": "https://fathom.video/calls/368077291?timestamp=1757.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Schedule follow-up meeting w/ Feng Lin (SEO budget owner) + brand team rep to discuss GrowthX proposal\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:30",
+            "recording_playback_url": "https://fathom.video/calls/368077291?timestamp=1770.9999",
+            "assignee": {
+                "name": "Cody Henshaw",
+                "email": "cody@redis.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Share examples of tech content created for similar clients to Cody\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:49",
+            "recording_playback_url": "https://fathom.video/calls/368077291?timestamp=1789.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Cody Henshaw",
+            "email": "cody@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Cody Henshaw"
+        },
+        {
+            "name": "Megan Boone",
+            "email": "megan.boone@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Fung-Lin Wu",
+            "email": "funglin.wu@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Kyle Gaudreau"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/UmFWigqDyrDqycaEiXMNUYx3tyz1mwMG",
+    "crm_matches": {
+        "contacts": [
+            {
+                "name": "Megan Boone",
+                "email": "megan.boone@redis.com",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/127772156899"
+            },
+            {
+                "name": "Fung-Lin Wu",
+                "email": "funglin.wu@redis.com",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/128525477872"
+            }
+        ],
+        "companies": [
+            {
+                "name": "Redis",
+                "record_url": "https://app.hubspot.com/contacts/341940338/company/79992713197"
+            }
+        ],
+        "deals": [],
+        "error": null
+    }
+}

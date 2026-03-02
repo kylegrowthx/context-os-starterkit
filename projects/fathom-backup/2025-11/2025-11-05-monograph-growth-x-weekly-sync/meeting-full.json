@@ -1,0 +1,2603 @@
+{
+    "title": "Monograph <> Growth X - Weekly Sync",
+    "meeting_title": "Monograph <> Growth X - Weekly Sync",
+    "url": "https://fathom.video/calls/463482660",
+    "created_at": "2025-11-05T18:25:02Z",
+    "scheduled_start_time": "2025-11-05T18:00:00Z",
+    "scheduled_end_time": "2025-11-05T18:30:00Z",
+    "recording_id": 99455956,
+    "recording_start_time": "2025-11-05T18:01:41Z",
+    "recording_end_time": "2025-11-05T18:24:56Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "On one hand, it's, like, overly repetitive.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Like, a lot of our posts look the exact same and don't stand out visually.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And then on the other hand, outside of, like, this extreme repetition of, like, image, single images, like, everything looks very different.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I didn't put that.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "How's it going, Panzar?",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah, doing well.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I don't know if you agree with the take that we have on the visual representation of the blog, but a lot of things went through.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I mean, if I remember correctly, like, we did an initial pass of iteration on the images, and then the initial ones had more, well, basically just more images, right?",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, these are basically text templates, and the originals had sort of more images integrated.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But there's a variety of things we can do.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, we're working with a women's supplement company right now, and we're doing some pretty, I think.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Pretty well-generated images of women at various stages of life that are generated on the fly.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then they also have ethereal, botanical images as well, that kind of thing.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And so we can vibe with that.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And so we can give the model, I think we're using, oh gosh, maybe Nano Banana for that.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I can't remember what we're using under the hood for that.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But the WordClose can use a variety of different image generation models.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like it's agnostic about the models that it accesses.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "The important bits are like the templates, like how you build and parse the templates, basically the instruction sets that you get.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So that, you know, with the, in the case of the ones that we're producing for you now, like you could see those in the Airtable or obviously on the blog for all the published posts.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Those are very straightforward, like HTML templates that say, hey.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We want you to create two versions of this.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We want you to create a version that has the text that is in the title field.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So take the title and overlay it over the top.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then the other one is pick, basically pick like a subject, a prime point from the piece, and then put that as a text overlay.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And the initial instruction or thought process around that was you can use that for your sharing.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then the one with the title or the one with the title on it for shared for the blog post, and then the one with like a thought from the post as a shareable.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But that that does not have to continue to be so right.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So we we are not doing this because this is the only thing we can do and definitely change it.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And we can work with you like if you're doing a brand identity pass or just trying to like unify.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can play within whatever rules you set up.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We are not really geared to like redesign all of that stuff, but we can play in worlds that you create.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's possible for us to do that, for us to like design a brand identity or design a new visual language, but it's pretty involved and I'd have to like go see what resources we have available.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But if you're already embarking on that for other things from the web, you know, you've got a friend and team and you're working with them and you're like, hey, let's do an identity pass or anything like that.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can use those brand guidelines and whatever they come up with and then find something that works, plays in that universe.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So we do not have to do just this like text template thing.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "This is just what we landed on this time.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And I do think that's something we need to dive into on our side for sure is do some sort of brand pass and not totally like export that that work.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Because I think we do need to spend some time really thinking about what we want it to look like and what we want our brand image to, like, our brand, our positioning, the way that we speak.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Like, we really do need to have some conversations in-house about these things.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And also so that we can give you guys more guidance.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I would like to get more life on our website in general.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Like, we need some photos of people, whether or not they're, like, all black and white and stylized is fine.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "But I think in general, like, we just need more life as well.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And I think that that's something that, like, has to come from us a little bit at least.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And basically the way that I have seen it work well is you're going to have those discussions.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You're most likely going to record them in some fashion.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You're going to come up with maybe brand guidelines.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's great.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But even if you have like dialogue about them and you're like, oh, yeah, this is really what we want.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And you've kind of come up with something.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can parse that.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, so it's not like a burden for us to take that information and then parse it and then come up with images and then pitch you basically some images.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Say, hey, here's a smattering of options for you to like look at and choose from that can get you into a stopgap area between, okay, we've hired an agency or hired a team or even brought, you know, hired internal roles to like design our brand identity, which is a big thing.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If you're trying to like get somewhere on this and you have conversations and you've kind of settled on something that you would then tell a brand team or say, hey, here's what we want with the brand or whatever, we can take that information, parse it, and then generate images based on it.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And at least like the bulk of what you guys produce.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Let you guys take that on and then if Jessica feels the need or if I feel the need or if Organic Social feels the need to cross promote something and we want to do a little bit of an extra lift, have some sort of like in-house template that we can like make it a little bit more unique or stand out or like something like that.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "But I like the idea of continuing to lean on you guys for like the bulk of the content but then like Jessica if you say let's get this in the newsletter maybe we then we can like snaz it up a little bit.",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Yeah, I would agree.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "I do, we do, we're probably a little bit of a ways away from that because I think we obviously have to have some internal conversations and we do actually have some like short-term needs.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "So I would like to talk about like what we can do in the interim and I think it's probably just continuing to do what you guys are doing, Panzer, and then knowing that we're probably going to want to change this at some point.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "I think.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "My POV is that we don't know who we are from a brand perspective.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "You've probably seen on our website, we have a lot of different images.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "We have a lot of different messaging.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "We can't even capitalize appropriately everywhere.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "so there's a lot of confusion that we have on our end that I think we need to work out before we can share anything out.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "But I would like to prioritize this.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "I just think it's going to take us a little bit time to get there.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Right now, the blogs, they're only being used in newsletters.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "I am actually planning to have Chris, our, I guess, creative content guy, create some ad images.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "So we do want to start promoting it on LinkedIn as well.",
+            "timestamp": "00:07:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So I'll probably have him create some stuff there too.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But those are, I think, the two places where we will start, like, pushing out blog content a bit more.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "yeah, I mean, if you're in a pinch and you're like, hey, I have a...",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Idol.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Can you generate me an image?",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You know, send it our way, know, happy to help.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "And then, yeah, we can talk and circle back, I guess, on like where we land.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And I do think there's a world where we can just say like, hey, Chris, can you give us a template for blog posts in the newsletter and assign that to him as a task and be like, whether or not it's something like fully on brand, it's something that you and I can get into and make these adjustments as needed without having to ask anyone else.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Just say like, the way that we're requesting new ad creative, we could be like, okay, Chris, can you make us this template?",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "We can adjust this as needed.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "We can just put different copy in here for any new blog posts.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And then we at least have some sort of template in Figma that we can adjust as needed.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And then we only really have to assign Chris one job, which is creating the template for us.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Yeah, that's kind of how I think we're, I'm asking him for a different request.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Like a download of all pieces of content.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "I think that's kind of where he's going.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "He is also looking, though, for us to be like, hey, this is kind of exactly what we want.",
+            "timestamp": "00:09:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "So I think the creative inspo is probably going to have to come from you and I.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And I'm happy, like, you can, if you want to keep the ad request on your side, and then I can make some sort of request for blog creative, I'm happy to just send that over to him today.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "I'm going to bring it up in our team meeting, because I actually want to talk about messaging framework and how we can create one, because we don't have one currently, as well as the image, just like our brand guidelines and just images in general.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Let's take a look at this agenda really quick.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I have some updates for you, Panzer.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Let me see where I put them.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "We still haven't met with the Ops, so I haven't been able to get you into our Google Analytics or Google Search Console yet, but we will be meeting with them tomorrow, and I'll make sure that we cover all of that and, like, get you added in the moment.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So hopefully by tomorrow we'll be able to have the reporting and get you guys into our Analytics and Google Search Console.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I'm still trying to pull up the agenda because I can't do more than one thing at a time.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, so confirm, yes.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Decide whether ERP and construction-related terms are in scope.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's an agenda item from last week.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "The answer is yes.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Provide visibility into conversion tracking, TBD, begin setup of content-related conversion event if needed.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So I can explain that just a little bit here for your note-takers or your brain.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So,",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "When you're talking to your folks.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So the tag that currently exists on the site that is the conversion tag, that's great.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's fine.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But we would love to be able to have your analytics team create a tag specifically for growthx content with that trigger.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Basically, it's like, hey, is this a conversion trigger?",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But it's unique to growthx so that we know, hey, is our content driving conversions for you?",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And we can start to track that metric.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If it's the overall one, it's impossible to say like, you know, where it came from.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then as it- What is the, really quick, what would the unique identifier be for growthx content?",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You could just create it on your site.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "It does not, it doesn't matter to us as long as you just tell us.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Or what I, what I mean is like, how would Google tag manager know that it is good growthx content?",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, Oh, what we do is, yeah, yeah, build,",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Build the \u2013 you just create a new tag, and then my \u2013 this is the addendum part.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, I think what we need to do is on the blog pages is just add a CTA button.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then also the link that we put in there, we have a link in every article in the CTA.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We would attach it to that link.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So that link would have a UTM parameter that called that tag so that anytime anybody passed through that article and was like, you know what, I would like to check this out and click through, then we would see the result.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So it would be via CTA, like a unique CTA for growthx content.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, well, right now in every article that we publish, we have the FAQ, and then we have the body, and then in between, which is really like a blended conclusion, which I think is a really elegant way to handle it, versus like, by the way, here's a CTA, know, it's like it blends the conclusion of",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And, you know, if you're ready to check out more, like, check out Monograph here, right?",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And that link, we would just change that link to a UTM parameter link that has that tag embedded in it.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then anybody that clicked through, at least we would be able to say, like, hey, we have some authoritative data that says these kinds of articles are driving people down this funnel for you.",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So I think that would be the immediate way.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And it's very easy to do once you have the tag set up.",
+            "timestamp": "00:13:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We just make sure that that link has the UTM parameter.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah, that sounds easy enough.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I will talk to Ops about that tomorrow.",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, let's see.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "That is it.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I do have this link for CRM stuff.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So, best info around our new Leads product, which I haven't gotten any updated information that we're calling it something else.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I don't love the name Leads.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It feels very",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "A pigeonhole-y to me.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So I think we're still working on that, but that is tentatively what we're calling it.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "But that document there is a link to our notion.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I did ask for permission from product to make sure I could share it with you.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So you won't have access yet, but the link is here, and I will let you know when I get the go-ahead that you can take a look and I can share it with you.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, that sounds great.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That just allows us to build, obviously, more authoritative keyword analysis and make sure that we're publishing stuff that actually will draw people.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah, one thing I want to point out, and I just, because I don't know if it's on that page, but Kanban, I know that they've really made an effort to use some sort of like Kanban UX or UI.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So that might be a good place for us to lean into.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay, interesting.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I don't know if there's any search volume there, but I've seen it pop up in other verticals.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "No, it's good.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's a good signal because we would just basically pair that with the roles and then, you know, the roles and personas and then see what we come up with.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, what are the ways that those personas and those people talk about this and more importantly, search for it.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So yeah, sounds great.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Very cool.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I don't have anything else.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "is this?",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Reddit data cannot be tracked via Looker, exploring.",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's really just more of an FYI.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You know, we're finding new ways to track the Reddit stuff.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We're doing experiments with other people.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So the good news is that you're getting some lift from the fact that we're all trying to figure it out right now.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So it's not an isolated thing.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We will basically end up with some sort of native dashboard that you'll be able to access that shows some results.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, what is the deal with the Reddit traffic or Reddit engagement or activity there?",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So far, we're just publishing.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And, you know, I don't expect anything to happen right away on that.",
+            "timestamp": "00:15:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So you've got to seed and see what happens.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But so far, we're continuing to just post on Reddit.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah, that's it on the Reddit stuff.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "The other thing I'd like to point out is in the last month, we have had 12 demo submissions with the source being ChatGBT.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I'm still trying to dig into that, and I need to create a longer-term report to see month-over-month growth as GBT as a source.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But I do think once I get good information around that, we'd be able to attribute a lot of that to the work that you guys have done.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Oh, awesome.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's great.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, absolutely happy to hear that, obviously.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have seen some surge, a little bit of surge, just as a thing that you can look out for.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "A little bit of surge in Anthropic, in Claude results and redirect.\ufffd.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So ChatTBT has been big for a long time in terms of LLMs.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's been the number one referrer for most people.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But we're seeing Claude kind of surge a little bit there.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And I think it's just right around the time Sonnet got introduced, Sonnet 4.5, excuse me, got introduced, I think.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then Opus 4.1, so maybe three or four weeks ago.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So you can keep an eye on that for LLM referrers and see if there's, you know, anything that you're seeing.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But like the data shows that perplexity has been, you know, the number two.",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Gemini generally hovers and bounces around, depending on how you credit the AI summaries bit, you know, the snippets.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then Claude has been a distant fourth, but it's sort of like surging.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So something to work out for.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah, nothing.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "We haven't seen anything from any other LLM yet, but definitely we'll keep an eye out for it.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then, you know, we, you know, we use scrunch to track the prompts and all that stuff right now, but.",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So we are, we're going to have a very nice solution for you to be able to track Monograph and track its exposure on LLMs that is, you know, you're not going to have to go anywhere else, I think, for most of that data.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So that'll be coming very soon.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I'll let you know as soon as we can give you access to it.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Love it.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "The other thing, really quick, so we are going to be doing like formalized campaigns around our AI and CRM launches.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I will be taking some like benchmarks that show how much traffic we are getting around AI keywords and CRM keywords now as a benchmark, and then we'll compare month over month.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And then once the campaign goes live, obviously compare on like an ongoing basis, but I'll get some benchmarks now.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So I would like to have like a general idea of like how much AI or CRM content we can produce by month.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So just as I decide like.",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Like, just in my campaign, I'm like, I want to be able to say, okay, we'll be producing 10 CRM-related blog posts a month or five CRM-related AI posts a month, just some sort of, like, easy generalization.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Would you want to tell me the bandwidth that you guys are open to there, or would you prefer me just identify how many blogs I want to see get out for AI and CRM, and you guys take that number and run with it?",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I think I'm fairly agnostic about it.",
+            "timestamp": "00:19:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "mean, from a strategy perspective, we've established that you have some opportunities in these keywords, and the sooner we see things, the better.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So I think it's really just a matter of what you decide.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So your bandwidth per month is roughly 20 articles, or your bandwidth, your budget, let's call it, right?",
+            "timestamp": "00:19:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So we have 20 articles that we can deliver for you on a monthly basis.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If you want to adjust.",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's that up or wanted to say like, hey, let's add some more, you know, deliverables onto the contract or whatever.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can do that.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If you want 20 pieces, if you want, like, so right now it's five pieces a week, right?",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can do one of a couple of things.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You can say like, you know what, we want to put a little bit more money into this thing, into this till, and we want to actually add five pieces a week.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That is just all this, this supports this new product.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can do that, right?",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can talk about it from a contractual perspective and say like, hey, here's what we would charge, et cetera.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You can also play with the budget you have.",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You can tell me today, hey, I don't want to see a single article go out live on the site that's not AI or CRM related or both.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Fine, no problem, right?",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We'll shift immediately and produce those articles.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have like, I think maybe 15 in the hopper for you right now that are already done, but we can set this aside.",
+            "timestamp": "00:20:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can reschedule them, push them and start right away.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like there's a.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So variety of things we can do for you.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "would say that the two ways to look at it is one, you can add additional capacity.",
+            "timestamp": "00:21:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We do have the ability for it.",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We've got the room.",
+            "timestamp": "00:21:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And just in terms of raw capacity on our side, we can do it.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "The second thing is you can recompose the kinds of content we're producing for you at any moment.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So if you're like, hey, we need to start now.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I really don't need to write any more about engineers right now.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "need to write about anything AI and CRM related for our, obviously for our core audiences, which are engineers and architects.",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But I want these topics.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's focus on those keyword clusters.",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can, as soon as today, just go like, cool, we'll set those other ones aside and then start on this.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then that's every article you get from now on will be that until you tell us to stop.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So happy to do that.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's totally up to you.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So those are the two main paths.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "And I also forgot to mention the engineering content in that as well.",
+            "timestamp": "00:21:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "So I think what I'll do is I'll ideate around it a little bit and then maybe even come with like a percentage over the next like four months, a percentage we want to.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "We that be engineering, percentage we want to see that be CRM, and then a percentage we want to see being AI, and then that can relate to, like, the prioritization of the campaigns.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So that's awesome.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I don't have any more questions.",
+            "timestamp": "00:22:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Jessica, you have anything else you want to dig into?",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Lam",
+                "matched_calendar_invitee_email": "jessica.lam@monograph.com"
+            },
+            "text": "No, I think I'm good.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then the only other item on the agenda was we are, we internally do case studies with clients now and then.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And so if you'd be open to, I know you don't have a ton of bandwidth, but we would try to make it very straightforward.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Any cooperation or input on your side, but we'd love to do a little case study on just, like, getting Monograph off the ground with Organic and the growth so far and stuff like that.",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "I might not be the best person.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "might be Robert or Chris, since they've been around since the beginning with you.",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So I can ask that question in our meeting later today to see if they're open to having that conversation with you.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I'm sure they will be.",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, the time commitment, I don't believe.",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "is huge.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "think it's like a 30-minute SME type interview kind of thing.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Love it.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Thank you, folks.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Thanks so much.",
+            "timestamp": "00:23:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Have a good rest of your day.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Ciao.",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "You too.",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Allison Terres",
+                "matched_calendar_invitee_email": "allison.terres@monograph.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:23:10"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Sync on blog visuals, tracking, and content strategy.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=20.0)\n\n## Key Takeaways\n\n  - [**Blog visuals are repetitive;** Monograph will define a new brand identity, which growthx.ai will then implement.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=24.0)\n  - [**New tracking will isolate growthx.ai's impact** by tagging conversions from unique CTAs in their articles.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=647.0)\n  - [**Content strategy will shift to support new product launches** (AI, CRM), with Monograph defining the new topic mix.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1101.0)\n  - [**Early wins are visible:** 12 demo submissions were sourced from ChatGPT last month, and growthx.ai will build a native dashboard to track LLM exposure.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=971.0)\n\n## Topics\n\n### Blog Visuals & Brand Identity\n\n  - [**Problem:** Current blog visuals are repetitive and fail to stand out.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=24.0)\n  - [**Root Cause:** Monograph lacks a defined brand identity and messaging framework.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=420.0)\n  - [**Solution:** Monograph will lead an internal brand pass to establish a new visual language.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=228.0)\n  - [**Implementation:** growthx.ai will then apply these new guidelines to all future content.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=286.0)\n  - [**Interim Plan:** growthx.ai will continue the current text-overlay style. Monograph's creative lead (Chris) will build a Figma template for unique newsletter assets.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=397.0)\n\n### Conversion Tracking & Reporting\n\n  - [**Goal:** Isolate conversions driven by growthx.ai content from general site activity.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=647.0)\n  - [**Method:**](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=647.0)\n    1.  [Monograph's Ops team creates a unique GTM conversion tag for growthx.ai content.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=647.0)\n    2.  [growthx.ai updates the CTA link in each article with a UTM parameter that triggers this tag.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=720.0)\n  - [**Action:** Allison will request this setup from Ops tomorrow.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=812.0)\n  - [**Reddit Tracking:** Looker cannot track Reddit data. growthx.ai is developing a native dashboard to provide performance metrics.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=924.0)\n\n### Content Strategy & New Products\n\n  - [**New Products:** Monograph is launching \"Leads\" (tentative name) and an AI feature.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=827.0)\n  - [**Keyword Signals:** The new product uses a Kanban UI, suggesting \"Kanban\" as a potential keyword.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=875.0)\n  - [**Content Mix:** Monograph will define a new monthly content mix (e.g., % for AI, CRM, Engineering) to support these launches.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1101.0)\n  - [**Options:**](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1188.0)\n      - [**Reallocate:** Shift the current 20-article/month budget to focus exclusively on new product topics.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1233.0)\n      - [**Expand:** Add new articles to the contract specifically for the new products.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1214.0)\n\n### Performance & Case Study\n\n  - [**ChatGPT Referrals:** 12 demo submissions last month were sourced from ChatGPT, validating growthx.ai's LLM strategy.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=971.0)\n  - [**LLM Trend:** growthx.ai noted a recent surge in traffic from Anthropic's Claude, a trend Monograph should monitor.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=990.0)\n  - [**Case Study:** growthx.ai requested a 30-min interview with Monograph for a case study.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1344.0)\n      - [**Recommended SMEs:** Robert or Chris, who have worked with growthx.ai since the start.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1344.0)\n\n## Next Steps\n\n  - [**Allison:**](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=589.0)\n      - [Request GTM/GA access for growthx.ai from Ops (Nov 6).](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=589.0)\n      - [Request the unique GTM conversion tag from Ops (Nov 6).](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=647.0)\n      - [Define the new monthly content mix (AI, CRM, Engineering).](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1101.0)\n      - [Request a blog creative template from Chris.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=489.0)\n  - [**Jessica:**](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=568.0)\n      - [Discuss brand identity and messaging frameworks internally.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=568.0)\n  - [**growthx.ai:**](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=647.0)\n      - [Update article CTA links with the new UTM parameter once the tag is live.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=720.0)\n      - [Confirm Robert or Chris's availability for the case study interview.](https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4?tab=summary&timestamp=1344.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Request Figma newsletter blog template from Chris; share creative inspo",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:07:59",
+            "recording_playback_url": "https://fathom.video/calls/463482660?timestamp=479.9999",
+            "assignee": {
+                "name": "Allison Terres",
+                "email": "allison.terres@monograph.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Add brand/messaging framework + image guidelines to team mtg agenda",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:16",
+            "recording_playback_url": "https://fathom.video/calls/463482660?timestamp=556.9999",
+            "assignee": {
+                "name": "Jessica Lam",
+                "email": "jessica.lam@monograph.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Add Matthew (growthx.ai) to GA/GSC; coordinate GTM CTA + UTM w/ Ops; then Matthew update CTAs",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:53",
+            "recording_playback_url": "https://fathom.video/calls/463482660?timestamp=593.9999",
+            "assignee": {
+                "name": "Allison Terres",
+                "email": "allison.terres@monograph.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Research Kanban search volume + personas for Leads product",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:14:24",
+            "recording_playback_url": "https://fathom.video/calls/463482660?timestamp=864.9999",
+            "assignee": {
+                "name": "Matthew Panzarino",
+                "email": "matthew@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Pull AI/CRM traffic benchmarks; send 4-mo AI/CRM/Engineering % to Matthew",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:18:18",
+            "recording_playback_url": "https://fathom.video/calls/463482660?timestamp=1098.9999",
+            "assignee": {
+                "name": "Allison Terres",
+                "email": "allison.terres@monograph.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Ask Robert/Chris re: 30-min case study interview; schedule if approved",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:22:13",
+            "recording_playback_url": "https://fathom.video/calls/463482660?timestamp=1333.9999",
+            "assignee": {
+                "name": "Matthew Panzarino",
+                "email": "matthew@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Robert Yuen",
+            "email": "robert@monograph.com",
+            "email_domain": "monograph.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Chris Morgan",
+            "email": "chris@monograph.com",
+            "email_domain": "monograph.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "allison.terres@monograph.com",
+            "email": "allison.terres@monograph.com",
+            "email_domain": "monograph.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Allison Terres"
+        },
+        {
+            "name": "Jessica Lam",
+            "email": "jessica.lam@monograph.com",
+            "email_domain": "monograph.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Jessica Lam"
+        },
+        {
+            "name": "Matthew Panzarino",
+            "email": "matthew@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Matthew Panzarino"
+        }
+    ],
+    "recorded_by": {
+        "name": "Matthew Panzarino",
+        "email": "matthew@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/9roP-xvps46iLhsiTD2BGPsVHsSGuug4",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

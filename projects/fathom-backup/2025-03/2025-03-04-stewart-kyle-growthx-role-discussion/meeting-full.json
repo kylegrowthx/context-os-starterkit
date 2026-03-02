@@ -1,0 +1,2406 @@
+{
+    "title": "Stewart <> Kyle - GrowthX Role Discussion",
+    "meeting_title": "Stewart <> Kyle - GrowthX Role Discussion",
+    "url": "https://fathom.video/calls/244890403",
+    "created_at": "2025-03-04T19:32:12Z",
+    "scheduled_start_time": "2025-03-04T19:00:00Z",
+    "scheduled_end_time": "2025-03-04T19:30:00Z",
+    "recording_id": 50131418,
+    "recording_start_time": "2025-03-04T19:03:24Z",
+    "recording_end_time": "2025-03-04T19:31:51Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "you know this kind of we at some points we were framing it as like the brain that kind of sits in terms in the middle of all your processes and that you can leverage all your workflows to hey it has to go here but then you know only in certain circumstances then you have to you know maybe do some detail whatever it may be or goes there and you can do that with that beer but the reality though of all this that I think we all faced is like it was really fun all the stuff we were able to build there and when I saw the customer's building I was really inspiring it's actually part of what led me to growth X eventually when I started talking about well I was like oh you're building off of some of that general mindset been down with LLMs and this is really powerful yeah but the reality also is and I think this is another reason why growth has intrigued me is like a lot of teams don't know where to start with that or they don't know the expertise you know RevOps was an angle we started to hit pretty hard but like RevOps was not a common you know",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "They said a lot of businesses and so you had people who were just so used to just like operating in very confined pieces of software and didn't have the expertise of understanding how to branch out of that and Those that could could do some really amazing things, but they are what more the exception is what I learned over the years Yeah, absolutely.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I can concur like that was always pain point even when work out.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "was like we Again, we leverage ourselves more as this sort of, you know, pro marketing, you know, bypass the dev Team sort of solutions that but even that was Frought with like well, do we do now and then to your point like what is exactly as rev ops like again like as traditional marketers trying to adopt These kind of automation solutions like they they had no clue and so It it was again.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "and I think it's still basically the case I think again were smarter now about what rev ops is and the idea of an automation solution is like that's become fairly ubiquitous But yeah, it was always a challenge.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "still think it kind of is.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I mean, I think you see it playing out a little",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "it with yeah the LLM's you know adoption and solution sets around AI.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "For traditional marketers or people who've been in the game or like what do I do with this like okay so what is the latency that is being solved you're like I used to again people get people get very entrenched and they think well I have a process but yeah your process takes it like you know it takes a week we can do this in like two hours and that's the cool stuff man like I was fortunate enough to work with someone who was like a trade power user his name's Niels he's still there today and we were basically partners and crime there for a while and he could do all sorts of cool stuff so we started them you know to it's similar to what you're referring to we were hitting all sorts of problems with like Marketo and there's it's so frustrating it was messing up our attrition things were getting dropped and it was just so rigid it was having some like I forget of race conditioning issues and this and that but anyways we decided we're like we can build this thing",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "right we're just going to do all this and try and we're going to just like and then all these like requests that we would have from the team of like oh we want to route leads in this way it's completely different than we did before it would usually be a two-week project and all of a it was like a day thing and I was like oh my god our work means not doing this but the reality is like there's only so many meals in the world you know yeah it's uh oh taking it back to growth X what excited me is like I think similarly and it's related is like yeah everyone's talking about AI and this and that and you know are starting to maybe develop a little bit more awareness of like automated processes and how to think programmatically to a degree at least seeing more of the examples out there right and yeah they still don't know where to start and that's actually I don't know if Marcel shared this but that's actually kind of part of how I you know I signed up to be the first growth X client when I was at home base I was leading growth there and went to the workshop and I was like this is so cool this is like",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "building up while I was doing that tray and like I was so so excited but the reality was man I was like where do you go?",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't have my plate I don't have time to take this on my team doesn't you know oh the way home base works like we were driving 80 percent of the revenue so it's just like I was a lot of like sure and like so but I wanted to take a big swing I felt like we needed to and that's kind of how actually the really going started didn't and anyways for me like when I thought about some of where we can play it's like people are developing more awareness to this space there's everyone wants to figure out how they leverage AI and what they do in their go to market they don't know where to start and so we provide this like unique like we can bring you to the product a bit but we're also the service layer to it that I think is like solving for some of the things I was seeing at try and now how it's all the all sense then and so there's many things that excite me but that's been one of the big ones for sure yeah it's interesting because I with a company called H.",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And they're in the AI still fine.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah, and I was like, what is this?",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "This is interesting, growth act.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Oh, interesting.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "the idea of like programmatic solutions, especially around like scalable content was, you know, like fascinating.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I found that to be one of the, well, don't tell them this by the time it's not to be one of the most engaging things about that time with them.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I was like, damn, this is actually the magic here.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "This is the secret block.",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "So again, a great team.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "God, it's such a cool tool.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "to me, that was like, wow, that's a game changer.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I totally sympathize with you.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "It was still though, the question is like, where do I start?",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "this is so great.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And without the CSR, the customer relations sort of team, that layering made it absolutely usable, and became just a great tool.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "But without it, oh, man, I don't know.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I definitely would be signing it up.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "some demos.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Someone please help me out here because again, when your tool can, well, I don't want to exaggerate, but when a tool can do anything or everything, it's hard to know, like, how do I build anything at all?",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Where do I start?",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Like what is the first step?",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You literally have this taken a quote, I've said that exact thing multiple times.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We used to talk about this, I'd try.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "was like, we would joke, it would be like, when we can do anything, that's not helpful to anyone, like the word to start.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so actually, part of our strategy was how do we get people to aha moments and show examples and this and that.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "so that's why we were doing live demos.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's like what we started doing, these things we were calling mofu blogs that weren't SDO driven, it was just like, let's just show people the  we can build.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And that started to work.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But you know, I have stuck in it, hope one day it's worth something, but man, that space has become so crowded, there's so many.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And now it's just the",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Puing up, I haven't done any, I don't want say any, but the marketing lip does not vary from then to the timing.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "That's the power, the beauty of a great product and a great solution set.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "but yeah, I mean, I think we're caught up still struggles.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "think, I think there's a lot of struggling in the automation space.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And now the pivot around, well, cool, automation is great, but like, I'm already, you know, the LOMs and the AI modality is already making that ubiquitous, like, so I really need it.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "That's a bigger question.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, totally agreed, agreed.",
+            "timestamp": "00:08:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, exciting times.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Love your background.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "know, think it fits in quite well with the kind of cool movies.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Transparently, we've been hiring so damn fast and we just close the series A.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, great.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Congratulations.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Money hit the bank last week.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We're all excited.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, a lot of context switching for me lately.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I was trying",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Ketchup because Marcel and I haven't had a chance of chat nearly as much as we used to the past four weeks with all this happening Are you guys talking about the managing director role or different version of that role?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It was like getting that correct?",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah, I believe so it's and again forgive me.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't know the exact time I can dig it up to my email, but it was either this SEO managing role I believe is what we're talking about I and if it's not it's okay I mean, I mean at the end of the day part of our philosophy here, too It's like while we're growing fast and developing And we have our perspective on what these roles could be There's also an aspect of just like finding smart people who are excited about our challenges and making it work That's kind of how we built this into today and you know work we're continuing to refine that approach a bit, but a little bit But I you know I can speak to that, but I I don't know if you've got much back",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "around into how we've evolved to this place.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "so I can give a little bit of context.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, that would be great.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "So just so, you know, so Marcel walked me through it.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Basically, I think it was, I think it was the same deck he may have used in the series A.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And that's fine.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "It was great, a great deck.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "loved it.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "walked me through some of the code-based, just very broadly, some of the challenges, what you guys are trying to do.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "But I would love some of that contact.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That'd be great.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, of course.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, so my journey on this has been interesting because, you know, being the first client, I was seeing some of the initial use cases and what was possible.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And I actually joke with Marcel and Jimmy.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't know if you've worked with Jimmy at all when you were on Hijan, but I know he's pretty close to that account.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Jimmy was also on this first workshop, so it's funny full circle moment.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I joke with them like, you guys, I didn't join because of what you were doing for home-based.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "There are so much more you could do and two opportunities that are fine.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I joined because of the opportunity.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So sometimes I have to, like, check them over.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "know that of, like, they're still applying today.",
+            "timestamp": "00:11:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But, like, it's been interesting during, because similar to what we were talking about earlier is, like, there's so much we can do that doesn't become helpful at a certain point.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You don't have a level of focus.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "so, you know, we were having a lot of these conversations before I joined.",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I joined back in October officially.",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And, you know, from there, you know, some debates and this and that, but we kind of come back to, like, all right, well, foundationally, let's focus on editorial and programmatic content.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "then, you know, that can be the end that helps us build other work streams into the future, because we kind of do too much.",
+            "timestamp": "00:11:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, we're just going to not do anything at a high level.",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Even within those work streams themselves, there's still a lot we can improve.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "there is a future where, man, this can really branch out in a lot of interest.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'll be to share some of, you know, some of my thoughts around that, but there's going to be a million, I'm sure.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And as we bring in on people with.",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "your expertise, right?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's like cool.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's just more fuel to add to this fire of what's possible.",
+            "timestamp": "00:12:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But when I first joined, we were kind of at this phase where it was just, you know, scrappy days.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "were at like 15 to 20.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It was under 20.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "can't remember the exact count of clients.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "were at like a million, 1.3-ish in ARR for context.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Now we're at like 48 accounts and 6 million in ARR.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So it's like insane growth since I started it.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But we were at this phase where we had account managers and supporting account managers.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "although what that really was is like these people lead other accounts and they support others.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But that's fine in the really scrappy days.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But you know, my concern was like, okay, well, we need to have better resourcing planning around these accounts, make sure we have what they need.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We have the right layers to ensure we have the right strategy.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "have the right resources.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "have the right processes.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We also need paths for growth for our team because like, you know, we were especially grinding people",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "in the early going, it's not a, you know, that's phase of a startup that's not easy.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And we want people, it's not just about compensation for everyone.",
+            "timestamp": "00:13:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "want that for growth here.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so one of the very basic things we did in December was start to introduce a pod structure model, which is pretty common for this agency, right?",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so we started putting in managing editors as the pod leads and then we'll add them to two account managers underneath them, and then one to two writers.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We're going to add more people these pods over time.",
+            "timestamp": "00:13:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Essentially, I've been managing the client team, and now we have eight pods, whole bunch of new hires.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's a ton of context switching.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We're bringing on, you know, somewhere in the range of two to three accounts a week.",
+            "timestamp": "00:13:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We could burn on more if we have the people in seat.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "lot of our attention, you know, to what you were talking about earlier, our problem is not demand.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "problem is making sure we can continue to grow and keep our reputation profoundly and enable people.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "to do that and bring them on as fast as possible and ramp them as fast as possible.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So I've now become the blocker in a lot of ways, right?",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So these engagements start in the early going, for example.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I've lead the kick-offs, eventually.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That won't be a thing.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'm looking forward to that.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And then, in the early phases, they can get a little bit attached to me, right?",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And then we have our meetings on Wednesdays and Thursdays.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Typically, I'm getting double-booked all over the place.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sometimes these people are in different time zones.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I've just become the blocker in a variety of ways, as we're saying.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "my worry is, we need to ensure we're training the team at a really high level, however we'll bring it on to continue bringing on great talent, and that we're really in the first, especially, like, you know, 12 weeks in an unconscious crush and we have the right strategy, we're executing at the right pace, etc.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so the way we've thought about starting to break that down is, okay, well, we need a layer above pots.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's just these pods today manage four to five accounts as part of each other.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "need to get to like seven or eight just behind eight off different things which can be kicked around.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "What are some ways to do that?",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Well, within the pods, we probably have to adjust some things.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We probably have to adjust the processes.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "need managing directors who are going to come in and help us manage these pods.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "so again, I don't know if that's the version.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Marcel was mentioning, I get to see these maybe looking at like a slightly different version in this case.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But the way we thought about managing directors is they manage two to three pods of people.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And that helps give us a critical layer of really ensuring we have the right strategy across these accounts.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It also provides us another person who can help us build those relationships and start them as a basic example.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "One of the things I talk about with the team or where I can is like, it's not just about a person who's on the call and keeping them happy.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sometimes that's fine because that's the number or CEO, whatever.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But there are times where the person who actually signs and owns the budget isn't on that call.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so there's more we can do to ensure they're happy, they're feeling what we're doing.",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "as an example, like Galileo, one of our accounts had a new CMO who started back in January.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We've been talking about this, but we didn't have a ton of capacity to really strengthen that relationship.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Although they're very happy account, met with him last week.",
+            "timestamp": "00:16:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "this dude is just like, oh my God.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You guys can do so much for us.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "They just literally, I got alcohol with them earlier.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "They're like, we're going to be in the Bay soon.",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We need to meet up.",
+            "timestamp": "00:16:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "There's all that we want we to do for us.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And it's just like, OK, those are the type of opportunities that we have more capacity to do things like there's just, it makes the account stickier, we can do all that.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We can just benefit so much.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'm doing a lot of detail out of what the managing director can do, but just trying to talk about some other things.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We also are hiring.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "or a director of client ops had a great interview for that earlier today with a candidate and look at that person is like, okay, like, how do we stand up things like NPS?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We've talked about like, hey, like we record all our calls.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "How do we capture like, are we doing, are we saying the right things on these calls?",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "What's the sentiment of these accounts?",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "How do we flag different signals with like account host over time?",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That person will help us with onboarding and enablement of the team and continue to develop a process.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I would imagine they would work closely with managing directors.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And there's a whole bunch of other stuff we're hired for, but strictly to like how the client team is developing.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's a bit of where it's going.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And also the thought process here is like, we have our assumptions of how this all can build, but like as we've been on really experienced smart people, there's very like, we're gonna be some things where they're gonna be like, yeah, but what about this?",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, I don't know if you guys are going, but here's where it breaks down.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "or whatever it may be.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so that's, know, we started addressing those things up with kind of enables to start to actually keep pace with this demand.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Because we don't want to also just assume it's always going to be there.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And do what we can to capitalize.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But also exciting part of this is like, as we were talking earlier, we haven't really marketed ourselves now.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's like a few LinkedIn posts, word of mouth, this and that.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so we really want to start doing that.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And just building out other work streams.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "there's going to be a lot of other paths for us.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But in the very short, medium term, it's just like, oh, our bread and butter today, how do we just scale that out and actually fulfill what we're promising?",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah, and I think it's really smart.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Because I think that focus, that customer center focus, is really the differentiator.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Like, there's a lot of great tech stacks out there.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "There's a lot of great capabilities and innovations.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I think what's key here is that we have that.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "but then on top of it, as we've said before, that interpersonal layer, and I think the posture is very clever.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I think that's the right way to go.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I think certainly that will be again, as the problem is scaled, but also I think it's hidden value to your point.",
+            "timestamp": "00:19:09"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Look, there's a lot more we could be doing.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "It's just we don't have the time to walk you through what we could be doing.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "So I think, again, a lot of that is opening up space.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "It's opening up time as well to help a lot of those account holders and again, to your point, the guys and the gals and the people signing the checks.",
+            "timestamp": "00:19:29"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "What more can we be doing for you that we have not yet revealed to you?",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So it all makes sense.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I think it's very wise to be bringing on people who have been there done that.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Certainly some of the pain points in terms of like, look, as we scale, be aware of X and Y, because this is coming.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "So I think that's",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I went in-house for a while, eight or nine, and I was like, I'm never going back agency side.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And then some people were like, reminding me of that, and I was like, well, this is a little bit different, right?",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Even through hybrid in some ways, what you're referring to, we're building for folks like yourself, and you are, in a sense, the customers both internally and would be the folks we back to, you know, a product and engineering team, and that is very much a unique kind of aspect of kind of where I would, it's like that hybrid of like product and service here that I think is pretty fun, and it was funny in the early days, Daniel RCTO, when he joined back in September, I think he was like starving for feedback in a lot of ways, and like, you know, getting as much as he wanted, and we brought on a lot of people who were more up to give that feedback, now we're inundated with feedback.",
+            "timestamp": "00:21:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, luckily, we're scaling our engineering team, and that's just going to add, as we add more experience, we're going to identify more things we can be doing, and so, yeah, very much feels like we're just scheduling surfaces, like we're walking into that.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah, that's the magic flywheel, right?",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "that's the golden flywheel, because again, I said this to myself as well, look, the value that we're looking to gain from any channel marketing that you do, SEO, whatever it is, that is only going to be predicated.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Well, pay is the same thing, but it's only going to be predicated on the power, the word of mouth and the strength of the product.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And so, these channels are not going to just somehow magically create value, they have to expose it, so that exposition of value has to come from the product, it has to come from great testimonials, absolute customer satisfaction, and I think, again, we've got so much going for us in terms of, like, word of mouth is just phenomenal, I say growth of X and people who, it's almost like",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I don't want to beat a cliche, but it's almost like a fight club thing, like you know, like you know if you know Grovex, then you're on the inside and you know what they can do.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "And so I think that's a really powerful, powerful testament to the product.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "so as it keeps pushing, we need it to keep pushing.",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "so that's so exciting, man, I'm trying to contain myself.",
+            "timestamp": "00:23:18"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "That's really exciting.",
+            "timestamp": "00:23:23"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah, I know.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "feel it, man.",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's part of why I've been here and was too, you know, the way I thought about my role at Home Base while, you know, it was a great place to be in a lot of ways.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "felt like this is just like, this is too unique of an opportunity to be a half fan.",
+            "timestamp": "00:23:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't know where it's going to go or could blow up in my face, but you know, the opportunities too crazy to not, you know, give a shot.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So record scratch moment for me like, whoa, Grovex, wait a minute, those cats are some badass cats.",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Wait a",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I'm gonna clear things.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Let's talk and love it.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I love it.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "The key though is I love that kind of like Mystique or building a bit.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, that's the word.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We have to we have to We have to maintain and build off of that and that's one of the things that like Worries me like when I say worry, it's not in the sense that I don't think can do it It's just I want to be vigilant that we like really start to build upon that as we continue to grow And that's why we're trying to be so damn aggressive with just like bringing on talent like this and It's funny like not only are we closing deals like insane.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's like one call We sign a 12 month deal.",
+            "timestamp": "00:24:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's just like, you know on the low end 9k a month, but some of these are 20 plus I mean our largest being 40k a month.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I love it But also like some of the people we just find really good talent sometimes and it's just like they're ready to go and like whoa Can you start next week and they're like well",
+            "timestamp": "00:24:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "This is unique.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "like, hey, it's a rocket ship, you know, you get on now You gotta get on now cuz it's gonna burn through the atmosphere.",
+            "timestamp": "00:25:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, so yeah anything else I can help answer for you to help Give you I mean, I think you'd be a great said, you know, you've got the thumbs up for me But anything else?",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah, I just want to reiterate like I man It's really hardening to hear like that because again, here's what you know, you know, you've been there you've seen it like Once you get the series thing and then we're ready to go scale up We blast through the market and then it's like what the  it's like, you know, part of my French It's like things sort of level off and you're like wait a minute What did we just invest all this in yeah because again product falls off because it can't keep up with the men because there's not Space made for it to continue to innovate and so the fact that we're already ahead of that game already trying to find ways of carving that because That is the to your analogy of like the rocket ship the actual fuel core of that engine that's blasting us through space",
+            "timestamp": "00:25:17"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "is the product.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "so it has to keep innovating.",
+            "timestamp": "00:26:01"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "so that is like mission critical.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "so you know again, I'm very product led.",
+            "timestamp": "00:26:06"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "so I love to hear that that space is covered out, because man, just makes everything easier.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "marketing is easier?",
+            "timestamp": "00:26:16"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "word amount is easier, deals is easier, because we're doing what we're doing and that's just making a fantastic product that just delights users and is elegant.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So I did it again.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "It's awesome.",
+            "timestamp": "00:26:28"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "There's so many loops we can create too that's going to be fun.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, you know, as we bring on these folks, that's one of places I want to spend more time and we'll, you know, start to have more capacity to is like building out other, you know, work streams for us.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like man, it can go so many different directions.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I can go on all day about that.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I'm excited.",
+            "timestamp": "00:26:48"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "One of the ones I was pitching Marcel on recently, we'll see if we actually do this a bit.",
+            "timestamp": "00:26:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But like, you know, that same ones that we've been talking about of like where to start and this not well.",
+            "timestamp": "00:26:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You know, sometimes we engage people who barely have a content program.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We're one of the early favorites for them, right?",
+            "timestamp": "00:27:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "believe we could be their growth team in a lot of ways.",
+            "timestamp": "00:27:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We can do in a few months where they take you a year.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Hell, you know, we're building a circle.",
+            "timestamp": "00:27:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And hey, we might be able to actually build your team for you.",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I've done a ton of hiring over.",
+            "timestamp": "00:27:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's phenomenal dude.",
+            "timestamp": "00:27:16"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "That is phenomenal because what tests that happen is again, people get locked in that agency mindset of like, okay, you're gonna do some like channel marketing for me.",
+            "timestamp": "00:27:18"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "That's cool.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "I pay you.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's great.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "We see some results, but actually reframing that as a growth mindset and like, well, we will lead you through it and actually deliver the team so that even if they wanted to take that in-house at some point of maturation, which is usually inevitable.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "They want to bring it in-house.",
+            "timestamp": "00:27:40"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "They've already laid the groundwork.",
+            "timestamp": "00:27:41"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "All they have to do is repopulate the positioning.",
+            "timestamp": "00:27:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So that is a brilliant strategy, dude.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "That's that is that's all I can And you know, we're even doing things how we do our hiring.",
+            "timestamp": "00:27:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like we automate lot of it.",
+            "timestamp": "00:27:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "don't have a recruiting team now.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We could bring that to them.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "could be a service, right?",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's like it can go so many different directions.",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "questions.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I could talk for hours about this.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "have to jump onto another, no worries, man.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I love the conversation, sir.",
+            "timestamp": "00:28:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "was great meeting you.",
+            "timestamp": "00:28:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Great meeting you, calm, man.",
+            "timestamp": "00:28:10"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "This has been awesome.",
+            "timestamp": "00:28:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "stewart mohammadi",
+                "matched_calendar_invitee_email": "stewart.mohammadi@gmail.com"
+            },
+            "text": "Let's chat again soon.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Any other questions come up, check me an email.",
+            "timestamp": "00:28:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Cheers, all the best.",
+            "timestamp": "00:28:16"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss the GrowthX Managing Director role and company strategy with potential candidate Stewart Mohammadi.](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [GrowthX has experienced rapid growth, scaling from \\~20 to 48 accounts and $1.3M to $6M ARR in recent months](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=741.0)\n  - [The company is implementing a pod structure with Managing Directors to oversee 2-3 pods each, addressing scaling challenges](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=894.0)\n  - [GrowthX's unique value proposition combines powerful tech/AI capabilities with high-touch customer service and strategy](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1132.0)\n  - [There's significant untapped potential in expanding services and deepening client relationships as capacity increases](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1157.0)\n\n## Topics\n\n### GrowthX's Rapid Growth and Scaling Challenges\n\n  - [Scaled from \\~15-20 clients and $1.3M ARR to 48 accounts and $6M ARR in recent months](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=734.0)\n  - [Currently onboarding 2-3 new accounts per week](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=818.0)\n  - [Kyle (speaker) has become a bottleneck, leading kickoffs and managing client relationships](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=846.0)\n  - [Need to scale team, processes, and leadership to keep pace with demand](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=876.0)\n\n### New Pod Structure and Managing Director Role\n\n  - [Implemented pod structure in December with Managing Editors leading pods of 2 account managers and 1-2 writers](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=789.0)\n  - [Creating Managing Director role to oversee 2-3 pods each](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=894.0)\n  - [MDs will ensure proper strategy, build client relationships, and free up Kyle's capacity](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=933.0)\n  - [Aiming for pods to manage 7-8 accounts each (up from current 4-5)](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=900.0)\n\n### Product and Service Hybrid Approach\n\n  - [GrowthX combines powerful tech/AI capabilities with high-touch customer service](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1132.0)\n  - [Unique position as both a product and service company](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1132.0)\n  - [Strong word-of-mouth and \"insider\" reputation among clients](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1381.0)\n  - [Challenge: maintaining product innovation while scaling rapidly](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1396.0)\n\n### Untapped Potential and Future Directions\n\n  - [Many accounts have unexplored opportunities for expanded services](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1620.0)\n  - [Example: Galileo account with new CMO eager for additional services](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=977.0)\n  - [Potential to become clients' full growth team, even helping build their internal teams](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1625.0)\n  - [Exploring automated hiring processes as a potential service offering](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1673.0)\n\n## Next Steps\n\n  - [Continue aggressive hiring to bring on experienced talent quickly](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1519.0)\n  - [Implement Managing Director role to oversee pods and deepen client relationships](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=933.0)\n  - [Develop strategies to maintain product innovation while scaling](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1396.0)\n  - [Explore additional service offerings and ways to expand client engagements](https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M?tab=summary&timestamp=1680.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "stewart.mohammadi@gmail.com",
+            "email": "stewart.mohammadi@gmail.com",
+            "email_domain": "gmail.com",
+            "is_external": true,
+            "matched_speaker_display_name": "stewart mohammadi"
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Kyle Gaudreau"
+        }
+    ],
+    "recorded_by": {
+        "name": "Kyle Gaudreau",
+        "email": "kyle@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/YGXik1Tf-zEznG2rvE2dcF5oiHZF4m6M",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

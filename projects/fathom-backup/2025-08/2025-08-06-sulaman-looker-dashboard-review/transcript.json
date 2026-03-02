@@ -1,0 +1,4122 @@
+[
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, now can you go to the second tab, please?",
+    "timestamp": "00:00:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:00:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And in the second graph, see the patterns for the URLs.",
+    "timestamp": "00:00:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah, there is something you would spot, some of the URLs are starting with WWW, some of them are not.",
+    "timestamp": "00:00:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I researched on it a bit and I think there is a possibility if we use the same structure that we use in Google Analytics, it can work for Google Search Console too.",
+    "timestamp": "00:00:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Because the way Regist works is, I reckon it identifies the pattern.",
+    "timestamp": "00:00:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So if that particular part exists within the URL, it will be considered as a match.",
+    "timestamp": "00:00:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So if we just had...",
+    "timestamp": "00:00:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "The slug after the domain, it should ideally work in this case.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Am I missing something?",
+    "timestamp": "00:01:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah, it will work.",
+    "timestamp": "00:01:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "The reason I sort of have the entire URL and I say regex match is because regex contains can be a little key sometimes.",
+    "timestamp": "00:01:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So, okay, it still contains.",
+    "timestamp": "00:01:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I thought it was anyway.",
+    "timestamp": "00:01:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So if we say regex contains just blog this, it should be fine.",
+    "timestamp": "00:01:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "The issue is if they have like, say, two pages, you know, like with such a long slug, it's not going to be a problem.",
+    "timestamp": "00:01:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "But I'm trying to find something like, you're saying if different like, same thing in a glossary.",
+    "timestamp": "00:01:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So if common slug is used in two different pages.",
+    "timestamp": "00:01:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "No.",
+    "timestamp": "00:01:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "If this is a good example, actually, these two here.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So the first one is AI personalization conversion tactics.",
+    "timestamp": "00:02:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I would confirm if it's two S's.",
+    "timestamp": "00:02:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "That seems wrong.",
+    "timestamp": "00:02:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, I think it's S.",
+    "timestamp": "00:02:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yes.",
+    "timestamp": "00:02:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "No, I think there's an error in their A-table.",
+    "timestamp": "00:02:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Anyway.",
+    "timestamp": "00:02:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "But say we have this, right?",
+    "timestamp": "00:02:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So blog AI personalization conversion tactics, right?",
+    "timestamp": "00:02:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Again, with these examples, two S's.",
+    "timestamp": "00:02:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So blog AI personalization conversion tactics and blog AI personalization examples, right?",
+    "timestamp": "00:02:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Now, both of these are growthx URLs, which is fine.",
+    "timestamp": "00:02:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "But let's say for some reason, this one here or one of these was not a growthx URL.",
+    "timestamp": "00:02:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "That's right.",
+    "timestamp": "00:02:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "If you say contains, and if you say...",
+    "timestamp": "00:02:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "A, you know, if you just say blog AI personalization examples, it might pick up the performance for this as well.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Oh, so.",
+    "timestamp": "00:03:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "In fact, the way it is right now, it will still pick it up because we're saying contains, we're not saying matches.",
+    "timestamp": "00:03:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So that's the, that's usually the issue with contains.",
+    "timestamp": "00:03:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Like, it'll, it doesn't look for exact matches.",
+    "timestamp": "00:03:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It looks for, like, you know, the C thing and yeah, it goes for broad match, if that makes sense.",
+    "timestamp": "00:03:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Exactly.",
+    "timestamp": "00:03:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So even if from the complete string, it can still match a subset, that could be an issue.",
+    "timestamp": "00:03:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "But I think just for the protocols, like for HTTPS and www.",
+    "timestamp": "00:03:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "if we skip them, that would, I think, make it better.",
+    "timestamp": "00:03:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Because even on the search console we just saw, some of them had www.instarts, some of them didn't.",
+    "timestamp": "00:03:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And if in this pattern, it was www.instarts.com.",
+    "timestamp": "00:03:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And, uh.",
+    "timestamp": "00:03:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "If the original URL didn't have that, it would fail to match.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It won't match, but it'll still, so what they seem to have done is I think they've redirected these.",
+    "timestamp": "00:04:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So I'm looking at these things.",
+    "timestamp": "00:04:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It won't seem to have redirected.",
+    "timestamp": "00:04:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, I see your point.",
+    "timestamp": "00:04:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Um, let's see.",
+    "timestamp": "00:04:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:04:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Saying zero clicks.",
+    "timestamp": "00:04:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "you.",
+    "timestamp": "00:04:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:04:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "You",
+    "timestamp": "00:04:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I think we need to check with Jen about what to do like I don't want to change anything obviously obviously because it is picking up something exactly like we didn't even this pop I actually didn't know this problem was in the first place until you pointed out the pattern I think initially I didn't knew why the rejects was there then you told me like okay it is because of this pattern and understood okay the protocol makes this make a change in there that is something I will make sure of and now I will make sure when GPT gives me some form try to give a complete look at the output especially the like else conditional condition and things like that so right now we have these dashboards flow some engine interval firework this son monograph metronome school AI and then two of them were our whole outreach and home base like it was told us like it can wait for no",
+    "timestamp": "00:05:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So we have quite a few, but I was thinking like, well, let's, let's do this.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I mean, first thing what I would do is I would, yeah, you can, you can shorten it to blog slash whatever, the slug.",
+    "timestamp": "00:06:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think you can do that, right?",
+    "timestamp": "00:06:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "The next thing is I would actually change the regex contains to regex match if you're doing that.",
+    "timestamp": "00:06:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Understood.",
+    "timestamp": "00:06:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I will actually do a bit of experiment on this one.",
+    "timestamp": "00:06:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Considering our case study, what would work best for us?",
+    "timestamp": "00:06:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Like if we want to match it, a complete string or what can be the ideal case in this one?",
+    "timestamp": "00:06:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "You can take slash blog, actually.",
+    "timestamp": "00:06:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think it will be fine.",
+    "timestamp": "00:06:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Because, yeah, because like you said, the www and non-ww URLs are a bit of a problem here.",
+    "timestamp": "00:06:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Like some of these have a www, some of them don't.",
+    "timestamp": "00:06:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think we can just go with slash blog.",
+    "timestamp": "00:06:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Well, actually, no, you can't can't say.",
+    "timestamp": "00:06:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "VEGX match also, because it needs the entire URL.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "One more thing, if you would see here, we have Webflow links too.",
+    "timestamp": "00:07:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So they are staging links, the real ones.",
+    "timestamp": "00:07:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah, Webflow.",
+    "timestamp": "00:07:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And if you just had to start from domain, those could have been skipped over, because the real URLs would be without the Webflow.",
+    "timestamp": "00:07:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, of course.",
+    "timestamp": "00:07:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, that's a good point.",
+    "timestamp": "00:07:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Like, look, at some point, we need to draw the line, and we need to say, like, you know, we can't fix it.",
+    "timestamp": "00:07:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "This is how it is in their Airtable, so that's how it is.",
+    "timestamp": "00:07:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm to think what to do here.",
+    "timestamp": "00:07:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think it's best if we kick this back to Jen for two reasons.",
+    "timestamp": "00:07:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "One is, we cannot use a Regex match, because the Regex match looks for the entire string, right?",
+    "timestamp": "00:07:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And Search Console returns the entire URL, so we cannot use a slash blog.",
+    "timestamp": "00:07:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "If we use, I guess, contains and then slash log, we're going to have that issue with what I just showed you, like the personalization tactics, the personalization examples, like this broad match sort of thing.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "My guess is that's going to become a problem.",
+    "timestamp": "00:08:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So that's why I'm, you know, I'm a bit iffy about using it.",
+    "timestamp": "00:08:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "What if, what if before comparison, we add one more cleaning thing here, like any function that cleans the landing page URL we are getting back.",
+    "timestamp": "00:08:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "If that trims it down to the part without the domain, like I worked with projects, there is a possibility to do that.",
+    "timestamp": "00:08:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Just drop the domain part, have the remaining part left, and then do a comparison using rejects.",
+    "timestamp": "00:08:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "That way we will be sure both of them are in same syntax.",
+    "timestamp": "00:08:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And if we, look, it is a bit of drive, if you want, I can give it a go.",
+    "timestamp": "00:08:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "No, I think that's over-engineering it because...",
+    "timestamp": "00:08:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "The Airtable, the correct URL, pasting the correct URLs, that is the EMI's responsibility.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It's not our responsibility.",
+    "timestamp": "00:09:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So if they are pasting the wrong URLs in there, that's on them.",
+    "timestamp": "00:09:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "For example, these web flow things over here, if the EMI, who's the EMI?",
+    "timestamp": "00:09:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "think it's Jen.",
+    "timestamp": "00:09:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "If she comes back and says, oh, we're not getting correct data, say, well, your URLs are incorrect.",
+    "timestamp": "00:09:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "There's nothing we can do, right?",
+    "timestamp": "00:09:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So I think at some point, they have to take responsibility.",
+    "timestamp": "00:09:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We can build as many fail-safes as possible, but yeah, how much can we build, right?",
+    "timestamp": "00:09:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Exactly.",
+    "timestamp": "00:09:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So there will always be a human that's possible in this one.",
+    "timestamp": "00:09:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, like over here, can see URLs are incorrect.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I was going to say update.",
+    "timestamp": "00:09:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "But yeah, in this case, what I would say is she needs to figure this out.",
+    "timestamp": "00:09:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "From what I would",
+    "timestamp": "00:09:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "What I then do is, I would change, I would still change the regex contains to regex match.",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think a regex match just makes more sense.",
+    "timestamp": "00:10:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:10:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Like, if, just saying on an abstract level, considering there will always be an error condition, do you think if we just copy the Google Analytics script, same to the Google console, it would kind of work, would make the process easy, they don't have to separately create the URLs, the protocol's problems would be resolved, and like, only the problem of, like, matching with a different subset of string would exist, that still exists in this case.",
+    "timestamp": "00:10:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, but then you won't get accurate data, right?",
+    "timestamp": "00:10:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Because, like, if you, if you do that, if you use the same sort of case statement for both GA4 and for GSE, the, you cannot use regex match.",
+    "timestamp": "00:10:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "You have to use.",
+    "timestamp": "00:10:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So if you use regex contains, and if there is a large number of broad match URLs, then the data is going to be incorrect.",
+    "timestamp": "00:11:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And that's a bigger problem.",
+    "timestamp": "00:11:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "That is correct.",
+    "timestamp": "00:11:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "But still we are using regex contains.",
+    "timestamp": "00:11:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yes.",
+    "timestamp": "00:11:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So that's why we need to change this to regex match.",
+    "timestamp": "00:11:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:11:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Got it.",
+    "timestamp": "00:11:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So we are planning to change this to regex mag, and then it would be the responsibility of team to make sure we have the correct URLs in there.",
+    "timestamp": "00:11:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yes.",
+    "timestamp": "00:11:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Got it.",
+    "timestamp": "00:11:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "That makes much more sense.",
+    "timestamp": "00:11:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:11:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yes.",
+    "timestamp": "00:11:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "The reason I'm pushing back on it is because I had a similar problem.",
+    "timestamp": "00:11:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "When I first built the lookers for RAMP, we had that problem.",
+    "timestamp": "00:11:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "They have about, I don't know, 4000 URLs or something.",
+    "timestamp": "00:11:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And I was using regex contains for our 200 URLs.",
+    "timestamp": "00:11:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "But we were pulling in performance data for about 1000 URLs, because the broad phrase match was pulling in everything.",
+    "timestamp": "00:11:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And it was a bit embattus.",
+    "timestamp": "00:11:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So, yeah, so I think it's partially my fault.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I didn't tell you this before because I asked you to copy Galileo.",
+    "timestamp": "00:12:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "then, yeah, so you see, for here, we're using regex match.",
+    "timestamp": "00:12:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "This is correct.",
+    "timestamp": "00:12:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Just for GSC, I think we need to change that.",
+    "timestamp": "00:12:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So already using regex match.",
+    "timestamp": "00:12:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "But the Google search console, we need to use the same function, got it?",
+    "timestamp": "00:12:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Understood.",
+    "timestamp": "00:12:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And just leave the URLs as is because it's, that's the, that's on the ME, like they need to give us the correct URLs.",
+    "timestamp": "00:12:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Understood.",
+    "timestamp": "00:12:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So basically, we need to do it for all of these monograph, discern, firework, metronome, blossom, and home base.",
+    "timestamp": "00:12:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Let me check home base.",
+    "timestamp": "00:12:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I did this yesterday.",
+    "timestamp": "00:12:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "A home base is the one that just had Google search console.",
+    "timestamp": "00:12:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yes, correct.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So, I changed all this.",
+    "timestamp": "00:13:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Is that school yet?",
+    "timestamp": "00:13:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "See the resource that it is putting?",
+    "timestamp": "00:13:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "It is analytics.",
+    "timestamp": "00:13:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "this is GA4.",
+    "timestamp": "00:13:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So, this needs to be hidden.",
+    "timestamp": "00:13:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Hmm.",
+    "timestamp": "00:13:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "How did I miss this page?",
+    "timestamp": "00:13:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think everything else is fine.",
+    "timestamp": "00:13:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Oh, yeah.",
+    "timestamp": "00:13:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So, I just need to change this tool.",
+    "timestamp": "00:13:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Sorry, I'll do it right now.",
+    "timestamp": "00:13:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "before he just notices.",
+    "timestamp": "00:13:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "medium goes away.",
+    "timestamp": "00:13:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yes.",
+    "timestamp": "00:13:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "This.",
+    "timestamp": "00:13:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, two of course, takes, yep.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Four, ten.",
+    "timestamp": "00:14:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We got a leaf pillar.",
+    "timestamp": "00:14:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Service.",
+    "timestamp": "00:14:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We don't need this.",
+    "timestamp": "00:14:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Let me just check the resource real quick.",
+    "timestamp": "00:14:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I don't know why this traffic keeps showing up, like I keep deleting it, but.",
+    "timestamp": "00:14:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I think the copy, I used to, I have actually started cleaning them now, but for the initial ones, I used to keep the original tape just in.",
+    "timestamp": "00:14:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "No, I cleaned it yet.",
+    "timestamp": "00:14:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "today, but it still doesn't.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "OK, so even I have made this thing, I'll just put contain lower here.",
+    "timestamp": "00:15:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, I think we just need to maybe say match for home base.",
+    "timestamp": "00:15:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Just need to replace it.",
+    "timestamp": "00:15:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We don't have too many URLs, so it's a good thing.",
+    "timestamp": "00:15:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So yeah.",
+    "timestamp": "00:15:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:15:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:15:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "There was a ticket today that was from Was it outreach?",
+    "timestamp": "00:15:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I reckon it was from Dilijay.",
+    "timestamp": "00:15:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "They had some feedback regarding LLM.",
+    "timestamp": "00:15:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, this is not our responsibility.",
+    "timestamp": "00:15:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "She's like LLM and integrating scrunch and all this, that is with Dave.",
+    "timestamp": "00:15:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So we're not doing it.",
+    "timestamp": "00:15:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I responded, actually.",
+    "timestamp": "00:15:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, I just saw it.",
+    "timestamp": "00:15:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "just saw it.",
+    "timestamp": "00:15:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:15:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "That's good.",
+    "timestamp": "00:15:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:15:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "There's one small thing, if you can kindly help me with that.",
+    "timestamp": "00:15:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yesterday, was trying to...",
+    "timestamp": "00:15:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "To create a template on Linear, since I have never created a template on Linear, I was unsure, like, how can someone create a template and then use that template to create a ticket?",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Good question.",
+    "timestamp": "00:16:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm not sure how you create templates, to be honest.",
+    "timestamp": "00:16:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I can give you, share the search I did.",
+    "timestamp": "00:16:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "On the analytics section, click on three dots, team settings, templates, this one, yeah, the one template you're saying, this is what I'll try to do.",
+    "timestamp": "00:16:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So, like, this is what I came back from, ChatGPT, like, followed what it guided me.",
+    "timestamp": "00:16:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "But if this template existed, how can someone use it while raising a ticket?",
+    "timestamp": "00:16:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:16:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Let me just go back.",
+    "timestamp": "00:16:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:16:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So,",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Once they create this thing, like, so it's basically you create a new ticket, then I think you click on, it would be in analytics.",
+    "timestamp": "00:17:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Then I was, I was doing this for, okay, it says template over here.",
+    "timestamp": "00:17:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So when I click template, it shows up, but it's not doing that for analytics.",
+    "timestamp": "00:17:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We'll check why.",
+    "timestamp": "00:17:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It's in the settings.",
+    "timestamp": "00:17:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "We might have to move to workspace to make it kind of live or something like that.",
+    "timestamp": "00:17:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "you.",
+    "timestamp": "00:17:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Thank Thank Thank Thank Thank",
+    "timestamp": "00:17:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, it's not showing up.",
+    "timestamp": "00:18:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I have a meeting later with Andy.",
+    "timestamp": "00:18:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Maybe I'll ask her then.",
+    "timestamp": "00:18:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, Andy knows this stuff.",
+    "timestamp": "00:18:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "She helped me out with linear before as well.",
+    "timestamp": "00:18:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I just got it.",
+    "timestamp": "00:18:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Let's just take a quick look at some of these lookers.",
+    "timestamp": "00:18:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I was thinking we can maybe just make a checklist because I noticed some small issues here and there.",
+    "timestamp": "00:18:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I just want to see again, strong issues.",
+    "timestamp": "00:18:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I don't know, don't know.",
+    "timestamp": "00:18:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Anyway, cohorts.",
+    "timestamp": "00:18:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I can change this here to match, actually.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "One issue I was seeing was, instead of non-growthx, it was saying non-client name URL, like, for example, non-monograph URL, et cetera.",
+    "timestamp": "00:19:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I found one instance of it, but there wasn't any major issue of this.",
+    "timestamp": "00:19:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "See, again, strappy has showed up, like, despite me hitting remove, it keeps showing up again and again.",
+    "timestamp": "00:19:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "don't know why.",
+    "timestamp": "00:19:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So here.",
+    "timestamp": "00:19:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, so this needs to be match as well.",
+    "timestamp": "00:19:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "This is the thing, like, in some place it says, a match someplace it says contained, so I just want to, like, standardize it.",
+    "timestamp": "00:19:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "See, Stati again, no matter how much you delete, it doesn't go.",
+    "timestamp": "00:20:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:20:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I think it's linked in some way that is calling it back.",
+    "timestamp": "00:20:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So some will link back to it.",
+    "timestamp": "00:20:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "As we can see in data, there is traffic.",
+    "timestamp": "00:20:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Monograph.",
+    "timestamp": "00:20:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:20:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:20:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, so that brand filter was the other one where there was a little bit of...",
+    "timestamp": "00:20:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Some issues.",
+    "timestamp": "00:20:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Go ahead.",
+    "timestamp": "00:20:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So discern.",
+    "timestamp": "00:20:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, so it's a VEGX match here, and then...",
+    "timestamp": "00:20:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So yeah, this needs to change to match basically.",
+    "timestamp": "00:21:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Like in GSC, like all the GSCs need to change to match essentially.",
+    "timestamp": "00:21:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Then this one.",
+    "timestamp": "00:21:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, that's fine.",
+    "timestamp": "00:21:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, basically just give everything a once over.",
+    "timestamp": "00:21:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I just want to make sure that, you know.",
+    "timestamp": "00:21:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I'll try to give them a quick go again, like the issues we spotted, try to find the URLs.",
+    "timestamp": "00:21:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "That is where I came across different patterns of the URLs, which I discovered.",
+    "timestamp": "00:21:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "No worries.",
+    "timestamp": "00:21:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "But got it going forward.",
+    "timestamp": "00:21:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I'll make sure I just give a quick go ahead once everything is done.",
+    "timestamp": "00:21:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "There is one thing I wanted to discuss with you, like maybe you can write me on this one.",
+    "timestamp": "00:21:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Like last week, what exactly happened was, right now, everyone created a ticket of publishing.",
+    "timestamp": "00:21:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I'm supposed to work on this one.",
+    "timestamp": "00:21:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "What happened was, usually on Thursday, I will get the ticket.",
+    "timestamp": "00:21:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "get the that's",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "The publishing content will get quite a lot, and since Friday is the last day, so you mostly get overrun on that day.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "was like, well, I had 12 hours just to get things done.",
+    "timestamp": "00:22:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So I just wanted to know how can I avoid a scenario like that.",
+    "timestamp": "00:22:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Like, no, I just try to complete the articles as soon as I get them, but still some Emmys give it to Thursday or Friday, and then some clients will have 15 or quite a lot of blogs to post.",
+    "timestamp": "00:22:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So any idea, Dave?",
+    "timestamp": "00:22:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Like, how can I avoid a situation like that?",
+    "timestamp": "00:22:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, I really don't have a solution for you, because the reason everything comes in on Thursday and Friday is because Monday to Thursday is when articles get created, and then Friday we stage and we send it to the clients, the reviews.",
+    "timestamp": "00:22:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So that's why everything comes on Thursday and Friday.",
+    "timestamp": "00:22:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Like, when we used to send you RAM, that was a bit of an exception, because with RAM,",
+    "timestamp": "00:22:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We used to plan beforehand, and then we could sort of send it to you, but yeah, on a weekly basis, every account in the company publishes on Friday.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "What I can suggest is, you know, there's another publisher, Isra, I don't know if you've ever spoken to him, you can maybe ask Andy if you can push some of your requests to him.",
+    "timestamp": "00:23:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Like, you can DM him, and you can send him the details that's on the linear ticket.",
+    "timestamp": "00:23:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:23:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So we can collaborate based on the workload.",
+    "timestamp": "00:23:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "If she has good workload, like more than her, at some day, I can help her.",
+    "timestamp": "00:23:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And if someday I'm aware of that, okay, that's a good idea.",
+    "timestamp": "00:23:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "can discuss it.",
+    "timestamp": "00:23:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Isra is a he, by the way, and I can send you his...",
+    "timestamp": "00:23:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I think I had a discussion with him, relevant to some project.",
+    "timestamp": "00:23:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I just...",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Received a message from Jessalyn, she told two things.",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "One, the red colors, the dark red colors in the dashboard.",
+    "timestamp": "00:24:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "She was saying it's difficult to visualize content in them, and then she- Which one is this?",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Which slide is this?",
+    "timestamp": "00:24:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "It would be, just give me one second, Flossom.",
+    "timestamp": "00:24:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Flossom.",
+    "timestamp": "00:24:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, we can remove the coloring.",
+    "timestamp": "00:24:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "The coloring, actually, I just carried it over from- That's actually a mistake then.",
+    "timestamp": "00:24:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "She should be seeing the data grid, and she is saying she is looking at- Data grid is not in my list.",
+    "timestamp": "00:24:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "What is that?",
+    "timestamp": "00:24:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm pretty sure she's looking at the wrong report.",
+    "timestamp": "00:24:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "This is something I wanted wanted to- do Wait This",
+    "timestamp": "00:24:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Do with you as well, actually, because a lot of the MEs are getting confused about which lookers to use.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So let me share my screen real quick.",
+    "timestamp": "00:25:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I'm just going to do this live right now.",
+    "timestamp": "00:25:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Basically, if you look at my screen here, in this Notion database, this is like all the clients.",
+    "timestamp": "00:25:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And then there's a Looker link over here.",
+    "timestamp": "00:25:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think a lot of MEs are just clicking on this, and they're not paying attention to the linear ticket.",
+    "timestamp": "00:25:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So that's maybe why she's all over the place.",
+    "timestamp": "00:25:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "What I'm going to do is...",
+    "timestamp": "00:25:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "You're right, because on my dashboard, I can see it does not contain Flossom.",
+    "timestamp": "00:25:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah, I'm in Flossom right now.",
+    "timestamp": "00:25:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "No, she wants it from GretaGrid.",
+    "timestamp": "00:25:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I think she's saying she's seeing Flawsome results on DataGrid dashboard.",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Why is she looking at DataGrid?",
+    "timestamp": "00:26:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "DataGrid is my account.",
+    "timestamp": "00:26:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Why is she looking at DataGrid?",
+    "timestamp": "00:26:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Then it will be Flawsome showing DataGrid.",
+    "timestamp": "00:26:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Because I can see two URLs, DataGrid and Flawsome, so it can be the other way around.",
+    "timestamp": "00:26:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, I'm looking at the Flawsome right now.",
+    "timestamp": "00:26:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Did you change this color or something?",
+    "timestamp": "00:26:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "No, I haven't.",
+    "timestamp": "00:26:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, maybe they did it.",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yes, I think she's looking at the wrong URL.",
+    "timestamp": "00:26:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Just send her this URL.",
+    "timestamp": "00:26:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And tell her we'll change the Looker link in Notion as well.",
+    "timestamp": "00:26:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So I'm changing it here.",
+    "timestamp": "00:26:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:26:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Can you kindly show me how to change colors too?",
+    "timestamp": "00:26:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I'll do it for us.",
+    "timestamp": "00:26:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "The shocking red colors we have in...",
+    "timestamp": "00:26:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "The URL Flix and Delta table, where we have dark red colors.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yes, let's move on this.",
+    "timestamp": "00:27:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So, over here, in this one, it's under style.",
+    "timestamp": "00:27:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "If you come to, so you click on the table, and then you come to style over here, and then you scroll down, it will come to conditional formatting, you just click on this, and then you just bend this.",
+    "timestamp": "00:27:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And it will remove the colors at all.",
+    "timestamp": "00:27:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "It will remove the colors.",
+    "timestamp": "00:27:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:27:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Then we can do it for the other one.",
+    "timestamp": "00:27:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So over here, let me move you to the side.",
+    "timestamp": "00:28:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So over here as well, on the second tab, you can see the colors are here.",
+    "timestamp": "00:28:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I come to style.",
+    "timestamp": "00:28:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I come to conditional formatting.",
+    "timestamp": "00:28:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Click this.",
+    "timestamp": "00:28:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "You'll see these two color rules being applied.",
+    "timestamp": "00:28:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So just win the both of them.",
+    "timestamp": "00:28:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:28:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "That's it.",
+    "timestamp": "00:28:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So yeah, pretty much it.",
+    "timestamp": "00:28:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So let me change all the URLs.",
+    "timestamp": "00:28:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Because this is for home base.",
+    "timestamp": "00:28:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Where is home base?",
+    "timestamp": "00:28:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And we are only supposed to change the URLs for the local dashboard we have created.",
+    "timestamp": "00:28:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So if they have requested us to create a dashboard button.",
+    "timestamp": "00:28:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yes.",
+    "timestamp": "00:28:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Perfect.",
+    "timestamp": "00:28:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Oh, where is home base?",
+    "timestamp": "00:28:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "here.",
+    "timestamp": "00:28:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Sorry, let me just...",
+    "timestamp": "00:28:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I'll welcome.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "you're...",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "...",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, the next is Blossom.",
+    "timestamp": "00:29:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We just did Metronome.",
+    "timestamp": "00:29:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Metronome.",
+    "timestamp": "00:29:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It's here.",
+    "timestamp": "00:29:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:29:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Firework.",
+    "timestamp": "00:29:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Which one have they done?",
+    "timestamp": "00:29:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Done for what?",
+    "timestamp": "00:30:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Like, which links have we updated for which clients?",
+    "timestamp": "00:30:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm updating everything now.",
+    "timestamp": "00:30:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'll do it for all clients where we have delivered lookers.",
+    "timestamp": "00:30:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:30:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm done up to firework.",
+    "timestamp": "00:30:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm going to do discern now, and then there's this one more.",
+    "timestamp": "00:30:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We have a few more.",
+    "timestamp": "00:30:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "We have flowsome, engine, interval, firework, discern, monograph, metronome, sculler.",
+    "timestamp": "00:30:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I can do that.",
+    "timestamp": "00:30:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "No, it's okay.",
+    "timestamp": "00:30:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'll do it now.",
+    "timestamp": "00:30:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Go ahead.",
+    "timestamp": "00:30:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Discern is here.",
+    "timestamp": "00:30:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:30:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Monograph?",
+    "timestamp": "00:30:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Monograph is the last one.",
+    "timestamp": "00:30:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Monograph is here.",
+    "timestamp": "00:30:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Metronome.",
+    "timestamp": "00:30:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Metronome.",
+    "timestamp": "00:30:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I did Metronome.",
+    "timestamp": "00:31:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:31:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "School AI?",
+    "timestamp": "00:31:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "School AI I didn't do because it is in ToDo.",
+    "timestamp": "00:31:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Oh, it's done.",
+    "timestamp": "00:31:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, sorry.",
+    "timestamp": "00:31:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "School AI.",
+    "timestamp": "00:31:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "School AI is done.",
+    "timestamp": "00:31:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Then after shoot.",
+    "timestamp": "00:31:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Then engine and interval.",
+    "timestamp": "00:31:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Did we do after shoot?",
+    "timestamp": "00:31:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Update LLNs.",
+    "timestamp": "00:31:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "this is not.",
+    "timestamp": "00:31:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Dave has done it.",
+    "timestamp": "00:31:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Our one, our engine and interval.",
+    "timestamp": "00:31:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Engine, yes.",
+    "timestamp": "00:31:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Engine, engine, engine, that's engine.",
+    "timestamp": "00:32:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, engine is good.",
+    "timestamp": "00:32:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Inner well?",
+    "timestamp": "00:32:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Inner well?",
+    "timestamp": "00:32:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I haven't seen inner well so far.",
+    "timestamp": "00:32:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Let me do town real quick.",
+    "timestamp": "00:32:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, town, he's done it.",
+    "timestamp": "00:32:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Control left the word inner well and you might find it.",
+    "timestamp": "00:32:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Inner well?",
+    "timestamp": "00:32:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I don't see inner well in the issues at all.",
+    "timestamp": "00:32:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Let me give it a loop.",
+    "timestamp": "00:32:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "It is in EPD.",
+    "timestamp": "00:32:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "B802.",
+    "timestamp": "00:33:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "in B802.",
+    "timestamp": "00:33:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Okay, can you just send me the Looker link?",
+    "timestamp": "00:33:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, please.",
+    "timestamp": "00:33:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I have shared in the chat.",
+    "timestamp": "00:33:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "This is flawsome.",
+    "timestamp": "00:33:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "My bad.",
+    "timestamp": "00:33:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Oh, no, no, sorry.",
+    "timestamp": "00:33:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I clicked the wrong link.",
+    "timestamp": "00:33:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Okay, you know what is done.",
+    "timestamp": "00:33:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "That's it, I think.",
+    "timestamp": "00:33:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So I'm just going to read the account names again.",
+    "timestamp": "00:33:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So we've done engine.",
+    "timestamp": "00:33:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We've done town.",
+    "timestamp": "00:33:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We've done...",
+    "timestamp": "00:33:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "What was the second one?",
+    "timestamp": "00:33:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Town.",
+    "timestamp": "00:33:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Town is not ours.",
+    "timestamp": "00:33:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "don't know.",
+    "timestamp": "00:33:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It was the next.",
+    "timestamp": "00:33:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "The next.",
+    "timestamp": "00:33:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Correct.",
+    "timestamp": "00:34:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Correct.",
+    "timestamp": "00:34:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Correct.",
+    "timestamp": "00:34:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Correct.",
+    "timestamp": "00:34:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We did Engine Aftershoot, which is also not us, we did School AIs, we did Homebase, we did Flossom, we did Metronome, we did Firework, did Discern, we did Monograph, and we did Innovel.",
+    "timestamp": "00:34:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Outreach, I reckon the one that is in Office, there was some issue with Outreach, but that's the one, if you have created it or whatever.",
+    "timestamp": "00:34:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "There was something I haven't created, like I'm looking at the linear right now, it says not created, so.",
+    "timestamp": "00:34:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm sure, that's in that case.",
+    "timestamp": "00:34:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:34:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "All right, good stuff.",
+    "timestamp": "00:34:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I'm sorry, just with the last thing, from Jessalyn, I have received a response, yes, that's the one I'm looking at.",
+    "timestamp": "00:34:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I have shared her the link for Flossom, if I can share my screen, maybe.",
+    "timestamp": "00:34:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, okay.",
+    "timestamp": "00:34:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It's clean, yeah, because I noticed.",
+    "timestamp": "00:35:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Oh, she's talking about the sources.",
+    "timestamp": "00:35:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "No, she can just leave it in there.",
+    "timestamp": "00:35:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I noticed data grids are in this one.",
+    "timestamp": "00:35:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "And also, I'm able to do something about these colors.",
+    "timestamp": "00:35:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "OK, and I think.",
+    "timestamp": "00:35:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, it's fine.",
+    "timestamp": "00:35:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "She's asking about the data sources.",
+    "timestamp": "00:35:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "She can leave it in there.",
+    "timestamp": "00:35:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It's not a problem.",
+    "timestamp": "00:35:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I think we can just go in and delete it for her, actually.",
+    "timestamp": "00:35:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yep, I'm already here.",
+    "timestamp": "00:35:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "see.",
+    "timestamp": "00:35:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So we should delete the data grid one.",
+    "timestamp": "00:35:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah, I'm deleting it now.",
+    "timestamp": "00:35:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:35:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Well, you can just tell her it's not an issue, but we'll delete it anyway.",
+    "timestamp": "00:35:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And the colors have also been fixed.",
+    "timestamp": "00:35:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So we didn't We didn't see it.",
+    "timestamp": "00:35:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I just deleted the colors, too.",
+    "timestamp": "00:36:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:36:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Somebody changed the colors, because it's orange and blue, and all this.",
+    "timestamp": "00:36:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "didn't do it.",
+    "timestamp": "00:36:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So yeah.",
+    "timestamp": "00:36:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, that's not what we do.",
+    "timestamp": "00:36:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "That might be the color.",
+    "timestamp": "00:36:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:36:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "All right, then.",
+    "timestamp": "00:36:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I think we are good now.",
+    "timestamp": "00:36:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Just a reminder, please send all the Emmys that video.",
+    "timestamp": "00:36:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "It's very important.",
+    "timestamp": "00:36:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "If they don't do it, then it's going to be I actually found Emmys from the same table you showed me.",
+    "timestamp": "00:36:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Some of Emmys told me, like, OK, this project has been sent to a different time.",
+    "timestamp": "00:36:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "I mean, I even messaged them the URL.",
+    "timestamp": "00:36:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "So even the meeting we had yesterday, she had the URL, the video link, and everything.",
+    "timestamp": "00:36:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "It's done.",
+    "timestamp": "00:36:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "OK, cool.",
+    "timestamp": "00:36:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "So yeah, as long as all the Emmys get it, it's a good thing.",
+    "timestamp": "00:36:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And whenever you're delivering the dashboards, just send that video as well, just to make sure whatever it really gets.",
+    "timestamp": "00:36:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "We'll definitely do that.",
+    "timestamp": "00:36:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "And yeah.",
+    "timestamp": "00:37:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Yeah, for publishing, think you can check with Isra, like get in touch with them and just split it, that might be the easiest way for you.",
+    "timestamp": "00:37:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "I'm sorry, got it, got it.",
+    "timestamp": "00:37:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:37:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "All right, thank you so much.",
+    "timestamp": "00:37:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "All right, thanks everyone.",
+    "timestamp": "00:37:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Vivek Shankar",
+      "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:37:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Have a nice day.",
+    "timestamp": "00:37:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Sulaman Ahmed",
+      "matched_calendar_invitee_email": "sulaman@growthx.ai"
+    },
+    "text": "Bye now.",
+    "timestamp": "00:37:15"
+  }
+]

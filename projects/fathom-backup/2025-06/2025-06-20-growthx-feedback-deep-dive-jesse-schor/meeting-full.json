@@ -1,0 +1,3452 @@
+{
+    "title": "GrowthX Feedback Deep Dive (Jesse Schor)",
+    "meeting_title": "GrowthX Feedback Deep Dive (Jesse Schor)",
+    "url": "https://fathom.video/calls/331284323",
+    "created_at": "2025-06-20T15:58:22Z",
+    "scheduled_start_time": "2025-06-20T15:15:00Z",
+    "scheduled_end_time": "2025-06-20T15:40:00Z",
+    "recording_id": 69631296,
+    "recording_start_time": "2025-06-20T15:16:22Z",
+    "recording_end_time": "2025-06-20T15:57:58Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Hi, Jesse.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Hey, what's going on?",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Good, good.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "How you doing?",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "How you doing, Good to see you.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Likewise, man.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "How are you doing?",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Busy, man.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Busy.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I was away for a wedding in Mexico until yesterday.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then Nikon and I are heading to New York in like an hour and a half.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We all need to catch up properly.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You guys have been traveling a lot.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "No, I'm sure something is cooking.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I know, man.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I feel like I'm on the run at this point.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I'm just like opening the suitcase and then whatever's clean comes with me on the next trip.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "That's awesome, dude.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I mean, it's not awesome, but, you know, it's part of the job.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I had a friend of mine that would travel a lot, and he said he had suitcases at all times that just had the same things, and so he just had three or four of everything, one for the house, and the same clothes, and three different ones, and so he would just come in and just like dump one, grab another one, and you'd be like three ready to go at all times.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "That's a brilliant move, just like having a go bag ready.",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, yeah, exactly.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, so some money in there, a passport, you know.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Your new identity, everything.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "That's awesome.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Andi, do you want to introduce yourself really quickly?",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, hi there, Jesse.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I'm Andi.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I joined GrowthX about a month ago to lead customer operations.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So I'm on these feedback calls just to get an understanding of what we're doing well, what we could do better, and I'll take that feedback and start helping the team as we think about roadmapping our partnership going forward.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Good to meet you.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, and, Andi, I don't know how much context you have on webstacks, but I've been a customer of webstacks, I don't know, like five times over.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "considered Jesse and Mikan like friends and also like look up to how well they run the company and grown and good people, good company, you know, and so I think this feedback session is extra special because I feel like not only can you give us feedback on how we can be better, but also just learning from what's working with you all as well, right, Jesse?",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I appreciate that.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But maybe just love to get a little bit of context on like just overall, like where the business is now, just for our own, like, you know, resetting the context.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I obviously know a lot, but like since we haven't caught up in a while, maybe catch us up a little.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, totally.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So we got started.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Excuse me.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We're working together.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "With you guys in August, so really like since then, from like a business perspective, like we've really been focused on pitching upmarket clients, and we've launched a new website at start of this year, but like we've really worked towards expanding our brand into more enterprise, I would say like higher mid-market accounts.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "In many ways, changing a lot of our brand and brand positioning to speak to those audiences.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Not that we can't work with startups or high growth, you know, kind of early stage companies, but our focus has really been going more like upmarket.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Since that time as well, we've, it hasn't even totally launched yet, but we have like a separate service offering that we've also been.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Preparing to position called WebSnacks, which is like really for that like small mid-market type of company, whereas like we really want WebStacks as a whole to be positioned as like this expert thought leader when it comes to the composable web space.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "For context, Andi, probably should have started with this, but we are a web design and development agency.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So we focus specifically on working with B2B tech companies, software companies, and help them start, grow, manage all of their website operations.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So it's everything from website redesigns, website migrations, taking them over to new technologies, to ongoing management and support of their website.",
+            "timestamp": "00:04:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Another big like kind of piece to our business strategy has been.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "integrating web strategy as a service offering.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So that's why a lot of the content that we have been focused on creating not only speaks to, you know, really great designs and features of really great designs and examples of really well designed websites, but really like expanding into like, how do we get the behind the scenes?",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "How do we get the web stacks like mind out there?",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "In the content that we're producing.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So those are like two like big pieces in terms of like our brand positioning and strategy, as well as like new service offerings that we add as a business.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "With the content that we've produced, we've really kind of focused on a varied amount of core pillars.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And wanting to take those kind of like pillars, start with the title, great the",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Of perspective that webstacks brings to the table and then work with you guys on opportunities in SEO to really kind of like expand and make sure we have a comprehensive amount of content around that topic.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So in some ways, like what I'm hearing is like, we started with one approach, right?",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It feels like with content.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I think over time, it sounds like we learn a lot and you all help to guide us as well, as far as like, how do we add more uniqueness to the content by bringing what makes webstacks special, which is a lot of like the things you say or the thing, how you present the information, like, you know, like, because you're really good at closing deals, you're really good at like, you know, working with these companies, have a lot of information.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Is that like maybe a good summary or tell me more about how that evolved?",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, definitely.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I would for sure say we had pretty significant.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Solution working together with you guys.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I think part of that was like, and I shared some feedback, you know, Marcel with you like early on, right?",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I think part of it was like, you guys were early stages.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "You guys were figuring it out.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like we are, we're always, we always feel like we're kind of in that, that mode.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But like, we completely understand like being in that mode.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so I think like part of it was that was like figuring out like, okay, what are the pieces that, that like you guys need to bring to the table to be successful.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I think at the same time, was like, I was kind of doing the dance from our end of like, how do I get the content marketer who is driving and owning the relationship with you guys and get him set up for success so that I'm, I'm less, you know, required to be involved and for us to be able to get, you know, the most out of the work that we were doing.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so early on, I think it was like a lot of, we leaned on.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "You guys to give us everything.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I think what we figured out is like, even with all the business context we can give you guys, there's only so much you're going to know.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And it's also changing often internally for us.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And as much research that you guys can do, it ultimately isn't going to be enough to really like give the perspective.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "in plain terms, like the content that we got early on was like very surface level and it didn't feel like us.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "It felt very like this was AI driven based off of a keyword that has, you know, high value, high monthly search volume.",
+            "timestamp": "00:08:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And, you know, that's what we're putting out there.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so that I would say was probably like our first three months or so.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then we started to like shift towards the end of last year.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I would really say like we got the hang of things at the start of this year.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "There may be around like month, five or so of working together.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Now, I imagine that like with most of your guys' clients, that's quicker now.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But that was kind of our evolution.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I'm not sure exactly that I should probably know this, the exact like titles of the roles, but like adding the ADA and adding the Kyle and then what became Jacob as like complimentary resources was a game changer.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Because we had a clear process owner, an executor, an expert in the things like you guys do super well, while at the same time having an expert marketer in a like Kyle, Jacob, somebody that could understand the bigger picture that broadly captured the strategy that we had overall, not just on the blog.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so that's where I would say like, I have kind of like a distinct, like pin.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "in like where the shift in our relationship came, and the results follow for sure.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Nice.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Well thank you for that.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like, I literally want to use this quote.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "like how you describe it.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I was like how do we use that quote.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Throw this recording in a case study please.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I love that man.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well I appreciate you.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so tell me more about like the results because I know like we started to see like an uptick.",
+            "timestamp": "00:10:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Obviously impressions were higher than clicks, and then over time like clicks started to follow, and then like we were iterating, and then earlier this year I think we started to kind of hit more breakthroughs, and then more recently I think like you've all done really well on LLM referrals, right?",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like in the context of me the other day, it was just like hey, we got like, yeah, so tell me more about like the performance, because we're trying to also figure out how do we measure that better, and how to report on that better.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So love to get your tape.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, definitely.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like an aside, I'll have to follow up and send you like some screenshots and stuff like J4 and some of our traffic data because like that's super cool in itself.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But basically we, I would say early on, I almost want to like omit the first like, early on it was like a lot of like, yeah, we're seeing like some random spikes here and there, but like we don't really know why we can't really point it back to anything.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So around like, I would say like month four of us working together, I was like really pressing to get some like some kind of data because at a certain point, like I needed to say, hey, this is the ROI that we're getting.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so I think what we started to do and even myself, like we're trying to see the full picture.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We're trying to go straight to like what pipelines coming from this.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And like the reality is like, that wasn't the best.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "approach, given the strategy that we had, which was really like, we were putting together kind of our strategic perspective.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We were adding gong calls that we had that helped supplemented recordings from our side.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We were in our weekly calls, I was probably doing like a 15 minute monologue with with Ada and Jacob, just about like this particular topic to just like give them like my two cents.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And all of that, like really aggregated together into like, okay, now let's take these recordings, these notes, this conversation, and let's throw that into the workflow.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And what we started doing is kind of like chopping up how we were reporting on things first, looking at overall impressions, and really just seeing like, are we, are we getting any eyeballs on this in the first place?",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And that was kind of like one check for me was like, hey, this is is",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "The topic that people are talking about.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And that's like one checkmark for me in terms of like measuring performance.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "The next phase like from that then became, okay, are we getting activity?",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Are we seeing engagement on the blogs that we're writing?",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So then we looked at time on page and we looked at click through.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And that was kind of like a next phase for us.",
+            "timestamp": "00:13:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then as part of our strategy with the blogs in particular, because that was our focus area.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We really wanted to get click through from the blogs to one of our solutions pages, one of our case studies, or one of our capabilities pages.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Because those are our conversion driven pages.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so it kind of happened around the same time that we launched the new site that we switched to this strategy at the start of the year.",
+            "timestamp": "00:13:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And we started adding.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "In varying different conversion panels on the blogs that were relevant.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And that became like another leg force is like, what is, real quick, the conversion panels were to solution pages, generic ones, or there were like two assets, like I know you guys had some really good assets early on.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, it was a combination.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "so that's what we were, we were trying to like, my question for the team was like, is the content that we're putting out?",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Is it driving commercial intent?",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Or is it driving informational intent?",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And that was a question that I wanted to answer because a lot of the keywords that we were going after were incredibly broad.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so we were seeing sporadic conversions or pipelines.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So like people that someone might search like B2B SaaS websites, like best B2B SaaS websites.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And we would get them clicking through to one of our blogs.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then they would convert on an asset.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And it was like, okay, cool, this blog.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "He's doing a good job of converting people to an asset.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But then we would have other people come through and they would convert into sales.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so my question became like, hey, if this keyword of B2B SaaS websites is doing such a good job at both of these things, how do we then continue to create content for each of those specific things as best as we can?",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So what we started doing is adding multiple different conversion, multiple different conversion panels until we basically saw click through from a series of blogs to specific pages.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So if we had multiple downloadable asset CTAs on a blog and we saw click through drop off, then we switched it.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so that became like a way that we were kind of figuring out like, okay, these blogs are doing a good job of attracting people in and when given the opportunity to click through or take another path.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "These are the pathways that we're seeing these blogs in particular do a good job of driving towards.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I would say at this point, like we're still figuring out a lot of those pieces.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Generally speaking, we have found, I would say like a strong amount of click through towards our downloadable assets on a majority of our blogs, which I think makes sense because generally you're getting a lot of top of the funnel searches, people looking for more informational.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But there's a certain subset of blogs that I basically looked at and said, I don't care.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like search volume doesn't matter because the intent is so high here that we need to make sure to be driving to these pages.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so a good example of this is our comparison blogs.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We have lot of like Contentful, which is one of our technology partners, Andy, versus HubSpot CMS.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so these might get an average search volume of like.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "These searches per month, but we are like hyper-focused on like, okay, we want to drive to either our HubSpot CMS capabilities page or our Contentful CMS capabilities page or our web design capabilities page.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And we see, even though it's lower search volume, much higher intent.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so I think that was like another area of success for us was identifying that search volume isn't the sole driver of the goals that we have, which is ultimately, hey, we're investing in content generation.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We want to be able to see ROI on that.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "In order to do that, we've got to generate some pipeline.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so it became less of, I think early on, it was like high volume, high volume, high volume.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And we saw that, but it just, it took so long to do anything that high volume of impressions because we were only going after like high monthly service.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Volumes, low keyword difficulty, and instead, when we shifted the focus a little bit and said, hey, forget about high monthly search volume, let's find high intent keywords, and ignore search volume, but make sure that we have coverage there.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "That's when we started to see like the gap close between the two different strategies.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And this is super, this is gold, man.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:18:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so if we think about like, one of the things we're struggling at times is not everyone one has the mindset you have, and happen to be doing this for clients or, you know, and helping with their strategy and their web strategy and things like that, right?",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so I consider you all one of the best ones.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so then, like, we're trying to figure out, like, how do we take what we're learning by working with you to, and apply to others, you know?",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I love, like, some of the things you're saying about, like, hey, time on page, click through, commercial versus informational intent, like, mapping out the idea.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Fath, experimenting with ideal paths and different offers or what's generating the clicks and pivoting.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we're not only optimizing in one vector, which is like published impression clicks.",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like optimizing on like multiple different vectors and then using like a high intensity volume and using kind of portfolio balancing strategy to be able to cover both.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like, so perfect.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then like, but then how do you, how do we measure that?",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Or what advice would you have for us on other clients?",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Because many of them have like, they have no idea even before we start working together, how to measure conversions.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, totally.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I think like that has been something as well that like we, we have to figure out along the way, because I think we, we had to accept like what was a conversion for us and along the path.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I think like that was something that like, I remember distinctly having a conversation with.",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "With Ada and Jacob, maybe like Q1 or so, where like, I told them like, I don't care about driving a ton of leads right now.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I know that's like not what most people are going to like say for you guys, but I do think that it opened up a dialogue where it made it okay for them to see the steps along the way that would equate to conversions.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And that made it easier for me to have internal conversations with my team, with Nikon, with Sean, with other folks on the team to explain like, hey, listen, this week, right?",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like with the change in our strategy and because of, in our case, you know, we have strong domain authority.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So like it almost becomes paid ads at a certain point.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like we put 10, 15 blogs out all at once.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "All of a sudden next week we see a spike.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like, and that's generally like unheard of with, with organic.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Content, but we would see the spike and we would then see like, okay, cool, we're getting a bunch of click through.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Now we know there's an appetite for what we're going after here.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So now we need to look at that next step and say like, all right, how do we drive conversions?",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Because we aren't seeing conversions, but we're getting eyeballs here.",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So what do we need to do?",
+            "timestamp": "00:21:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Maybe we need to optimize the content.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So then we would look at time on page and we would say, okay, the time on page is super low.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "No, we're getting eyeballs.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Let's tweet the content and see if we can get people to remain.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then once we had that, it was like, okay, we're not getting click through.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Let's offer different conversions.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then the convert, the click through on the conversion panels became our primary conversion and focus for that group of blogs.",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So like I started kind of just grouping all of these different cohorts of blogs based off of what our goals were for them.",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And there were some where like, we just, we didn't catch traction.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We tried some things for about four weeks.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And about four weeks was like my cutoff was like, Hey, if after four weeks, like, we're not, we're not seeing any shift or change.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like we're not seeing more impressions coming from it.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We're not seeing like greater engagement on the page.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We're not seeing click through and conversions come from it.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Then like, it's not like scrap the blogs.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "It's like, leave the blogs, but like, that's not our focus anymore to keep tinkering with.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so I guess like, I would, I don't have maybe the right solution, but like, for me, it became like, Hey, both webstacks team and growthx team.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like I care about incremental wins because I know that will lead to bigger wins.",
+            "timestamp": "00:22:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "That makes, that makes a ton of sense.",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, so pretty much like right now though, are you, now that this has evolved, right?",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, are you measuring actual leads as well?",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And like HubSpot.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Oh, definitely.",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And for me now, what it becomes is, uh, consistency.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So like now, now for me, it becomes like, all right.",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And it's been, and it still is, I would say, with where we're at, at this point, we're almost like, I would say, wholly like six months in with the strategy that we've deployed.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I would say with the effective team to execute it since working together.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And looking back on like six months, I would say like our looking ahead to our next six months, like that would be my goal.",
+            "timestamp": "00:23:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "My goal now is like, hey, we tinkered, we've experimented.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I don't want to stop doing those things.",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But now I want to start figuring out of the things that we've learned, how do we generate a level of consistency that can be relied on?",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Because it still is a little bit like variable and sporadic for us.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Got it.",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "This is super helpful.",
+            "timestamp": "00:23:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, kind of shifting gears a little bit here, the, how is AI impacting your business?",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm just curious.",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So yeah, this has been super interesting.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Looking at the last 12 months, our overall traffic from AI sources has just been moody.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I'm sure that's been the case with lots and lots of people, but it went from not only impression, or not impression, traffic sources, from visits to our site, but also like direct conversions.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And that happened really fast.",
+            "timestamp": "00:24:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We started noticing it like sporadically at the beginning of this year.",
+            "timestamp": "00:24:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then it feels like every other leads that we're getting in right now are coming in from an AI source.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So the, I guess like issue I have with this, like we haven't quite figured out like how to do",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "How to make that repeatable.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "You and everybody else in the play.",
+            "timestamp": "00:25:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "was going to say, nobody does because I've tried to find out.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But yeah, so that's been like a big source for like bringing in new leads for us and people finding us, which has been really interesting.",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "The other piece that I would say, which is like not necessarily quite measurable yet, is like AI is super important to us as a business.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "It's super important to us in terms of our execution with clients, how we work, all the workflows that we have running.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And talking about that and the relevancy of that, I would say, has made us stand out against many other agencies that maybe shy away from it or are not utilizing it to the extent that we are.",
+            "timestamp": "00:25:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so that level of transparency around AI, I think, has been.",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Um, really beneficial for, for drawing people in because marketers are really excited by it, but they, uh, don't always know the, the ceiling that they have with it.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Um, and so that's really been interesting.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like talking with Jacob about a lot of the work, like we've done and like bringing that into the content that we're putting together, because like, I think that's really interesting.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Um, and, uh, so I think like, those are, those are areas, um, that I've seen it really impact things.",
+            "timestamp": "00:26:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:26:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Um, yeah.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like what, one thing that we kind of started to see that that's maybe applies here a little bit is, so one of our customers, Vappy AI, we started to build, uh, these, uh, programmatic pages for them on, um, agents.",
+            "timestamp": "00:26:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Uh, like custom voice agents.",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so we've done about like 2200.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But we're publishing in batches of 100, and these are like, I can share my screen and just show you some stuff, but these are pretty personalized, if you will, and so there's an entire module here, but in every aspect of the page is personalized, the challenges, the solutions, and it's super long tail.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Even, like, the voice itself, you know.",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's cool.",
+            "timestamp": "00:27:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, essentially, like, every aspect of the page is personalized, and what we found is, like, in some of the AI answers, it actually recommends Vappy as the top solution.",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's awesome.",
+            "timestamp": "00:27:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's almost like, because there's nothing else in this long tail that is a voice agent for this specific, like, use case.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It was almost like...",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, yeah, it was almost like it was just starting to recommend it, you know?",
+            "timestamp": "00:28:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, and I think, like, that's super interesting because, like, I think one thing that there's, like, that's going to occur in a lot of the content is, like, an over-index on keywords still because naturally that's what everyone focuses on.",
+            "timestamp": "00:28:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But keywords, while, like, continuing to be beneficial and certainly, like, necessary to be focused around in some capacity, there's so much intent that's gathered from these tools like Perplexity, Gemini, ChatGPT, that, like, it almost doesn't matter as much because there's a certain amount of, like, context and that, like, contextual, like, prompt that you're given here that, like, you're going back and forth is going to lead to outcomes.",
+            "timestamp": "00:28:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Or lead to other sorts of pages.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And I think, like, that's something where, like, I don't know the answer to that, but I think.",
+            "timestamp": "00:28:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "What you're hitting on here, which is like, there isn't a long tail keyword, or there isn't like someone like showing up like this long tail keyword is exactly kind of the same thing that I mentioned with like the search volume focus is like, by not focusing so much on like, we need high search volume in order to create content around this, instead just saying like, we're going to create content around this because it's relevant to us means that whoever is going to be searching for it.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And whenever they're going to be searching for it, they're going to get you showing up.",
+            "timestamp": "00:29:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I think like, and we talked with, like Jacobs helped us with kind of like a programmatic thing we were working on, I would say it's much more like top of the funnel, it kind of takes like one of our assets, like SB2B SaaS websites, and turns that into like more of a functional directory.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "But I think like something like, what you're hitting on, like, it would be super cool with like website use cases, or like, like,",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so it's pretty crazy because we, like, this is one I want to, I'd love to sit down with you and Nikon and show you some of the stuff we've done.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we've launched codelibrary.ai.",
+            "timestamp": "00:30:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's not like we're redesigning it right now.",
+            "timestamp": "00:30:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's only been a week.",
+            "timestamp": "00:30:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But this is for a client.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And the idea is, like, the client is going to publicly acquire the site eventually is the idea.",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But we'll see.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But it's one of the AI coding agent companies out there that are pretty big.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so, like, and then we did something kind of similar with Bolt.",
+            "timestamp": "00:30:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I think it goes back to your idea, Jesse, back in the day on the website library stuff, you know, like Landbook, kind of, you know.",
+            "timestamp": "00:30:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, so what we did for Bolt was we built this.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And this is just a prototype concept, but essentially, we built these workflows that are these crazy prompts.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They're like super detailed prompts, right?",
+            "timestamp": "00:31:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like insanely detailed prompts.",
+            "timestamp": "00:31:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then a page that describes these prompts.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So in your case, maybe like we focus less on the prompts, but then, and then we did a one-shot of building the whole thing.",
+            "timestamp": "00:31:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So this is like a one-shot app, fully built.",
+            "timestamp": "00:31:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, that's sick.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "From that prompt.",
+            "timestamp": "00:31:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "What's that?",
+            "timestamp": "00:31:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "From the prompt.",
+            "timestamp": "00:31:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "From the prompt.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "From Yeah.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, so then like, let me just show you like the platform here.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so just to show you like a little bit of our platform that we launched this week that pretty soon, like we'll expose more of it.",
+            "timestamp": "00:31:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But what we're taking is like, we take all these artifacts that we generated for you, right?",
+            "timestamp": "00:31:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so dynamically adjust that.",
+            "timestamp": "00:31:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we're setting up these pipelines for you, right?",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so like the article generation one, for example.",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "generation.",
+            "timestamp": "00:31:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:31:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I And then like, people I think.",
+            "timestamp": "00:31:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is the behind the scenes of our workflow engine, and this is all on platform, right?",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So you can see, just to create an assignment, all the things we're doing.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's like fetching organic results, it's fetching all these information, scraping it, it's cleaning the article, it's competitive content, it's creating a brief, and all with the context of your company, right?",
+            "timestamp": "00:32:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then, like, just to show you a little bit, like the, on the one I was just showing you for StackBlitz, is like the StackGenerator, it's, let me see if there's an execution here, okay, here we go.",
+            "timestamp": "00:32:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, the input was, like, a plan, and then the output was, like, the prompt, right?",
+            "timestamp": "00:32:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then if you take this prompt, and literally shove it into, like, lovable, I swear to God, like, maybe it'll get done quickly.",
+            "timestamp": "00:32:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Enough, but like it will spin up something way, way, way, way, way, way, way, way, way better, like because it's so detailed, you know, that you're like prompting the prompt.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:33:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So you're creating the plan with the context.",
+            "timestamp": "00:33:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so so that's kind of like the idea is like that we're starting to play around with that.",
+            "timestamp": "00:33:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think like you guys could be like the best one for this.",
+            "timestamp": "00:33:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Honestly, it's like let me try to find like an example.",
+            "timestamp": "00:33:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Because like one in even the past, like, I would say like two months or so, like one of the things I've shifted into with working with you guys, it's like, I'm just feeding a bunch of gong calls.",
+            "timestamp": "00:33:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "It's like for us that like, what is our, what is our like, expertise comes through in hundreds of gong calls that we have with clients every day.",
+            "timestamp": "00:33:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And that like FAQs that are coming up in our sales calls all the time.",
+            "timestamp": "00:33:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And like all I'm doing is like grabbing those gong calls, sending that over to you guys.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Like I sent Jacob like a breakdown of one of our clients start to finish of gong calls from their sales calls, each one broken up at each of their stages.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And then all of their milestone calls working with us from pre-sales all the way through launching their website.",
+            "timestamp": "00:34:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And so it's like a full comprehensive like overview, generally speaking, that you can gather from those gong calls into everything that was like their problems, our solutions, our changes to those solutions along the way, how we adapt it to new challenges that popped up, how we prepare for launch, all these different steps.",
+            "timestamp": "00:34:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So just like in like, I don't know, 40 or probably less than that, was like 20 or so calls that then he was able to kind of like feed into some like brand positioning docs that like he put together for us.",
+            "timestamp": "00:34:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And like, it was really spot on.",
+            "timestamp": "00:34:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And what's really cool.",
+            "timestamp": "00:34:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like, we did stuff like this, except for sessions, so for Bolt, they had all these sessions of users that signed up, and then navigated through, and then went away, and then came back and did a bunch more things, and then paid, and we literally built this workflow, I don't think there's any recent executions, but the workflow literally goes through and describes everything, like on this session, and writes it in normal language, with the full content of the session, and then from that text, we can categorize those sessions, essentially, create categories and subcategories, then we were able to figure out, like, what were the most common patterns, you know, what kind of activity, like, what was their use case, and what was the subcategory of the use case, and then we created this kind of classification library of all the sessions we were trying to learn from, and their data science team was, like, stuck building look for dashboards, essentially, and we did this, like, so it's the same thing with calls, right, like, it's not about, like,",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Calls about like how do you dissect that information and process that scale with the right context and then classify it and then like get a higher amount of value from it.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Right.",
+            "timestamp": "00:36:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so it's really cool.",
+            "timestamp": "00:36:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like, like, so for instance, like, let me just show you this one.",
+            "timestamp": "00:36:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "For example, this one is MCP server metadata generator.",
+            "timestamp": "00:36:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So if you go in this code library that we're generating, it does, it takes just this GitHub link and creates this entire page just from that, like nothing else, you know?",
+            "timestamp": "00:36:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so like, if you're building this in clay, it would probably take you like a pretty decent minute to go through it, right?",
+            "timestamp": "00:36:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Whereas like, if you go here, it's like, what's the input?",
+            "timestamp": "00:36:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Literally, this is the only input.",
+            "timestamp": "00:36:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Go here.",
+            "timestamp": "00:36:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It analyzes the repository, extract technical details, generates the content, extract the tools, uploads the logo, and then generates the metadata, you know?",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So defining these steps, like each one of these steps here, are you defined?",
+            "timestamp": "00:36:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "It's all in code.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "we essentially built an AI coding agent that writes all these workflows in code.",
+            "timestamp": "00:37:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So you can essentially Vibe code the workflows internally for us.",
+            "timestamp": "00:37:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's a little bit more than Vibe coding, so you still need an engineer in the loop.",
+            "timestamp": "00:37:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So our AI engineer is like, well, we'll still do that.",
+            "timestamp": "00:37:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But pretty soon, the idea is this is a Vibe coding workflows platform, essentially, with a crazy runtime layer.",
+            "timestamp": "00:37:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I don't know, like, you can take, like, any, what's a good GitHub here, next, yes, GitHub repo.",
+            "timestamp": "00:37:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:37:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, like, you can take something like this, and just do that, and it should execute the workflow right now.",
+            "timestamp": "00:37:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So you can see, like, it's analyzing the repository.",
+            "timestamp": "00:37:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I don't know how long it takes.",
+            "timestamp": "00:37:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It usually takes, like, I don't 23 seconds each step.",
+            "timestamp": "00:37:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But you can see, like, it's doing it right now.",
+            "timestamp": "00:37:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, Sam, and I don't",
+            "timestamp": "00:37:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So hopefully that just gives you like a little bit of a view into like the tech behind it all because it's so fast too.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I think I would love to just maybe do like an hour session where we just dive super deep into like some cool things we can do together as well.",
+            "timestamp": "00:38:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And just because y'all have been so at the forefront of like pushing us, but also like getting results, seeing the results, like, you know, being super collaborative on like how do we get the most value out of this, like genuinely versus just like, you know, like, and then that's like create a better result.",
+            "timestamp": "00:38:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we're learning a lot from it and hopefully delivering some decent results as well.",
+            "timestamp": "00:38:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Definitely.",
+            "timestamp": "00:38:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, no, it's been awesome to see the journey even in, I mean, the nine months that we've been working together.",
+            "timestamp": "00:38:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "And, you know, everything that, that you're building, it's on a personal note, super sick to see you doing and yeah, professionally able to, to experience.",
+            "timestamp": "00:38:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So.",
+            "timestamp": "00:38:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I would love to dive deeper into this with you.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, let's do that.",
+            "timestamp": "00:39:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "We're doing some sick stuff for Webflow right now.",
+            "timestamp": "00:39:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We're doing, like, anyways, there's a lot of cool things we're doing right now with other clients that I think we can bring all the learnings to the table with Ramp, too.",
+            "timestamp": "00:39:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "They're always pushing the envelope.",
+            "timestamp": "00:39:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Essentially, Ramp, what they're doing right now, they want to do, like, they realize they lost track of due to AI overviews.",
+            "timestamp": "00:39:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so they want to build affiliate sites, essentially.",
+            "timestamp": "00:39:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, instead of buying affiliate sites because they're $200,000, $300,000 a pop, and they're all poorly run and all have a weird whatever, they're just spinning up affiliate sites.",
+            "timestamp": "00:39:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, like, we're building affiliate sites and tools ourselves, essentially, you know.",
+            "timestamp": "00:39:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it's kind of, like, a cool exercise to, like, building tools.",
+            "timestamp": "00:39:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And if it works, you can always bring it in the mother ship, you know, if you will.",
+            "timestamp": "00:39:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then the land book thing that I think you were the first one that I mentioned a while back, like, I think that has.",
+            "timestamp": "00:39:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Also a huge potential, and we pretty much already built it for Bolt, but Bolt is like, honestly, like off the record, like a mess.",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so I don't think they're going to run with the idea.",
+            "timestamp": "00:40:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so it's like, there's no like restriction of us taking all that work and like literally doing a separate link for you guys, you know?",
+            "timestamp": "00:40:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Dude, I have designs pretty much done and like a staged like version of that so far that we were working on.",
+            "timestamp": "00:40:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "I'd like the start of this quarter, but like this was, it was like based off manual, manually pulled data.",
+            "timestamp": "00:40:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So like if we can figure out a workflow to just feed this thing, like we've got designs or designers in-house that like we can tweak, we can make it develop quick.",
+            "timestamp": "00:40:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "So yeah.",
+            "timestamp": "00:40:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:40:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Let's do that, Andy.",
+            "timestamp": "00:40:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We can kind of take an action here and then maybe like we can, I'll follow up with some ideas.",
+            "timestamp": "00:40:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like, and then we'll set up at least an hour, maybe an hour and a half.",
+            "timestamp": "00:40:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "At some point in July, if that works for you.",
+            "timestamp": "00:41:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, that'd be great.",
+            "timestamp": "00:41:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Yeah, no travels in July at this point.",
+            "timestamp": "00:41:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "All right, sweet, sweet.",
+            "timestamp": "00:41:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:41:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Well, thanks.",
+            "timestamp": "00:41:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I know you got to catch flight in a little bit.",
+            "timestamp": "00:41:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So thanks for the time.",
+            "timestamp": "00:41:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Thanks for going over a little bit, man.",
+            "timestamp": "00:41:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I appreciate you and Icon and everybody so much.",
+            "timestamp": "00:41:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Likewise, man.",
+            "timestamp": "00:41:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Likewise.",
+            "timestamp": "00:41:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:41:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Take care.",
+            "timestamp": "00:41:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jesse Schor",
+                "matched_calendar_invitee_email": "jschor@webstacks.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:41:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:41:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:41:30"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into GrowthX's performance and impact on WebStacks' content strategy and business growth](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=1.0)\n\n## Key Takeaways\n\n  - [WebStacks shifted focus to upmarket clients, expanding brand positioning for enterprise accounts](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=180.0)\n  - [Content strategy evolved from surface-level AI-driven content to unique, WebStacks-specific perspective](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=503.0)\n  - [Multi-faceted measurement approach: impressions \u2192 engagement \u2192 conversions \u2192 pipeline](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=759.0)\n  - [AI significantly impacting lead generation and differentiating WebStacks in the market](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=1445.0)\n\n## Topics\n\n### WebStacks Business Evolution\n\n  - [Focused on pitching upmarket clients since August](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=177.0)\n  - [Launched new website at start of year](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=179.0)\n  - [Expanded brand positioning for enterprise and higher mid-market accounts](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=210.0)\n  - [Introduced WebSnacks for small mid-market companies](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=231.0)\n  - [Integrated web strategy as a service offering](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=300.0)\n  - [Emphasized thought leadership in the composable web space](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=324.0)\n\n### Content Strategy Transformation\n\n  - [Initial 3 months: Surface-level, AI-driven content based on high-volume keywords](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=503.0)\n  - [Shift in strategy: Incorporating WebStacks' unique perspective and expertise](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=503.0)\n  - [Key improvements:](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=443.0)\n      - [Adding complementary resources (Ada, Kyle, Jacob)](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=553.0)\n      - [Utilizing Gong call recordings and team insights](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=727.0)\n      - [Focusing on both high-volume and high-intent keywords](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=866.0)\n  - [Results: Improved content quality and relevance, leading to better performance](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=600.0)\n\n### Performance Measurement Evolution\n\n  - [Initial focus: Impressions and eyeballs on content](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=759.0)\n  - [Progression:](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=787.0)\n    1.  Overall impressions\n    2.  Engagement (time on page, click-through rates)\n    3.  Conversions (click-throughs to solution pages, case studies, capabilities pages)\n    4.  Pipeline generation\n  - [Grouped blogs into cohorts based on goals](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=966.0)\n  - [4-week evaluation period for content performance](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=966.0)\n\n### AI Impact on WebStacks\n\n  - [Significant increase in traffic and conversions from AI sources](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=1445.0)\n  - [AI transparency in execution and client work differentiates WebStacks](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=1521.0)\n  - [Leveraging AI in internal workflows and client projects](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=1530.0)\n  - [Exploring programmatic content generation for long-tail topics](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=1445.0)\n\n### Future Collaboration Opportunities\n\n  - [Potential for creating a website library/directory similar to Landbook](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=2393.0)\n  - [Exploring AI-driven content generation and classification systems](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=2287.0)\n  - [Possibility of building affiliate sites and tools](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=2367.0)\n\n## Next Steps\n\n  - [Schedule 1.5-hour deep dive session in July to explore collaborative AI-driven projects](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=2287.0)\n  - [Follow up with screenshots and data on traffic and AI referrals](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=663.0)\n  - [Explore potential for creating a WebStacks-specific website library/directory](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=2393.0)\n  - [Continue refining content strategy to achieve consistent, reliable results](https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB?tab=summary&timestamp=966.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Follow up w/ Jesse - ideas for collab. Prep for July deep dive session.\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:40:37",
+            "recording_playback_url": "https://fathom.video/calls/331284323?timestamp=2437.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Schedule 1-1.5hr July session w/ Jesse. Explore WebStacks collab opps, AI tech demos.\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:40:37",
+            "recording_playback_url": "https://fathom.video/calls/331284323?timestamp=2437.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Jesse Schor",
+            "email": "jschor@webstacks.com",
+            "email_domain": "webstacks.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Jesse Schor"
+        },
+        {
+            "name": "Andi Bailey",
+            "email": "andi@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Andi Bailey"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/A6QFVpoxFzKg-6bd-H6LZsJRrPsopUfB",
+    "crm_matches": {
+        "contacts": [
+            {
+                "name": "Jesse Schor",
+                "email": "jschor@webstacks.com",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/111901154241"
+            }
+        ],
+        "companies": [
+            {
+                "name": "Webstacks",
+                "record_url": "https://app.hubspot.com/contacts/341940338/company/63798558692"
+            }
+        ],
+        "deals": [],
+        "error": null
+    }
+}

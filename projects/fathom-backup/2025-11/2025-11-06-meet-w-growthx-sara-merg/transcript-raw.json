@@ -1,0 +1,1132 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Starting.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "It's just starting.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Sorry, it's going to be right at the top of the day.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Oh, no worries.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I start early.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I've been up for a couple hours.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So how does this work?",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I pulled up the ghost CMS and stuff, and I was figuring I could just show you some of the weird stuff or show you how I build one of the blogs that you guys have drafted for us or something, but let me know.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, that sounds great.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, just trying to get enough context for our publishing team so that when they get into staging and publishing the articles, they kind of know what to look out for, any specific fields that are tricky or weird, and then just the overall process to get things up and running.",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yes, let me share my screen.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Can you see that okay?",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So, okay, so let me just back up.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I was just making sure that I had a doc set up.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So once you're in Bubble.Ghost.io's, like, login state, you'll probably be sent to, like, this homepage, which is, like, a mock-up of the actual homepage, which is Bubble.io slash blog.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And then you can see, like, the published stories are under published, and you can see, like, featured ones, which are up here at the Hero.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I'm predicting that because these are SEO blogs, this won't, like, ever, we don't, like, really ever, like, feature those.",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "We mostly feature, like, product announcements and stuff.",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "But if you want to feature something, you would basically just, like, go in and select feature this post, and then you would have to go into the featured.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "posts and like basically unselect the last one or else it'll like show an extra one in a row.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "That's like one weird thing.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "But I don't think I don't expect to use that.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Typically, typically not, but just just FYI.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And then to start a new post, you could either click on this.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You could click on this.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I have one set up just to make sure it was all going well.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So this is like for headline.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "This is the excerpt section.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You might see it depending on how your toggles are on.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You might see it right here above the post URL.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "This is where you put the slug.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Date published.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Like we don't really like ever backdate anything.",
+            "timestamp": "00:02:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "But if we are updating an article, I just would want to make sure that we update the date as well so that it feels like as current as possible.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "For an SEO blog, would typically do, we have kind of a number of topics or like tags.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "going going make sure sure that",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I can go to that page.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "These ones right here, programming, using bubble, and community are sort of like three like core tags, but we have like a ton.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I would say that like they're pretty self-explanatory.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Usually for SEO blogs, because they're so general, I'm usually using like guides, building a startup, starting a business, and then like if it's like AI specific or mobile specific, that one as well.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And if it's like something about like how to build, I would probably also select programming.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And then if we are using, like I would use like the most specific tag as the first one, because that's what will like show up on the page.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So for example, like if I go into the AI, this is also tagged as community.",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And so because community is the first page, even though it'll show up under AI, but because it's community is the first tag, it's showing up.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "is oh, want been",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "As under the community tag, first and foremost, if that makes sense.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And then everything else is pretty self-explanatory.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "If we want to do tables, we have, which I know we're in that first draft, Ada sent over, I'm pretty sure.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You could just go here and using this forward slash is usually the command to pull up the menu.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You can just do table and there's, we have two tables like styled in here that we can like use.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I'll just preview those so you can see the difference.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "We have sort of like a locked left like header row almost.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And then also just like a normal, one normal header row.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You can obviously add columns to these and add rows.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You would, I would recommend like not typing the HTML in ghost.",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I would recommend like if you have like any type of like CSS or HTML built like.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Like, Builder, like, either the free one or, like, I've used, like, VS Code for it before just to, like, copy and paste it all in.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "The one thing is to make sure that the, oops, sorry, this, like, class line is up at the top or else it won't show, like, in the proper, like, preset styles.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "It'll just show, like, ghosts, like, generic styling.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "But if there's anything weird with that, you can always just, like, let us know and we can, like, play with it.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I would say that probably this one, which I think is Styling 2, is probably the more versatile one.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And you can, like, bold all the entrants over here.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "For example, if you want to add columns, I find that sometimes this format gets weird as it gets wider.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So I would say probably you'll want Table Style 2.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "The other stuff is, like, pretty self-explanatory.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Don't me, maybe I'll go into, like, a draft that we've already published to show.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Like, what I'm talking about.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So this is like a, this is like an SEO blog, obviously.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Pretty, pretty standard.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "We use H1s and H2s.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "These should not be bolded as like one styling note.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And then I just want to make sure that we do like any alt text.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "It can be like super simple, but if there's any images attached, I definitely want the alt text to be in.",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I'm not very picky about captions.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I don't really need a caption unless it's like via somebody else.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "We want to like credit in the caption.",
+            "timestamp": "00:06:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And then we have like drop quotes.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "There's like a couple stylings.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "That one we don't use.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "This will be like, it'll be the styling of the first one that pops up when you like basically like pull up the styling menu.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then we have like one, I feel like this one maybe doesn't have any.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Oh, at the, at the footer.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "then anytime we want to do like any type of call out, we use like the call out box.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Which can come up.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "up with the command slash and then just like start typing you can like set this emoji to anything you can we usually are including like a link there obviously and we like using this like like arrow that comes up when you're like in Google Docs or word if you do like what is it like dash dash and then the little carrot that doesn't set automatically in ghost which is like randomly kind of a pain to me so you have to like type it elsewhere but um that should be fine um feel free to get creative with the emoji you pick we're not picky there and then usually we do blue and that's like pretty much it's like pretty honestly it's quite straightforward um yeah I think we usually do like a UTM in the final like CTA or like just to like make sure that we're like tracking as much as possible um",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "I can, like, send you how those are formatted.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "We have, like, a little, like, builder, but it's usually just, like, the post title.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Is there anything that you are thinking of that I have not included?",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Don't think so.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So far, it's you showed me.",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Because it's ghost and not, like, proprietary or anything.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Like, I feel like I've worked at places where, like, if there's been a proprietary CMS and it's been way weirder, I think ghost is, like, pretty standardized and pretty, like, self-explanatory.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "So that should be good.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "The one note I have is sometimes if you're building, if you've, like, copied and pasted the text, like, the text, sometimes you should just double-check the slug before you hit publish to make sure that it stayed what you intended the slug to be because know.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "know.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Sometimes it resets to, like, the title, which is, like, a random bug on the ghost side of things.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "But other than that, honestly, like, pretty self-explanatory.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "You, it's really, like, just copy, paste, drag, and drop kind of style.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And, yeah.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then for authors, we just use Bubble.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yeah, I think we'll use Bubble for, honestly, like, any SEO piece.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "honestly, also use Bubble for, like, once we're announced.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "But, yeah.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Obviously, if, like, any other weird things come up or if I realize that I forgot something critical that's, like, kind of weird or strange, like, I'll definitely let you know.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "But let me know if any other things come up as your team is, like, building.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then for the first few, do you guys want us to just draft them?",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And do you guys hit publish?",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I think maybe.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Maybe, yeah, maybe, like,",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "First, like two or three, we could just like take a look to make sure the formatting is like not like strange or like something abnormal.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "And that would also help us know if we've like covered everything that we should be telling you.",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yep, absolutely.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "super helpful.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Have a great rest of your day.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Yeah, you too, Sara.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Talk later.",
+            "timestamp": "00:10:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sara Merg",
+                "matched_calendar_invitee_email": "sara.merg@bubble.io"
+            },
+            "text": "Bye.",
+            "timestamp": "00:10:21"
+        }
+    ]
+}

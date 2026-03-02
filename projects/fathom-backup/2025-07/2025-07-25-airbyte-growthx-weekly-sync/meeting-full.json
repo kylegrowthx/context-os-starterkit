@@ -1,0 +1,3026 @@
+{
+    "title": "Airbyte <> GrowthX Weekly Sync",
+    "meeting_title": "Airbyte <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/363394675",
+    "created_at": "2025-07-25T16:04:01Z",
+    "scheduled_start_time": "2025-07-25T15:30:00Z",
+    "scheduled_end_time": "2025-07-25T16:00:00Z",
+    "recording_id": 76534728,
+    "recording_start_time": "2025-07-25T15:31:01Z",
+    "recording_end_time": "2025-07-25T16:03:46Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "What's the stage that you're at or like what's the latest part of the...",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, kind of like design is shipping those Figma pages and there is a Webflow designer or developer who is just building those designs in real and making the changes and finishing it in a separate environment.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And once we have all the pages ready, then he'll just push those and deploy that into our main domain.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Beautiful.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I'll say it every week.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Just keep us in the loop wherever you need us or whatever we're connecting to.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "We're already doing that this week.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Just going to keep in your ear on that.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Marcel will join.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I think he'll be here at some point.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then I was waiting on NEM.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "For the publishing.",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I can jump in since it's right here.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "On the reporting side, the early results, a little bit of a continuation of our Slack chat with, you know, some more, a couple more days of data.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So let go ahead.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So we've got our SEO testing dashboard and we've got two batches now, obviously.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "The second batch just doesn't have a single bit of data yet because it's been, I think that was just published yesterday.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so we need 72 hours to get that data in GSC.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "At the high level, let's come in here to batch one.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So we've been up for, what, seven or eight days, something along those lines.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "The data, even slightly smaller than that.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Impression's good, same as before.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Traffic's worse than it had been.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I want to say I'm not terribly concerned here.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "More than at 3% for sure.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But less here.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I'll go into that in a second.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And I, so you started.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I started spot-checking those URLs where the traffic has dropped.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It's like a handful of pieces and trying to understand if this is something that was already started before these refreshes and there's just like been a traffic drop historically on those and we're just coming to the end of that, hopefully.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "If that's something that everything was steady and now we're just seeing big drops, it's possible and that's not necessarily a symptom or like a piece of evidence that something's wrong.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I've been diving into those things, have a couple early hypotheses, but we'll be digging into that more today.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "At the high level, let's see.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "What do want to show you next?",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "As I mentioned in Slack, I just want to say again, to me right now, impression growth is more important because we can isolate that almost exclusively to these refreshes, right?",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Everything was pretty \u2013 this is a steady batch of content.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Impression is very similar every single week, growing 10% overnight from doing those refreshes.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That's net new keywords that we weren't ranking for before, somewhere in 1 to 100.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It doesn't mean that we're getting any traffic from those keywords yet, but Google is seeing changes to the site, seeing it's worth retesting you across a bunch of queries.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So that's what I read from that 10% growth.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "What week one of interpreting this data, I think that's the positive signal that I look for most as we go into weeks two to four of this batch, and then start to get these staggered batches.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Certainly want this number to continue to grow.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "If it stays at 10 or if we drop to 7, that's a risk for me.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Like we Google tested some keywords and those fell off.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So that's what I don't want to see.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I also certainly don't want this to get any worse.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "want this to stabilize.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "In my experience, what we'll see here is like with 250 clicks or so, do we have?",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "For today, 280, 220, this 250 range is like one keyword falls off or one keyword drops from page one to two.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "There's just such a small sample of traffic that one thing dropping can be that change.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "There's a lot of variables there.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "This should be more of like stair steps, right, where we'll see some days up and down, but we should be seeing this grow.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Probably more spiky on this side because it's a smaller number.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I want to share that, like, again, more concerning, like a minor concern versus no concern that I had earlier in this week at 3%.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Like, we should look into these.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Are you seeing my GSC tabs now?",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Are you still seeing?",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, it's window.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I think, like, for some of the pages, as we have just made those changes two weeks back, once you update the content, sometimes it takes, like, takes time to actually reflect the result.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So I think we should wait at least one month to see the actual results, see if those clicks are actually dropping or not.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I think after that, we can actually see, like, after a month that, like, I'm also not going to out?",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Much worried if clicks go down, but if it is more than 20%, then obviously it's concerning in a week time.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "yeah, like impressions goes up, clicks, drops is something is like currently common across all the companies.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I was probably getting ahead of concern that you may not even had.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So bear with me as trying to over explain that probably.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Just some other insights I saw, like I pulled up my first steps for like, let's look at the URLs that were struggling in or have dropped in traffic.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That's a small handful that really dropped.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And like a bunch of those just were crawled.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Like the top two articles were July 24th.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Like they were just re-crawled yesterday.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So like you're saying, Tanmay, like Google hasn't even re-indexed, re-crawled everything that we've done.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It's going to take some time.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "that doesn't instantly happen, even if we were able to submit all these.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So to me, that's like the natural, like Google's getting crawlbots through everything, then it's going to test.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so you're right that month, you know, sometimes you're saying like you need.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "To learn where everything settles beyond that month, but we should know much more as that indexing gets, or the recrawling gets done and so on.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But that was like a signal to me that some of this wasn't even, like Google's just now seeing our new content here, so we need more time on that data.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "On the other side, like some of the articles that have grown in traffic and really had seen jumps, like had been crawled earlier, more like that July 21st, 22nd.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I don't know.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "This might just be me looking for some sort of data points to tell a story.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I do think that we're seeing things that were crawled right away, feel like they're seeing that growth.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "other things, we'll see how those net out, but just need more time on that data front.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But again, the last piece I would do, appreciate the kind of wait and see approach, but do want to be proactive.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I'll look at, again, there's probably a half dozen articles where that traffic has really dropped.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And just want look at the content, the previous content and the content we have.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Did something happen to refresh, you know, and like if we lost.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "On top of the clicks too, to me that's a keyword completely fell off.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So like is that something that was missed in a title or a header or is there some sort of pattern that we can see where something dropped, don't need to like over index or spend too much time there and restart anything.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But if we can find a pattern that the refresh workflow missed, I want to catch that here too.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I'll spend a little bit of time today, I'll share whatever I find, if it's big or nothing.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I'll give you all that idea on what next steps are there.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So I think this LLM page which you showed, it was one of our highest driving click pages.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And because of the like current AI mode and AI overviews, that page has seen a major detail.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Because it used to be the highest delivery page, right?",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So if there is a drop, like fast it will impact the highest delivery page itself.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And other thing is, I can give you access for Bing search console, I think we need to look at.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "They are also along with Google Search Console, because AI platforms pull data from Bing, right, a Bing webmaster.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So I can give you that access.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "You can see there also.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And like some of the pages, if we see that still hasn't been crawled by Google, we can definitely re-index those like manual indexing.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Definitely like some of the pages, obviously 100.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "But if we see that some of the pages after a week also will have not indexed, we can manually definitely re-index those pages.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Good insight on the AI overview.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That was an intuition of mine as well.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "We have one client that lost 16% of their traffic from one page because one page got pushed down.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "They didn't even lose a spot.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "They're still number one, but the AI overview took over.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then the Bing search console, that'd be great.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And, yeah, just see we, again, seeing everything, everything I spot check has at least been indexed in that first week, which is.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Healthy to me, but I do think we'll continue to spot check and have done that for some clients where we're just doing that 10 a day that we can max out with GSC.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I'll let you know if I see anything that isn't ever indexing and we'll do that.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "But right now it looks healthy.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Just take, you know, a week is pretty normal in my experience.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Is there a way I can get access in SEO testing and see these things?",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Good question.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I don't know that answer.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So let me get back to you.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Marcel, you know why, if you would know that, um, we can export the data.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I was, I already exported the batch for this week to GS or to Google Sheets.",
+            "timestamp": "00:09:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I can send that over as a stop gap in between.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Um, so I'll do that so we can combine efforts there.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm wondering, and sorry to join later.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like, you're in a call here and I gotta go.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then people like just hold you.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just like, no, you're not going to go just because you said you gotta go.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Um, Um, um,",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And also, I'm very jealous of your dog.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I don't know she was me right now.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But I don't know if you had to just talk about what I mentioned in the footer.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It's kind of like one idea.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so SEO testing, we'll look into it.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "One of the things that I was thinking as just like a quick test for us to run is take, like expand the footer and add three or four more columns at the bottom of the footer and use that to have both categories and URLs that are both like the most recent ones we've updated as well as like the ones that are losing the most traffic.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's like what I found is like it just helps a little.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it might not work, but I actually, every time I've done it, it works.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, and so anytime you're trying to like, just like get it a little bit back up or you're trying to like just give it a little bit more love, you know, like.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it just helps to have some of those things.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, for instance, like you just have some pages that have lost traffic consistently for the last like six months.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so like some of those, like if we're refreshing, like if we also add a little bit more cross-linking love in the footer, in addition to cross-linking across different pages.",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Because a lot of these pages that we're finding, like Jakub was sharing, right?",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like they only have like three links across the whole site, essentially, right?",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like it's like from an index page.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then like, and so it's just like you have so much surface area that like I think our ability to kind of see signals fast are going to be way slower because you have so much surface area.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And Google doesn't even know what to prioritize either, probably, right?",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so the more we kind of like try to speed up like the shortcut to Google of like, hey, prioritize this, please.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, that would probably, probably help a little bit too, you know?",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, yeah, absolutely.",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So soon.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "The pages which you want us to add in footer, we can definitely add.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "We have all the categories added, but specific pages, just send me the pages, I can add, Jakub.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That sounds good.",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, there's about, I'd say, 10-ish pages that, we'll go through.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Essentially, what I was thinking is looking at pages that lost the most clicks in the last three months, here, I can show my screen really quickly, and prioritizing those, you know, like, and starting with one cluster.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's like, the majority of your traffic loss are, like, these 10 pages.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "One thing that I always wanted to bring up is, I told Tami yesterday, I was like, I also don't want to over-index because it's July.",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like, if I think about, like, SDR teams, like, had, this is the week where we had the most, like, no-show.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And so, like, I always like to say, yeah, we're marketers, we're data-driven, but, like, what are we seeing is that we're seeing, like, slower sales cycles, you know, less inbound leads coming in, a lot of reschedules, you know, cost per click is up because, like, there's, like, less impression-share.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like, so, I also want to say, like, we're doing all of this during the summer, and we know that we have, as every software company, like, in August, so, like, I'm not too concerned, you know, in a way, like, I want to do all these things, like, I'm sure, well, but, like, I think we need a few weeks for, you know, stuff to be back up.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "think, like, California goes back to school on the week of August, like, it's going to be a bit messy for the next couple of weeks, right?",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I I don't know, maybe, but I agree.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think no matter what, though, like, for the ones that, like, if any of those, I don't know if this is going to be a good example or not, but any of those where, like,",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Maybe there was, like, a consistent drop, you know, like, at one point, they were doing much better consistently, you know, and the topics are highly relevant, you know, stuff like, like, I think those are worth investing, like, specifically, I think the one on how to train LML's piece one, like, like, great example of, like, like, the, of the traffic drop, like, so, so, so, so, then, uh, we'll send a list, you know, yeah, yeah, but I think overall, like, there's a lot of positive trends that we see, but that's only the beginning, you get impressions now, like, let's figure out, like, you know, how do we test that, and so, I think, like, maybe we do, like, two or three more, more batches, and, but, like, maybe start to, like, rebalance the, um, the bandwidth of the team towards, like, also, like, more surgically, like, going through and finding these opportunities.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "These, you know, and enriching it and finding ways to test it out just to see like kind of what we what we get.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And definitely we can interlink those pages from other articles as well manually.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "If like we take 20 pages, like 20 pages which are dropping, 20 manual interlink is not a problem.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And we have done interlinks like programmatically because of high volume pages, right?",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "It's not possible, but like for the pages which are dropping massively, we can definitely do manual interlinking and we can take care of that.",
+            "timestamp": "00:15:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Good.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "The only caveat to Marcel, which I'm aligned on, but if anything is still in the positions it held before, but the AI overview is what's cutting the traffic, I would probably not those.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "just because the ranking isn't the issue, it's like just how Google's interfaces.",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So we just want to spot check that list against what is that driver.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "yeah, but I think those are good.",
+            "timestamp": "00:15:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "ideas.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, Nem, Slack me.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "other quick thing is like, we're going to dig in a lot more, but there's I think some positive trends that we're also seeing on the LLM side too, you know, like, so there's like, we've to dig in a lot more, but there are a lot of pieces that even if they're losing like some traffic, they're getting more citations and maybe get a lot of citations.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We just need to, because you have such a massive, massive, massive surface area, it's almost like we need to continue to create additional queries to monitor for you, you know, just because, like, at least what we're seeing right now is like, overall, like, you have really good presence compared to your competitors.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We're monitoring for you, so we can do that this next week as well.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We're going through this whole exercise, you know, and I think, I think, are you, I",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "You guys are also using Propound, I want to say?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I Do we have access to that, Jakub, on their instance?",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I can give you access.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I think that would be interesting for you guys to look at.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I mean, do you want to show quickly, like, the thing you saw yesterday with the...",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Oh, embedding thing?",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, I can show.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Basically, we started posting on Reddit, like, on an Airbyte account, and it's like, I don't know, it's just, like, a stupid hack, but basically, we put, like, we are the best tool for ETL, and, like, OpenAIte, if you search that query, like, what's the best ETL tool for ETL, like, now, Airbyte comes up, because we posted and we said we are the best tool, and I'm like, that's the first thing.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Shut up.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "You're lying.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So, like, something that Tamay is doing, like, which tools, you know...",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, it's just, yeah.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, it's just, like, basically, you can't post in any subreddit, because it will be on promotional overview...",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "But you can actually post inside your profile and AI bots and Google also it takes those.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So let's say this topic, if I search now, I love this so much, I'm just like, the first thing that comes is this Reddit thread, number one.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Second, so if I go and ask perplexity the same question, oh, sorry, I need to copy this.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "It will also give air bite, yesterday it gave air bite, did it come up, yesterday it came up, I think these things vary from a day to the other.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, like it fluctuates, but like sources it actually crawl that way.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And also, yesterday I saw that it actually crawled this particular thread also, and that's interesting.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Like, whenever, like, also one more thing is, if your thread is more engaging, Reddit, like, AI bots, like, try to crawl and index them much faster than if your thread is not much, for sure.",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know what's crazy?",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We did this thing for Augment as well.",
+            "timestamp": "00:19:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We published this page.",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It was insane.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, we published a new slash guide section for them, and one of the pages was, like, related to AI coding tools for chat.pt or alternatives to chat.pt for AI coding.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And, obviously, like, Augment was at the top and whatnot.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And immediately, one of the queries we were monitoring, if, on chat.pt, when you search for the best AI coding tools for enterprise teams, Augment would be key number one on the answer itself, in addition to the citation.",
+            "timestamp": "00:19:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Within two hours of posting, it was insane.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "were all so shocked.",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Essentially, these analogers are so damn lazy because they're bringing so much money on compute.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Of course, yeah.",
+            "timestamp": "00:20:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we've been analyzing the citations for all these queries, and the amount of junk in there is insane.",
+            "timestamp": "00:20:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like the amount of junk stuff in there.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "It's crazy, you know?",
+            "timestamp": "00:20:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "One more thing I want to show here.",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "It's taking time.",
+            "timestamp": "00:20:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So, terms of citations shared, we were ranking at third for last five months, third or fourth.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Now, we are at first.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "We have like surpassed S2 or an integrate.io, hero data, material, and And if you look at the citations, most of our own content.",
+            "timestamp": "00:20:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Like, for us, if I remove earned also, one.",
+            "timestamp": "00:20:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I'll a bit.",
+            "timestamp": "00:20:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Stop.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Because most of our own pages are ranking and giving more citations compared to third-party mentions.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So I feel there are two benefits of having more own content and getting more own citations.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Because it directly takes people to your website.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Second is like you have the control to write and put the narrative as Airbyte as the base tool, right?",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Like in third-party articles, you don't have that control.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So this is one interesting thing.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And I don't know if like Scrunch shows this data or not, but most of the AI tools have kind of same kind of interface.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, look, if you guys can give us access, because we're, and we can look at the prompts you guys have, and then we can also suggest, and then we can try to replicate the prompts you have, and then scrunch as well, since you've already done some of that work.",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "then we'll do this and vice versa.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "then we can always, it doesn't hurt a company.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "They're both, you know?",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I agree.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Essentially, like, we're already paying for unlimited access to Scrunch for all our customers, so it doesn't hurt to do it for you as well.",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, we were one of Profound's first customers, so we'd be, you know, spending a lot of time, like, Tanmay's been spending a lot of time in the tool.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, yeah, like, definitely get access and compare the tool and see what you see, so.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah, that's awesome.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, like, it would be really interesting.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "A couple of things, I don't know if Jacob covered on just a refresh and things.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, we're still dealing with a couple of things on our end.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They're just, like, still slowing down things a lot.",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's mostly, like, how tables are rendered, like, little nuanced things that are just, like, don't allow us to just, like, mass produce, kind of, right?",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, and the workflows keep getting better each week.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, there's a lot of that that's, like, only going to get better from here.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But that's why, like, man, on our team who's been working on all those content has been crazy hours to keep up with the quantity.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so,",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so like the workflows do a lot, but like there's still a lot of that manual, not only just manual review, but there's just like little things on the publishing side that are still not perfect.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But we feel really good that like in the next week or two, that will like get a lot better, you know, and so no matter what, it's going to add value to the rest of the site pretty soon as well.",
+            "timestamp": "00:23:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "How much is this a web flow issue and how much is this like a, because we are really like, I want to move away from it, but we need to launch a refresh website before doing so, because then it's going to be a migration process.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "But like, like, is it like, question for you is like, is this really a web flow issue or is there something else?",
+            "timestamp": "00:23:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I can dig in.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "What he mentioned mostly is like, there's like a lot of like little nuances on tables and formatting and things like that.",
+            "timestamp": "00:23:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Um, and then last week and the week before there was also some things where it's just like improving our workflows as well.",
+            "timestamp": "00:23:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then just like, um,",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We got some improvements done, but also because we were doing the engineering offsite this week, we were, you know, just being transparent, slightly slower to, like, fix some of the workflows that are not fixed, just, like, improve where we're seeing, like, persistent, like, things coming up.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then, like, NAM was just, like, grunting through it to fix some of these things, you know, and some of the things you guys, like, pointed out, like, with the FAQs and whatnot, you know, and so it's just, like, going back around and, like, fixing things that shouldn't, like, now won't happen again.",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, like, we got the batch two, and then, like, the batch three is going to be ready, and then we'll hit publish.",
+            "timestamp": "00:24:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, I mean, it's still really, by the way, like, it makes you all feel better, too.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, we're working with, like, Outreach, SentinelOne, Diligent.com, and all these companies, like, they're, like, oh, yeah, like, we've been doing, like, five refreshes a month.",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I was just, like, three people full-time do, like, five to ten pieces a month, you know?",
+            "timestamp": "00:24:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, of course.",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So doing 300 in three weeks, I think it's not bad.",
+            "timestamp": "00:24:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "No, no, no, no, no, no, no, no, this is, this is great, so.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But, but we just want to exceed expectations, obviously, so we're working really hard for that, yeah.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "No, of course.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:25:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:25:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, we'll, we'll keep plugging away.",
+            "timestamp": "00:25:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Anything else that is top of mind in the meantime?",
+            "timestamp": "00:25:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "No, just, like, I think, like I just said, like, in the next couple of weeks, like, whenever we feel that we're good, you know, in a good place with the workflow, like, can then start producing that new content again, to Jakub's point earlier, we can start rebalancing.",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Now that we have, like, you know, the two work streams, and so, like, we can, yeah, we can, we can start rebalancing.",
+            "timestamp": "00:25:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "But, like, I, as I said, I'd rather, like, focus and nail, nail down the, the refresh workflow.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So, it's, it's a lot of times in the, on our end as well.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And then we can, yeah, we can take it from there.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "In, sorry, sorry, go ahead, Tanmay.",
+            "timestamp": "00:25:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So, there are two categories, I think we are now focusing on data engineering resources category.",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So, after that.",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "If we take care of how to sync, that would be great because that particular category has more than 7,000 pages, like almost 7,000 pages.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And it's like huge, like X to Y kind of connectors pages, like Salesforce to BigQuery, Salesforce to Redshift, those kind of pages.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And we have shipped some changes in those pages programmatically in the past, but like you can analyze and you can see like, but I'm sure like if we refresh those content, we'll get more impressions and clicks from L&M's for sure, because those contents are old.",
+            "timestamp": "00:26:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, like, and so kind of somewhat related to that, I mean, if there's anything we can do temporarily, like one of the issues that I found a messed up, but Brent, like when I was doing the DPRAM stuff as well, it was like, these categories, like you're only gonna, you only have like a few pages, right, on each pagination.",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Right.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then when you click on these, you only have like one tag that sends you back to the first page, which only makes you 20, you know, and even if you have like, I think about it as like, you're like, it's too large of a footprint to only have like two levels of interlinking, you know, and so like the biggest delta I've seen, and I know you have like the category links back here, and stuff, but like, you're linking to a thing that only has 20 links, and then all the pages are, like, it's just like not enough for this larger of a footprint, and so like, a lot of what worked was a major unlock for us was just like, not only having like a feature and stuff, but like creating these multiple categories, and then every category has like, a little bit more loaded as well, and featured, and like, and then categories that have",
+            "timestamp": "00:27:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Related categories, and you know, like, individual pages have, like, added, and recently added is all the ones that have been recently updated.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then you speed up the indexation of those as well.",
+            "timestamp": "00:28:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, like, little things like that made way bigger of difference than just, like, like, increasing.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "makes a lot of sense.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Do you suggest, like, us to really, like, because, of course, there's two ways of doing this, right?",
+            "timestamp": "00:28:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like, there's, like, the first way is, like, we sit down and really think about this for, like, two, three weeks.",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Or the second is we ingest all of the content, you know, workflow, and we say, like, hey, like, come up with suggested categories and categorizations.",
+            "timestamp": "00:28:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like, can we leverage AI to do that?",
+            "timestamp": "00:28:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like, what?",
+            "timestamp": "00:28:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I think the easiest win, a couple of things, easiest wins would be thinking of, like, additional, like, categories as index pages, like PLPs, essentially, listing pages, almost, right?",
+            "timestamp": "00:28:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, where, like, similar to how, let me show my screen again, like, similar to how, um, uh...",
+            "timestamp": "00:28:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I'm sorry, let me just.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, can definitely, like.",
+            "timestamp": "00:29:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, like, if you think about this, all this is, like, just an index page.",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "course.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, you can create, for instance, like, different topic categories, right, that can be, like, whatever it might be, right, and they're essentially, like, index pages similar to this, but they surface up, like, it's not the only way to do it, and then for each one of these, like, the ability to have, like, three or four.",
+            "timestamp": "00:29:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "four of these, you know, and then also surface, like, related categories and more things at the bottom as well, so that, like, cross-links.",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, the idea is every article, every piece of content is only two clicks that we have most, and you're creating way more interlinking across everything, but in a way that's, like, giving strong signals to the topics you care about that are a little bit more, like, nuanced than, like, data engineering should be brought up, right?",
+            "timestamp": "00:29:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, and so, so, then, like, how",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "The structure too much, you know, because all these pages are just index pages, so you're not changing the structure of URL, so that's what I was talking about with, like, Helpline, like, if you go to, like, any topic like this, like, some of these pages actually live in a different sub page, like, for instance, like, this one's slash bug help, like, but then this is, like, slash help page.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "slash quit smoking.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then quit smoking is actually, like, like, just like a resource page that has a bunch of links and stuff, you know, topic hub that then surfaces related topics, as well as, like, a bunch of other topics, you know, and so what you're creating is just, like, these multiple hubs, parent hubs and child hubs, if you will, but the content inside those hubs don't necessarily make you live.",
+            "timestamp": "00:30:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like, two will.",
+            "timestamp": "00:30:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They can live anywhere, it's just like a tagging system mostly, know what mean, just to create a lot of interlinking across the board, you know, and then they end up becoming way, way, like, they end up becoming really drivers, huge drivers, like this page, for example, might actually drive more than just an individual page.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, we can move, yeah, makes sense, okay, tell me, like, I think this should be focused for you, and, you know, over the next couple of weeks, like, we should really dial in and figure out, like, all of the categories and stuff, and then we can just, like, do a better job there, so.",
+            "timestamp": "00:31:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, absolutely, and also, I am sharing one URL, Marcel, you can see for connectors, we have done some interlinking, down the pages, like, I can share my screen.",
+            "timestamp": "00:31:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So, for connectors pages, it was like this, and then we have included multiple connectors, which gives like interlinking to those particular connectors pages, as well as these X to Y pages.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So, all the pages related to BigQuery, we gave interlink, and it's like that.",
+            "timestamp": "00:32:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So, we have done this by a programmatic way.",
+            "timestamp": "00:32:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, that's perfect.",
+            "timestamp": "00:32:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's exactly what we're doing for RAMP, by the way.",
+            "timestamp": "00:32:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it's like doing really, really well for them.",
+            "timestamp": "00:32:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And it's like, I have seen interlink helps a lot.",
+            "timestamp": "00:32:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, that's perfect.",
+            "timestamp": "00:32:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:32:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I got it one, unfortunately, but this is super helpful.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Thanks, guys.",
+            "timestamp": "00:32:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Talk soon.",
+            "timestamp": "00:32:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cheers.",
+            "timestamp": "00:32:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Talk soon.",
+            "timestamp": "00:32:44"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Airbyte and GrowthX to discuss SEO strategy, content refresh progress, and early results.](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=2.0)\n\n## Key Takeaways\n\n  - [Early results show 10% impression growth from content refreshes, but slight traffic decline (3%) needing further investigation](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=161.0)\n  - [Content refresh workflow improvements ongoing; 300 pieces refreshed in 3 weeks](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1364.0)\n  - [New interlinking and categorization strategies discussed to improve site structure and SEO](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1718.0)\n  - [Exploring AI-powered tools (Profound, Scrunch) for monitoring citations and LLM presence](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1033.0)\n\n## Topics\n\n### Content Refresh Progress and Challenges\n\n  - [300 pieces refreshed in 3 weeks, significantly outpacing industry norms](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1475.0)\n  - [Workflow improvements ongoing to address table rendering and formatting issues](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1352.0)\n  - [Manual review and publishing still required, but expected to improve in 1-2 weeks](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1372.0)\n  - [Batch 2 ready, Batch 3 in preparation](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1470.0)\n\n### Early SEO Results Analysis\n\n  - [10% impression growth observed, indicating new keyword rankings](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=174.0)\n  - [3% traffic decline, not overly concerning but being investigated](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=105.0)\n  - [Some pages not yet re-crawled by Google, full impact not yet visible](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=340.0)\n  - [AI overview snippets potentially impacting click-through rates on some queries](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=521.0)\n\n### Interlinking and Site Structure Improvements\n\n  - [Current structure limits internal linking (only 20 links per category page)](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1599.0)\n  - [Suggested creating multiple category levels and featured sections](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1731.0)\n  - [Aim to have most content within two clicks, improving crawlability](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1779.0)\n  - [Example shared of helpline.org's topic hub structure for better interlinking](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1743.0)\n\n### AI and LLM Strategy\n\n  - [Experimenting with Reddit posts to influence AI tool responses](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1041.0)\n  - [Airbyte now ranking first in terms of citations shared, surpassing competitors](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1230.0)\n  - [Exploring use of Profound and Scrunch tools for monitoring LLM presence and citations](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1033.0)\n\n### Content Prioritization\n\n  - [Focus on completing data engineering resources category](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1553.0)\n  - [\"How to sync\" category identified as next priority (7,000+ pages)](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1560.0)\n  - [Considering AI-assisted categorization for efficient content organization](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1715.0)\n\n## Next Steps\n\n  - [Jakub to investigate specific URLs with traffic drops and share findings](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=121.0)\n  - [Tanmay to provide Bing Search Console access to GrowthX team](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=473.0)\n  - [Marcel to send a list of 10-ish pages for footer inclusion and manual interlinking](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=731.0)\n  - [GrowthX team to gain access to Airbyte's Profound instance for analysis](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1022.0)\n  - [Tanmay to focus on improving site categorization and interlinking structure](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1904.0)\n  - [Continue with content refresh workflow improvements](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1372.0)\n  - [Explore AI-assisted categorization for efficient content organization](https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16?tab=summary&timestamp=1715.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Investigate URLs with traffic drops; analyze content before/after refresh; look for patterns in missed keywords/headers; share findings\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:06:36",
+            "recording_playback_url": "https://fathom.video/calls/363394675?timestamp=396.9999",
+            "assignee": {
+                "name": "Jakub Rudnik",
+                "email": "jakub@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Give GrowthX team access to Bing Search Console\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:07:42",
+            "recording_playback_url": "https://fathom.video/calls/363394675?timestamp=462.9999",
+            "assignee": {
+                "name": "Tanmay Sarkar",
+                "email": "tanmay@airbyte.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Export SEO testing batch data to Google Sheets; share with Tanmay\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:26",
+            "recording_playback_url": "https://fathom.video/calls/363394675?timestamp=566.9999",
+            "assignee": {
+                "name": "Jakub Rudnik",
+                "email": "jakub@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Create list of ~10 pages that lost most clicks in last 3 months for footer linking\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:12:02",
+            "recording_playback_url": "https://fathom.video/calls/363394675?timestamp=722.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Manually interlink ~20 pages with significant traffic drops from other articles\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:02",
+            "recording_playback_url": "https://fathom.video/calls/363394675?timestamp=902.9999",
+            "assignee": {
+                "name": "Tanmay Sarkar",
+                "email": "tanmay@airbyte.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Give GrowthX team access to Airbyte's Profound instance\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:51",
+            "recording_playback_url": "https://fathom.video/calls/363394675?timestamp=1011.9999",
+            "assignee": {
+                "name": "Tanmay Sarkar",
+                "email": "tanmay@airbyte.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Develop comprehensive categorization strategy; improve interlinking structure for better content discoverability\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:31:17",
+            "recording_playback_url": "https://fathom.video/calls/363394675?timestamp=1877.9999",
+            "assignee": {
+                "name": "Tanmay Sarkar",
+                "email": "tanmay@airbyte.io",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Tanmay Sarkar",
+            "email": "tanmay@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Tanmay Sarkar"
+        },
+        {
+            "name": "Nithin M ",
+            "email": "nithin.mahalingam@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mario Moscatiello",
+            "email": "mario.moscatiello@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Mario Moscatiello"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "nemanja@growthxlabs.com",
+            "email": "nemanja@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Jakub Rudnik"
+        },
+        {
+            "name": "david@growthx.ai",
+            "email": "david@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "George Haikal",
+            "email": "george@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/RGoh8zizCJ6XmxByNh9B318hEyT46x16",
+    "crm_matches": {
+        "contacts": [
+            {
+                "name": "George Haikal",
+                "email": "george@growthx.ai",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/111895031764"
+            }
+        ],
+        "companies": [
+            {
+                "name": "GrowthX",
+                "record_url": "https://app.hubspot.com/contacts/341940338/company/98577890242"
+            }
+        ],
+        "deals": [],
+        "error": null
+    }
+}

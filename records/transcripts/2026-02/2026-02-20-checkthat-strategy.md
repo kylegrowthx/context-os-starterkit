@@ -1,0 +1,1373 @@
+# CheckThat Strategy
+
+<metadata>
+date: 2026-02-20
+time: 18:46 UTC
+duration: 53 minutes
+organizer: Stevie Kim
+participants: Marcel Santilli, Daniel Lopes, Stevie Kim, Fred Fireflies
+fathom_recording_id: 124161830
+fathom_url: https://fathom.video/calls/575905259
+share_url: https://fathom.video/share/Xar5k5EvFqi--ihreH8TYKzk43vfeoYs
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+The CheckThat team shifted product strategy from self-serve dashboard to high-value reporting service, validated by a successful manual analysis for client Eon that surfaced actionable insights. Sign-ups remain strong at ~200/week with near-zero activation, confirming the pivot is the right move. The team will focus on automating data management (brand approval, cost reduction) and database migration to TimescaleDB while awaiting ClickHouse learnings from the OS project, with all other feature development paused.
+
+---
+
+## Context
+
+CheckThat is GrowthX's strategic software bet—an AI visibility index for B2B that monitors how AI tools cite sources, revealing competitive landscape and content strategy opportunities. This call brought together the core CheckThat team (Marcel driving product strategy and outbound sales, Daniel leading engineering architecture, Stevie managing product and engineering operations) to align on a major product pivot. The pivot is driven by evidence: a manual analysis for early client Eon (conducted by Marcel using exported data and an LLM agent) revealed compelling insights about competitive landscape composition and content type opportunities, while the existing self-serve dashboard sees high sign-ups (~200/week) but virtually no paid activation. Fred from Fireflies attended to discuss potential technology collaboration, particularly around meeting recording infrastructure.
+
+---
+
+## Relevance
+
+**To CheckThat Product & Engineering:**
+- CheckThat product is pivoting from self-serve dashboard to prescriptive reporting service, validated by manual analysis for Eon showing 49% citations from analysts/competitors and 80% from listicle/best-of content.
+- Current Postgres database is a hard blocker for advanced filtering and on-the-fly analytical queries. Jose prototyping TimescaleDB migration while awaiting ClickHouse learnings from OS project; this blocks Overview dashboard filtering feature.
+- Team prioritizing automation of data management workflows (brand category approval, citation cleanup) and infrastructure cost reduction over feature development.
+- Engineering headcount reduced: Pedro out this week, Jose focused on database migration. Next week will see increased capacity for data management automation.
+
+**To GrowthX Delivery & Sales:**
+- Eon analysis validated the reporting approach—client immediately recognized the competitor landscape as accurate and found content type breakdown actionable. This translates to a repeatable service model.
+- Dinner event (32 attendees from Webflow/Aerox/Graphi conference) generated 6 qualified prospects and customer evangelist commitment; Pedro's fiancée and multiple customers pitched CheckThat throughout.
+- Manual reporting process currently requires 6+ hours per analysis, but the methodology (reputation/presence/perception quadrant + composite score) resonates with buyers willing to pay $100/report.
+
+**To GrowthX Business Development:**
+- Low activation in self-serve funnel (0 paying users, only 1-2 engaged free users) is strategically beneficial—avoids legacy UI support during pivot, simplifies transition to reporting model.
+- Public pages drive significant organic traffic and thought leadership; team discussing monthly published reports on AI visibility trends as case study + positioning tool.
+
+---
+
+## Overview
+
+- **Strategy Pivot:** The product will pivot from a self-serve tool to a high-value reporting service. This shift is validated by a successful manual analysis for client Eon, which revealed actionable insights (e.g., 80% of citations are listicles) that the current UI cannot provide.
+- **Funnel Performance:** The current self-serve funnel has high sign-up volume (\~200/week) but near-zero activation. This validates the pivot, as the lack of paying users simplifies the transition away from the current UI.
+- **Technical Blocker:** The current Postgres database cannot support the complex, on-the-fly data analysis required for the new reporting strategy. The team will prototype a TimescaleDB migration while awaiting ClickHouse learnings from the OS project.
+- **Immediate Priorities:** The engineering team will focus on automating data management (e.g., brand approval) and reducing infrastructure costs. All other feature development is paused.
+
+---
+
+## Key Topics
+
+### CheckThat Funnel Performance
+
+  - **Sign-ups:** \~200/week, a steady volume.
+  - **Activation:** Near-zero.
+      - 1 user invited someone to a workspace.
+      - 1 user managed prompts in bulk.
+  - **Public Pages:** High traffic, confirming strong interest in the content.
+  - **Implication:** The lack of paying users is a strategic benefit, as it avoids the need to support a legacy UI during the product pivot.
+
+### Technical & Engineering Status
+
+  - **Headcount:** Reduced engineering focus due to Pedro's absence and Jose's work on the database migration.
+  - **Database Migration:** The current Postgres setup cannot handle the required analytical queries.
+      - **Plan:** Jose will prototype a TimescaleDB migration (an easy switch from Postgres) while awaiting ClickHouse learnings from the OS project.
+      - **Rationale:** ClickHouse is the long-term goal for both CheckThat and the OS, but the OS team's implementation will serve as the primary learning vehicle.
+      - **Impact:** This migration is a hard blocker for implementing advanced filtering in the Overview dashboard.
+
+### New Product Strategy: High-Value Reporting
+
+  - **Validation:** A manual analysis for client Eon confirmed the value of a reporting-first approach.
+      - **Method:** An agent analyzed data exported from CheckThat, augmented with SEMrush data, to generate a comprehensive report.
+      - **Key Findings:**
+          - **Source Breakdown:** 49% of citations are from analysts or direct competitors, indicating a highly established market.
+          - **Content Type:** 80% of citations are from "best of" or listicle content, revealing a clear content strategy opportunity.
+  - **Product Vision:**
+      - **Core Output:** A prescriptive report, not a self-serve dashboard.
+      - **UI Revamp:** The UI will be redesigned to prioritize these high-level reports, with raw data moved to a secondary view.
+      - **Monetization:** The report format was validated by 5 people at a recent dinner who offered to pay $100 for it.
+  - **Content Strategy:**
+      - **Public Reports:** Publish monthly reports on AI visibility trends using CheckThat's proprietary data.
+      - **Benefit:** Establishes thought leadership and serves as a case study for how clients can use the platform.
+
+---
+
+## Action Items
+
+**Stevie Kim (GrowthX)**
+- Align Pedro on new strategy; bring him up to speed
+- Read 3 guides in handbook; block 2h; send feedback to Marcel
+
+**Marcel Santilli (GrowthX)**
+- Schedule weekly 1h shaping session w/ Daniel
+- Fix VZero preview; send to Daniel
+- Schedule recorded walkthrough w/ Mario; send recording to Daniel
+- Send prescriptive directions to Stevie; include taxonomy/tagging + backtag citations
+
+---
+
+## Transcript
+**Daniel Lopes:** This meeting is being recorded.
+
+**Daniel Lopes:** Hey, Friday.
+
+**Daniel Lopes:** Friday.
+
+**Daniel Lopes:** I'm the only one with Fathom still.
+
+**Marcel Santilli:** Boo.
+
+**Stevie Kim:** I just remembered, actually, like about 20 minutes ago.
+
+**Marcel Santilli:** I like, oh.
+
+**Marcel Santilli:** was going to, yeah, I was going to suggest we have a Fathom-burning ceremony, you know.
+
+**Marcel Santilli:** I was like, , I hate Fathom so much.
+
+**Marcel Santilli:** It's just like, goddammit, how can you be so  about the experience?
+
+**Marcel Santilli:** Like, it's just like the smallest of things, you know, it's just like, man, we've only gotten worse.
+
+**Daniel Lopes:** Because I used Fireflies two years ago.
+
+**Marcel Santilli:** I used Fireflies two years ago.
+
+**Marcel Santilli:** And I've been using now, and it's like, the experience got not crazy, but it's like, it got decently better.
+
+**Marcel Santilli:** The integrations got better, like, you know.
+
+**Marcel Santilli:** There's still some, like, little...
+
+**Marcel Santilli:** Well, nuanced things here and there, but like Fathom has literally been the exact same for two and a half years, like everything, like the UI, the interface, it's like, dude, it's AI age, if your app looks exactly the  same in two years, and like the transcripts, nothing has changed in two years, like what the hell are you doing with yourself?
+
+**Stevie Kim:** I've never used, I mean, like, this is the first company I've used either, I think before, like, Otter AI, like there were, like, there were a couple of different, more, like, sales-oriented ones that we used on the last couple of places I worked at, and then before, before that, we just used them.
+
+**Marcel Santilli:** Yeah, it's, it's so easy, you just use recall.ai, and you don't even need to build anything, and then you just use whatever model you want for your scripture.
+
+**Marcel Santilli:** It's just like, it's, like, at some point, yeah, they're starting, they came to some of our breakfast, the founder, they're still small, but it's kind of like, It's an API, okay.
+
+**Marcel Santilli:** Exactly, like it's,
+
+**Marcel Santilli:** an API for, because joining the meeting is kind of like the thing to build, you know?
+
+**Daniel Lopes:** This is cool.
+
+**Daniel Lopes:** Ah, this is very interesting.
+
+**Daniel Lopes:** Because that is the kind of stuff that, yeah, that's the kind of stuff that would be cool for when we, the stuff that we're talking about in WhatsApp, come up with like interesting things like this and build like a 25 minutes video just to showcase the framework and then do the course, like a multiple lessons, like starting from the beginning and then doing every step one way, you know?
+
+**Daniel Lopes:** Talking about the output to the AI.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah, that makes sense.
+
+**Marcel Santilli:** Yeah, they just raised their Series B action.
+
+**Marcel Santilli:** Didn't see it.
+
+**Marcel Santilli:** But super scrappy tank company.
+
+**Marcel Santilli:** It's like everyone essentially is like Calendly, all those building their meeting recorders, they're all building on recall because they're like, we're not going to rebuild the whole infra, you know?
+
+**Daniel Lopes:** Yeah, yeah, that makes sense.
+
+**Marcel Santilli:** Like Atio's meeting recorder, like all of them are just like, so simple.
+
+**Marcel Santilli:** It's just like, AKA, like, we can build a Fireflies in like, probably one week.
+
+**Marcel Santilli:** I can build a Fireflies in probably one week.
+
+**Daniel Lopes:** Yeah, I can probably connect that to, that's the thing that we're talking about, the meetings area of the OS.
+
+**Daniel Lopes:** That's how we can do that later.
+
+**Daniel Lopes:** Consume all those different products.
+
+**Daniel Lopes:** But if there's one that already does it.
+
+**Marcel Santilli:** By the way, yesterday, Daniel, just to, dude, was awesome, man.
+
+**Marcel Santilli:** We had 32 people come to the dinner, full house, almost no, like, I think only one or two people.
+
+**Daniel Lopes:** Was it in the office, the dinner?
+
+**Marcel Santilli:** Where did you go?
+
+**Marcel Santilli:** No, it was at this place called the Progress or something like that.
+
+**Marcel Santilli:** by the water.
+
+**Marcel Santilli:** And there was at least six that came directly.
+
+**Marcel Santilli:** So Webflow, Aerox, and Graphi hosted a big- conference yesterday.
+
+**Marcel Santilli:** And so I did it on purpose.
+
+**Marcel Santilli:** did a breakfast and a dinner to sandwich them.
+
+**Marcel Santilli:** And so we had people come to the breakfast and people come to the dinner from it.
+
+**Marcel Santilli:** And at least six people came directly. So Webflow, Aerox, and Graphi hosted a big conference yesterday, and I did it on purpose—did a breakfast and a dinner to sandwich them. And so we had people come to the breakfast and people come to the dinner from it. And it's essentially like people who were just like super skeptical of us, and then came and sat in my tables, and I pitched them the whole night.
+
+**Marcel Santilli:** And it was like, that's pretty awesome.
+
+**Marcel Santilli:** Like the energy was like pretty, pretty awesome.
+
+**Marcel Santilli:** It's like a ton of validation, like, like insane validation by everybody.
+
+**Marcel Santilli:** Like it was like full, like there's not an empty seat, isn't it?
+
+**Marcel Santilli:** You know, like, and there's like every table, there is a customer.
+
+**Marcel Santilli:** John is a customer.
+
+**Marcel Santilli:** Victor is a customer over here.
+
+**Marcel Santilli:** Pedro.
+
+**Marcel Santilli:** And like legit was pitching us so hard, man.
+
+**Marcel Santilli:** It was crazy.
+
+**Daniel Lopes:** Like you met Pedro, right?
+
+**Daniel Lopes:** Like he loved us.
+
+**Marcel Santilli:** And now his fiance is a customer too.
+
+**Marcel Santilli:** She just signed.
+
+**Marcel Santilli:** She runs a different company.
+
+**Marcel Santilli:** And then Drew and Mario were also pitching.
+
+**Marcel Santilli:** So every table had like one of our customers like pitching us so hard.
+
+**Stevie Kim:** was awesome.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then we had this one, this guy flow desk that came to this.
+
+**Marcel Santilli:** Lovable dinner I hosted.
+
+**Marcel Santilli:** He's the CFO of this company called Flowdash.
+
+**Marcel Santilli:** They're a $40 million, highly profitable bootstrap company for SMB.
+
+**Marcel Santilli:** Essentially, like, the Canva for email for SMB.
+
+**Marcel Santilli:** Like, you wouldn't think it was a thing, right?
+
+**Marcel Santilli:** And he brought his CEO and his ad of marketing.
+
+**Marcel Santilli:** And so, like, all three were in different tables, and all three got sold separately.
+
+**Daniel Lopes:** And all three were like, can we meet next week?
+
+**Marcel Santilli:** Stuff like that is probably because it's like, man, I  need some good energy, you know?
+
+**Daniel Lopes:** Like, I think, like, this, like, even if it's just, like, I was, like, in the morning, I was writing also the job description for the hiring manager, for the engineering manager, for the deploy team.
+
+**Daniel Lopes:** And, like, just, like, if we launch in the framework and setting up a team of, like, 20 people to just do for our deploy, you know?
+
+**Daniel Lopes:** And set up, like, output projects for them, connect to their clays, connect to their, even their air ops.
+
+**Daniel Lopes:** So whatever they are using, know, just to like credit, it would be already like a good, even if they're not using the OS or like check that.
+
+**Daniel Lopes:** It's kind of a no brainer once we stabilize.
+
+**Marcel Santilli:** I have some good calls on check that.
+
+**Marcel Santilli:** I like, and so, I.
+
+**Daniel Lopes:** Do you want to, like, how do you want to do this meeting?
+
+**Daniel Lopes:** We could just like go through Stevie's, like I didn't have time to actually read the funnels.
+
+**Daniel Lopes:** If you can walk us through what's happening, Stevie and I, maybe we can talk about the check that, what you did this week, Marcel.
+
+**Marcel Santilli:** Yeah, that sounds good.
+
+**Daniel Lopes:** I don't know if that works or if you had anything else in mind.
+
+**Stevie Kim:** Yeah, no, I.
+
+**Stevie Kim:** Pretty much shared the same information as I did last week, but for this week.
+
+**Daniel Lopes:** Did it maintain, like, the number of signups and everything stay the same?
+
+**Daniel Lopes:** No purchases, but signups is just 200 people.
+
+**Stevie Kim:** Yeah, so, so basically, signups have been good.
+
+**Daniel Lopes:** They've been.
+
+**Daniel Lopes:** They've been steady or going up.
+
+**Stevie Kim:** It's just the further into the funnel, that's where we're getting a lot of drop-offs.
+
+**Stevie Kim:** And only one person, like, I mean, we got one person that invited someone to the workspace.
+
+**Stevie Kim:** Previously, we had zero.
+
+**Stevie Kim:** One more person, probably that same person, managed prompts in bulk.
+
+**Stevie Kim:** So we're just not getting a lot of usage in general.
+
+**Stevie Kim:** People are really stoked on the public pages.
+
+**Stevie Kim:** Like, obviously, can see, like, that's getting a lot of traffic.
+
+**Stevie Kim:** But, yeah, like, sign-ups are still pretty low.
+
+**Stevie Kim:** And then just general engagement is pretty low.
+
+**Daniel Lopes:** I think there's two things that might, it's kind of aligned with the most I was working on, but the public area.
+
+**Marcel Santilli:** Essentially exporting the data.
+
+**Marcel Santilli:** So the way I'm doing it, I had to build a bot that essentially went through every single table in sources and citations to export the data.
+
+**Marcel Santilli:** And then I was literally taking screenshots of the different screens in the app and then feeding it to my agent to essentially draw conclusions for them based on all this research and context.
+
+**Marcel Santilli:** Right.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** It was, it was like, it was so enlightening.
+
+**Marcel Santilli:** Like she had just signed a contract with this six month SEO agency.
+
+**Marcel Santilli:** And she's just like, I feel like, like, please, like, like, I'm going to come back essentially.
+
+**Marcel Santilli:** But she was so annoyed that she had just signed a six month contract with this agency.
+
+**Daniel Lopes:** Like, like, my, my point here is more like, this doesn't look too bad for an unqualified, you know, you know, so that's just like people, random people looking for cursor pricing and things like this, land on this pages, then they land on sign up and then they go through.
+
+**Daniel Lopes:** That is not bad.
+
+**Daniel Lopes:** Like, no, it's actually.
+
+**Stevie Kim:** Yeah, I mean, that's above that conversion rate from, like, the sign-up page to plan selected is, like, at or above industry standard.
+
+**Stevie Kim:** It's just that, like, activation is really, yeah, but when you do that, we, like, I mean, that's the whole shift in strategy.
+
+**Stevie Kim:** It's, like, everything that you just talked about, Marcel.
+
+**Stevie Kim:** I mean, like, once we automate that and have those reports out for people, there'll be, you know, they'll understand that value.
+
+**Marcel Santilli:** So, yeah, we.
+
+**Marcel Santilli:** Yeah, and just the thing that's already working, Daniel, is, like, when I'm showing check that traffic and then how much of that traffic, it's almost like 0.8 to 1.
+
+**Marcel Santilli:** So, right now, it's getting close to 1 to 1, like, LLM traffic versus organic traffic.
+
+**Marcel Santilli:** Like, on, and so, we're essentially, like, proving we know what the  we're doing by doing it.
+
+**Marcel Santilli:** then on top of
+
+**Marcel Santilli:** So that we are creating data that we're going to need in order to do all these audits and all these reports and all these analysis for companies, which is like the most expensive and harder thing to do anyways.
+
+**Marcel Santilli:** And then both of those things are amazing case studies and amazing things I'm using in sales already.
+
+**Marcel Santilli:** And I think there's just like a few things that we can connect some dots that can make this like really, really practical.
+
+**Marcel Santilli:** It's just like I've been spending a lot more time on generating the reports for this call this morning that I had and last on the screens, just because like the screens weren't being very productive.
+
+**Marcel Santilli:** Like I spent like six hours on screens and it's like feel that like I didn't get anywhere.
+
+**Marcel Santilli:** But then like when I spent time with the reports and distilling and how to present the information, doing the scores and all of that.
+
+**Marcel Santilli:** And like it feels productive and it feels useful.
+
+**Daniel Lopes:** Yeah, I mean, there could be a phased approach here.
+
+**Daniel Lopes:** Like if we were...
+
+**Daniel Lopes:** As in, like, we have a lot of the same features than all the other players.
+
+**Daniel Lopes:** If we wanted to put, like, a sales approach in this and find the qualified leads, or, like, figure out the parts of the funnel that would get the qualified leads, and then manage the workspace for a bit, and then do, like, actually, like, try to make revenue, we could, very likely, as in, like, competing with Profound head-to-head and, like, closer, lower cost and all that.
+
+**Daniel Lopes:** But, like, given the direction that you're thinking, not getting people to buy is actually a benefit, because then we have nothing to support.
+
+**Daniel Lopes:** You know, if people are signing a contract, like, if they buy an annual, and, like, I want to monitor 500 prompts a day or a month, and then we shift to the direction to be, like, oh, you get the reports, and here's how many reports you get.
+
+**Daniel Lopes:** Then it's, like, it's a UI shift, like, retraining, there's all those things.
+
+**Daniel Lopes:** You know what I mean?
+
+**Daniel Lopes:** It's almost not a bad idea to not be getting.
+
+**Daniel Lopes:** Or just pull from the LLM memory, you know?
+
+**Daniel Lopes:** So, they can hide the citation.
+
+**Daniel Lopes:** If it's something that you index on the citation, it's going to go away.
+
+**Daniel Lopes:** Like, one thing that I want to say, like, real quick, is that the team, like, we need to figure out how to pass that to the team.
+
+**Daniel Lopes:** As in, like, they're working, like, they have, they're fast enough that they're going to be, like, drifting in their own directions.
+
+**Daniel Lopes:** But, like, Pedro was, like, already, like, trying to figure out prompt recommendation.
+
+**Daniel Lopes:** Like, so we need to, like, align them, like, just optimize the public area or just optimize the growth.
+
+**Daniel Lopes:** Maybe optimize the sign-up flow so people are not confused because that might not change that much.
+
+**Daniel Lopes:** But don't over-index on prompts.
+
+**Daniel Lopes:** Also, I think it's a good idea to just try to figure out how to reduce the cost as well because it might take a while for this thing to pay for itself, you know?
+
+**Daniel Lopes:** So, like, maybe, like, the probing every other day, that kind of stuff that the guys were already thinking about, that still aligns.
+
+**Daniel Lopes:** I need to figure out how to make this motivating to them, you know, because they're going to be looking at this and, like, we're getting no purchases.
+
+**Daniel Lopes:** Oh, yeah.
+
+**Stevie Kim:** No, I've been kind of bringing them back.
+
+**Stevie Kim:** Like, that's what I did last week.
+
+**Stevie Kim:** Pedro's been out this week, so I'm going to have to get him up to speed on things.
+
+**Stevie Kim:** But, yeah.
+
+**Daniel Lopes:** Sorry, my dog has turned to get stuff off my desk.
+
+**Stevie Kim:** But, anyway, so, yeah, we've been focused on, like, what we talked about last Friday, right?
+
+**Stevie Kim:** Like, the growth tickets.
+
+**Stevie Kim:** There's just some things that we've been needing to do around admin and then also some automation around, you know, some of the research.
+
+**Stevie Kim:** Yeah, so, Pedro had, like, created a suggested brand categories based on mentions, but it wasn't really usable.
+
+**Stevie Kim:** So I added some stuff to the admin to make it a lot more streamlined.
+
+**Stevie Kim:** But really, we need to, like, do a step further and automate a lot of that.
+
+**Stevie Kim:** And so...
+
+**Stevie Kim:** We were definitely thinking about those things.
+
+**Stevie Kim:** Jose has been heads down on, you know, thinking about like the timescale versus ClickHouse.
+
+**Stevie Kim:** Yeah, getting a lot of volume.
+
+**Stevie Kim:** Yeah, so he, you know, he's been working with Jacopo on that.
+
+**Stevie Kim:** So, you know, we, this week, we haven't made a lot of headway on the things that we talked about last week because of just the lack of headcount.
+
+**Stevie Kim:** Yeah, that makes sense.
+
+**Stevie Kim:** And then some of those, you know, that bigger piece that Jose has had to focus on.
+
+**Stevie Kim:** But some of the other tickets that you mentioned, oh, sorry, what was it?
+
+**Marcel Santilli:** right, was like the directive here for the team.
+
+**Marcel Santilli:** And hopefully, like, I don't think it's done based on what I've seen, right?
+
+**Marcel Santilli:** And so, like, I think they still have at least another week that they need to push hard, which is just like making our system of managing, like, our data set and way, way, like, stronger.
+
+**Marcel Santilli:** So that's like, it's auto-approving, auto-recommending things, it's cleaning things up.
+
+**Marcel Santilli:** You know, it's more of like...
+
+**Marcel Santilli:** Thank
+
+**Marcel Santilli:** Like the admin panel, like for instance, like for me to approve a brand, like in order to run a deep research, for example, I have to click on the brand and I have to, you know, like there's so many of these paper cuts that could actually be fully automated and like process and having like, and then on the external side, there's a lot of things that I submitted before Stevie that I think would be really helpful no matter what.
+
+**Marcel Santilli:** One is like the filtering for overview, because overview right now is only like all or only category.
+
+**Daniel Lopes:** And sometimes like you want to have a lot of filters.
+
+**Stevie Kim:** We're blocked on that because of that need to move to a different system.
+
+**Stevie Kim:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Stevie Kim:** So, so those are things we are working on.
+
+**Stevie Kim:** I mean, that was one of the tickets that I was working on for the categories, but as I mentioned, like there was some growth ticket focus and then because we needed to kind of catch up.
+
+**Stevie Kim:** On some of that, and some of the workflows we're producing for quality, so that's taken some focus away from some of these other tickets.
+
+**Stevie Kim:** But what is prioritized for next, that was supposed to be this week, but because of the reduced engineering headcount and the focus, Jose's focus on the deeper dive for unblocking what you were talking about, the filters and some of this other future stuff, we haven't been able to make that much progress on that, so.
+
+**Daniel Lopes:** A bit of context on that, Marcel, is that Jose, like we have this system that you have, like you put all the things that we scraped, we put on S3 in Parquet files, and then you had DuckDB just as this little layer with Postgres in front.
+
+**Daniel Lopes:** Postgres is not scaling at the level that we wanted, we kind of knew that was going to happen, but it's happening much faster than we assumed.
+
+**Daniel Lopes:** And at the same time, we have the same problem on OS, so OS.
+
+**Daniel Lopes:** So the guys are all afraid of like ClickHouse and things like that.
+
+**Daniel Lopes:** So we were using Timescale, which is like a DB that's like, it's similar to ClickHouse, but on top of Postgres.
+
+**Daniel Lopes:** So instead of doing that, Jakob wants to go with ClickHouse, which to me makes a lot of sense.
+
+**Daniel Lopes:** And Jose is trying the same approach as like a spike or a prototype of Timescale, because that layer was built already on Postgres.
+
+**Daniel Lopes:** So the switch to Timescale is like super easy.
+
+**Daniel Lopes:** It's just like a one-to-one switch.
+
+**Daniel Lopes:** And then see what we learn on the OS with the implementation from Jakob will import that to check that.
+
+**Daniel Lopes:** So they're kind of like working together on figuring out what's the best setup.
+
+**Daniel Lopes:** But on the OS, will be all the metrics, all the time series stuff for quality, for performance, the page scraping, the data from Google Search Console, and Google Analytics will be on ClickHouse.
+
+**Stevie Kim:** Yeah, and we can't slice and dice the data the way we need to, because we, you know, there was a...
+
+**Stevie Kim:** Different assumption on how we were going to be presenting the data.
+
+**Daniel Lopes:** So that's what we're at right now.
+
+**Daniel Lopes:** main challenge is this, just being able to do the horizontal reporting and things like that on the fly without having to calculate anything.
+
+**Daniel Lopes:** That's what ClickHouse is super good at.
+
+**Daniel Lopes:** And we decided, like, the filters kind of require that.
+
+**Marcel Santilli:** We kind of had an intuition on that because there's just, like, too many, if every lab is using them, every AEO tool is using them.
+
+**Marcel Santilli:** And it's like, I joined the right as I had an offer to be their CMO, like, three years ago.
+
+**Marcel Santilli:** But then I didn't join because I didn't have a  ton of money to exercise my skill shares at the time.
+
+**Marcel Santilli:** But it's like, but they're legit, man.
+
+**Daniel Lopes:** They're, like, crazy.
+
+**Daniel Lopes:** Oh, yeah, yeah.
+
+**Stevie Kim:** Yeah.
+
+**Stevie Kim:** So once we get Pedro back next week, we'll be able to make more progress on that data management piece.
+
+**Stevie Kim:** But it's on our radar.
+
+**Stevie Kim:** I've got tickets for it.
+
+**Stevie Kim:** And I am, you know, making sure those tickets have stories.
+
+**Stevie Kim:** These are random and are fleshed out so they can hit the ground running, taking on what I can myself.
+
+**Daniel Lopes:** The growth tickets, was there anything, I think Steven was going to tackle them, right?
+
+**Stevie Kim:** Yeah, so I did one last week and then he took the rest for me so I could focus on fleshing some of these other tickets out.
+
+**Stevie Kim:** And so he got those, like three of those done, two are in progress.
+
+**Stevie Kim:** But again, like there's some, like the pricing, it's kind of, yeah, so there were some changes in the workflow for generating pricing pages that has impacted quality there.
+
+**Stevie Kim:** And I think some of the other content workflows, so, you know, having to focus.
+
+**Marcel Santilli:** That's great, like, I was hoping that these calls, we talk a lot more about vision and strategy.
+
+**Stevie Kim:** for sure.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** Because it's like, it's...
+
+**Marcel Santilli:** The second we go here, now our brain is, like, in the, like, fix this week.
+
+**Daniel Lopes:** Yeah, no, but at the same time, I need to know, like, if we're looking at two weeks away of things happening, or we're looking at four weeks away.
+
+**Marcel Santilli:** Yeah, that's clear.
+
+**Marcel Santilli:** It's like, it's like if our sessions with Ryan, we talked about backlogs instead of, like, how to shape what we're building.
+
+**Marcel Santilli:** And it can be a separate call, but, like, I do would love to have a shaping session with you, Daniel.
+
+**Daniel Lopes:** Like, because if we don't, if I don't have it, it's like I'm running solo over here on, like, trying to shape.
+
+**Daniel Lopes:** Yeah, we can switch to that.
+
+**Marcel Santilli:** I need validation on, this is great, Stevie.
+
+**Stevie Kim:** This is not.
+
+**Stevie Kim:** No, no, no, no.
+
+**Stevie Kim:** Like, I literally put the same stuff in that weekly Friday update.
+
+**Stevie Kim:** So it is there.
+
+**Stevie Kim:** I share that.
+
+**Stevie Kim:** It's an update in the project in linear, and I share it on Slack.
+
+**Stevie Kim:** So I'm happy to just leave it.
+
+**Daniel Lopes:** No, no, this is helpful.
+
+**Daniel Lopes:** Like, could I.
+
+**Daniel Lopes:** I think it depends on where we are on the projects.
+
+**Daniel Lopes:** we're getting 20 minutes, 25 minutes just to get an update on what's happening and how you're thinking is important.
+
+**Stevie Kim:** then we can use the rest of the time.
+
+**Stevie Kim:** Yeah, however you guys want to do this, I'm happy to accommodate.
+
+**Marcel Santilli:** Yeah, it's almost like this is not me saying we don't need to do it.
+
+**Marcel Santilli:** It's more of like, it shouldn't take away from having at least an hour of shaping a week, which is my ask of, I need Daniel L.
+
+**Marcel Santilli:** So I'm not like shaping it and validating or pushing back and be like, no, dude, you're smoking something.
+
+**Daniel Lopes:** Yeah, I wanted to have the time to do that yesterday, but like DOS is just, yeah.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** But that's okay.
+
+**Daniel Lopes:** So let's do that now.
+
+**Marcel Santilli:** I think if I have a solid hour here and Stevie, like you're here, like taking notes, like, you know, obviously, like there's areas you're like, no, no, like this is way off, but.
+
+**Daniel Lopes:** Do you want to go into the stuff that you've been doing?
+
+**Marcel Santilli:** Yeah.
+
+**Daniel Lopes:** I have all the things that I need to know, right?
+
+**Daniel Lopes:** just.
+
+**Daniel Lopes:** to know where we are on the OS versus the Hosea overlapping with the iCode pool and the workflow stuff.
+
+**Daniel Lopes:** don't make sense.
+
+**Marcel Santilli:** Yeah, that makes sense.
+
+**Marcel Santilli:** Okay, so I just want to walk you all through a little bit of what I did for this analysis for Eon, right?
+
+**Marcel Santilli:** And this is still super effing messy, right?
+
+**Marcel Santilli:** So don't think of this as like, oh, this is the final output by any means whatsoever.
+
+**Marcel Santilli:** But I, so the thing I sent them last week, right?
+
+**Marcel Santilli:** I think I might have shown you all, but just to refresh your memory is essentially like, I took the methodology that, and by the way, Stevie, if you go into the handbook and you go into product, and I might have walked through it already.
+
+**Stevie Kim:** Yeah, yeah, I've been living in that this week since you shared it.
+
+**Stevie Kim:** Yeah, yeah, for sure.
+
+**Marcel Santilli:** Like, I know it's a lot, but it's just like, for you specifically, like, just know it's like here.
+
+**Marcel Santilli:** And it's, here is always going to be the latest, you know.
+
+**Marcel Santilli:** And so there's quite a bit of detail on the methodology and things like that, right?
+
+**Marcel Santilli:** Like, and so now I'm validating by trying to, for Daniel's feedback, I'm like, just try to do it, you know, just try to actually do it and then see if, like, it's valuable to other people.
+
+**Marcel Santilli:** And, and so I really validated the, the, I think the, the approach, which is like reputation, presence, reputation, and perception is really, really important.
+
+**Marcel Santilli:** And this feels really, really right, essentially.
+
+**Marcel Santilli:** And so like when we're presenting essentially these, these analysis, give me a second here.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So this whole quadrant thing and composite score, which takes into consideration all three scores, even though it's not scientifically proven or anything, was like super right.
+
+**Marcel Santilli:** Essentially, like it was like legit.
+
+**Marcel Santilli:** was in and they were like validating that we had all like essentially this list here.
+
+**Marcel Santilli:** They're like, oh, my God, you got it.
+
+**Marcel Santilli:** Perfect.
+
+**Marcel Santilli:** Like this is it.
+
+**Marcel Santilli:** This is like this is who we're competing against.
+
+**Marcel Santilli:** This is exactly it.
+
+**Marcel Santilli:** Oh, my God.
+
+**Marcel Santilli:** This is really helpful to know.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Like and and so all of this was like really important.
+
+**Marcel Santilli:** And it wasn't like I need to know what it's how it's changing tomorrow.
+
+**Marcel Santilli:** It's like a one off.
+
+**Marcel Santilli:** Like, you know what I mean?
+
+**Marcel Santilli:** Like it's not like I need to know all this stuff every day.
+
+**Marcel Santilli:** So then what I did, I started looking at and and I know this crosses over to OS kind of stuff, but I wanted to do it anyways because I wanted to understand.
+
+**Marcel Santilli:** This is what I would do if I was in this person's shoes.
+
+**Marcel Santilli:** I was just trying to do the work that I would do no matter what.
+
+**Marcel Santilli:** You know, and so I use Sam Rush's MCP.
+
+**Marcel Santilli:** And I essentially took the leaders in the reputation quadrant and also the leaders that had the most visibility.
+
+**Marcel Santilli:** And I essentially tried to understand their content and understand their site and reputation.
+
+**Marcel Santilli:** And so this is just like me building context.
+
+**Daniel Lopes:** then we'll still it down to understand what's happening here.
+
+**Daniel Lopes:** Just to understand the step before.
+
+**Daniel Lopes:** So like that report that you had before, as the competitors are coming from the evaluation questions.
+
+**Marcel Santilli:** So there's two angles here.
+
+**Marcel Santilli:** So I wanted to do them in parallel and then combine them at the end.
+
+**Marcel Santilli:** So one angle was, hey, look at all the visibility leaders.
+
+**Marcel Santilli:** And then another angle was like, look at all the reputation leaders.
+
+**Daniel Lopes:** Visibility out of the evaluation questions.
+
+**Marcel Santilli:** Out of the evaluation questions, yeah.
+
+**Daniel Lopes:** In the dashboard, correct.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So the TLDR here is like, they have effectively zero.
+
+**Marcel Santilli:** Zero visibility, you know, and their competitors are crazy well-established, right?
+
+**Marcel Santilli:** And so me going here and going, hey, congratulations, you're a big zero.
+
+**Marcel Santilli:** It's like, okay, thank you.
+
+**Marcel Santilli:** See you later, right?
+
+**Marcel Santilli:** So it's like, what the  do you want me to do with that?
+
+**Marcel Santilli:** Like, you know, it's like, we know we're a big zero and we have a ton of money in the bank now, Burmese, right?
+
+**Marcel Santilli:** And then I take them to this and they're like, okay, what am I supposed to do with this?
+
+**Marcel Santilli:** Like, cool, thank you.
+
+**Marcel Santilli:** Yes, I need to do content, guess, right?
+
+**Marcel Santilli:** And so none of this kind of like was actionable.
+
+**Marcel Santilli:** So I wanted to first like analyze all their competitors, right?
+
+**Marcel Santilli:** Just to kind of understand the kind of content they do.
+
+**Marcel Santilli:** And this was like essentially like an agent run and we have like 15 million API crowds in SEMrush.
+
+**Daniel Lopes:** So I was kind of like not trying to, you know.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** But this took only three minutes to run.
+
+**Marcel Santilli:** So it wasn't like crazy and it took about like $2 worth of cursor credits for.
+
+**Marcel Santilli:** Content pages that, and only at the top performing content pages, essentially, right?
+
+**Marcel Santilli:** So it's like a triple down filter of those things.
+
+**Marcel Santilli:** And then it looked at like what's being influenced the most, essentially.
+
+**Marcel Santilli:** And then- What do you mean, what's being influenced the It's like one-to-one, the same findings on the other side, which was taking the source, the most cited URLs from, check that for this client.
+
+**Marcel Santilli:** So, and I'll show you that next.
+
+**Marcel Santilli:** But does that make sense?
+
+**Marcel Santilli:** it's like, so this is like just the clusters, because I was trying to, for this one, I was trying to see if she might want to be a client for OS too.
+
+**Daniel Lopes:** So I was trying to do the work anyways, you know?
+
+**Daniel Lopes:** How did you filter out to be just the pages that are content heavy in this setup that you have here?
+
+**Daniel Lopes:** It's like you were showing like slash, slash, slash, they're not obvious, they're non-obvious URLs for content.
+
+**Daniel Lopes:** There's not, it's not slash blog, for example.
+
+**Daniel Lopes:** It's not slash guides, you know?
+
+**Marcel Santilli:** Yeah, so this is my session, like, hey, um, uh, where is it here?
+
+**Marcel Santilli:** No, um.
+
+**Marcel Santilli:** um.
+
+**Marcel Santilli:** Thank
+
+**Daniel Lopes:** You do the future, right?
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Okay.
+
+**Marcel Santilli:** There you go.
+
+**Marcel Santilli:** Blog slash blog.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then I was like, okay, put this report there.
+
+**Marcel Santilli:** And then I was like, now look at this other report and do an SEO analysis for each of their vendors and leaders and strong performers.
+
+**Marcel Santilli:** The idea is to show high level things like authority backlink, blah, blah, blah, put everything in a table, then analyze top performing content pages to each side, like think blog.
+
+**Daniel Lopes:** Click on that.
+
+**Daniel Lopes:** Use Senrush MCP right under this.
+
+**Daniel Lopes:** What's the three to do's that it showed?
+
+**Daniel Lopes:** Like right below, right here.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Click on that.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** If click on, they don't expand.
+
+**Marcel Santilli:** Oh yeah.
+
+**Marcel Santilli:** It's not run.
+
+**Marcel Santilli:** Um, like.
+
+**Daniel Lopes:** It would be cool if they had a transcript.
+
+**Daniel Lopes:** Like the cloud has a transcript tool that you can download the whole.
+
+**Marcel Santilli:** Oh .
+
+**Daniel Lopes:** Everything that happens and they don't have it.
+
+**Daniel Lopes:** Oh, there you go.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** Send that to me.
+
+**Marcel Santilli:** But I had like three sessions going at the same time because I was running out of time this morning.
+
+**Marcel Santilli:** only had an hour to do it.
+
+**Daniel Lopes:** So I just like cranking a bunch of ages.
+
+**Stevie Kim:** That's crazy.
+
+**Stevie Kim:** I do have a higher level question that I've been curious about.
+
+**Stevie Kim:** And I don't know if it's probably the answer is probably it depends.
+
+**Stevie Kim:** But do CMOs care more about where they stand between the competition and themselves as far as how their reputation and their presence is with AI visibility?
+
+**Marcel Santilli:** Or do they care whether just they're showing up and being mentioned and sighted by AI engines?
+
+**Marcel Santilli:** Yeah, so hold that thought because I think it will connect here in a quick second.
+
+**Marcel Santilli:** So this was like, think of this as like analyzing their competitors and what kind of content and then like.
+
+**Marcel Santilli:** Like, doing, like, a full, like, here's where you are.
+
+**Marcel Santilli:** Here's where all your competitors are, right?
+
+**Marcel Santilli:** And this is all building up, right?
+
+**Marcel Santilli:** Like, it's how I've been doing my agents.
+
+**Marcel Santilli:** Like, I build up knowledge.
+
+**Marcel Santilli:** do a deep research of the company.
+
+**Marcel Santilli:** And then I do this.
+
+**Marcel Santilli:** And then I do that.
+
+**Marcel Santilli:** And then I do these.
+
+**Marcel Santilli:** And then I boil it up, up, up, up, up, you know?
+
+**Marcel Santilli:** So by the time it gets to the final report, it's like, I don't know, like 20, 30 million tokens, essentially, boiled down with a ton of context and things like that, right?
+
+**Marcel Santilli:** Okay, so then this is the next one.
+
+**Marcel Santilli:** So this one was me taking all the data from, here we go.
+
+**Marcel Santilli:** So this is taking all the data that I could get out of, like, manually get out of Check That.
+
+**Marcel Santilli:** Obviously, it was just, like, and then copy and pasting table information, kind of, you know?
+
+**Marcel Santilli:** So it wasn't great.
+
+**Marcel Santilli:** Like, if I plugged into the API, I just didn't have time to do an API connection.
+
+**Marcel Santilli:** I'm like, by the way, for you to get this data, you would have to probably spend a good 10 grand worth of credits with Profound and others.
+
+**Marcel Santilli:** she's like, yeah, this is 30 days, not 60.
+
+**Marcel Santilli:** So then I started to analyze the sources because not all sources are created equal.
+
+**Marcel Santilli:** So you need to look at domain and then you need to look at URLs.
+
+**Marcel Santilli:** And then the URLs, what you're analyzing within URLs, URLs do belong to domains.
+
+**Marcel Santilli:** But with URLs, you're looking at content type and with domains, you're looking at site type, right?
+
+**Marcel Santilli:** And so like one, you're looking at like, are they a vendor or direct competitor?
+
+**Marcel Santilli:** Are they a tech media or editorial?
+
+**Marcel Santilli:** Are they an analyst firm?
+
+**Marcel Santilli:** Are they a reviewer marketplace, right?
+
+**Marcel Santilli:** Are they, and so, you know, like putting in these categories and then understanding.
+
+**Marcel Santilli:** And so what I told her is like 49%.
+
+**Daniel Lopes:** Oh, this is your one again.
+
+**Daniel Lopes:** Sorry, didn't read that.
+
+**Daniel Lopes:** Okay.
+
+**Marcel Santilli:** So I told her, like, hey, I don't see this across other categories.
+
+**Marcel Santilli:** I told her, like, your category is the heaviest I've ever seen in terms of percentages that are analysts and direct competitors in terms of citations.
+
+**Marcel Santilli:** Like, a lot of the other categories, this is way lower.
+
+**Marcel Santilli:** In other words, like, her category, because it's data storage, way more established, way more analyst heavy, and G2, or not G2, but, like, Reddit is, like, way lower down the line, you know, like, and so it was, like, just, like, wow, yeah, that's crazy.
+
+**Marcel Santilli:** And I said, essentially, like, you have a big, big thing to fill here, because you're going after, like, people that have been around for 10 years, essentially, you know.
+
+**Marcel Santilli:** And so, like, and so that was kind of, like, the big aha here that I ran out of time to synthesize for her.
+
+**Marcel Santilli:** And then, but this is super useful, right?
+
+**Marcel Santilli:** Like, so this we can build now in the sources section, like this kind of analysis.
+
+**Marcel Santilli:** And I already have a taxonomy that I built in a separate project that I can repurpose.
+
+**Marcel Santilli:** I've done a ton of deep research on how to tag sources and URLs and have more filters.
+
+**Marcel Santilli:** Because the thing with sources and citations is you need the same filters as prompts, right?
+
+**Marcel Santilli:** Because you want to group, you want to cluster a set of prompts, and then you want to take that cluster and say, now tell me the citation, study the citations and the breakdown of the citations for that same set of clusters.
+
+**Marcel Santilli:** But they're all relational to clusters.
+
+**Marcel Santilli:** They're not citations in a vacuum.
+
+**Marcel Santilli:** They are citations that belong to a prompt, right?
+
+**Marcel Santilli:** And so, like, you don't want to know, like, okay, here's, like, 60,000 citations.
+
+**Marcel Santilli:** You want to know, hey, show me citations for this topic or for this stage or for this.
+
+**Marcel Santilli:** Then you can draw conclusions on what to do later, you know?
+
+**Marcel Santilli:** And then, like, then I did the same thing with the content type on the URL level.
+
+**Marcel Santilli:** And the TLDR here is that best of in listicles.
+
+**Marcel Santilli:** Like,
+
+**Marcel Santilli:** Dominate 80% of all citations, which is  insane.
+
+**Daniel Lopes:** It's biased because of the of prompts we have.
+
+**Daniel Lopes:** Exactly.
+
+**Daniel Lopes:** It makes sense because it's where evaluation prompts are asking what's the best.
+
+**Marcel Santilli:** And that's what I told her.
+
+**Marcel Santilli:** But it's still pretty insane that these are vendor content, like listicles.
+
+**Marcel Santilli:** In other words, she needs to...
+
+**Marcel Santilli:** I told her this is where I would start.
+
+**Marcel Santilli:** This is what we start with a lot of customers.
+
+**Marcel Santilli:** We start with best of and direct comparisons because it's the lowest hanging fruit possible.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** What's the difficulty of those competitors, the keyword difficulty?
+
+**Marcel Santilli:** you get a sense when you were going through it?
+
+**Marcel Santilli:** For AEO, it kind of doesn't matter.
+
+**Marcel Santilli:** That's the magic.
+
+**Marcel Santilli:** That's why I checked that as getting cited.
+
+**Marcel Santilli:** It's just more about accuracy and some of the other signals, you know?
+
+**Daniel Lopes:** Right.
+
+**Marcel Santilli:** signals.
+
+**Daniel Lopes:** Writing the best stuff.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So then it broke down across everything.
+
+**Marcel Santilli:** And then the final thing, sorry, it took a long time to get to this point.
+
+**Marcel Santilli:** And this is not even like...
+
+**Marcel Santilli:** At this point, I was moving...
+
+**Marcel Santilli:** So fast, I was one-shotting everything.
+
+**Marcel Santilli:** So this is not my best work, but this is essentially like a quick summary, if you will, that hopefully tries to bring it all together.
+
+**Marcel Santilli:** But I need to spend more time, you know, like on it.
+
+**Marcel Santilli:** But I think there's a version of this that can be our first report, you know, but it needs to be distilled probably a little bit further down and organized a little bit better.
+
+**Daniel Lopes:** But, so it's a little bit like prescriptive, you know, in some ways.
+
+**Marcel Santilli:** And so anyways, like I got to do more work.
+
+**Daniel Lopes:** Obviously, this is a ton.
+
+**Daniel Lopes:** I need to read this report because it has a huge overlap with what we were doing in the OS with the metric collection.
+
+**Daniel Lopes:** Like some of the rules from SquirrelScan does this and we're recreating them, like EAT.
+
+**Marcel Santilli:** next Bye.
+
+**Marcel Santilli:** Bye.
+
+**Marcel Santilli:** But what's cool about this, by the way, is that it's part reputation, it's part AI visibility, but it's part reputation management, but it's also part educating them on what we're learning.
+
+**Marcel Santilli:** And then I haven't yet pulled Katya's report.
+
+**Marcel Santilli:** By the way, yesterday, I teased out, I opened GitHub and showed the repo and that summary page to five people.
+
+**Marcel Santilli:** All five said, I will pay for this report, just like, I will pay $100 for this report, send me this report, when is it coming out?
+
+**Marcel Santilli:** so now, that's why I've been building this AEO knowledge base, like crazy, because now I'm going to take this entire AEO knowledge base that I built, plus the study, and I'm going to write a full  report, and then make it look really pretty, you know?
+
+**Marcel Santilli:** And then we can launch our first report, you know, on it.
+
+**Daniel Lopes:** Yeah, and then check that can have a report.
+
+**Marcel Santilli:** Yeah, and then every month we can do what Ramp is doing.
+
+**Marcel Santilli:** With their spend data, they're doing like a January report on spend trends, essentially, you know?
+
+**Marcel Santilli:** And so we can say like, you know, buy AI, buy buying trends or something like that, like monthly report.
+
+**Marcel Santilli:** And then people start citing it, you know, but it's all using our data of like the trends we're seeing, the kinds of URLs, how they're shifting, you know, and we can programatize the F out of it.
+
+**Marcel Santilli:** And it's also showing our customers, potential customers, how we create content programmatically using our own proprietary data, which is what a lot of customers want to do as well, you know?
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Daniel Lopes:** That's the ultimate.
+
+**Marcel Santilli:** And so that's that.
+
+**Marcel Santilli:** And then the last thing here is like, crap, I don't think this thing loaded.
+
+**Daniel Lopes:** So then like, what I'm trying to do next is, that look like a report.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** So I tried to build this.
+
+**Marcel Santilli:** I haven't taken it to the finish because I ran out of credits and it kind of failed.
+
+**Marcel Santilli:** But it was then taking all those reports and trying to get to a place of, like, how can I do it?
+
+**Daniel Lopes:** This is such a hard product to build looking good.
+
+**Daniel Lopes:** Because it's fax heavy and data heavy.
+
+**Marcel Santilli:** Yeah, and that's the challenge I'm going.
+
+**Marcel Santilli:** I know it feels super sloppy right now and crazy, but it's just like I'm trying to distill it.
+
+**Marcel Santilli:** Because then I'll eventually when it clicks, I'll be able to present it in a very easy way.
+
+**Marcel Santilli:** But what I can tell you is the quadrant works.
+
+**Marcel Santilli:** Like, when I yesterday was showing this to people, I took some people through that I trusted through it.
+
+**Marcel Santilli:** And they're like, this makes sense.
+
+**Marcel Santilli:** Oh, my God, this is amazing.
+
+**Marcel Santilli:** Yes, this is what we need.
+
+**Marcel Santilli:** Like, we need something like that.
+
+**Marcel Santilli:** It's like just a way to think about it, a way to position myself, a way to say we're here and I need to go here, you know, like.
+
+**Daniel Lopes:** show this to Mario?
+
+**Marcel Santilli:** Oh, yeah.
+
+**Marcel Santilli:** Yeah, but not in detail because he was, like, pitching a bunch of people.
+
+**Daniel Lopes:** Yeah, maybe walk him through this, you know?
+
+**Marcel Santilli:** Yeah.
+
+**Daniel Lopes:** And because I don't see why not we could, like, everything that you showed me, it's very doable to build and very doable to extract from all the APIs we have and the data we have and all that.
+
+**Daniel Lopes:** And we should, like, reformat the user interface to put these things first and then have the prompts and all the data under the hood.
+
+**Daniel Lopes:** But it would be nice to get the take of another one that's as technical as you.
+
+**Daniel Lopes:** Because everyone else might be, like, and close enough to say, like, ah, this is crazy.
+
+**Marcel Santilli:** You know, like, he's basically a team member.
+
+**Marcel Santilli:** Yeah.
+
+**Daniel Lopes:** Like, to me, this makes a lot of sense.
+
+**Daniel Lopes:** And, like, I would be pumped to build this.
+
+**Marcel Santilli:** I know.
+
+**Marcel Santilli:** It's, like, man, I'm trying, I'm spending, like, every in-between meetings and things trying to shape it.
+
+**Marcel Santilli:** It's just been so hard to grab like four or five hours straight of just like getting into the, you know, a place that's like more actionable for you, Stevie and team, you know, it's just like, it's getting there, you know, it's just taking a lot longer than I wanted.
+
+**Marcel Santilli:** But I'm getting the essence right.
+
+**Marcel Santilli:** Like, that's the important thing.
+
+**Marcel Santilli:** Like, I'm getting the methodology right.
+
+**Marcel Santilli:** I'm getting the outputs right.
+
+**Marcel Santilli:** And the other thing I did too.
+
+**Daniel Lopes:** You can have a session with Mario.
+
+**Daniel Lopes:** I have a session with him online, if possible, and record it so I can watch you two talk.
+
+**Daniel Lopes:** And then we can probably do like a, try to see how we could make a feature.
+
+**Daniel Lopes:** And then we like, we whiteboard it together first.
+
+**Daniel Lopes:** And then we, then we take it from there.
+
+**Daniel Lopes:** Because I think there's so many features here, you know, like so many things that would, this can be like, I could see this as being like, we would start adding reports into the check that experience we have today.
+
+**Daniel Lopes:** Or it could be like a full revamp of the thing and put the data as under the hood kind of thing, you know, like
+
+**Daniel Lopes:** It can go either way.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So, like, the other thing I did, too, Daniel, that I think is going to be useful for the OS site, is I did an obscene amount of deep research on understanding ranking factors for SEO, as well as...
+
+**Daniel Lopes:** I was deep into that when I was figuring out the 204 rules for site auditing that I was studying this week, last week.
+
+**Marcel Santilli:** Yeah, so this is...
+
+**Daniel Lopes:** I didn't know that you had that there.
+
+**Marcel Santilli:** I just read through it yesterday.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** And some of the stuff, like content quality and EAT, like, we're literally coding that now.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** Yeah, so I did a ton here, and this is really good.
+
+**Marcel Santilli:** This is really, really good.
+
+**Marcel Santilli:** So, and then this also has things on keyword optimization and clustering based on those studies as well.
+
+**Marcel Santilli:** And it's like...
+
+**Marcel Santilli:** Anyways, like, it's really, really good, actually.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** That's in the...
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah, it's all in guides, and then I'm distilling it into essentially like an operating guide.
+
+**Daniel Lopes:** Is all this stuff like that is published, like really published, or is anything that you're still doing?
+
+**Marcel Santilli:** Can I read all of this?
+
+**Marcel Santilli:** guide is already processed by me, and I at least skimmed through, but I was reading the research along the way.
+
+**Marcel Santilli:** It was filtered by my sources only, you know, it used my agent, so it's like pretty good essentially, you know.
+
+**Marcel Santilli:** Yeah, gosh, like.
+
+**Daniel Lopes:** Did you get to something close on this VZero session?
+
+**Marcel Santilli:** Like how do you, like, it's saying like publish to production maybe first.
+
+**Marcel Santilli:** I don't know, I don't know why it's like, maybe it's because it's not published.
+
+**Daniel Lopes:** Yeah, did you pay?
+
+**Daniel Lopes:** Probably killed the, they probably killed the container.
+
+**Marcel Santilli:** Like, is there a way to.
+
+**Daniel Lopes:** When you refresh the page, the whole page.
+
+**Stevie Kim:** That I should be kind of ramping up on.
+
+**Stevie Kim:** Besides, like last week, you mentioned Digital Twins and how brand research is done.
+
+**Stevie Kim:** And so I read some articles on that.
+
+**Stevie Kim:** I didn't have a whole lot of time, but I just want to make sure that I'm knowledgeable about the right things so I can help the team and execute and shape what I need.
+
+**Marcel Santilli:** I think the most important thing, Stevie, is for you to like really read.
+
+**Marcel Santilli:** Don't worry too much about like this stuff here, the SEO stuff, but these three guides are pretty good.
+
+**Marcel Santilli:** They're, they're, they look long, but they're like very broken down, you know, like these guides are good.
+
+**Marcel Santilli:** And then, but the most important is just like read through everything.
+
+**Marcel Santilli:** And almost like through, like, I would block like two hours.
+
+**Marcel Santilli:** I really think it's helpful because this is like, you know, think of it as like this a hundred times, a hundred hours.
+
+**Marcel Santilli:** So my time and about 50 million tokens process to get to this point.
+
+**Marcel Santilli:** And so it's like still distilled down.
+
+**Marcel Santilli:** still a lot, but it's still like really distilled down.
+
+**Marcel Santilli:** Oh, yeah.
+
+**Stevie Kim:** I'm only like, I'm not even halfway through because I'm also trying to apply it.
+
+**Marcel Santilli:** Exactly.
+
+**Stevie Kim:** Through the ticket.
+
+**Stevie Kim:** So that way I'll help.
+
+**Stevie Kim:** Like if I just read it, it's not a, you know.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** So I think that's the most helpful is like, as you're going through, almost come at it from like, it should be explained in a way or in a Sequence that even someone that's not an expert should be able to eventually understand, right?
+
+**Marcel Santilli:** And if not, like any feedback would be helpful because like, if you're, if you have a hard time connecting the dots, I know this is meant to like inform the logic behind the product as well, you know, and the workflow.
+
+**Marcel Santilli:** So that's why it's this detail is because like, I'm hoping this won't, won't be, there's not a lot of guessing games on like what kind of workflows we need to build, how we build it, the logic behind it, why the logic is there, you know.
+
+**Marcel Santilli:** So this is also the reason it's deep.
+
+**Marcel Santilli:** Because it's what I'm using to inform my agent's recommendations on things.
+
+**Marcel Santilli:** Like, was it when it's saying, like, hey, this is what best practice looks like.
+
+**Stevie Kim:** It's pulling from things like this, you know.
+
+**Stevie Kim:** Yeah, yeah.
+
+**Stevie Kim:** I do the same thing.
+
+**Stevie Kim:** I already have it in, like, my docs, my product docs for CloudCo just to, you know.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** I got to run to this other meeting.
+
+**Marcel Santilli:** But so what I'll do on my end, let me try to get this fixed.
+
+**Marcel Santilli:** And a preview generated.
+
+**Marcel Santilli:** And then I'll send it to you, Daniel.
+
+**Marcel Santilli:** And then I'll keep, I have more time this afternoon.
+
+**Marcel Santilli:** So I'll distill it down.
+
+**Marcel Santilli:** And I think by Monday, what I'm going to try to get you, Stevie, is, like, more clear directions on the things today in the experience.
+
+**Marcel Santilli:** Like, more prescriptive direction for the team to just, like, do this, focus on this.
+
+**Marcel Santilli:** You know, the things that I know will connect to here.
+
+**Marcel Santilli:** Like, for instance, like.
+
+**Marcel Santilli:** So taxonomy and tagging and building workflows for tagging URLs and domains, that's a no-brainer.
+
+**Marcel Santilli:** And that's going be a lot of work because we've got to go reverse tag essentially like every citation we've ever had.
+
+**Marcel Santilli:** The good news is you don't need to look at the content, the URL and the description of the content is all you need to do that kind of stuff.
+
+**Marcel Santilli:** You know, the domain, you don't need to do a ton, right?
+
+**Marcel Santilli:** But essentially, so I'll do that and send it to you all.
+
+**Daniel Lopes:** That's good.
+
+**Daniel Lopes:** Yeah, that will be helpful.
+
+**Daniel Lopes:** That's some of the stuff that I'm doing as well.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** All right.
+
+**Daniel Lopes:** you guys.
+
+**Stevie Kim:** Thanks.
+
+**Stevie Kim:** Thanks, man.
+
+**Daniel Lopes:** Thank you.

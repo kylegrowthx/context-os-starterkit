@@ -1,0 +1,1628 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "dramatically about scaling their SEO because that is one of the key friction points as you think about program app is, you know, there's some template based things and how you generate content in there that can be quite easy.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Some brands, the edge side is not too difficult, but others, you know, where they have to be more thoughtful and there's more dynamic nature to what can be leveraged from a creative standpoint, you know, this would get them super excited.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So anyway, hopefully, probably all that was known, but I just want to make sure we were operating with the right context.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "so we'd love to, you know, see what we can do to develop the use case and then the goal was to eventually, we have a webinar on March 20th with Tiago and just see if we can have something in time that allows us to show some cool stuff and get people excited.",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, sounds good.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "And just to give me an idea of the type of volume we're working with so I can make sure to load test our system.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "It's a tons and tons of images.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "How many are we thinking?",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "The 10 per article, am I remembering that correctly?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "Yeah, we have 15 articles per week, but all their articles have to be translated to Spanish, and the images are around 14 to 18 images per article.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "So they have like 14 sections and they want to add an image to every section.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "So they sell tours, it's important to use the images for these type of articles.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "And the sources are their folders with their images for the tool, but most of the images we're taking from Shutterstock, because there are many beautiful pictures, for example, nightlife in Hong Kong.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "there's a lot of images related to that.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "And I thought we would be using more of",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "their images, but what's happening is that we're using more stock photos.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Is that because of it's just like in the most ideal state for them, would we leverage their their images more?",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "They don't have many images.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "don't have maybe they had so much.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "Yes, and there's a lot of reputation because they already repeating their own photos for many different articles.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "The other thing to keep in mind too, that that's like a layer of complexity to this is well, this is one client for us.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "There are three locations in my form, so it's in fact three different websites.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "It's three different websites and there's also the resizing and converting to WebP.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay, so what I got from Tiago was that what you just wanted for the demo was to be able to use the agent to look for the images rather than",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "fully automating the whole process?",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Are you on the same page as him or were you envisioning something much more automated?",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I think the more we can automate the better of course but yeah if it can help us in image identification alone that is a help.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "What I would say is for and maybe that still would generate some hype but I would imagine if we could within reason take it a step further and help us where they go that's where perhaps it adds to the not for us officially helps us more but also I think could be that much more of a value add and how we tell the story that's possible.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah I agree let me know if you like it just depends on like what we can do with the timeline a lot and oh no totally I realize yeah we got this tight window here I mean you know I don't know how much that's like a hard fast data I know we just kind of selected that and I do want to like",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "not push just for the sake of pushing.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But if we have, if it is one of those things where we can buy just a little bit more time and we feel all the much more confident in that this use case will just be nailed all the much more generating excitement, I would imagine.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "See, I'll go be cool with that, but we haven't birthed that subject yet at this point.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Okay, it.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Yes, let me show you what I think we could do so far.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "Can I say something really quick?",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "Please.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "I think it would be great to have a step before like suggesting that the one photo, like we have with image generation for agent.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "There's a briefing and then with this briefing there's a place where we select the best image, but it suggests like eight different images.",
+            "timestamp": "00:04:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "And then,",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "We go and select what fits best.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Montezzana",
+                "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+            },
+            "text": "I think that will be interesting to have like one revision before choosing one of the image.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So here are the notes that I took on your use case and kind of the progress we've made towards them.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So we've already started on developing the things that were missing, but we already had a lot of it in place.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So I think this ticket in particular will be helpful for just confirming like this is what you wanted.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I have an example conversation test case as like, hey, I'm writing about an article.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Here's the text of my article.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "And then we want the agent to be able to extract certain very relevant photos based off of the specific content of that article.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "you know, not just beaches, but like.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "specific beaches that were mentioned in the article, not just Margaritaville during the day, but knowing the context of like, hey, this was talking about Margaritaville as a good destination in Cancun for nightlife.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So we actually want to show a picture of what it looks like at night.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "This may work out of the box.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I'm not totally sure yet until we fill the photo displaying capability, which is when I'll really be able to test this in earnest.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "But there's a decent chance that that gets working fairly quickly.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay, that's interesting.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I like the structure.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So theoretically, could we within the current confines of how this works, give guidance of like, how to think about placement is well, like, you know, for example, you know, Mary I was sharing of like, they almost wanted kind of exactly how they framed this, but it was like, when they think about it from like a scroll perspective on the phone, like every",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "panel essentially has at least an image as a part of that.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so how to translate that in a problem perspective is probably like every x amount of lines or I don't know something to that nature like you should at least have an image here.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So what was told to me by Tiago was that we would try to target just the initial like I'm going to talk to an Asian at the photos use case first before going on to like a more fully automated flow.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Sorry on limited thinking on how we would do the fully automated flow.",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Let me give you a proposal for how that might work.",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Let us know if we can clarify anything just to get more specificity, but yeah, appreciate it.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So I think this is what it looks like when we pull in a bunch of photos from Google Drive.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I know your client uses Dropbox specifically.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "It looks very similar overall.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "You can see that we've got a preview of the photo rendered right here.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "OK.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "are we still supposed to be seeing notion?",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "are you?",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Normally, don't use Google Maps.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "That's why I'm on Google Maps, yeah.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "We got the previews in there.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "People can see the photos, et cetera, and run AI columns off of them.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So I think one good way to do this might be to have an AI agent column that specifically looks at a data set that's full of these photos.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "And then basically, you would pass the text into the agent and have it output the text with the image URL, which got right here as part of that, so that theoretically, they could just",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "that pointed directly to their web flow or whatever and have the articles published like that.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "That makes sense on a per row.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "in a, I might be misinterpreting part of what you're saying, but like, since these images on a per row basis and an article may have multiple images, how would it synthesize through continually adding the text, adding the images within the text of the same article?",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Yeah, it would be more like, it would be more like we would have a whole folder, a whole table full of the articles, kind of what AirOps does, they generated in that tabular format.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "We would take that base text, match it with the images, which are stored on an agent, and have an output new text with the images embedded.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So that way it can be pretty much automated overall.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So it kind of looked like critical text.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "That's a number.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Somebody look like an article text and then like the article text with the image URL, more text.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I think that's the closest we can get to the fully automated flow rate.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So it's almost like it's like looping as it's going down the surface essentially.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So give him like a thousand articles.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "know, we could probably run through it in about a couple minutes.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "And then you're the people watching the webinar could see it running through and populating that out.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That seems like a work.",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I like it.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So it's logistically, how are we going to prep for this webinar?",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Are they going to give us, because I don't think they want us using their photos and articles and all that.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So would we be able to procure just like some sample articles and some photos would loosely go with them for me to build out for you?",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Yeah, that's a good call.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I mean, I think given that we're leveraging stock imagery today, we can probably figure out like a close similar example that isn't directly the client, but is in all in terms of purposes quite similar to what their use case is, just to make things easier and not at unnecessary complexity.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "think I did some of that.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I think I can save you guys some time there because I did some research and I found a whole data, publicly available data set of royalty free images, and that's what I use to",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "It would create that test I showed you earlier where I was pulling in all the data from Google Drive.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So I can send that over to you, and you guys can think of some articles that would match up with that.",
+            "timestamp": "00:12:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "The only flight has in here, I'm curious to hear thoughts on this, is like, should we be considering a SaaS specific use case given where Tiago is trying to take the use cases you've been continuing to test along with them on the outcome.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I think we can assume people on this webinar can do the conversion of how it supplies to them, but if we make that just a little bit easier and something that is more aligned with the use cases, that seem to get Tiago excited, that might be more effective.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I mean, that would certainly be, yeah.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "I agree.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "I did not be more useful and we could probably use it for other campaigns too.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So if this is something that we can build an odd bound campaign forward to and target assess, that would, that would be two things with one.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "And it could be potentially, I don't, I'm just thinking a lot.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "have no perspective of how realistic this is from a bandwidth perspective on your end miles, but like theoretically we could go through like multiple examples, right, of like here is something that is more, outside of SAS award, you're talking here, here is a more SAS specific example.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't have a strong feeling on showing both, but just knowing that we've already started to build this, that's one other thing we could consider.",
+            "timestamp": "00:13:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But from the SAS perspective, we would have to probably give something useful to miles in me of like, what would that actually look like from a use case perspective for inspiration?",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I mean, it's my job to kind of know what these people would be interested in, so I have some things in mind.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "trying to make sure we can be a whole partner in this and developing it.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I mean, I think the biggest issue is going to be the content.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I think the biggest gap in the market right now is there's lots of things that find the needle in the haystack for text, but there's not as much that do it for images or charts or graphs, et cetera.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So, you know, like being able to like pinpoint certain like screenshots while for debugging something and, you know, be able to like isolate a certain error message or a trace that way and get like steps to resolve it faster.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "That would be like what would resonate from like the more technical leader side, but I'm not sure if you guys have those kind of watching your webinars because you're more kind of like marketing leader folks.",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It definitely can come up from time to time for some of our accounts, but not maybe different somewhat versions of what you're referring to.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "For example, one of our clients who blow, we're talking with them about how we reference code snippets as part of what we show within the articles and how to apply that and find out the team who's writing the content, they have no experience with that.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But theoretically, if there's a library to be referenced, there could be something there.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So there are other examples that are probably more technical, yeah, to your point, it does tend to be more marketing leaders.",
+            "timestamp": "00:15:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Some of those do have a library of images that we can leverage, but going through that is quite challenging.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "More often than not, or we're at this phase where we're helping them generate images, and that's just a whole",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "bit of a different use case altogether.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But, you know, certainly there is, if there were ways for us to plug into the right libraries that actually would work quite well for them to show images that are on brand, and we could help do that programmatically, there could certainly be some people from a wider client standpoint.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "What about videos?",
+            "timestamp": "00:16:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "One thing that's like pretty widespread in my discipline, product management is like user recordings, what they were doing on the screen, and trying to make sense of that and find patterns in that, which is obviously super time consuming to do manually.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I could see a world in which marketers were doing that too, seeing how people navigate through their homepage, and where they spend the most time.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Is that a compelling use case?",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It certainly is, but not necessarily in the ballpark of where we would play typically with our accounts, but.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "like previous to the growth X that was leading growth in-house companies that that would have been very valuable for me Like we've leveraged tools like whole story to do that in the past But then like synthesizing through all that information that we'll start gives you is actually the kind of a pain at times So there is value for the average marketing growth leader in that for sure It's just not usually where our services particularly would play So you're more on the content marketing side and we want to convert that Content we want that to drive value for them We want to and we take a variety of different approaches to that.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's that we're not playing as much usually in That side of their analytics stack Perhaps that's something we do more but yeah Jimmy I know there's a variety of different ways of thinking about where we can provide value and you know I've been flexible, but let me know if you disagree with that, you know Yeah, no, we were also trying this oddbound thing with the agency so a lot of it",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "has to do with how to build reporting for clients, integrate all these tools that marketers would use themselves would be so kind of ties into some of the things we discussed.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "But again, like the campaigns are, I think it's 40 to 50,000 agencies in the US and they have distribution of their own.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So that's something use case that I've pitched to you guys before, Tiago specifically.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "We are seeing a few responses coming, so that could be something that we invite agency owners.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "know Clay did that, AirOps did that where they built specifically for these marketers.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "And just because there's so many marketing agencies, they got that institution, right?",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Clay was, and again, this might be quite off topic, but when Clay was just saying we do everything for everyone, they did not have much traction when they just narrowed down their focus to GTN.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Folks, we help them with this thing, it kind of blew up.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So that's something where I think once they're more product pages, they're more defined use cases, and that's where we're trying to get to.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "But that's like a big use case, I've been a big fan of.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So if there's internal appetite, definitely worthwhile pulling that in.",
+            "timestamp": "00:19:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Yeah, I think definitely agencies are segmented, would be worthwhile to us because they're going to be doing the same workflow over and over again.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "They're going to generate cross-references for us.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So if we can find a way to kind of figure out how to make images more useful to these agencies, and like if you guys can inform me on where those points are, I'm realizing that I don't super know what's hot in the marketing world right now, or among your audience.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So if you share some more of those pain points around like.",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "images and image processing and any kind of like image automation flow, we can try to work that into the webinar make it in value.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Client reporting could be huge too.",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "It's like every agency prepares client reports, right?",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So if that's something that we're doing, I don't know how much the images will be involved, but that's just I keep putting up ideas there.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Time reporting is it?",
+            "timestamp": "00:20:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Client reporting.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So whenever we prepare reports for you guys or any agency prepares reports, if it's tying into data sources and building those reports that this is the improvement in ads, email marketing, you guys do have some ads and I think Google Analytics reporting built in or the interconnectors, that will be a useful use case and this doesn't happen just what this would or not, maybe in the future.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, it might be a feature one.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Don't want to bite off more than we can shoot here.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Yeah, it feels a little bit off topic, but I think one direction we could go for a future webinar is just talking about, you know, analytics in your pocket.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "A lot of times, these analytics tools, it's pretty hard to navigate them from mobile.",
+            "timestamp": "00:21:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "And so the chat interface does make a lot more sense than a dashboard in some situations.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So you can just ask like, hey, like, how is this campaign converting versus this campaign over time?",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "What's my ROI on it and haven't do the calculations for you and text you?",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I mean, there's a lot of value on that, and probably it's something to go deeper in another day.",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's not just in your pocket, but just like synthesizing both qualitative, qualitative insights across different tool sets, across different points of data sources, being able to extract the right things that are happening that need attention and, you know, leveraging that as a way of, because oftentimes we're the challenge.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "for a marketer is you have to go do a lot of digging.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You may find yourself in a lot of roadblocks.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sometimes that digging can be quite laborious or complicated.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So anything that helps provide focus and like this needs your attention or even here's how to think about it, that stuff can be huge agencies in-house people.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So you know we've been talking about that in a similar way of like how can we leverage that as we think about doing SEO analysis for our new accounts of just like synthesizing all the variety of different things that you have to think about from a competitive landscape perspective, their websites, trends.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Our team does that but I'm quite confident like there's ways of like doing that agentically that can be very cool and there's just so many different use cases to build off of that.",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So yeah I would love to chat about that one in the future for sure.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay so maybe for this one like do you think we could get somewhat close by maybe automating the reviews on images or mocks or add copy that's delivered.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It feels like we could probably set up an AI column or an AI agent column to grade the deliverables Coming from contractors for instance, and maybe that's just like a good symbol to start with Yeah, I think Assessing the the quality and policemen opportunities could certainly have some value I think the key is like making sure we have enough to meet on the bone of this use case to like do a full-on webinar from I'm so if we keep it like to basic Might be that might skew you on the basic side, but I thought it would pair with Embedding images to articles use case meaning in addition.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Oh, I'm sorry Yeah, like thematically the webinar could be about like how to use agents with images and this I'm listening to that",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'm with you.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I'm thought you were meeting as an alternative flip.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:24:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I do think like, yeah, we have to pick up this from a larger standpoint and like the very use cases and get people inspired.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I like that.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Okay, so as far as like action items go, it looks like we've all got our note-takers in here.",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I'm using granola for mine.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "Which is why you don't see it.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "So I think a big thing for me to send it you over that publicly available thing images so that you guys can build out some blog articles to go with it in a CSV.",
+            "timestamp": "00:24:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "And then I can work on the demo based off of that deliverable.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I will also test out but using AI columns to kind of like grade some UI screenshots or describe it the",
+            "timestamp": "00:24:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "is or check compliance with like brand home and then assuming that goes well all this like record a loom for you and send it over and then we can start like developing the script for it and we can push the thing back if needed in order to get a more compelling webinar set up but on our side everything is already in flight and we're actively working on plugging all the gaps in the product of which there weren't too many to begin with so luckily it was pretty easy awesome love to hear it uh cool uh very on if we could just work together on like a like a slightly you know adapted version of what we're doing already what we use that as inspiration Jimmy maybe we should put our heads together to think of other use cases to see if we can do something around that on a more sass level yeah and yeah we'll get back to you uh we'll get back to you over uh we should be able to do that",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "this week.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, okay, yeah, I'll, in that case, since you guys are prioritizing this, I'll match that energy.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Miles Gordenker",
+                "matched_calendar_invitee_email": "mgordenker@gmail.com"
+            },
+            "text": "I'll try to get that proof of concept.",
+            "timestamp": "00:26:08"
+        }
+    ]
+}

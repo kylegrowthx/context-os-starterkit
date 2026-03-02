@@ -1,7 +1,15 @@
 # Top 100 Content Marketing, SEO & AEO Agencies
 
-**Research Date:** February 2026
-**Purpose:** Competitive landscape analysis for GrowthX
+<metadata>
+purpose: Competitive landscape analysis — top 100 agencies across SEO, content marketing, and AEO
+audience: Strategy, sales, leadership
+related: pipeline/research/tam-sam-som-analysis.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 2
+last_updated: 2026-02-10
+</metadata>
 
 ---
 

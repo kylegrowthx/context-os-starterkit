@@ -1,0 +1,1105 @@
+# Siit <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-25
+time: 14:00 UTC
+duration: 38 minutes
+organizer: team@growthxlabs.com
+participants: Matthew Alves-Hill (GrowthX), Carmel Schetrit (Siit)
+fathom_recording_id: 125200103
+fathom_url: https://fathom.video/calls/578565739
+share_url: https://fathom.video/share/2RGKno4gEz1FRmzHRzqguY8sKoxFqsWy
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+Siit and GrowthX reviewed a strong organic growth month for Siit's product, with organic search traffic up 600% and keywords up 500% over six months—the strongest month since the partnership began. The teams aligned on closing the attribution gap between content and conversions by using Claude's HubSpot connector to analyze trial and demo bookings. They also committed to three major new initiatives: a "Switching to Siit" migration page (inspired by Hex's model), competitor comparison pages targeting Fresh Service, Jira Service Management, ServiceNow, Serval, and Console, and implementation of "Last Updated" metadata on blog posts to signal content freshness.
+
+---
+
+## Context
+
+Siit is an ITSM and service management platform. This weekly sync represents an ongoing partnership between Siit's marketing team and GrowthX, a content marketing agency. Carmel Schetrit leads content strategy at Siit; Matthew Alves-Hill represents GrowthX's delivery side. The partnership has driven significant organic growth through content—listicles, tool reviews, and broad-topic guides (like a Discord alternatives article that generated 4.5k sessions)—but the team has lacked clear attribution linking specific content pieces to conversions. This meeting focused on celebrating February's performance metrics and defining the next phase of the content strategy, which will emphasize sales enablement through migration guidance and competitor positioning.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Attribution methodology: Siit is now using Claude + HubSpot connectors to analyze which blog content drives trial and demo bookings—a quantitative approach that GrowthX can apply to other clients facing similar measurement gaps.
+- Content format validation: The success of listicles and "alternatives" guides (e.g., Discord alternatives: 4.5k sessions, 62% engagement) confirms the value of broad content strategies over narrow vertical focus.
+- Sales enablement content: "Switching to Siit" migration page and competitor comparison pages represent a new content category for GrowthX—moving beyond organic traffic-focused content to direct sales support.
+
+**To GrowthX Business Development:**
+- Account health: February was the strongest month since the partnership began. App Access campaign drove 4-5 new sales opportunities. Carmel is passing off new initiatives to Manu and taking parental leave in May, signaling stability and trust in the partnership to drive ongoing success.
+- Expansion potential: Siit is planning quarterly focus on sales enablement content (competitor pages, migration guidance), which could expand GrowthX's scope beyond SEO-driven content to higher-touch sales support materials.
+
+**To Siit/Client Context:**
+- Customer acquisition pipeline: High-value leads like Resolve.ai are booking demos with organic content as suspected driver. Returning visitors up 38% in 90 days, indicating strong content stickiness.
+- Product capability gaps: Tool page widget errors (missing review pages) are recurring; the team is shifting strategy from individual tool reviews to leveraging existing content in comparison pages for better ROI.
+
+---
+
+## Overview
+
+- **Organic growth is strong:** February was the strongest month since the partnership began, with organic search traffic up 600% and keywords up 500% in six months.
+- **Attribution is the next frontier:** The top priority is attributing specific content to conversions (demos, trials) to focus efforts on high-ROI topics.
+- **New initiatives are launching:** A "Switching to Siit" migration page and competitor comparison pages are planned to support sales enablement.
+- **Content quality is improving:** New features like customer testimonials and "last updated" dates are being implemented to build trust and improve user experience.
+
+---
+
+## Key Topics
+
+### Organic Performance & Attribution Gap
+
+  - **Strong February Performance:**
+      - Organic search traffic: +600% in 6 months.
+      - Organic keywords: +500% in 6 months.
+      - Returning visitors: +38% in the last 90 days.
+  - **Content-Led Inbound:**
+      - High-value leads (e.g., Resolve.ai) are booking demos, with organic content suspected as a key driver.
+      - A recent Discord alternatives article generated 4.5k sessions at 62% engagement, demonstrating the value of a broad content strategy.
+  - **Attribution Gap:**
+      - The main challenge is linking specific content to conversions.
+      - **Action:** Carmel will use the Claude-HubSpot connector to analyze trial/demo bookings and identify common content themes.
+
+### New Content Initiatives
+
+  - **"Switching to Siit" Migration Page:**
+      - **Goal:** Create a sales enablement page, inspired by Hex's "Switching to Hex," to address migration pain points and build trust.
+      - **Content Needs:**
+          - **Why teams switch:** Sales insights from Gong recordings.
+          - **Migration process:** Details on Siit's POC and customer success support.
+      - **Action:** Matt will create a content brief; Carmel will provide sales recordings and foundational context files.
+  - **Competitor Comparison Pages:**
+      - **Goal:** Create dedicated pages for key competitors to support sales.
+      - **Initial Competitors:** Fresh Service, Jira Service Management, ServiceNow, Serval, and Console.
+      - **Action:** Carmel will share battle cards and Figma drafts. Matt will adapt the copy for web.
+
+### Content & Site Enhancements
+
+  - **App Access Campaign:**
+      - **Performance:** Clicks and impressions quadrupled from January to February.
+      - **Impact:** 4–5 new sales opportunities created.
+      - **Content:** Emails include GrowthX-created guides ("Automation 101," "IAM automation...").
+  - **Customer Testimonials:**
+      - **Status:** Live on the site, hyperlinking to full customer stories.
+      - **Impact:** Improves social proof and trust, justifying a slight slowdown in publishing speed.
+  - **"Last Updated" Date:**
+      - **Goal:** Add a "Last Updated" field to blog posts to signal content freshness without changing the original publish date.
+      - **Action:** Carmel will brief the developer on implementing this WordPress block.
+  - **Tool Page Widget Errors:**
+      - **Problem:** Widget errors are recurring due to missing review pages for some tools.
+      - **Status:** GrowthX is actively fixing the errors this week.
+      - **Future Focus:** Shift from individual tool reviews to high-value comparison pages, leveraging existing content.
+
+---
+
+## Action Items
+
+**Carmel Schetrit (Siit)**
+- Analyze blog-to-trial/demo paths with Claude + HubSpot + PostHog connector; share findings with Matt
+- Implement "Last Updated" date field on blog posts via WordPress block; keep original Publish Date intact
+- Compile and share Gong sales recordings plus ICP/competitor context markdown files with Matt for migration page research
+- Find customer quote/testimonial for Fresh Service vs Siit comparison page
+- Check comparison page design status with internal designer; send Figma draft to Matt
+
+**Matthew Alves-Hill (GrowthX)**
+- Analyze keyword volume data; prioritize comparison pages by search opportunity; share plan with Carmel
+- Create detailed content brief/outline for "Switching to Siit" migration page; share with Carmel
+- Start migration page collaboration thread in external Slack channel with Carmel and Manu; coordinate scope and timeline
+
+---
+
+## Transcript
+
+**Matthew Alves-Hill:** Okay, so is Manu joining us?
+
+**Carmel Schetrit:** He told me he's not joining. He's talking to Okta.
+
+**Matthew Alves-Hill:** Okay.
+
+**Carmel Schetrit:** Some of it's coming in from tools, some of it is blogs, some of it is direct, but I really think content's playing a huge role. We're getting these huge names, like Resolve.ai signed up for a demo yesterday. That's what we wanted them to be doing.
+
+**Matthew Alves-Hill:** Do you have a read on what specifically you think is working? I know your attribution is kind of a work in progress.
+
+**Carmel Schetrit:** I can see from our site traffic that all these blogs are getting traffic. Even if people aren't landing on the blog and immediately starting trials, I can see the people coming back. I think what we need to do is perform some kind of analysis. I'm going to see if I can do that with Claude because we have the HubSpot connector to see if I can pull any common theme between trial/demo bookings and the specific blogs they've been looking at. I can definitely see that trial signups and demo bookings have a lot of organic traffic, which I think means they're landing on one of our pieces of content and coming in through that.
+
+**Matthew Alves-Hill:** Yeah, it does make sense. I spoke to Manu yesterday and I think it's something on his to-do list so we can get aligned on knowing that X blog is resulting in X demos or X trials or at least some kind of pathway.
+
+**Carmel Schetrit:** That's a missing gap. But now that I can do it with Claude in less of a manual way, let me see what I can do.
+
+**Matthew Alves-Hill:** You guys using Claude co-work?
+
+**Carmel Schetrit:** I haven't tried it yet. I was just building skills.
+
+**Matthew Alves-Hill:** Yeah, it's crazy. Our engineering team is very AI forward. It seems like a game changer, especially for analytic stuff.
+
+**Carmel Schetrit:** I'm going to play around with it and see what I can get.
+
+**Matthew Alves-Hill:** Yeah, that's how you learn. Okay, so February was our strongest month since the partnership started. Over six months, we're up 600% organic search and 500% on organic keywords. So we're seeing that sustain.
+
+**Carmel Schetrit:** The Discord alternatives article blew up. It ended up getting 2,000 or 3,000 visits.
+
+**Matthew Alves-Hill:** Yeah, that shows the power of having latent content there for those moments. We've been going hard on DevOps topics and while we're getting in the weeds on tools right now, it shows the value of casting a broad net. I saw the Discord alternatives page had 4.5 thousand sessions at 62% engagement, which is pretty crazy.
+
+**Carmel Schetrit:** I pulled data on Monday and our returning site visitors over the past 90 days is up 38%. Which is great.
+
+**Matthew Alves-Hill:** So we've confirmed that the listicle approach we restarted in October was clearly strong. It looks like your postdoc data is showing the same thing.
+
+**Carmel Schetrit:** The blog listicles are working. I just need to figure out which ones.
+
+**Matthew Alves-Hill:** Yeah, exactly. It would be interesting to see which ones are pushing people down the funnel. Because we're a little blind there, we can track engagement and conversion events. But building that last piece would really help us understand what to focus on, what to refresh, because we know it's resulting in demos.
+
+**Carmel Schetrit:** Okay, I'll leave that with you and see what I can find.
+
+**Matthew Alves-Hill:** Yeah, glad to hear it. The App Access campaign is really cool. We started publishing in January and we're already seeing wins. We published 30 URLs in January with 18 clicks, and in February we had almost four times as many clicks with impressions quadrupling.
+
+**Carmel Schetrit:** We already have four or five opportunities created from this campaign, specifically from the emails I'm sending out. The new cohort of emails includes two pieces of content from GrowthX. The Automation 101 guide was the initial one, and then I just added the IAM automation guide on how app access works with identity providers. It's been getting good traction.
+
+**Matthew Alves-Hill:** Yeah, that's great. I wanted to show you the testimonials we've implemented. They're live on the site now.
+
+**Carmel Schetrit:** Oh, that looks so good.
+
+**Matthew Alves-Hill:** Yeah, and they hyperlink through to the customer story. The quotes are powerful. We are losing a little bit of publishing speed doing this, but on our side we have to create them. We're trying to set up an automated step. It's slowing us a hair, but I think it looks much better.
+
+**Carmel Schetrit:** I think it's worth it. We don't have to do it for all of them, but for the ones that we do, it's great.
+
+**Matthew Alves-Hill:** Okay, cool. So on the Last Updated date in the CMS, when we're refreshing content, we don't want to just change the publishing date. I would rather keep the original publishing date and add a Last Updated field. We could add a custom WordPress block that would say Last Updated and sit right next to the publish date.
+
+**Carmel Schetrit:** You want it to keep the publishing date and then say updated on X date, right?
+
+**Matthew Alves-Hill:** Exactly. Published date and then Last Updated.
+
+**Carmel Schetrit:** Okay, I'll brief my developer on that.
+
+**Matthew Alves-Hill:** Cool. On the tool pages, there's a widget error that's caught up with us again. When we publish reviews, we don't necessarily have the full review page, so it has to be created separately. We've mapped all the ones that are missing and we're going full speed this week fixing all these issues. Then we'll restart the tool pages once everything is up to date.
+
+**Carmel Schetrit:** I need to go through this again.
+
+**Matthew Alves-Hill:** The comparison element is huge potentially. We could look at specific comparison tools we've already published and cross-reference them against keyword research. Comparisons would be a nice way to leverage all the reviews we've already done. We could cross-reference that with keyword research and pull out what's most ICP relevant.
+
+**Carmel Schetrit:** Okay. I think one of the big focuses after App Access will be creating competitor content. Our next quarter will be focused on sales enablement, competitor stuff, and migration. I feel like there's a lot of space for us to collaborate and create a better migration page.
+
+**Matthew Alves-Hill:** Yeah, Manu mentioned he's working on that. I saw you shared the Switching to Hex example.
+
+**Carmel Schetrit:** That's what I was talking about. That's the model we want to replicate.
+
+**Matthew Alves-Hill:** We would need quite a bit of collaboration from you guys on some of the content questions. Why are data teams looking for a change? You could share Gong recordings from your sales calls and we can mine that information for why customers move to you and what their pain points are.
+
+**Carmel Schetrit:** Okay, let me do that. I'll compile a whole folder. I'm also taking a course right now and building a marketing agent with our foundational stuff. I have a long markdown file with our competitors, our ICP, and main context files. I'll share those with you.
+
+**Matthew Alves-Hill:** Yes, absolutely. Some of the content we could do today. For example, the proof of concept element—you guys run a free trial, but do you run a specific pilot program?
+
+**Carmel Schetrit:** We do a POC before launch.
+
+**Matthew Alves-Hill:** Yeah, so we'd need information about that. We'd also want insights from your customer success team on how a migration actually happens. I'll put something together and ask for a lot, and then you can see what you can get your hands on so we can make this as clear as possible. We can share a V1 with you to pass around the team if we want to enrich it further.
+
+**Carmel Schetrit:** That's perfect. This will probably be a focus for Manu more than me, especially because I'm out in two months. I'm trying to pass on big new things to him.
+
+**Matthew Alves-Hill:** Yeah, and I know Manu is working on that too. I'll start a thread in the external channel for the migration piece.
+
+**Carmel Schetrit:** Okay. So this is the first comparison page. We walked through sales approval. This is the full battle card. I don't think you need all of this information for the comparison page, but you can see the strategic positioning, how us versus them, and the deep dive into the different pillars of differentiation of Fresh Service versus Siit. Where we probably don't want to compete at all. I'm looking for us to get a big nice quote that we can put there like Hex did. They have a video at the end. We don't have a video customer story yet, but I'll at least find a quote.
+
+**Matthew Alves-Hill:** Okay, what's the roadmap for these pages? How many are you creating?
+
+**Carmel Schetrit:** We're going to do Fresh Service, Jira Service Management, ServiceNow, Serval, and Console. Serval and Console are harder because they're the two new players and we haven't won any deals against Serval yet. So customer proof will be harder, but we have to position ourselves against them. We're more ITSM focused and have the full ITSM capabilities where they're more of an AI agent add-on.
+
+**Matthew Alves-Hill:** Okay, that makes sense. Share that with me.
+
+**Carmel Schetrit:** I just shared it on Notion. Our designer's working on it, so I'll send you a draft Figma as soon as it's ready.
+
+**Matthew Alves-Hill:** Yeah, that'd be great. Okay, lots to work on.
+
+**Carmel Schetrit:** I think we're doing really well. Let me play around with Claude today and get back to you on the HubSpot stuff.
+
+**Matthew Alves-Hill:** Yeah, rad. Ping me if you find anything cool. Everyone's learning on Claude co-work at the moment.
+
+**Carmel Schetrit:** I will. Okay, then I'll talk to you later.
+
+**Matthew Alves-Hill:** See you later. Bye.
+
+**Carmel Schetrit:** You're a good friend.
+
+**Carmel Schetrit:** No, you're actually working pretty well, though.
+
+**matt:** I'm not too sure.
+
+**matt:** My wife doesn't think so.
+
+**matt:** It's here for now, and then it will be swiftly removed.
+
+**matt:** Anything for a joke.
+
+**Carmel Schetrit:** Wow, for a friend.
+
+**matt:** Yeah.
+
+**Carmel Schetrit:** My husband did that a while back, and I was like, oh my god, you look like Pablo Escobar.
+
+**matt:** Yeah, it's so funny.
+
+**matt:** Like, my wife, my wife's actually, we've been together for 10 years, and she's never seen me, like, clean shaven, so, and it's going to stay that way.
+
+**matt:** I know, it's great.
+
+**Carmel Schetrit:** Matt looked different.
+
+**matt:** Yeah.
+
+**matt:** Also, I wanted to add.
+
+**matt:** Are you feeling better?
+
+**matt:** Yeah, the wisdom teeth is gnarly.
+
+**matt:** I should not have left it so long, definitely.
+
+**matt:** Apparently, gets worse as you get older, so that's on me.
+
+**Carmel Schetrit:** It does.
+
+**matt:** But, um...
+
+**matt:** Yeah, it was rough.
+
+**matt:** It was pretty rough.
+
+**matt:** But almost there.
+
+**matt:** It's just kind of like sore.
+
+**matt:** But we're good.
+
+**matt:** I also wanted to let you know, I hadn't announced it to the team yet, but my wife's actually due on the 31st of May.
+
+**Carmel Schetrit:** Oh my god, that's like 10 days after me.
+
+**matt:** Yeah, so we're on the same timeline.
+
+**Carmel Schetrit:** congrats.
+
+**matt:** Yeah.
+
+**matt:** Also a boy.
+
+**Carmel Schetrit:** You're having a boy, right?
+
+**Carmel Schetrit:** Yeah, you're having a boy too?
+
+**matt:** Yeah.
+
+**Carmel Schetrit:** Oh my god, we'll swap stories.
+
+**matt:** Yeah, so I'm not...
+
+**Carmel Schetrit:** How is she feeling?
+
+**matt:** She's great.
+
+**matt:** mean, yeah, she's had a great time.
+
+**Carmel Schetrit:** Was her first semester okay?
+
+**matt:** Yeah, she was like, yeah, she was really, really good.
+
+**matt:** And our sister-in-law had a, like, gave birth last year and had a really rough.
+
+**matt:** Like, the whole time, basically.
+
+**matt:** Like...
+
+**matt:** Like, really rough pregnancy.
+
+**matt:** And so Leia was pretty, like, stressed about it.
+
+**matt:** But actually, no, she's been great.
+
+**matt:** I mean, she's got more energy than I do.
+
+**matt:** But she's starting to get big.
+
+**Carmel Schetrit:** Wow.
+
+**matt:** Starting to get big.
+
+**matt:** Yeah.
+
+**Carmel Schetrit:** Yeah.
+
+**Carmel Schetrit:** I feel bad.
+
+**Carmel Schetrit:** I had a horrible first remaster, but I'm starting to be bigger now.
+
+**matt:** Yeah.
+
+**matt:** I'm starting to feel it.
+
+**matt:** Yeah, I bet.
+
+**matt:** Yeah, now it starts getting real.
+
+**matt:** Yeah, that's so exciting.
+
+**Carmel Schetrit:** So are you going on paternity leave?
+
+**matt:** Yeah.
+
+**matt:** So I'm taking three weeks off the, like, first three weeks of June.
+
+**matt:** And then I'll take another three-week, like, chunk later in September when we go and visit family.
+
+**matt:** So I'm splitting it like that.
+
+**Carmel Schetrit:** I mean, I'm going to be gone for a long time.
+
+**matt:** Yeah, I know.
+
+**Carmel Schetrit:** I know.
+
+**matt:** I wish.
+
+**Carmel Schetrit:** I don't think so.
+
+**matt:** I don't think so.
+
+**Carmel Schetrit:** years.
+
+**matt:** So, yeah, like, I'll work it out with Manu closer to the date, but obviously, like, coverage-wise, because it's the three-week chunks, it's not going to be, like, a massive challenge on coverage.
+
+**matt:** But as we get closer, I'll obviously make sure everything is covered there and that he's got the right contacts and stuff.
+
+**matt:** But, yeah.
+
+**Carmel Schetrit:** Cool.
+
+**Carmel Schetrit:** Glad I finally get to share that.
+
+**Carmel Schetrit:** I'm very happy for you.
+
+**Carmel Schetrit:** That's awesome.
+
+**matt:** Okay, so is Manu joining us?
+
+**Carmel Schetrit:** I don't know.
+
+**Carmel Schetrit:** Let's keep going.
+
+**matt:** I'm writing him right now.
+
+**matt:** Okay, okay.
+
+**matt:** Cool.
+
+**matt:** Yeah, so I synced with him yesterday and gave him more of, like, a rundown of what we've been doing.
+
+**matt:** I think that was quite helpful.
+
+**matt:** I know that he's working on some other things, so I'll keep in touch with him and get him more up to speed as we go.
+
+**Carmel Schetrit:** We're kind of rolling.
+
+**Carmel Schetrit:** Sorry, he told me he's not joining.
+
+**Carmel Schetrit:** He's talking to Okta.
+
+**matt:** Okay.
+
+**Carmel Schetrit:** Okay, sorry.
+
+**Carmel Schetrit:** back.
+
+**Carmel Schetrit:** Some of it's coming in from tools, some of it is blogs, some of it is direct, but I really think content's playing a huge role, and we're getting these huge names, like Resolve.ai signed up for a trial yesterday, or sorry, for a demo, and they're all booking demos, which is awesome.
+
+**Carmel Schetrit:** That's what we wanted them to be doing, and on the news site, I have it.
+
+**Carmel Schetrit:** That launch also went like so, it was rough.
+
+**Carmel Schetrit:** As they are.
+
+**matt:** Do you have a read on that, like, on your inbound, like, it's great to hear you think organic's, like, playing a role, I'm sure it is, but do you have, like, more of a read into, like, what specifically you think is working?
+
+**matt:** Well, I mean, if you don't have the percentages, I know, like, I know your attribution is, like, kind of a work in progress.
+
+**Carmel Schetrit:** It's great, but what I see, I actually need to go and look through some of the...
+
+**Carmel Schetrit:** So I can see, look, like, from our site traffic.
+
+**Carmel Schetrit:** So like, okay, this is today.
+
+**Carmel Schetrit:** And keep in mind that like most of our site traffic comes from the US.
+
+**Carmel Schetrit:** So like, it's still night time there.
+
+**Carmel Schetrit:** Oh, wait, have I not been sharing my screen?
+
+**matt:** No, I am, right?
+
+**matt:** No, you are, you are, you are.
+
+**Carmel Schetrit:** Okay, okay.
+
+**Carmel Schetrit:** But I can see all of these blogs that are getting traffic.
+
+**Carmel Schetrit:** And even if people aren't landing on the blog and immediately starting trials, I can see the people coming back.
+
+**Carmel Schetrit:** I think what we need to do is perform some kind of analysis.
+
+**Carmel Schetrit:** I'm going to see if I can do that with Claude because we have.
+
+**Carmel Schetrit:** I'll in Bye.
+
+**Carmel Schetrit:** Bye.
+
+**Carmel Schetrit:** The quad HubSpot connector to see if I can, if all of the trials and demos booked, if I can pull any common theme between them for the specific blogs that they've been looking at.
+
+**Carmel Schetrit:** But I can definitely see that trials that are, yeah, trial signups and blog and demo bookings, a lot of them are, a lot of them have been organic, which I think means that they are landing on one of our pieces of content and then, you know, coming in through that.
+
+**matt:** Yeah, yeah, it does make sense, I mean, it does make, yeah, it does make sense.
+
+**matt:** I would, like, I, I spoke to Manny yesterday and I don't know if that's something he's going to, it's like, I think it seems like it's something on his to-do list so that, like, in an ideal world, like, you and
+
+**matt:** I can get aligned on, okay, we know that, like, Xblog is resulting in X demos or X trials or at least some kind of pathway.
+
+**Carmel Schetrit:** Like, that's a missing gap, I think.
+
+**Carmel Schetrit:** can do.
+
+**Carmel Schetrit:** I agree with you.
+
+**Carmel Schetrit:** Let's see, now that I can do it with Quad in less manual way, let me see what I can do.
+
+**matt:** You guys are into the Claude co-work?
+
+**Carmel Schetrit:** I haven't tried it in co-work, actually.
+
+**Carmel Schetrit:** I was just doing, like, other quad stuff, but...
+
+**matt:** Yeah, it's crazy.
+
+**Carmel Schetrit:** Did you use...
+
+**Carmel Schetrit:** I haven't used co-work yet.
+
+**Carmel Schetrit:** I was just, like, building skills.
+
+**matt:** Yeah, there you go.
+
+**Carmel Schetrit:** I mean, it's, like...
+
+**Carmel Schetrit:** I'm sure Marcel needs to use all the .
+
+**matt:** Yeah, we get to...
+
+**matt:** I mean, it's really cool.
+
+**matt:** We get to use all the stuff and we have a ton...
+
+**matt:** Like, our engineering team is obviously, like, very AI forward.
+
+**matt:** So, yeah, it seems like a game changer, especially for, like, the analytic stuff, so...
+
+**Carmel Schetrit:** Okay, so I should do it on...
+
+**matt:** Okay, I haven't tried it yet.
+
+**matt:** think, be honest, I don't want to push you in either direction.
+
+**matt:** think the point is to play around with it.
+
+**Carmel Schetrit:** I'm going to play around with it and I'll see what I can get.
+
+**matt:** Yeah, it's pretty cool, I must say.
+
+**matt:** Okay, cool.
+
+**matt:** So look, I would say that lines up, like, February was our strongest month, like, since the partnership has started.
+
+**matt:** I mean, like, six months, we're up, like, 600%, like, organic search.
+
+**matt:** Organic keywords are up, like, 500%.
+
+**matt:** So we're seeing that, like, sustain.
+
+**Carmel Schetrit:** core thing blew up, too, the other week.
+
+**matt:** Yeah, and, like, that...
+
+**Carmel Schetrit:** It ended up getting, like, 2,000-something or 3,000 visits.
+
+**matt:** Yeah, I think, yeah, exactly.
+
+**matt:** I mean, this is kind of, like, I know it's not specifically, you know, it's not exactly, like, a piece that we're, like, okay, this is great.
+
+**matt:** Like, this is how we, like, convert directly from this page.
+
+**matt:** But it does.
+
+**matt:** Show the power of like having latent content there for those kind of moments.
+
+**matt:** I think there is, like we've been going hard on the DevOps topics and while we have been getting in the weeds and tools right now is like trying to fix it, like it shows, I guess, the value of having like casting this broad net because there will have been, you know, there will have been.
+
+**matt:** I saw your message that you shared internally, there will have been like relevant traffic visiting and that's just like compounds across the site.
+
+**matt:** So I definitely, like Discord's obviously a bit more, was more of a traffic play to start with as a choice versus like some of the more like niche DevOps tools.
+
+**matt:** But yeah, I mean, I saw, so like in the last month, that alternatives page had four and a half thousand sessions.
+
+**matt:** At 62%, 62% engaged, which is like, I mean, pretty crazy.
+
+**matt:** But like through the, you know, through the rest of the site across the world.
+
+**Carmel Schetrit:** visitors, I pulled data on Monday and our returning site visitors since the past 90 days, I think it was, has been up like 38%.
+
+**Carmel Schetrit:** Which is great.
+
+**matt:** Yeah.
+
+**matt:** Yeah.
+
+**matt:** So like, I think that definitely, like we've confirmed that the content approach that we kind of restarted in October, like the listicle play was clearly like strong.
+
+**matt:** And it looks like, it looks like your postdoc data is showing the same thing there.
+
+**matt:** So it would be interesting to see what you can get out of like, like, obviously we know some of these listicles are.
+
+**Carmel Schetrit:** I the blog listicles are working for.
+
+**Carmel Schetrit:** I just need to figure out which ones.
+
+**matt:** Yeah, exactly.
+
+**matt:** And it would be interesting to see how much of an idea you can get of which ones are pushing people down the funnel.
+
+**matt:** But because we're a little blind there, we can obviously track engagement and some kind of conversion event.
+
+**matt:** But building that last piece, especially as you guys are starting to see strong results, that would really help us understand, and, okay, we want to focus on this type of content, or we need to net new, or we want to refresh this type because we know it's resulting in demos.
+
+**matt:** So, okay, so I'll leave that with you.
+
+**matt:** Let's see what you can find.
+
+**Carmel Schetrit:** then share When you use co-work for analysis, do you just prompt it?
+
+**Carmel Schetrit:** Are you just prompting co-work?
+
+**matt:** Yeah.
+
+**matt:** You can use it basically in the same way.
+
+**matt:** And then if you have all your connectors set up, I mean, I haven't done this.
+
+**matt:** I haven't done this yet.
+
+**Carmel Schetrit:** I
+
+**matt:** But you can, like, you can grant access to your whole, like, Chrome.
+
+**matt:** It can go and, like, search for you, like, through the web.
+
+**Carmel Schetrit:** It's insane.
+
+**Carmel Schetrit:** Oh, sick.
+
+**Carmel Schetrit:** Through the web.
+
+**matt:** Yeah.
+
+**matt:** If you have all your connectors, like, good to go.
+
+**matt:** Yeah.
+
+**matt:** We had a demo of it yesterday.
+
+**matt:** One of our directors, like, setting it up.
+
+**matt:** It's, like, I mean, yeah, you can, you could ask, like, you could prompt it to work through, like, your GSC and, or, like, all your reporting tools.
+
+**matt:** I know that it connects to HubSpot.
+
+**Carmel Schetrit:** don't know about, I think it does connect to PostHog.
+
+**Carmel Schetrit:** Yeah, yeah, I have it connected to PostHog.
+
+**Carmel Schetrit:** Okay, I'm to do this after.
+
+**Carmel Schetrit:** I'm actually so curious.
+
+**matt:** Yeah, I mean, that's, don't play around with it.
+
+**matt:** Like, that's how you, that's how you learn.
+
+**matt:** Okay, Rad.
+
+**matt:** So, glad to hear it.
+
+**matt:** Yes, we're seeing, it's, like, super strong month.
+
+**matt:** What's really cool here is, the app access campaign, like, the net new, we obviously started publishing in January.
+
+**matt:** And, um, we're seeing some wins already, like.
+
+**matt:** Application Access Management, we're in position to, and a lot of these, so we've published 30 URLs.
+
+**matt:** These are some of the callouts from like strong keywords.
+
+**matt:** We've been publishing week on week, but like January across App Access, we had 18 clicks.
+
+**matt:** And in February, we had, you know, like almost four times as many and impressions and quadruplings.
+
+**Carmel Schetrit:** We already have four or five opportunities.
+
+**Carmel Schetrit:** Created from this campaign.
+
+**matt:** Excellent.
+
+**Carmel Schetrit:** Which is great from emails, specifically from the emails I'm sending out.
+
+**Carmel Schetrit:** And the new cohort of emails includes two pieces of content from GrowthX.
+
+**matt:** Oh, yeah.
+
+**Carmel Schetrit:** Oh, yeah.
+
+**matt:** The initial ones that we did in there.
+
+**matt:** Okay.
+
+**matt:** That's great.
+
+**Carmel Schetrit:** know, I, the automation 101 guide was like the initial one.
+
+**Carmel Schetrit:** we're doing that one.
+
+**Carmel Schetrit:** And then I just added a new one, which is now I'll tell you, I don't remember.
+
+**Carmel Schetrit:** But it's been actually getting good traction.
+
+**Carmel Schetrit:** Hold on.
+
+**matt:** I think that was like the manual one doesn't scale.
+
+**Carmel Schetrit:** Is it that one?
+
+**Carmel Schetrit:** Hold on.
+
+**Carmel Schetrit:** Wait, I'll tell you one second.
+
+**Carmel Schetrit:** It's the IAM automation, how app access works with identity providers.
+
+**matt:** Okay, got it.
+
+**matt:** Yeah, so, oh, yeah, I wanted to just show you this quickly.
+
+**matt:** So we've implemented these testimonials now.
+
+**Carmel Schetrit:** So they're live on the site.
+
+**Carmel Schetrit:** Oh, I didn't see that.
+
+**Carmel Schetrit:** Oh, that looks so good.
+
+**matt:** Yeah, and then they hyperlink through to the customer story.
+
+**matt:** So it's like a software.
+
+**Carmel Schetrit:** that logo on the story.
+
+**matt:** Yeah.
+
+**matt:** Well, I'm sure you just keep uncovering like small things like your buttons down here are still blue, your cookie settings.
+
+**matt:** I don't even know.
+
+**Carmel Schetrit:** Yeah, we don't have access to a cookies tool.
+
+**Carmel Schetrit:** Now we have to implement.
+
+**matt:** Yeah, I think it looks good too, and then we are, I need to see how I can get you more quotes fast.
+
+**matt:** Yeah, look, so I think the quotes are powerful, and I think it's definitely worth, like, we are losing a little bit of, like, publishing speed in this way, like, part of that's on us, like, first, like, you have to review it and find the relevant quote, I don't think that's taking you much longer, but on our side, we have to create it.
+
+**matt:** We're trying to set up an, like, automated step that we just create these, right now we can't, so slowing us, like, it's slowing us a hair, but I think it looks much better, to be honest.
+
+**Carmel Schetrit:** I think it's worth it, and we don't have to do it for all of them, but for the ones that we do have it, I think it's great.
+
+**matt:** Yeah, agreed.
+
+**matt:** Okay, cool.
+
+**matt:** So that's set up and working.
+
+**matt:** Look, on the, I know I asked you to show me the customer, the comparisons, but just.
+
+**Carmel Schetrit:** Can you, yeah, for the.
+
+**Carmel Schetrit:** Yeah.
+
+**Carmel Schetrit:** CMS thing, my developer doesn't understand what you want.
+
+**Carmel Schetrit:** Is it on the actual blog article?
+
+**Carmel Schetrit:** Yeah, so, okay.
+
+**matt:** So, what I, what I, my understanding is that, hang on, let me just.
+
+**matt:** Let's just show you here, it'll be easier.
+
+**matt:** So, what we, what we want to do when we're refreshing is we don't want to just change the publishing date.
+
+**matt:** I would rather, like, keep the original publishing date.
+
+**matt:** And then, I need to change this bookmark, actually, this is the old.
+
+**Carmel Schetrit:** You want it to keep the publishing date and then say updated on X date, right?
+
+**matt:** Exactly.
+
+**matt:** So, almost like here, it would have the, like,
+
+**matt:** The publishing, published date, and then like last updated.
+
+**matt:** And my understanding though, I don't know on the, I'm not like, I'm not super strong on the design elements in WordPress, but my understanding is you can add a block that would like, so here we have a published date, right?
+
+**matt:** My understanding is we can add a block, one of these custom fields that would say last, like last updated.
+
+**Carmel Schetrit:** Okay.
+
+**Carmel Schetrit:** And then it would sit right next to the publishing date.
+
+**matt:** And then it, and then it would appear like we could even maybe, I mean, maybe it's worth, I mean, maybe your dev team thinks it's worth like moving this around.
+
+**matt:** So it's all like in three lines or something like that, but yes, essentially like published and then last updated.
+
+**Carmel Schetrit:** Okay, cool.
+
+**Carmel Schetrit:** I'll tell you.
+
+**matt:** Okay, rad.
+
+**Carmel Schetrit:** then just before I hand this.
+
+**matt:** Screen back to you for comparisons.
+
+**matt:** The tool, okay, the tool pages.
+
+**matt:** So this is this widget, like, thing that's caught up with us again, as it did last year.
+
+**matt:** So we're working through, like, rectifying all.
+
+**Carmel Schetrit:** still see your, I still see the blog, I don't see the tools.
+
+**matt:** Oh, yeah, okay, sorry.
+
+**matt:** Okay, so these errors, this.
+
+**matt:** We're working through this now.
+
+**Carmel Schetrit:** Okay.
+
+**matt:** It's because, like, when we publish reviews, we don't necessarily have, we don't necessarily have, like, the full review page here for GitLab.
+
+**matt:** So it has to be created separately and then a review page created.
+
+**matt:** So we've mapped all the ones, we've mapped the ones that are missing and we're, like, going full speed this week on fixing all of these issues again.
+
+**matt:** And then we'll restart the tool pages once, like, this is up to date.
+
+**Carmel Schetrit:** I I need to go through this again.
+
+**Carmel Schetrit:** I don't remember anymore.
+
+**matt:** Yeah.
+
+**matt:** mean, look, there's like, this is the comparison element is like huge potentially.
+
+**matt:** Right.
+
+**matt:** So we could say we could, one of our takeaways could be, okay, well, let's like look at specific comparisons tools we've already published and go and cross reference that against the keyword research.
+
+**matt:** It's another play.
+
+**matt:** mean, it's like, there's a ton of road map.
+
+**matt:** It's just where we want to focus.
+
+**matt:** But I do think on the, like the tool reviews themselves, we've, we've published a lot now and it is getting into like some of the, perhaps we're like starting to go down too far down certain roads.
+
+**matt:** So, but comparisons would be a nice way to like leverage basically all the reviews we've already done.
+
+**matt:** And I mean, you can think about how many different combinations that potential.
+
+**matt:** And we could just cross-reference that with some keyword research and say, and then pull out like what we think is most ICP relevant.
+
+**matt:** That's something I can do for next week.
+
+**matt:** And then we can think about where we want to go with tools.
+
+**Carmel Schetrit:** Okay.
+
+**Carmel Schetrit:** I'm done for that.
+
+**matt:** Okay.
+
+**matt:** All right.
+
+**matt:** I think that's it from.
+
+**Carmel Schetrit:** From your site.
+
+**Carmel Schetrit:** I'll walk you through the first.
+
+**Carmel Schetrit:** And then there's that thing that I sent in our chat for the switching to.
+
+**Carmel Schetrit:** Yeah.
+
+**Carmel Schetrit:** I think one of the big focuses after App Access will be creating, and this is like all in the vein of the competitor stuff, is creating more of like a competitor.
+
+**Carmel Schetrit:** Probably our next quarter will be more focused on sales enablement, on competitor stuff, migration.
+
+**Carmel Schetrit:** So I feel like there is a lot of space for us to collaborate.
+
+**Carmel Schetrit:** And I feel like we could also create some kind of page like this, like a better migration page than what we have today and partner with you guys on that.
+
+**matt:** Yeah, Manu mentioned that in a DM that he's working on that.
+
+**matt:** So, and then I saw you shared the like switching to Hex example.
+
+**Carmel Schetrit:** That's what I was talking about.
+
+**matt:** Okay.
+
+**Carmel Schetrit:** Did you guys create that page for them?
+
+**matt:** We didn't.
+
+**Carmel Schetrit:** Okay.
+
+**matt:** That wasn't us, but, but I mean, like in terms of replicating it, it's not, I think there we would need.
+
+**matt:** Yeah.
+
+**matt:** Sorry, no, this is the wrong.
+
+**Carmel Schetrit:** Let me open it.
+
+**Carmel Schetrit:** I feel like this is right up growth.
+
+**Carmel Schetrit:** So, I it's
+
+**Carmel Schetrit:** Ali, in terms of, like, creating these types of, this type of, like, FAQ-type content.
+
+**matt:** Yeah, 100%.
+
+**matt:** I think we would need, like, this, we would need, like, quite a bit of collaboration from you guys on some of the, on some of the questions.
+
+**matt:** We'd want to get some, like, insights.
+
+**matt:** So, like, for example, like, why, why are data teams looking for a change?
+
+**Carmel Schetrit:** Like, yeah, and I love this stuff they put, I'm obsessed with their website.
+
+**Carmel Schetrit:** think it's so good.
+
+**Carmel Schetrit:** I love that they have the, yeah, all the quotes for each one.
+
+**matt:** Yeah.
+
+**matt:** So, like, there's, there's various different things we could do there.
+
+**matt:** Whether it's, like, whether it's you sharing, like, gong recordings from your, from your, like, more recent sales calls, so we cannot start to understand, like, you know, we can mine that information.
+
+**matt:** It's not that we need to necessarily give you a ton of homework to do and go and ask a load of different people for it.
+
+**matt:** So, on why are our customers moving to us?
+
+**matt:** What are their common pain points?
+
+**matt:** If you can get us the data, even if it's just sales recordings, the recordings from the demos, then we can go and we can mine the hell out of that.
+
+**Carmel Schetrit:** Okay, let me do that.
+
+**Carmel Schetrit:** I'll compile a whole folder.
+
+**Carmel Schetrit:** i'll also share i'm taking this um course right now and i'm building a marketing agent with all of our like foundational stuff so i have like a long markdown file that i've been using in clod for our competitors our icp and like our main who we are type context files i'll share those with you because i'm sure that helps for your yes yes absolutely yeah look i'm just
+
+**matt:** Looking through this, switching to HEX, so some of the content we could already do today, but then there's different sections.
+
+**matt:** So why teams are switching, we want to understand from your sales reps why people are looking for the change, so that could come out of gong recordings.
+
+**matt:** The proof of concept element, like, we'd want a little bit of support on, you how does a pilot, you guys run a free trial, but do you run like a specific pilot program?
+
+**Carmel Schetrit:** We do a POC, yeah, like before launch.
+
+**matt:** Yeah, so like information about that, we can also have a think about like added sections here, like I would assume like setting up, yeah, like an integration piece and like all of that kind of thing.
+
+**Carmel Schetrit:** Right.
+
+**matt:** And I guess your customer success, that would be good to get insights from them on how a migration actually happens.
+
+**matt:** And then setting up the integrations, I'm sure you guys assist with that.
+
+**matt:** So again, I'll put something together and I'm going to ask for a lot.
+
+**matt:** And then you can just see what you can get your hands on so that we can make this as clear as possible.
+
+**matt:** And then we can also like, we can share like a V1 with you guys that you can also pass around the team to be like, you know, send it to various different departments if we want to enrich it further.
+
+**matt:** But yeah, I mean, this seems like very definitely up our alley.
+
+**matt:** So cool.
+
+**Carmel Schetrit:** Cool.
+
+**Carmel Schetrit:** Okay.
+
+**matt:** Yeah.
+
+**matt:** And I know that Manu is like working on that as well because he raised it with me.
+
+**matt:** So I'll just start a thread in the external channel.
+
+**matt:** For the migration piece, and then we can chat that.
+
+**Carmel Schetrit:** Okay.
+
+**Carmel Schetrit:** That's perfect.
+
+**Carmel Schetrit:** Yes, I have him.
+
+**Carmel Schetrit:** This is probably going to be a focus for him more than me, and especially because I'm out in two months.
+
+**Carmel Schetrit:** So I'm trying to pass on big new things to him.
+
+**Carmel Schetrit:** Well, you're passing on a killer marketing program at the moment, which is cool.
+
+**matt:** That was a killer.
+
+**Carmel Schetrit:** Got to make my stock worth something.
+
+**matt:** Okay.
+
+**matt:** So this is the first comparison page.
+
+**matt:** fast.
+
+**Carmel Schetrit:** Yes.
+
+**Carmel Schetrit:** So we walked through sales.
+
+**Carmel Schetrit:** This is approved.
+
+**Carmel Schetrit:** This is like the full battle card page.
+
+**Carmel Schetrit:** I don't think you need all of this information for the comparison page, but you can see here the like overall, just in terms of like, just strategic.
+
+**Carmel Schetrit:** Positioning, this is like more of a sales, but how they, like us versus them.
+
+**Carmel Schetrit:** This is the deep dive into like the different pillars of differentiation of fresh service versus Siit.
+
+**Carmel Schetrit:** Where not to compete, so like what we probably don't want to put on the page at all.
+
+**Carmel Schetrit:** I don't know that this will go on the page either.
+
+**Carmel Schetrit:** The ICP contrast, probably not.
+
+**Carmel Schetrit:** Probably, yes, have a call out for the migration.
+
+**Carmel Schetrit:** And I'm looking for us to get a quote, a big nice quote that we can put like Hex did.
+
+**Carmel Schetrit:** They have a cool video at the end of their page.
+
+**Carmel Schetrit:** We don't have a video customer story, but I'll at least find a quote.
+
+**Carmel Schetrit:** Um, we could do like a common objections section.
+
+**matt:** Mm-hmm.
+
+**Carmel Schetrit:** Uh-huh.
+
+**matt:** Our blog artifacts as well, because it's super powerful.
+
+**matt:** So, okay, so what's the roadmap for these pages?
+
+**matt:** How many are you creating?
+
+**Carmel Schetrit:** Okay, so we're going to do Fresh Service, Jira Service Management, ServiceNow, Serval, and Console.
+
+**Carmel Schetrit:** Serval and Console are harder because they're the, like, two new players, and we've only, we haven't won any deals against Serval yet.
+
+**Carmel Schetrit:** So, like, customer proof will probably be harder, but we have to position ourselves against them.
+
+**Carmel Schetrit:** So, we have, like, a whole narrative on how we do that.
+
+**Carmel Schetrit:** Yeah, like, we're way more ITSM focused and, like, have the full ITSM capabilities where they're, like, a, we're saying that they're, like, more of, like, a AI agent add-on.
+
+**matt:** a layer.
+
+**Carmel Schetrit:** Yeah.
+
+**matt:** Okay, that makes sense.
+
+**matt:** Okay, all right, share that with me.
+
+**Carmel Schetrit:** I just shared it to you on Notion.
+
+**Carmel Schetrit:** I guess you want to download it as a PDF.
+
+**matt:** Yeah.
+
+**Carmel Schetrit:** I don't know.
+
+**Carmel Schetrit:** don't
+
+**matt:** Yeah, and then I'll just have to think about, like, how we condense it down, copy-wise, and then I think about, like, how we're going working on the design, too.
+
+**matt:** Okay, you are?
+
+**Carmel Schetrit:** Yeah.
+
+**matt:** Okay, that's cool.
+
+**Carmel Schetrit:** I'll check in and see where things stand with the design.
+
+**Carmel Schetrit:** It's not as pretty as Hex is there.
+
+**Carmel Schetrit:** I love it.
+
+**Carmel Schetrit:** It looks so good.
+
+**Carmel Schetrit:** And I'll send you, our designer's working on it, so let me send you a draft as soon as it's ready, like a draft of the Figma.
+
+**matt:** Yeah, 100%.
+
+**matt:** That'd be great.
+
+**matt:** Okay, lots to work on.
+
+**Carmel Schetrit:** Cool, but I think we're doing really well.
+
+**Carmel Schetrit:** And let me  around with Claude today and get back to you on the HubSpot stuff.
+
+**matt:** Yeah, rad.
+
+**matt:** Ping me if you find anything cool.
+
+**matt:** I'm, like, everyone's learning on Claude co-work at the moment, so.
+
+**matt:** I will.
+
+**matt:** Yeah, cool.
+
+**Carmel Schetrit:** All right.
+
+**Carmel Schetrit:** Okay, then I will talk to you later.
+
+**matt:** See you later.
+
+**matt:** Bye.
+
+**matt:** Ciao.

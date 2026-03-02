@@ -1,0 +1,1482 @@
+[
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Hi, Ben.",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Jessica, it going?",
+    "timestamp": "00:00:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Hello.",
+    "timestamp": "00:00:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Doing well.",
+    "timestamp": "00:00:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Hi, Kirkland.",
+    "timestamp": "00:00:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "How are you guys?",
+    "timestamp": "00:00:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Oh, doing great.",
+    "timestamp": "00:00:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Like your hat.",
+    "timestamp": "00:00:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Thank you very much.",
+    "timestamp": "00:00:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "My son is only 13 months old and really doesn't even watch Bluey yet, but I think it's great.",
+    "timestamp": "00:00:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "So one day he'll grow into it.",
+    "timestamp": "00:00:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:00:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Okay, let me kick off this meeting.",
+    "timestamp": "00:00:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "So Daryl, we had a meeting with us last week and basically the team is doing manual staging right now in Prismic and the team wants to automate it from the pipeline to Prismic.",
+    "timestamp": "00:00:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "And Ben is our CTO at Yourco and I know that you guys have done for several clients and we just want to have you explain like the walkthrough, the step by step, especially.",
+    "timestamp": "00:00:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "When it comes to the API content management keys that we don't want to have give all access to growthx, we want to adjust the staging, which Daryl mentioned that you guys have done it before.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "So, and probably Ben going to ask more technical questions, you know, how to implement it on our side.",
+    "timestamp": "00:01:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, sure.",
+    "timestamp": "00:01:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That all makes sense.",
+    "timestamp": "00:01:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Sorry, I'm having a bit of a weird issue with my keyboard.",
+    "timestamp": "00:01:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "think it might have got unplugged or something.",
+    "timestamp": "00:01:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay, that shouldn't.",
+    "timestamp": "00:01:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Well, something weird is still happening, but I'll move on.",
+    "timestamp": "00:01:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, let me think for a second.",
+    "timestamp": "00:01:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "mean, basically, there are different ways of dealing with Prismic in general.",
+    "timestamp": "00:01:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I think what I've done with the most recent client I did this for is basically they have a pretty complex content model system.",
+    "timestamp": "00:01:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "with Prismic",
+    "timestamp": "00:01:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like a bunch of slices, basically one page with like 30 different slices that could be in it.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And so I spent a lot of time just sort of picking out what those components needed to be and just built a workflow that translates whatever content we want into that sort of slice JSON object format and just send that to Prismic.",
+    "timestamp": "00:02:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "As far as staging versus live, are you talking about like two different instances, like a staging site and a production site or?",
+    "timestamp": "00:02:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "No, just, so looked a little bit into this as well on our end.",
+    "timestamp": "00:02:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Basically, I can give you an API key that has access to, I think they call it the migration API.",
+    "timestamp": "00:02:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Migration API, yeah, that's what I've, that's basically the only way to do it.",
+    "timestamp": "00:02:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Right, right, my one concern is, it looks like we also give, like, I can't separate the API key between the migration API and our types API.",
+    "timestamp": "00:02:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Bye.",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Bye.",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Where, like, if I give you this key, you'll be able to update our types as well.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I'm saying you would, I'm just saying you'd have access to it.",
+    "timestamp": "00:03:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Right, right, right.",
+    "timestamp": "00:03:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "That's not something I would...",
+    "timestamp": "00:03:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Interesting.",
+    "timestamp": "00:03:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "And I can share my screen, too, if that helps.",
+    "timestamp": "00:03:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, because I'm trying to remember.",
+    "timestamp": "00:03:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I didn't even know that those were the same.",
+    "timestamp": "00:03:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Custom types, API requests.",
+    "timestamp": "00:03:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay, so it's the same thing.",
+    "timestamp": "00:03:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And update.",
+    "timestamp": "00:03:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "With that access, you basically can...",
+    "timestamp": "00:03:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, change whatever I want, pretty much.",
+    "timestamp": "00:03:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Yeah, yeah, right.",
+    "timestamp": "00:03:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "So that's my...",
+    "timestamp": "00:03:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, I mean, if you guys aren't comfortable with that, another option would be...",
+    "timestamp": "00:03:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's a little bit more manual, like, a little bit slower, but...",
+    "timestamp": "00:03:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Basically, we could, because all I need to do with the API request is just send a JSON object, so we could have some sort of way, maybe we just make like a JSONL file of the posts we want to upload, or one at a time in a batch, however we want to do it, and give you those JSON files, and then you can just either run them through the API, or I think you can probably, there's probably a CLI way to do it too, that would be even easier.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Um, the only headache with that is like trying to work out what the exact structure of all of that stuff needs to be without any, like there's no way for me to go into like an existing page and just export it as JSON to like understand what's going on.",
+    "timestamp": "00:04:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Um, but we can, we can figure that out.",
+    "timestamp": "00:04:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I just got to think through like, I don't know, I haven't even seen like your Prismic setup, so I don't know how complex it is.",
+    "timestamp": "00:04:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I it like what I've, like it's just, Prismic can be so different with different setups.",
+    "timestamp": "00:04:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Do you have an",
+    "timestamp": "00:04:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "idea of like most of your pages, like a bunch of separate components all wired together, or is it like there's a header, and then there's a big rich text block, and then there's a footer, or?",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "For the blog, yeah, for the blog, it's pretty simple.",
+    "timestamp": "00:05:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "It's just like a big rich text block.",
+    "timestamp": "00:05:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "I can show you.",
+    "timestamp": "00:05:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I'm actually logging in to take a look, too, to try and see.",
+    "timestamp": "00:05:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "I I get it.",
+    "timestamp": "00:05:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "So it is, it's just one slice, but you can use many of them.",
+    "timestamp": "00:05:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "It's the same slice, though, over and over again.",
+    "timestamp": "00:05:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And that's like for what each header and content is a separate blog post slice that can have an image?",
+    "timestamp": "00:05:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Is that?",
+    "timestamp": "00:05:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Right.",
+    "timestamp": "00:05:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "So it's like, we have, let me just share my screen.",
+    "timestamp": "00:05:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, sure.",
+    "timestamp": "00:05:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "So we just have the page with the first slice being, if I fully remember this, this correlates to like our heading, page data, slug, blah, blah, blah, and then everything below that is just the same slice over and over.",
+    "timestamp": "00:06:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "could have a title, an image, and the content, which is just rich text.",
+    "timestamp": "00:06:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "It's the same slice over and over that you can configure.",
+    "timestamp": "00:06:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "And I'm not totally turned off to the idea of providing you with the API key, but if we do do that, I need some sort of assurances or like, how are you storing this key?",
+    "timestamp": "00:06:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Are you guys have any sort of like security compliance we can rely on here, any sort of SOC 2 stuff?",
+    "timestamp": "00:06:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, we don't, I mean, we're just, we're so early on that we don't have any like formal certifications that would, you know, deal anything with that.",
+    "timestamp": "00:06:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "We're storing them all as environment variables in whatever, we have one.",
+    "timestamp": "00:06:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "To store them to share across the team, and then we have renders where everything's deployed, so it's environment variable there in terms of any workflows that we're doing.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And again, if you guys aren't comfortable with that, totally fine.",
+    "timestamp": "00:07:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "What you could do is if you can go back to the main Prismic page and go into the custom types, builder, wherever that is.",
+    "timestamp": "00:07:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "I think that's actually, we have to set that up locally so we can see them, I believe.",
+    "timestamp": "00:07:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Basically, I just want to get the schema for the blog post page type that shows like what those, basically get all the field names and everything, because otherwise I'm just going to be shooting in the dark.",
+    "timestamp": "00:07:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And I can try to like put together a sample.",
+    "timestamp": "00:07:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, I will just say, the last time I did this, it probably took me an hour of like sending requests, getting error messages, getting them back, changing something, and doing that again to get everything to line up.",
+    "timestamp": "00:07:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But this is way simpler than the other pages I was working",
+    "timestamp": "00:07:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And I don't think, I mean, again, it's like a slight inconvenience to have to, like, we get a file, we send that to you, and then you push it up.",
+    "timestamp": "00:08:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Because, again, there's no, like, import option in Prismic.",
+    "timestamp": "00:08:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But I'm trying to think if there's any other options or anything else we can do, but I don't know that there is.",
+    "timestamp": "00:08:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Gotcha.",
+    "timestamp": "00:08:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "So it's either we give you an API key or we don't, and it, is there no option for it to stay manual for right now?",
+    "timestamp": "00:08:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Oh, yeah.",
+    "timestamp": "00:08:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I mean, we definitely can do that, too.",
+    "timestamp": "00:08:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's just, we're trying as much as we can to automate the, like, copy-pasting of things.",
+    "timestamp": "00:08:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Because in this case, that's pretty much, like, and it's, with Prismic in particular, it's weirdly inconvenient because you have to go in and, like, each section is its own slice, and you have to put the title and the text and the title and the text, versus just, like, staging.",
+    "timestamp": "00:08:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "You get through an API call, and then you can just go in and make your edits, whatever you need to do.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But, yeah, you know, I'm just trying to help our team move as quickly as I can.",
+    "timestamp": "00:09:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That's sort of my position here.",
+    "timestamp": "00:09:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But, again, it's like totally understand if you guys aren't comfortable with it.",
+    "timestamp": "00:09:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "You know, I wish I could say, like, here's our SOC 2 certification, but we just don't have anything like that right now.",
+    "timestamp": "00:09:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "So what I can hear is, like, there's no hybrid option for us to explore either or or none, is it?",
+    "timestamp": "00:09:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's like we could either, you guys, give us an API key.",
+    "timestamp": "00:09:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Basically, have an, I mean, it's just an HTTP client that's going to hit the migration endpoints.",
+    "timestamp": "00:09:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I don't currently have anything set up to do anything with types endpoints.",
+    "timestamp": "00:09:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, again, I didn't even realize that that was the same key.",
+    "timestamp": "00:09:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But we can either do that or if you guys are uncomfortable with that, then the option would be, like, essentially instead of, again, us doing it manually is, I guess, option 2.",
+    "timestamp": "00:09:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Just look",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "have everything as it is.",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "The in-between would be we provide you guys instead of with like a Google Doc or something like that, we can just put the content into a JSON format that can then be sent up.",
+    "timestamp": "00:10:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And then, I mean, I can, I don't know if it's easy for us to like share code with you of like, hey, here's how we have done that in the past.",
+    "timestamp": "00:10:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's not super complicated.",
+    "timestamp": "00:10:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Or again, Prisic may just have like a CLI tool.",
+    "timestamp": "00:10:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I don't know for sure how that all works.",
+    "timestamp": "00:10:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Yeah, so the process of if we, instead of using Doc, but using JSON file, the process would be the same, but would convert to JSON, right?",
+    "timestamp": "00:10:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Like once we find out the content, then the engine team would automate the file conversions from where it is.",
+    "timestamp": "00:10:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "exactly.",
+    "timestamp": "00:10:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's like, hey, okay, we're happy with this content.",
+    "timestamp": "00:10:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And we just add an additional step in our sort of workflows that say, hey, take this document.",
+    "timestamp": "00:10:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And it looks like we basically just separate it out into like title content, title content.",
+    "timestamp": "00:10:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Based on the slice schemas.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And then, yeah, get that into Prismic one way or another.",
+    "timestamp": "00:11:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But I don't know of a good way to do that that doesn't involve giving us a...",
+    "timestamp": "00:11:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, I'm trying to think of, like, if there's any other options, and I'm not sure there really are.",
+    "timestamp": "00:11:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "So...",
+    "timestamp": "00:11:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "We potentially could set up a proxy service for you guys.",
+    "timestamp": "00:11:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "But I'm not sure, you know, if we can afford to spend the time on that.",
+    "timestamp": "00:11:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Yeah, yeah, yeah.",
+    "timestamp": "00:11:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "But, I mean, I need to think through this a little bit.",
+    "timestamp": "00:11:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, because I guess that could be another option is, like, if there's just some other endpoint that you guys create that has a different set of authentication, that then just, yeah, just proxies over.",
+    "timestamp": "00:11:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Like, that could...",
+    "timestamp": "00:11:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "We haven't really done that, but I've thought about it for one or two cases where you've had something like this happen.",
+    "timestamp": "00:11:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But, yeah, I don't want ask your team to have to, like, go and build all of that, right?",
+    "timestamp": "00:11:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Yeah, it really depends on how difficult it will be for us.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "I think I have all the information I need.",
+    "timestamp": "00:12:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "I just need to talk to the team.",
+    "timestamp": "00:12:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "CEO probably as well.",
+    "timestamp": "00:12:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Just to figure out the best path forward here.",
+    "timestamp": "00:12:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, I don't know why Prismic decided to make content and changing the types the same level of permission.",
+    "timestamp": "00:12:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "That doesn't make any sense to me, but what do you think?",
+    "timestamp": "00:12:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "It's crazy because this is exactly what you guys need.",
+    "timestamp": "00:12:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It's perfect.",
+    "timestamp": "00:12:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "And there's safeguards behind it to where you can only put content onto Prismic.",
+    "timestamp": "00:12:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "You can't publish.",
+    "timestamp": "00:12:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "But then also, if you would like, you can just destroy all the types.",
+    "timestamp": "00:12:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "It just doesn't really make sense.",
+    "timestamp": "00:12:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "That's what we have to deal with.",
+    "timestamp": "00:12:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "The wild part really is the, like, I would get why you could.",
+    "timestamp": "00:12:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Fetch the types so that you could, like, understand their structure if you're doing migration stuff.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But to then also allow updating them is a little crazy to me.",
+    "timestamp": "00:13:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:13:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But Frisbee has always struck me as this really weird CMS that, like, is in this no man's land between, like, being for engineers and then being for content people.",
+    "timestamp": "00:13:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And they sort of, like, try to please both so much that, like, it ends up being a sort of confusing experience for a lot of folks.",
+    "timestamp": "00:13:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But.",
+    "timestamp": "00:13:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Well, cool.",
+    "timestamp": "00:13:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:13:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Do you think that Prismic would upgrade their feature anytime soon?",
+    "timestamp": "00:13:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "That would be possible solutions.",
+    "timestamp": "00:13:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:13:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "We could ask.",
+    "timestamp": "00:13:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "But.",
+    "timestamp": "00:13:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "You know.",
+    "timestamp": "00:13:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:13:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "So, yeah.",
+    "timestamp": "00:13:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "I mean, I'm good with whatever.",
+    "timestamp": "00:13:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "mean, I can talk with Daryl about, like, hey, like, if it's just a security issue we're not comfortable with, I mean, at the end of the day, it's not going to break anything, right?",
+    "timestamp": "00:13:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "We're working as we are now.",
+    "timestamp": "00:13:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "It just would be nice to be able to speed that piece of the process up.",
+    "timestamp": "00:13:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "If we can find.",
+    "timestamp": "00:13:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "And another thing, I mean, again, even if it's just like we're happy with, you think about like publishing, if you guys have to do a publishing step, I'm thinking like we're doing that 10 or 15 articles at a time or something, like as you review a set of them, get them all formatted, and then that's one, I don't know, maybe there's some, and if there's any code that we can write to like take that off your plate of like getting that ready where it's just, we're missing the permissions, maybe there's something there too, so.",
+    "timestamp": "00:14:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Right, cool.",
+    "timestamp": "00:14:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "But just, yeah, give it a think, and let us know.",
+    "timestamp": "00:14:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Benjamin Meyer",
+      "matched_calendar_invitee_email": "ben@yourco.io"
+    },
+    "text": "Yeah, we'll discuss and get back to you, but thank you, this was.",
+    "timestamp": "00:14:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah, of course.",
+    "timestamp": "00:14:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:14:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Sure thing, man.",
+    "timestamp": "00:14:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Kirkland Gee",
+      "matched_calendar_invitee_email": "kirkland@growthx.ai"
+    },
+    "text": "Thanks, guys.",
+    "timestamp": "00:14:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Have a good one.",
+    "timestamp": "00:14:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jessica Yip",
+      "matched_calendar_invitee_email": "jessica@yourco.io"
+    },
+    "text": "Bye.",
+    "timestamp": "00:14:42"
+  }
+]

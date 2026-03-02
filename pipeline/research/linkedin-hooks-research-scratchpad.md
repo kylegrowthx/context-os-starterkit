@@ -1,5 +1,16 @@
 # LinkedIn Hooks & Engagement Research Scratchpad
 
+<metadata>
+purpose: Raw research on LinkedIn post hooks, engagement patterns, and B2B thought leadership tactics
+audience: Content team, marketing
+related: pipeline/outputs/linkedin-real-post-examples-v1.md, pipeline/outputs/linkedin-hooks-database.xlsx
+domain: research
+confidence: working-draft
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-10
+</metadata>
+
 ## Research Configuration
 
 ```yaml

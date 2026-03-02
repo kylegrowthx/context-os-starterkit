@@ -1,6 +1,15 @@
 # CFO Excellence Research Summary
 
-*Compiled for GrowthX: B2B content marketing services ($200k+/year engagements) + CheckThat software*
+<metadata>
+purpose: Research on elite CFOs — frameworks, mental models, and patterns for AI CFO persona
+audience: Leadership, AI persona development
+related: pipeline/outputs/cmo-research-summary-v1.md, pipeline/outputs/cro-research-for-ai-persona-v1.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-01
+</metadata>
 
 ---
 

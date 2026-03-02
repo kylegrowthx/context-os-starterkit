@@ -1,0 +1,2424 @@
+{
+    "title": "Vapi Looker Walkthrough",
+    "meeting_title": "Impromptu Google Meet Meeting",
+    "url": "https://fathom.video/calls/332393220",
+    "created_at": "2025-06-20T12:27:46Z",
+    "scheduled_start_time": "2025-06-20T12:07:04Z",
+    "scheduled_end_time": "2025-06-20T12:22:04Z",
+    "recording_id": 69576200,
+    "recording_start_time": "2025-06-20T12:07:32Z",
+    "recording_end_time": "2025-06-20T12:27:30Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So go to like a little play cafe.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I was like, I'm just going to crank out a couple of hours of work before the day really gets ahead of me.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So just, I think these are all pretty simple.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The first one, I actually don't know if I'm going to figure out, but the other two are really straightforward.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let me, so basically let's go back to the, this cohorting one first.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So what happened here, you'll still get a lot of nulls because if something's not specifically cohorted, then it's just going to come in as null.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you want to avoid that, you can just filter this data source either here and like, say, where create a filter.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, we probably want to do this.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we only want to pull things.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Actually, wait, that's wrong.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So go.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You'd have to do it on each individual chart, but you would just add a filter, call it cluster, in the cohorted page data, exclude anything where cluster is null, and then that will just remove all that extra stuff.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The overall numbers, I mean, they're only going to show, again, places where we actually have that data.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Which is probably only the stuff we've done for them so far.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "yeah.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if it's clustered, that's because it has a cluster assigned to it in Airtable.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "With a live URL.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Otherwise, that data does not exist here.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's just how that works.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's no real way around it.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you just want to do that on the other charts, too.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you can do the same thing down here.",
+            "timestamp": "00:01:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep, absolutely.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It wasn't working.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "It",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Was because here, so you have table one, which is GSC, table two, which is our Airtable data.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just a Google sheet that is synced to pull Airtable data once a day is how that works.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I see.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But this was joining on record ID, not live URLs.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the join condition was wrong.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so therefore, nothing's actually joining.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you're ready to adjust this, you always want to do a left outer.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you want everything from GSC, right, everything from this left table.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then I only want to pull in things that have a match on live URL from the right table.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because otherwise, you'd be pulling in a bunch of data that's not relevant.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah, I've refreshed this just to, because the connector, I was getting the connector error.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "But like through your other tutorials and then like just searching their help docs, I figured that out.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "But I didn't know, I didn't realize that part of the condition that you filtered by live.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "But that makes sense.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Did you set up the cohort of data?",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Did I do this, or did you do this?",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "No, no, the code of data was already set up.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Okay, I couldn't remember if the Airtable was out of date.",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "That was the only one, so it was breaking that, right?",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so that's that one.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In terms of this LLM, that page, I actually, I'm, oh, there it Oh, okay, loaded.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I did remove, so page refer, hold on, hold on.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So page refer is, okay, is this is, yeah, this is the wrong, okay, I understand why this wasn't working now.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Refer is the wrong thing.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, I don't know what field we actually need from their GA.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's try a couple of things.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's probably not source.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It is source.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Some people's Google Analytics are going to be set up so differently that this will get weird sometimes.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What we're trying to do is just have, I think, session source.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Session probably what I want.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we want session source, and then we'll add a new filter.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we'll say we're page refer or actually we can just make this session source.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we can add this regex that basically is just every AI platform that there is.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it just matches a bunch of different stuff.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we'll remove this one.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Save Save that.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so now, and see, VAPI is included, so we'll have to exclude session source contains VAPI.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So now this is the landing page.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is the referrer itself.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, and then we can add landing page back into this now.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And move it like that.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You'll see, this way they can see, like, where the sources are coming from to what pages.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "And then this is all the...",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So really what's funny is, like, they're only getting perplexity.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like the end of the place.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's, like, 73 from Claude.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Why is that not?",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because it's the same filter.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh!",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hold on, page refer.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This should be session source.",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm dumb.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There we go.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It is still way more perplexity than anything else.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But a little bit of Gemini, yeah, ChatGPT, like, does not talk about that at all.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "What's the time stamp?",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "From start of year, right?",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "It's January.",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Year to date.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "So that report's now.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's fixed.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you asked about, can you limit GSC to vappyai.blog?",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it was the filtration stuff that will help with that, right?",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "So there are essentially two different ways to do that.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you can pick whatever you want.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if the client's like, hey, we have all our own reporting.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't give a  about anything except the blog.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then I would say go into your data sources themselves.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you can add filters.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So like, I guess maybe you can.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll do that, actually.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can do that in the blended data source, but you could just add to a general control.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, no, I'm, like, blanking.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, I mean, you can always just create a filter that's, like, VappyBlog.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You just have to, I thought there was a way, and there is a way that I'm just forgetting to, like, apply this to a whole page or to a whole report.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But equal to, or sorry, landing page contains, we can just say contains blog slash blog.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we have to just go and add that VappyBlog filter on all of the individual ones.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you can, you know, like, this is a non-branded report is the idea.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you would also.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Add another filter, create a filter, that'd be non-brand, and we'll do exclude queries.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now, always do this as a regex, just because, like, what I literally do is I go to an AI, which I have open up another window, you know, can you write me a regular expression that filters all variations and misspellings of Bappy, and then I'll link to, like, their homepage or something.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so that way, like, because if you just say, like, regular expression contains Bappy, now you're missing out on VAP, VAP, EE, VAP, space, I, a bunch of weird, crazy, an extra I at the end, an extra P, whatever, and so you get this very comprehensive version, and now I have, it looks ridiculous.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But it will catch pretty much any variations.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so we'll add that on this one, too.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then on this one.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so now, oh, because this is the cohorted data.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then if you wanted to, you could add a filter in the cohorted data and just say, hey, I only want my Vappy blog and my Vappy non-brand.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we probably don't care about the non-brand for that.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But blog makes sense because this other stuff is all on the blog.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:09:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is that all making sense?",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is great.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then, again, like these reports aren't filtered like that at all.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, again, all you have do is just click into wherever you want to add that.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I you already made the filter.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "You can apply it wherever.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Same data source.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "It'll still work.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "I mean, mean, you",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The only thing you have to keep track of that's a little funky in these reports is originally there may be some bugs here and there where at one time I had almost everything using this cohorted data because I was like, OK, that makes sense.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We want to use the same data everywhere.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The problem is that doesn't really work because when you cohort data, Looker just deletes half of the clicks.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Genuinely.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like if you looked at the same page and the cohorted data and just the GSC data over the same time frame, you might see literally half the clicks.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so that's something to like tell the client is, hey, when we're cohorting this data like this, it's directionally correct.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "As in like, is it going up or down is going to be the same?",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "It has internal logic, but it is not like externally true.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because they're doing some sampling or they're doing some weird stuff in the sequel behind the scenes to make it more efficient.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So like, you know, what is this?",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "May 21st 21st to June 19th.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For vavi.i.blog, let's say this SMS launched Twilio, got 83 clicks, I just changed this to just the plain search console data, and then, do that.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Why does it have date?",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Why do I have all, I don't care about the device, I don't care about any of that.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, it's 294, for the same time period.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, wow, yeah, so significant.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "to the same page.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it is unreal, like I don't have, You",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I've done a ton of research, really tried to, like, understand why that happens.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I genuinely, I mean, yeah, 83 versus 200 and something on the same time period.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just a big haircut, yeah.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have no idea.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And maybe I'm just dumb.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's totally possible.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But, like, I, when I was at ClickUp, we dealt with this so much that we just had to give up on Looker.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, Looker did not work for us.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "I mean, I think in this capacity, if it's an additive to your existing solution, then sure, right?",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Like, if we're just using it for analysis and strategy changes and realizing all the numbers are really just placeholders that can give us an indication of direction, then sure.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You need to be able to say, like, hey, we're just seeing, are they getting clicks?",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Are they getting impressions?",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Which pages are moving up?",
+            "timestamp": "00:12:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Which pages aren't by category?",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Okay, we can kind of see that.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But if you're actually doing reporting on we generated this many clicks or this many whatevers, you can't filter it like this.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Some...",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Clients are going to be really upset, like they're going to get bothered by that if you don't explain it correctly, but it's just a limitation of Looker.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Eventually, like we're going to build our own reporting solution into Atlas and do our own like syncs to GSC and we'll solve all of this, but that's not today.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, that makes sense.",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "So, and that also reminds me, I mean, publishing every single analytics suite we ever used, the caveat was always these numbers are not representative of the real numbers.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They are just representative of direction.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep, correct.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I think that's everything in here now.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then this last tab is just a couple of tables of like all the data put together so you can export them.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's all this is.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's what I figured with this one.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "I think I did something to make them produce a visual.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "I can't remember what, but yeah, I got the sense like, oh, this is just for when they want takeaways or whatever takeouts.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah, this is literally like I don't want to go to search console and wait for it to load for 10 minutes.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just want to export my data.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Get it into a Google Sheet and do something with it.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's all this is.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is the data by date.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you wanted to look at some, you know, I don't know.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I used to do so much of that manual stuff that like as nice as recording dashboards are, I always feel like when you're really trying to figure something out, sometimes it's just easier to pull it yourself.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We use X at ClickUp, which is like a very cool.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like you can basically a Jupyter notebook with a bunch of built-in fancy charts and reporting stuff.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "so I could anytime someone had a question, I could just go write SQL and just do it that way.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, I want us to get to a place that we have something like that.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Nice.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "But anyway, any other questions?",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "that help?",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, that helped tremendously.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah, I think.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "And I've recorded this, so hopefully it will help the others, too.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "know some of directors are like, we don't know what's going on with this stuff.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I've never watched this a hundred times.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, Looker, I mean, I've been worried.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Me and Looker now for five years, and it still trips me up on just little things.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's super annoying.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then there's the stuff where you'll beat your head against the wall.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "mean, why are these numbers different?",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What's wrong?",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Nothing's wrong.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that team is so, you know, they're just antsy on numbers.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "want to see, like, they're like, I want to see, you know, like, how much data we Like, how many clicks, how many, like, people are clicking, many people are coming through, like, traffic, traffic, traffic.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So when we share this with them, I think maybe that's going to be, like, maybe they're going to get frustrated.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, they might be.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Well, we'll have to, you know, I'll contextualize in the video, like, in a quick walkthrough that the numbers are not represented.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "We can go to GSC for source of truth on real numbers and stuff like that, like, after we filter, like, post-coordering.",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One more thing that's just relevant to know, and this is another one of stupid looker things.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The data that's just pulling directly from GSC, right?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's not cohorted.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Those numbers, if you compare them to the UI, will also be different.",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There will probably be more traffic in the Looker Studio than their GSC UI, and the GSC data is closer to right.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's still not right.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's still something missing, but it's closer.",
+            "timestamp": "00:16:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So there's like three levels of anonymization that happen with GSC data.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's like the UI that does a ton of sampling, and you only get 1,000 rows, and it's useless.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then there's the API, which gives you up to a certain number of rows of data per day, has some limitations, but it's better.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's what you're getting in Looker, is API data.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then there's the Google BigQuery data export, where you're actually bulk data exporting everything out of GSC into BigQuery every day.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That is the only way to get 100% of your data from Looker.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's really dumb, but like I'm talking on a smaller website, the gaps aren't that big, but there was a, if you ever want to learn more about this, I'll actually link, it's fascinating.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There was a conference, a tech SEO conference back in Raleigh last year, and this guy from Jet Octopus did a talk on like, oh, hold on.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I need to find this because it's actually super interesting.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I already kind of dealt with it myself, and then he gave this talk, and I was like, oh my God, this is, yes, this is what I've been dealing with.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But basically, he found that as much as 90% of your data on a website with like millions of visits could be completely anonymized or removed if you're looking in UI or you're looking in...",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm not going to able to be be be",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "API or whatever.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just linked it in the Slack thread, but it's very good.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's very interesting.",
+            "timestamp": "00:18:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it might help you guys.",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you know this sort of thing, it's easier to talk to clients and explain why all the numbers are so whack.",
+            "timestamp": "00:18:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's a whole mess.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But anyway.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Very helpful.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "I'm going to watch that too.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "I have to pretend like I know all this stuff cold.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Hey, you know what?",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "You could know eventually.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's right.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "I'm working, but yeah.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "It's whack, dude.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Data is so annoying to deal with in SEO because people just expect it to just work, you know, because they're used to paid where most of it just works.",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because you're paying money to get that data versus it just happening.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So anyways, I'll get those pages up today as well.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Legend.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Appreciate it.",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hope you're coping with Alice.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hope you're not like...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "you.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, I'm dying, but we're working it out.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "told Daniel, was like, this is insane.",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm also thankful, like I'm learning a lot about product and how do we do all this stuff.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, you know, I've done all the workflow development, but never been a part of a launch like this.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think, you know, had we had a little more time to, you know, to get out of our no-code tool that's wonderful, then maybe this wouldn't have been quite as crazy of a week, but I think we'll get there.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah, I think so, too.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "It's, yeah, it's already, like, I mean, over the course of the week, it's so dramatic.",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Yeah, 100%.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, all right.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kirkland Gee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll back to it.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Thanks a lot.",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Darrell Etherington",
+                "matched_calendar_invitee_email": "darrell@growthx.ai"
+            },
+            "text": "Take care.",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Take care.",
+            "timestamp": "00:19:58"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[To address and resolve issues with Looker Studio data reporting for Vappy.ai, focusing on cohorting, LLM referrals, and GSC data filtering.](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Looker Studio has significant data discrepancies, often showing fewer clicks (up to 50% less) compared to raw GSC data due to cohorting and sampling issues](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=0.0)\n  - [LLM referral tracking was fixed by adjusting filters to use session source instead of page refer, revealing Perplexity as the dominant source](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=0.0)\n  - [GSC data can be limited to specific domains (e.g., vappyai.blog) using custom filters, but care must be taken to explain data limitations to clients](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=0.0)\n\n## Topics\n\n### Cohorting Data Issues\n\n  - [Null values appear when data isn't specifically cohorted](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=30.0)\n  - [Solution: Add filters to exclude null clusters in individual charts](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=61.0)\n  - [Cohorting significantly reduces click numbers (e.g., 83 vs. 294 clicks for the same period)](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=707.0)\n  - [Cohorted data is directionally correct but not numerically accurate](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=647.0)\n\n### LLM Referral Tracking\n\n  - [Fixed by changing 'page refer' to 'session source' in filters](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=194.0)\n  - [Added regex to match various AI platforms](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=286.0)\n  - [Excluded VAPI to avoid self-referrals](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=300.0)\n  - [Results showed Perplexity as the dominant source, with some traffic from Gemini and minimal from ChatGPT](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=368.0)\n\n### GSC Data Filtering\n\n  - [Two methods to limit data to vappyai.blog:](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=408.0)\n    1.  Add filters to data sources\n    2.  Create and apply custom filters (e.g., \"VappyBlog\" filter)\n  - [Non-branded filter created using regex to exclude Vappy variations and misspellings](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=492.0)\n  - [Filters can be applied to individual charts as needed](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=551.0)\n\n### Data Accuracy and Reporting\n\n  - [Three levels of GSC data anonymization: UI (most sampled), API (used in Looker), and BigQuery export (most accurate)](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=990.0)\n  - [Looker Studio numbers may differ from GSC UI, with Looker potentially showing more traffic](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=994.0)\n  - [Up to 90% of data could be anonymized or removed in UI/API for high-traffic websites](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=1034.0)\n  - [Importance of explaining data limitations to clients to manage expectations](https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS?tab=summary&timestamp=942.0)\n\n## Next Steps\n\n  - Implement and test new filters for more accurate reporting\n  - Create a video walkthrough explaining data limitations and proper interpretation\n  - Watch and study the linked conference talk about GSC data discrepancies\n  - Continue development of Atlas for improved reporting solutions\n  - Communicate data limitations clearly to the Vappy.ai team to manage expectations on traffic numbers\n"
+    },
+    "action_items": [
+        {
+            "description": "Create video walkthrough of Looker Studio setup, explain data accuracy limitations vs GSC\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:31",
+            "recording_playback_url": "https://fathom.video/calls/332393220?timestamp=931.9999",
+            "assignee": {
+                "name": "Darrell Etherington",
+                "email": "darrell@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Set up pages in Looker Studio for Vappy.ai (mentioned getting pages up today)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:18:36",
+            "recording_playback_url": "https://fathom.video/calls/332393220?timestamp=1116.9999",
+            "assignee": {
+                "name": "Kirkland Gee",
+                "email": null,
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Darrell Etherington",
+            "email": "darrell@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Darrell Etherington"
+        }
+    ],
+    "recorded_by": {
+        "name": "Darrell Etherington",
+        "email": "darrell@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/DRmFx8SVUz7f64S9wHkaS52mjo--ieVS",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

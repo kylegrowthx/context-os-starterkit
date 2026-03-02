@@ -1,0 +1,864 @@
+# Witness AI <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-20
+time: 17:30 UTC
+duration: 36 minutes
+organizer: team@growthxlabs.com
+participants:
+  - Aida Knezevic (GrowthX)
+  - Dave Abbaszadeh (Witness AI)
+  - Stephanie Gilliam (Witness AI)
+  - Sharat Ganesh (Witness AI)
+  - William Leborgne (GrowthX)
+  - Kathy Lam (GrowthX, cc)
+fathom_recording_id: 124126875
+fathom_url: https://fathom.video/calls/573489646
+share_url: https://fathom.video/share/Qsryr3pJf-emBo_75fXswUsZ4zehzFfe
+source: fathom
+enriched_on: 2026-02-27T00:00:00Z
+</metadata>
+
+---
+
+## Summary
+
+Witness AI and GrowthX reviewed a new 75-topic content calendar ready for publication, approved the prompt injection article draft for feedback, and aligned on an LLM traffic strategy to drive visitors to product pages via blog links. The Looker dashboard was enhanced to track legacy content alongside new articles, while a Slack automation was set up to notify the team when new drafts are ready for review.
+
+---
+
+## Context
+
+GrowthX is a B2B content marketing agency producing 22+ blog posts per month for Witness AI. Witness AI (a cybersecurity startup) built CheckThat, an AI visibility index for B2B, and needs SEO-driven content to establish thought leadership on emerging AI security threats. The partnership focuses on building baseline authority on core security topics (AI governance, compliance, shadow AI) before expanding into vertical markets. A significant opportunity exists to capture LLM traffic—ChatGPT and Perplexity already reference Witness AI's blog heavily, but product pages receive no LLM referral traffic. The Witness AI team (Stephanie, Dave, Sharat) works closely with GrowthX's Aida on content review, publication cadence, and performance tracking via Looker dashboards.
+
+---
+
+## Relevance
+
+- **Content Strategy**: 75-topic calendar sourced from competitor keywords and internal threat research; emerging threats (RAG security, AI fuzzing) included despite low current search volume.
+- **SEO & Traffic**: Blog receives strong LLM referral traffic (ChatGPT, Perplexity); strategy to link product pages from blog posts to drive deeper conversions.
+- **Performance Metrics**: Looker dashboard now tracks legacy + new content separately; GA4 "not set" traffic explained as cookie/ad-blocker issues, not tracking errors.
+- **Team Alignment**: Product placement (blog vs. Learning Center) now part of review workflow; executives (Dan, Rick) to be added to Airtable/docs for visibility.
+- **Operational Cadence**: Airtable automation sends Slack notifications when drafts are ready; 22 posts/month means 75-topic calendar depletes in 3.5 months.
+
+---
+
+## Overview
+
+- **Content Calendar Approved:** The 75-topic calendar is ready for review, with a strategy to build a baseline on core security topics before expanding to verticals.
+- **Performance Tracking Enhanced:** The Looker dashboard will now track all legacy content, providing a complete performance picture for execs. A Slack automation will also notify the team of new drafts.
+- **Prompt Injection Article Drafted:** A rewritten draft is ready for feedback on voice, tone, and product integration. Dave will add inline images using an AI tool.
+- **LLM Traffic Strategy Defined:** The plan is to drive LLM traffic to product pages by linking them from new, high-ranking blog content.
+
+---
+
+## Key Topics
+
+### Content Calendar & Strategy
+
+  - The new content calendar is live in Airtable with 75 topics across 10 clusters.
+      - **Source:** Competitor keyword analysis and internal documentation (e.g., Stephanie's threat doc).
+      - **Rationale:** Includes emerging threats (e.g., RAG security, AI fuzzing) with low current search volume but high future potential.
+  - **Initial Strategy:** Build a baseline on core topics (AI governance, compliance, shadow AI) before expanding to verticals.
+      - **Rationale:** The blog is new and needs to establish authority first.
+      - **Vertical Content:** Must include a security angle in titles to compete with non-security platforms.
+  - **Workflow:**
+      - **Review:** Use Airtable comments to tag Aida with feedback.
+      - **Notifications:** A Slack automation will announce new drafts for review.
+      - **Access:** Stephanie will add Dan and Rick to Airtable and Google Docs for exec visibility.
+
+### Performance Tracking & Reporting
+
+  - The Looker dashboard combines data from GA4 and Google Search Console.
+      - **Enhancement:** The dashboard will now track all legacy content, not just new GrowthX articles.
+      - **Rationale:** Provides a complete performance picture for execs.
+  - **LLM Referral Traffic:** The blog gets significant traffic from ChatGPT and Perplexity, but product pages do not.
+      - **Strategy:** Link product pages from new, high-ranking blog content to drive LLM traffic deeper into the site.
+  - **"Not Set" Traffic:** A portion of traffic is labeled "not set" in GA4.
+      - **Cause:** A known GA4 issue (e.g., cookie permissions, ad blockers), not a tracking error.
+  - **Bot Traffic:** Dave asked about distinguishing human vs. bot traffic.
+      - **Action:** Aida will research available tracking methods.
+
+### Prompt Injection Article Review
+
+  - A rewritten draft of the prompt injection article is ready for feedback.
+      - **Focus:** In-depth analysis of prompt injection and chatbot hallucinations.
+      - **SEO Tactics:** Includes a "Key Takeaway" section and FAQ for LLM citation growth.
+  - **Inline Images:** GrowthX cannot create inline images at scale.
+      - **Solution:** Dave will create diagrams using an AI tool.
+  - **Content Placement:** Stephanie proposed a workflow to determine if articles belong on the main blog or Learning Center.
+      - **Rationale:** Main blog content is used by the sales team and distributed via email campaigns.
+
+### Traffic Forecasting & Expectations
+
+  - A forecast chart was shared, based on the monthly search volumes of the 75 target keywords.
+      - **Caveat:** This is a conservative estimate, as articles often rank for many keywords.
+  - **Expectations:** Sharat asked for a benchmark for "good" traffic.
+      - **Context (Dave):** The industry is new, so keyword search volumes are low. Traffic growth will be slower than for legacy security topics.
+      - **Action (Aida):** Will provide traffic data from other security clients, noting that domain authority is a key variable.
+
+### Check That Workspace
+
+  - Aida added the team to the Check That workspace, which is tracking 63 prompts based on the content calendar's keywords.
+  - **Access Issue:** Dave reported an error preventing access.
+      - **Solution:** Create a free workspace to unlock access to shared workspaces.
+
+---
+
+## Action Items
+
+**Aida Knezevic** (GrowthX)
+- Post prompt-injection article draft in Slack for Dave/Sharat/Stephanie (Witness AI); request comments
+- Set up Airtable automation to Slack for new drafts; notify Dave/Sharat/Stephanie
+- Schedule Looker walkthrough with Witness AI team next week or record Loom
+- Draft CTA copy for blog posts linking to product/demo pages; share with Dave next week
+- Research bot vs. human traffic tracking methods; report findings back to Dave
+
+**Dave Abbaszadeh** (Witness AI)
+- Add inline images to new blog posts using AI tool; share examples with Aida for designer alignment
+- Send legacy URL list to Aida; Aida will then update Looker to track old vs. new content separately
+- Review Airtable content calendar; comment and tag Aida on topics to prioritize, deprioritize, or remove
+- Create free Witness workspace in CheckThat to unlock access to shared GrowthX workspace
+
+**Sharat Ganesh** (Witness AI)
+- Add blog vs. Learning Center placement decision to review workflow; determine placement per article draft
+
+**Stephanie Gilliam** (Witness AI)
+- Add Dan and Rick (Witness AI executives) to Airtable calendar and shared Google Docs for visibility
+
+---
+
+## Transcript
+**Aida Knezevic:** A couple of big updates for you today in terms of the progress that we've made this week.
+
+**Aida Knezevic:** So we'll get to the artifact review, but the first thing I wanted to share with you is the calibration article.
+
+**Aida Knezevic:** So as I mentioned last week, we took this blog post that was published almost a year ago about prompt injection and pretty much rewrote it.
+
+**Aida Knezevic:** And you can find the draft in the agenda.
+
+**Aida Knezevic:** It's a lot longer than the initial draft.
+
+**Aida Knezevic:** We really tried to like go into it in depth.
+
+**Aida Knezevic:** We provided examples of some prompt injection attacks and generally like chatbot hallucinations that could be the result of just insufficient guardrails.
+
+**Aida Knezevic:** And we do manage.
+
+**Aida Knezevic:** I witness a couple of times, but it's in an organic way, and it's contextually relevant to the section that it appears in.
+
+**Aida Knezevic:** So I will ping you in Slack with this draft, and then you can take a look and let me know what you think.
+
+**Aida Knezevic:** Again, the feedback that we're looking for at this stage is obviously like voice and tone, just a general writing style, how you like it.
+
+**Aida Knezevic:** But also how we talk about witness, whether you want us to go a little more heavier on the product mentions, just how you want the content to talk about you, anything that really comes out.
+
+**Aida Knezevic:** For example, if there are any examples here where you think, oh, this would be a great place to talk about witness, just leave a comment and let us know.
+
+**Aida Knezevic:** And that's also helpful for us to understand what are some examples where we should bring you up.
+
+**Aida Knezevic:** For specifically for GEO, we add.
+
+**Aida Knezevic:** The key takeaway section with the bullet points, it seems that LLMs pay attention, pay more attention to content that appears in the introduction and then towards the end, which also have a frequently asked question section with just like brief summaries, which is another GEO practice to help like grow your citations.
+
+**Aida Knezevic:** And then we also use bullet points where necessary, but we really do try from a content quality perspective, comprehensive and helpful.
+
+**Aida Knezevic:** We don't, you know, when we're writing content, we don't say, we're writing for robots.
+
+**Aida Knezevic:** We're really writing for anybody who comes to your website, whether that's like an LLM or a Google bot or a human.
+
+**Aida Knezevic:** So we really do want to make sure that the content meets your quality bar.
+
+**Dave Abbaszadeh:** So quick question on this.
+
+**Dave Abbaszadeh:** What is your team's opinion on inline images in blog posts?
+
+**Dave Abbaszadeh:** Because I don't see one here, obviously.
+
+**Dave Abbaszadeh:** in my experience, I've heard that it's important to have them.
+
+**Dave Abbaszadeh:** So I'm just curious if we're going to be doing those.
+
+**Dave Abbaszadeh:** This is like a really bad one.
+
+**Dave Abbaszadeh:** And will those be included in the briefs for us to review?
+
+**Aida Knezevic:** Or how is that going to work?
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** So right now, we just provide featured images.
+
+**Aida Knezevic:** For inline images, we have a designer.
+
+**Aida Knezevic:** But in our experience, it's just been very tough to create these types of images at scale.
+
+**Aida Knezevic:** Sometimes we get into a situation where we're just, yeah, they're good.
+
+**Aida Knezevic:** But it depends on what your expectations are, obviously, I think.
+
+**Aida Knezevic:** But in terms of just inline images, it might be like we can spin up a couple.
+
+**Aida Knezevic:** But I can't guarantee that you will be happy with that.
+
+**Dave Abbaszadeh:** That's fine.
+
+**Dave Abbaszadeh:** Then I have a tool that actually works pretty well for making little things.
+
+**Dave Abbaszadeh:** So maybe what we'll do is I'll just, after the fact, go through some of these and add some images and maybe we work together on best practices there.
+
+**Aida Knezevic:** Yeah, yeah, absolutely.
+
+**Aida Knezevic:** If you can give us some examples of what you're creating in that other tool, then I can sync with our designer.
+
+**Dave Abbaszadeh:** look at the newer blog posts, those will have those, not in the blog, sorry, in the Learning Center.
+
+**Dave Abbaszadeh:** So go to the footer and then hit learn.
+
+**Dave Abbaszadeh:** Yeah.
+
+**Dave Abbaszadeh:** And the most recent one there should have.
+
+**Aida Knezevic:** Oh, okay.
+
+**Aida Knezevic:** So this is, yeah, this is, you were creating these with an AI tool?
+
+**Dave Abbaszadeh:** Yeah.
+
+**Dave Abbaszadeh:** And you basically just put copy in there and it creates like a diagram based on the copy.
+
+**Dave Abbaszadeh:** So I can create these if this is valuable.
+
+**Dave Abbaszadeh:** So we can have another discussion about this later, but just we have some options there too.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** Yes, Sharat?
+
+**Sharat Ganesh:** I see a lot of hyperlinks.
+
+**Sharat Ganesh:** How are they linked to a copy?
+
+**Sharat Ganesh:** What is the thought there?
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** So, yes, we do provide internal links to your existing content.
+
+**Aida Knezevic:** And then whenever a third-party stat or a third-party report, we also link to it.
+
+**Aida Knezevic:** So, for example, we link to the OWASP top 10 for LLM application list.
+
+**Aida Knezevic:** And then we also linked to a news article from a reputable website that talks about this incident.
+
+**Aida Knezevic:** So this is where we use external links.
+
+**Aida Knezevic:** We don't use external links when we don't need to use them.
+
+**Aida Knezevic:** Linking to high-quality sites is good SEO practice.
+
+**Aida Knezevic:** So we really do want to avoid linking any report that was created by a competitor or was sponsored by a competitor.
+
+**Sharat Ganesh:** Sounds good.
+
+**Sharat Ganesh:** Thank you.
+
+**Stephanie Gilliam:** Now, question here, Dave, I think this is more for Dave.
+
+**Stephanie Gilliam:** When we're publishing the stuff that GrowthX is, because what if this content is really good and we want it on our main blog?
+
+**Stephanie Gilliam:** I think we need to make that determination.
+
+**Dave Abbaszadeh:** I'm happy.
+
+**Dave Abbaszadeh:** There's no real difference structurally on the website between the two.
+
+**Dave Abbaszadeh:** It's just I filter one page, so it's a user experience.
+
+**Dave Abbaszadeh:** But structurally, they're all on the blog.
+
+**Dave Abbaszadeh:** So we just have to pick and choose where it goes.
+
+**Stephanie Gilliam:** Aida, does that matter for you guys, like in terms of it being better for our rankings, where it goes?
+
+**Aida Knezevic:** No, because it's the same from a structural standpoint.
+
+
+**Aida Knezevic:** So whether you want to show it or not, that's up to you.
+
+**Stephanie Gilliam:** Okay.
+
+**Stephanie Gilliam:** So I think, Sharat, we should put this in the workflow.
+
+**Stephanie Gilliam:** Like when you're reviewing.
+
+**Stephanie Gilliam:** If you feel like it's more of just a learning educational piece of content that we want in the learning center, maybe more FAQ style, you know, if it's something that you think like should be on our blog page and our blog subscribers should get it and we should do, you know, put it in email campaigns and stuff like that, opinions on it too.
+
+**Stephanie Gilliam:** But because some of the stuff, think given the great job you guys did learning our company, we may, this might help our other blog as well.
+
+**Dave Abbaszadeh:** Yeah.
+
+**Dave Abbaszadeh:** And I don't know if you've looked at the content calendar, Stephanie, but there's definitely some topics that I thought would be like really great for the main blog.
+
+**Stephanie Gilliam:** Right.
+
+**Stephanie Gilliam:** Because our sales team is looking at the main blog and leveraging that content, right?
+
+**Stephanie Gilliam:** They're not down in the learning center.
+
+**Stephanie Gilliam:** So we should leverage this work for the other blog if we want to.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yeah, that makes sense.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** And then Dave, I know you said you were already in the content calendar.
+
+**Aida Knezevic:** So I'm just going to walk you through really quickly and just show you what.
+
+**Aida Knezevic:** What all the information is and what the different views are, but what we did this week is we went through and found topics that fit into each topic cluster that we presented last week, and the content calendar right now has 75 topics across different clusters.
+
+**Aida Knezevic:** This is, I don't, this is not the final list.
+
+**Aida Knezevic:** So what I'm trying to say is this is when we get your feedback on these topics, if you feel like, okay, there's a potential angle here that we might explore, or this is missing, can we do some research around this topic or this issue, I can go and do additional research.
+
+**Aida Knezevic:** So what I'm trying to say is this is not like the final list of topics.
+
+**Aida Knezevic:** And also, since we're publishing on average, like 22 blog posts per month, we're going to run through this in like three and a half months.
+
+**Aida Knezevic:** So, but this is something to get us started.
+
+**Aida Knezevic:** These top
+
+**Aida Knezevic:** Topics were picked from keywords that your competitors already rank for and that are also relevant for your company as well.
+
+**Aida Knezevic:** And then we also did manual topic research using the documentation that you shared with us, particularly that Google Doc with all of those different threats that you sent over, Stephanie.
+
+**Aida Knezevic:** That one was really, really helpful just to find, like, for this cluster specifically, I think, is it this one?
+
+**Aida Knezevic:** Yeah, yeah, it's this one.
+
+**Aida Knezevic:** So, for example, RAG security, AI fuzzing, payload splitting, like, these were all prompt obfuscation.
+
+**Aida Knezevic:** These were all listed in that document.
+
+**Aida Knezevic:** And they do have lower search volumes, but they're all emerging threats.
+
+**Aida Knezevic:** So the search volume is only going to grow in the future.
+
+**Aida Knezevic:** But to kind of go back to the Airtable view, so there are multiple views in Airtable.
+
+**Aida Knezevic:** You all should have commenting access.
+
+**Aida Knezevic:** Which allows you to open up a record, like for example, like what are the security risks of AI browser agents?
+
+**Aida Knezevic:** And then you can leave a comment here.
+
+**Aida Knezevic:** If you have any thoughts on the topic or you don't like a particular topic for any reason, you can just leave a comment here and tag me so that I get a notification.
+
+**Aida Knezevic:** And then each title has a primary keyword attached.
+
+**Aida Knezevic:** The search volume is here.
+
+**Aida Knezevic:** The keyword difficulty is in this column.
+
+**Aida Knezevic:** And then we also have these columns which we use when we start generating content.
+
+**Aida Knezevic:** We add the titles and the descriptions and things like that.
+
+**Aida Knezevic:** And then we also have once we start working on a piece of content, we change the status internally to in production.
+
+**Aida Knezevic:** So you can come here and see what's currently being worked on.
+
+**Aida Knezevic:** Whenever something is ready for your review, it appears in this view with a link to the Google Doc. We can also set up an Airtable automation to send a message to Slack when a draft is ready, so you don't have to check manually.
+
+**Dave Abbaszadeh:** Great.
+
+**Dave Abbaszadeh:** Let's set that up.
+
+
+**Aida Knezevic:** Once we publish, we update the URL and date, creating a database of published work in a dedicated view. We have multiple tabs: Keywords (a huge database of competitor keywords—many irrelevant), URL (all competitor URLs, currently truncated), and topic clusters. The Assignments tab is most important.
+
+**Dave Abbaszadeh:** You didn't write all the content we've already published, right? We're ranking for many keywords with that existing content. I want to track new GrowthX content separately from legacy, even the legacy we're not refreshing—it's having an impact. I have a full list of URLs and publish dates. Can we track old and new separately?
+
+**Aida Knezevic:** Yes. We can update the Looker dashboard to track refreshes and new content separately, and include all legacy content for the complete picture.
+
+**Aida Knezevic:** Yeah, totally.
+
+**Dave Abbaszadeh:** Great.
+
+**Aida Knezevic:** That's an easy data for you.
+
+**Stephanie Gilliam:** I include progress in our, in my exec update on how we're doing with this stuff.
+
+**Stephanie Gilliam:** So, and our CEO was a prior CMO, so he likes to, like, drill down into a lot of things.
+
+**Stephanie Gilliam:** I'm assuming Dan, who you met on the call, is looking at this stuff as well.
+
+**Stephanie Gilliam:** Do they have access?
+
+**Stephanie Gilliam:** So the things that you asked for at night to review those documents, like the calibration documents, and then this.
+
+**Stephanie Gilliam:** Who has, is it anyone with a witness.ai email or should I give you their emails to also get, because as we progress, I'll want him to be able to look at things and come in here when I add links in my updates.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** So for the articles themselves, you have the ability to share them with anybody you want.
+
+**Stephanie Gilliam:** However, the easiest thing for us to do is you can just give me a list of emails and then I'll add them to everything.
+
+**Stephanie Gilliam:** So right now, the only people who have access to the content calendar, for example, are you three, and I would need to add additional people.
+
+**Stephanie Gilliam:** Okay, yeah.
+
+**Stephanie Gilliam:** I think it's probably just two more people.
+
+**Stephanie Gilliam:** Dan, what do you think?
+
+**Stephanie Gilliam:** I'm thinking, Sharat, I'm thinking Dan and Rick, probably.
+
+**Stephanie Gilliam:** Okay.
+
+**Sharat Ganesh:** I agree.
+
+**Aida Knezevic:** Okay, that sounds good.
+
+**Stephanie Gilliam:** I can add them.
+
+**Stephanie Gilliam:** I find that when I don't provide access, you would think our CEO wouldn't care about the details, but when I don't give access to these docs, he starts to think nothing's happening.
+
+**Aida Knezevic:** So I'm this is great work.
+
+**Aida Knezevic:** want to make it.
+
+**Aida Knezevic:** Yeah, I know.
+
+**Aida Knezevic:** Trust me.
+
+**Aida Knezevic:** I know.
+
+**Aida Knezevic:** We've had situations before where sometimes CEOs are just kind of too busy with other stuff.
+
+**Stephanie Gilliam:** It's happening here.
+
+**Stephanie Gilliam:** Yeah, and he just, because he was a prior CMO, he is interested in this stuff.
+
+**Stephanie Gilliam:** So I just want him to be able to drill in when he's ready.
+
+**Aida Knezevic:** Yeah, yeah, totally.
+
+**Aida Knezevic:** No, we can do that.
+
+**Aida Knezevic:** And just for reference, as we kind of progress through the sprint and get towards the end of it, I prepare the deliverables, all the progress we made, the early signals.
+
+**Aida Knezevic:** So you can also share that internally with anybody that's interested.
+
+**Stephanie Gilliam:** Okay, cool.
+
+**Aida Knezevic:** Okay, so when it comes to the topics that are in here, you, you know, feel free to go through.
+
+**Aida Knezevic:** And if there's anything that you want us to prioritize or deprioritize or just not do, you can just drop a comment.
+
+**Aida Knezevic:** If everything looks good, then you can just tell us, look, things look good.
+
+**Aida Knezevic:** And then we can prioritize based on just the content strategy.
+
+**Aida Knezevic:** Right now, because your blog is relatively new, I wouldn't start off with the verticals.
+
+**Aida Knezevic:** So I would build up to the content in the different verticals.
+
+**Aida Knezevic:** I would first start off with the cluster, then AI governance, compliance, and shadow AI.
+
+**Aida Knezevic:** And then we can also do some product comparisons.
+
+**Aida Knezevic:** But I would try to build like a baseline there first, kind of continue what you've already been doing, and then build up to the different verticals.
+
+**Aida Knezevic:** And then the content in the different verticals, I want to highlight that all of these articles have a security angle.
+
+**Aida Knezevic:** So, for example, here, you know, when comes to using like chatbots in the hospitality industry, the title would also like, and these titles are draft titles, by the way.
+
+**Aida Knezevic:** So they're going to change once we start drafting.
+
+**Aida Knezevic:** The article, but each of these needs to have a security angle because in all of these verticals, you might be competing with companies that are just not even security related companies.
+
+**Aida Knezevic:** They're just, you know, have like platforms for retailers or e-commerce companies.
+
+**Aida Knezevic:** So it's important to have that angle in the title.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** So the content calendar is ready for your review.
+
+**Aida Knezevic:** And then I also shared the images in Slack.
+
+**Aida Knezevic:** So if you have any feedback, feel free to drop it in Slack and I can take it back to Katya and she can rework the pipeline.
+
+**Aida Knezevic:** For the performance monitoring, like I mentioned, we already have a Looker dashboard set up for you.
+
+**Aida Knezevic:** I can do a walkthrough of this next week.
+
+**Aida Knezevic:** So we don't.
+
+**Aida Knezevic:** Um.
+
+**Aida Knezevic:** Because it takes a little bit of time, or I can record a loom for you.
+
+**Aida Knezevic:** But it's a seven-page report, and it combines data from Google Analytics 4 and Google Search Console.
+
+**Aida Knezevic:** The most relevant page is the cohort report, which will show GrowthX content compared to the rest of the website.
+
+**Aida Knezevic:** So once we start publishing, every URL will be assigned to the topic cluster it belongs to, and it's going to show up here.
+
+**Aida Knezevic:** So then we'll be able to filter, like, remove non-growthx URL, so you can just see how our content is performing week over week.
+
+**Aida Knezevic:** You can filter the session medium.
+
+**Aida Knezevic:** This is data from GA4, so it has, like, a bunch of different sources.
+
+**Aida Knezevic:** And then we can also drill down into the data here.
+
+**Aida Knezevic:** Again, this is data from Google Analytics, so it contains data from all.
+
+**Aida Knezevic:** All different sources.
+
+**Aida Knezevic:** And then this table is just data from Google Search Console, which is organic traffic data.
+
+**Aida Knezevic:** So it includes insights into the average position of each URL, what's the click-through rate, how many clicks did it get in a given time period.
+
+**Aida Knezevic:** This is the page that I think we're going to update so that it reflects the graphs that they've requested.
+
+**Aida Knezevic:** So I'm going to just talk to Talal to see how we can do that.
+
+**Aida Knezevic:** And then we also have an LLM referral breakdown report.
+
+**Aida Knezevic:** And this shows all the pages on your website that are getting traffic from different LLMs.
+
+**Aida Knezevic:** So you can see here, and this is starting from this year, but you can adjust and go back further back in time.
+
+**Aida Knezevic:** But you can see like the majority of the referral traffic comes from ChatGPT and Perplexity.
+
+**Aida Knezevic:** And then if you scroll down, you can see what are the pages that are getting the most traffic from LLMs.
+
+**Aida Knezevic:** Vivaldu and
+
+**Aida Knezevic:** And your blog is actually getting a lot of traffic from LLMs since the beginning of the year.
+
+**Stephanie Gilliam:** Dave's been putting a lot of work into it.
+
+**Stephanie Gilliam:** It's not surprising me.
+
+**Aida Knezevic:** mean, he's like, it's been consistent, persistent, and focused.
+
+**Aida Knezevic:** Yeah, yeah, absolutely.
+
+**Stephanie Gilliam:** Which is what you mean with this right now.
+
+**Dave Abbaszadeh:** Yeah, and this is very consistent with what we see with other clients.
+
+**Aida Knezevic:** The blog and any organic content gets a lot of traffic from LLMs.
+
+**Stephanie Gilliam:** Do you ever see, are you concerned that none of our webpages are?
+
+**Stephanie Gilliam:** I mean, should we start actually adding some webpages that do that?
+
+**Aida Knezevic:** You mean products?
+
+**Stephanie Gilliam:** Or just like, anything in the top, I don't know.
+
+**Stephanie Gilliam:** It just feels like it's all blog URLs.
+
+**Aida Knezevic:** Yeah, I think that, I mean, the product pages should definitely get more traffic.
+
+**Aida Knezevic:** My thinking is that once we start publishing content that's more commercial, where you're comparing your...
+
+**Stephanie Gilliam:** ...against competitors, we'll be able to add those links into that content so that LLMs can discover those pages.
+
+**Stephanie Gilliam:** Okay, so you would add, so on our, for example, on our product page for Witness Protect, we would have a call to action there that would go to a blog post?
+
+**Stephanie Gilliam:** Is that what you're saying?
+
+**Dave Abbaszadeh:** The other way around. The LLM will pick up the blog post because it's content-specific, and they'll follow the links to the product pages, surfacing those pages more often.
+
+**Dave Abbaszadeh:** We could go back right now through all existing content and add those links.
+
+**Stephanie Gilliam:** Right, we're, yeah.
+
+**Stephanie Gilliam:** We don't have people going very deep in our website, so any way we can get people to our product pages would be great.
+
+**Aida Knezevic:** Yeah, I also want to talk CTAs on your blog, but that's something we can discuss next week.
+
+**Aida Knezevic:** I can also create, like, CTA text for CTAs on your blog, so that goes to your product pages.
+
+**Aida Knezevic:** ...
+
+**Aida Knezevic:** Or to your demo page. And then you can incorporate those banners into content. But we also want the content to help people discover the rest of your website.
+
+**Aida Knezevic:** And then you can, I know you're using WordPress, but we can discuss how we can like incorporate those banners into content.
+
+**Aida Knezevic:** But we also want the content to help people discover the rest of your website.
+
+**Stephanie Gilliam:** Like we don't want the session to end at the blog post.
+
+**Stephanie Gilliam:** Right.
+
+**Stephanie Gilliam:** Or just our homepage.
+
+**Stephanie Gilliam:** I feel like there's an opportunity to go deeper, right?
+
+**Stephanie Gilliam:** We get a lot, I mean, Dave can speak to it more, but he just did a big analysis of our website.
+
+**Stephanie Gilliam:** And we, we, we got to get, push it deeper.
+
+**Aida Knezevic:** Mm-hmm.
+
+**Dave Abbaszadeh:** Absolutely.
+
+**Dave Abbaszadeh:** thing I noticed, if can go back to the looker thing, and this is like a bigger problem that we have right now is this not set.
+
+**Dave Abbaszadeh:** Look at the landing page, like.
+
+**Aida Knezevic:** Oh, yeah.
+
+**Dave Abbaszadeh:** Not set.
+
+**Dave Abbaszadeh:** It's a big portion and we're seeing, I it's not like a huge portion of our traffic, but there is some there.
+
+**Dave Abbaszadeh:** I have no real way of diagnosing it that I know of.
+
+**Dave Abbaszadeh:** And I just didn't know if you guys had, like, if there's anything there.
+
+**Dave Abbaszadeh:** Where, because that seems like, what, what is the LLM picking up there?
+
+**Dave Abbaszadeh:** I just, just, just, just, just,
+
+**Dave Abbaszadeh:** It seems like an interesting thing.
+
+**Aida Knezevic:** So I don't know if there's anything you guys connect with on that.
+
+**Aida Knezevic:** Not set is a Google Analytics issue.
+
+**Aida Knezevic:** So there is a real homepage behind this, like a real page behind this.
+
+**Aida Knezevic:** It's just that GA4 wasn't able to collect any data on the session.
+
+**Aida Knezevic:** This is fairly an issue.
+
+**Aida Knezevic:** And we have some clients that have started using other analytics platforms like PostHog to monitor their website because GA4 was reporting a lot of not set traffic.
+
+**Aida Knezevic:** And it could be due to like cookie permissions, people using an ad blocker.
+
+**Dave Abbaszadeh:** So it could be different things.
+
+**Dave Abbaszadeh:** Okay, okay.
+
+**Dave Abbaszadeh:** I want to make sure that we're not, yeah, that the tracking, especially once we started getting your stuff, that it's not, it's actually being tracked.
+
+**Dave Abbaszadeh:** And we just get the accurate data.
+
+**Dave Abbaszadeh:** So that's, that's interesting.
+
+**Dave Abbaszadeh:** Okay.
+
+**Dave Abbaszadeh:** Thank you for the context.
+
+**Aida Knezevic:** Yeah, no problem.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** I know we have like two minutes left.
+
+**Aida Knezevic:** So I do want to focus on the forecasting that we prepared for you.
+
+**Aida Knezevic:** So I know last week we're talking a little bit about like the results, potential results, what you can expect.
+
+**Aida Knezevic:** And I prepared a simple chart for you that's based on the monthly search volumes of the 70 plus keywords that we're targeting with our initial batch of content.
+
+**Aida Knezevic:** And at an average publishing rate of 22 pieces per month, we would cover these topics in less than four months.
+
+**Aida Knezevic:** So the long-term traffic growth would be even greater than shown, but it stops at a specific point.
+
+**Aida Knezevic:** And then the traffic gains are just incremental.
+
+**Aida Knezevic:** You should have access to this.
+
+**Aida Knezevic:** So, yeah, so this is kind of the overall growth that's based just on the projected growth of the target keywords.
+
+**Aida Knezevic:** Again, I want to, we do need to emphasize that this is not an exact science.
+
+**Aida Knezevic:** So what we're doing.
+
+**Aida Knezevic:** Here, we're just using the search volume of the target keyword, but a blog post can rank for dozens of keywords.
+
+**Aida Knezevic:** So it could be, you know, it could be doing really, really well for multiple keywords, and its growth could be a lot higher than this.
+
+**Aida Knezevic:** But this is just to give you an idea of the projected growth.
+
+**Aida Knezevic:** And again, with the companies that we work with, the growth is pretty consistent, like month over month, once we start publishing consistently.
+
+**Dave Abbaszadeh:** And then, is this...
+
+**Dave Abbaszadeh:** Sorry, Stephanie, go ahead.
+
+**Stephanie Gilliam:** What do you do when it starts leveling out like that?
+
+**Stephanie Gilliam:** You come up with new content clusters, I'm assuming, and...
+
+**Aida Knezevic:** Oh, yeah, absolutely.
+
+**Aida Knezevic:** So even, like, way before month four, we would go and, like, find additional topics to further fill out the clusters.
+
+**Aida Knezevic:** And at the same time, we'd be measuring the results, trying to see, like, evaluating what's working and what's performing really well.
+
+**Aida Knezevic:** We would also have insights from you based on just how you're tracking leads on your website, so we could see what's performing really well in terms of maybe, like, even conversions.
+
+**Sharat Ganesh:** I don't know, like, what good looks like in terms of, I know what our baseline is.
+
+**Sharat Ganesh:** I don't know.
+
+**Sharat Ganesh:** What should we, should we be expecting 900?
+
+**Sharat Ganesh:** Like, should we be expecting 2,000?
+
+**Sharat Ganesh:** I don't know.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** No, I absolutely understand the question.
+
+**Dave Abbaszadeh:** And I can answer, I need one answer really quick.
+
+**Dave Abbaszadeh:** Is that, Sharat, the one thing is it's very not much not apples to apples because our industry is new and the search volume on these terms is extremely low compared to legacy.
+
+**Dave Abbaszadeh:** So if you were looking at, like, say, DLP, you're looking at hundreds of thousands of searches per month, 600,000 searches per month, right?
+
+**Dave Abbaszadeh:** So you would expect to take a much larger jump initially.
+
+**Dave Abbaszadeh:** These search terms are much lower right now.
+
+**Dave Abbaszadeh:** So it's going to be a slow increase until they start to be more prevalent.
+
+**Dave Abbaszadeh:** And then it should, I think, we'll start searching for these things.
+
+**Sharat Ganesh:** Got it.
+
+**Aida Knezevic:** I think, and also another thing, know, Sharat, you requested last week is kind of understanding how our other clients.
+
+**Aida Knezevic:** In the security space have progressed, and I am working on getting that data.
+
+**Aida Knezevic:** just was a really busy week setting up your content calendar.
+
+**Aida Knezevic:** So I do want to get you that data so you can kind of see how it's progressed.
+
+**Aida Knezevic:** There's just a lot of variables.
+
+**Aida Knezevic:** For example, we might be working with a security company that has an older domain, so their domain authority is higher.
+
+**Aida Knezevic:** So they could start ranking super high and getting a lot of traffic right away.
+
+**Aida Knezevic:** Another client could be a startup company with a domain authority of like five.
+
+**Aida Knezevic:** So when we start publishing, we're fighting like an uphill battle with the traffic.
+
+**Aida Knezevic:** So there's just a lot of variables there.
+
+**Aida Knezevic:** So it's hard to compare.
+
+**Aida Knezevic:** But yes, that is something that I do want to provide to you.
+
+**Aida Knezevic:** And then for what I want to say, and there's also traffic.
+
+**Aida Knezevic:** But then, you know, it's important to get traffic and like increase your brand awareness.
+
+**Aida Knezevic:** But we also want to make sure that the traffic is qualified and it's good quality traffic.
+
+**Aida Knezevic:** So we're trying to balance those two things.
+
+**Dave Abbaszadeh:** That actually brings another point is, is there any way for us to understand bot traffic versus actual humans?
+
+**Dave Abbaszadeh:** Because obviously, yeah, there's gonna be a lot more scrapers and things and we don't want to just, that's like not quality there.
+
+**Aida Knezevic:** So yeah, yeah.
+
+**Aida Knezevic:** Let me take this back to the team.
+
+**Aida Knezevic:** I know that there's been some discussions around that, how we can monitor and track that.
+
+**Dave Abbaszadeh:** I think with, yeah, let me, I'll get back to that.
+
+**Dave Abbaszadeh:** Yeah, no problem.
+
+**Aida Knezevic:** And then really quickly, I added all the three of you to your check that workspace.
+
+**Aida Knezevic:** And I did notice that Stephanie set one up for you internally, but this is the workspace where I've uploaded different prompts.
+
+**Aida Knezevic:** They're currently collecting data.
+
+**Aida Knezevic:** So there are 63 prompts that are just beginning to track data.
+
+**Aida Knezevic:** And they're based on the target keywords that we're targeting in our content calendar.
+
+**Aida Knezevic:** I've added all of your...
+
+**Aida Knezevic:** Competitors here.
+
+**Aida Knezevic:** I added like your context, the audience personas, the products and features.
+
+**Aida Knezevic:** So I can, we can run through this next week, but I just wanted to let you know that you have an invite to this workspace in your inbox.
+
+**Dave Abbaszadeh:** I am in there and I might've messed something up, but like when I go to overview, it's like a whole setup thing.
+
+**Aida Knezevic:** It doesn't show me any of that stuff.
+
+**Aida Knezevic:** So yeah.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** So what you need to do now, they're working on fixing that.
+
+**Aida Knezevic:** What you need to do is just set up a workspace.
+
+**Aida Knezevic:** You can set up a workspace for witness.
+
+**Aida Knezevic:** And then once you do that, you'll be able to look at all the workspaces that you've been added to, and you'll be able to see this one.
+
+**Dave Abbaszadeh:** Okay, great.
+
+**Dave Abbaszadeh:** So I'll just continue that process until I get in.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Perfect.
+
+**Aida Knezevic:** And you can select, select the free trial, the free, the free tier.
+
+**Dave Abbaszadeh:** Okay, great.
+
+**Dave Abbaszadeh:** Thank you.
+
+**Sharat Ganesh:** I got it.
+
+**Sharat Ganesh:** Thank you.
+
+**Aida Knezevic:** got a drum job, but thank you.
+
+**Aida Knezevic:** Thank you so much.
+
+**Aida Knezevic:** right.
+
+**Aida Knezevic:** I'll see you next week.
+
+**Aida Knezevic:** Bye.
+
+**Dave Abbaszadeh:** So Ada, oh, sorry.

@@ -1,0 +1,1849 @@
+{
+    "title": "Daily CM Standup to discuss progress and blockers",
+    "meeting_title": "Daily CM Standup to discuss progress and blockers",
+    "url": "https://fathom.video/calls/348761290",
+    "created_at": "2025-07-11T13:17:05Z",
+    "scheduled_start_time": "2025-07-11T13:00:00Z",
+    "scheduled_end_time": "2025-07-11T13:15:00Z",
+    "recording_id": 73596935,
+    "recording_start_time": "2025-07-11T13:02:15Z",
+    "recording_end_time": "2025-07-11T13:16:58Z",
+    "calendar_invitees_domains_type": "only_internal",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "This has been like, I like, I was on such a good flow this morning and I tried to do that article about, hold on, which one was it?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Avoid business disruption during data platform changes.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And I just about finished it.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And then I realized something that, okay, I don't know how much you know about data, like data.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I know a little bit, yeah, because I've written about data governance and everything.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So the issue, the confusion I had, I have moved on to another article that I'm halfway through that I'm hoping to finish today because I just couldn't, I didn't want to, I needed to finish something today.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So the issue I was having is that like, it mentions data migration strategy and it also mentions platform changes.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So data migration can happen like a, you know, on a whole bunch of things.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And so I wanted to ask you, I know with prophecy, they make a .",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Big thing about, you know, transitioning from your old data, like legacy data to the modern one.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Should I focus the article just on that alone?",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And because I know like the article that it generated was about like a whole bunch of like it kind of applied to migrating data across the business in like multiple ways.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And so one of the things it mentioned was like customer satisfaction will tank if there's downtime.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Because maybe you can't do your services.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And that's not the case if it's like prophecy you're using.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "It's a data analysis.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like it's for data analysis or AI.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So that's not going to impact the customer.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "You know what I mean?",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So this is two things.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "It's one, should I just talk about data platforms?",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And two, should I focus on?",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Yeah, prophecy is going to tie in later with the scenario in that article is about data migration in a way that it can actually,",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Like if a company is moving its data from one platform to another, or one system to another, and then they have to, if there's downtime because of that, and customers can't avail their services during that time.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "But do you know what I mean?",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like if you, like if we're looking at in general, let's say you're migrating your like customer relationship management software, the data and that.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "There would be downtime in that and the service teams would struggle and that wouldn't affect the customer, but let's say something, you're moving your data platform and the downtime in that means that you don't have access, you can't have quick access to and analyzing your data.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So business insights, that wouldn't really affect the customer.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah, but that's going to affect like your internal team.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "But downtime can happen in other ways too, like for example, when we moved from air ops to Atlas, like there was an entire week.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Because we were working on projects where it wasn't immediately needed for us to send articles, but there were a lot of other customers that are used to receiving 10, 5, 8 articles per week, and a lot of the managing editors were sending out messages that, hey, this week we are doing an internal audit kind of thing.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "But you see, that's not a data platform.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "It's still data migration, though.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, so that's the question.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Do I talk about data migration, like all the different scenarios of data migration, or do I just focus it on data platforms?",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Because that's related.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "would say we touch on, we talk about data migration in general.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And then we can mention, like, most of the migration happens on platforms, right?",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Because if you think about it, Aerox, it was a platform, and your Atlas is also a platform.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "medalist, So, yes.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So, can",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "All the files and all the workflows, et cetera, that used to live on Aerofs, they now live on Atlas.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So in a way, we did, like, it was a platform migration.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So we wouldn't, but we wouldn't use Prophecy for that, like, if we were the customer.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So could I just mention it about.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Yeah, it's not the case, but the topic is of interest to their target market.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "That's why we are.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, so talk about platforms, like, you know, lots of different platforms.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And at the end, I can say, like, if you're moving your data, like, if you're migrating data between data platforms, like, move to Prophecy, basically.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like, you know, we can.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "No, Prophecy is like the AI assistant kind of thing, right?",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "But would you, would we use Prophecy when we were moving from Aerofs to Aerofs to Atlas?",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "You know what I mean?",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "No, I don't think.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I don't.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Because I think, because Prophecy is literally.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Helping you transform data so that it's ready for analytics and AI.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So that's a very specific use case for, it's not data for.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So your main question is how are you going to tie it back to prophecy?",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Yeah, so if we're making it general, what would be the CTA at the end?",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like, how can I tie this into prophecy?",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Can I?",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Let me do some homework on it.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I'm, I have been, my brain has just been going around in circles.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like, I'm, it's very, yeah, it's, it's complicated.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And I want to get it right, but it's not helping.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, so let me find the answer for that.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "But I think even though that I know that prophecy doesn't help with data migration directly, it's not a data migration tool.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "But the topic is of interest to their target audience.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Just like, for example, we write for...",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And after-shoot is an AI tool for photo editing and that professional photographers use.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So we write articles about, is this camera better for this thing?",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Or is this what kind of lights you should use when you're doing a certain kind of photo shoot?",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And even though they, like after-shoot doesn't do any of that, like they don't sell cameras, they don't sell lights, but it's of interest to their audience and you want to talk about things.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So maybe at the end I can just say, like, move your data platform, migrate to Prophecy, something like that, with ease.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And then mention, like, you know, how they, why they're a better platform to move to.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And then I think there is a case study on their side about how one company migrated to Prophecy and how successful that's been for them.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So maybe I could, maybe I could talk about Prophecy helps with ETL migration and modernization, that's what I'm getting.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Like, they do ETL, right?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So we can work that in.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Because extraction, transformation, loading.",
+            "timestamp": "00:07:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "That's transforming data.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "That's not my grade.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "You extract it, you transform it, and then you load it up.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So you're extracting it from one source, and you're loading it to the other.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah, but that's not data.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "You know what I mean?",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "That's not moving from one system.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "That's not, I don't think that's, I think that's just part of data migration.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I don't know, man.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I'm so overwhelmed.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Maybe I would just finish the article, and then I'll send it over to you, and you can help me do that.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah, I can, I can definitely.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Because I think that might help a few.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, I'm going to go back to the original article I had, because I think it was okay.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, okay, so that means I've got two partially finished articles.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So let me, let me try get at least one finished and send it over to you for approval.",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And then how many, will we be delivering like four this week?",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Hopefully that will be four.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So by the, by the end of the day, I'll just edit everything.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And then I'll add it.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I'll just move it to the client review section in Airtable.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And then on Monday, I will tell them that there's four articles.",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And they, he hasn't, he hasn't reviewed the four that were there from last week and they haven't published, but I saw he mentioned that they're going to publish the ones that I staged on Monday.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So we are a little bit behind, but I noticed the past CM, like sometimes he would be staging like 10 articles, which means that like for maybe two weeks worth of articles, he would stage.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I'm a little bit stressed if I have to do that because that takes away time from article generation, but yeah, I'll just get to it when I get to it.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "I found something for, let me share an article.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So they've already done an article on data migration.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Modernization.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And we can take inspiration from the article.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So they're talking about ETL towards the end if you look at it.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Connect data migration.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Let's integrate.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Significant.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So they're mentioning, like, you're moving away from these traditional legacy systems to the new ones.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "We can help you with that.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "No, we can help you with that.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "We are the better one.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I will try.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I've noticed, like, I think, I don't know if you sat and read through, like, articles on their sites.",
+            "timestamp": "00:09:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like, I think they're okay.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "But I find a lot of them are just not, I don't know how to put into words, like, what's wrong with them.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "But it's not, like, clear.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And it's not, like.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Is it, like, the ones that we did, or?",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "The ones that.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "The previous CM did because he put them through Gemini and so that it took the webinar content and replaced it and put it.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And I feel like it's just, it just, it's good information that it's putting in, but it doesn't, the article doesn't flow.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "The article doesn't match what, you know, what I would say if I were doing it manually, if I found that information online.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So, yeah, I'm trying to make these new articles like, you know, be information that you would expect to find.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I hope that makes sense, but yeah.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And then, I think we'll be moving towards more thought leadership content.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Show this to you.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "this is.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah, that's the thing.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I'm excited to have topics that actually make sense because a lot of the top, like the current topics in Airtable are all over the place and they just don't have a clear idea.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And that's where my confusion and the AI just can't get it right.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So I think this is really good.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So if you look at these topics, like they're, I'm just going to.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "this",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "I've made a lot of them, or hopefully all of them, for approval towards the end of the day.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "I'm going to share this sheet, and I'm going to put it on the content OS AIR-off thing as well.",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "If you look at a lot of these topics, they're not your general data validation, blah, blah, blah.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "They're talking more about how to use data at an organizational level, etc.",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "They are more thought leadership, and less focused on keywords, even though they have keywords associated with them.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "They're less focused on keywords, and more topic-oriented, more discussion-oriented.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And hopefully, this is in line with the new direction that they want to go in.",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Yeah, because obviously, we don't want to be one of the...",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I mean, it helps, but we're not one of those websites that just has a repository of what is this, and what is that.",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And like, you know, oh, sorry, my screen flashed.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "You know, we're not like...",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "We're not like...",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And information that we want to be, as you said, like thought leaders, that's actually, I remember I sent you Watermark, they used to like go through like recent, the content team used to go through like recent news and what people were talking about and write articles about that, which is kind of what you're saying you're going to, you're doing now.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And that makes sense.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like these people don't need how to guides, they, they need, they want, they want to stay up to date with what's happening in the industry.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So yeah, that makes a lot of sense.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And hopefully will be easier.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Let's see if they approve these titles, but they looked at it, like I showed them some of these titles in the meeting as well.",
+            "timestamp": "00:12:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And Matt was like, okay, this is the right direction.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "it's going to be open.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Hopefully it's good.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Well done.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I'm excited about it.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And as long as like the titles just make sense, because right now it's the, yeah, I feel like the direction and the titles in Airtable just aren't good.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "And I don't know if that's just me.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I don't know if you feel that way.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "And the industry is also going to move in that direction very soon because",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "AI overviews, number of clicks are going down, and more and more people are going to AI for top of the funnel stuff now, as compared to last year or the year before.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "So I think thought leadership is where it's at, and Atlas is going to struggle with that big time, unless they give us a good input box where we can give the talking.",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yes, that's the thing.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like, I want to be able to influence the output, and it's very difficult.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like, even in the outline, if you say, please introduce the topic and create a bullet list, it just completely ignores that instruction.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Like, I need to be able to give it an outline with instructions and have it actually follow them.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "So, yeah, we'll have to see how it goes.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "But, yeah, I think, yeah, I mean, ultimately, I'm trained to produce high, like, really high-quality articles, and I want to deliver those, and I think I'm just struggling a bit, trying to make, you know, get the AI to do that.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "But hopefully, I'll get",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Ehtisham Hussain",
+                "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+            },
+            "text": "What you get a new idea about where Atlas could be better, just take a screenshot and review the ticket.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, I will do that.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I will definitely make a pro.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Have a nice day.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, what time are you finished at?",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "I think six hours from now, six and a half hours from now.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "perfect.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Okay, I should be able to get it in the article to you by then.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Thank you a nice day and have a nice weekend.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Yes, you too.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Saskia Wartnaby",
+                "matched_calendar_invitee_email": "saskia@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:14:30"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Daily CM standup to discuss content strategy, article progress, and challenges with AI-assisted writing for Prophecy.](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Saskia struggling with article focus and tying content back to Prophecy's offerings](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=0.0)\n  - [Ehtisham introduced new thought leadership-oriented content direction](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=0.0)\n  - [Team aiming to deliver 4 articles this week, slightly behind on publishing schedule](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=480.0)\n  - [Atlas AI tool limitations affecting content quality and workflow efficiency](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=0.0)\n\n## Topics\n\n### Article Focus and Relevance\n\n  - [Confusion about focusing on data migration broadly vs. data platform changes specifically](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=210.0)\n  - [Challenge in relating general data migration topics to Prophecy's specific ETL and modernization offerings](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=0.0)\n  - [Decision to discuss data migration in general, mentioning platforms as a major use case](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=220.0)\n  - [Suggestion to tie in Prophecy's ETL migration and modernization capabilities at the end of the article](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=270.0)\n\n### Content Strategy Shift\n\n  - [Moving towards thought leadership content instead of keyword-focused articles](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=634.0)\n  - [New topics focus on organizational-level data usage and industry discussions](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=680.0)\n  - [Ehtisham created a sheet with new topic ideas aligned with this direction](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=660.0)\n  - [Matt (likely a stakeholder) approved of this new content direction](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=747.0)\n\n### AI Writing Challenges\n\n  - [Difficulty in getting Atlas AI to follow specific instructions for article structure](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=816.0)\n  - [Struggle to influence AI output to match desired quality and flow](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=823.0)\n  - [Need for better input options in Atlas to guide AI-generated content](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=816.0)\n  - [Suggestion to document Atlas improvement ideas via screenshots and feature requests](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=840.0)\n\n### Workload and Deadlines\n\n  - [Aiming to complete 4 articles this week](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=480.0)\n  - [Saskia working on finishing at least one article today](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=466.0)\n  - [Ehtisham to edit all articles by end of day](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=660.0)\n  - [Articles to be moved to client review section in Airtable](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=492.0)\n  - [Slight backlog in client reviews and publishing of previous week's articles](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=505.0)\n\n### Industry Trends\n\n  - [Decreasing effectiveness of AI-generated overviews and basic content](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=780.0)\n  - [Shift towards thought leadership as AI handles more top-of-funnel content](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=780.0)\n  - [Recognition that competitors may struggle with thought leadership content](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=780.0)\n\n## Next Steps\n\n  - [Saskia to complete and send at least one article to Ehtisham for review today](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=847.0)\n  - [Ehtisham to edit all articles by end of day](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=660.0)\n  - [Move completed articles to client review section in Airtable](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=492.0)\n  - [Saskia to inform client of 4 new articles on Monday](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=498.0)\n  - [Team to implement new thought leadership content strategy pending final approval](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=699.0)\n  - [Continue documenting Atlas AI tool improvement ideas](https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE?tab=summary&timestamp=840.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Finish at least 1 article, send to Ehtisham for approval\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:07:28",
+            "recording_playback_url": "https://fathom.video/calls/348761290?timestamp=448.9999",
+            "assignee": {
+                "name": "Saskia Wartnaby",
+                "email": "saskia@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Edit all Prophecy articles by EOD\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:07:55",
+            "recording_playback_url": "https://fathom.video/calls/348761290?timestamp=475.9999",
+            "assignee": {
+                "name": "Ehtisham Hussain",
+                "email": "ehtisham@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Move approved articles to client review section in Airtable\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:03",
+            "recording_playback_url": "https://fathom.video/calls/348761290?timestamp=483.9999",
+            "assignee": {
+                "name": "Saskia Wartnaby",
+                "email": "saskia@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Share new topic ideas sheet, add to content OS AIR-off\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:49",
+            "recording_playback_url": "https://fathom.video/calls/348761290?timestamp=649.9999",
+            "assignee": {
+                "name": "Ehtisham Hussain",
+                "email": "ehtisham@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Create review tickets w/ screenshots for Atlas improvement ideas\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:13:49",
+            "recording_playback_url": "https://fathom.video/calls/348761290?timestamp=829.9999",
+            "assignee": {
+                "name": "Saskia Wartnaby",
+                "email": "saskia@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "feyisayo@growthx.ai",
+            "email": "feyisayo@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jessica Nicole Manificiar Gayo",
+            "email": "jessica_nicole_manificiar@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Ehtisham Hussain",
+            "email": "ehtisham@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Ehtisham Hussain"
+        },
+        {
+            "name": "Saskia Wartnaby",
+            "email": "saskia@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Saskia Wartnaby"
+        }
+    ],
+    "recorded_by": {
+        "name": "Saskia Wartnaby",
+        "email": "saskia@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/9oC4t7h4i_ncgRiyJDKBJu8YvTsEvXWE",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

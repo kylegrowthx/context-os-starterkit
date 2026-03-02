@@ -1,0 +1,3806 @@
+{
+    "title": "Redis <> GrowthX - Weekly Sync",
+    "meeting_title": "Redis <> GrowthX - Weekly Sync",
+    "url": "https://fathom.video/calls/556077761",
+    "created_at": "2026-02-05T18:02:14Z",
+    "scheduled_start_time": "2026-02-05T17:30:00Z",
+    "scheduled_end_time": "2026-02-05T18:00:00Z",
+    "recording_id": 120115074,
+    "recording_start_time": "2026-02-05T17:29:42Z",
+    "recording_end_time": "2026-02-05T18:01:50Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Sorry about that.",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Got stuck in another meeting.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No worries.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I figured that much.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "How are you?",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Doing well.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How's your week going?",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "It's going good so far.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "What about yours?",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Pretty good.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's a little quieter than normal, which is always welcome.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, that's nice.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Deeper work done and got to spend a little time getting your guys' January performance report together.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I think it might just be me.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Reed might join.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I'm not sure.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "She was on the last call with me.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And then Feng Lin will be unable to join today.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But I do have a few things as well for you.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Do you want to start?",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So the first thing is, I know I've already asked you, Jim had suggested another topic for a blog that I passed over to you all.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And he hasn't.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Another one.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I wanted to see what that process is because I know you all have like slated blogs too every week.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So I wanted to get your feedback on that.",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Again, this one is already drafted and it looks like a fair, like pretty simple blog.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "It's kind of more of like a what is title.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So I just wanted to see what Gerald's thoughts are on like that process when we have, when we do have those requests from PMM.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I mean, feel free to send them over.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You can easily fit them into the schedule and like probably prioritize them since it's something they're interested in.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So for his first one, we're going to work on that one next week.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then this latest one, we can kind of just put it into the queue and have it ready probably in a couple of weeks.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "This is going to be, honestly, I think maybe this one should be priority over the other one.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I can send it over via Slack right now.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And it's about a new feature that's launching with Redis 8.6, I believe.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So I think this one would probably.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Probably, I guess, have more priority over the previous one.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We can easily do that.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay, awesome.",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And then, oh, yes.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So for articles moving forward, and I know you just sent a few in our Slack channel, Fungland is saying we are able to move forward with just publishing without any reviews.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But if you can Slack us once a week with the articles that have been published.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So, you know, just kind of how you're doing already, but just maybe with, like, the links to the articles that were published.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And then we'll forward that over to the PMM team in case they want to, like, feel like skimming.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But, like, we are good to go to just publish automatically.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful news.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And in that, if the last thing was to just, oh, make sure that the table formatting, I know the tables aren't as, like, friendly in our blog template.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But if your team can just.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Just make sure when there are tables, if that formatting is correct.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We've just seen a lot of issues with that lately, just in general.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I caught another one last week after you shared that first article.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so I went back and updated those.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But we've shared it with our publishing team and with Gabby in case she has the time to go in and publish.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we'll make sure tables are handled accordingly.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I don't have access to Sanity, so I'm not sure exactly how it works on the back end.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But I'm assuming just a simple copy-paste of the tables is not working.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "That's probably the issue there.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And that's what I told the team.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I was like, I'm not sure if you worked in Sanity, but it does not auto-format tables.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I've shared kind of the standard table that you guys use, at least the component that's used across other blogs.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I had a ticket out to our engineering team just to ask.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm like, is there other formats that we can do this component in?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so I'm still waiting to hear back from them.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We're doing a bit of a product launch this week.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So they are inundated with other requests, but I'm hoping in the next week or so we can get some clarity on how we might be able to update that component to make it look a little bit more friendly with the rest of the blog.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay, thank you.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, thanks for checking on that.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And then lastly, and since we're going to just have you all publish articles automatically moving forward, would you all be able to tell us, keep an eye out when an article reaches like 150 views in a week to ping us?",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Because that's when we will have PMM like review those just, you know, because that means, you know, the article is getting more views.",
+            "timestamp": "00:07:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So we definitely want to do a more thorough review.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And so I think that's how we figured it out.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So for the blog.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I sent over today.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We're going to skip PMM review for those.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, I think so.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Because the last ones you sent last week are the ones with their review right now.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "We said we would do one last pass-through.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I think going forward, I'll double-check with Fung Lin because she said all articles moving forward.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But I think we still might want to have Jim Tessier, Jim T, review the competitor kind of versus ones.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I was to ask him that.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, and he does have the bandwidth, I think, as he's mentioned, to review those.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "yeah, just those going forward.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But the rest we can go ahead and automatically publish.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And then lastly, I know we need authors for that.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Do we need to provide you, have we provided you all, I guess, based on the topic clusters, which authors to kind of just go between?",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think we've probably discussed it, but it'd be great to have it just in writing.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay, got it.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I'll send a Slack after this.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So with that.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Taking some notes so I don't forget to remind Gabby of this new process.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm sure I'm sharing the right screen here.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we did get six other articles published this week.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So keeping pretty good momentum there.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then these are the ones we just shared.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I will update that to just to publish.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But mainly I wanted to spend today on 26 or January 26 performance.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So just at a high level, we got 18 articles published last month, over 1.7,000 a half hours.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm sure",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so with really good kind of week-over-week acceleration after the holidays, 43 LLM referrals with higher-than-average engagement for any kind of sessions that came from those referrals, which is typically what we do see.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then we had two trial signups for the free cloud trial.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So saw the first conversions, which is really great, especially this early.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Usually, we don't see it until like month three or four.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so given that we're seeing traction there, love to kind of carry on that momentum.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Erik, can I ask a question?",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I promise I will not derail.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, no, please ask questions and derail whenever you feel like it.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Can you, what is the LLM referrals?",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Can you just kind of walk me through that?",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So in our Looker dashboard here, we track specific referrals from LLM.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So majority of your referrals will come from Google.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like over 80% or 90%.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You know, typically LLM referral rate's about 1% to 2% of total traffic, but we track specifically for our content, is it being cited in those kind of LLM chats, and if so, which one is it coming from?",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so we can see kind of which landing page from which platform each of these was referred from.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "So stuff that we track in, it's also tracked in Google Analytics, but this is just a summary view that we pull into LinkedIn.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "So the way, if I'm looking at this dashboard right here, it says 17 sessions.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Sessions are visits, essentially?",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then 8 engaged sessions, which is either 10 seconds on the page or a scroll.",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Scroll or clicking, yeah.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "So this 16,000%, is that because we, is it, is this, is this, sorry, is this, am I looking at a monthly or yearly data here?",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "This is just January.",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "So that makes sense because we didn't have anything that we were tracking before, right?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, we had, we probably had six articles in December.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So overall, just, yeah, this is just siloed to the content that we produce.",
+            "timestamp": "00:12:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, I was going to say this is just to the content that GrowthX has produced for us.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, because we definitely have had a lot of traffic from LLM's re that are just on.",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, so now it's showing all traffic sessions.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah, perfect.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "That's really good.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:12:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "yeah, so it's not as low.",
+            "timestamp": "00:12:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "It was just from our, the content from GrowthX, our new content.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's got new content.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "When you do your monthly review, Erik, I think it'll be good to kind of also see what percent of the traffic is coming or the sessions is coming.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Like, is that percentage coming from GrowthX is growing over time?",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Do you know what I'm saying?",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep, absolutely.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I think our...",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Given that we're just seeing kind of compounding efforts of the content that we're producing, the goal that I've set for our content is to hit over 100 sessions next month.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So doubling it because as we produce more content, that compounds over time.",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so hopefully we'll continue to get picked up by the LLM traffic and continue to see these referrals scale.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, I actually have a quick, now that we're like just staring at this screen, a quick like ask, would it be, would you all be able to add a total table, a total row at the bottom of these tables so we can just like easily see like total numbers?",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let me see if that's able.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay, thank you.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, just to like to add it up so we can easily see how we had like 100 sessions this month from LLMs.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Um, Alexis, can you ping me this link, this dashboard?",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes, of course.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Let me share that with you right now.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I'll throw it in the chat here.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Oh, great.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But also Slack it to you, me too.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah, me too.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So that way it can live in your Slack.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Like, literally, that's how I survive.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, yeah, I always refer back because sometimes Zoom doesn't do a great job.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Actually, Erik, you might have to add, Reet, I don't see access here.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Would we be able to give her access?",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Oh, absolutely.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Remind me of your email real quick.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Reet.mond at Gmail.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Sorry, Reet.mond at Redis.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I have the same email for...",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": ".io, right?",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": ".com.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": ".com.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "For email, it's a .com.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "This is a really great dashboard, though.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Like, you all built it.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "This is one of the cleaner reports I have seen.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": ".",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": ".",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": ".",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": ".",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, we kind of simplified all of the noise that's in Google Analytics to kind of pull it down to what we want to track.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "It's really good.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So just getting through this content output, 20 articles delivered last month and 18 published.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we're almost at parity for one delivered, one published, which I think, you know, given the changes to reducing PMM review, we'll get more and more articles published.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we'll try to get through the backlog and get to over 20 this month.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Just overall sessions, we saw traffic kind of grow week over week at 7.8x from kind of this week two baseline of 122 sessions to 953 by the end of January, which is really great momentum that we're seeing.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "This first week, we don't really count as it was like a half week and a holiday week as well.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Plus we had little content published, but we'll hope to see.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "See this kind of trend continue, even if we did peak at kind of this week's performance, we've already gone over 1,000 sessions this week, and it's only Thursday.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So love to see the momentum here, especially this early with content.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah, nice.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Kind of regional breakout, over the sessions, we saw 67 different countries reached, but 83% are from these top five of the U.S., Singapore, China, India, and Canada.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then if we kind of look at more regional, it's about an even split between the Americas and EMEA, or sorry, AIPAC, with EMEA at about 7%.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "That actually, like, aligns well with, like, what we see from, like, paid traffic, too, with this, like, out.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Pretty.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Singapore?",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "That's interesting.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Surprised to see Singapore on there.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Actually, we've been seeing a lot more.",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Or Singapore traffic from paid as well, Reet.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So it's very interesting.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Like this breakout is pretty aligned with what we're seeing on paid too.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Interesting.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Overall cluster performance.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So if we look at kind of just the topical clusters that we set during strategy, LLM optimization and app speed is pretty much dominating with over 53% of traffic, close to 1,000 sessions.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And obviously we see significant growth, but given a kind of low January or sorry, December baseline, we'll kind of keep track of this.",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But we do like to see kind of overall is the topic cluster performing well.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Average across all clusters, about 34% engagement.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So it's right in line with our average here.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Vector database coming in at number two with 14% of traffic and huge growth.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We did publish quite a bit of content in that cluster.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So stuff that we expect to see a little bit lower than our.",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Our typical engagement rate, and some of that might be because it was, you know, very top of funnel, given it's kind of the fundamentals, but we'll continue to track engagement over time and see if this improves.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If not, we might need to get a little bit more depth in kind of the technical aspects of these Vector Database articles.",
+            "timestamp": "00:18:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "RAG architecture coming in, tied with number two, about 14% of traffic, 235 sessions, and a little bit below average engagement, but stuff that we still see kind of resonating with technical audiences and their interest in these kind of, as RAG and different architectures continue to evolve, especially with the agent space, probably an area where we plan to grow content.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Industry solutions was our highest engagement rate, so probably signals some interest that vertical-specific content is worth probably expanding into.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We do have...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "A couple industry solution articles this week that we just shared.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we'll see if that trend continues with engagement rate and traffic sessions.",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then last is agent performing above average and engagement rate.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We've got quite a bit of agent content from last week that we just published and then this week.",
+            "timestamp": "00:19:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, again, an area we want to keep expanding as, you know, Redis wants to move their perception from cache only to more of the AI agent infrastructure space.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like I mentioned, we had two trial signups, which is, again, this early in the engagement is really good to see.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Again, not something we expected in kind of month two of publishing, but really good to see.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And it wasn't really from kind of our top performers, but from these more kind of technical implementation focused content pieces of LLM content.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Windows in single versus multi-agent systems.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, again, really positive signals that we're seeing trial signups this early.",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I think a larger question for me is I know we're tracking about five or six different conversion events in GA4.",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there other ways that you guys track conversion events or other tools that you use to look at kind of overall attribution?",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "No, I think it would mostly just be GA4, especially from, like, web traffic and, like, organic paid sources.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So, yeah, and I mean, we have Salesforce, but that's already once, like, we get, like, the free cloud trial or the hand raisers.",
+            "timestamp": "00:20:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So, really, we do go off of GA4 data.",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think it's also the most accurate that we have seen.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay, wonderful.",
+            "timestamp": "00:20:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then of those, we'll just pull it up here real quick.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank Thank",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So of these OS events, is there anyone that we would like prioritize as like the most valuable?",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I would say obviously free cloud trial signup towards the bottom and then the hand raisers lead.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "That would be like hand raisers.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "That would be actual users coming in and, you know, filling out our form to book a meeting with us, which ultimately we want that, right, is the ultimate goal.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But when we, what we have seen is obviously we get a lot of free cloud trial signups because it's an easier entry, you know, barrier to entry there.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But yeah, those would be, I think, the two, I guess, priority ones.",
+            "timestamp": "00:21:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Good to know.",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah, that was going to be my question as well is that, you know, do we, the trial signups make sense, but do we have the ability to track?",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "find I you find the out.",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "mean feel researchers.",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "You It's But answer isera-skawer.",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And that's the always, that's the hand raisers one.",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So yes, we are.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "We just like, I guess by default, it makes sense that we're seeing free trials first over hand raisers because I feel like we always like see that even in like our paid campaigns.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But yes, we are able to track hand raisers and GA4 does track that.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "So this means we just haven't had any so far.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And it's pretty accurate.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "We work closely with like Outshine to make sure that that's always updated those events in GA4.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Eric, can I get your perspective on this?",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "you know, every AI thought leader these days is saying that, you know, any traffic that comes from LLMs is a high quality traffic and converts better.",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Like, you know, your people are actually wanting to learn more, meaning that's, that's a direct.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Like contact us type of CTA in your experience and what you're seeing with other, with your other clients.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Is that, is that, is that true?",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I would say it's, it's true for the most part.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, it's not like a one-to-one comparison.",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If there is a free option, like we do see pretty consistent conversion from engagement.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Engagement, engagement rates are definitely higher coming from LLM traffic.",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then conversion is about, I'd say like five to six X higher on those LLM traffic with engaged sessions.",
+            "timestamp": "00:23:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so it's something that we're continually tracking across different clients to kind of get a better like read of what's the actual like market number versus, you know, I have a pod of like six clients that I know pretty well.",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But I think.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "For Redis, it's something that, you know, we've just got early signals, so now we can kind of start to have a baseline of like, okay, we got two trial signups for the second month of publishing.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "In February, we hope to see this, you know, at least double, if not triple.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And if so, then we're like on the right track of creating content that's well engaged with, that's getting cited by AI, and being able to kind of be at least close to bottom funnel, which allows us to continue to optimize kind of content in that area.",
+            "timestamp": "00:24:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'll take a look, now that I have a little bit more clarity on like, what are the key metrics, to see what kind of content is performing for those hand raisers, and then be able to kind of reverse engineer some new content ideas that we can go after for maybe leading to those more sales-oriented conversations.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, that would be great.",
+            "timestamp": "00:24:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I think that's like a conversation we've been having.",
+            "timestamp": "00:24:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Internally, as well as like, I think, you know, free trial signups are obviously geared more towards like the practitioners and developers, whereas like those hand raisers, it really is more geared towards those decision makers that are actually going to, you know, make that decision to, you know, sign up with, you know, I guess, make, you know, I guess convert with redis.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So maybe that's also something to think about, too, is like, maybe should our content kind of also be split in that way, like practitioner versus decision maker?",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I think the industry solutions is probably our closest decision maker content.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, but I'll take a look and kind of go through just all content that you guys have and specifically look at hand raisers.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then I can see like, I'll have it break out landing pages here and kind of do some research of what blog posts or editorial content is leading to more hand raisers than average.",
+            "timestamp": "00:25:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah, that that's like.",
+            "timestamp": "00:25:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I our, you know, from a number one goal is hand raisers.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Number two goal is free trial signups.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:26:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "As far as AI visibility, since we started tracking, we did see growth from 42% visibility to over 50%.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So that means for the 483 prompts that we're tracking, which, again, we'll have to divide this by seven.",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So it's somewhere around like 70-ish prompts that we're tracking.",
+            "timestamp": "00:26:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Redis shows up 50% of the time as a response.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So overall, that puts it as number one ahead of Pinecone and WeV8 and other kind of competitors.",
+            "timestamp": "00:26:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So there's a quick view of this.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "This is kind of where we started when we first started tracking.",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And we're seeing steadily.",
+            "timestamp": "00:26:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Kind of increasing visibility as we continue to publish.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's been going up over January.",
+            "timestamp": "00:27:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So good signals that the content we're producing is being cited.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And we can dive into all that in a different session or I can pull out the insights.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But we can see specifically in the citations, like which one of our articles is starting to show up in these answers.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And we, for the prompts that we are tracking, these should be a one-to-one parody of what you guys are tracking in Profound.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "When Cody was still here, he granted me access to Profound.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I basically went and took those prompts and uploaded them here so we could be a parody for kind of the data that we're seeing.",
+            "timestamp": "00:27:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:27:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I was going to ask about that.",
+            "timestamp": "00:27:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Do we have competitors of like Valky, Elastic Cache, Memory Store?",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Oh, I see Valky.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Memory Stories.",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Elastic Cache.",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And it would be like Google Memory Store.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "That's one of our main competitors right after like ElastiCache.",
+            "timestamp": "00:28:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I will add these guys to our list.",
+            "timestamp": "00:28:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I mean, they're naming us right there.",
+            "timestamp": "00:28:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes, thank you.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "But yeah, I was going to ask because, you know, we have, we use Profound, which I know is like probably the competitor of Scrunch.",
+            "timestamp": "00:28:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So yeah, I was going to ask if it's the same prompts that we're tracking.",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep, it is.",
+            "timestamp": "00:28:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then this is definitely something I'll dive deeper in a couple of weeks, but we do have, this is the product launch I was announcing or mentioned earlier.",
+            "timestamp": "00:28:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We are launching basically a competitor to Scrunch and Profound, except you don't have to set it up from scratch.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It basically looks at entire categories of potential buyer queries.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "launch I'm use I'm use the the the",
+            "timestamp": "00:28:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And sorts them.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Redis is in multiple different categories, but right now we have you in database management systems.",
+            "timestamp": "00:29:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so this view that we're looking at for kind of the competitor view is basically a one-to-one parody of what we'll see in Scrunch.",
+            "timestamp": "00:29:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then for the prompts, this is where we have like a library of over a hundred thousand prompts that we're tracking since I believe November.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so if we wanted to add new prompts from like the shared library, we could go in, add those, and then it'll have all historical data instead of having to start from scratch.",
+            "timestamp": "00:29:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I'll do a deeper dive demo on this.",
+            "timestamp": "00:29:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Today is launch day.",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "So we're expecting a few bugs.",
+            "timestamp": "00:29:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Really cool.",
+            "timestamp": "00:29:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah, super cool.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "And we'll get access to view this as well, right?",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, you guys will have direct access.",
+            "timestamp": "00:29:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So you won't have to like look at screenshots reports anymore.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "can kind of just dive.",
+            "timestamp": "00:29:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "to",
+            "timestamp": "00:29:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I know we're almost at the end.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Alexis, this is a really, really great update and really good progress.",
+            "timestamp": "00:30:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Erik, thank you so much.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "I think it'll be good to add this to our marketing private channel.",
+            "timestamp": "00:30:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "If you can, I think there's just a lot of interest in this and really good data.",
+            "timestamp": "00:30:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "And people can see all the work that they've been doing, you know, how it's starting to like have real business impact.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:30:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I could definitely share in marketing private.",
+            "timestamp": "00:30:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Erik, if you don't mind sharing this deck with us.",
+            "timestamp": "00:30:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's in this monthly report.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Oh, perfect.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'll share it there, but it's like, it's got the Google slides.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:30:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I'll the link to this right after our call.",
+            "timestamp": "00:30:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:30:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "I'll also log in.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Really good update.",
+            "timestamp": "00:30:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:30:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think the last one I want to touch on.",
+            "timestamp": "00:30:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And the rest of you guys can kind of look through, but these are just some content goals that we want to kind of put in place for ourself.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Try to hit 3,000 sessions, so like 2X in January's performance, really start to drive a little bit more trial conversions and see what kind of optimizations we can do with either CTA blocks or other CTA callouts in content.",
+            "timestamp": "00:31:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then, like I mentioned, let's get to kind of doubling our referral traffic from LLMs as content continues to compound.",
+            "timestamp": "00:31:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Everything else, we'll try to maintain steady state with slight growth and competitive presence for AI visibility, but engagement, we're going to target remaining at 34% or see if we can improve there.",
+            "timestamp": "00:31:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Reet Mand",
+                "matched_calendar_invitee_email": "reet.mand@redis.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:31:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:31:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, thanks for the time today.",
+            "timestamp": "00:31:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I will share a link to all this so you guys have easy access to it from Slack, but let me know if any questions come up.",
+            "timestamp": "00:31:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:31:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yes, I'm on the slide deck, so no worries.",
+            "timestamp": "00:31:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Alexis Ruiz",
+                "matched_calendar_invitee_email": "alexis.ruiz@redis.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thanks, team.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:32:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:32:02"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Review January performance and align on content workflow changes.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=585.0)\n\n## Key Takeaways\n\n  - [**New Workflow:** GrowthX will auto-publish articles without PMM review. A weekly Slack summary will be sent for PMM visibility.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=312.0)\n  - [**January Performance:** Strong start with 18 articles published, 1.7k+ sessions, and 43 LLM referrals. Two Free Cloud Trial signups occurred, a positive signal for month two.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=585.0)\n  - [**Conversion Priority:** The primary goal is \"Hand Raisers\" (decision-maker leads), not \"Free Cloud Trials\" (developer signups). GrowthX will analyze past content to reverse-engineer Hand Raiser drivers.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1260.0)\n  - [**AI Visibility:** Redis leads competitors (Pinecone, Weaviate) with 50% visibility in tracked LLM prompts, up from 42%. Google Memory Store will be added to tracking.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1573.0)\n\n## Topics\n\n### January Performance Review\n\n  - [**Content Output:** 18 articles published, 1.7k+ sessions, 43 LLM referrals.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=585.0)\n  - [**Traffic Growth:** Sessions grew 7.8x from week 2 (122) to week 4 (953).](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=935.0)\n  - [**Regional Traffic:** 83% from US, Singapore, China, India, Canada.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=980.0)\n      - [This aligns with paid traffic data, validating the content's reach.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=980.0)\n  - [**Topic Cluster Performance:**](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1031.0)\n      - [**LLM Optimization & App Speed:** Dominant (53% of traffic).](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1031.0)\n      - **Vector Database & RAG:** Tied for \\#2 (14% each).\n      - [**Industry Solutions:** Highest engagement rate \u2192 signals value of vertical-specific content.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1128.0)\n      - [**Agent:** Above-average engagement \u2192 supports Redis's strategic shift from cache to AI agent infrastructure.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1151.0)\n  - [**Conversions:**](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1179.0)\n      - [**Free Cloud Trials:** 2 signups from technical LLM content.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1179.0)\n      - [**Hand Raisers:** 0 signups.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1307.0)\n\n### New Content Workflow\n\n  - [**Publishing Process:** GrowthX will auto-publish articles without PMM review.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=312.0)\n      - [**Exception:** Jim T. will continue to review \"competitor vs.\" articles.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=493.0)\n  - [**PMM Visibility:** GrowthX will send a weekly Slack summary with links to all published articles.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=312.0)\n  - [**Performance Review Trigger:** GrowthX will flag articles reaching 150 views in one week for a thorough PMM review.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=448.0)\n  - [**Table Formatting:** GrowthX will ensure correct table formatting in Sanity, as simple copy-paste fails.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=346.0)\n      - [An engineering ticket is open to improve the native table component.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=416.0)\n\n### PMM-Requested Content\n\n  - [**New Priority Blog:** A draft on a new Redis 8.6 feature will be prioritized over a previous request from Jim T.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=286.0)\n  - [**Author Assignment:** Alexis will provide a list of authors for each topic cluster to ensure consistency.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=521.0)\n\n### AI Visibility & Tooling\n\n  - [**AI Visibility:** Redis leads competitors with 50% visibility in tracked LLM prompts (up from 42%).](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1573.0)\n  - [**Competitor Tracking:** Google Memory Store will be added to the tracking list.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1666.0)\n  - [**New Tool Launch:** GrowthX is launching a competitor to Scrunch/Profound.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1713.0)\n      - [**Benefit:** Provides access to a historical library of 100k+ prompts, eliminating the need to start tracking from scratch.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1758.0)\n      - [**Access:** Redis team will receive direct access.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1792.0)\n\n## Next Steps\n\n  - [**Alexis:**](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=228.0)\n      - [Send new Redis 8.6 feature blog draft to GrowthX.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=286.0)\n      - [Provide topic cluster author list to GrowthX.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=521.0)\n      - [Share January performance deck in the \"marketing private\" Slack channel.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1806.0)\n  - [**Erik:**](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=228.0)\n      - [Prioritize the new Redis 8.6 feature blog.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=286.0)\n      - [Implement the new auto-publishing workflow.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=312.0)\n      - [Add Google Memory Store to AI visibility tracking.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1666.0)\n      - [Analyze content to identify drivers of \"Hand Raiser\" conversions.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=1475.0)\n      - [Grant Reet Mand access to the Looker dashboard.](https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc?tab=summary&timestamp=860.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Prioritize Jim\u2019s Redis 8.6 blog; publish next week",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:04:35",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=275.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Slack Alexis weekly published-article links",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:01",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=301.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Ensure tables in blog posts render correctly in Sanity",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:35",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=335.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Monitor article views; ping Alexis/Reet at 150/wk for PMM review",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:07:17",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=437.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Confirm w/ Jim T review for vs articles; then inform Erik",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:08",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=488.9999",
+            "assignee": {
+                "name": "Alexis Ruiz",
+                "email": "alexis.ruiz@redis.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Slack Erik topic-cluster author assignments",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:29",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=509.9999",
+            "assignee": {
+                "name": "Alexis Ruiz",
+                "email": "alexis.ruiz@redis.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Remind Gabby of new publish-without-review process",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:55",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=535.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Update today\u2019s articles to publish-without-review",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:25",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=565.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Add total rows to LLM referral tables in Looker",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:13:13",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=793.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Grant Reet Looker access; Slack dashboard link",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:13:44",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=824.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Analyze hand-raiser content; propose ideas to Alexis/Reet",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:24:24",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=1464.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Add MemoryStore and ElastiCache to AI visibility tracking",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:27:33",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=1653.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Schedule AI visibility tool demo w/ Alexis & Reet",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:30",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=1770.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Share Jan performance deck in Marketing Private Slack",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:30:23",
+            "recording_playback_url": "https://fathom.video/calls/556077761?timestamp=1823.9999",
+            "assignee": {
+                "name": "Erik O'Brien",
+                "email": "erik@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Megan Boone",
+            "email": "megan.boone@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Reet Mand",
+            "email": "reet.mand@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Reet Mand"
+        },
+        {
+            "name": "Alexis Ruiz-Pedregon",
+            "email": "alexis.ruiz@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Alexis Ruiz"
+        },
+        {
+            "name": "rebekah.reddis@redis.com",
+            "email": "rebekah.reddis@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Fung-Lin Wu",
+            "email": "funglin.wu@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        },
+        {
+            "name": "Andy Varshneya",
+            "email": "andy.varshneya@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Allison Gregory",
+            "email": "allison.gregory@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Claudia Di Martino",
+            "email": "claudia.di-martino@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "regine.carreras@redis.com",
+            "email": "regine.carreras@redis.com",
+            "email_domain": "redis.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        }
+    ],
+    "recorded_by": {
+        "name": "Team GrowthX",
+        "email": "team@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/RrKfH8VbeoHfQoyeYHKcJQTKrc8ustrc",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

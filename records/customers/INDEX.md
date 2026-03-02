@@ -1,16 +1,12 @@
 # Index: customers/
 
-> Complete file listing for `/customers/`
+> 69 active clients + 48 churned accounts in `/records/customers/`
 
 See [README.md](README.md) for an overview of this directory.
 
-## lovable/
+## Subdirectories
 
-| File | Type |
-|---|---|
-| [lovable/lovable-client-context-v1.md](lovable/lovable-client-context-v1.md) | Client context |
-| [lovable/download-transcripts.py](lovable/download-transcripts.py) | Script |
-
-### lovable/transcripts/
-
-49 meeting transcripts from Oct 2025 -- Feb 2026. Files follow the format `YYYY-MM-DD-meeting-description.md`.
+| Directory | Contents |
+|-----------|----------|
+| [active/](active/) | 69 current clients — see [active/INDEX.md](active/INDEX.md) |
+| [churned/](churned/) | 48 former clients — see [churned/INDEX.md](churned/INDEX.md) |

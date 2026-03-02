@@ -3,7 +3,7 @@
 <metadata>
 purpose: Finished deliverables and completed work — final stage of the pipeline
 audience: AI agents filing completed work, Marcel reviewing deliverables
-related: pipeline/research/README.md, pipeline/scratchpad/README.md, docs/context-routing.md
+related: pipeline/research/README.md, pipeline/scratchpad/README.md, context/context-routing.md
 domain: research
 confidence: canonical
 sensitivity: internal

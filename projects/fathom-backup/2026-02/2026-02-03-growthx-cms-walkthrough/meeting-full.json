@@ -1,0 +1,2913 @@
+{
+    "title": "GrowthX CMS walkthrough",
+    "meeting_title": "GrowthX CMS walkthrough",
+    "url": "https://fathom.video/calls/552827024",
+    "created_at": "2026-02-03T15:57:19Z",
+    "scheduled_start_time": "2026-02-03T15:30:00Z",
+    "scheduled_end_time": "2026-02-03T16:15:00Z",
+    "recording_id": 119294080,
+    "recording_start_time": "2026-02-03T15:30:40Z",
+    "recording_end_time": "2026-02-03T15:57:11Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Is it just you?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, it's me.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "From your side, is Cathy joining?",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "No, we can go ahead and jump right in.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Honestly, this should be very fast.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I don't think it takes more than 10 minutes.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Working with StoryBlock is pretty straightforward, I would say.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Let me share my screen.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, can I see my screen?",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, once you are in StoryBlock in this environment, so this is blogging, let go one step back.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, once you click on content, you will be in this environment here.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And so, I think the two...",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "folders that you will need are blog and glossary, mostly blog and sometimes glossary.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "But you can see everything else here as well, which is all the content on our website.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So for example, this folder has all our product pages, all the incentivized, which is our flagship summits.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "All the incentivized pages are created in this folder, mockups, login, all the thank you pages, for example.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So different folders for different parts of the website, events, and everything else.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So think I, yeah, it must be here, yes.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So also we have download here, which is a folder for our reports, our gated contents.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We put them all here, and this is our blog folder.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So once you go into the blog, you have this create new.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "you.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "This here.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Honestly, I never use this create new.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "always use one of the duplicate logs and duplicate it and then I change the name and everything.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So once you change the name, this log would automatically change as well.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then you duplicate it.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So let's, uh, but for the sake of this, uh, one, let's create a new one.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And so we create a new story and let's call it test, test, test, test, test.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Uh, sorry.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Oh, my laptop, sorry.",
+            "timestamp": "00:02:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We won't fix this problem.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Uh, and create.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, uh, now we are into that, uh, slog.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, so to create everything from scratch, would say, but again, I say, but the simplest thing is to duplicate a previous story, but to do everything from scratch, we need the time to read, so you can do it five minutes or whatever, title, whatever it is, the title goes here, the title of the blog post.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "You can select the author from here, so we have a list of authors here that you can select from, myself, for example.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "there a logic to the authors in terms of what the subject is, or the content that we're going to be creating, you're okay with just using a single author?",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "What are you thinking?",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I'd say, if it is more business on top of the funnel, me or Isabel, if it is more product-led, we can choose.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "These are, for example, CPO or CTO are one of our product persons, but I can give you a list on that.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, that'd be great.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "If you just give us a list of which authors you want to use in which circumstances, that'll make it really easy.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Hey, Kathy.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Hi, my apologies.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Hey.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "No worries.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Of course.",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "worries.",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "worries.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, yeah, as I was saying, so now we are in the StoryBlock environment block, and we are creating the block.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So we started with setting the time, so you can basically set any time that you think makes sense.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Title here, and then author, published at, and this is something that we need to do manually as well.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, let's say it's today, and for time, it doesn't, it doesn't matter what you select here.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It doesn't show up on the website.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, this is time, and then for category.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Category, if it is marketing, development, or research and development focused, so to make your life easier, if it is more business and marketing, let's select marketing.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If it is more tech, let's select development.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Got it.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And related category, again, so it's very clear.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If it is more into loyalty, you choose loyalty.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If it is more promotions, promotions or both.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So again, it doesn't show up on the website.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then here we have the text.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So we paste the text here from our docs.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And here you can select different options here.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If it is a normal text, or if you want this to be H1, or if you want this to be H2, H3, or others.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So you can select it, you select it right here.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And so now we have, for example, this.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Heading H2, and then you want to start with this, whatever, and then, but you want to use, sometimes in order to highlight, especially if it is like the beginning of the text, or if you did the CTA, or sometimes important points that we want to highlight in a box or something, we use gray box option, and that you use a block from here, add block, and then when you add block, you just like, gray box, gray box, and then you click on it, add block, rich text, and then in the rich text, you write your copy, so, something like this, and then, for spacing, we always set it on XS, because if you don't, the space between the text on the upper and down, the bottom box will be, too much.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, XS is the size, and now we have a gray box.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, of course, we will see it again.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "But, yeah, but this gray box will be something that we want to highlight in the text.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Normally, when you click on save, you should see it on the left, I'm assuming.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yes, exactly.",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "You will see it for a minute.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, again, we have H2, and then I just want to show you different features that we use in the blog.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "something that's also we use quite often is a quote within the text, whether from our partner or customer or one of our own people, for example, our CEO, our CTO, et cetera.",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Again, for this, you go to add a blog, and then you write quote page.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "You select quote page.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And when you click on it, you can choose a code from all of the codes previously created in StoryBlog.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "All the codes are in another folder in StoryBlog you can select from.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If you want to create a new one, I will show you later how to do it in the folder.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "But let's say we want to select this code from Sydney Segal Working at Build and then color is fine.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Whatever that is.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So now we have a code page here.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Real quickly, because we're not going to know what it doesn't give you the details.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Can you open another tab and just show me how we look at those quotes?",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Of course.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yep.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So let's go to this one.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So we have.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So folder for quotes, so we have this folder for quotes, all of them are here, and then, so you see all the quotes here, so let's go to one of them, for example, this one from Panera, so once you're there, these are the assets that you need, you need a logo for that, a quote itself, headshots of the person, their name, their position, and their company, so the company, so once you have all of them, you click on Save and Publish, then it is published, and then you can go, if you want to use this one in the blog, you'd select it in the, in the, in quote page that I, I don't want to imagine that we'll be adding many quotes, but I think it's a possibility that the writer, the, the, our editor, will look at quotes that exist, that you guys already have.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "And so being able to go to it and then go find the quote and read it is helpful.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, it makes a lot of sense because, yeah, I think it's easy to find because most of the codes, we've tried to use them, the topic in the name of the slug here.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, for example, if you search Omnichannel, you will probably find quotes about Omnichannel here.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:10:25"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah, so.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "That makes it easier.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Exactly, so you don't need to, or if you, I don't know, use it, I don't know, for integration maybe or something.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, you see, like, internet, you find quotes about integration and then you can select them.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So it makes it a lot easier.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah, that's a lot easier.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Super.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So back to this one.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So we also use the code page.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We used, yeah.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, so now we need to...",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "to...",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "to...",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So in order to hyperlink something, you just select them from here, from here, from link, you use link, and then you use the page here that you want to link to.",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, for example, I want to link to one of our product pages, for instance, or one of our blogs, this one, for example.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So you use this, and then please activate this so that it opens in a new time.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then you're done, and then we created this one.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Sorry, go back to the link real quickly.",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "This one?",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "You know, yeah, so here, when you do the dropdown, it's got internal link, email.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "URL, asset, right?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Let me just clarify one thing.",
+            "timestamp": "00:12:02"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "If the editor wants to link to a product page, to an existing product page, is it okay if they select URL and put the entire URL?",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "That's what I always do.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I select URL and then I paste the URL here.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "I just want to clarify because I have done this with other CMSs where they're like, you have to find the internal link and it's going to take too much time.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "No, you can use it from our website and then paste it here.",
+            "timestamp": "00:12:29"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay, super.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "any other thing, any other website that you want.",
+            "timestamp": "00:12:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, so hyperlink here, and then codes, gray box, I think that's on H1, H2, H3.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, let's go ahead and then we'll come back.",
+            "timestamp": "00:12:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So card headline is the same as the title that we use for the piece.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It's the same one.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It's what appears in the hub, in the blog hub, the intro here.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "For the blog post, CTA is always read more, and persona, you can select if it is like for developer or for marketer.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "question about the CTA.",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Can we modify the CTA sometimes so that it's either a demo or something else?",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Definitely.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, definitely.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Hold on, this is not the CTA.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "I think this is the CTA of the little, like on the blog page.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "On the card.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Oh, on the card.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "On the card.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "The CTA for the blog.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "For that blog, yeah.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "So I think there's a separate CTA for inside the blog.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So this is, it's this one.",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It's this read more here.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yep.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "It's this one, on the cart.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And I don't know why, but we don't have it even here.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I'm not sure why.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We used to have it, but maybe in the new, yeah, they have removed it from here, so you don't need to worry about it at all.",
+            "timestamp": "00:14:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "While you're here, is there a special option for it to be like the featured blog versus one of the blogs on the bottom?",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "You mean moving it like up here?",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yes.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "I will show you how.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It's, again, it's like by moving the slugs when you get up, but I'll be sure.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, we can do that.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Got it.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So is CTA here?",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Again, I don't know why it doesn't appear on the website, but developers or whatever else you put for personal.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And for main cart image, you click on it, and we have a list of files.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It's here.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If you want to use something pre-existing from our depository, can use, or if you want to upload something, you can upload files.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Let me do that.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "You can upload files and whatever.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Let me select this one.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Just when you want to use it, you have to fill something for advanced options, title, caption, and a title, whatever the topic is.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Loyalty Promotion is something, something general, something very generic.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then we save it and upload it.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And it's uploaded here.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then we click on it and it appears on here and you can use it for main image.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Super.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Or if you want to use something pre-existing, so for example, you need something for, let's say, loyalty.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "You type loyalty and then we have a lot of loyalty images here.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And so you can, you can select one of them.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, that's it.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We don't need anything else here, so let's go to the SEO part.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "For the SEO part, we use whatever that you want, whatever the topic is, we use this for meta title, and then at the end of all of them, we put Talon.One.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "This is what we do.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "But yeah, this is like the way we do it, and then something for meta description.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "For index, we always put it on index.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "For follow, we put it on follow.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Structured data, nothing from our side.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "For canonical, you need to provide the link to the same block that you're creating.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So here we are creating test, test, test, test, yeah.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, it's here.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So you use the same name, and then you use it for canonical.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And for image OG, the same image that you selected for main part.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "So I think it was this one.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "The section above, above canonical.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Structure data, I mean?",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, is this where the schema markup goes?",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "So you guys do not have schema?",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "No.",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Oh, I see.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "No, it is We most likely do want to include schema because it's preferred by LLMs, but it's good just to know where to put it.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Canonical, image OG.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "this is the civil part.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then for a sticky card, so this is what we mean by, let me share this.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "This is what we mean by a sticky card.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "This one on the right.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay, got it.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "This one on the right.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So back to this one.",
+            "timestamp": "00:18:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So add block, sticky card, headline.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So headline is, for example, loyalty strategies for 2026.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And I'm assuming you always want one on the right.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Like any blog that we publish, we should have a sticky card on the right.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yes, exactly.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then for image, for example, now I'm using this loyalty strategies for 2026.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We always have this here.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We have a cover mockup for that.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So this is the cover mockup for this one.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We use the cover mockup for that report.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Text alignment center.",
+            "timestamp": "00:18:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Content nothing.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Link.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "commons for 6026.",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We create a link to that one.",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "The name of the author, the image, and this was the gray box, it's not that gray, but it was the gray box that we talked about, and all the H2s, for example, and this is the codes that we use from the code page, the hyperlink, and once you click on it, it opens in a new page, and yeah, think that's, we have created the sticky card here.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yes, that's it.",
+            "timestamp": "00:20:32"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "That's it.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Do you mind going back to the very, to the article, just the regular view?",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Sorry, that first view where you're putting in the content, I think, there we go.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Is this it?",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "No, no, no, you're still in the sticky card.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Can you just click back on article?",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Sure.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "And go to general?",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "on the article general, okay.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, so this, this, no, no, sorry, go back up.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "I mean, that'll just allow us to move a little more quickly, because then we can stage all the content, and then when you have time, you can do a quick review and then publish.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Super.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I have one question.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "If we're doing any content updates versus new posts, does this change at all?",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Like, we go into a current post, and then we make changes?",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, you can go there, and then you can save it.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Let me do that for you.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, now we are out of this one.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So, this is our blog, all the blog articles here.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "So, let's, for example, let's go to this one.",
+            "timestamp": "00:22:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Oh, it's in the layout is Global Riff.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It's something here.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I said that we don't use it, but that's because I always duplicate things, so it's duplicated.",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "I mean, it might be worth asking your agency, just explain.",
+            "timestamp": "00:22:56"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah, yeah, I will do this.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I will do on the chat.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, so we are in this blog, which is already live.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So what, oh, one is image with description.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I forgot this one.",
+            "timestamp": "00:23:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I will talk about this.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So whatever change that you want to make, everything, so you do it and then you can save it.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, got it.",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Perfect, thanks.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Of course.",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "And yeah, so not good that we are here.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "So another thing that we probably will need is image with description.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If you want to use images inside the blog, so again, from this plus sign, we add a blog, and that is called image with description.",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And image with description is always an image that you use, you upload or you use a pre-existing image, a description for the image, and also a source.",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay?",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Again, source, can always use, you can select the URL and paste the URL.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And then, again, please use this one so that it opens in a new window.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And that's how we use images on the website, in the blocks.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And I'm assuming adding a CTA within the article is the same thing.",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "You add a block and you find CTA?",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yes, exactly.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "If you want to highlight the CTA in a gray box, you just use a gray box and then you type it and create a hyperlink.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "It's like that.",
+            "timestamp": "00:24:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "you just want to use a CTA without a gray box, you just hyperlink part of the text and then you create a link to whatever.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Oh, no, no.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "When I say CTA, I'm not saying hyperlinking.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "I'm saying literally a button, a CTA button.",
+            "timestamp": "00:24:48"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "I'm assuming that you have a block for that, like a little...",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Can you guys add buttons?",
+            "timestamp": "00:24:57"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "You",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "No.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "You don't have any buttons in your content?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "No, like watch more, see more, discover more, these sort of things.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Or yeah, or book demo or read more about this topic and this, et cetera.",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "No, we don't use this as like with buttons.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "We write the text and then we create a hyperlink.",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Okay, you just hyperlink.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "That's good to know.",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "We have to make sure to include that in our instructions to our editor.",
+            "timestamp": "00:25:26"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "I will do that.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Just now that you're here, let me just go down a little bit to see if there is anything that I have missed.",
+            "timestamp": "00:25:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Image description, description.",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Great box.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "No, you see, for example, this is for this CTA, we have used a gray box.",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "And this is how like we were keen to join for incentive with whatever.",
+            "timestamp": "00:25:48"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "then blah, blah, blah.",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "then dig right here and create a hyperlink.",
+            "timestamp": "00:25:54"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "That's like your CTA got it.",
+            "timestamp": "00:25:57"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:58"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "lot.",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:26:01"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:26:02"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "really appreciate your time.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Yeah, thank you so much.",
+            "timestamp": "00:26:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "Of course.",
+            "timestamp": "00:26:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Reza H. Javanian",
+                "matched_calendar_invitee_email": "javanian@talon.one"
+            },
+            "text": "I'm sure that you guys are experts, but if you have any questions, feel free to ask.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "I appreciate it.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "William Leborgne",
+                "matched_calendar_invitee_email": "william@growthx.ai"
+            },
+            "text": "Thanks so much.",
+            "timestamp": "00:26:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Have a good rest of the day.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:26:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kathy Lam",
+                "matched_calendar_invitee_email": "kathy@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:26:17"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Walkthrough of the Storyblok CMS for managing Talon.One's blog content.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=20.0)\n\n## Key Takeaways\n\n  - [**Workflow:** Duplicate existing posts to preserve the correct layout (`Global Riff`) and save time.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=121.0)\n  - [**Content:** Use specific blocks for quotes (`quote page`), highlighted text (`gray box`), and images (`image with description`).](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=443.0)\n  - [**SEO:** Manually configure each post's SEO, including a self-referential canonical URL and the main card image for the OG image.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=964.0)\n  - [**CTAs:** Use hyperlinked text, optionally within a `gray box` for emphasis; dedicated CTA buttons are not available.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1454.0)\n\n## Topics\n\n### Workflow & Setup\n\n  - [**Duplication:** Always duplicate an existing post.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=121.0)\n      - [**Why:** This preserves the correct layout (`Global Riff`), which is not applied when creating from scratch.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1331.0)\n  - [**General Fields:**](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=180.0)\n      - [**Author:** Select based on content type (e.g., Reza/Isabel for top-of-funnel). Reza will provide a full author list.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=213.0)\n      - [**Published At:** Set manually; the time field is for internal reference only.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=279.0)\n      - [**Categories:** Use for internal sorting; not visible on the website.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=297.0)\n          - [**Primary:** `Marketing` or `Development`](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=297.0)\n          - [**Related:** `Loyalty`, `Promotions`, etc.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=315.0)\n\n### Content Formatting & Blocks\n\n  - [**Headings:** Use the rich text editor to apply H1, H2, and H3 tags.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=327.0)\n  - [**Gray Box:** For highlighting text (e.g., CTAs).](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=360.0)\n      - [**Path:** `Add block` \u2192 `gray box` \u2192 `rich text`](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=360.0)\n      - [**Spacing:** Set to `XS` to prevent excessive vertical space.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=360.0)\n  - [**Quote Page:** Embeds pre-created quotes.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=450.0)\n      - [**Path:** `Add block` \u2192 `quote page`](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=450.0)\n      - [**Source:** Quotes are stored in the `quotes` folder. Search by topic (e.g., \"Omnichannel\") to find relevant options.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=514.0)\n      - [**Creation:** New quotes require a logo, quote text, headshot, name, position, and company.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=514.0)\n  - [**Image with Description:** For images within the article body.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1414.0)\n      - [**Path:** `Add block` \u2192 `image with description`](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1414.0)\n      - [**Fields:** Image file, description, and source URL (must open in a new tab).](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1414.0)\n\n### SEO & Sticky Card\n\n  - [**SEO Section:**](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=964.0)\n      - [**Meta Title:** `[Topic] - Talon.One`](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=964.0)\n      - [**Index/Follow:** Always set to `index` and `follow`.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=997.0)\n      - [**Structured Data:** Currently unused. GrowthX may add schema markup to improve LLM compatibility.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1046.0)\n      - [**Canonical:** The full URL of the post itself.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1005.0)\n      - [**Image OG:** The same image used for the main card.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1028.0)\n  - [**Sticky Card:** The fixed sidebar on the right.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1070.0)\n      - [**Requirement:** Every post must include one.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1101.0)\n      - [**Path:** `Add block` \u2192 `sticky card`](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1070.0)\n      - [**Content:** Typically promotes a gated report.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1091.0)\n          - [**Headline:** Report title](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1091.0)\n          - [**Image:** Report cover mockup](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1111.0)\n          - [**Link:** URL to the report's download page](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1136.0)\n\n## Next Steps\n\n  - [**Reza:** Provide the author list with corresponding content types.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=213.0)\n  - [**GrowthX:**](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1320.0)\n      - [Duplicate existing posts to maintain the correct layout.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1331.0)\n      - [Use hyperlinked text for CTAs; dedicated buttons are not available.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1454.0)\n      - [Stage content for review before publishing.](https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz?tab=summary&timestamp=1320.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Send author-mapping list to William + Kathy",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:03:49",
+            "recording_playback_url": "https://fathom.video/calls/552827024?timestamp=229.9999",
+            "assignee": {
+                "name": "Reza H. Javanian",
+                "email": "javanian@talon.one",
+                "team": null
+            }
+        },
+        {
+            "description": "Ask agency in chat re: 'Global Riff' layout; share guidance w/ William + Kathy",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:22:45",
+            "recording_playback_url": "https://fathom.video/calls/552827024?timestamp=1365.9999",
+            "assignee": {
+                "name": "Reza H. Javanian",
+                "email": "javanian@talon.one",
+                "team": null
+            }
+        },
+        {
+            "description": "Update editor instructions: no CTA buttons; use hyperlinked text (optional gray box)",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:24:35",
+            "recording_playback_url": "https://fathom.video/calls/552827024?timestamp=1475.9999",
+            "assignee": {
+                "name": "Kathy Lam",
+                "email": "kathy@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Isabelle Watson",
+            "email": "watson@talon.one",
+            "email_domain": "talon.one",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mohammadreza Hassanzadehjavanian",
+            "email": "javanian@talon.one",
+            "email_domain": "talon.one",
+            "is_external": true,
+            "matched_speaker_display_name": "Reza H. Javanian"
+        },
+        {
+            "name": "cc: Kathy Lam",
+            "email": "kathy@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Kathy Lam"
+        },
+        {
+            "name": "William Leborgne",
+            "email": "william@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "William Leborgne"
+        }
+    ],
+    "recorded_by": {
+        "name": "William Leborgne",
+        "email": "william@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/8ajsNTpnoab1ZsRJieCK-dCAUz7hxyJz",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

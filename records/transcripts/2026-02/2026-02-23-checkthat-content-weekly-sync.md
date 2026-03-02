@@ -1,0 +1,1226 @@
+# CheckThat Content Weekly Sync
+
+<metadata>
+date: 2026-02-23
+time: 17:00 UTC
+duration: 62 minutes
+organizer: saskia@growthx.ai
+participants: Jason Gong, Saskia Wartnaby, Kavishka Kanayake, Danni Roseman
+fathom_recording_id: 124522585
+fathom_url: https://fathom.video/calls/576252595
+share_url: https://fathom.video/share/MCDTx7zwxtohsXGSec_a5ePhohHKDsRp
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+The CheckThat team reviewed weekly content performance data showing strong growth in Pricing, Answers, and Reviews pages (all roughly doubled in impressions), while Brand pages continued to decline for the second week, likely due to cannibalization from lower-funnel content. A critical pipeline bug is blocking production: the system generates articles from error messages when data isn't found, producing unusable content. Engineering priorities are misaligned—the team is focused on signup conversion while CheckThat content work sits unaddressed for a month—so Jason will escalate to Stevie to resolve this conflict. Meanwhile, the team will launch new content strategies for GrowthX and AI-led Growth properties this week by creating "example good" pages for Alternatives and Answer formats to define the quality bar for engineering.
+
+---
+
+## Context
+
+This is CheckThat's internal content weekly sync, part of the GrowthX content operations cadence. CheckThat is a strategic AI visibility product being developed in parallel with the core B2B content services business. Jason Gong leads the CheckThat team as Product Manager, supported by Saskia Wartnaby (Content Lead), Kavishka Kanayake (Engineering), and others across GrowthX. Danni Roseman from the AI-led Growth team joined this meeting to observe and prepare for replicating the CheckThat model across two new GrowthX properties: GrowthX (targeted at potential SEO clients with bottom-of-funnel content) and AI-led Growth (broader educational content for the marketing community). The team meets weekly to review performance metrics, unblock production issues, and plan content strategy. This particular meeting took place across multiple timezones with attendees in the US and India.
+
+---
+
+## Relevance
+
+**To CheckThat Product & Growth:**
+- Pricing, Answers, and Reviews page types are the core growth drivers—all doubled impressions week-over-week. Strategy should focus on scaling these formats rather than pursuing Brand pages or other lower-performing formats.
+- A critical production blocker exists: the content pipeline is generating error messages as research when data lookups fail, making all output unusable. This must be resolved before content production can resume.
+- Index.me metrics are stale (reporting first week of February vs. current Search Console data through Feb 21), creating visibility gaps. Kavishka is investigating whether this is a tool setup issue or platform limitation.
+
+**To Engineering Priorities & Product Alignment:**
+- Major misalignment: Engineering is focused on signup conversion and product improvements, while CheckThat's production tickets (bulk generation, quality fixes, indexing issues) have been waiting a month with no movement. Jason needs to escalate this conflict with Stevie and clarify whether top-of-funnel content growth is still a platform priority.
+- The Cursor setup session will improve team velocity for content editing and generation tasks, particularly for the new first-person editorial voice experiments on Reviews and Alternatives pages.
+
+**To GrowthX Services & New Property Launch:**
+- The GrowthX and AI-led Growth properties are launching this week with initial focus on Alternatives and Answer/Listicle formats. Success here will depend on engineering capacity to support the pipeline for two new properties (currently unknown/likely constrained).
+- Danni Roseman is observing to learn the CheckThat model and content flow, indicating this is a template for future expansion within GrowthX's content strategy.
+
+---
+
+## Overview
+
+- **CheckThat growth is strong but uneven.** Pricing/Answers/Reviews are driving impression growth, while Brand pages are declining. The strategy is to double down on high-performing, lower-funnel page types.
+- **A critical pipeline bug is blocking all new CheckThat content.** The system is generating articles from error messages, producing nonsensical content and halting production.
+- **GrowthX & AI-led Growth content will launch this week.** The team will define strategies and create "example good" pages for Alternatives and Listicle formats to guide future pipeline development.
+- **Engineering priorities are misaligned.** The CheckThat team is blocked by long-standing tickets, while the product team is focused on signup conversion. Jason will escalate to resolve this conflict.
+
+---
+
+## Key Topics
+
+### CheckThat: Performance & Blockers
+
+  - **Performance:**
+      - **Strong Growth:** Pricing, Answers, and Reviews pages are driving significant impression growth.
+      - **Brand Pages Declining:** Impressions are down for the second week.
+          - **Hypothesis:** New content is cannibalizing traffic from brand pages.
+          - **Action:** Test new meta titles and descriptions first. Reformatting for readability is a lower priority.
+  - **Blocker: Critical Pipeline Bug:**
+      - **Issue:** The content pipeline is generating articles using error messages as research.
+      - **Impact:** All new content is nonsensical and unusable, halting production.
+      - **Status:** An initial fix failed; the engineering team is investigating again.
+  - **Blocker: Engineering Priorities:**
+      - **Problem:** Long-standing, high-priority tickets (e.g., bulk generation, quality fixes) are not being addressed.
+      - **Reason:** The engineering team's focus has shifted to signup conversion and product fixes.
+      - **Conflict:** This contradicts the goal of driving top-of-funnel growth for the platform.
+
+### GrowthX & AI-led Growth: New Content Strategy
+
+  - **Goal:** Replicate CheckThat's automated content success for GrowthX and AI-led Growth.
+  - **Property Focus:**
+      - **GrowthX:** Bottom-of-funnel content for potential clients (e.g., "Top SEO agencies for startups").
+      - **AI-led Growth:** Broader, educational content for the marketing community (e.g., "How to do keyword research").
+  - **Initial Page Types:**
+      - **Alternatives:** E.g., "Alternatives to Conductor."
+      - **Listicles:** E.g., "Best SEO agencies for FinTech."
+  - **Process:**
+    1.  **Define Strategy:** Clarify the content focus for each property.
+    2.  **Create "Example Good" Pages:** Generate initial drafts using CheckThat's pipeline, then polish with Claude/Cursor to define the quality bar for engineering.
+
+---
+
+## Action Items
+
+**Jason Gong (GrowthX)**
+- Clean up today's notes doc
+- Schedule Cursor setup session w/ Saskia, Kavishka, Danni
+- Set up conversion tracking for page types to signups
+- Sync w/ Stevie re: engineering priorities; align on P0 tickets
+
+**Saskia Wartnaby (GrowthX)**
+- Add checked-off items to last week's to-dos in notes doc
+- Draft new meta titles/descriptions for brand pages; share w/ Jason
+- Map AI Visibility brands; publish missing brand pages + subpages
+- Sync w/ Carrie re: answer-page generation; get new assignments
+- Draft GrowthX content strategy; share w/ Jason
+- Produce 2 example-of-good pages (Answer, Alternatives) for GrowthX/AI-led Growth; share w/ Jason, Danni
+
+**Kavishka Kanayake (GrowthX)**
+- Investigate index.me update lag vs Search Console; propose fix
+- Rewrite Reviews + Alternatives pages in 1st-person editorial
+- Produce 2 example-of-good pages (Answer, Alternatives) for GrowthX/AI-led Growth; share w/ Jason, Danni
+
+**Danni Roseman**
+- Share AI-led Growth content strategy + published listicles w/ Saskia, Jason
+
+---
+
+## Transcript
+**Saskia Wartnaby:** I'm on mute.
+
+**Saskia Wartnaby:** Hello, how are you?
+
+**Kavishka Kanayake:** We're good.
+
+**Kavishka Kanayake:** Had a pretty chill weekend.
+
+**Kavishka Kanayake:** You had some plans, didn't you?
+
+**Saskia Wartnaby:** Huh?
+
+**Saskia Wartnaby:** So you had a chill weekend?
+
+**Kavishka Kanayake:** Yes, I did.
+
+**Kavishka Kanayake:** Hi, Danni.
+
+**Saskia Wartnaby:** Hi, Danni.
+
+**Saskia Wartnaby:** Nice to meet you.
+
+**Saskia Wartnaby:** She's having a snack.
+
+**Danni Roseman:** I know.
+
+**Danni Roseman:** I'm sorry.
+
+**Danni Roseman:** I'm sorry.
+
+**Saskia Wartnaby:** No, it's all good.
+
+**Saskia Wartnaby:** You eat that snack.
+
+**Saskia Wartnaby:** What time is it by you?
+
+**Danni Roseman:** It's 6 p.m.
+
+**Saskia Wartnaby:** Oh, you're so well at a mini.
+
+**Saskia Wartnaby:** It's 7 p.m.
+
+**Saskia Wartnaby:** for me, and I think Kavishka is quite late for you, hey?
+
+**Kavishka Kanayake:** It's 10.30, so, yeah.
+
+**Saskia Wartnaby:** Yeah.
+
+**Saskia Wartnaby:** Oh, there's Jason.
+
+**Saskia Wartnaby:** Hi, Jason.
+
+**Jason Gong:** Everyone.
+
+**Saskia Wartnaby:** How are you doing?
+
+**Saskia Wartnaby:** Doing good.
+
+**Jason Gong:** good.
+
+**Jason Gong:** Can you hear it?
+
+**Jason Gong:** There's a lot of noise outside.
+
+**Jason Gong:** me one second.
+
+**Jason Gong:** I didn't know you were joining this call, Danni.
+
+**Saskia Wartnaby:** I thought we were in the next one.
+
+**Danni Roseman:** Yeah, yeah.
+
+**Danni Roseman:** Jason just hit me up five minutes ago.
+
+**Saskia Wartnaby:** Oh, got it.
+
+**Saskia Wartnaby:** Okay.
+
+**Saskia Wartnaby:** That makes sense.
+
+**Danni Roseman:** Hence the snack.
+
+**Saskia Wartnaby:** Yeah.
+
+**Saskia Wartnaby:** It all makes sense now.
+
+**Saskia Wartnaby:** She must have a snack.
+
+**Saskia Wartnaby:** Well, it's nice to have you here.
+
+**Danni Roseman:** Yeah, I'm just observing all of the greatness right now and then, yeah.
+
+**Danni Roseman:** Now you guys do things for check that.
+
+**Saskia Wartnaby:** Okay, we've got Jason back.
+
+**Saskia Wartnaby:** Okay.
+
+**Saskia Wartnaby:** Okay.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Okay.
+
+**Saskia Wartnaby:** Sorry, just give me minute to connect this.
+
+**Jason Gong:** Okay, hopefully this works for more than 10 minutes.
+
+**Jason Gong:** Cool, I thought you'd put it, I'll put the notes in already, so let's just review those.
+
+**Jason Gong:** And I'll share, I invited Danni, because basically we're trying to do what we're doing here for CheckThout for GrowthX and AI-led growth as well.
+
+**Jason Gong:** So the more context we can share, the better.
+
+**Jason Gong:** And I really like the kind of cadence we've been getting into, other than no engineering tickets are being done.
+
+**Saskia Wartnaby:** Check it out.
+
+**Jason Gong:** For the data for today at the top, the first table, we, I don't have a login for PostHog, which I only figured out an hour ago, and Kavishka was struggling to figure out a way to get the stats, which I probably would have had the same age with.
+
+**Saskia Wartnaby:** So if you could take us through that maybe at the end of the call, that would be great.
+
+**Jason Gong:** Yeah, it sounds good.
+
+**Jason Gong:** I added a follow-up for me to just, like, clean that up, but I will invite you as well.
+
+**Saskia Wartnaby:** And then my next question for you were the to-dos from the previous week.
+
+**Saskia Wartnaby:** Did you want that to show, like, the leftover tasks, or was that all the tasks from last week?
+
+**Jason Gong:** Just all the tasks, and then checked off.
+
+**Saskia Wartnaby:** Oh, okay.
+
+**Saskia Wartnaby:** So I'll add the ones that we checked off from last week.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** Let just take a quick browse.
+
+**Jason Gong:** I mean, it looks like things are getting indexed and showing impressions fairly well.
+
+**Saskia Wartnaby:** We've had some.
+
+**Saskia Wartnaby:** A lot of impression growth, like from the past week.
+
+**Saskia Wartnaby:** I don't know if you had a look at the metrics review table, but like, yeah, there's been a lot of growth.
+
+**Saskia Wartnaby:** Kavishka is struggling to get anything from index.me because it's just.
+
+**Jason Gong:** Is that like a setup thing or is it just because I feel like it should be up to date if it's working.
+
+**Kavishka Kanayake:** So it hasn't updated to what Search Console is on.
+
+**Kavishka Kanayake:** Search Console shows the date up until I think the 21st and index shows, I think, first week Feb.
+
+**Saskia Wartnaby:** First week Feb.
+
+**Saskia Wartnaby:** ages ago.
+
+**Jason Gong:** Yeah, that was quite a long time ago.
+
+**Jason Gong:** And is that just a tool problem or do you think we set it up wrong?
+
+**Kavishka Kanayake:** I am not sure.
+
+**Kavishka Kanayake:** I'll dig around and see if there's anything we could do.
+
+**Jason Gong:** Okay, because it still seems like that's a part.
+
+**Jason Gong:** Part of the problem, though, I did have a question here, whether like, getting impressions was the same thing as getting indexed or if they're different.
+
+**Kavishka Kanayake:** They aren't one-to-one, I just used it, that's like the closest thing to see if, you know, pages are getting indexed, because if a page is getting impressions, it's definitely indexed, right?
+
+**Kavishka Kanayake:** So, because I can't break down pricing alternatives reviews in Search Console, in the indexing report, I've been using this page as getting impressions as like sort of an alternative, sort of a stopgap thing.
+
+**Jason Gong:** It looks like, on February 14th, I'm just looking at Search Console, we had an indexing issue get fixed, and then this kind of like, jumped up immediately after, wonder.
+
+**Jason Gong:** It just indexed, okay, that's just like one page.
+
+**Jason Gong:** Okay, I guess we can get to it once we get to the tickets, because it looks like they did merge some of the indexing-related tickets, so maybe those are helping, or maybe those will continue to help.
+
+**Jason Gong:** Okay, but I guess what I'm seeing is still, like, I think pricing is just kind of, like, holding it down and, like, driving all the growth.
+
+**Saskia Wartnaby:** Yeah, mean, answers, like, doubled in impressions.
+
+**Saskia Wartnaby:** Same for reviews, alternatives went up a bit, pricing also, like, doubled.
+
+**Saskia Wartnaby:** Brand pages have gone down two weeks in a row now in impressions, so that's just something to note.
+
+**Jason Gong:** I did see that.
+
+**Jason Gong:** I mean, one of the thoughts is, like, the more we publish here, the more it kind of cannibalizes this, because I've spot-checked a bunch of brand pages.
+
+**Jason Gong:** And, like, yeah, like, pricing, I think, is, like, one of the top things the brand pages rank for, so.
+
+**Kavishka Kanayake:** How we talk about the product, like, instead of it being this, like, very clinical, third-party sort of tone of voice, I just rewrite it to be, we tried this, we experimented, we reviewed this, blah, blah, blah.
+
+**Kavishka Kanayake:** And, yeah, so, yeah, I will be fleshing out this page you're looking at, because, you know, we got the results back.
+
+**Kavishka Kanayake:** Like, yeah, it's mostly just that.
+
+**Kavishka Kanayake:** I'll be doing that for reviews, and I think we could do that for alternatives as well, because the thing we did with the screenshots doesn't, didn't really seem to help.
+
+**Jason Gong:** Okay, one question on, like, how you're rewriting.
+
+**Jason Gong:** You're using Claude, just like Opus 4.6, or do you have kind of a special setup?
+
+**Kavishka Kanayake:** No, I use, I do use Claude.
+
+**Jason Gong:** Use Claude for that?
+
+**Jason Gong:** So I'm thinking, I don't know, like, I've been getting a bunch of people on the team set up on Cursor, and...
+
+**Jason Gong:** And that's been helping a ton.
+
+**Jason Gong:** So maybe I won't do it this call, but I might schedule a session later in the week where we all just set up Cursor together.
+
+**Jason Gong:** Because that might make this slightly easier or faster.
+
+**Jason Gong:** Okay, yeah.
+
+**Jason Gong:** So I mean, please do that for this.
+
+**Jason Gong:** Because I wonder, like one of the tickets was about like adding authors to the page.
+
+**Jason Gong:** So like essentially is what you're doing, like kind of writing instead of saying like, you know, hey, tool A is, you know, it's a paid plan or whatever.
+
+**Jason Gong:** Like you were more speaking from like first person.
+
+**Kavishka Kanayake:** Like, hey, when I tried.
+
+**Kavishka Kanayake:** Pretty much, yeah.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** So maybe I feel like that changed with the author.
+
+**Jason Gong:** Okay, that's not done yet.
+
+**Jason Gong:** Okay, yeah.
+
+**Jason Gong:** might help to like tie those together.
+
+**Jason Gong:** So like who's.
+
+**Jason Gong:** And I guess the author of the page, they have a bio and the perspective they're writing from, and then you kind of like tie that into how you're writing.
+
+**Jason Gong:** Maybe that could help as well.
+
+**Jason Gong:** Oh, okay, cool.
+
+**Jason Gong:** So those experiments are good.
+
+**Jason Gong:** Brand page, no change.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** It does feel like brand pages are kind of in, like, red a little bit.
+
+**Jason Gong:** I mean, I did read somewhere that, like, Marcel intended them to be more of the, like, connective tissue between all the other pages, so they get discovered, and they're not meant to kind of drive a ton of traffic, which I think is, I guess, right.
+
+**Saskia Wartnaby:** I would still like to try, I don't know if you, what you think about it, but I would still like to try to.
+
+**Saskia Wartnaby:** If you, not refreshes, but like reformatting just for concision and readability, because yeah, they're just, I think they're very, I wouldn't want to read it, but yeah, I don't know what you think.
+
+**Jason Gong:** Yeah, if it's worth it at all.
+
+**Jason Gong:** Um, I guess I'm thinking more of like, across all the pages, are there things we can experiment with?
+
+**Jason Gong:** Like the title is one that I think might be holding the page back, and I'm trying to think like how to restructure that.
+
+**Jason Gong:** I would honestly look at that first.
+
+**Saskia Wartnaby:** Okay.
+
+**Jason Gong:** like if you think there's a better, like meta title that these pages could have.
+
+**Jason Gong:** Um.
+
+**Saskia Wartnaby:** Like across the board, or just for brand pages?
+
+**Jason Gong:** Just for brand pages.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Um, and then, yeah, just better meta title, meta description, and then.
+
+**Jason Gong:** Honestly, would just, I mean, these are all working, so I might as well, I think, doubling down on this.
+
+**Saskia Wartnaby:** I'm also trying, so we published a bunch of answer pages, and they seem to be doing quite well.
+
+**Saskia Wartnaby:** I'm also trying a few refreshers, just with Kavishka's general research process.
+
+**Saskia Wartnaby:** I'm not changing the information, just changing the we talk about it, and the structuring, and seeing if that makes any noticeable difference.
+
+**Jason Gong:** So, I mean, for what it's worth, one of the things I'm going to set up is just, like, how these page types convert to signups.
+
+**Jason Gong:** But I think these three here, like, I'm just guessing, are much, much more likely to drive signups.
+
+**Jason Gong:** So, because they're, like, much lower in the funnel, you know, if any of these companies that we're writing about invest in SEO at all, like, they're looking at this category of pages constantly.
+
+**Jason Gong:** But pricing is less, like, you know, like, I'm thinking about all the stuff we do for clients, and, like, you know, often.
+
+**Jason Gong:** Write about kind of pricing, unless it's in the context of a listicle.
+
+**Jason Gong:** So, yeah, I guess, like, in a general sense, like, I would much, much prefer, like, prioritizing these if you think they're working and, like, doubling down, like, publishing way more, you know, doing everything we were doing for pricing pages to get it to this point.
+
+**Saskia Wartnaby:** Now, on that note, we kind of took a little bit of a step back this week because, yeah, so we spoke with Stevie and she basically said, like, they are focusing heavily on, like, the thing, so they have limited inch capability at the moment for the next couple of weeks.
+
+**Saskia Wartnaby:** And she's also focusing on higher priority things to do with converting signups.
+
+**Saskia Wartnaby:** So she really said, like, she's really not sure when she's, when the team is going to get to any of our tickets.
+
+**Saskia Wartnaby:** And then we had a big fallback in quality with...
+
+**Saskia Wartnaby:** All of the pages this week, last week, basically they, I don't know if you saw the chat, but they were pulling, they made some updates to make it so that the articles and generations didn't keep failing.
+
+**Saskia Wartnaby:** But instead now, if it, you know, couldn't find the data, which it was happening a lot, it generated a report to say it couldn't find the data.
+
+**Saskia Wartnaby:** And then it used that as like research content for the article.
+
+**Saskia Wartnaby:** So all of the pages had like, this couldn't be verified from our research, blah, blah, blah, blah, blah.
+
+**Saskia Wartnaby:** So they did push a fix, refresh all the pages, and that still hasn't helped.
+
+**Saskia Wartnaby:** So we're waiting to hear on that.
+
+**Saskia Wartnaby:** I'm a bit nervous.
+
+**Saskia Wartnaby:** I think Kavishka has run a few pages to see what happens.
+
+**Saskia Wartnaby:** But yeah, that's slowed us down quite a bit.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I'm trying to find the thread, because basically like what Marcel and Daniel are telling.
+
+**Jason Gong:** For is like, cool, like pushing people really, really hard to like pay for check that might not be the thing, like we need it more, like we need more growth so we can use it to drive like top of funnel for everything else for like the platform that we're releasing.
+
+**Jason Gong:** So I feel like those two things are kind of contradictory, so I just want to see if there's any threads I can keep kind of hammering on, so.
+
+**Saskia Wartnaby:** Can I chat with you while you're looking or would you like the force?
+
+**Jason Gong:** Okay, I mean, why don't we do it after the call, so same thing.
+
+**Jason Gong:** Same thing, guess, like these are all the open tickets, I guess adding to it, let's see, okay, so it looks like that workflow problem.
+
+**Jason Gong:** Is in review, so does it mean they're looking into it?
+
+**Saskia Wartnaby:** Yeah, so they already did a fix, and then I went through some of the rerun articles today and shared it with the team, and now they're having to look into it again.
+
+**Saskia Wartnaby:** I don't think he's updated the ticket, to be honest.
+
+**Jason Gong:** And then you said you just sent the thread.
+
+**Saskia Wartnaby:** Where did you send that?
+
+**Saskia Wartnaby:** Oh, let me get that complete.
+
+**Saskia Wartnaby:** It's a very long thread.
+
+**Saskia Wartnaby:** Basically, it started with Kavishka just reporting the issues we were having, and then the Hinge team were chatting about the issue, and then you'll see that we ran a whole bunch of articles, and then I replied with all the issues we're still.
+
+**Saskia Wartnaby:** Well, okay, hold on, I've got the link.
+
+**Saskia Wartnaby:** I'm just sharing that in the team chat.
+
+**Saskia Wartnaby:** Sorry, the Zoom chat.
+
+**Jason Gong:** Sure.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Thank
+
+**Jason Gong:** Um, I guess like P0 for me is just like sorting out this, like we know what we need to do to grow, but these tickets have been sitting here for a month at this point and not really sure.
+
+**Jason Gong:** I feel like Stevie's also getting maybe conflicted kind of stuff from Marcel and then from me, from us.
+
+**Jason Gong:** So I'm going to fix that first.
+
+**Jason Gong:** So that was, I guess that's Friday.
+
+**Jason Gong:** Oh, wow.
+
+**Jason Gong:** That's a long thread.
+
+**Saskia Wartnaby:** Yeah, it's very long.
+
+**Saskia Wartnaby:** If you scroll to the bottom, you'll see like, um, the issues that we're still having.
+
+**Saskia Wartnaby:** And at the very top, you'll see they're talking about what the issue is.
+
+**Saskia Wartnaby:** Um, yeah, Marcus said, it seems that XO was overloaded at the time and the researcher treated the error page as content and didn't refuse it.
+
+**Saskia Wartnaby:** Panzer said, I can relate.
+
+**Saskia Wartnaby:** I often ship my error messages to production.
+
+**Kavishka Kanayake:** So I just had a link in the Zoom chat.
+
+**Kavishka Kanayake:** If scroll all the way down, now we have related answers in categories.
+
+**Kavishka Kanayake:** That was just one.
+
+**Kavishka Kanayake:** And the other one is brand pages now have related articles.
+
+**Kavishka Kanayake:** So on the sidebar on the right, you can see related.
+
+**Kavishka Kanayake:** And if you scroll down, you can see articles.
+
+**Jason Gong:** categories.
+
+**Kavishka Kanayake:** It should be above the related graph.
+
+**Jason Gong:** Oh, cool.
+
+**Jason Gong:** Definitely need to make these look better at some point.
+
+**Jason Gong:** But that's good we have all these links here.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** That's great.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** So they are getting to some of the tickets, I guess.
+
+**Jason Gong:** Then what was Stevie trying
+
+**Jason Gong:** Is it like last week, like this week's not going to be like last week, like we have to shift everybody to something else.
+
+**Saskia Wartnaby:** Like, was that what she was saying?
+
+**Saskia Wartnaby:** Basically, she said, and Kavishka could just correct me if I'm wrong, but like they, I think they've got a lot of the team on holiday last week and this week.
+
+**Saskia Wartnaby:** And so they're pretty at low capacity and they've shifted like the priority.
+
+**Saskia Wartnaby:** So she really wasn't sure when they could get to anything, but definitely not next few weeks.
+
+**Jason Gong:** Like, uh, but how she, uh, Steve, we explained her priorities is it doesn't matter how many people we are driving to the site with search and whatever, if they aren't converting.
+
+**Kavishka Kanayake:** So, uh, we don't fix that downstream.
+
+**Jason Gong:** That's true.
+
+**Saskia Wartnaby:** There was, there's quite a few issues as well, like with the product that they've gotten from clients and stuff.
+
+**Jason Gong:** So I think they want to tackle those really important things.
+
+**Jason Gong:** I mean, those are, that's, that's also true because I've been, um, with Nigel, like setting up the product for people.
+
+**Jason Gong:** Coming in the sales pipeline.
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** I'll just check in after the call.
+
+**Jason Gong:** Okay.
+
+**Saskia Wartnaby:** And then just a few things, just a few small things I wanted to ask.
+
+**Saskia Wartnaby:** Obviously, I need access to PostHog.
+
+**Saskia Wartnaby:** Do you want us to post more answer pages?
+
+**Jason Gong:** I think, so, at least in my mind, where things were last week was, like, bulk adding of pages and there's, like, another ticket, maybe, like, regenerating pages for, like, the two things that were blocking you from, kind of, like, not 10xing, but, like, say we wanted to do, like, 400 instead of 200.
+
+**Jason Gong:** That was the main blocker.
+
+**Saskia Wartnaby:** That would be if the quality's good, which currently it's not.
+
+**Jason Gong:** Okay, got it.
+
+**Jason Gong:** So, okay, so the three things, kind of, blocking are those.
+
+**Jason Gong:** So those are, like, P0.
+
+**Saskia Wartnaby:** We've got those under, um, ticket ideas.
+
+**Saskia Wartnaby:** If you, if you want, get where my profile is.
+
+**Saskia Wartnaby:** Yeah.
+
+**Jason Gong:** ideas.
+
+**Jason Gong:** But I think these are already, Jenner, or these are already tickets.
+
+**Jason Gong:** So maybe the one ask is like, in the linear tickets, the way they look at it is by how they're ordered.
+
+**Jason Gong:** And if we can, let's see, I'm trying to think if we should like reshuffle the order at all.
+
+**Jason Gong:** Um, merge, answer, editorial.
+
+**Jason Gong:** So I think how they look at it is everything in to-do is like the P0.
+
+**Jason Gong:** So let's see.
+
+**Saskia Wartnaby:** I think we gave her two tickets last week.
+
+**Saskia Wartnaby:** Kavishka, it was like the two highest priority was fixing the issues we've had.
+
+**Saskia Wartnaby:** And then the other one, I'm trying to remember what the other one was.
+
+**Saskia Wartnaby:** Do you remember?
+
+**Kavishka Kanayake:** Let me see.
+
+**Saskia Wartnaby:** It was, I think it was quality focused.
+
+**Jason Gong:** Generate this one, should I move this one back, just because it seems like what we were refreshing wasn't, or is this separate from our round of enrichment?
+
+**Kavishka Kanayake:** So this one, the one on top, is just general bugs and issues and fundamental issues.
+
+**Kavishka Kanayake:** So I think that should still probably be there.
+
+**Kavishka Kanayake:** But actually, you know what, at the moment, I would probably deprioritize that, maybe move that to medium and with something else urgent.
+
+**Jason Gong:** Just because you said you were going to do a pass to figure out, like, you know, do what you did to pricing page.
+
+**Jason Gong:** So I'm going to move here, and then once you do that, I'll move it back.
+
+**Kavishka Kanayake:** Yeah.
+
+**Jason Gong:** Okay, go to brand, CMS manage page.
+
+**Jason Gong:** Okay, this is...
+
+**Jason Gong:** Just because we're not prioritizing brand pages.
+
+**Jason Gong:** to do that.
+
+**Jason Gong:** not not
+
+**Jason Gong:** Is this kind of in the same, like, category as, quality of life improvements so you can publish more, this one here?
+
+**Kavishka Kanayake:** I'm not sure what that is.
+
+**Jason Gong:** It seems like you wanted, for a page that was already published, some sort of, like, draft mode, so you didn't immediately change what was on the website.
+
+**Jason Gong:** This is a really old ticket.
+
+**Jason Gong:** Do you think this is still important, or?
+
+**Saskia Wartnaby:** That looks like Carrie made that one.
+
+**Saskia Wartnaby:** Um, doesn't say a draft, because we've got that, don't we?
+
+**Jason Gong:** Okay, I'm just going to cancel, um, yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** We can move it back.
+
+**Jason Gong:** Yeah.
+
+**Saskia Wartnaby:** Just adding, like, checking that the brand pages exist and then publishing the subpages for all of the brands in AI visibility, right?
+
+**Jason Gong:** That's right, yeah.
+
+**Saskia Wartnaby:** Okay, cool.
+
+**Jason Gong:** Because you're just, like, mapping our own category out, you know?
+
+**Saskia Wartnaby:** Yeah, I can do that, yeah.
+
+**Jason Gong:** Okay, what to do with highly inaccurate.
+
+**Jason Gong:** Is this more for, like, the current broken pipeline?
+
+**Saskia Wartnaby:** Yeah, so we had, like, a whole, like, right now we've kind of paused, but the question was, like, would you want us to publish really inaccurate pages and then refresh them later, or would you rather us not publish them at all?
+
+**Jason Gong:** Yeah, that's a good question.
+
+**Jason Gong:** So this is, like, every type of page or just, like, hey, pricing is kind of, like, on the fritz?
+
+**Jason Gong:** type of page.
+
+**Saskia Wartnaby:** So the pricing is the most noticeable because we can directly look at the website and see that the pricing is really wrong.
+
+**Saskia Wartnaby:** you.
+
+**Saskia Wartnaby:** Exactly.
+
+**Saskia Wartnaby:** Thank
+
+**Saskia Wartnaby:** Cool.
+
+**Saskia Wartnaby:** And then the flagged ones, basically, like, there's a whole bunch of brand pages in the back end that are, like, flagged for issues.
+
+**Saskia Wartnaby:** Is there kind of, you know, is it okay for, is it a priority for me to go and fix those, or would you rather I leave them for now?
+
+**Jason Gong:** Probably low, low priority on that one.
+
+**Saskia Wartnaby:** Okay.
+
+**Jason Gong:** At least for growth.
+
+**Jason Gong:** mean, if some of them, like, like, if they're customer related or sales pipeline related, like, somebody else will fix those.
+
+**Saskia Wartnaby:** And then if they're, like, for the purposes of growth, adding 30 more pages is probably not going to make or break anything.
+
+**Saskia Wartnaby:** So just.
+
+**Saskia Wartnaby:** I mean, they're published already.
+
+**Saskia Wartnaby:** They just, like, I think one of the main issues was the company name isn't in the description or the TLDR or something like that, which means the information on the page isn't very good.
+
+**Jason Gong:** Right.
+
+**Jason Gong:** I would just leave it.
+
+**Saskia Wartnaby:** Okay.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Just re-invited you to PostHog.
+
+**Jason Gong:** Thank you.
+
+**Jason Gong:** Um...
+
+**Jason Gong:** Thank you.
+
+**Jason Gong:** We'll need to talk, Carrie.
+
+**Jason Gong:** I think we should definitely publish more answer pages.
+
+**Jason Gong:** What's the part about talking to Carrie?
+
+**Saskia Wartnaby:** We have run out of assignments for that, so I will need to chat with her to see how, like, what she did to add it.
+
+**Jason Gong:** Oh, like how she generated those?
+
+**Saskia Wartnaby:** Yes.
+
+**Jason Gong:** Yes, that is a good, I feel like we'll run into this for, like, all of our other properties as well, growthx and AI, like, growth.
+
+**Jason Gong:** So maybe the Sol here is also, you know, Jason to, let's see.
+
+**Jason Gong:** Actually, you know, talk to Carrie.
+
+**Jason Gong:** I feel like doing content strategies has, like, everyone kind of does it at different parts.
+
+**Jason Gong:** Like, we don't have, like, one central person.
+
+**Jason Gong:** So I think it would be helpful if we're all pretty well-versed at, like, creating good content strategies.
+
+**Saskia Wartnaby:** So talk to Carrie, see what she did.
+
+**Jason Gong:** Let's move on to talking about growthx and allied growth.
+
+**Jason Gong:** But I think high level on check that, yeah, this engineering ticket stuff is like a huge bottleneck.
+
+**Jason Gong:** Like stepping back a bit, like what Steve was mentioning is like, like we kind of just see there's, you know, some pretty big gaps to fix on the product.
+
+**Jason Gong:** Like when we look at people who did sign up and we got a few hundred throughout the launch and the like week or two after it, like not many of them are really successful, you know, like, like adding prompts and knowing where to go and where the value is.
+
+**Jason Gong:** So that's kind of where Marcel is spending some time and probably like pulling Stevie into to fix.
+
+**Jason Gong:** And then, yeah, so that's kind of where that that's at.
+
+**Jason Gong:** Just to share some context.
+
+**Jason Gong:** Hmm.
+
+**Jason Gong:** So I would say, like, just publishing non-brand pages, as many as we can, because it looks like it's, you know, definitely working as the priority.
+
+**Jason Gong:** So when there's engineering tickets that prevent you from doing so, just, like, feel free to flag as visibly as possible and check that channel and, like, CC me if, you know, things are blocking you from, like, publishing more and more.
+
+**Saskia Wartnaby:** We'll do that.
+
+**Jason Gong:** Other page types.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** So next, let me, I haven't even set up a space for this, but let me pull up the ticket I created.
+
+**Jason Gong:** Automated ticket on, like, Cool.
+
+**Jason Gong:** So this is some basic things.
+
+**Jason Gong:** So I think I already sent the Slack message, but, like, high level, what we're trying to do is turn growthx and download growth into the same thing we're doing for Check That.
+
+**Jason Gong:** They all have slightly different kind of angles as far as what the content is trying to do.
+
+**Jason Gong:** So on growthx, it's mainly focused on, like, very bottom of the funnel, or at least, you know, that's the goal of, like, folks who are looking into AI visibility, SEO agencies, AEO agencies, kind of people who could potentially be a customer for growthx.
+
+**Jason Gong:** So that
+
+**Jason Gong:** Web content, you know, is going to be like at the very bottom of the funnel kind of, you know, top like SEO agencies for startups, top AEO agencies like, you know, for AI visibility and things like that.
+
+**Jason Gong:** And then the layer above, you know, might be more kind of like use case or problem type queries around, again, those same topics like SEO, AEO, et cetera.
+
+**Jason Gong:** So that's growthx.
+
+**Jason Gong:** And then AI-led growth is meant to be more, you know, like a little bit more broad, like all these topics we teach around, like content generation.
+
+**Jason Gong:** It's also going to be a lot of AEO and SEO.
+
+**Jason Gong:** So I got to think about how to separate those two, but it's going to be more general.
+
+**Jason Gong:** Like, I don't know if I'd expect an article on.
+
+**Jason Gong:** Like, you know, how to do keyword research on the growthx website, but, you know, that would be something that's on the AI-led growth website.
+
+**Jason Gong:** And then expanding even further, like on AI-led growth, we've done a lot of workshops with people who have expertise in different areas.
+
+**Jason Gong:** So, like, we did one on conversion rate optimization, like how do you get traffic on your website to convert?
+
+**Jason Gong:** We're doing one this Thursday on positioning and messaging.
+
+**Jason Gong:** So, again, not something we generally do for our clients on growthx.
+
+**Jason Gong:** We're not going to put it there, but something our audience is interested in, namely, like, you know, growth and marketing folks.
+
+**Jason Gong:** So that's what we're trying to do.
+
+**Jason Gong:** Like, a part of it is lead gen for, I guess, like the business.
+
+**Jason Gong:** But the other part is just, you know, it's crazy that we do all this stuff for clients, but we don't do it for ourselves.
+
+**Jason Gong:** So we want it to be almost like a, like a kid.
+
+**Jason Gong:** So I think volume-wise, check that is probably going to be the highest by far.
+
+**Jason Gong:** then AI-led growth, because like right now, okay, so if we check that, we're at like 200, like, you know, or like, I don't know, hundreds a week.
+
+**Saskia Wartnaby:** Yeah, it's averaging around like 150 a week.
+
+**Jason Gong:** Yeah, growthx, I think, unless it's programmatic, and there are some opportunities for that, like, there are some things where I'm not sure if it'll be on growthx or AI-led growth, like, for example, I mean, or check that, honestly.
+
+**Jason Gong:** But like, like, have, what works really well that I want to do is tools, so it's like, you know, prompt generator, like, I mean, these are probably both for check that, but on AI-led growth, like, for example, for our workshop this Thursday.
+
+**Jason Gong:** Will and Danni built a, like, product positioning, like, checker, checklist.
+
+**Jason Gong:** Like, I can see for some of these, there's an opportunity for it to be programmatic and explode into, like, hundreds of pages.
+
+**Jason Gong:** But just for pure editorial, I think, you know, like, like, 10 to 20 probably on growthx.
+
+**Jason Gong:** Um, I kind of fully intend to take the same, like, content, like, different content archetypes approach.
+
+**Jason Gong:** Um, like, have a bunch of listicles, you know, any listicle combination and permutation you can think of for, like, SEO agency plus, like, I don't know what search intent exists, but, like, SEO agency for, you know, FinTech companies, SEO agency for whatever other companies.
+
+**Jason Gong:** Like, alternative to every single SEO agency you can think of, you know, alternatives to conductor, alternatives to graphite.
+
+**Jason Gong:** perfect for Group for
+
+**Jason Gong:** So I think when we're going after those clusters, I can see it being quite high volume, but again, not to the same degree as CheckFile.
+
+**Saskia Wartnaby:** Yeah, the current pipelines do the listicles quite well.
+
+**Saskia Wartnaby:** I just have some formatting things, but we can apply those if the NG team can get to it.
+
+**Saskia Wartnaby:** But yeah.
+
+**Jason Gong:** So it'd be like under 50.
+
+**Jason Gong:** This is probably, I mean, I don't really want to anchor it on like number of pages.
+
+**Jason Gong:** I know we haven't fully like realized this on CheckThat, but like, really think like, you know, if we had the engineering resources, all of these could be kind of like end to end and review after in batches.
+
+**Jason Gong:** And I would still like to get to that point for all types of content we're creating.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** So I guess the answer is like.
+
+**Jason Gong:** So we'll see once we start.
+
+**Jason Gong:** Like, we haven't really mapped out the content clusters yet.
+
+**Jason Gong:** Danni's done quite a bit for ALN growth, but I want to go, like, a bit further and then also do it for growthx.
+
+**Jason Gong:** So let's see.
+
+**Jason Gong:** So I guess as far as, like, things we want to do for each kind of property.
+
+**Jason Gong:** So, like, growthx, content, actually, this better as a table.
+
+**Jason Gong:** I don't want to, like, split up the work, especially since I have both you, Saskia and Kavishka, because the pipelines are broken.
+
+**Jason Gong:** I think we can try to use, like, today and tomorrow to get this off the ground.
+
+**Saskia Wartnaby:** Okay.
+
+**Jason Gong:** So growthx, ALI growth.
+
+**Jason Gong:** So content strategy is the first one.
+
+**Jason Gong:** So this one.
+
+**Jason Gong:** one.
+
+**Jason Gong:** one.
+
+**Jason Gong:** I think last time I checked, Danni, it looked pretty good.
+
+**Jason Gong:** We need to review this one.
+
+**Jason Gong:** Saskia, could I assign to you?
+
+**Jason Gong:** So content strategy setup.
+
+**Jason Gong:** This one, I think, I guess the one thing I have in mind is whether we can do what we did for CheckThat, but for these as well and not have it in Atlas.
+
+**Jason Gong:** So maybe this is...
+
+**Saskia Wartnaby:** The only issue there is, like, if we need to make any changes, we have to wait for Ange.
+
+**Jason Gong:** Oh, instead of having that pipeline.
+
+**Saskia Wartnaby:** Yeah.
+
+**Jason Gong:** Because I guess from the way Daniel described it, he was like, you know, kind of like, hey, this is the future.
+
+**Jason Gong:** Like, this is what we're...
+
+**Jason Gong:** we're...
+
+**Danni Roseman:** Last week.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** So this one's done.
+
+**Jason Gong:** This one.
+
+**Danni Roseman:** But will that be a part of the automation, Jason, like a part of the final pipeline?
+
+**Jason Gong:** Will it upload automatically or will I need to use cursor to do it?
+
+**Jason Gong:** If we set it up properly, it will upload automatically.
+
+**Danni Roseman:** Okay.
+
+**Jason Gong:** Yeah, Will did tell me it was.
+
+**Jason Gong:** A pain in the butt to upload into Sanity.
+
+**Danni Roseman:** Yes, you have to add like alt image text for each image or it won't even let you upload.
+
+**Danni Roseman:** then you have to add each FAQ in a separate in a separate field.
+
+**Danni Roseman:** It's not just a copy paste situation.
+
+**Danni Roseman:** And you can't, and tables are impossible.
+
+**Danni Roseman:** You have to do them all like literally manually.
+
+**Saskia Wartnaby:** All right.
+
+**Saskia Wartnaby:** ...
+
+**Saskia Wartnaby:** It's the worst.
+
+**Saskia Wartnaby:** I had to do that.
+
+**Saskia Wartnaby:** It was horrible.
+
+**Saskia Wartnaby:** And if you accidentally go control Z, the whole thing manages planet Earth.
+
+**Jason Gong:** Okay, so I guess this is, like, done, but clunky.
+
+**Jason Gong:** And then this one, yeah, this one needs to be done.
+
+**Jason Gong:** I have a ticket out for it, I believe.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** This is on.
+
+**Jason Gong:** Yes.
+
+**Jason Gong:** Progress.
+
+**Jason Gong:** I didn't talk to run.
+
+**Jason Gong:** He was out last week.
+
+**Jason Gong:** So a lot of the things we need there are not in a good spot.
+
+**Jason Gong:** Okay, so content strategy.
+
+**Jason Gong:** We need to get pipelines set up, but unclear if we want to go to check that route or just build things in Atlas.
+
+**Jason Gong:** If we build things in Atlas, what we need is an.
+
+**Jason Gong:** Example of what good looks like for each content type.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** Okay, so maybe that is an area.
+
+**Jason Gong:** Okay, so I think two areas that we can start with is one is content strategy, and then the other one is kind of like example good for different.
+
+**Jason Gong:** Not that types.
+
+**Danni Roseman:** maybe even what can be repurposed already from what's working with Jack that you mentioned that they already kind of have a foundation.
+
+**Jason Gong:** guys already have a foundation for like maybe.
+
+**Jason Gong:** Yeah.
+
+**Danni Roseman:** Eriks and pages or you said answer pages or something like that.
+
+**Jason Gong:** Yeah, I think answer pages could be really good and alternatives are probably also pretty good.
+
+**Jason Gong:** Yeah, there's a few answer pages I've reframed.
+
+**Saskia Wartnaby:** So we do have some examples.
+
+**Jason Gong:** Yeah, I think the only difference is like the things you're writing about might be a bit different.
+
+**Jason Gong:** That should be okay.
+
+**Jason Gong:** Like for growthx, you'll be writing about agencies, like alternatives and like listicles for allied growth.
+
+**Danni Roseman:** With similar, we had discussed listicles versus pages, a glossary as well.
+
+**Jason Gong:** Yeah, that's true.
+
+**Jason Gong:** Yeah, like growth would be like the simplest one then.
+
+**Danni Roseman:** Will this also help with linking for check that for backlinks and things like that?
+
+**Danni Roseman:** Will this be helpful if we were to reference?
+
+**Jason Gong:** I think they should all like kind of link in a web to each other.
+
+**Jason Gong:** So that will be, so, okay, so let's just go from here.
+
+**Jason Gong:** So like growthx.
+
+**Jason Gong:** Needs from scratch.
+
+**Jason Gong:** That's like nothing's been done yet.
+
+**Jason Gong:** ALI growth, Danni, you already did.
+
+**Jason Gong:** Could you share that after the call?
+
+**Danni Roseman:** Yes.
+
+**Danni Roseman:** They've already published.
+
+**Danni Roseman:** I've published three listicles so far.
+
+**Jason Gong:** Yep.
+
+**Jason Gong:** Got it.
+
+**Jason Gong:** And then growthx.
+
+**Jason Gong:** So just off the top of my head, it's like alternatives to big agencies.
+
+**Jason Gong:** And then what's the goals on COAO agency types?
+
+**Jason Gong:** Best.
+
+**Jason Gong:** Best.
+
+**Jason Gong:** Best.
+
+**Jason Gong:** Best.
+
+**Jason Gong:** Best.
+
+**Jason Gong:** Best.
+
+**Jason Gong:** Startups, you know, something like that.
+
+**Jason Gong:** I'm just trying to think of, like, instead of trying to do everything, just what the most important things we could start with are.
+
+**Jason Gong:** And then for, you know, like growth, it looks like we started on, so weird, wasn't there four?
+
+**Jason Gong:** Um, I just unpublished one, because I was doing a test with Cursor, and then, um, and accidentally published it.
+
+**Danni Roseman:** Um, so listicles.
+
+**Danni Roseman:** You're not crazy, there were four.
+
+**Jason Gong:** Visibility tools.
+
+**Jason Gong:** So, okay, let's just start here while I'm trying to sort out, like.
+
+**Jason Gong:** Essentially, you know, once we start writing the content, can we write a bunch of them?
+
+**Jason Gong:** Do we have those systems set up and do we have a place to publish?
+
+**Jason Gong:** Yeah, before we do that, let's do the content strategy and then how should we split this up?
+
+**Jason Gong:** Like, basically, for each of these, I would like to just hand carve, you know, with Claude or even, like, using, you know, what the pipeline spit out and check that, like an example of what it looks like, including screenshots, including, like, the right links, and then having that documented for these four page types.
+
+**Jason Gong:** So, let's see, since you're doing the content strategy, Saskia, like, can we do...
+
+**Jason Gong:** Something like this.
+
+**Jason Gong:** And I don't intend for everything to overlap, Danni, just because like we've been working on so much of the like community stuff and not so much on the SEO and Kavishka and Saskia are like probably some of the best folks on the SEO side for growthx.
+
+**Jason Gong:** think it just makes sense to kind of pair on, on this just at the start before we all go off and start generating hundreds of pages.
+
+**Jason Gong:** Makes sense.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** So let's, let's do that.
+
+**Jason Gong:** And then they can walk you through kind of like how we actually ask for pipelines and how this process all works.
+
+**Jason Gong:** Does that make sense?
+
+**Saskia Wartnaby:** Yeah, I think so for me.
+
+**Jason Gong:** And I know it's always like super chaotic and trying to click.
+
+**Jason Gong:** What context have I not shared at the moment?
+
+**Jason Gong:** Any questions for your side, Danni?
+
+**Danni Roseman:** I think...
+
+**Danni Roseman:** My biggest question is, what does this look like feasibly when it comes to timeline?
+
+**Danni Roseman:** Because I know I'm hearing that you guys are backed up with stuff with engineering team and when could we realistically have that goal?
+
+**Jason Gong:** And then in the meantime, would you rather, like, if the goal is under 100 or like 50 articles, what is the in-between goal since that won't be enough to be That's a good question.
+
+**Jason Gong:** So, let's see, the things that are blocked now is like, hey, we already know what good content looks like and it is engineering's responsibility to create a pipeline that can generate, you know, that at scale and they need to fix it.
+
+**Jason Gong:** Like, that's where we're at now.
+
+**Jason Gong:** And then the right mental model for publishing is, like, you should...
+
+**Jason Gong:** We almost never try to hit whatever number of pages we're trying to publish just manually because the pipelines are broken.
+
+**Jason Gong:** The main thing you're responsible for and trying to do is to make it crystal clear to engineering what they need to fix.
+
+**Jason Gong:** For clients, we do this a lot just because they're going to be like, who cares?
+
+**Jason Gong:** It's like your problem that your pipelines don't work.
+
+**Jason Gong:** Like I care about the quality out the door, but like for us, I just want to get into the mindset of like the only way any of this works is if we can get pipelines that spit out good content at scale.
+
+**Jason Gong:** So as long as you have kind of that defined for engineering, you know, and cool engineering doesn't have time so we can't hit 50 in a week, that's fine.
+
+**Jason Gong:** Does that make sense?
+
+**Jason Gong:** So, so like for, for this week.
+
+**Jason Gong:** Let's make the goal that all this is either defined or hopefully already on the way to getting set up.
+
+**Jason Gong:** And then we have kind of at least a few examples of content that engineering can build towards when they're setting up the content generation pipelines.
+
+**Jason Gong:** And then once we flesh out the content strategy, like generally what that looks like is, you know, you'll have many types of content that you want to generate at quality and scale.
+
+**Jason Gong:** Like, so for example, for Check That, we have, you know, we have brand pages, pricing alternatives, reviews, and then answers actually like two or three different types.
+
+**Jason Gong:** You know, so that's like five or six different, different pipelines, and I think we'll have, you know, probably the same for AI-led growth and growthx, but you don't need to know what all of them, all of them are from the beginning.
+
+**Jason Gong:** So, um.
+
+**Jason Gong:** Yeah, let's start with these two that we know we'll need to have, and then once we do the content strategy, it'll be a little bit more clear what the other, you know, three or four are, and then we can kick those off next week.
+
+**Saskia Wartnaby:** How do you want us to generate the example of good?
+
+**Saskia Wartnaby:** Do you just want us to find an example and check that, or do you want us to try and create it with, like, code or something?
+
+**Jason Gong:** I think because it's these two types and we have pretty good pipelines on check that, we should just generate the, like, initial draft from there and then kind of, like, polish it a bit with Claude or, it sounds like Danni's pretty deep into cursor, so maybe you can show Saskia and Kavishka how cursor's working too before we get a chance to all set it up later.
+
+**Jason Gong:** Yeah, but I would go about it that way, like, I would start from, check that, just so you're not starting from zero, and then do a couple rounds with, like, Claude or cursor.
+
+**Saskia Wartnaby:** Perfect.
+
+**Danni Roseman:** One thing that's still kind of a little bit blurry for me is the...
+
+**Danni Roseman:** Difference between growthx and allied growth content.
+
+**Danni Roseman:** It's only slightly nuanced where it's more agency-focused, but there's still the same types of content.
+
+**Danni Roseman:** But I also don't know if I fully understand how you all manage to make something sound authoritative from that perspective while using a pipeline as well.
+
+**Danni Roseman:** Maybe because I just, I'm sure it's possible, but I don't have that context fully.
+
+**Danni Roseman:** I like how you make it sound almost editorial, but like mass-produced.
+
+**Jason Gong:** I think we need to think through that because I think you're right.
+
+**Jason Gong:** There are overlapping a ton.
+
+**Jason Gong:** This is hopefully we can think through in the content strategy a bit.
+
+**Jason Gong:** Yeah, I don't think I have a good answer for that.
+
+**Jason Gong:** Like the agency angle, I think is probably something that will just exist on growthx.
+
+**Jason Gong:** But then as you start to get like a layer above to the...

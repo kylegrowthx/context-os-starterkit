@@ -1,0 +1,66 @@
+# Accessibility Audit: just-checking-in-email-alternatives
+
+URL: https://flodesk.com/blog/just-checking-in-email-alternatives/
+Date: February 28, 2026
+Tool: Lighthouse 12.8.2 axe-core (mobile)
+Accessibility Score: 80/100
+
+## Violations (failed)
+
+### Buttons do not have an accessible name
+When a button doesn't have an accessible name, screen readers announce it as "button", making it unusable for users who rely on screen readers.
+Affected elements: 1
+- `<button class="close-btn">`
+
+### Background and foreground colors do not have a sufficient contrast ratio.
+Low-contrast text is difficult or impossible for many users to read.
+Affected elements: 6
+- `<p>`
+- `<p>`
+- `<a rel="noopener" `="" or="" `rel="noreferrer" href="https://flodesk.com/terms-of-service" data-airgap-id="35">`
+- `<a rel="noopener" `="" or="" `rel="noreferrer" href="https://flodesk.com/privacy-policy" data-airgap-id="36">`
+- `<p>`
+
+### Links do not have a discernible name
+Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users.
+Affected elements: 5
+- `<a class="social-link" href="http://twitter.com/home/?status=How to upgrade your ‘just checking in’ ema…" target="_blank`
+- `<a class="social-link" href="http://www.facebook.com/sharer.php?u=/blog/just-checking-in-email-alternat…" target="_blank`
+- `<a class="social-link" href="http://www.linkedin.com/shareArticle?mini=true&amp;title=How to upgrade your ‘…" target="_b`
+- `<a rel="noopener" `="" or="" `rel="noreferrer" class="social-link" href="https://www.facebook.com/flodeskmaven" target="`
+- `<a rel="noopener" `="" or="" `rel="noreferrer" class="social-link" href="https://www.instagram.com/flodeskmaven/" target`
+
+### Touch targets do not have sufficient size or spacing.
+Touch targets with sufficient size and spacing help users who may have difficulty targeting small controls to activate the targets.
+Affected elements: 8
+- `<a rel="noopener" `="" or="" `rel="noreferrer" target="_blank" href="https://app.flodesk.com/sign-up" data-airgap-id="25`
+- `<a href="/blog/search" target="">`
+- `<a href="/blog/categories" target="">`
+- `<a href="https://flodesk.com" target="">`
+- `<a rel="noopener" `="" or="" `rel="noreferrer" class="social-link" href="https://www.facebook.com/groups/flodesk/" targe`
+
+## Warnings (incomplete)
+
+
+## Passed
+
+19 accessibility checks passed.
+- `[aria-*]` attributes match their roles
+- ARIA attributes are used as specified for the element's role
+- `[aria-hidden="true"]` is not present on the document `<body>`
+- `[aria-hidden="true"]` elements do not contain focusable descendents
+- Elements use only permitted ARIA attributes
+- `[aria-*]` attributes have valid values
+- `[aria-*]` attributes are valid and not misspelled
+- Document has a `<title>` element
+- Heading elements appear in a sequentially-descending order
+- `<html>` element has a `[lang]` attribute
+- `<html>` element has a valid value for its `[lang]` attribute
+- Image elements have `[alt]` attributes
+- Image elements do not have `[alt]` attributes that are redundant text.
+- Links are distinguishable without relying on color.
+- Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).
+- List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements
+- `[user-scalable="no"]` is not used in the `<meta name="viewport">` element and the `[maximum-scale]` attribute is not less than 5.
+- Document has a main landmark.
+- Elements with visible text labels have matching accessible names.

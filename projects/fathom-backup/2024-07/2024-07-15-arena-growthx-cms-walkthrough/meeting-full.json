@@ -1,0 +1,2106 @@
+{
+    "title": "Arena <> GrowthX CMS Walkthrough",
+    "meeting_title": "Arena <> GrowthX CMS Walkthrough",
+    "url": "https://fathom.video/calls/120309888",
+    "created_at": "2024-07-15T18:28:02Z",
+    "scheduled_start_time": "2024-07-15T18:00:00Z",
+    "scheduled_end_time": "2024-07-15T18:30:00Z",
+    "recording_id": 22621273,
+    "recording_start_time": "2024-07-15T18:01:51Z",
+    "recording_end_time": "2024-07-15T18:27:18Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You Hello everyone.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Are you?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm good.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How was your weekend?",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Well, it was, I think, really being under the website launch because the last ones were like full of stuff.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's how time to rest.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So basically, this was just to take me through a walkthrough of the CMS.",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I can like do all the publishing on my end and not bug you guys for anything.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, is there anything that I need to get access to also?",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yes, probably.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "We are talking about the website for the blog, right?",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yes.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So I'll share my screen and do a quick overview of the platform.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "But we are using WordPress.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "think there are some highlights that I would like to bring here, but other than that, it's very simple, very straightforward.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, so I'm going to show my screen.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I'm not sure.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "need some extra permissions for.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have to.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, I think I need to restore the app just a second.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No worries.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Take it up.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You Okay, let's try again.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And it goes",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "solutions here.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's it.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Good.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Can you see my screen?",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Here we have the admin panel of WordPress, but let me log out and again to show the entire journey, but basically we access arena.im slash wp admin and we are going to write this screen and I'll create a user for you so you can have your own user and be able to have the right permissions here, but I'm using an admin account, probably have some extra stuff here that won't be interesting for you, but I'll show you the most relevant part.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So we have here the post section, which is basically the blog and post is",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's different from pages because it relates to more dynamic content and by dynamic I mean post content with a date with time and outdoor and stuff that relates to blog and pages are more like a blank page which you can put everything that you want but it's not really structured with a higher RT with tags and that kind of stuff.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's basically a blank page that you can do everything you want and we use the pages to do like the content that we are not changing that often or the static pages from the website and last but not least we have the customer section where we put the customer's success cases here.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's similar to blog but we simply separate a structure so we can list them both in different sections of the website.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So here we have like the success cases.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Let me open one that is more interesting here.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I don't know, France 24, I think this one is more recent, and I was opening, by the way, have recently turned down the cache, so it might be a little bit slower to affix it, but here we have the success case, the customer, and that's it.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "We create these last often, we have only 12 here, but the posts are, I think, the most interesting part here.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "For the pages, we have these static pages on the website, all of these, like blog, the product pages, solution pages, price and page, all of those are on their pages.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And coming back to blog, the posts we have, the posts list here, they have the outer categories, and categories, they follow higher up,",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "and they are used to create the URL, the path of the post.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So that's what we use mostly to create the topic clusters.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "on our old blog, we only have like slash post slash the post name.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And now we migrated everything here automatically.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So we created this new structure automatically using the categories that we already have.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So it's something that we need to work on to create the right clusters here.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And the categories that we had, were not using the same meaning.",
+            "timestamp": "00:07:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So we had some that relates to a use case and some that relates to a product.",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So the idea would be to have the same meaning for them, especially because when creating topic clusters, users won't probably be searching for a specific product, but they will search for.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "for a problem they have.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So for example, here we have like audience engagement, which could be an interesting category, but we also have live blocks.",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "live blocks should not be a category.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And we have some, I guess, opposed to maybe improve them in the sense, but for the future, for the next post that we are going to create, there should be a clear strategy on what clusters you want to create.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So that should be aligned with the marketing problem.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "They are also aware of this, this is not really an issue, but this improvement possibility for the future.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, I'll talk to Paula about that, or I'll try to, yes.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I think Paula is the one that is full-time working on this.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "she aware of everything that is going on.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "She's also now working on the SEO improvements here.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I've just talked to her about this.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "How open?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You can clearly see the one that you already proved.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "They have a really high score here already.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "But I will open a random post here to go into the structure, try to avoid the one that she's editing right now.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "They will block.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, so let's try this one.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, let's work.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, I'm not sure if this is the best one.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "This is kind of recent.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's from January.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "This last column is used by RankPath, it's our actual plugin.",
+            "timestamp": "00:09:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's similar to EOS, but it's slightly better in some aspects.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "But here we have the content.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Here I have the main content, so it uses basically the native box from",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I'm not pressed, but you can use either blocks or raw text, which he has going to see what you get editor.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So it's very straightforward.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "like images, listings, choose the right headings for each section.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And that's very straightforward.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "If you need a more complex post, you can change it to the Elementor builder, which will have like thousands of different blocks.",
+            "timestamp": "00:10:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "usually that's not the case for block posts, it's meant to be very straightforward.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But maybe...",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "don't think about using that much.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, if you need something very specific, like you must create an image gallery, or you want to create an image that you can swipe before and after you can do that Elementor.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "But in general, all you need is like headlines, text, bullet points, and images.",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "On the right side, you have the the post like settings in general, so before publishing, it will be like it will be in a draft status so you can click publishing set of update, but it will show here like status visibility public, it will be a draft.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "There won't be a published date, but this one is published so you have this information here.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You can change the author here and even like we are probably going to delete some people that are not here anymore, but you have all the list of users in the CMS.",
+            "timestamp": "00:11:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You can switch back to draft if you published something that shouldn't be live and go back to draft.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Here can select the categories and these categories as I told you before they will compose the post URL so let me open this.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "one to show you an example.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You can see this one is the URL here is slash audience engagement is slash the post is like so you can either you know change the post is like here it's under URL here you can change the post like it's vermalink and you can also change the category name or is like from the category interface which should be open parallel here but you can see there are two categories the idea would be one because it's hierarchical it's not a problem to have two this this one has has two because it was migrated from our red flow legacy blog but the idea would be to have only one but if I change the URL here",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "to group chat because it's the other category.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It should also work.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So it's not an issue.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:13:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, that's it.",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Feel free to create new categories here.",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "There's something to do so.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Everything that is not a category and it's not meant to be hierarchical, it could go over to tags and create tags about everything that should be relevant, search terms, keywords, kind of stuff.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Some of them will even help in SEO.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "The featured image, we also migrated all the images that we were using before.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "My take here is that we should avoid tags on the featured images, but it's up to you and the marketing team to decide that.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But the image is like 16 by 9.",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Let me check here.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "If you click on the image, you will open the image gallery and you will show the image details, but also the entire image gallery is going to change the image.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's a bit slow here.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I can actually check that.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "This one is 1200 by 628 pixels.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "have like a standard size for that?",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I don't.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "These ones are always standards, but we have some optimizations here that you run automatically.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "For example, if you upload an image that is bigger than 2000 pixels, will automatically reside there.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "if there is a standard here, I think you should align.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "that's the more thing thing about the featured image standards because it will also appear in the sharing thumbnail.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So it's something that should maybe should be standardized and something like that.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "But I think this is a good resolution for the image 1200 pixels.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "There's only to be bigger than and there's also some optimizations for the size of the image.",
+            "timestamp": "00:15:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So they should be as small as possible but not like low resolution.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So it's something to be concerned about.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, so there are some excerpts here.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It probably appear when you share the link as the",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "push the thumbnail, and it might also be relevant for the except there appears on search engines.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Have to test that.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I'm not sure.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "At the meta description, I think it must be that, right?",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "There's another section for the meta content.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "will show you this is some optimization stuff.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You don't need to worry about it.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "OK, so these are the basic settings for WordPress.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And here is the rank method config.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "This is our SEO plugin.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So this is very, very relevant because they run some tests here.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You see how relevant is the content, or if you really are using some specific terms.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So this is very interesting because you can see some feedback from the already on the post.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Here, the first section, you can see the preview with the meta.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "at a content.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So this is the title that is going to appear on the search engines.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Currently, it's using some variables.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You can use them or mix them with broad text, use something very specific for the SEO title or even use only text here.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Here is a permalink.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I think this one will override the other one from WordPress.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And here is the meta description.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So this monaut is probably the most relevant part here because it's going to define the SEO content, right?",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Here you can also see a preview of how it's going to look like in social media when you share the content.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So you can see your Twitter on Facebook.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "There are some other options to customize how it's going to appear on the social media.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "And we also have an AI function here.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I have to test that to see if it's relevant because otherwise you won't renew it.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I can definitely check that out also and give you guys a little bit.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "There's some ranked met topic for killer content.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I don't with the new clustering strategy to treat you and suggest something that you create killer pages.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Probably the marketing team will be best to discuss that.",
+            "timestamp": "00:18:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "There are some suggestions here to use focus keywords to the right side of the Metacontin.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "That's it.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Title with ability.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Content with ability.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "That's it.",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's a reference.",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "suggestion, but it's not a must to like reach 100 points here.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So we are using rank method, feel free to research the tool.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's very similar to Yoast.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I'm not sure if you're aware of any of these, but I've read many reviews.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I've used Yoast before, so if this is similar, it should be fine.",
+            "timestamp": "00:19:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, it's very similar.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I've read many reviews and comparisons and people say this is slightly better, but they all have the same features in the end.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, the group chat also works here.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I think that's it, the most relevant part.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Let me check if there's something specific here.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Canonical URL, bread, if you want to specify something true.",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "here on the breadcrumbs.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I've disabled the breadcrumbs, they should appear on top of the title here.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "But I disabled them because they work best when you have only one category.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So you have two categories, the breadcrumbs would be messed up.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So if we like organize the categories, we can bring them back.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, but we can define a specific title for the breadcrumbs because maybe the title is way too big and we look like weird.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, so it's a game I'm not really an expert on this but I believe they use schema markups for search engines and there are a lot which blocks there will be like available for customization.",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I've",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "basically use the article default one, but we can customize the schema for search engines here, so I don't really know what could be customized here, but you're free to bring suggestions here.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'm also not really familiar with this, so I think I'm Another screen.",
+            "timestamp": "00:21:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, it's going to have a JSON payload here for the entire post contents, this is more advanced, I guess.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I probably won't use this part.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "You can also test with Google.",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, it tests if it's compatible or it's a Google URL.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "okay, that's interesting, it's valid.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, that's cool.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "It's good that words.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Because it is the default configuration.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, there's a one no critical error.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Well, there isn't a URL field under author.",
+            "timestamp": "00:22:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, yeah, we disabled the author page.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I'm not sure if we should enable it, but we haven't like designed the page at all.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So it's going to be like just the text there.",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, I don't think it's too important right now.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, it is not pretty cool.",
+            "timestamp": "00:22:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Just keeping a broad overview here.",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah, I think that's it.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "This is, oh, yeah, this is also the preview, the isn't a previewer.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "yeah, I think that's it.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "you have questions, like, anything missing?",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Not really, not right now.",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that covers mostly everything.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I just need access to this, I guess, and if you could give, I'll send you the emails, me and myself, and maybe Jimmy as well, actually.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, can you send me the people who needs access here?",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Actually, let me double check with myself and see who needs to get sent to the emails because I feel like some people might be unnecessary.",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'll send you my email for now.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if we need to add anyone else, I'll text, I'll select you.",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, we also have the tool to create content here with AI.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "just have to activate it because I think it was activated in our test and by",
+            "timestamp": "00:23:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "But you can also create key words with AI if they are good enough.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "My health and process.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "make sure it's activated.",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "If we should test everything and bring your feedback.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Well, other than that, you can like preview the post before publishing.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "So there's some sources here and see how it's going to look like in different resolutions.",
+            "timestamp": "00:24:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Okay, so that's it.",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That is pretty much it.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Nothing else, right?",
+            "timestamp": "00:24:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "I don't think I don't remember anything else, but we can talk again.",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Questions only.",
+            "timestamp": "00:24:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "All right.",
+            "timestamp": "00:24:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Something will come up.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "when you start using it.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'll probably ask you at some point to something.",
+            "timestamp": "00:25:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'll read that, but yeah.",
+            "timestamp": "00:25:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "OK.",
+            "timestamp": "00:25:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:25:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Lu\u00eds Eterovick",
+                "matched_calendar_invitee_email": "luis@arena.im"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:25:28"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Walkthrough of the CMS (WordPress) for publishing blog posts and managing content on the Arena.im website.](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [WordPress is being used as the CMS, with the RankMath plugin for SEO optimization](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=111.0)\n  - [Categories are used to create topic clusters and structure URLs](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=407.0)\n  - [Featured images should be optimized for size and resolution](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=860.0)\n  - [RankMath provides SEO analysis, meta data customization, and social preview options](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1016.0)\n  - [AI content generation tools are available but need to be tested](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1081.0)\n\n## Topics\n\n### WordPress Overview\n\n  - [Posts vs Pages: Posts are for blog/dated content, Pages are for static website content](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=294.0)\n  - [Customer success cases are separated into their own custom post type](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=326.0)\n  - [Existing category structure needs improvement to align with topic clusters](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=445.0)\n\n### Post Editing\n\n  - [Standard editor for text, images, formatting](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=592.0)\n  - [Elementor plugin available for more complex layouts if needed](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=621.0)\n  - [Post settings: status, visibility, author, categories, tags, featured image](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=661.0)\n  - [Categories form the URL path, should be carefully structured](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=710.0)\n\n### SEO with RankMath\n\n  - [Previews meta title, description, social sharing cards](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1016.0)\n  - [Analyzes content for focus keywords, readability, etc.](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=992.0)\n  - [Allows customizing schema markup](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1233.0)\n  - [Has AI content tools that need testing](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1430.0)\n\n## Next Steps\n\n  - [Sadira to send Luis her email for CMS access](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1386.0)\n  - [Discuss category/topic cluster strategy with marketing team](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=505.0)\n  - [Test AI content generation tools in RankMath](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1430.0)\n  - [Sadira to follow up with any other questions as she starts using the CMS](https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2?tab=summary&timestamp=1501.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Send list of required CMS access to Lu\u00eds Eterovick (3) with Sadira Sittampalam and Jimmy's emails",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:23:19",
+            "recording_playback_url": "https://fathom.video/calls/120309888?timestamp=1399.3799000000001",
+            "assignee": {
+                "name": "Sadira Sittampalam",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Activate AI content creation tool and test its effectiveness",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:23:44",
+            "recording_playback_url": "https://fathom.video/calls/120309888?timestamp=1424.9999",
+            "assignee": {
+                "name": "Lu\u00eds Eterovick (3)",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Follow up with Lu\u00eds Eterovick (3) if any questions arise regarding CMS use",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:24:56",
+            "recording_playback_url": "https://fathom.video/calls/120309888?timestamp=1496.839899",
+            "assignee": {
+                "name": "Sadira Sittampalam",
+                "email": null,
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Sadira Sittampalam",
+            "email": "sadira@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Lu\u00eds Eterovick",
+            "email": "luis@arena.im",
+            "email_domain": "arena.im",
+            "is_external": true,
+            "matched_speaker_display_name": "Lu\u00eds Eterovick"
+        },
+        {
+            "name": "Alice Ochieng",
+            "email": "alice@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        }
+    ],
+    "recorded_by": {
+        "name": "Alice Ochieng",
+        "email": "alice@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/M43L7brrfMbbMiXhymcEar6exxx424L2",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

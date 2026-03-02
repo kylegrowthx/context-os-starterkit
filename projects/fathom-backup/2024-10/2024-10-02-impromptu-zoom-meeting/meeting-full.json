@@ -1,0 +1,2691 @@
+{
+    "title": "Impromptu Zoom Meeting",
+    "meeting_title": "Impromptu Zoom Meeting",
+    "url": "https://fathom.video/calls/158281654",
+    "created_at": "2024-10-02T20:05:14Z",
+    "scheduled_start_time": "2024-10-02T19:17:19Z",
+    "scheduled_end_time": "2024-10-02T19:32:19Z",
+    "recording_id": 30472848,
+    "recording_start_time": "2024-10-02T19:18:32Z",
+    "recording_end_time": "2024-10-02T20:04:21Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "this meeting is being recorded what is that background the concrete oh it's in our room like our bedroom our messy bedroom oh I have never been there yeah we're redoing the basement construction is all downstairs it's gonna look they're gonna stand and finish next week and then cabinets go in the following week and then it's pretty much like 90% there you know so hopefully we're back from Brazil it'll be close to done yeah when you guys going in next week yeah the 9th and then we're back on the 22nd yeah we'll be every all the whole time we can",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I know it's going to be a shock for you by the way if there's anyone who I'm in real that like you think I should connect with like on the tech side or like just like a Brazilian's that you're like oh you should know these people like like let me know you know Daniel is gonna be there too yeah it's not this wedding but then you're gonna be there too and so I'm trying to find excuses to have like meetings or like meet people you know yeah yeah I know a lot of people in Sao Paulo now yeah less in Rio in Rio for years I know a lot of people in Rio but if they're on the on TV or yeah or advertising some of them so I mean let me think about some interesting people that you could meet there yeah yeah no worries we don't think it's more like if there's someone that you look really like or that you think or like and it's for smart you hit it off at the",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "person like happy to grab coffee or something, you know, meet new people while I'm there.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, I'll think about it.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you want to, for business, there's a recruiter we're working with in Rio, that's very good.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, nice.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah, I'll definitely, I'll definitely take you up on that because we're starting to like ramplop from the hiring front as well, you know, so that's going to be now.",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There are some good resources there.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, you know, so I wanted to talk to you about this announcement because we are about to go live and I have pretty much created all the you all the content that we need in Notion.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And what I did is instead of trying to standardize my text or whatever, I created an agent and I gave access to all the Notion data.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Anytime that anybody needs anything for a content, let's say they need something for LinkedIn or whatever Then they're gonna go use the agent and just ask the agent for the content that they want It's all valid data content that is is being tested so what I'm trying to do now is to standardize the voice and Tone so that like the agent always produces something that's consistent, but something that has a brand voice Yeah So I did I did add brand voice to the agent But like I don't I think I wanted to be like in the system prompt like actually like part of the yeah the main instructions of the so I want to show you what I got and then like get your input on it and then With something good and if there's things like we have workflows that work better that you want to use Like you give you access as well Yeah, for sure.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is the product is I think the last time you saw it we were like pretty much",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "getting to this but we got like all the pricing stuff people are paying now it's all really neat we got a ton of tools that the agent can use these in our dev environment they are like super nice looking we have just like refactored and with like really cool icons and stuff so when you ask you're just coming into the the production environment when you ask the agent like to send an email or like send a something to Microsoft Teams you know it does all the work for you identifies all the stuff and you can even ask by the way on the email step I'm really curious because like AirOps has a email step and or not email step but they have like an email integration and I connected it and I was like why the app would they do it this way so they have it to where it's global but then one can send email on your behalf and you can only connect one Gmail account and I'm like this is so stupid like it should be on an individual basis and if I connect",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "my Gmail, no one else should be able to send an email on my behalf, you know?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So is that how you guys done it?",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Or like, look next to email?",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Is it on the right level?",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, there's both things.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if I say connect Gmail, the agent goes and gives me a connection to send emails.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it will give me like the ability to send emails.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Actually, my Gmail is already connected.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you will be able to go and send emails on my behalf, but just when I asked the agent to do it, separately you can integrate your email data.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if I wanted to bring my email information, just as an email sync, then like my email becomes a, if I go and connect Gmail, my email becomes a data set.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "the entire email is a data set.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then I can run anything against my emails.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's really cool.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me just get the password because they got a lot of the use cases, people at ramp one are things related to sending emails and on the individual basis.",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so this is going to be a lot better than that.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So whenever you go live, like I think what we could do is like, I don't know, I think I have some ideas of things that you think about, you know, be good.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so I don't want that email.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "By the way, if you search for data grid as a name, we're number three now.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, yeah, I saw, I saw it straining up.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's really starting to trend up.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so it's really good, like, essentially, like, like, I think, well,",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, after the announcement, we got some links and stuff, like, you can really, you know, yeah, it's a good, it's a good name, man.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It is, yeah.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "When I see the interview, people think it is a big company, so.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah, exactly.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That was the whole idea, so that's perfect.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so, so if you, when you do inboxes, you can select, like, let's say, all mail, right?",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then incrementally updates, so if I start importing my email, I have, like, an email just for the agent, right?",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I created an email for the agent, and then the agent can use it to send and receive emails.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's a really straightforward demo for, you know, for us, and all my emails come in here, and I also, I also did some examples where we, like, put the icons on the email, tag everything, because, like, I have, you know, like, this is the email, the way it comes, right?",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if I wanted to know if this email is, like, a vendor email, I can go and say, you know,",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is a vendor email and then run this for the 10 columns here and then you just tag use a vendor email with the vendor in this email I can change it you know erase and run it again I can change the type of the column like if I want this to be a list and then run on all the all the data that's in here then we just go and you know tag all my email stuff I just hired well he's volunteering right now like so as guy Bruno he's he was like a hub and then for cell and like I love to have him like give him an access to this to our instance",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And if you guys can load up some credits for us and then we can play around with it because like we want to do like like we're not like we're essentially Our rebuilding a lot of stuff like that like we don't want to use their ops anymore Like we're still like friends with them, but but like we're starting to take a lot of stuff off of it I was telling Daniel we were gonna work.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We have all this behind an API now Yeah, that's awesome.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can build a product on top of these back ends.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah So like so like it can be a win-win-win right like where we big we'll build stuff behind your API and become a customer You guys can be a customer of ours and we'll help promote the crap out of you guys and in some of the use cases can build up a bunch of use cases and create content for you You know and and like now that you announce like we'll be ready to like really like Jimmy is awesome And then Kyle so we hire Bruno as well, and then we also have Kyle this joining he already joined",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Um, and, um, you know, sends a link to him.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "He literally, like, he was our first customer and he literally quit his job and hit me up and was like, can I please work with you?",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "and like Bruno's the same thing.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "He me up, like, can I please volunteer?",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You don't have to pay me.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Can I just please work with you as a really cool man, like legit people that can help you on the growth side, you know?",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's great.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'm pretty sure like this is going to be huge.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You guys are doing something that everybody wants.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, and nobody wants to do the actual work.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "People want to build a technology like me and then like, you know, like the reality is the value is people using the technology and not that exactly.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I find that their expertise is technology.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But what you're doing is like, I can't be into like, yeah, all the dishes we're running to and air offs and all the limitations of using play.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's, you guys can 10x 100x play, um, so it's high as well.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "No matter what, no matter how good the experience is, the learning curve is high, you know?",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Learning comfort play is really high so the the icon something we did like you know we have the models and stuff So you can go and like choose like all one mini and then run like with like systems And One thing we're doing just so you know like you're here if you do insert and you do like AI web search For now, we have you and Google but we're gonna change this to AI enrichment and just And let you know just add all the enrichment providers in here because really like that's kind of all you want You're like clear bit and then like the one in ienrichment People don't want to like have a ton of different column types and stuff like he's just like AI enrichment column clay has this Like it's just an infinite number of enrichment tools in there It's so hard to use because each one has a different UI so you got yeah Say I want you to find an email address for this and then you just do a cascading thing And it finds everything that demo alone is the single Yeah, and if you do like you know find uh find information about the company",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "and run this over here, it's gonna just use company name, company address, company phone, company description, it's gonna fill it all up.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it does the same thing that the I column does, which is to augment all of the data, not just a single thing.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so you can play with this, and then you can save and when not, but even before you save, you could pop up an agent.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you can do, I have a RFP writing agent, I can do like at vanilla agent, which is my standard agent, and say, what emails do you have access to?",
+            "timestamp": "00:12:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then agent already has access to all of the emails that we integrated, and it's just learning the additional stuff.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you learn about that.",
+            "timestamp": "00:12:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it also knows that I am Jack of the Costa.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it actually treats me by name.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And yeah, so I can ask the email.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "As you may have snapshot this contains email extract data from all emails from is there a way for the for the AI steps to have a user assistant pair or is that something you guys can add soon.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "To have a human in the loop, right.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "No, no, the user assist pair so so like because a lot of the stuff we do like with the old preview and mini you don't need to do that anymore as much, but a lot of the stuff is like.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You're you want to take the you essentially want to do like a chain of thought right like and a thought is like, for example, the tone stuff you want to do the channel.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There's no way to do it without doing a really good.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, because it's just like a single prompt doesn't do as well, you know, even if you have a really good system prompt and a really good user prompt, you still need like a chain of thought.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right, but what would be an example like you want the agent to do like one go on the web and search your next example of like.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I know the example, but I want to know the outcome.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "search about myself, Santilli.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I can show you when I built for RAM, if you want.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I think in Data Grid, would be lot better than what I built.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But I can show you.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "OK.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, before we do that, let's go through it.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But if you say like, now he's background and the companies you worked at, we analyze write, draft, email based on a draft blog post about ourselves, a new company where you find out about Rotex Labs.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then four, like the agent would actually follow all these instructions.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like it actually do all these things, including looking for you, researching your career history, researching Rotex Labs, individual searches, right?",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "it would all go scraped.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the web for RotaxLab will go script the web for you.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we'll write the response.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it will be highly contextualized to this thing, though we're talking about here.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you can do a bunch of stuff.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, actually, knows you individually, and then RotaxLab's individual.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, this is really cool.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is awesome.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But what people want to do, so how would I do this custom prompt?",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, go to the web, do this, this, and this.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "If I had 100 leads, you would add a column, and just put that as an agent prompt, right, essentially.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, you could do, like, in that email thing, let's say we want an agent column that do these four steps for each row.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You just do the exact same thing.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's a prompt on the AI agent column to do those four things.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we are making a change now to show the plan in here.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we're not showing the plan yet, but you can do it.",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "here, you know, search the web for the company, and we can choose the agent that we're going to be using here.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, like the vanilla AI agent that I was using, and then like all the steps are going to happen for each row.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Nice.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is awesome, man.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I spent a ton of time on this.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I got a ton of ideas, but yeah, this is cool.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is just added one, one, so you know it's just going to come in like I'm going to show you because then you go and make more sense where we're going, but you load up my account or make sure my account has like stuff that I can play with.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I could find up last week, very depleted growth back, but I don't know, it should work.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But this is what Dove just added, just so you know, as you start using this stuff.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Mm hmm.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So he just added.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "that actually I don't know where that PR is, is not this one, I think it's just the open PR.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, I'll send it to you later, but basically this plan that you see here, the little plan object, this is going to show up inside of the AI agent here.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So as you work through the agent, you have the actual plan in there.",
+            "timestamp": "00:17:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's where that's at and then what I want to show you is I built one for our marketing.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the one for marketing, I connected our entire brand story notion, which is like a ton of notion pages and use case, all the stuff you wrote as well, like it's all the notion data, it's all here, like I can click and go to it and stuff.",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I know like what it is.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I was like, well, what that is and so on.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I wrote the marketing copywriter.",
+            "timestamp": "00:18:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And by the way, when you go into the agent here versus agent central, the difference is agent central is like conversations with the agent and visits the configuration of the agent.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can control which model the agent is using, you can control which knowledge base is the agent is using, and then the instructions of the agent.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then I gave some marketing instructions here.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So now if I say, let's say our team wants to make a t-shirt, write a tagline for a t-shirt, for a data grid t-shirt.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So what happens is it uses all the notion data that has already learned, and then come back with taglines for me.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "data dreams, grid reality, empower your insides, innovate with every byte, data dreams, you're ready.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "just comes up with stuff that you learn from our data.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if I want to go and say, create the blog post for data grid launch.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And as you can see here, the knowledge is like all data.",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you will go and look at the data that we have, and then using the brand story database and then create a blog post announcement.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that's how we're going to create all the content.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is all using all of that data we wrote.",
+            "timestamp": "00:19:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like data enrichment and management, workflow capabilities, the hiring platforms, custom IDI agents, who can benefit, you know, everything.",
+            "timestamp": "00:19:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A short social media LinkedIn post about data grid going live today.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And essentially like all the content is going to be generated to this agent.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the workflow is that like if anybody wants to get content ready, then they just come in here.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And they just grab the content as generated by the agent because I trust the content of the agent more than I trust the human.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "content.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, so what I wanted to know is like, what would you do with like, instructions, you know, like, hey, you're a content writer, you create awesome content, but like, we can do like, we can make it very, we can give more brand voice.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I don't know, like, what would you suggest we do?",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, I think like the, um, it kind of depends, right?",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so the, like, our, our workflows gets so crazy.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "that's part of like, kind of what we're building now is, it's like way to understand the steps and the workflow and be able to like, enrich those steps and understand them in terms of nodes and blocks, and then essentially build an agent that builds these complex workflows.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So essentially, we're going towards like, more complex tasks that require a lot of expert input, similar to this thing I think yesterday that day is like, imagine like, you have an agent that you, you send it to go.",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Juice and have a work for you that's highly complex and it comes back a month later like you know like that got me thinking like I mean for the more complex tasks you want like you don't care about like if it's gonna cost a dollar or or whatever you want it to be like go do this thing for me and go  figure it out and come back whenever you're ready like you know you know and the goal asks me questions along the way but it's okay if you get it done today like you know like a week to go do this you know so like that's like future that I think like we can build towards on our end you know and and like and so like what like the way um we what what I want is just like a simple way for my team to be able to like get one you know one and one blog post built out like something super simple um so if they ask like what are the key you know benefits of uh data grid I don't want them to go into notion and get look",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "lost and like not know what the key benefits of data grid is because they saw a hundred pages.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I want this agent to tell them what the key benefits are and then it actually knows what the key benefits are, multi-step, automation, customized way eye agents, uncovering insights, real-time data integration, enrichment, AI-driven analytics, streamlined workflows, just like all the stuff that we already wrote and how what kind of process we we should be applying it for like I wanted to always be what I already wrote and not something people come up with.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is just for simple content not for like know that reasoning problem or like oh good reason about this for a month and then come back this is more like I just want like something to send tomorrow to my you know trade show you know company description right?",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah let me pull up some of the things that I",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "think help.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "the main thing is like usually like we try to decompose it because there's like the first thing is the input right like if you say write me an article about whatever like you wanted to have you have your data set inputs but you also want to try to like pull in and the like other sources and just additional information from from the web which you already have the step that that doesn't wouldn't that just be an additional step like number one search the web about AI trans number two look up our brand notion pages and brand pages for yeah I think that a line you know like couldn't wouldn't that be just kind of an instruction to the agent um that could be that could be interesting the but but I think he",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think with the system instructions, it can be a lot better as well.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I can send you some of the stuff and then the thing that even though you have knowledge already, like the data set, I try to insert company descriptions and as a variable.",
+            "timestamp": "00:24:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I don't know if you have a concept of global variables.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "If not, that would be a cool thing to have because they're really like company description should be a global variable, you know, brand kit should be a global variable because even though you can drag it, it's also good to have them in the system prompts and you don't want people typing the description of the company every single time and you want people to have some control over it, right, as well, you know, you need to generate the barrier.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How would you use the company description?",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Does if I ask this thing, like, what's the company description of, you know, that by a fact?",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "but in the in the agent prompts because like the system instruction you're like you're an engaging content writer it should be you're an engaging content writer who works for data grid here's what know it the data grid yeah from the data it's it's already like it is the data told it it's been learning this data for literally four days now got it okay so all of it about the data like I can ask what's the what is the backstory of data grid like it knows that because the backstory of data grid was in motion so as long as you have data you will know yeah um you're pulling up some of this stuff it's just quoting where the information is coming from but",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I guess it's just a different way to think about it, right?",
+            "timestamp": "00:26:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "the way I've been doing things is not necessarily better.",
+            "timestamp": "00:26:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just different because it's a lot of chain of thought, you know?",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And with agents, some of that chain of thought is already, like, they're using RAG, they're thinking through, it's like a genetic system, right?",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's kind of different.",
+            "timestamp": "00:26:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, like, a lot of what we're doing is, like, these kind of, like, in the system prompt, we'll have the, you know, let me pull one for email, right, that I just did yesterday.",
+            "timestamp": "00:26:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "All right, so this is one I did here that did really well.",
+            "timestamp": "00:26:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, and then we can try to replicate some of these in data grid, know, but, like...",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is the, I mean, this one is super gnarly.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Look how many tokens do you like an insane amount of tokens, but this is the output is this.",
+            "timestamp": "00:27:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is doing research on a prospect of this case webflow, right?",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Again, all the stuff you can do upon data grid.",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me just understand it.",
+            "timestamp": "00:27:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like you have research on a company, which is there's a research task in the agent that can do research.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so essentially what I'm doing is I'm collecting, I think you can probably describe this whole flow and then it will do well.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But it essentially starts with a website and let LinkedIn profile of a person.",
+            "timestamp": "00:27:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then it's the homepage of that profile, like, so say, webflow.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Then it uses, and then it summarizes that.",
+            "timestamp": "00:27:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, like, know, super basic.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Right.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It takes the scrape and summarizes and writes a brief about that company, you know, right?",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And and then it scrapes the LinkedIn profile of the prospect and then it writes a brief about it, you know But I'm very specific about the things I wanted to write, you know So I do like a chain of thought here, which might not need anymore All right, you know, you can just say do this in this format and that should be fine But but it's like these are the and so the what would be interesting is to know like if how many of these steps do you want to have a Separate agent that specializes in this step versus how much do you want to just have a generic marketing one?",
+            "timestamp": "00:28:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "My sense is that you might want to have a lot of specialized ones and then you know At least I think it would do a lot better because what you're doing is like you're decomposing the steps And and being very specialized and then later on",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And you have the generic one, take the inputs from all the outputs from all the specific ones, then piece it together in the more complex task, right?",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But it could also be that like, hey, if you just do a really crazy prompt and ask it to interpret or describe these flows, it would do a good job.",
+            "timestamp": "00:29:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "just that like the level of details in some of these might be a little bit more difficult for an agent to replicate.",
+            "timestamp": "00:29:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then it does perplexity research on the prospect, and then this step, I started using 01 preview, it's really good.",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so this is where I used the variables, explain what the prospect is about.",
+            "timestamp": "00:29:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So this is my company name variable, and then describe how this is where I spoke a lot, and then about your company.",
+            "timestamp": "00:29:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I insert a description about my company here ramp, and then I take some of the inputs or the outputs from some of the previous steps, and then all of this 01 is so slow, but it's really good.",
+            "timestamp": "00:29:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And like these complex tasks.",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So for any time I'm using 01 now, now you don't need chain of thought anymore.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then it's just like you just give it a crazy prompt and it does pretty well, you know?",
+            "timestamp": "00:30:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Hey, Sheila is an assistant controller at webflow.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "She leads mobile app and you can focus improving processes and automating tasks.",
+            "timestamp": "00:30:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "She's responsible for this, her expertise is in this.",
+            "timestamp": "00:30:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Her major concerns and fears related to her job are these.",
+            "timestamp": "00:30:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "The top paint points and frustrations are these.",
+            "timestamp": "00:30:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Her emotional psychological state is this.",
+            "timestamp": "00:30:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And this is all to like create the psychoanalysis.",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That I'm going to use to write a really good email later, you know?",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So thinking through like what my thought process would be in this stuff, you know?",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I go and I do a memory query to try to find properties that would be relevant to this.",
+            "timestamp": "00:30:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is an agent would do way better than a simple retrieval.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like data grid would do way better in this.",
+            "timestamp": "00:30:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And that's why I want to like move everything over to data grid, right?",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This pulls out like related case studies.",
+            "timestamp": "00:30:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I do.",
+            "timestamp": "00:30:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "three different versions of emails, just because I want to have a lot of variety, and then I want to salesperson to pick whatever the salesperson wants, you know, so, so it's like, so then the first one is very basic, it's like, well, not basic, but I, this is my system prompt, you know, I can send it to you, so you can use it.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And this is where like, Workspace about company, and this is like where you can play around, like, if you think you, you don't need it, you know, but, and then, and then your goal is to write a cold outbound email, blah, blah, and then I put the research on the prospect, research on the company, and then, and then I add it back here, that, the one that I deal with, O1, I added back here, even though I'm using 4O for this, like, you know, so it's kind of like, I'm finding that it's like, really cool, I started mixing opus for some things, O1 for another things, like, uh, 4O.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "for others, you know, thought versus Oh, one preview.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it's like, it's really cool.",
+            "timestamp": "00:32:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I'm like, okay, now think deeply about this prospect and write a personal short and raw email, blah, prompt can be better.",
+            "timestamp": "00:32:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I ask it for five versions, you know.",
+            "timestamp": "00:32:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then anyways, and then the next part I go and I give it like this crazy template here.",
+            "timestamp": "00:32:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That I found an email that has 14 different frameworks or a bunch of frameworks for different cold emails.",
+            "timestamp": "00:32:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I ask it to do one of each version.",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's like the mousetrap, saving time with automation, the mousetrap with context, the vanilla ice cream, the neural insight, the thoughtful bump, the clarification, the like the breakup, the founder card, like the toe tip vip.",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so essentially like all these different frameworks.",
+            "timestamp": "00:32:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "of like old emails, and then like an AE could pick from, right?",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then this one I go and I do the same thing, but I use O1 instead to see how I did.",
+            "timestamp": "00:33:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I do the same.",
+            "timestamp": "00:33:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I have a, you know, one methodology with five versions, another one with O, like, and then another one with O1 preview.",
+            "timestamp": "00:33:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I output it all as different like outputs, you know?",
+            "timestamp": "00:33:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then the idea is like, an AE could choose from this library of like, you know, 40 emails, but then later on you can have an agent that picks which ones to use, you know, stack ranks, which ones are the most appropriate to use, you know?",
+            "timestamp": "00:33:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:33:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So like the PDF with the frameworks or the document with the frameworks would be a data set.",
+            "timestamp": "00:33:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:33:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you would just say, hey, using the frameworks, because what happens is the data, it would plan to like do this.",
+            "timestamp": "00:33:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Do this retrieve that combine this analyze that sequel query that you you plan to do these things in a graph So he builds a graph and he executes the graph and actually is a dynamic graph So the graph might change us you get closer to the target So that's how this the system is built out So if I ask it like filter out the last ten leads in our hub spot account and Then based on these ten leads Find out what their their psychological logic, you know, I like that thing right like what's their their psychological framework?",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Whatever I will do that, right?",
+            "timestamp": "00:34:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And he couldn't go and look up into the psychological framework, you know database or whatever There's a little bit different because you the agent is actually doing this really complex graphs that can barely be described Yeah, and he also does joins so you have data in multiple datasets can join them together do queries and so on Yeah, because I think like because the mindset is different what would be valuable is like",
+            "timestamp": "00:34:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Hey, us taking some of the stuff we're doing and working together with your help or anyone in the team's help to like replicated in data grid, and it serves a few purposes, right, we're sharing some of the knowledge we have, because we have 19 clients now, like, ramp Reddit, everybody's giving us like a ramp, like, like, we have like this goal of mine and like look at this.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm doing their, workshop for ramp, look what that look like I have 131 responses from everyone around that state of my workshop saying, like, how are they thinking about using that.",
+            "timestamp": "00:35:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's great.",
+            "timestamp": "00:35:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So my work on Monday, and I'm not done building the workshop, but I.",
+            "timestamp": "00:35:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I don't have time to go super deep into data grid in order to use data grid for this one, but you don't download this, shove it in there, and then you can ask question about anything.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, you have to transform the data after you nothing.",
+            "timestamp": "00:36:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They would get me learn all this.",
+            "timestamp": "00:36:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But like what I want to do is like, it's to spreadsheets, right?",
+            "timestamp": "00:36:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like the thing that that would be magical is like, take some of the things we already have built in workflows, right?",
+            "timestamp": "00:36:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then like some of the use cases we have that we're trying to open up new lanes of services that we want to offer, right?",
+            "timestamp": "00:36:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we can be your first like agency service provider that instead of using clay, we should be using data grid for everything, you know?",
+            "timestamp": "00:36:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We'll use air ops for a few things here and there, but then like, we'll use, and we'll still use clay too for things that you guys don't have integrations, like you guys don't have an RBP integration yet, like, you know, stuff like that, like as you build it, we'll move it over.",
+            "timestamp": "00:36:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then like, for everything else, all these agentics stuff, and especially if you can expose the API, then it's like,",
+            "timestamp": "00:36:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's kind of like a no brainer, you know, yeah, but then like we good to work together and try to figure out like, hey, can we like, can we take some of these and work together, you go through the logic and then it's like, okay, this is how I would build it over here in DataGrid and then you almost help us migrate as a service, you know, to DataGrid, you know, and then that's going to open up a ton of like things you can talk about publicly, you know, how people are using DataGrid, you know?",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, we could do an announcement too, which will be kind of cool on like the partnership and stuff because you were launching business, so we could just do the PR announcement.",
+            "timestamp": "00:37:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah, I think I'm announced next week, so it's like perfect timing, like, I'll announce that I'm leaving the program and that I, you know, starting like growth acts and then and then you're going to announce this week, so it's like perfect timing, you know?",
+            "timestamp": "00:37:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, or I can't go beyond today because in 10 days or 12 days I'm",
+            "timestamp": "00:37:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "at the AU conference.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Everybody knows now we have tons of customers are super excited about it.",
+            "timestamp": "00:38:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:38:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:38:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "we have, I think we have a good path forward.",
+            "timestamp": "00:38:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "you're one of the things that I don't know how it works on like the way you guys built it.",
+            "timestamp": "00:38:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But one thing that makes a huge difference is when it comes to style of tone is examples, right?",
+            "timestamp": "00:38:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like let me show you this example.",
+            "timestamp": "00:38:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's kind of a cool one.",
+            "timestamp": "00:38:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, okay.",
+            "timestamp": "00:38:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "let me take data grid, blog, and let me take the AI architecture ones and blog, right?",
+            "timestamp": "00:38:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I'm going to come here and let me just find this.",
+            "timestamp": "00:38:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's crazy that you have to, you know, you are funneling business to apps.",
+            "timestamp": "00:38:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, not anymore.",
+            "timestamp": "00:38:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "80.",
+            "timestamp": "00:38:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "of our clients are not clients or they are offs anymore and so yeah and they're paying us a referral fee for the ones that didn't sign up for us and went direct but but okay like so so let's say like um did you all watch how the cards or mad men or uh miss a robot or yeah I didn't yeah which ones like is there a character you like Mr.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Robot yeah okay cool it's a robot let's do oh yeah right um so the thing we learned is that you can describe a tone in a style and a voice and it's a beat this way and it won't do very well it will be okay at best right but if you go and you gather the context background the style tone you know and you go and you actually pull quotes not even full paragraph just quotes and then you say",
+            "timestamp": "00:39:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "be like this.",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you know, this is the style I want you to have.",
+            "timestamp": "00:40:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, this is the tone I want you to have, right?",
+            "timestamp": "00:40:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, we're all living into each other's paranoia.",
+            "timestamp": "00:40:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Life is so much easier than when you're numb.",
+            "timestamp": "00:40:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you know, like, it's going to learn what that means.",
+            "timestamp": "00:40:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it does a lot better in being that persona and being that voice than anything else, right?",
+            "timestamp": "00:40:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, and then it's going to rewrote the article on that tone and voice.",
+            "timestamp": "00:40:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Welcome to the dystopian maze of, you know, like, AI architecture.",
+            "timestamp": "00:40:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But, you know, like, so if you want a certain style of tone and voice, like, one of the things is like, you need examples.",
+            "timestamp": "00:40:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And that's where like, you know, it does a lot better.",
+            "timestamp": "00:40:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I don't know where you would insert those examples.",
+            "timestamp": "00:40:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "can be the system instruction.",
+            "timestamp": "00:40:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It does better usually like, you know, copy and paste.",
+            "timestamp": "00:40:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "To the chat, right like yeah, so it's basically what you're saying is basically like playing a conversation Right because you when I asked here like who quotes from mr.",
+            "timestamp": "00:41:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Robot main character You know we got like Elio to understand and he gives him like a link to like where that information came from like 29 quotes You know, so he knows all this now.",
+            "timestamp": "00:41:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's loaded in its context.",
+            "timestamp": "00:41:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool.",
+            "timestamp": "00:41:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah You know it in this style and tone Yeah, we're right a blog post About AI agent architectures in the style above Use the information from datagrid.com As a As the target company make it 3,000 words long it will do you combine this stuff from above a web search about datagrid.com And then the target content writing so it's like first thing is",
+            "timestamp": "00:41:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "to do research information about EI agent architectures from day to day.com.",
+            "timestamp": "00:42:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that is going to go in and start just all the anger.",
+            "timestamp": "00:42:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They're watching us.",
+            "timestamp": "00:42:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They know everything we do.",
+            "timestamp": "00:42:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Every click, every search, every purchase.",
+            "timestamp": "00:42:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right?",
+            "timestamp": "00:42:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that's what I'm saying.",
+            "timestamp": "00:42:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like if you take some of the thought process from some of these things and then you apply it with Advantik and see like is the output better?",
+            "timestamp": "00:42:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "if it is great, that's it, right?",
+            "timestamp": "00:42:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "then it's just mostly like, okay, how do you do this times a thousand?",
+            "timestamp": "00:42:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, you probably need to do it in the grid and have different agents for different jobs and then piecing it all together or something.",
+            "timestamp": "00:42:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, it's workflow.",
+            "timestamp": "00:42:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, we're not going to build the workflow, but this is kind of what we're kind of discussing here.",
+            "timestamp": "00:42:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like now if I wanted to do all in one step.",
+            "timestamp": "00:42:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I do have to run, unfortunately, because I have a customer meeting.",
+            "timestamp": "00:42:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We sign up Hagen and they're like really big customer now.",
+            "timestamp": "00:42:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But basically what you're saying is like I have to, you have to be able to do these things in a sequence like this, you know, number two.",
+            "timestamp": "00:42:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Three you can ask an agent to think through it in that sequence or you piece it in that sequence The only thing with that is then like, how do you make it programmatic when you want to do that time to thousand then you Here an agent there.",
+            "timestamp": "00:43:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah in the grid with variables because in the grid if you did this in the grid You would do like at column x right and then that's those are the variables So the variables kind of move to the grid in that case because here I'm just testing the workflow, right?",
+            "timestamp": "00:43:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah, so like you can test that out so that like That's what saying like it's better to take one use one job to be done It's if it's like an identical if it's like a social post or whatever and then like Try to build it in this way and see if the output is as good as or better and then And then at that point be like, okay, this is how we do it.",
+            "timestamp": "00:43:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is the way to get the quality programmatically You know Yeah Yeah, I mean, this is this is like you can make the whole thing in a single",
+            "timestamp": "00:43:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "workflow you know yeah yeah because he does the planning and the planning is saved so once he saves that plan you can reuse that plan over and over and over so you just put on the plan like crazy like make it as long as it needs to be but I think I like it I like you this idea of like having like deeper stacks but you're gonna have to build that out like I'm not gonna be showing this you go show this exactly I don't be the hero I don't want to be the hero of this use case you were to hear you're gonna announce and then like I'll be in Brazil I can back on the 22nd and then we should plan to try to figure out like either do some kind of like thing together do an engagement do a mutual like customer thing we're customer I don't know we can figure something out you know it's gonna be very bland it's gonna be like I'm announcing the great is gonna be a blog post about AI agents nobody's gonna understand that this is possible yeah exactly",
+            "timestamp": "00:44:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So this is where, like, everything I did for Air Ops, like, I should just, like, we can just do something where I'm doing that for you guys, you know?",
+            "timestamp": "00:45:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Because, like, it's insane.",
+            "timestamp": "00:45:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "the, like, the, um, it's like, um, uh, this is a great idea, by the way, like, just this use case here that you gave me is actually a much better blog post than I could come up with, because I'm using this character and then it's like, you we're living in HR's paranoia.",
+            "timestamp": "00:45:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The world is a vast system, you know, and then it ends up with we're not the ones that are broken.",
+            "timestamp": "00:45:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's the system, you know, like, uh, it's way better.",
+            "timestamp": "00:45:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Thiago da Costa \u2013 toric.com",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, Robot.",
+            "timestamp": "00:45:40"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss Data Grid product launch and explore collaboration opportunities between Thiago's company (Data Grid) and Marcel's company (fwd.digital/Rotex Labs).](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Data Grid is preparing for product launch with new features like AI agents, data integration, and workflow automation](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=63.0)\n  - [Marcel's company is transitioning away from AirOps and looking to potentially use Data Grid for their workflows](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=540.0)\n  - [Both parties expressed interest in collaboration, including potential partnership announcements and content creation](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2250.0)\n  - [Discussion of AI agent capabilities, prompt engineering techniques, and workflow optimization strategies](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=1562.0)\n\n## Topics\n\n### Data Grid Product Updates\n\n  - [New features include AI agents, data integration, email functionality, and workflow automation](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=150.0)\n  - [Improved UI with refactored tools and icons](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=236.0)\n  - [Ability to connect and analyze email data](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=324.0)\n  - [AI web search and enrichment capabilities](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=731.0)\n\n### Collaboration Opportunities\n\n  - [Marcel's company (fwd.digital/Rotex Labs) interested in using Data Grid for their workflows](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2192.0)\n  - [Potential for partnership announcement and mutual promotion](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2250.0)\n  - [Discussed sharing use cases and creating content together](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2220.0)\n  - [Explored idea of Marcel's company becoming a service provider using Data Grid](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2192.0)\n\n### AI Agent Capabilities and Prompt Engineering\n\n  - [Discussed different approaches to prompt engineering and chain of thought reasoning](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=1562.0)\n  - [Explored examples of complex workflows for tasks like prospect research and email generation](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=1605.0)\n  - [Compared capabilities of different AI models (GPT-4, Claude, etc.) for various tasks](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=1573.0)\n  - [Discussed importance of providing examples and context for better AI outputs](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2300.0)\n\n### Content Creation Strategies\n\n  - [Explored using AI agents for generating marketing content, blog posts, and social media](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=1104.0)\n  - [Discussed techniques for maintaining brand voice and style in AI-generated content](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2300.0)\n  - [Considered ways to incorporate specialized agents for different content creation tasks](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=1083.0)\n\n### Data Integration and Analysis\n\n  - [Discussed importing and analyzing email data within Data Grid](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=439.0)\n  - [Explored potential for connecting various data sources and performing complex queries](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=731.0)\n  - [Considered ways to leverage AI for data enrichment and insights](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=731.0)\n\n## Next Steps\n\n  - [Thiago to ensure Marcel's account has sufficient credits to explore Data Grid](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=996.0)\n  - [Plan for further collaboration after Marcel's Brazil trip (returning on the 22nd)](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2277.0)\n  - [Explore creating joint content or engagement opportunities](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2250.0)\n  - [Marcel to consider ways to leverage Data Grid for their existing workflows and use cases](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2192.0)\n  - [Potentially work together on migrating some of Marcel's existing workflows to Data Grid](https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs?tab=summary&timestamp=2200.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Load credits for Marcel's team on DataGrid instance for testing/playing",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:49",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=529.9999",
+            "assignee": {
+                "name": "Thiago da Costa \u2013 toric.com",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Provide DataGrid API access to Marcel's team for building products",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:15",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=555.9999",
+            "assignee": {
+                "name": "Thiago da Costa \u2013 toric.com",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Send Thiago some system prompts/instructions used for content generation",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:22:49",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=1369.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Work with Thiago to replicate current workflows in DataGrid, share knowledge from 19 clients",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:34:49",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=2089.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Help Marcel's team migrate services to DataGrid as a collaborative effort",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:36:49",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=2209.9999",
+            "assignee": {
+                "name": "Thiago da Costa \u2013 toric.com",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Plan PR announcement about partnership with Marcel's company after his announcement",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:37:19",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=2239.9999",
+            "assignee": {
+                "name": "Thiago da Costa \u2013 toric.com",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Announce leaving current program and starting GrowthActs next week",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:37:30",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=2250.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "After return from Brazil (22nd), plan engagement/customer collaboration with Thiago",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:44:32",
+            "recording_playback_url": "https://fathom.video/calls/158281654?timestamp=2672.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/FRvcoGbpsozbod_hgA_1YnQsMYpmkTvs",
+    "crm_matches": {
+        "contacts": [],
+        "companies": [],
+        "deals": [],
+        "error": null
+    }
+}

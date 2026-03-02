@@ -1,0 +1,1242 @@
+# Udemy <> GrowthX 2026 Goals & Renewal Conversation
+
+<metadata>
+date: 2026-02-18
+time: 19:00 UTC
+duration: 62 minutes
+organizer: katya@growthx.ai
+participants: Kyle Gaudreau, Katya Luscomb, Justin Luebke, Jay Perlman, Kevin Kurtz, Stef Miller
+fathom_recording_id: 123455344
+fathom_url: https://fathom.video/calls/570671432
+share_url: https://fathom.video/share/v5s7KSk6nBazNbncx2DJwujSx9zA-MhL
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Udemy reviewed the performance of their content partnership — GrowthX content now drives 60% of Udemy's blog traffic (8x growth) and ranks for 800+ non-branded keywords on page one. The team aligned on a strategic shift from pure SEO to using the blog as a sales enablement hub, with a focus on AI visibility (AEO), content enrichment, and directly attributing content to pipeline and ARR. GrowthX proposed a $15k/month renewal for 5 articles/week with content enrichment and a free year of their AI visibility tool; Udemy committed to deciding by end of February 2026.
+
+---
+
+## Context
+
+Udemy is a learning platform offering both consumer and enterprise training solutions. GrowthX has been producing blog content for Udemy's business site (business.udemy.com) since November 2025, focusing on non-branded organic traffic and AI-related topics (e.g., upskilling, AI transformation). The engagement started as a pure SEO play but evolved based on strong initial results — GrowthX content is now cited in Google's AI Overview and appears prominently in AI responses. On Udemy's side, Kevin Kurtz (Marketing Manager for business.udemy.com), Justin Luebke and Jay Perlman report into Kevin's team. Stef Miller leads the broader relationship. This call was a performance review and renewal discussion, with new strategic priorities around sales enablement and product messaging for Udemy's Teams Plan and new offerings like M-Train (compliance training).
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Renewal proposal includes content enrichment (visuals, case studies, data tables) and AEO tracking — new service dimensions for Udemy engagement.
+- Attribution modeling for AI traffic is critical; Kyle will record a Loom explaining how 20-60% of AI traffic misattributes as "direct" due to missing referrer data.
+- Udemy needs GA4 event structure redesigned for better organic content attribution — Justin to coordinate with Kevin on implementation.
+
+**To CheckThat:**
+- Udemy is a high-visibility use case for CheckThat — "AI upskilling" article is a top result in Google AI Overview and Udemy Business is cited in AI responses.
+- Free year of CheckThat tool as part of renewal proposal creates expansion opportunity and validates product-market fit in AEO visibility.
+- Udemy experiencing attribution challenges that CheckThat's analytics solve (faster insights on new LLM prompts vs. BrightEdge).
+
+**To GrowthX Business Development:**
+- Strong renewal signal: $15k/month flat for 5 articles/week with content enrichment and tool access shows account health.
+- Expansion opportunities: New product lines (M-Train, Teams Plan) creating content pillars and messaging needs.
+- Strategic reference potential: Udemy's 8x traffic growth and AI Overview visibility is a strong case study for AEO results in B2B.
+
+---
+
+## Overview
+
+- **Strong Initial Results:** GrowthX content now drives 60% of blog traffic (8x growth) and ranks for 800+ non-branded keywords on page one, validating the initial strategy.
+- **Strategic Shift to Business Impact:** The focus is moving from pure SEO to directly linking content to pipeline and ARR goals, using the blog as a sales enablement hub.
+- **Renewal Proposed:** A flat $15k/mo renewal was proposed for 5 articles/week, including content enrichment (visuals, case studies) and a free year of GrowthX's AI visibility tool.
+- **Decision Pending:** Udemy will evaluate the proposal against internal priorities, with a decision targeted for the end of February to accommodate procurement timelines.
+
+---
+
+## Key Topics
+
+### Strategic Alignment & Goals
+
+  - **Initial Goal:** Drive non-branded organic traffic to the blog by leveraging Udemy's gated content and expertise.
+  - **New Goal (Stef Miller):** Shift focus from pure SEO to using the blog as a core sales enablement hub.
+      - **Rationale:** Augment internal capabilities (e.g., video, data viz) and provide authoritative content for sales to share with prospects.
+  - **Key Priorities:**
+      - AEO performance & LLM share of voice.
+      - Content enrichment (visuals, case studies).
+      - Directly linking content to business targets (pipeline, ARR).
+
+### Performance & Impact
+
+  - **Blog Traffic:** GrowthX content drives 60% of blog sessions, an 8x increase since publishing began in November.
+  - **Keyword Rankings:**
+      - 800+ non-branded keywords on page one.
+      - 300+ in top 3 positions.
+      - 600+ on page two, primed for future growth.
+  - **AEO Visibility:**
+      - The "AI upskilling" article is a top Google result and a primary citation in the AI Overview.
+      - Udemy Business is cited directly in AI responses.
+  - **Attribution Challenge:** A significant portion of AI traffic appears as "direct" in analytics.
+      - **Reason:** AI engines (e.g., free ChatGPT plans) often don't pass referrer data.
+      - **Impact:** This undercounts the true value of content, as 20–60% of AI traffic can be misattributed.
+
+### Future Strategy & Renewal
+
+  - **Proposed Strategy:** A two-pronged approach balancing AEO and traditional SEO.
+      - **Social Research:** Capture early, high-intent topics before they have high search volume.
+      - **Competitive Gaps:** Target known, high-volume keywords.
+      - **Content Enrichment:** Add visuals, case studies, and data tables to improve UX and engagement.
+  - **Product Messaging:**
+      - **Teams Plan:** Position as a lightweight entry point to Enterprise.
+      - **New Partners:** Create content for new offerings like M-Train (compliance training).
+  - **Renewal Proposal:**
+      - **Cost:** Flat $15k/month.
+      - **Deliverables:** 5 articles/week, content enrichment, SEO/AEO tracking, and content audits.
+      - **Bonus:** One free year of GrowthX's AI visibility tool, which offers faster data on new prompts than BrightEdge.
+
+---
+
+## Action Items
+
+**Justin Luebke (Udemy)**
+- Schedule GA4 event review with Kevin; then share plan with Katya + Kyle
+- Schedule DG team session regarding owned-channel promo strategy
+- Schedule strategy planning session with Stef regarding sales conversations + partner pillars
+- Email updated sales-call insights to Katya
+
+**Kevin Kurtz (Udemy)**
+- Schedule DG team session regarding owned-channel promo strategy
+
+**Kyle Gaudreau (GrowthX)**
+- Record and send Loom video explaining direct/AI attribution to Justin + Stef
+
+**Katya Luscomb (GrowthX)**
+- Email elaborated strategy deck to Justin + Stef
+- Email AEO prompt alignment updates to Justin; then schedule alignment call
+
+**Stef Miller (Udemy)**
+- Review GrowthX proposal; decide renewal by Feb 28; notify Katya
+
+---
+
+## Transcript
+**Kyle Gaudreau:** Hello.
+
+**Katya Luscomb:** Hey, hi.
+
+**Katya Luscomb:** How's it going?
+
+**Justin Luebke:** Good.
+
+**Justin Luebke:** Hey.
+
+**Katya Luscomb:** How are you doing, Justin?
+
+**Justin Luebke:** Not too bad.
+
+**Justin Luebke:** How are you?
+
+**Katya Luscomb:** Good, thanks.
+
+**Katya Luscomb:** How's your week been so far?
+
+**Justin Luebke:** Busy.
+
+**Justin Luebke:** Usual.
+
+**Katya Luscomb:** What about you?
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Hanging in there.
+
+**Katya Luscomb:** We got our first big storm here in the Reno-Tahoe area.
+
+**Katya Luscomb:** Like, actually dumped snow our direction.
+
+**Justin Luebke:** Feels like I'm back in Colorado, which is nice.
+
+**Justin Luebke:** Nice.
+
+**Justin Luebke:** We have been having a snow-less winter, which has been extremely unfortunate.
+
+**Justin Luebke:** I miss it.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** It was pretty...
+
+**Kyle Gaudreau:** Good to see you.
+
+**Kyle Gaudreau:** Sorry to cut in.
+
+**Kyle Gaudreau:** Yeah, been a minute.
+
+**Kyle Gaudreau:** Yeah, yeah.
+
+**Kyle Gaudreau:** I can't say I've ever shared that missing snow.
+
+**Kyle Gaudreau:** That's part of why I moved out here.
+
+**Kyle Gaudreau:** But, you know, I guess when you're living out someplace where, you know, skiing and snowboarding is prominent, it makes sense.
+
+**Justin Luebke:** Yeah, I actually don't ski or snowboard, but I'm from Ohio and, like, it, like...
+
+**Justin Luebke:** It dumps snow and it's there for, you know, months, but here it's not like that.
+
+**Kyle Gaudreau:** So, yeah, I don't know.
+
+**Justin Luebke:** Just kind of miss it.
+
+**Katya Luscomb:** That's fair.
+
+**Katya Luscomb:** I definitely got used to winter living out there.
+
+**Justin Luebke:** Yep.
+
+**Katya Luscomb:** Hey, Kevin.
+
+**Katya Luscomb:** Nice to meet you.
+
+**Kevin Kurtz:** Hi, everyone.
+
+**Kevin Kurtz:** Yeah, nice to meet you all.
+
+**Justin Luebke:** How's your day going so far?
+
+**Kevin Kurtz:** Yeah, it's going good.
+
+**Kevin Kurtz:** It's going good.
+
+**Kevin Kurtz:** How about yours?
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Going pretty well.
+
+**Katya Luscomb:** We were just talking about got our first big winter storm out here where I'm based, which was kind of exciting.
+
+**Katya Luscomb:** But quick intro.
+
+**Katya Luscomb:** I am Katya.
+
+**Katya Luscomb:** lead the engagement between Udemy and GrowthX.
+
+**Katya Luscomb:** And we'll be kind of leading the conversation today as we chat through a few things.
+
+**Katya Luscomb:** And I've got Kyle here as well, who is our VP of customer growth and helps lead our shared strategy team.
+
+**Katya Luscomb:** Kyle, I can let you.
+
+**Katya Luscomb:** Speak more to what you do specifically, but.
+
+**Kyle Gaudreau:** I don't know.
+
+**Kyle Gaudreau:** I appreciate it.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Lead our shared strategy team.
+
+**Kyle Gaudreau:** of that as like a kind of like strategy SWAT team that's brought on to help us through strategy refreshes, digging in on some of the technical side.
+
+**Kyle Gaudreau:** I actually was a part of this engagement from the early days as well before Katya helped take the reins there.
+
+**Kyle Gaudreau:** and really was much more involved in the early phases of this.
+
+**Kyle Gaudreau:** Worn a bunch of different hats at GrowthX, also was the first customer.
+
+**Kyle Gaudreau:** Just had a long career in growth, led growth at a variety of before this.
+
+**Kyle Gaudreau:** So, you know, I just tend to join these sorts of conversations to be helpful wherever I can and helping us think through the bigger picture and where we want to get to.
+
+**Kyle Gaudreau:** Of course, know Justin well.
+
+**Kyle Gaudreau:** Jay, I don't think we I don't recall us getting a chance to meet directly.
+
+**Jay Perlman:** But, Jay and Kevin, great to meet you both.
+
+**Jay Perlman:** You too, Kyle.
+
+**Jay Perlman:** Yeah, I think this is the first time that we have met.
+
+**Jay Perlman:** I don't think I was around for those.
+
+**Jay Perlman:** Those first introductory calls, but kept in the loop a lot by Justin, so.
+
+**Kyle Gaudreau:** Definitely saw your name around, but yeah, never had a chance to put a face to it.
+
+**Kyle Gaudreau:** I think we're waiting for Steph, too, is that right?
+
+**Justin Luebke:** Yeah, yeah, she accepted, but yeah, not sure, not sure when she's hopping on.
+
+**Kyle Gaudreau:** Got it, okay, cool.
+
+**Kevin Kurtz:** Give it a few minutes.
+
+**Kevin Kurtz:** just give a quick intro as well.
+
+**Kevin Kurtz:** Yeah, so I am Kevin Kurtz.
+
+**Kevin Kurtz:** I work primarily on the Udemy business website, so business.udemy.com.
+
+**Kevin Kurtz:** I'm a manager of marketing engineering, and recently, Justin and Jay just started reporting into my team.
+
+**Kevin Kurtz:** So we do have a small team of developers.
+
+**Kevin Kurtz:** That's myself.
+
+**Kevin Kurtz:** I'm historically a developer of the site, but also Tyler, he's on our team as well.
+
+**Kevin Kurtz:** And yeah, we support everything on the enterprise side.
+
+**Kevin Kurtz:** So this is the first meeting.
+
+**Kevin Kurtz:** of this kind that I've been involved with, with GrowthX.
+
+**Kevin Kurtz:** So thank you for having me.
+
+**Kevin Kurtz:** And Jay, nice to have you here as well.
+
+**Kevin Kurtz:** It's a pleasure to meet you all.
+
+**Kevin Kurtz:** And yeah, I'm, again, I'm still, I'm still new to this engagement.
+
+**Kevin Kurtz:** So, you know, I'm here to really learn and understand where, where things are at, where they've been and all that.
+
+**Kevin Kurtz:** So yeah, bear with me while I absorb everything.
+
+**Kevin Kurtz:** But nice to meet you all.
+
+**Katya Luscomb:** Yeah, nice to meet you too.
+
+**Katya Luscomb:** Questions, totally welcome.
+
+**Katya Luscomb:** mean, a lot of this meeting is, you know, conversation-based for, to make sure that we're all aligned on kind of where we've been and where we want to go and thinking through bigger picture strategy for the next, you know, six months to a year as we, as we chat through all those different goals and key pieces.
+
+**Katya Luscomb:** So, um, Justin, I want to give a few minutes to make sure that Steph has a chance to join.
+
+**Katya Luscomb:** Cause I know that she is, um, pretty critical to kind of this discussion and moving renewal pieces.
+
+**Katya Luscomb:** Forward.
+
+**Katya Luscomb:** Have you heard anything from her on if she's going to be able to make it?
+
+**Justin Luebke:** Not today.
+
+**Justin Luebke:** When I spoke with her Friday and told her I wanted to add her to the call and she said, yes, definitely do it.
+
+**Justin Luebke:** So I imagine she will be here.
+
+**Justin Luebke:** Let me actually check to see if she has something before this and maybe it like is running over.
+
+**Justin Luebke:** Yeah, she had something before this, so it may just be running over.
+
+**Katya Luscomb:** Okay.
+
+**Katya Luscomb:** We can give it a few minutes and then jump in in a second.
+
+**Justin Luebke:** Cool.
+
+**Justin Luebke:** I could miss Slack real quick as well.
+
+**Katya Luscomb:** Awesome.
+
+**Kevin Kurtz:** Katya, where are you based?
+
+**Katya Luscomb:** Oh, sorry.
+
+**Katya Luscomb:** Oh, no, no worries.
+
+**Katya Luscomb:** I'm out in the Reno-Tahoe area, which is not where I thought I was going to land, but I actually really like it out here.
+
+**Katya Luscomb:** What about yourself?
+
+**Kevin Kurtz:** Nice.
+
+**Kevin Kurtz:** I'm just outside of Philadelphia on the East Coast.
+
+**Katya Luscomb:** Okay.
+
+**Katya Luscomb:** Very cool.
+
+**Katya Luscomb:** Well, I really appreciate the time from everyone.
+
+**Katya Luscomb:** I can go ahead and just kind of jump right in.
+
+**Katya Luscomb:** A lot of what we're looking to do today is chat through kind of where we've been in this engagement, align on priorities that, you know, we understand from chatting with you all over the last while and working through all of the content and looking at kind of roadmap and plan ahead, especially for the next, you know, six months, year as we look to continue this engagement and make sure that we're aligned on all your priorities and tracking in the right direction.
+
+**Katya Luscomb:** So, yeah, basically going to walk through essentially like a little overview of where we started, set the stage, would love to spend some time aligning on goals that, you know, we've understood.
+
+**Katya Luscomb:** And if there's any that we need to be considering as we move forward, talk a little bit about where we've come and some outcomes and growth that we're seeing, and then how we're looking to leverage that in accordance with the goals that we understand from you so far.
+
+**Katya Luscomb:** Thank
+
+**Katya Luscomb:** A lot of this, you know, keen to discuss some of these different elements and really make sure that there's an opportunity for you guys to give some feedback so that we can, you know, take things and further align and then kind of chat about action plan moving forward.
+
+**Katya Luscomb:** Questions about any of that?
+
+**Justin Luebke:** Sounds good.
+
+**Stef Miller:** Yeah, thanks.
+
+**Katya Luscomb:** Yeah, no worries.
+
+**Katya Luscomb:** All right.
+
+**Katya Luscomb:** So looking at kind of where we started with everything, you know, the initial growthx engagement went through a couple different evolutions.
+
+**Katya Luscomb:** Initially kind of looking at some big different ideas around like generating a newsletter and really looking to make sure that we were leveraging a variety of different, you know, Udemy business assets.
+
+**Katya Luscomb:** You know, understand that you guys had a lot of really strong gated content and a lot of knowledge to share and wanting to make sure that you were able to start to capture a broader audience and leverage a lot of that knowledge in a way that could drive more organic traffic to you guys.
+
+**Katya Luscomb:** That wasn't blocked behind all those gated resources.
+
+**Katya Luscomb:** And so what we ended up doing is looking at editorial work and really diving into helping you all enhance your blog in a way that would really look to leverage Udemy's voice and perspective and expertise in a way that could feed into that gated content and also look to, you know, build larger pipeline around Udemy business as well.
+
+**Katya Luscomb:** And so, you know, there's a couple different ways that we approached that, wanted to make sure that we were really looking at framing you guys as an authority across like AI transformation topics and spending a lot of time aligning our messaging with you guys, working on pulling in some context around webinars, and more recently really looking to integrate like a lot of the case study work that you guys have, been through a couple different evolutions as we've rotated with some shifting priorities that you have all had over the last few months.
+
+**Katya Luscomb:** But really looking to make sure that everything we're doing.
+
+**Katya Luscomb:** Non-branded traffic growth.
+
+**Katya Luscomb:** And also more recently heard that you all want to really make sure that we're also highlighting the Teams plan outside of just Enterprise plan, which had been our focus earlier.
+
+**Katya Luscomb:** And so making sure that we're keeping that in mind in terms of how we're approaching messaging and CTAs and some of those various elements.
+
+**Katya Luscomb:** And then other priorities in terms of content optimizations.
+
+**Katya Luscomb:** We know V1 of the Source just recently launched in January.
+
+**Katya Luscomb:** Really excited to see that evolution.
+
+**Katya Luscomb:** And that version 2 is coming.
+
+**Katya Luscomb:** And so we want to keep in mind, you know, various priorities around optimizations and how we can enhance content to fit with those optimization goals there.
+
+**Katya Luscomb:** Also mentioned, you know, case study incorporation.
+
+**Katya Luscomb:** We've got a couple different things to share around our progress in that lane as well.
+
+**Katya Luscomb:** Continuing to make sure that we're really leveraging all those different gated resources and Udemy's perspective.
+
+**Katya Luscomb:** And then also looking at just general content optimizations around like AEO and SEO.
+
+**Katya Luscomb:** Some different things.
+
+**Kyle Gaudreau:** Fathom's sort of context to align that on would just be really helpful for us to be the most ideal partner for you.
+
+**Kyle Gaudreau:** And so thinking about, hey, it's exciting to see this growth, but if we're not putting a dent into the greater impact that you need to see, then we need to rethink our strategy, perhaps.
+
+**Kyle Gaudreau:** We need to be more aggressive.
+
+**Kyle Gaudreau:** There's just all sorts of different contexts we can bring back to thinking about the work and the value you're getting from the outcomes we're driving.
+
+**Kyle Gaudreau:** And so, you know, sounds like maybe there was some lack of clarity of, do we have something that can ladder back on this?
+
+**Kyle Gaudreau:** But for some of our customers, what this looks like is, you know, hey, I need to hit this broader target.
+
+**Kyle Gaudreau:** And then SEO needs to contribute or organic channels need to contribute X to that.
+
+**Kyle Gaudreau:** And so then we can kind of partner and understand like, okay, so, you know, if we can help you get to this, this is what kind of success looks like from a quant perspective.
+
+**Justin Luebke:** So, um, oh, sorry.
+
+**Stef Miller:** Oh, no, I was just going to say.
+
+**Stef Miller:** The term lack of clarity, think, Kyle, that's not on our team right now.
+
+**Stef Miller:** I wouldn't say that you had a lot of direct guidance from the original initiation of this agreement, right?
+
+**Stef Miller:** So Geneva brought you guys on.
+
+**Stef Miller:** She had some idea for what we might need.
+
+**Stef Miller:** And I think what we've done is stabilized within our own internal teams.
+
+**Stef Miller:** Justin and the group really thinking about what are the levers within our demand gen strategy that can be improved on and maybe even augmented some through the work that the team does.
+
+**Stef Miller:** And that's broader than like an AEO strategy, if you will.
+
+**Stef Miller:** Like I actually see this as like pretty core to how we distribute good content and information and becoming more of a hub for where our sales team wants to send, you know, prospects and even customers when we have great content that's authoritative, interesting, and engaging.
+
+**Stef Miller:** So while I see a lot of goals and priorities listed here, I could almost entirely narrow it down to the top left, AEO performance and LLM, share of voice, and bottom right.
+
+**Stef Miller:** Like our content is text and like an agency in my mind is where you augment capabilities and skills that we don't have internally right now in terms of resourcing, right?
+
+**Stef Miller:** So like there's a lot of AI tools out there that can make video summaries of stuff and do interesting sort of visualizations of data.
+
+**Stef Miller:** And like if we're going to invest in agency resourcing in the future, it's probably because that's something that takes more time from our current team.
+
+**Stef Miller:** And we have a full content strategy that goes beyond simply the blog that you guys have been working on.
+
+**Stef Miller:** So I definitely think there's opportunity there.
+
+**Stef Miller:** And when it comes to business targets, we should talk about that when the time is right, because I have, I've got lots of business targets and we can.
+
+**Stef Miller:** We break that down to like, you know, by channel, sort of how we're looking at performance today.
+
+**Stef Miller:** And then really, I think, tie that back into things like traffic engagement form fills leads, which are more sort of at the top of that funnel, but lead to the sort of pipeline and ARR goals that we have.
+
+**Stef Miller:** So we can definitely, I think, get there.
+
+**Stef Miller:** But given this was our first engagement with you all, I'm like really happy to see like where we started versus like where we're closing out the engagement.
+
+**Stef Miller:** I think it's been great work.
+
+**Stef Miller:** So just my perspective, but yeah.
+
+**Kyle Gaudreau:** Appreciate that.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Helpful to hear.
+
+**Stef Miller:** Justin?
+
+**Justin Luebke:** Yes.
+
+**Justin Luebke:** I just want to add, I guess, to that a little bit.
+
+**Justin Luebke:** One of the things with like the B2 version of the blog is actually providing more like conversion points and different like related content pieces that are more like form fill type of pages.
+
+**Justin Luebke:** And with that, we are also working on new events and figuring out.
+
+**Justin Luebke:** Figuring out new ways to track those events and actually attribute them back to the content or organic search generally.
+
+**Justin Luebke:** So I think once we have more of those in place as well, we'll be able to actually connect those into the overall business targets that we have for leads specifically.
+
+**Kyle Gaudreau:** Makes sense.
+
+**Kevin Kurtz:** Yeah, I think from a web standpoint, that'll really help us be much more quantifiable because we'll have, you know, hard numbers to share versus the rest of the business plans and all that.
+
+**Kevin Kurtz:** So until we have that in place, it's hard for us to really put numbers to things since it's so new.
+
+**Kevin Kurtz:** We still have some work to do there.
+
+**Kevin Kurtz:** But yeah, we're excited to that in place.
+
+**Kyle Gaudreau:** In case I'm happy to be a partner through that.
+
+**Kyle Gaudreau:** I have done this a multitude of times at different stops and just different, you know, approaches to how to approach that tracking.
+
+**Kyle Gaudreau:** realize, you know, Justin, you have a lot of experience here as well.
+
+**Kyle Gaudreau:** But if you all need an additional perspective.
+
+**Kyle Gaudreau:** ...
+
+**Kyle Gaudreau:** ...
+
+**Kyle Gaudreau:** ...
+
+**Kyle Gaudreau:** ...
+
+**Kyle Gaudreau:** ...
+
+**Kyle Gaudreau:** ...
+
+**Kyle Gaudreau:** A partner to help you think through that.
+
+**Kyle Gaudreau:** We're happy to help there because that certainly really helps ladder up to our success and just connecting the dots to, you know, ultimately, like, what does, like, great growth look like in relation to where you all need to be?
+
+**Justin Luebke:** Agreed.
+
+**Justin Luebke:** Kevin and I wanted to meet up very soon to talk about, like, our current structure of GA4 events and what that could, like, look like in the future.
+
+**Justin Luebke:** So maybe once we have a better idea, we could bring that to you guys and see what you think or if you have any other suggestions.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And also happy to help beyond GA4 if helpful, you know, and how you're thinking about instrumenting that down to, sounds like Tableau is a part of your mix.
+
+**Kyle Gaudreau:** But anyways, we can cover that later on, just throwing it out there that happy to help wherever we can be helpful through that.
+
+**Justin Luebke:** Sounds good.
+
+**Katya Luscomb:** Similar stuff.
+
+**Katya Luscomb:** If you have, like, documentation around some of those, like, larger business goals that are readily available to share, like, we're happy to take a look at that and make sure.
+
+**Katya Luscomb:** I'm that we're considering that in all the different aspects that we're working on across strategy as well.
+
+**Katya Luscomb:** So some different pieces on how we're looking at measuring success right now.
+
+**Katya Luscomb:** So a lot of what we look at are across four different core areas.
+
+**Katya Luscomb:** So we start off looking at the foundations for site traffic performance.
+
+**Katya Luscomb:** I know we've had some conversations around site speed.
+
+**Katya Luscomb:** We also monitor indexing to make sure that content is actually getting recognized by Google.
+
+**Katya Luscomb:** You know, because essentially like no content is actually going to go anywhere if the foundation isn't strong for it to get picked up and seen.
+
+**Katya Luscomb:** And then we also look at reach and engagement across a variety of different metrics.
+
+**Katya Luscomb:** And I just added a bunch of you to our Looker dashboard as well this morning.
+
+**Katya Luscomb:** She'll have access there.
+
+**Katya Luscomb:** So we look at, you know, a few different elements and we split it into the different cohorts or topic clusters.
+
+**Katya Luscomb:** And pillars that we're looking at because we want to.
+
+**Katya Luscomb:** Understand where traffic is driving and then also can dig in on a more granular level to see what specific articles are performing and where we can look to enhance different pieces and drive further engagement there.
+
+**Katya Luscomb:** We also look at activity in terms of the content that we have in the pipeline so that we can monitor if the diversity of content that we're targeting aligns with your various topic business goals and then monitoring traffic across those different elements as well.
+
+**Katya Luscomb:** You know, gauging, are we getting really great performance from something where we've just published a couple pieces or is it an area that we've published, you know, a really dense amount of content and has some opportunity to expand or enhance in that realm.
+
+**Katya Luscomb:** And then we also look at LLM visibility specifically.
+
+**Katya Luscomb:** And so, you know, mentioned aligning with some of the prompts that Justin has shared from BrightEdge, making sure that we're looking at like mentions and citations and, you know, how Udemy is showing up within those as well for customer sentiment.
+
+**Katya Luscomb:** So this is sort of the core area.
+
+**Katya Luscomb:** We can see, you know, various content plans broken out by cluster and topic area.
+
+**Katya Luscomb:** You know, Justin and worked really closely on making sure that that's aligned with his scorecard.
+
+**Katya Luscomb:** We also have developed a lot of artifacts where we're specifically looking to leverage Udemy business's unique perspective and voice.
+
+**Katya Luscomb:** And we're continuing to do some custom engineering work there as well, really looking to leverage different insights and data from case studies as we continue to optimize content, building in, you know, really data-rich tables and those different elements and some imagery as well.
+
+**Katya Luscomb:** And then, you know, we've published 57 articles across 10 different topic areas.
+
+**Katya Luscomb:** We started in the AI transformation cluster and that really took off.
+
+**Katya Luscomb:** And then in December, we expanded across the wider UB scorecard universe that Justin had built out across strategy and continuing to support developing different ideas around there to leverage your various key goals in that realm.
+
+**Katya Luscomb:** And then we've also more recently started.
+
+**Katya Luscomb:** to more aggressively incorporate various optimizations around, like, AEO to, you know, leverage different, like, content summaries and FAQs and some of those different elements as well.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** So this is, you know, doubling down a little bit on the different elements that I just mentioned in terms of really, oh, go ahead, Kyle.
+
+**Kyle Gaudreau:** Just thinking for time's sake, maybe we jump to the questions that we wanted to ask and hear, and then we can jump into some of the outcome stuff as well.
+
+**Katya Luscomb:** Totally.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** So one of the pieces we wanted to, you know, connect with you all on, Stef, you shared a little bit in terms of, you know, being excited to see where the engagement has gone, but would also just love sort of a general check-in on what you all feel like is working and what isn't, you know, any friction points that you wanted to call out specifically that we should be aware of that maybe Justin and I haven't talked about.
+
+**Katya Luscomb:** And, you know, also looking big picture, you know, where do we need to get to for you guys to feel like this would be a glowing success in another six months?
+
+**Stef Miller:** Well, I can't answer this until I see the impact readout.
+
+**Stef Miller:** I think that would help inform kind of like maybe my initial past.
+
+**Stef Miller:** I don't have a strong point of view on what's working and what isn't without more of like the performance lens on it, just because I'm not embedded in the workflows that you guys are.
+
+**Stef Miller:** So, you know, I think if, you know, Justin, if you've got some specific feedback, that's great.
+
+**Stef Miller:** But maybe we could look at results and then come back to this question.
+
+**Stef Miller:** Happy to answer it.
+
+**Stef Miller:** I think I just need more, you know, framing first.
+
+**Katya Luscomb:** Totally.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Which is actually right where we're headed next.
+
+**Katya Luscomb:** So in terms of success that we've seen, really seeing some strong signals across performance.
+
+**Katya Luscomb:** So we started publishing early November after we took the time to really calibrate on all those different elements.
+
+**Katya Luscomb:** And right now.
+
+**Katya Luscomb:** Growthx content is driving like 60% of the sessions to the blog, which is about an 8x in growth since we began publishing.
+
+**Katya Luscomb:** And you can see here we've got a breakdown of some of the different clusters that are performing really well.
+
+**Katya Luscomb:** And so specific callouts like our AI upskilling and implementation are some of our strongest clusters, also the area that we first started focusing on.
+
+**Katya Luscomb:** And then another key piece is looking at queries where you guys are starting to rank that's outside of Udemy business non-branded keywords.
+
+**Katya Luscomb:** And so we've got 800 that are ranking on page one and another over 300 that are in the top three.
+
+**Katya Luscomb:** And there's some good momentum that we're seeing in terms of keywords that are primed to be able to move to the first page, about 600 of those that are ranking on page two.
+
+**Stef Miller:** Yeah, that's great.
+
+**Stef Miller:** I think, Justin, this really is also just a nod to the strategy you put together around, you know, what are the topics?
+
+**Kyle Gaudreau:** Second chart is you can just see some of the momentum in like lower page rankings.
+
+**Kyle Gaudreau:** So you can think of that as future traffic growth that's sitting there.
+
+**Kyle Gaudreau:** And we plan to, of course, continue to compound, you know, create new content, refresh some of that old content.
+
+**Stef Miller:** We'll get into some of that later, but generally feeling very positive about the early results.
+
+**Stef Miller:** Yeah, I mean, I think, you know, 400 sessions isn't all that meaningful in the grand scheme of traffic to the site.
+
+**Stef Miller:** But what I see here is, you know, not to negate the work, right?
+
+**Stef Miller:** Because I actually think what we're going is from like a zero sum game to like some sort of actual traffic that has a meaningful point to it.
+
+**Stef Miller:** And if we can start to look at how much of that is coming back to us, you know, over time.
+
+**Stef Miller:** So like number of sessions, like I do think that there's definitely value in creating this sort of experience for people.
+
+**Stef Miller:** I just, we should make sure Justin and Kevin, we sit down and we actually do a deeper dive with the rest of the DG team around.
+
+**Stef Miller:** time.
+
+**Stef Miller:** And the sort of like traffic and owned channel strategy to drive increased traffic to the content that we have.
+
+**Stef Miller:** Now that we have a pretty good foundation, you know, it doesn't look like we just sprinkled a few things.
+
+**Stef Miller:** Like it's pretty significant now.
+
+**Stef Miller:** So I think it's a good time to like make sure we have a really good promotional strategy in place too.
+
+**Kyle Gaudreau:** Pretty cool.
+
+**Kevin Kurtz:** Absolutely.
+
+**Katya Luscomb:** And then some, we also wanted to call out some specific like AI visibility wins, especially because we know that's a key area that you're all focused in.
+
+**Katya Luscomb:** And so we're seeing some good signals here early as well.
+
+**Katya Luscomb:** You know, one of our strongest pieces in SEO is also showing up well in AI search results or our AI upskilling piece.
+
+**Katya Luscomb:** So not only is it, you know, the first article to show up in Google results, but it's also one of the first citations in the AI overview, which is great to see.
+
+**Katya Luscomb:** And then also, you know, seeing Udemy business specifically showing up within the response itself.
+
+**Katya Luscomb:** And so these are all different like key pieces that we're wanting to look at as we're looking at like some of those core AI wins.
+
+**Katya Luscomb:** And then also, you know, there's a couple different ways to break out how we're starting to see AI visibility drive traffic.
+
+**Katya Luscomb:** One thing that we're seeing across different metrics is that right now a lot of AI traffic seems to get bucketed into direct.
+
+**Katya Luscomb:** Just, you know, Kyle can speak a little bit more to some of this, but a lot of it has to do with how that gets attributed as traffic comes in.
+
+**Katya Luscomb:** And so while this isn't all AI traffic here, it is a good indication that we're starting to see more AI referrals from content coming in as well, which is exciting to see.
+
+**Kyle Gaudreau:** Yeah, I could almost spend the rest of the session talking about just some of the nuance underneath that blue bar.
+
+**Kyle Gaudreau:** But for time's sake, won't go through that.
+
+**Kyle Gaudreau:** But we're starting to see this as like a common trend across multiple customers where direct sources are continuing to.
+
+**Kyle Gaudreau:** To grow from the content that we're creating.
+
+**Kyle Gaudreau:** And there's some noise that can fit into that bucket.
+
+**Kyle Gaudreau:** And that can look a bit different from brand to brand.
+
+**Kyle Gaudreau:** But one angle of the complexity that we have is direct traffic can be a relative catch-all for undattributable traffic.
+
+**Kyle Gaudreau:** It's just going to fit into that bucket, right?
+
+**Kyle Gaudreau:** Why it fell into that could be a whole multitude of reasons.
+
+**Kyle Gaudreau:** There's certainly common patterns that can happen.
+
+**Kyle Gaudreau:** But if we just think about what is the intention of what direct traffic, if it is perfectly attributable, what it's supposed to be capturing, it would be someone clicking a link, say, like a bookmark link, typing in a URL, maybe being shared something in a Slack thread, you know, some other examples.
+
+**Kyle Gaudreau:** And so if we just look at how much traffic is here, that I think we can confidently say is probably not super likely what's driving a lot of that, right?
+
+**Kyle Gaudreau:** So what can be driving that?
+
+**Kyle Gaudreau:** So So what
+
+**Kyle Gaudreau:** What we're finding, working with some brands and digging in deeper into things like their server logs, which we can't get access to every brand, and certainly like the bigger, more public brands, that's going to be more complex.
+
+**Kyle Gaudreau:** But it's about 20% to 60% of AI traffic can fall into this unattributable direct bucket.
+
+**Kyle Gaudreau:** And why that happens can happen for a few different reasons.
+
+**Kyle Gaudreau:** It can happen for users who may be on a free plan.
+
+**Kyle Gaudreau:** For ChatGPT, for example, it doesn't tend to pass referring data when a user is on a free plan and may click a link.
+
+**Kyle Gaudreau:** There's even cases where just HTTP headers are not going to be passed from these engines, and just some of them pass this data more cleanly than others.
+
+**Kyle Gaudreau:** And then the third complexity to weigh here is RAG systems and actually pulling this content.
+
+**Kyle Gaudreau:** And no doubt there are signals of that hitting our content.
+
+**Kyle Gaudreau:** This kind of alludes to the point of, I don't want to like rabbit hole us and spend.
+
+**Kyle Gaudreau:** Too much time here.
+
+**Kyle Gaudreau:** I'm happy to do that as a deeper dive, and maybe I can record a loom as a follow-up of what I mean by this.
+
+**Kyle Gaudreau:** But essentially, if we think about that, like what is the intention of content today and websites today, it is starting to go even beyond just pure human-led and writing for humans, right?
+
+**Kyle Gaudreau:** And so if we think about how do RAG systems pull in this content that we're developing, that is going to influence both the users who are interacting with those AI engines as well as influence the visibility of them.
+
+**Kyle Gaudreau:** So if we think about what is the value of our content, if we just filter that out completely, I'm not sure we're telling the most accurate story to you of the impact of our content.
+
+**Kyle Gaudreau:** Admittedly, it is because it falls into this broad bucket, it is hard to say with certainty, X percent is this, X percent is that, but we can work back off varying signals to understand how those patterns look different.
+
+**Kyle Gaudreau:** So again,
+
+**Stef Miller:** As a team, we've also been talking a lot more around like our social presence and organic social in particular, but we have a sales team who's out there posting on LinkedIn every day, making sure that the content and the visuals that we can arm them with are really like good and juicy and fun to share.
+
+**Stef Miller:** You know, so like I do think of it from truly like the experience of, you know, being part of the Udemy business community, if you will, and not to use a community word like out of context.
+
+**Stef Miller:** But I do think that's really important.
+
+**Stef Miller:** And that's not something I would put just to your team to like solve.
+
+**Stef Miller:** I think that's something we need to make sure we're internalizing the maturity of our content strategy.
+
+**Stef Miller:** Right.
+
+**Stef Miller:** And then doing the most with it.
+
+**Stef Miller:** So that's one piece.
+
+**Stef Miller:** Hard numbers, the return on the spend.
+
+**Stef Miller:** Right.
+
+**Stef Miller:** So when I look at the targets that we've had for, I'll say direct and organic search for now, because I think that's like the safest buckets that I would want to sort of like lean in.
+
+**Stef Miller:** We also can look at overall content, which is probably more of our gated content, but if you're all and we are all pulling our gated content, breaking it apart, you know, I think of carving the turkey, getting it out and all the posts, like doing our best there, then like I could associate some more of the revenue around content as a category of how we define things.
+
+**Stef Miller:** So if I look at those numbers and the cost to do business, right, with you all or anyone else, I think we're probably in a pretty decent position, but like that's obviously something as we go up for renewal discussions that we'll evaluate, but, you we had a lot of foundational work to do too, so I would probably not credit all of that, and it's not all the same, right?
+
+**Stef Miller:** We did a lot of different things in this last push, so that's top of mind for me.
+
+**Stef Miller:** Anything else that you guys have been curious about?
+
+**Katya Luscomb:** I think our biggest piece is wanting to make sure that we are...
+
+**Katya Luscomb:** Like really clear on, on some of your like key number goals, which, you know, we've talked about a little bit and it sounds like we're, we're getting closer to being able to, to link up there.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** So that we can really make sure that we're, we're measuring our, business impact for you all.
+
+**Katya Luscomb:** Cause I mean, ultimately our success is, is your success.
+
+**Katya Luscomb:** Right.
+
+**Katya Luscomb:** And in a lot of ways we, we consider ourselves part of your team in that regard.
+
+**Katya Luscomb:** So I think that's, that's a big piece.
+
+**Katya Luscomb:** Kyle, do you have any other pieces that you wanted to ask about or add?
+
+**Kyle Gaudreau:** Not really.
+
+**Kyle Gaudreau:** No, I honestly, a lot of what Steph mentioned resonates really well.
+
+**Kyle Gaudreau:** I love the, I love the, the framing of carving the turkey up with the, with that gated content.
+
+**Kyle Gaudreau:** Cause you know, finding that compound effects of you're creating these things, maybe that we have not actively pursued and taken action on.
+
+**Kyle Gaudreau:** Uh, I think that's a unique value we can bring into this of how can we create content that, um, Hey, you're already doing this webinar.
+
+**Kyle Gaudreau:** Let's say.
+
+**Kyle Gaudreau:** If you're already doing whatever this campaign is, how can we extend the reach of that in a meaningful way that helps drive compound growth across multiple channels?
+
+**Kyle Gaudreau:** And what that can look like can be a little bit different from opportunity to opportunity.
+
+**Kyle Gaudreau:** But, you know, I love any opportunity where we can extend beyond just not being so narrowly focused on just pure organic search, just AEO.
+
+**Kyle Gaudreau:** So at the end of the day, what we want to create is a really meaningful, rich UX content experience that aligns really well with your ICP and how they do their research and we can build that brand equity.
+
+**Stef Miller:** And so the better we can do that, that lifts all the boats of the channels we care about.
+
+**Stef Miller:** Yeah, definitely.
+
+**Katya Luscomb:** I think this actually is a really nice segue into some pieces that we're looking at around strategy moving forward.
+
+**Katya Luscomb:** Sounds like there's a lot of alignment in terms of, you know, some of the optimizations and really making sure that we're looking at enhancing that content around the user experience.
+
+**Katya Luscomb:** So a couple different tiers that we're considering in terms of, you know, strategy, the way we're thinking about it right now, is looking both at social signals for content topics and direction and things that we want to be talking about.
+
+**Katya Luscomb:** So we can capture conversations early, even before, you know, SEO traffic is starting to show up.
+
+**Katya Luscomb:** And then also making sure that we're capturing search demand, been working on like some competitive analysis and some of those different pieces.
+
+**Katya Luscomb:** So we're capturing both early topic and interest, as well as known search volume that we want to make sure that we're not missing out on in terms of competitors.
+
+**Katya Luscomb:** And then the other piece of that is making sure that we're looking at our content, both new content and content we've already developed, to enrich it.
+
+**Katya Luscomb:** And some of those different pieces that have come up in our conversation already, you know, what visual elements can we add in to really leverage what we're already talking about?
+
+**Katya Luscomb:** We've been doing a lot of work around some case study integration, I've pulled in some custom engineering support, so we can really make sure to leverage a lot of those resources that you all have.
+
+**Katya Luscomb:** And kind of fine tuning how we're approaching that and making sure that, you know, the content that we're putting out there isn't just interesting on a surface level for people who come in to glance at it, but is really offering them something of value for the time that they're spending on it and continuing to drive them further into the Udemy business universe, right?
+
+**Katya Luscomb:** And then the other core piece of that that we're also considering, which we've mentioned a couple different times, is like, how can we unlock visibility into the way that our content is linking to ultimate business impact in terms of those leads and pieces?
+
+**Katya Luscomb:** So looking at, you know, we've built out some strategy pieces where we look like there's quite a lot of headroom in terms of search volume that we can capture, and also thinking through some of those different content elements that we're looking to refresh as well.
+
+**Katya Luscomb:** So, something I'll share after the call, we've got a more elaborated strategy that breaks down a lot of those different sections.
+
+**Katya Luscomb:** Didn't want to get like too, too into the weeds with those pieces on this call right now, but we'll share that after the fact for you guys to look over as well.
+
+**Stef Miller:** Great.
+
+**Katya Luscomb:** Questions about any of that?
+
+**Katya Luscomb:** No questions.
+
+**Stef Miller:** I guess maybe just quickly checking in, Justin, based off of sort of where you think we're headed this year, is there anything in sort of the one, two, and three that you think we should double click on, spend a little more time talking about?
+
+**Justin Luebke:** Is this the right priority order?
+
+**Justin Luebke:** Yeah.
+
+**Justin Luebke:** Trying to go through, yes, I think it tracks, I think it tracks well.
+
+**Justin Luebke:** I also think one and two could be pretty interchangeable.
+
+**Justin Luebke:** I know something we had discussed is like more visuals, but we've been kind of stuck on the, like the localization piece of what that would look like.
+
+**Justin Luebke:** And I think that the case study integration and content depth is something we've also talked about quite a bit.
+
+**Justin Luebke:** And I think that the case studies in there would add quite a bit of usability.
+
+**Justin Luebke:** like a bit
+
+**Kyle Gaudreau:** Times on these sorts of things and like, you know, we should experiment and learn has been, I worry if we make this trade-off of creating the best user experience possible for the sacrifice of localizing, that it will justify the impact of that trade-off.
+
+**Kyle Gaudreau:** Meaning that if we feel really confident we can create a better user experience for English users, and we don't do that because we want to expand to other languages, that the net effect of that is less positive than enriching for English users.
+
+**Kyle Gaudreau:** You know, ultimately, like, one example is a really good one that Steph's mentioning is like, are the behaviors going to be different, the things they care about different in those markets?
+
+**Kyle Gaudreau:** Sometimes it's true, sometimes it's not always true.
+
+**Kyle Gaudreau:** It can depend, is what we've seen at least.
+
+**Kyle Gaudreau:** But I do worry, just generally, like, when we say sticky growth, we just really want to ensure this is...
+
+**Kyle Gaudreau:** It just about getting content live so it initially ranks and drives traffic.
+
+**Kyle Gaudreau:** It needs to be meaningfully engaging, and that's what will help us continue to grow this over time.
+
+**Kyle Gaudreau:** And so I wonder if there's maybe even a happy medium of like, okay, what is the sticking point to including more visuals that make it harder for us to localize?
+
+**Kyle Gaudreau:** Okay, maybe there's a solve there to consider.
+
+**Kyle Gaudreau:** I know we're running some localization on some of our content right now, and maybe that can help us inform the impact in some way.
+
+**Kyle Gaudreau:** So I think this is just all like healthy questions to be asking of like, where do we take the program next, just to ensure, you know, we're prioritizing our impact for effort in the right places.
+
+**Stef Miller:** I mean, I'll say it like I, and I, by the way, do not live and breathe any of this stuff the way that all of you do.
+
+**Stef Miller:** So like, you know, think of this as like, I read a few articles, and now I have questions.
+
+**Stef Miller:** But like, you know, I continue to see stuff around like how important video is, and how it gets ranked differently, right?
+
+**Stef Miller:** like, like,
+
+**Stef Miller:** So, like, I do think, like, I would love for us to pick a few meaty topics and focus on interesting video delivery of some of that to round out the written format and see what, just see what happens.
+
+**Stef Miller:** Like, from an engagement perspective or, you know, sharing perspective, I don't know what I don't know about it, but I, like, I believe that there is just a world of people who just, they want to click a video, you know, and it's not everybody, because I'm not that person, actually, but, like, there are lots of those people out there.
+
+**Stef Miller:** And so I try not to make too many big assumptions around, like, reading a headline on that, but I'm curious, and I know when I searched up, videos are always sort of represented in the, you know, collective findings of things, so.
+
+**Kyle Gaudreau:** And this is consistently changing, but a lot of the research data recently is showing that YouTube is the number one influencer of AEO at the moment.
+
+**Stef Miller:** And so if we can find this compound, like, hey, we can create a good user experience within an article by having a video there, that article is highly relevant.
+
+**Stef Miller:** And to a topic we're going after, and you have that on YouTube, that speaks back to the compound stuff we were talking about earlier, of affecting multiple channels.
+
+**Stef Miller:** Yeah, well, we definitely have a social sort of angle that we need to address.
+
+**Stef Miller:** I think for Udemy Business in particular, probably a topic for another day, and maybe not just with you guys, but we definitely have some more sort of like a goal around doing more for social that's specific to Udemy Business and our buyer audience.
+
+**Kyle Gaudreau:** So I lumped YouTube into that, obviously, but like, we all know what YouTube is.
+
+**Katya Luscomb:** Yeah, that totally makes sense.
+
+**Katya Luscomb:** Yeah, we'd love to kind of keep that channel open and keep chatting about it so we make sure that we're aligning all our different elements.
+
+**Katya Luscomb:** Conscious of Time, this piece, it kind of doubles down on a lot of what we were talking about already, just in terms of when we're looking at our strategy, we're looking at it in a two-prong way, right?
+
+**Katya Luscomb:** Like, we want to really drive that AEO.
+
+**Katya Luscomb:** And so,
+
+**Katya Luscomb:** LLM visibility, and also not lose sight of the SEO growth, because that is still an important driver of organic traffic.
+
+**Katya Luscomb:** And so this just kind of more explicitly calls out how we're looking to approach content development in terms of, you know, identifying the right opportunities, validating it across keywords that we know are driving traffic and some other strategic bets we can make, like actually creating the content, making sure that it's sticky, and then really returning back to the metrics that we're seeing so that we're making sure that each piece of content that is engaging and driving traffic is enriched where we need it to be, and optimizing and all those different elements as well.
+
+**Katya Luscomb:** So don't want to belabor this too much, because I know we've used up quite a bit of our time already.
+
+**Katya Luscomb:** Another quick call out, just kind of looking at opportunities across some of those different strategies in terms of social research versus like known competitive gaps in SEO.
+
+**Katya Luscomb:** One of the things that we are looking at in terms of the sort of social research and social listening, slightly lower search volume.
+
+**Katya Luscomb:** But likely much higher intent.
+
+**Katya Luscomb:** So really going to be more likely to drive folks who are explicitly looking for a lot of the content and topics that we're developing.
+
+**Katya Luscomb:** And like I said, we also don't want to lose sight of this like really high volume area and some of these competitive gap topics that we know are, you know, going to drive traffic because of like other SEO signals that we're seeing in terms of keyword volume and things that are in that realm.
+
+**Katya Luscomb:** And so in one of the pieces that we looked at in terms of social research focus is really kind of doubling down on a lot of those AI transformation topics and expanding in that realm as well.
+
+**Stef Miller:** This is helpful.
+
+**Stef Miller:** I think as we evolve, obviously, we sort of like knock out topic by topic.
+
+**Stef Miller:** focus.
+
+**Stef Miller:** There's probably a few areas to Justin where you and I should spend some time just on like, what are the conversations our sales team is having today?
+
+**Stef Miller:** We are starting to bring more partners online.
+
+**Stef Miller:** So for example, we can now resell M-Train, which is a compliance.
+
+**Stef Miller:** Very targeted towards legal and compliance and HR leadership.
+
+**Stef Miller:** And so that's a whole different topic pillar that we might need to think about.
+
+**Stef Miller:** What does it look like for us to show up in some of those types of searches?
+
+**Stef Miller:** Very different from our core Udemy business offering, but it's a better together story.
+
+**Stef Miller:** And then we can weave that into the sort of overall Udemy business narrative.
+
+**Stef Miller:** So I think that there's examples like that where we probably should just sit down and do like a strategy planning session for the rest of the year anyway, as things are evolving.
+
+**Justin Luebke:** love that.
+
+**Stef Miller:** Yeah.
+
+**Stef Miller:** Oh, the light is killing me.
+
+**Stef Miller:** Great.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** Actually, that's a really great segue into some of the different pieces that we're looking at, like aspects that would help us kind of unlock sort of the next piece of planning around this strategy.
+
+**Katya Luscomb:** One of the big pieces, I'm going to skip ahead to three here.
+
+**Katya Luscomb:** I'll go back to there too, I promise.
+
+**Katya Luscomb:** But looking around like product messaging and documentation.
+
+**Katya Luscomb:** So not only related to, you know, some of the initiatives.
+
+**Katya Luscomb:** around highlighting Teams content, but also making sure that we have a really good understanding of all the various products and services that you all really want to be highlighted within both the AI transformation topics and more broadly, so that we're framing those in the right way and really driving sort of that comprehensive experience across all those different elements.
+
+**Katya Luscomb:** So any documentation that you all have, like sales calls can be really helpful, but if there's other like written documentation, we can pull all that in into both our research and also inform our pipeline and how we're generating that content.
+
+**Justin Luebke:** I did send over some of the 2026 roadmap stuff, but Jay and I had also discussed going through some of the sales calls again for some updated info, so that could potentially be something we could provide soon as well.
+
+**Kyle Gaudreau:** Definitely would be helpful.
+
+**Kyle Gaudreau:** The additional thing I would want to call out here, when we think about Teams, even potentially beyond just how to think about the messaging around that, I know we talked about things like
+
+**Kyle Gaudreau:** Like CTAs, another open question in my mind is like, should that inform the topics that we're going after in some meaningful way from an audience that would be more apt to go the team's route?
+
+**Kyle Gaudreau:** I'm not sure yet how to think about that.
+
+**Kyle Gaudreau:** I could see that that could be the case, but, you know, the more context and better we can understand how you all are thinking about that as you develop your plans, we can take that back and see how that involves our content strategy as well.
+
+**Kyle Gaudreau:** And also like, how should we think about it?
+
+**Kyle Gaudreau:** The greater priority is like what you all want to drive, like how much of our opportunity, our focus should be there.
+
+**Stef Miller:** Great.
+
+**Stef Miller:** Cause I personally, Udemy business is the solution.
+
+**Stef Miller:** The number of seats you purchase is an enterprise or team plan.
+
+**Stef Miller:** And then there are enterprise specific features that you got to get your hands on requiring you to buy an advanced solution.
+
+**Stef Miller:** Right.
+
+**Stef Miller:** Right.
+
+**Stef Miller:** like, think of teams as like a lightweight entry point into an enterprise deal.
+
+**Stef Miller:** So, um, head of, head of a team, head of marketing says.
+
+**Katya Luscomb:** A couple other pieces wanted to call out.
+
+**Katya Luscomb:** In terms of visibility around conversion and business impact, I know Justin and have chatted a little bit about potentially getting access to Salesforce or Tableau data.
+
+**Katya Luscomb:** There's a couple different ways that we can look at that depending on sort of the easiest unlock here for you all.
+
+**Katya Luscomb:** Sometimes it's as simple as just a spreadsheet export from your data that gives us like the specific slices we need.
+
+**Katya Luscomb:** But wanted to flag that if that's something that we can start to get our hands on, then we can also consider it in our reporting as well.
+
+**Kyle Gaudreau:** And just to clarify, like not asking for like user data or anything, it'd be like aggregated, like based off like perhaps the blog, pages, whatever it may be.
+
+**Kyle Gaudreau:** So for some of our customers that will like automate exports that we can then reference and bring into our reporting.
+
+**Kyle Gaudreau:** And just trying to think of like, what's the path of least resistance here?
+
+**Stef Miller:** Yeah, understood.
+
+**Katya Luscomb:** And then the other piece, more of a call out, something Justin for you.
+
+**Katya Luscomb:** and I to connect on is making sure that we are really aligned in terms of the prompts and validating those specific AEO targets that we're going after.
+
+**Katya Luscomb:** I've been doing a little bit of work this week, and I'll share more with you next week.
+
+**Katya Luscomb:** We can connect about making sure that all those prompts are closely aligned in terms of what we're tracking and what you're tracking in BrightEdge and some of those different core goals.
+
+**Justin Luebke:** Cool.
+
+**Justin Luebke:** That sounds good.
+
+**Katya Luscomb:** Awesome.
+
+**Katya Luscomb:** All right.
+
+**Katya Luscomb:** And then one other piece, I know I had demoed this a little bit for Justin earlier.
+
+**Katya Luscomb:** At GrowthX, we've built an AI visibility tool similar to BrightEdge, but with some distinct advantages.
+
+**Katya Luscomb:** And so one of the things that we are looking at in this renewal is a complementary year of access for you all.
+
+**Katya Luscomb:** A couple different features to call out quickly.
+
+**Katya Luscomb:** I know we're limited on time, but we have a really comprehensive library of prompts across industry.
+
+**Katya Luscomb:** That have been like already been tracked.
+
+**Katya Luscomb:** And so anytime we want to add new topics instead of waiting for months for that data to come in across LLMs, you get more instant visibility and some different features there as well.
+
+**Katya Luscomb:** But wanted to call out that piece.
+
+**Kyle Gaudreau:** The TLDR here is essentially what we've built this tool for amongst many reasons, but it also will start to plug into what we call our content OS, which is where we're developing a lot of the content.
+
+**Kyle Gaudreau:** And so this will help us more meaningfully surface opportunities and work that into the pipeline of like flagging what are we creating, why, having that rich context.
+
+**Kyle Gaudreau:** So just a bit more of like a programmatic system, but also can provide access for you all to get that visibility into like the prompts, the trends, things of that nature as well.
+
+**Stef Miller:** Is this a pay-to-play access?
+
+**Stef Miller:** Is this like a product offering that you're dangling in front of us with dollar signs or like how does that work?
+
+**Kyle Gaudreau:** Basically what we're doing here is for our customers, we're offering it as like a free access for the.
+
+**Kyle Gaudreau:** First year, you know, some customers have their own different AI visibility tools they may use.
+
+**Kyle Gaudreau:** Regardless if a customer would pay for access to this, we would still be leveraging it as a part of our workflow, our systems, our reporting as well.
+
+**Kyle Gaudreau:** It's more about like accessibility and customization.
+
+**Stef Miller:** Yeah, got it.
+
+**Stef Miller:** As soon as you said it's similar to BrightEdge, I was like, oh, okay.
+
+**Katya Luscomb:** Maybe, I'm probably underselling some of the advantages and how it's going to play into our system there.
+
+**Stef Miller:** Oh, no, no, it's all good.
+
+**Kyle Gaudreau:** I just wanted to see if you're asking for money for this or not.
+
+**Kyle Gaudreau:** All good, all good.
+
+**Stef Miller:** Raph tax here.
+
+**Katya Luscomb:** Down for the nitty-gritty, love it.
+
+**Katya Luscomb:** Yeah, no, it totally makes sense.
+
+**Katya Luscomb:** And then just thinking through the fact that renewal, you know, end of April, believe our renewal date is April 26th with you all, and just how quickly time can fly, wanting to start the conversation around kind of where we're looking and make sure that, you know, I've
+
+**Katya Luscomb:** there's any open questions that you all have, things that you need to see, comfort level.
+
+**Katya Luscomb:** So looking at a flat renewal at 15K with some similar different elements to what we've got going right now, five articles a week, working on a lot of that enrichment that we've talked about, continuing to really dig into SEO support to make sure that those analytics are being driven, content audits so that we're optimizing everywhere that we need to, and a lot of this like SEO and AEO tracking.
+
+**Katya Luscomb:** And then the check that piece that we just mentioned as well, where you guys would get hands-on access.
+
+**Katya Luscomb:** So in looking this over, like any open questions that you guys have, any pieces that you really want to talk about as we look to move forward with all this?
+
+**Stef Miller:** I think it's fair that you put it in front of us.
+
+**Stef Miller:** I don't have an answer for you today.
+
+**Stef Miller:** I think the most important thing is that I evaluate right now, at least given where we're at, what are the priorities for us as a team to make sure we're leveraging the work that is getting?
+
+**Stef Miller:** And has already been done versus simply like continuing to augment because the delivery of a lot of this in my mind could be balanced out with our internal team.
+
+**Stef Miller:** And so then it's like there's more that you're doing beyond that.
+
+**Stef Miller:** But I don't think I have a real good line of sight.
+
+**Stef Miller:** And like if I scored you one out of five for each of these, where would you land?
+
+**Stef Miller:** I don't know.
+
+**Stef Miller:** So I want to spend a little time with the team on that because that's where we see the value.
+
+**Stef Miller:** Right.
+
+**Stef Miller:** And then that's going to help justify the investment.
+
+**Stef Miller:** So we'll do that over the next probably two weeks.
+
+**Stef Miller:** I would say we're in this sort of like planning for Q2 up until the second week of March.
+
+**Stef Miller:** And that gives us time.
+
+**Stef Miller:** If we do renewal, we should be fine.
+
+**Stef Miller:** But we should try to get back to an answer on this by the end of February if we can, if possible, just because of procurement.
+
+**Katya Luscomb:** So.
+
+**Katya Luscomb:** Yeah, that makes sense.
+
+**Katya Luscomb:** And certainly didn't expect to, you know, affirm yes, no today, but really wanted to make sure that we're starting the conversation as early as we can to.
+
+**Katya Luscomb:** To move things forward in case there's adjustments that we need to be making or considering.
+
+**Stef Miller:** Sure, definitely.
+
+**Katya Luscomb:** Thank you.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Kyle, anything else that you wanted to call out in this realm?
+
+**Kyle Gaudreau:** Just thank you, everyone, for the time and making this work.
+
+**Kyle Gaudreau:** It's great to catch up and see some of these faces again.
+
+**Kyle Gaudreau:** Good to meet some new faces.
+
+**Kyle Gaudreau:** You know, love the feedback we've heard thus far.
+
+**Kyle Gaudreau:** Please keep it coming.
+
+**Kyle Gaudreau:** And, you know, we won't love to just understand how we can continue to adapt to make sure we're a strong partner for you.
+
+**Stef Miller:** Great.
+
+**Stef Miller:** Thanks.
+
+**Kyle Gaudreau:** Thanks for putting us together.
+
+**Kyle Gaudreau:** Yeah, no worries.
+
+**Katya Luscomb:** I'm always, always happy to jump on another call if it makes sense, too.
+
+**Kevin Kurtz:** Appreciate it.
+
+**Justin Luebke:** That sounds good.
+
+**Kyle Gaudreau:** Bye, everyone.

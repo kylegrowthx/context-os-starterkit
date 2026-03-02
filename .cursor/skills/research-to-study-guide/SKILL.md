@@ -210,7 +210,7 @@ If the topic doesn't clearly fit one subdirectory, ask the user which one to use
 
 User: "I want to become an expert in company handbooks"
 
-1. Create scratchpad: `/pipeline/scratchpad/company-handbook-research-scratchpad.md`
+1. Create scratchpad: `/pipeline/scratchpad/2026-02-23-company-handbook-research-scratchpad.md` (use today's date as prefix)
 2. Audience: Founders at 10-100 person companies
 3. Research: Public handbooks (Basecamp, GitLab, Valve, Netflix), structure patterns, expert advice
 4. Evaluate: 24 sources, 6 frameworks, 10+ examples = Great (0.85)

@@ -1,0 +1,1484 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Marcel, what's up?",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Morning.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hey, Marcel, hi, Jacob.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "How's it going?",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Happy Monday.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Happy Monday.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Good morning.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Good morning.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You guys hear us okay?",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, all good.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sweet.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's always something new.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm joining meetings in conference rooms.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's always something.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Jacob, do want to kick us off?",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, sure.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "can.",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I I can give the.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "You know.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Overview on the day-to-day stuff, plus the, we made some progress on auto-publishing plus refresh workflow, so give those, and then I think it's, we really want to, I want to make sure we get to talk about the alignment on next steps for new strategies and things, so that's key, obviously, why George and Marcel are joining, but the, you know, day-to-day pieces, let me share my screen, David, thanks for putting this to So we'll come back to that top item, you know, next steps.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "We have been working with our engineering team on the auto-publishing, save a ton of time, both on publishing, as we're going to need to scale the total number of content and just save both sides time, but Tanmay, especially, we're working on how do we get FAQs and Pima markup and something like that all done automatically, and so that should allow us to save our time, allow time, also.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Save your review time there.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That should all be done.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "There's definitely some nuance.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "There's a bunch of article types and things.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "There's just a bunch to test, and we'll be doing that today, and tomorrow we'll be starting as we get those into beta.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But a lot of progress there.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That should free up everybody's time and be really good on the quality side.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Articles?",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so super quick on that, because I connected with the engineering team.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So just to give everybody like a little bit of context.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we essentially built a way to, like you all have the gnarliest Webflow like instance of any customer encounter, because there's like so many different like content types or different like collections.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it was just like, even though it was like 15, 20, 30 minutes of engineering time, anytime we would want to automatically publish a new collection, it was going to be enough.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "be that.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Pretty gnarly.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So essentially what we built is we ingest an API and then we create essentially a config file that then gives all the specs to then create the workflows to be able to map, field map.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So essentially field mapping is automated completely because of that.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Obviously that's great value for other clients down the line as well, but this essentially allows us to not have to do field mapping ever.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's awesome.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I think in the next few months we'll probably move to a CMS plus front-end solution because Webflow is not scalable for the amount of content we have.",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And we'll surely work with you guys on that.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "But for now this is great.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, so anyway, the full story short is, you know, these migrations like take forever anyway, so that like this should deliver.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "go.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And there you",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's insane amount of value in the short-term use.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's why it took a little bit longer than we thought it was going to.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But now we should be fully on the block there.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Thank you for translating some of the engineering lingo over for me, that simple.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Article publishing, have 22 new articles.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Review those if there's any feedback or anything.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But that should be business as usual here.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Just confirming, David, let's move those.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "They're showing ready to review.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Let's just update the OS to make sure that's all accurate.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then there will be an additional 22 new pieces of content this week.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "David, I don't remember what this is with the formatting for competitor articles.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Can you talk through that a little bit?",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "Oh, yeah, sure.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "So there was an issue with the way we were formatting the articles that were related to competitors.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthx.ai"
+            },
+            "text": "And then Tenmei included a how-to in the last meeting notes from last week, and the content managers took that into consideration and edited it according to all that, so I just wanted to confirm with Tenmei that everything's good to go on that now.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Perfect.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So those are like our, you know, standard weekly items.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I don't know where to kick off next, but maybe George, Marcel, the new work streams, where do we want to cut through in that direction?",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so I'll just show my screen and kind of show some of the work we've done.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, okay, so we started to kind of go through and quantify the, think of it as like, right now sorted by volume, but we started with the, we",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like some of the URLs that we think are prime, potentially, to start to refresh, and so we've identified 728 already so far, and what we're doing is starting the process of seeing number of keywords, average keyword difficulty, and then go through it and see when was the last time this was actually published or touched, and then based on that, decide to run the refresh process, right?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that we picked, like, really good batch of 100 for this week, and now that the publishing is fully streamlined, we should be fully on block to get progressive this week, and NAMM is working on, like, that's his number one priority this week, that's down, and so, running the same, like, workflow we showed you all before, right, and so, like, even an example like this, where, like, the FAQs, I think, go.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It could be a lot more comprehensive and more questions, right, like so the idea is running through that entire workflow, but then what we're doing is in the process of doing that, like tracking delta between the pages we do it versus the ones that we hold constant, and so then, like, you know, nothing new here, around this time next week, we should start to see signals, and then for sure, the following week, so we'll do another batch next week, and then, you know, we should have enough signals at that point, to know, one, our capacity to keep doing this, like how aggressive can we be, and how can we do in any given week, if that was the only thing we're doing, and two, like, what is the value of this long-term, right, like, in our later, like, and so, we want to look at it as like, a few things, right, like, so immediately after doing a cohort of these updates, what are the, like, does impressions go up, click-through rates go up, and then ideally, like, like\u2026 \u2026.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Raw clicks, average clicks per page go up or not, and then are there any signals on the page itself that improve, like specifically time on page, bounce rates?",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I don't know that you all are tracking like scroll depth on these pages, but later on we could figure out how to instrument that as well.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "and we can, you were saying you, for a client, you need something like analyzing all of those at scale, or...?",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, so like there's tools like SEO testing, where it's less on the web metrics, it's more on the, like, seeing the delta between like keyword, average keyword, and like click-throughs, impressions, all of those.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "It's way harder to do it in Search Console, right?",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because Search Console is really  at like clustering pages.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Totally.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Saying, here's the cluster of URLs, tell me the delta between this cluster and that cluster.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I started this experiment here.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I want to see the progress over time, you know, so there's other tools, but like the one we tend to use more is like seotesting.com.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we're pretty transparent about when we're using tools, you know, that are...",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Of course.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's pretty much it.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, we'll do more async updates, but this is us, we're going to prioritize from this list right now, and we're going to keep generating, you know, more and more of these lists.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But this should give us, and not for several, like, at least two, three months of work, in addition to the editorial content, which we'll pick back up in a couple of weeks.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, that's perfect.",
+            "timestamp": "00:09:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "That's great.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And then, yeah, for the editorial content, Tame and I will sit down in the next couple of weeks and think through exactly, like, the strategy should be there.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Because we're launching our new platform that's going to be probably like around, like, it's already like the product, the beauty here is like the product is already built.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "It's just like we're taking our time.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I'm on the marketing side for a few reasons, but basically we're going to launch fully hybrid deployments, so then we're going to, you know, from our chat, Marcel, like last week, what we want to do is create categories of saying, like, hey, if you're in healthcare, this is all the things you should care about with data, like data sovereignty for healthcare, like data hybrid deployments, and so on and so forth, and so then what we'll do is basically have those highly reproducible recipes in a way that we talked about.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So Tam and I, this is great for Tam and I because we can see it in the next couple of weeks and really give it a plan and say, hey, here are all the categories, here are all the obstacles we could do, and then we can go in and sort of like build that structure that we talked about, so.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's perfect.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The only other thing we had, I don't know if we can spend just five minutes, can you just give us like a little bit of Teotaro, I know you mentioned the website, revamp, I'm just curious, like, what's happening on that.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And just so that we are aware on our site, as far as like timelines, because those things tend to be very all hands on deck when they kind of get closer to relaunching.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I don't know if you guys are in design, dev.",
+            "timestamp": "00:11:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, we're basically designing and that's mainly like, I can send you everything.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like we have a whimsical with all of like the new sort of like nav bar and stuff.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "It's mostly like a rebrand and redesign and then like we're changing the structure of sort of like the main pages, like product pages and you know, and so on and so forth.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Blog and the articles like won't change that much.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like it's going to be a reskin of those to start with because we're refreshing them anyway.",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, like I can send you everything like we're in design.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Do you have the inner one that we do?",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the read design piece.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just to show them really quickly.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Give me a second.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Mario, I think the two areas that.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We've seen work really well, so one is, any data you have on, like, are there pages that have higher propensity to convert outside of sign-up pages, overall, and outside of, like, the in-between, like, ignore the homepage, and ignore trial sign-up pages, and then put aside all your evergreen content pages, right, like, everything else that's left, which one has the highest predictability?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "to, from that page, go into sign-up, and if you have those signals, like, some of the mapping we did, like, with one of our customers' web stacks, which Jakub also works on, is, like, this mapping towards, like, what is the next best logical step, and then, like, start to A-B test, but because you're doing a refresh, like, and there's gonna be a lot of changes, you can be very, very intentional about, like, what that is, right, and so the reason I bring it up is also because, like, like, what is,",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A lot of what kind of what we're doing with customers right now, this is one of our customers, Interwell, we designed this for them, is recommending just like our best practices for topic pages, right, like, so the idea is taking like a topic page, and then like, that's going to look very much like your, call it like blog index page, but it's very, duplicate this into any topic, you know.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the layout, you can change the skin, if you will, but the layout and the intent of it is kind of like, similar.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it's learning a lot from sites like helpline.com, which have been able to scale to over 150,000 pages successfully, you know.",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, no, and that's what I meant with, like, given that we're focusing on the refreshes, like, that meant I can focus on the next two, three weeks to give you exactly like what we think this structure should be on our end, so that we can build it and build it in an idea, visible way, yeah.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "That's what I meant earlier.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, perfect.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, and just so, Tamir, I don't know if you were on the call when I mentioned this, but the TLDR is like Helpline and Wise.com are two of the sites that have probably done the best at massive scales of content, you know, out there that I can find.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's others, but like, and their approach is very much like they keep the structure fairly flat, but then they use a lot of PLPs, like just like, almost like listing pages, right?",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Not only actual content pages, but then the content itself has a lot of really good tags and those tags lead them to topic or subtopic pages.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And those topic and subtopic pages are listing pages that serve not only content that live in that structure, but any content that's related to that topic, right?",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, in the sleep section, there might be better sleep tools, holistic health, mental well-being, and some of those are not actually slash sleep slash something else, right?",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then some of these articles here, actually, like, the structure lives somewhere else, but they're surfier.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so what you're doing is just, like, dynamically creating a web of, like, topical, like, semantics, you know, like, how they're related, right?",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you're just, like, helping to not just do a lot of, like, long-tail content.",
+            "timestamp": "00:15:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You're doing it in a way that shows Google, like, how you're building on top of it and how it leads to your main business, you know?",
+            "timestamp": "00:15:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's what we're trying to recommend, and it's, like, one of our biggest hypotheses right now is that, like, when you see sites like Clay.com that got punished, or, like, you know, lost a lot of traffic because they're like, what is the headquarters, blah, blah, blah.",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's because they're just, like, finding a thing and just, like, scaling 10,000 pages.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "On this thing that has not enough direct, you know, correlation to everything else they're publishing, per se.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Of course, yeah.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "That makes a lot of sense.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All paths lead to the core essence of what your business is for, you know, so that we're not just going and finding, like, things super irrelevant, you know.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, next.",
+            "timestamp": "00:16:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, perfect.",
+            "timestamp": "00:16:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Awesome.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Alright, we have our marching orders, and then what we'll do is post at least three or four updates throughout this week on progress, as we're making progress asynchronously, and then next week, same thing, and then we'll start to look at signals, like, within a few days after starting to publish, and then we'll just do a lot of async updates in the meantime.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, and one of the other things is, like, if you have recommendations, like, on, like, if there's anything where you're doing the work where you see, like, hey, actually, we think that we could reorganize some of the...",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "If content in different ways, please feel free to suggest it, because the reality of AirBite is that a lot of people have touched this and a lot of people have created content over content and categories and so on and so forth, and Tame is a one-person team when it comes to content and SEO, and he also manages a-person machine.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "wouldn't even call it a team.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Exactly, and it's just easier if we all meet with ideas and stuff and we can really take this to the next level.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Related to that, how are you guys managing redirects today if we were to prune stages?",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, obviously, all these categories were created before I joined event.",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, some of these categories have created programmatically via air table and there is a tool called WellSync.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, what we can do is, my hypothesis, if we do 301-permanent redirect.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we're oxidated.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "ofertenjentech?",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We might use some traffic for shorter time, so my take would be, I think we can refresh, but keep those categories as it is, but we create a page like you showed and put everything there, that's a data engineer, resources, talks, tutorials, and everything in that particular page, in an order.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But also the reason I ask is, Webflow does manage Redirects, but then some people will do it at like, if you're using Cloudflare, at the Cloudflare level, and then some people will do it somewhere else.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so like, do you know where you're managing most of the Redirects?",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so we are managing it directly in Webflow.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "5 - Glacier",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So Webflow has a section where we can just take, do this 301 redirects.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so it makes it easier for now, but just something, Mario, like, as you're getting closer to a migration, like, we can help you, we've helped a lot of customers with migrations.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, it's a big...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The undertaking, there's a lot of these little gatches.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "course.",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I know.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, like, even if, like, I've done tons of these, and every single time, I personally missed something that I should have remembered.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Nah, I know.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, like, I think, like, for now, like, we're redesigning, and sort of, like, we're redesigning a website, like, we're going to be still in Webflow for now.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And then, like, once that's done, like, we're going to kick off the migration and think, and frankly, we can sit together and think through the tech stack, like, whether that's, you know, or, you know, whatever that is.",
+            "timestamp": "00:19:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, as long as you can use Prismic.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right, perfect.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, thanks, team.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We appreciate it.",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we've got to work it out.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, we'll we'll tagging along and updating you all.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Awesome.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks, team.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks, everyone.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Board Room",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:19:52"
+        }
+    ]
+}

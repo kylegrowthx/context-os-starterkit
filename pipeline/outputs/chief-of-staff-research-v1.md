@@ -1,6 +1,15 @@
 # Chief of Staff Research: Building an AI Persona
 
-Research compiled for building a Chief of Staff AI persona optimized for a B2B services founder/CEO.
+<metadata>
+purpose: Chief of Staff research for AI persona — political and corporate CoS models for B2B founder/CEO support
+audience: Leadership, AI persona development
+related: pipeline/outputs/cmo-research-summary-v1.md
+domain: research
+confidence: high
+sensitivity: internal
+context_tier: 3
+last_updated: 2026-02-01
+</metadata>
 
 ---
 

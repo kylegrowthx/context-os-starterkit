@@ -1,0 +1,2516 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, this meeting is being recorded.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Hey, can't complain.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "All they see is in.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Are you in the office?",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Yeah, most every day this week, I think.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "you guys, who's not in local on your side?",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "is everyone local?",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Uh, no, we got an LA office.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So I can take Warner on our growth team is in LA.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But he's also very interested in what y'all are building and interesting to get the hands on the workflows to see how we can remakes them a little bit and start playing with them ourselves.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So, was very excited to kind of hop on with y'all.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "The, you know, like what can we kind of get with in our accounts so we can kind of start testing out playing with, have a contractor starting today too.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So I was going to kind of put them on a couple of air ops workflows for now, but I wanted to kind of suss out.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Hey, how much they have to do in air ops versus like think about NA and Zapier plus LLM's.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So, so it was one point of the conversation, but then two was, I had a couple of questions.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I think I threw them into the slide deck already was thinking we can cover some of those because I don't want to go very aggressive.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And I wonder if this is aggressive enough and if I'm interpreting it correctly.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So I wanted to kind of just chat through all that with you because I want us to kind of win this market.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And I want to double down on you all and I want to cut siege and basically give you all a little bit more room to run.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah, that sounds, that sounds good.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think like, so like I'll give you a little context.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "think we talked a little bit about it like last time, right?",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like the work we're hiring as aggressively as humanly possible, right?",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so we're hiring like four engineers right now, like we're building capacity as quickly as possible.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then our systems are getting a lot, a lot better.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, so so like literally like every day, like our CTO is like taking feedback from clients on like, Hey, this thing can be better.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Hey, or our editors, this thing can be better.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like coming back to and in rebuilding as quickly as possible.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like we ran into like over 10 different issues with Air Office this week alone.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like they literally, like we have workflows that has 4,000 tasks, and it's just like, now that we have three clients, it's like if you're doing that times 30, essentially you would need 48 hours in order to be done with it.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And which means we can't do any concurrency as soon as I see you.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, and it's like, no, can talk about concurrency for you.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I was like, well, bro, like I need 5,000, what are you talking about?",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you know, like, yeah, that's the upper one on how fast we can build because what you're talking to me.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so the, no, the, it's not that it's like, that's just to explain a why like us continue to build into AirOps, you know, like just doesn't scale.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, and so that's one.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "The second part that we're changing, you know, this is me telling you like I wouldn't tell anybody else.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like, like we don't want editors building workflows.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like like the times where the editor try to like do stuff themselves.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like they're going back to the learnings we had like 12 months ago, essentially, you know, and it's like, oh yeah, I didn't like this and blah blah blah.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so what we're doing is essentially like building it as like essentially a UI where we're moving off of air table and then they are there and they're just like reviewing the steps and it's like essentially like error proof, but then we can capture their feedback as well and then learn from that and then like reincorporate it into the whole the whole workflow, right?",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that's just like from a product perspective, right?",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "then like as far as like we can jump into the proposal, ultimately like the limit, well, I'll be super transparent.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "The design-wise, we haven't invested a whole lot, right?",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So some of the anything that's like, can you go create 10,000 images for me?",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like we're gonna not be as great today.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, that's the one I was gonna ask you to send back your way with as",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "sale or whatever, and I was like, well, I'm a student, Marcel might have a workaround, but that I hear you.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And the main thing is just like the cost hasn't gone down as quickly on graphic related things, just because like the, the gen AI models for images are still pretty  and in the ways that we need it to be, like, they're not as easy to control.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And they're still and certainly not from an API, like majority doesn't have an API and, you know, like, and, and they're, even if they did, like, they're still really costly.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And, and so there's no, like, and then programmatic integration.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm telling you next, within two months, agent API is your future, man.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Like, we're able to, this was from a PDF from our Notion page, but this can be a blog URL, all programmatically generated.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Again, this is like a first cut fresh out of the labs.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "It'll do the transitions, everything, all fully programmatically generated with an avatar.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I tell you, man, we want to be the first ones to have access to it.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like and offer this as a service like legit, you know?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so like this is where like we're really the weakest.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm being transparent right like we're the weakest on creative side Like meaning like programmatically doing the creative.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I don't know But then if my team is building the API for that I want you to be distributors up That's called up to your clients because that gets me more API credits more sales That gets you an offering that no one else has on the market exactly exactly So it's like I want to cool build that work stream ASAP because like one we're already getting a lot of requests that I mean the requests are a bit more on we are getting some video stuff I just read it really wanted that and I know ramp with G probably would be interested in that too Yeah, yeah, like I think it's just like finding one really good use case Like so for example, we did the expense categories for them pages, right?",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like maybe part of it is like we add a video to everyone",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I was with someone explaining that and going to her account.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Reduces or bounce rate improves your time on page, which gets you a net win.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But maybe just make sure we cover the important stuff, everything, it's like, want to go through the slides and maybe go through the Yeah, let's do that real fast.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I help answer?",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "mean, the main thing was like, how many pages per month?",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I want to be super aggressive.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I don't want to wait a year to catch up at St.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "KJF.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "We can do over the next three months, and I'm biasing towards how fast can we go.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm focusing the kind of team on get sanity or sell up today.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Because my goal would be to see, like, how fast can I push you all, like, if we can automate the staging piece event, really, what's your upper limit for what you can produce and how quickly is kind of where I'm wondering?",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, like, so the challenge we get is we've done this exercise with a few partners, you know, it's like, we go and they're like, how fast can you go?",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we sent them my proposal, and we're like, this",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "How fast we go and we're like ready to staff the team, about to go on multiple hires and you know, I'm about to put like a dedicated engineer like drop everything you're doing, go build this for them, like, and then it's just like, almost too much.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just happened to Reddit.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it was just like, I want to  get like, you know, it was like, they asked for a whole kitchen sink.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We did a whole  full day session with them.",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I send them a proposal, super reason.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And they're like, yeah, so we got to like start small.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "it's like, you know, dude, I'm not asking for a  full day.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I just did a loom recording.",
+            "timestamp": "00:07:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I, you want to work with me, not them.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's just like, I'm looking for that lighthouse customer right now.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, him's just showing signs to be that they're like, we're going to like wrap things up.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Hopefully.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "If you can help us catch up to V.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's a killer success story for you.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "think like, like, actually, I'm getting a few people coming in who are trying to work with you and I'm going to be a nice reference.",
+            "timestamp": "00:07:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Don't worry.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I want more capacity.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "want to go.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like my ideal case scenario is we have good engineers lined up, right?",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And if we can get the scope to be decent size enough, I'm okay running like break even essentially with you guys like meeting Like I can take this engineer and eight like 80% because there's meetings and other things right like but like 80% like Here and then we take like a really strong strategist and then a full dedicated managing editor and some freelancers on top of that Right, like or we can add the graphics to so whatever the bottlenecks we identified and it's like this spot is truly fully dedicated You know, and you have the technical resource to do it.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We just need to figure out like work backwards On on volume right and some of the bats here.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like on the agency play Like I said, there's 24,000 video agencies, right?",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I like about that play is that Like we can go outbound the  out of them And I was gonna say that works, but I need them to be a part of my",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "We're using that as a character join that said I'm aligned to that because that helps me accelerate by seals guy I'm one dedicated to that space.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I want him to focus on higher quality So we can use this as a channel to get one intros get pipeline into the program.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Yeah, that one makes To the sequencing Yeah, that's perfect and like if you have a program is like the the CTA for the outreach is for them to go Stay out of join now exactly boom That's it and then we get them listed But like if you reach out to them and point them to this agency program only and there's no page that's already No, I agree, but we're literally already building the directory structure My only wrinkle was I don't want to list people until they join I need not to be an incentive to join the program because it's a win-win That was why I was like I like it, but the only internal wrinkle is gonna be we're using it Otherwise in a so here's how we could do it right like you have the director Which is everyone but then you only feature the ones that join and they have a special",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "tag and something else you know so we could do something like that I can I can I can re shift it that way but the context I was trying to give you is like hey I'm about to launch this already I need to make sure like that remains in incentive there could be a creative work around like what you're describing but I still want to use it as an outbound channel to get more pipeline for my agency program anyway so I see that one being something I want to probably take on based on that yeah so I think like that this one what it is is like we're not just producing 24,000 pages we're like doing the campaigns and outreaching so it's link building as well but then also like it's an enrichment essentially it's not like really content creation is more like an enrichment plate right like where exactly it's kind of like the play directory but it's more aligned to us because that makes sense that's a market I'm going after and I want to win so so that one is just like if you're game for that like and we align on the the like hey these are the 24,000 we go after and start right then then we can just like I can go back",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "your engineering team and be like, okay, how quickly can we do this?",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, and do like essentially like a scoping exercise on our end?",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And then like, I was going to say is it that's the one that I want to talk to because they're like, is that your engineering team is it one?",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm going to try to make a hire for a front end that can sit in SF also to be part of this stuff.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Or is it like what I'm asking the kind of team to build out with sanity?",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Like if we just get a why does your engineering team would still have to do API call to sanity for the appropriate engineering on our side is not how the the pages look, the engineering in our side is like building the database of like all the different aspects of it, you know, and it's aligned to like what it looks like.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But I mean, with follow the AI apps catalog play, which was like, there's very little like custom things, it's just like a page.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's why the play stuff works so well.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just a page.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There's no like section here.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "It doesn't look like a crazy.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just like a page that answers all the questions you need.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then you can move a law faster and then, you know, and then you programmatically do the images, which is like either the logo",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "plus the name of the company with a nice thing and then different brand colors and that's it.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Let's move on from this one.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I think there's a path forward where we can do a win-win on both, accomplish both what I'm going to do, which is featured agencies, then also SEO play and I plan play for our agency programs.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think we can do something that gets us both.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that one, it's going to shift.",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Beginning is going to be very happy on ramping up the content, then it's going to go super happy on optimizing once rise and then very quickly change to outbound.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Then part of the outbound is like, that worked before is like you reached out, but you're not, you say there's a program that we want to feature them on and you brag about something.",
+            "timestamp": "00:12:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But you say, by the way, your future, anything you want to change about this page, and then it guarantees a reply essentially because it's like, we're back linking to you.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "By the way, we would love for you to join this thing and then we'd we're, you know, have to really access I'm gaining the trust.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But how fast do you think like let's say I get it signed in the next week or so, how fast can you go?",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "How fast can I get ready?",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "If I have the directory ready to go, Nikon and team is building it right now.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So I guess like let's say I get signed next week, I'm assuming you might give the team holiday down time or more than I get it Fortunately, what are we realistically talking like when should we time go?",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Let's I need to set expectations to around like hey like I guess for context for you like at least and I think we can beat this But my proposal and strategy is like hey, I want to increase traffic organic sessions by 50 percent at least in the next six months I think we can be more aggressive Top-through ranking for 50 plus priority keyword pages Improved domain rating five to ten points in organic traffic driven signups by at least 20 percent I think that's all fair And then really it all comes back to competitor gap, which is I have pulled like the top 30,000 My hrefs can have limit 320,000 keywords in there.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I have a contractor starting today I can have them go and then prioritize some of the stuff like",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "owes us to the money furthest from the money, long-tailed variations for use case pages.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "these are other areas that I was going to focus on.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So this one's more on web stacks, basically, but I wanted it to just give me a little bit of context of where does your proposal fit into the overarching, because I do see it as a very heavy kind of fulfillment layer for me.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I think I did already link to your proposal somewhere down here.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So what we'll work for steadily, right, because what we can do is like, we can throw Jimmy as almost like close to 50% plus dedicated to H.N., like, who's our best growth person in the planet, right, and then we throw an engineer at it and we dedicate some of our CTOs time, which is like the most valuable thing we have, right, like, you do that.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But it's just like, the main thing for us is like, and we can sign up for like the results.",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think what would be cool here to try is just like, we'll set up for like",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "a base that's like gives us enough room.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then maybe we do like a six-mile stone bonus or something that way, like we're motivated.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like I want to be motivated.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like not like, like what I mean by it is just like, I want to push the team in a different way with this one.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, what do you think?",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like maybe like, you know, it's like, hey, we grow- Dude, they're impatient to climb.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I mean, obviously they're impulsive sales and send them to drive outcomes.",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Grow by 50% in six months.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There's a milestone.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "If we grow by 100% in six months, that's a different milestone.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then like, I literally, like go tell Jimmy plus an engineer plus an editor.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, I don't care what the  you do, just don't break the bank on the credits.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like, you know, go to  town here.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like go do all the things, you know?",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then it's just like, like, because what I don't want is us to be like too tight to like, oh, we're only going to do this many pages.",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But I do want to- Yeah, yeah, don't want that.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "want to- We like-",
+            "timestamp": "00:15:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "My question is like, oh, if I have the workflows, how can I augment you?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I want to go faster.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "don't feel like I'm going fast enough.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, so the biggest thing on augmenting is definitely like, I think we need to try to build in the tooling, man.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Or if you give us an API, then we can build to help figure out how to put the API into the product.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "all the traffic with all your competitors are all the tool pages, but they're not just tool pages.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "have to be delivered usefulness in the end of themselves.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I agree, but API for what?",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "The product, like endpoint?",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, I'll give you an example, like video conversion, like, transcribe my YouTube video.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, like, those are the kinds of  that has the insane volume, but not only that.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "If you build the best version of that tool, like, it's how you get all the links.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, everyone links to a free transcription, a free download my YouTube video.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "free like, convert my YouTube video into an article, like, you know, and then.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I mean, Veed is doing $4 million a month, and their number one page is video compressor, man.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's 7% of their traffic.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, that has nothing to do with they do, but it's like how they drive growth, you know?",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Well, that's why I'm giving you a preview of what we're about to release, which is new creation modalities, and ours is going to kick some users .",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So as we get that, like, there's a couple areas I want to go deep, but I want to firm up my ask for the CEO to like, hey, I'm going to ask for a dev resources to kind of do this.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So if you can help me, like, this is enough, just send the recording to me, I can basically package this up.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "If you have a proposal for like, what are those top 10 tools that we would embed basically on our product?",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But maybe it's text video, maybe it's PDF to video, maybe it's PowerPoint to video.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Those could be some or PDF to podcast, you know, those are all examples.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But I just want a more concrete ask of exactly what I'm asking for.",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "that I can unlock it and get it aligned.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, OK.",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I want to grab time with my CTO today.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "tell me what your ask would be.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "What would it take to get you to that level?",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "again, I can help influence that.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I want a killer success story for both of us, and I want to win this market, and I want you to be a part of that journey.",
+            "timestamp": "00:19:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And then ideally, that's a win-win for me.",
+            "timestamp": "00:19:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "You're like a solutions implementation fulfillment partner.",
+            "timestamp": "00:19:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "You're going to get the latest and greatest and support from us on our video API.",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "That ultimately drives agent credits usage.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "it's a win for me on sales.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "improves my distribution.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "We have mutual customers of SEMrush.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I was trying to go after Ahrefs.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "We have other mutual customers, too.",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm 100% sure that we can plug into this already.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, and we can get think about it that way, too.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "OK.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And then I can also put you into our agency directory as a featured SEO agency.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "SEO is going to be a big place where the video has a role to play, but we're under invested.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, so I'll",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Right now, it like the proposal I had sent Reddit was 60,000 a month, right, and they're going to go for much lower than that and want to do like a third of that, essentially, and like a fourth of the work for a third, right, like essentially, like what what I was proposing was like 51 a month, but that wasn't like taking into account like having a dedicated engineer.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think I can get an engineer for like about like 9,000 a month, like the ones we're recruiting right now, we're recruiting like top tier engineers like in Brazil, but they're like people that Daniel has managed before, you know, and and so it's like, I think like if we do 60, then it's like, I have enough buffer there to not only deliver on the stuff that I have here, but also like have a dedicated engineer, you know, not a front end engineer, right?",
+            "timestamp": "00:20:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "this is the person that's like in, can essentially, I really need like a little bit more help from you in context, meaning like, and it's related to the same context I was doing.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I just don't know because for me, I have to articulate to the",
+            "timestamp": "00:20:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "You're like, all right, how many pages is this?",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "How many new organic keywords?",
+            "timestamp": "00:21:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "how do I quantify the lift we've got from this level of investment?",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "He's an engineer, so I'm trying to make it as binary as possible.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "That's the one snippet of context that I need for me.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Because I think what you have is good, but you put it as annual pages.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "for me, the whole premise of this proposal is like I want to go super aggressive next three to six months.",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Like how do I close the content gap?",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "How do I start getting backlinks?",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "How do I build authority?",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And how do I win this market?",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So that's the only kind of overlay feedback.",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And I know I've kept you over time, Marcel.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "know you're hyperbusy.",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But I want to make the case for you all.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I just need a way to kind of convey what is the value realization we'll get and how fast.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "You're already showing him.",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I sent the Looker Studio report, Jimmy, shoot with me yesterday.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "We're having that conversation.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I've shown the early results.",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm making the case to double down on y'all.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "See just 25K a month right now.",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I want to cut them next month.",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "That's another chunk that I can just allocate straight into y'all.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm not sold on any of the hires in my pipeline being as fast as you all have to win the market.",
+            "timestamp": "00:21:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "That's why I'm like...",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I still want to hire someone long-term to run the program for us, but there's no way they're going to produce a hundred and seventy five pages in three months.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I don't think they will come close.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Really, what am I doing?",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I want to win my strategy, but you're going to be a key component of winning that strategy and the second tier of that strategy is unlocking it as a distribution channel.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Solutions bar server, you get more SEO clients, we get more API revenue.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "It's a win-win on that set of my go-to-mark strategy also.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I added a slide here.",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm going to tweak this a little bit.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I cranked up on the pages, and then essentially, well, how many per month would this be?",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'll change it to monthly.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'll be helpful because the main thing is, I'm saying ramp it up, we want to go super aggressive really fast.",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "This will also help you on your fun story.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm hopeful in terms of like, hey, we're going from this level of output.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "this level of output.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Here's the net result.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Great brand success story, too.",
+            "timestamp": "00:23:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "If we go from like a five-year-old company that's quickly catching up to the competition.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "give me a second here.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm just running some things.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But the only other ask would be like, like I discussed earlier, give us the work somewhere that we can kind of build them, remix them on our own.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "That's the one thing my head of growth and I also want to, just so I can start testing candidates out on seeing like, what can they build on top of what y'all are doing?",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Because we need to be self-sufficient also at some point.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yes.",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, so here's option C here in the slides, right?",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like 60,000, 1,500 page.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is the thing with pages per month.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like I can make this number higher up front is just that like, that number makes",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "it just tends to keep at this rate later on.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's like the idea is like we're going to try to move as fast as physically possible in the first few months.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "But then later on, all the effort goes into enriching those pages and continuing to make that better.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "You don't want to keep planting seeds later on, right?",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "at that point, you want to make those seeds better later.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "it's just like upfront, you should expect you can communicate that we just can't, if this is an average, And to that in the first three months, you know, for pages per month.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But like if we're a month one, we publish 1,500 pages and 100 of those start getting traffic.",
+            "timestamp": "00:24:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And like, we're, or they're not quite getting traffic and we need to enrich those pages.",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, and we're like, you better publish 1,500 pages over here.",
+            "timestamp": "00:24:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, yeah, but if I just make this better, it's actually more valuable to you.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So does that make sense?",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "we don't want to be too Yeah, yeah, yeah.",
+            "timestamp": "00:24:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'll probably leave a comment to put that in there.",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And then I guess my only other question for you is, well, it's two part question.",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "One, is there...",
+            "timestamp": "00:24:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Any upper limit from you because you're you know, there's probably better than anyone else in the space because you're doing programmatic Is there an upper limit to where Google will we want reap the same level of benefits on indexing or placement rates or on search side?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Or is there any risk of keyword cannibalization being introduced by going this fast?",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's mainly kind of one question that You have a good domain author you have six hundred twelve thousand links, you know at your stage like or Where you are as How many pages do you have right now eight hundred pages?",
+            "timestamp": "00:25:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I don't think so.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think if you try to do, you know Like 80,000 pages and super like automated like the way we're doing this I think can be a lot more like thoughtful, you know, and so I wouldn't be worried about that But it's also why like we don't want to try to do 10,000 in one month, you know, like it's actually up, you know But ramp up aggressively, know But okay, so",
+            "timestamp": "00:25:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Tell me, text me back, like, take a look at that slide.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm gonna talk to our CTO and the main thing is like, we have literally four kickoffs on the 13th of January.",
+            "timestamp": "00:26:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like, we really need, the team is gonna kill me to add this to exit additional kickoff.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But like, I know you wanna move fast.",
+            "timestamp": "00:26:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like, honestly, man, I'm not gonna  you.",
+            "timestamp": "00:26:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like, if we don't have like legit something like tomorrow or Monday, it's like, there's no way we can kick off.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "can do it by Monday.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I can do it by It's busy.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "We need to talk about it.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'll see if I can ping them later tonight.",
+            "timestamp": "00:26:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "The only thing I need from you is a better way to contextualize, like I mentioned, I think this helps.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Like, all right, what is that?",
+            "timestamp": "00:26:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "Which ones are we focused on?",
+            "timestamp": "00:26:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "What will be unlocked?",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So it's probably less the dossier or more of the agency one.",
+            "timestamp": "00:26:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I don't know about the video glossary.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "I'm open to that one too.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "That's kind of adjacent to what we're doing with tools to some extent.",
+            "timestamp": "00:26:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "And then I'm assuming vlog is like the third one.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So I just want to better wrap up, like, what are the pages closing here?",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "obviously, it will be flexible.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "This will be kind of a three month sprint and a big increase.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nav Singh",
+                "matched_calendar_invitee_email": "nav@heygen.com"
+            },
+            "text": "So like.",
+            "timestamp": "00:26:59"
+        }
+    ]
+}

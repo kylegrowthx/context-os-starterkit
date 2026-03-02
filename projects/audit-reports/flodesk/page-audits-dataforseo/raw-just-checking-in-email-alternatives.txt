@@ -1,0 +1,60 @@
+# DataForSEO Lighthouse Audit: just-checking-in-email-alternatives
+
+URL: https://flodesk.com/blog/just-checking-in-email-alternatives/
+Date: February 28, 2026
+Strategy: Mobile
+
+## Scores
+
+- Performance: 39/100
+- Accessibility: 79/100
+- Best Practices: 100/100
+- SEO: 100/100
+
+## Core Web Vitals
+
+| Metric | Value | Score |
+|--------|-------|-------|
+| First Contentful Paint | 2.9 s | 52 |
+| Largest Contentful Paint | 6.7 s | 7 |
+| Total Blocking Time | 1,210 ms | 20 |
+| Cumulative Layout Shift | 0.147 | 77 |
+| Speed Index | 4.6 s | 71 |
+| Time to Interactive | 11.4 s | 19 |
+
+## Failed Audits (score = 0)
+
+- **Reduce initial server response time** — Keep the server response time for the main document short because all other requests depend on it
+- **Minimize main-thread work** — Consider reducing the time spent parsing, compiling and executing JS
+- **Reduce JavaScript execution time** — Consider reducing the time spent parsing, compiling, and executing JS
+- **Preconnect to required origins** — Consider adding `preconnect` or `dns-prefetch` resource hints to establish early connections to important third-party origins
+- **Largest Contentful Paint element** — This is the largest contentful element painted within the viewport
+- **Avoid large layout shifts** — These are the largest layout shifts observed on the page
+- **Missing source maps for large first-party JavaScript** — Source maps translate minified code to the original source code
+- **Buttons do not have an accessible name** — When a button doesn't have an accessible name, screen readers announce it as "button", making it unusable for users who rely on screen readers
+- **Background and foreground colors do not have a sufficient contrast ratio.** — Low-contrast text is difficult or impossible for many users to read
+- **Links do not have a discernible name** — Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users
+- **Touch targets do not have sufficient size or spacing.** — Touch targets with sufficient size and spacing help users who may have difficulty targeting small controls to activate the targets
+- **Defer offscreen images** — Consider lazy-loading offscreen and hidden images after all critical resources have finished loading to lower time to interactive
+- **Eliminate render-blocking resources** — Resources are blocking the first paint of your page
+- **Reduce unused CSS** — Reduce unused rules from stylesheets and defer CSS not used for above-the-fold content to decrease bytes consumed by network activity
+- **Reduce unused JavaScript** — Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity
+- **Serve images in next-gen formats** — Image formats like WebP and AVIF often provide better compression than PNG or JPEG, which means faster downloads and less data consumption
+- **Properly size images** — Serve images that are appropriately-sized to save cellular data and improve load time
+- **Avoid serving legacy JavaScript to modern browsers** — Polyfills and transforms enable legacy browsers to use new JavaScript features
+
+## Warnings (score < 1, > 0)
+
+- First Contentful Paint (52) — 2.9 s
+- Largest Contentful Paint (7) — 6.7 s
+- Speed Index (71) — 4.6 s
+- Total Blocking Time (20) — 1,210 ms
+- Max Potential First Input Delay (11) — 460 ms
+- Cumulative Layout Shift (77) — 0.147
+- Time to Interactive (19) — 11.4 s
+- Serve static assets with an efficient cache policy (50) — 10 resources found
+- Efficiently encode images (50) — Potential savings of 39 KiB
+
+## Passed Audits
+
+70 audits passed.

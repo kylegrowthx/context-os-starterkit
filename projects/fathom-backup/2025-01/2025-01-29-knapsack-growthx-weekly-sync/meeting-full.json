@@ -1,0 +1,2975 @@
+{
+    "title": "Knapsack <> GrowthX Weekly Sync",
+    "meeting_title": "Knapsack <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/221850100",
+    "created_at": "2025-01-29T20:00:47Z",
+    "scheduled_start_time": "2025-01-29T19:30:00Z",
+    "scheduled_end_time": "2025-01-29T20:00:00Z",
+    "recording_id": 44696568,
+    "recording_start_time": "2025-01-29T19:31:23Z",
+    "recording_end_time": "2025-01-29T20:00:33Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "That's fine.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "How are you doing?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "are you?",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Doing great, too.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, how is the look and feel on the new website?",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, so far so good.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "There are some issues where the blogs didn't carry over, so I'm trying to troubleshoot that right now.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "But yeah, so far so good.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Quickly just, since the blogs have not been carried over, are the blogs still live?",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Or are they issue is that some blogs have not carried over and some have.",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So, this is generally a challenge we have where, here we go.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Let me actually try to do a spreadsheet with this and",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "For some reason, some blogs are basically creating 404s, and we don't know why that is.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And so, I mean, I'm trying to deal with that a few.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "If you can show me, let me also just have a crack at it and just identify what the issue is.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "this is, these are the ones showing 404s, and we're, we have a sanity.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "We're sanity for our new website.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And so, I think you have, you probably have access to Webflow and sanity.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Is that right?",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, actually not.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "No, no, for sanity.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I don't have it for sanity.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "was about to ask you, like, so I have this blog spending for publishing.",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "wanted to get them started publishing.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, yeah, let me give you access to sanity right now.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Can you give me your email again?",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, it would be, I'll just.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "except in the group, just in the ones you can write, so this would be perfect right now, so since these are becoming fourth or fourth, would it be good that we just take them in?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I don't know should we just well it's weird because some of those are actually in that you'll see either in the CMS okay so we're trying to troubleshoot why that is why are they in the CMS do they just have to be published or they are live is there something like you have to click the publish button for them to go live or something like that yes I mean have you ever used sanity before no no I need to figure that out yeah so I can hear my screen here so this is sanity so yeah I mean you basically have a publish button down here you have to manually copy and paste it in we have this template for blogs and so",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "You have to manually take the data, copy it over, and then hit publish, and you can see here you can make sure the URL is the exact same, which is super important from an indexing point of view.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Go to, right, and these are the pages that are not data 404s right now?",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Well I think they're creating a new list.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "We have a couple of different issues.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "One is that it is, some pages are 404ing, I don't know why, so maybe they didn't get created or something happened.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "The other issue is that there are some pages where we have this kind of thing happening.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "where, well, that's a 404, let me see if I can actually give you an example.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, so some pages where this kind of thing's happening, where the data was in our web flow, but it didn't make it over.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I don't know why.",
+            "timestamp": "00:05:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So you can see here in our web flow, just my web flow.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I understand and this would be like, here's the data for this in the web flow.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "It is actually in web flow.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And then for some reason, it did not move.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "It did not migrate to sanity.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, that's right.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And do we have to do this?",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I guess this is more of like a complete manual rehaul check, because it would need, because we would need to identify blocks that have gone live or any pages that have gone live.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "But the content has not moved.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Is there a way we can find out that filter or something?",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, good question.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "mean, we do have this short list, right?",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So hopefully it's not too difficult.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "But let me ask them if they can.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Let me ask them if they can do a poll.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So for me, this photo for this fine, this is fine.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So we have the we have the problem statement with us like, these are the pages that we need to take life.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "The bigger concern would be like, if out of the 100 or 150 pages that have successfully migrated and live on the website, out of that, how many of them are missing the content?",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That testing manual testing or maybe some automatic testing would should be carried.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, Jimmy, how did you say that again?",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I missed that.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So what I'm saying is, out of the 150, 180 blocks that we have published, we do more like there are 20 pages that have become photo for, which is fine.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "we can get them, we know the problem statement, we can get them fixed, but the the main one 50 pages, out of that, only pages content has moved or not.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Oh, so the answer is I don't know.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, it's not that it's all of them to be clear.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I'd have to like manually go through, I'm asking web stacks if they can do a poll, so we can actually figure out what is likely to have happened, or rather how big that problem is.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So, I'm just checking something right now, just give me moment please.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Let's see, set access.",
+            "timestamp": "00:07:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "You",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Honestly, okay.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I see the issue.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, so I think it would be great if you could take a look through.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I'm going to see if we can get a poll, but otherwise, I think we just need to manually take a look and double check, you know, if there is anything that's missing a body and then copy it over.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I think that's what we need to do.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay, so what I'll do is first I'll prioritize the pages that I think that clicks and impressions.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I'll start checking them manually and if there's any tickets there, that would be our first party and then I'll go after the rest of the pages.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "But I'm saying we have close to right now 150 pages or something that are live on the blog site.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Maybe I might just take a bit time to just test each page manually.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, I'll put you in touch with pages.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I was like, how do these four or four happens?",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So when we are migrating from Webflow to Stanley, some, so they have two issues that have happened.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "One is the pages only have not moved.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So these, those four or four, and then the scan error is while the pages have moved, the content of those pages have not moved.",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So the pages shows you what HTTP two one then like it's a live page everything is good, but there's no content in it.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So it will, like all the rankings, everything, whatever we have right now would be going for us.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I see it.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "I will be, I'll introduce you to Julie from Web Stacks.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And it sounds like there's, because you have access to Webflow to be clear, right?",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So you're back.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "assist to all the original content.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "You also have access to it on your table IMF, right?",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yup.",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yup.",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "hopefully that works to slack all you guys.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I just did.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And yeah, let's see if we can get this resolved.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I mean, I guess, yeah, I do want to, as a priority, resolve the ones that are, you know, obviously going to be high traffic.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "We don't want to lose that gifting by Google for people returning.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "That'd be bad.",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I'll have a check on that.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I'll have a check to date self and get back on that.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That is one.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And since we are already in midway towards the fall, I'll just try to speed up our weekly sync update so that peers are sufficient time for the outbound.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "you, Mike.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Just one second.",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "let me know yeah my skin is visible so we have done close to so overall we have that's the 1000 number of clicks here be the 1000 and let's click from the blog at overall 11 that's fine but the biggest point being we saw significant increase on the last like last couple of days in terms of clicks and impressions click for this reaching close of 50 to 56 clicks on a daily basis.",
+            "timestamp": "00:12:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Can you open these search console instance it's pretty zoomed out about the eyes are getting",
+            "timestamp": "00:12:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, this is where I'm talking about Markford, before we were doing close to 18 to 20 clicks are there with 1000 impressions, last couple of days we have done 50 clicks with 3500 in billions around that's the number that we are looking at.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, if this number sustains, it would be like it's almost 2x to 3x increase in number of clicks.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, if this sustains, it would be really great, that is one, that means, let's get on to the weekly numbers, the previous week we did 130 clicks, this week we have done 230 clicks.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, there's a piece of 100 clicks, so what I did is, I deep-dived in terms of the pages that I mean getting clicks and everything, like which I've seen a significant growth.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Now, what we see is, okay, pre-training, post-training is fine, we were already getting 19 clicks, it has increased the highest.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "like 30 clicks have increased over the last one week but some pages that were not getting clicks like very less like hundred zero one click they have so we have some couple of four three to four pages that were getting very low clicks there clicks have increased so it's not like it's one article that is driving the amount of clicks it's across the board that is one but i'm also speculating this this the ones that have marked in red um they were not getting any click before and now they have got a single click itself this could be the reason of us maybe testing it on google or something like that that's why this clicks have come in so maybe so that's why i'm not accounting for the clicks right now by let's say the hundred clicks uplift what i feel is this 20 to 30 maybe because we were testing on google search and that's why this clicks have come in so out of the hundred clicks i account for mostly 70 clicks that would be genuine in terms of that",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "What we have got.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Get to step away.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yes, just to be sensitive time.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yes, and you don't have to go into much detail right now, because of the output component.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So we can just keep the details.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Maybe not async.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Mark, I was just telling a particular issue that I think that if you could share that spreadsheet with me and the your summary, I can look at it, take my time to look through it.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, I love the fact we're going up into the right.",
+            "timestamp": "00:15:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I do want to make sure nothing's going to go wrong with the web transition.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And so let's make sure that happens.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "yeah, if we could.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And then I appreciate your putting together the list of the targets here, which is great for the back.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And also this is another campaign that we are planning to do just quickly.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I just tell you we are planning to do AI no takers comparison.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That's what we're planning to do.",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, I've just listed the organic traffic that they are generating, what is their current brand traffic that they are generating the highest.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, writing about these platforms that are getting the most brand traffic would definitely attract more visitors to our website.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, have a look at it.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I would be looking at these like the ones that are generating the most brand traffic.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I would be comparing these platforms and writing reviews about this.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, post this meeting, I'll be sharing this list again.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Have a look at it.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I would look forward to your approval or if they, any other company that you would want me to add in.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Happy to add in those companies, do those analysis and then start, get started with those articles too.",
+            "timestamp": "00:16:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, I would add FinMate.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "FinMate AI is one I would add because it's a very popular, well, it's talked about a lot, I guess.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "don't know how popular it is.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "It's talked about lot within our group.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "cool.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Let's talk about outbound.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "One quick sec.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Oh, you'll be delighted to know this thing.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So we had an intro called Bob.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "You are halfway or one-third of the way there.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So this is good called Bob's thing.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "It's been happening for a while.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So they're getting 160 clicks.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "And then you guys are, what is it?",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "30, 40s.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "60 clicks, I think, was the peak that we reached.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So we'll start to just repeat that stuff.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "But F, that's part of the process.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So if you guys are 60, Bob's like 160.",
+            "timestamp": "00:17:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So you should send him a friendly tweet or message saying, almost there.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, that's great.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, appreciate that.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "you very much.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Here, on to you.",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, for sure.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Let me show you my screen.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "We can just dive into it.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So I'm first going to cover live campaigns and then pending campaigns.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "And then we can sort of get into that discussion.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So just give me one second.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "How can I share?",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "OK, there we go.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "All righty, so let me know if you're able to see that.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, cool.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So initially, we've launched our two financial advisors campaigns, there's two of them that are live.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "One is the older one, which I believe has about, think, a 40% open rate, and actually maybe I'll switch over to the campaign so that we can look at it together.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I'll share this tab in a second.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So this is the oldest sort of financial advisors campaign that we had, which was about 45%, 44.9%, 12 positive responses, 16.22 positive reply rate.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "The newer campaign, which we've more recently launched, is having a much larger open rate.",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So we're roughly about 69% hovering around 70, which is really good.",
+            "timestamp": "00:18:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Click rate is beginning to come a little bit higher than, you know,",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I don't think there were many links in this series.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I think there wasn't a sub sequence, but not in this initial one.",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "But here I've added a couple of links.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So we're beginning to see some link traffic, and then about seven positive replies so far.",
+            "timestamp": "00:19:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Now, I know that some of the replies have been from areas that you don't necessarily want to service.",
+            "timestamp": "00:19:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So I know that you want to focus on US and EU prospects.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So I just made the fix to ensure that, you know, one that we are engaging with and getting replies from will be from those places.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "And so that is definitely happening right now.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So all of that is to say, you know, that this campaign is doing well.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "There is one caveat though, being transparent.",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "The bounce rate is a little bit higher than what we would, definitely higher than what we would want.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So I can speak to that real quick.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So Mark, if you go to just Global Analytics, so what happens is the domains are buying them from.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "different providers, name, team, lead has its own providers too.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, that's fine.",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So you just select the date to reflect to this thing too.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, so yeah, essentially just overnight it went from like 20% to 20%.",
+            "timestamp": "00:20:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "And what we're doing is essentially changing name servers to other providers.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So we directly go through Google and Outlook.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So there might be like a three to four day delay where we pause them and then stop to ramp them back up.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So that's where cold email really becomes a total nightmare to handle is the health of the infrastructure and right now we're just working on diversifying that.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So hopefully it's a result by the end of this week or early next week.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "So just yeah, but the responses are coming in email copy it works.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "5% of the campaign is done, if I had to extrapolate probably 20 times, so it's about 150 positive replies to come out of this campaign provided we have the same bounce rates and everything like 2 to 3% is like the acceptable range.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "But yeah, everything else is just business as usual.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, I wanted to ask you actually about this.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I am getting these warm-up emails again.",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "It's on my NAP.ai email.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I thought we weren't using my NAP.ai email.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Is that, did something pinch?",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "We are not.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Is that still hooked up to your smart lead?",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "I thought we had gotten rid of that.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I'd have to take a look.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "These ones here?",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Yeah, mark at NAP.ai and they're currently hooked up.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I'm not sure because I mean the campaigns that I'm using, they shouldn't be pushing.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "through here.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I can double check though and verify but technically they're should be able to turn off the warm-up.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Oh the warm-up yeah we can pretty much do that right now.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Can you just recommend removing market market and after the AI from the smart degree?",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah yeah yeah I agree.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Where do you think happens?",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Just to leave these for now.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Okay, done.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Great thank you.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "No worries.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Yep so the only other thing I guess I can add is the RBDB response with the tracking for opens and clicks is there so if you do want to use that that is available for you.",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Yeah I'll get back on that I just have it's been really busy week.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah yeah no that's totally fine.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Totally fine.",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So jumping back over to the updates.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So pending campaign.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So this is where we can talk a little bit more about strategy.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "for the podcast campaigns",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "specifically, I shared a list with you earlier today.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So it took me a little bit of time to sort of scrape the list of the actual people on the podcast.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So I think there was about 400 of them or something like that.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I was able to do that.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I do have that list.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So the next step for me with regards to that list is to effectively scrape, and let me know if you can see this sheet, so effectively scrape the people.",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So for example, you'll see like, you know, tailing is the president of this company, right?",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Effectively, that's there for every single person.",
+            "timestamp": "00:23:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "And the synopsis of every single conversation should be here as well.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "the goal is to just extract, obviously, the contact information, little bit of the company, and then create a list for these guys.",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So that should be done.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Now that I have this, it should be done definitely by the end of the day, but this is just to give you context.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "And not only that,",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I mean, this information is probably valuable on different levels, right, just to have this, just to see, you know, the different sort of pieces of the conversation.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "If there's anything here that can be pulled and, you know, turn into content for emails or blogs or anything like that.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I mean, this is exactly the right approach, right?",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So I think now we need to convert these into really targeted emails.",
+            "timestamp": "00:24:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Exactly, yeah.",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So yeah, that's next step.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So anyways, I just wanted to give you context there.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "It is in motion should be done by the end of the day.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "But now that I have the list, we're good to go.",
+            "timestamp": "00:24:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So the other thing is the retail wealth box email.",
+            "timestamp": "00:24:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So that right now is kind of in the list segmentation stage.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So basically, trying to source the users of these tools, right?",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So once I'm able to do that, then I can obviously craft the campaign similar to sort of the messaging that you would suggested and get that off the ground.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "But right now, sort of in the list segmentation stage, hoping to get that done by the end of the day.",
+            "timestamp": "00:24:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "well, because I don't think that would be as difficult as trying to sort of scrape this website there.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So that's kind of the status there.",
+            "timestamp": "00:25:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Did you have any comments, questions, thoughts?",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Yeah, so on this podcast host list, is there something you want me to do or are you just showing like work in progress?",
+            "timestamp": "00:25:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Honestly, I think it's more so on me.",
+            "timestamp": "00:25:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "mean, now that I was able to scrape the list, it's really just about doing the content because I have who they are, what they were talking about, you know, what their interests are.",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Basically, anything that I need is there.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "It's just about crafting the campaign around it.",
+            "timestamp": "00:25:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "We sort of have the tools, you know, obviously to sort of craft unique content so we can do that.",
+            "timestamp": "00:25:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So from you, I don't think I need anything specifically.",
+            "timestamp": "00:25:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I think it's more so on me to just get it out the door.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Okay, yeah.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "then switching over to the red tail wealth box thing.",
+            "timestamp": "00:25:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So yeah, what are your data sources for finding users of those tools?",
+            "timestamp": "00:25:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "How do you go about doing that?",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So initially, I'm thinking Apollo.",
+            "timestamp": "00:25:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I mean, it's going to be my first order of business.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I want to see if there's any way I could filter those tools in Apollo.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "I'm going to see what that sort of gives me.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "If I'm not able to do that, I'm going to sort of think about it a different way to find a way to source those individuals.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Similar to what I did with the podcast list as well, just think about different ways to build this list.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "But it can be done.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "But I'll keep you updated on sort of where I am with that.",
+            "timestamp": "00:26:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "As far as the copy, I think it should be pretty straightforward.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "It's just, again, just sourcing that list and getting that out the door.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "OK.",
+            "timestamp": "00:26:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Well, cool.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Really appreciate the update.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I'm hoping this.",
+            "timestamp": "00:26:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, mean, I was happy to get back to some of those people in India and Pakistan.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I even did a call like 8 PM on Friday with one of them.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "But I just don't think the likelihood of that panning out is very high.",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Thank you, sweetie.",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And that's fair.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "That's fair honestly if you you know if you know the audience that you're That is more more likely to use the product.",
+            "timestamp": "00:27:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So I think like it's totally fair to to target them.",
+            "timestamp": "00:27:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "So that's fine So maybe I don't know if you wanted to end on the sheets that we usually look at Collectively But I noticed that you didn't get back to a lot of people People I think we should be fairly good to go, right?",
+            "timestamp": "00:27:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, yeah, so you should just add them back in.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, yes So they're automatically being added into the sub-sequence By the way, how did the how did the demo go with I think this this new Right, I mean he's like an investment banker in India.",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "was like on a train at the time like it's all little bit, you know It's like Saturday morning on a train take that you got you okay like our situation and Yeah, I don't think he's on our ICP right our ICP",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "And it was primarily in the US.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy Pal",
+                "matched_calendar_invitee_email": "jimmy@growthxlabs.com"
+            },
+            "text": "Yeah, I guess you can do by the way.",
+            "timestamp": "00:28:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Like Canada is fine.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, I've added them.",
+            "timestamp": "00:28:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I've added them.",
+            "timestamp": "00:28:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I've been a problem with Canadians, Jimmy, except it.",
+            "timestamp": "00:28:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I think, yeah, I've added it as well.",
+            "timestamp": "00:28:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "How are you?",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "OK.",
+            "timestamp": "00:28:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "You've got to know people are saying, Mark?",
+            "timestamp": "00:28:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "But yeah, I would say, yeah, I mean, as soon as we get in the subcontinent, it just gets really good.",
+            "timestamp": "00:28:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "That's fair.",
+            "timestamp": "00:28:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "That's fair.",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "And by the way, has anything from this list, have you had any sort of positive or eye-opening conversation with anyone from this list or anything that's that you've never followed by than others?",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "No, we're too early.",
+            "timestamp": "00:28:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Brent, for example, is extremely qualified, right?",
+            "timestamp": "00:28:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So that was a great one, more Brent.",
+            "timestamp": "00:28:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I mean, actually, a lot of the ones were qualified up until recently, where we started getting the ones from Indian Pakistan.",
+            "timestamp": "00:28:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "So OK.",
+            "timestamp": "00:28:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:28:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "I do have to hop off to another call.",
+            "timestamp": "00:28:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "But thank you very much.",
+            "timestamp": "00:28:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Pierre Wright",
+                "matched_calendar_invitee_email": "pierre@growthxlabs.com"
+            },
+            "text": "Really appreciate your help, guys.",
+            "timestamp": "00:28:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Yeah, of course.",
+            "timestamp": "00:28:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Of course.",
+            "timestamp": "00:28:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Thanks a lot.",
+            "timestamp": "00:28:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Your time.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:29:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Heynen",
+                "matched_calendar_invitee_email": "mark@knap.ai"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:29:03"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Knapsack and GrowthX to discuss website migration issues, SEO performance, and outbound marketing campaigns.](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Website migration from Webflow to Sanity experiencing issues with some blog posts not transferring correctly or creating 404 errors](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=11.0)\n  - [SEO performance showing positive trends with clicks increasing from \\~20 to \\~50 daily over the past week](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=11.0)\n  - [Outbound email campaigns performing well with 45-70% open rates, but experiencing temporary high bounce rates due to infrastructure changes](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=22.0)\n  - [New targeted campaigns being prepared for podcast hosts and users of specific wealth management tools](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=25.0)\n\n## Topics\n\n### Website Migration Issues\n\n  - [Some blog posts not transferring from Webflow to Sanity CMS](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=11.0)\n  - [Issues include 404 errors and missing content on live pages](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=280.0)\n  - [Manual review and content transfer needed for affected pages](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=553.0)\n  - [Prateek to prioritize fixing high-traffic pages first](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=565.0)\n  - [Mark to connect Prateek with Julie from Web Stacks for additional support](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=594.0)\n\n### SEO Performance Update\n\n  - [Significant increase in daily clicks (from \\~20 to \\~50-56) and impressions (from \\~1000 to \\~3500) over the past few days](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=729.0)\n  - [Weekly clicks increased from 130 to 230](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=808.0)\n  - [Growth seen across multiple pages, not just concentrated on one article](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=786.0)\n  - [Some new pages getting initial clicks, possibly due to internal testing](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=600.0)\n\n### Competitor Analysis for Content Strategy\n\n  - [Planning AI notetaker comparison campaign](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=950.0)\n  - [Compiled list of competitors based on organic and brand traffic](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=959.0)\n  - [Mark suggested adding FinMate AI to the list](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1003.0)\n  - [Prateek to share final list for approval before starting articles](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=986.0)\n\n### Outbound Email Campaigns\n\n  - [Two financial advisor campaigns live:](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1100.0)\n    1.  Older campaign: 44.9% open rate, 16.22% positive reply rate\n    2.  Newer campaign: \\~70% open rate, higher click rate, 7 positive replies so far\n  - [Targeting adjusted to focus on US and EU prospects](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1162.0)\n  - [Temporary high bounce rates due to infrastructure changes, expected to improve within a week](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1184.0)\n  - Warm-up emails on <mark@knap.ai> to be discontinued\n\n### New Campaign Development\n\n  - [Podcast host campaign:](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1369.0)\n      - [List of \\~400 podcast hosts compiled with details on their roles and conversation topics](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1391.0)\n      - [Next steps include extracting contact information and crafting targeted emails](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1419.0)\n  - [Retail wealth box campaign:](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1472.0)\n      - [In list segmentation stage](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1477.0)\n      - [Sourcing users of specific tools (e.g., Redtail, Wealthbox) using Apollo and other methods](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1560.0)\n\n## Next Steps\n\n  - [Prateek to manually review and fix high-priority blog posts affected by migration issues](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=553.0)\n  - [Pierre to finalize podcast host list and craft targeted email campaign](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1419.0)\n  - [Pierre to continue sourcing users for retail wealth box campaign and develop email copy](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1560.0)\n  - [Mark to review and approve final list of competitors for AI notetaker comparison content](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1003.0)\n  - [Team to monitor SEO performance and maintain positive growth trends](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=729.0)\n  - [Address high bounce rates in email campaigns by diversifying infrastructure](https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv?tab=summary&timestamp=1184.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Grant Prateek access to Sanity CMS for blog management",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:01:44",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=104.9999",
+            "assignee": {
+                "name": "Mark Heynen",
+                "email": "mark@knap.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Manually check high-traffic blog posts for missing content post-migration. Prioritize based on clicks/impressions.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:14",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=554.9999",
+            "assignee": {
+                "name": "Prateek Gupta",
+                "email": "prateek@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Introduce Prateek to Julie (Web Stacks) re: migration issues",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:36",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=636.9999",
+            "assignee": {
+                "name": "Mark Heynen",
+                "email": "mark@knap.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Share spreadsheet w/ Mark summarizing click data, growth, AI notetaker comparison targets",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:11:58",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=718.9999",
+            "assignee": {
+                "name": "Prateek Gupta",
+                "email": "prateek@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Review/approve Prateek's list of AI notetaker companies for comparison articles. Add FinMate AI.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:09",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=969.9999",
+            "assignee": {
+                "name": "Mark Heynen",
+                "email": "mark@knap.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Remove Mark's knap.ai email from SmartLead system",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:21:40",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=1300.9999",
+            "assignee": {
+                "name": "Pierre Wright",
+                "email": "pierre@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Finish podcast host info scraping. Craft targeted emails using extracted data.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:22:43",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=1363.9999",
+            "assignee": {
+                "name": "Pierre Wright",
+                "email": "pierre@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Continue sourcing Redtail/WealthBox users via Apollo, alt methods. Update on progress.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:24:26",
+            "recording_playback_url": "https://fathom.video/calls/221850100?timestamp=1466.9999",
+            "assignee": {
+                "name": "Pierre Wright",
+                "email": "pierre@growthxlabs.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Cooper, Mark (Knap)",
+            "email": "cooper@knap.ai",
+            "email_domain": "knap.ai",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mark Heynen",
+            "email": "mark@knap.ai",
+            "email_domain": "knap.ai",
+            "is_external": true,
+            "matched_speaker_display_name": "Mark Heynen"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Jimmy Pal"
+        },
+        {
+            "name": "Andrej Vidovic",
+            "email": "andrej@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Muhammad Sami Uddin",
+            "email": "muhammad@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "pierre@growthxlabs.com",
+            "email": "pierre@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Pierre Wright"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Prateek Gupta",
+            "email": "prateek@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Prateek Gupta"
+        }
+    ],
+    "recorded_by": {
+        "name": "Prateek Gupta",
+        "email": "prateek@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/ERNWeSoyJhLxnZzqzry9-yh7YMYWCpUv",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

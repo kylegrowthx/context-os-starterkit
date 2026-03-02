@@ -1,0 +1,1331 @@
+{
+    "title": "Sentinel One Team - Sync",
+    "meeting_title": "Nicolas Castellanos / Sentinel One Team - Sync",
+    "url": "https://fathom.video/calls/419134325",
+    "created_at": "2025-09-24T16:11:43Z",
+    "scheduled_start_time": "2025-09-24T16:00:00Z",
+    "scheduled_end_time": "2025-09-24T16:30:00Z",
+    "recording_id": 89529930,
+    "recording_start_time": "2025-09-24T16:01:24Z",
+    "recording_end_time": "2025-09-24T16:11:38Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "I don't know if Mahati or Ankit.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I don't think Ankit is going to join, actually.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah, thank you for making time, Nicolas.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "We just wanted to check in to see how things are going, because one of the reasons is that on our end, SentinelOne, we are getting closer to release our first content on the new platform, focusing on October 7th.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Okay, yeah.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "So we are doing a lot of things.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "So we are doing a lot of things.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "For instance, we're going to implement like Agolia Search.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "And then I was like, is also the CVE database is going to...",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Use of Algolia.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Then we have a big thing for us.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "It's like sitemaps that we're also.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "So there are some dependencies.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "We want to, we would like to know, like, where are you?",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "What is your plan?",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "What are you going to work on?",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "So that we also can help you out and keep you in the loop of like, hey, when you do the search, this is where it is.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "And then John can probably do a better job than I do.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "And then same thing with sitemaps.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "We doing, we working on some SEO components.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "So there will be some dependencies.",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "And like I said, for us, we are now one sprint away for the first release.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "So we wanted to get a better feel of like, do you need any help from us?",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "How close are you to actually start working in, in, in a content stack?",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I was looking at content stack last week.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I got access to the, to your content.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "And I was thinking how to build this new content type.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "What I got was a few custom types.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "And then for the body of the page, just iPhone content stack has like a RTE, think JSON RTE type, which is like a JSON.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "And inside that, you can embed custom stuff.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So I was thinking of using that to embed some of the custom stuff we might have, like the timeline we have.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I don't know if you saw the designs already.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "I've seen some designs.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah, they were not too complicated.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Well, you're going to build them out, so I'm not too excited.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Some of that custom components that will go on the body, I was thinking of building that using that JSON RTE field and then integrating.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "The search fields and filters with Algovia after that's done.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I didn't think about SEO, but if you're adding SEO components, I think that's part of a content stack, something like that.",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Then if that's the case, then we can have our pipeline to generate those SEO tags and that information to get into that too.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So, yeah, we can do that.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "And, yeah, the main question I have is where do I write that frontend?",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I'm guessing I'm going to get access to a GitHub or something.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Well, yeah, it would have to be in the code base.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Yeah, we'll have to \u2013 the unfortunate thing is that's like through more red tape.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "So I'll",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "We'll put in a request, Joery with IT, to onboard Nick into our repository, and then we'll set up a directory that you can work in.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Is there anyone else besides you we need to add?",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "We might, yes, but I'll get that to you either today or tomorrow.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "But you're not locked in, because you just work on your local, you're not blocked with anything?",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "No, but if we're using stuff you have, I'm going to need access to that to start.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Like you said, it's a Next.js code base, so I'm thinking there's some components and styles I'm going to have to use from there.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Like you said, thinking there's some components and stuff, but don't\u52a0",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "There are likely some components that you'll need to use, then you'll have to create some as well.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "We're not using any component libraries at the moment.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "We're just creating our own as we go.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "You're using Tailwind or something like that?",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "we're using Tailwind.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Yeah, we are using Tailwind for our styles.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah, that's great.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "And then we're going to have all the generation pipeline that runs on our own, so I'm not blocked by that.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "And then if you're saying you're releasing October 7th, you sell, this will go a couple weeks after that?",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "That's fine.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah, no, it's even better because we will.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "We will.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So I'm guessing this will go through like a review process and everything.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So I'll just send yours through GitHub.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "We'll have reviews and okay.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "Yeah, just to set the tone and expectation, right?",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "So I did meet Aida and George a couple of hours back from the growthx team.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "And we were discussing the timelines for the project.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "She'd probably be checking in with you.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "And tentative timelines we'd keep around the third week of October for go live.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "And I mean, this is more up for discussion, but this is something we are looking to set a go live date soon for.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah, that's good.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "And also one outcome from the meeting was that the designs are near complete.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "I think really small changes.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I'm meeting with George tomorrow to discuss that and also the filters and stuff that are in there.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So, yeah, we're on track.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "And say for anything in terms of filters for content and what types of filter they are, just in case you want more context, then Marisol from your team and myself can help there.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So, yeah, think it was Marisol who sent me a few of the, like, mandatory stuff we want in there.",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I'll review design with George tomorrow and see if we need anything else than that.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:07:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So, yeah, I'll be waiting for access to GitHub and post it on progress.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah, we will put will put in a request.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Today, at least for you, and then let us know as soon as possible on the other person.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "But now that I think about this, if the other person does not have a SentinelOne email address, we have to go through the whole onboarding.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah, true.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Fun times.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "That's probably a week, right?",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "I'll keep that in mind.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "yeah.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Can't even take two weeks, depending on the date that we requested.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "But yeah, let's move forward, John.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Let's do Nicolas first, so that we know.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "And then we will see how fast we can onboard the other team member.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "here.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:09:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah, and also for you, John, let's prepare a couple of things, right?",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Because we have the search, have the SEO component, we have sitemaps to see, like, what we need to think about, like, because I want them to be able to work as independent as possible, but I don't want to have, like, redundant components and whatnot.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "So let's think about it.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "First, I'll just make sure to send, like, all the UI stuff, and then once you have all that, just send it to me, and I'll make the adjustments to make sure we also send, like, save my, save my data and SEO.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "John Nederveld",
+                "matched_calendar_invitee_email": "johnn@sentinelone.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Have a good one.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Castellanos",
+                "matched_calendar_invitee_email": "nicolas.castellanos@growthx.ai"
+            },
+            "text": "You too.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "Yeah, I probably just pinged you once.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "I think we need to reset some meeting.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "Tomorrow it's double-classing.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Ankit Pahuja",
+                "matched_calendar_invitee_email": "ankit.pahuja@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "We might be sent.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Correct.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Joery van Druten",
+                "matched_calendar_invitee_email": "joery.vandruten@sentinelone.com"
+            },
+            "text": "Thank you very much.",
+            "timestamp": "00:10:06"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Sync on SentinelOne's upcoming content release and GrowthX.ai's development progress for the new platform.](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=19.0)\n\n## Key Takeaways\n\n  - [SentinelOne plans first content release on new platform by Oct 7; GrowthX.ai aims for go-live \\~3rd week of Oct](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=96.0)\n  - [Nicolas needs GitHub access to SentinelOne's repo for frontend work; onboarding process initiated](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=240.0)\n  - [Key components discussed: Algolia Search, CVE database, sitemaps, SEO elements](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=51.0)\n  - [Design near-complete; Nicolas meeting George tomorrow to finalize filters and other details](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=414.0)\n\n## Topics\n\n### Development Progress and Integration\n\n  - [Nicolas examined ContentStack, considering JSON RTE field for custom components (e.g., timeline)](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=121.0)\n  - [Frontend to be built in SentinelOne's Next.js codebase; Nicolas needs repo access](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=229.0)\n  - [Using Tailwind for styles, creating custom components as needed](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=320.0)\n  - [GrowthX.ai's generation pipeline runs independently, not blocking progress](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=328.0)\n\n### Timeline and Release Plans\n\n  - [SentinelOne releasing first content on new platform Oct 7](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=96.0)\n  - [GrowthX.ai aiming for go-live around 3rd week of October](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=391.0)\n  - [Designs near completion with minor changes pending](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=414.0)\n\n### Technical Components and Dependencies\n\n  - [Implementing Algolia Search, including for CVE database](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=51.0)\n  - [Developing sitemaps and SEO components](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=66.0)\n  - [Nicolas to integrate search fields and filters with Algolia post-initial development](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=180.0)\n  - [SEO tags/info to be generated by GrowthX.ai's pipeline and integrated into ContentStack](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=199.0)\n\n### Collaboration and Access\n\n  - [John to initiate GitHub access request for Nicolas](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=240.0)\n  - [Additional team member access may take 1-2 weeks due to onboarding process](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=487.0)\n  - [Nicolas to provide names of any additional team members needing access](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=259.0)\n\n### Content Filtering and Design\n\n  - [Marisol provided mandatory filter requirements](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=450.0)\n  - [Nicolas meeting with George to review design and discuss filters](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=422.0)\n  - [Ankit and Marisol available for additional context on content filters if needed](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=434.0)\n\n## Next Steps\n\n  - [John to submit GitHub access request for Nicolas](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=240.0)\n  - [Nicolas to provide names of additional team members needing access ASAP](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=259.0)\n  - [Nicolas to meet with George to finalize design and filter details](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=422.0)\n  - [John to prepare info on search, SEO components, and sitemaps for Nicolas](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=548.0)\n  - [Nicolas to send UI components; John to review and provide feedback](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=563.0)\n  - [Team to adjust meeting schedule due to conflicts (Ankit to follow up)](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=597.0)\n  - [Continue progress towards respective release dates (Oct 7 for SentinelOne, \\~3rd week Oct for GrowthX.ai)](https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj?tab=summary&timestamp=96.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Submit IT request for Nicolas' GitHub access to S1 repo\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:03:49",
+            "recording_playback_url": "https://fathom.video/calls/419134325?timestamp=229.9999",
+            "assignee": {
+                "name": "Joery van Druten",
+                "email": "joery.vandruten@sentinelone.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Provide names of additional team members needing GitHub access to Joery/John\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:04:08",
+            "recording_playback_url": "https://fathom.video/calls/419134325?timestamp=248.9999",
+            "assignee": {
+                "name": "Nicolas Castellanos",
+                "email": "nicolas.castellanos@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Prepare info on search, SEO components, sitemaps for Nicolas' integration\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:53",
+            "recording_playback_url": "https://fathom.video/calls/419134325?timestamp=533.9999",
+            "assignee": {
+                "name": "John Nederveld",
+                "email": "johnn@sentinelone.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Reset double-booked meetings for tomorrow\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:43",
+            "recording_playback_url": "https://fathom.video/calls/419134325?timestamp=583.9999",
+            "assignee": {
+                "name": "Ankit Pahuja",
+                "email": "ankit.pahuja@sentinelone.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "johnn@sentinelone.com",
+            "email": "johnn@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": "John Nederveld"
+        },
+        {
+            "name": "joery.vandruten@sentinelone.com",
+            "email": "joery.vandruten@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Joery van Druten"
+        },
+        {
+            "name": "Ankit Pahuja",
+            "email": "ankit.pahuja@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Ankit Pahuja"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mahati Rapol",
+            "email": "mahati.rapol@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Nicolas Castellanos",
+            "email": "nicolas.castellanos@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Nicolas Castellanos"
+        }
+    ],
+    "recorded_by": {
+        "name": "Nicolas Castellanos",
+        "email": "nicolas.castellanos@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/DnCNCJ5aC1ssH5sh1cx9cNx8LgyLCHUj",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

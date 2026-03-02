@@ -1,0 +1,638 @@
+# Elementum <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-18
+time: 18:32 UTC
+duration: 28 minutes
+organizer: team@growthxlabs.com
+participants: Aida Knezevic, Andrew Bennett
+fathom_recording_id: 123441901
+fathom_url: https://fathom.video/calls/571401213
+share_url: https://fathom.video/share/wDLUBPyddU-1sGDnNpQECiqcrqSvSYzv
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+Aida Knezevic and Andrew Bennett reviewed Elementum's comprehensive content strategy, which prioritizes "Agentic AI Foundations" and "AI Workflow Orchestration" for the first 8 weeks to establish authority and support sales enablement. The strategy analyzed 3,000+ competitor URLs to identify 9 content clusters, with the team aligning on a "layering" narrative (Elementum complements existing platforms like ServiceNow and Coupa, not replacing them outright), integrating the contrarian view that agents are overused and inappropriate for deterministic tasks, and confirming next steps including writing guidelines review, content calendar preparation, and Looker dashboard setup for performance tracking.
+
+---
+
+## Context
+
+Elementum is an AI workflow orchestration platform for enterprise automation, with a particular focus on IT Service Management (ITSM), procurement, and life sciences verticals. This is GrowthX's weekly engagement with Andrew Bennett (Elementum's product/go-to-market leader) to develop a content strategy for sales enablement and organic visibility. The relationship began with a product deep dive the day before this meeting, where the team gathered technical and narrative positioning details. GrowthX's goal is to create foundational educational content that builds Elementum's authority in emerging AI categories (agentic AI, workflow orchestration) while providing immediate sales assets—moving beyond Elementum's current branded-traffic-only website (Domain Authority 29) to capture non-branded search and generative engine visibility.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Nine content clusters identified across horizontal and vertical use cases; initial focus on 2 clusters (Agentic AI Foundations, AI Workflow Orchestration) for 8 weeks before expanding. Requires product feature matrix from transcript and proofreading checklist to maintain factual accuracy and consistent voice/tone in content production. Calibration article (Business Process Automation refresh) planned for early next week to test pipeline.
+
+- **To CheckThat:** Direct application of GEO (Generative Engine Optimization) strategy and LLM citation measurement. Looker dashboard tracks organic search + Google Analytics; Check That geo-visibility platform will measure LLM referral traffic and content citation rates in AI models. Key data point: AI Workflow Orchestration cluster shows only ~490/mo global search volume, positioning Elementum to own an emerging category.
+
+- **To GrowthX Business Development:** Elementum positioning as orchestration layer on top of existing platforms (ServiceNow, Coupa) rather than direct replacement—credibility signal and expansion path. Account appears well-aligned with GrowthX methodology. Pharma/life sciences is identified as Elementum's most important vertical, suggesting opportunity for reference customers and vertical-specific case studies.
+
+---
+
+## Overview
+
+- **Initial Focus:** Prioritize foundational content on "Agentic AI Foundations" and "AI Workflow Orchestration" for \~8 weeks to build authority and provide immediate sales enablement.
+- **Core Narrative:** Frame Elementum as an orchestrator that layers *on top* of existing SaaS (e.g., ServiceNow, Coupa), not a direct replacement, to build credibility.
+- **Contrarian View:** Integrate the narrative that agents are overused, expensive, and inappropriate for deterministic tasks, positioning Elementum as the solution for controlled, observable workflows.
+- **Content Pipeline:** A "Business Process Automation" article refresh will serve as a calibration piece to test the content pipeline and align on voice/tone before full production begins.
+
+---
+
+## Key Topics
+
+### Content Strategy Overview
+
+  - **Goal:** Provide high-quality content for sales enablement and build brand visibility via SEO and GEO (Generative Engine Optimization).
+  - **Baseline:** A Domain Authority (DA) of 29 provides a strong foundation for ranking, but current traffic is almost entirely branded.
+  - **Competitor Analysis:** Analyzed 3,000+ URLs from competitors (IBM, Zapier, UiPath, Glean) to identify content gaps.
+      - **Note:** Palantir was excluded due to its lack of SEO blog content.
+
+### Proposed Content Clusters
+
+  - **1. Agentic AI Foundations (Priority 1)**
+      - **Focus:** Core concepts of agentic AI.
+      - **Narrative:** Integrate the contrarian view on agent misuse (probabilistic nature, high cost).
+      - **Sales Value:** Provide shareable assets (e.g., deterministic vs. probabilistic workflows).
+  - **2. AI Workflow Orchestration (Priority 2)**
+      - **Focus:** The emerging category of orchestrating AI agents.
+      - **Opportunity:** Low global search volume (\~490/mo) → chance to own the category.
+      - **Narrative:** Address "agent sprawl" and failed implementations from lack of orchestration.
+  - **3. AI Governance**
+      - **Focus:** Executive concerns about agent control and observability.
+      - **Narrative:** Position Elementum as the unified platform for control, highlighting observability and zero data persistence.
+  - **4. IT Service Management (ITSM)**
+      - **Focus:** AI's role in ITSM, targeting ServiceNow and ICERA.
+      - **Narrative:** Position Elementum as a cost-effective layer on top of existing ITSM platforms.
+  - **5. Procurement & Source-to-Pay Automation**
+      - **Focus:** AI in procurement, targeting Coupa.
+      - **Narrative:** Position Elementum as a layer that simplifies interaction with platforms like Coupa, adding workflow and approvals.
+  - **6. Pharma & Life Sciences**
+      - **Focus:** AI use cases in Elementum's most important vertical.
+      - **Narrative:** Use real-world examples (e.g., busy salespeople, patent cliff) to demonstrate value.
+  - **7. Business Process Automation (BPA)**
+      - **Focus:** Capture searchers exploring automation generally.
+      - **Note:** This is the broadest and most competitive cluster.
+  - **8. CRM & Sales Automation**
+      - **Focus:** AI in sales processes, targeting Salesforce.
+      - **Narrative:** Highlight the pain of ineffective AI tools in sales and showcase Elementum's rule-based workflows.
+  - **9. Competitive Comparisons**
+      - **Focus:** Comparison content.
+      - **Strategy:** Start with direct AI workflow orchestration competitors to own the category, then expand to larger platforms (ServiceNow, Coupa) later.
+
+### Content Development Process
+
+  - **Product Deep Dive:** A recent call with Elementum clarified product details.
+  - **Artifacts:**
+      - **Product Feature Matrix:** A source-of-truth document to ensure factual accuracy and prevent AI hallucinations.
+      - **Writing Guidelines:** Shared in Slack for initial review.
+      - **Proofreading Checklist:** Internal document for style consistency (e.g., contractions, em-dashes).
+  - **Calibration Article:** A refresh of the "Business Process Automation" article will be shared early next week to test the content pipeline and align on voice/tone.
+
+### Performance Tracking
+
+  - **Looker Dashboard:** Set up to track organic search traffic and Google Analytics data.
+      - Includes an LLM referral page to measure clicks from generative engines.
+  - **Check That:** A GEO visibility platform in development to measure LLM citations and overall AI visibility.
+
+---
+
+## Action Items
+
+**Aida Knezevic (GrowthX)**
+- Share writing guidelines in Slack to Andrew Bennett
+- Update content strategy: add 'agents not for everything' + observability/zero-persistence; share w/ Andrew
+- Prepare and share content calendar (clusters 1–2) w/ Andrew
+- Draft product feature matrix from deep-dive transcript
+- Schedule Looker/workspace walkthrough w/ Andrew; record Loom if needed
+- Send Slack follow-up to Andrew re: meeting outcomes
+
+---
+
+## Transcript
+**Andrew Bennett:** This meeting is being recorded.
+
+**Aida Knezevic:** Yeah, I know.
+
+**Aida Knezevic:** Is there anybody else joining us today?
+
+**Aida Knezevic:** I don't think so.
+
+**Andrew Bennett:** Not on my end.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** I had a customer call today with, I think, seven or eight people.
+
+**Aida Knezevic:** So it's always nice to be one-on-one.
+
+**Aida Knezevic:** Honestly, it was a great, fantastic product, Deep Dive.
+
+**Aida Knezevic:** was really, yeah, really clarified just any questions that I had.
+
+**Aida Knezevic:** So the next steps after that are going to be to update the artifacts that we do have.
+
+**Aida Knezevic:** So the ones that you reviewed, if the messaging is going to come in this week that you're working on or early next week, well, we're going to update it right away and then update it, like iterate as new information comes in.
+
+**Aida Knezevic:** We also have another artifact for your review, which are the writing guidelines.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** I'll share those in Slack later.
+
+**Aida Knezevic:** The writing guidelines are...
+
+**Aida Knezevic:** going to be changed a lot.
+
+**Aida Knezevic:** Once we start creating content, we see what the output is.
+
+**Aida Knezevic:** So we kind of refine the writing out guidelines based on that and based on your feedback.
+
+**Aida Knezevic:** And then also we have a proofreading checklist, which is not something that you review, but any feedback that you provide around just small details like use contractions, don't use the M-dash, don't use semicolons, like these things, those go in the proofreading.
+
+**Aida Knezevic:** And then from the product deep dive transcript, we will also create a product feature matrix.
+
+**Aida Knezevic:** And that's going to be used to inform like the product messaging in the articles, because we don't want to rely on information from the internet to write articles about you.
+
+**Aida Knezevic:** And also like the company context is good foundation.
+
+**Aida Knezevic:** But what happens sometimes is that AI will sometimes make conclusions about your platform.
+
+**Aida Knezevic:** Based on what other platforms generally can do.
+
+**Aida Knezevic:** And then it's, you know, we've had situations before.
+
+**Aida Knezevic:** This was like maybe five or six months ago where a customer will say, well, there are some companies in our space that do this, but we don't.
+
+**Aida Knezevic:** And then we actually use the product messaging artifact as like the source of truth and fact check all the information.
+
+**Andrew Bennett:** Got it.
+
+**Andrew Bennett:** Got it.
+
+**Andrew Bennett:** Okay.
+
+**Andrew Bennett:** Yeah, that's helpful.
+
+**Aida Knezevic:** Awesome.
+
+**Aida Knezevic:** So, yeah, I mean, the big update this week is obviously like the first version of your content strategy.
+
+**Aida Knezevic:** We've done a lot of work there, and I also reviewed it yesterday with Marcel.
+
+**Aida Knezevic:** He shared some thoughts with me that I will also share with you today.
+
+**Aida Knezevic:** So the way we develop content strategies is, well, actually, before we dive into the content strategy, I wanted to kind of walk back a little bit and just repeat some of the things that we talked about last week regarding like what we are here to do.
+
+**Aida Knezevic:** And the main takeaway from our.
+
+**Aida Knezevic:** meeting last week was that, like, the primary thing that we're trying to fix here is helping your sales team have access to high-quality content that they can use for prospect education and also to build brand visibility in both traditional SEO and GEO.
+
+**Aida Knezevic:** Does that sound like a good summary?
+
+**Andrew Bennett:** Yes, definitely.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** And I think when we were, you know, when we, when we were talking to Nader, we got a lot of really good input on how he talks about, you know, your, your industry, what's the technical positioning, what's the sales narrative.
+
+**Aida Knezevic:** And we also got a lot of good input from the product Deep Dive today to help with your positioning in the market.
+
+**Aida Knezevic:** Obviously, with your space, it's incredibly competitive.
+
+**Aida Knezevic:** We need to differentiate you using, obviously, the feature that we covered today.
+
+**Aida Knezevic:** And you do have, like, an enterprise motion.
+
+**Aida Knezevic:** So, a lot of times, you know, the...
+
+**Aida Knezevic:** Companies that we work with, they really do look at very specific metrics, but this is still being built out over at Elementum.
+
+**Aida Knezevic:** So we will, like, you know, as your marketing org evolves, we will evolve with you.
+
+**Aida Knezevic:** So our primary goal really right now is to build authority, visibility, and, like, credibility with your prospects.
+
+**Aida Knezevic:** We always, mean, you know, even if you don't have a lot of content, we always do look at the website just to see what we're working with.
+
+**Aida Knezevic:** And the one thing that stood out for me is that your domain authority, as measured by SEMR, is pretty solid.
+
+**Aida Knezevic:** So it's, like, 29.
+
+**Aida Knezevic:** So it's a good baseline to work with.
+
+**Aida Knezevic:** So we're not, you know, ranking isn't going to be difficult compared to, like, when your domain authority is, like, brand new.
+
+**Aida Knezevic:** It was, like, five.
+
+**Aida Knezevic:** But obviously, the content that you have published so far, it's not getting a lot of traction.
+
+**Aida Knezevic:** And actually, we are.
+
+**Aida Knezevic:** Working on a calibration article for you right now, just so you can provide feedback on voice and tone, and we're refreshing one of your earlier articles that you published last year about business process automation, but obviously all of the traffic to your website is branded, and so this is not, you know, not a lot for us to refresh or, you know, do in terms of content optimization.
+
+**Aida Knezevic:** Then for every strategy that we build, we look at your competitors, and this is the process that Marcel built, and this is how this company got started, which is we are analyzing your competitors, not just direct competitors, but also maybe organic competitors, people who are competing for the same audience.
+
+**Aida Knezevic:** And we try to analyze their content library, extract topic clusters that are relevant for you, and then pick the best opportunities in each topic cluster for you to create content for.
+
+**Aida Knezevic:** One of the things that when we were discussing yesterday, well, actually, before I even started, when I started doing the research, you are in an interesting situation where you have like four different categories of competitors from the board deck that you shared.
+
+**Aida Knezevic:** So some of the websites that I was looking at was not just the website, the companies that you shared, but also really like authoritative websites that talk about AI agents.
+
+**Aida Knezevic:** For example, IBM has a huge, like a pretty big library and they just talk about AI agents.
+
+**Aida Knezevic:** And if you look Google AI agents, it's going to be just like, it's mostly IBM that's ranking for those very foundational keywords.
+
+**Aida Knezevic:** So I was always looking at IBM, also Zapier, they're like more foundational and they don't speak to a very technical audience, but it's also helpful to understand like what they are also talking.
+
+**Aida Knezevic:** And then the other competitors that we're looking, obviously, Glean, Automation Anywhere, also looked at UiPath, and their content is still heavily, like, oriented towards robotic process automation.
+
+**Aida Knezevic:** However, you know, as you're probably aware, they recently acquired WorkFusion, and now they're, like, laying it on thick with AI agent orchestration.
+
+**Aida Knezevic:** Even their homepage is just, like, putting orchestration front and center.
+
+**Aida Knezevic:** So we also factor them into the analysis.
+
+**Aida Knezevic:** Palantir, just a quick note on Palantir.
+
+**Aida Knezevic:** We didn't factor them into the analysis because they don't have SEO blog content on their website.
+
+**Aida Knezevic:** So their content is very product-driven or just pure thought leadership that comes from, you know, the executives on their team, where they talk about the company or their efforts, but they weren't a part of the analysis.
+
+**Aida Knezevic:** So overall, mean, we analyzed.
+
+**Aida Knezevic:** We like thousands, think over three, 4,000 URLs, and we were able to extract nine different topic clusters.
+
+**Aida Knezevic:** But this is a lot, obviously.
+
+**Aida Knezevic:** mean, nine is, it's a testament to like your platform because you have like horizontal use case and also vertical use case.
+
+**Aida Knezevic:** So if we were to start targeting all of those verticals, I mean, we could be, you could have a content library like IBM, like just absolutely, you know, thousands of pages.
+
+**Aida Knezevic:** And when I was talking to Marcel yesterday, we were discussing the strategy.
+
+**Aida Knezevic:** One of the things that he highlighted was that you are in a space that's very competitive.
+
+**Aida Knezevic:** And you're talking about a technical concept that people don't understand.
+
+**Aida Knezevic:** And we need to show that you're an authority.
+
+**Aida Knezevic:** And in order to do that, we do need to cover the foundations first and almost build like a study guide for your audience.
+
+**Aida Knezevic:** So what, how, the way we would do that is by focusing.
+
+**Aida Knezevic:** And just on agentic AI foundations first and AI workflow orchestration.
+
+**Aida Knezevic:** So those would be like the primary points of focus for, I would say, like probably like eight weeks to build a nice foundation there.
+
+**Aida Knezevic:** And that way we can also support the sales team with material to like share with prospects.
+
+**Aida Knezevic:** We could talk about Elementum and how you help orchestrate AI agents in different workflows.
+
+**Aida Knezevic:** But we wouldn't be going into those different vertical topics just yet because we want to make sure that we have like a good foundation here.
+
+**Aida Knezevic:** And then once we get into those different verticals, we can also link to these articles.
+
+**Aida Knezevic:** So it supports like a nice internal linking structure as well.
+
+**Aida Knezevic:** Does that make sense to you?
+
+**Andrew Bennett:** Yeah, it makes a ton of sense.
+
+**Andrew Bennett:** The one thing that I do feel like we want to get to early on in the strategy, though, is starting to land this.
+
+**Andrew Bennett:** And I think I mentioned it just in
+
+**Andrew Bennett:** In a comment yesterday, what we think is going to be kind of a contrarian view, which is that agents are being used too much and that you're actually doing harm by using agents for things that they're not appropriate for.
+
+**Andrew Bennett:** Both because of the probabilistic nature and because it's too expensive in terms of dollars and in terms of resource usage, right?
+
+**Andrew Bennett:** All the way down to there's not enough power in the world for people to be abusing agents.
+
+**Aida Knezevic:** Exactly.
+
+**Aida Knezevic:** Yeah, absolutely.
+
+**Aida Knezevic:** Yeah, I think we can definitely incorporate that.
+
+**Aida Knezevic:** So every cluster comes with like a brief description of what the focus is going to be for Elementum.
+
+**Aida Knezevic:** So I think we can expand this with those points and say like AI agents aren't for everything.
+
+**Aida Knezevic:** Yeah, exactly.
+
+**Aida Knezevic:** For, I mean, I provided just a couple of like example keywords.
+
+**Aida Knezevic:** From competitors just to show what like the potential search volume is, but next week we're going to prepare like a whole content calendar with like individual topics.
+
+**Aida Knezevic:** So we're going to get into like the more specifics next week.
+
+**Aida Knezevic:** For AI workflow orchestration specifically, this is cluster where IBM and Anthropic have a lot of like really authoritative content around.
+
+**Aida Knezevic:** But there are, you know, this is kind of an emerging category in the sense that there's not a lot of like search volume when you're talking about like AI agent orchestration.
+
+**Aida Knezevic:** The search volume on a global level is quite low.
+
+**Aida Knezevic:** It's like 490 per month compared to like some other AI related topics.
+
+**Aida Knezevic:** So it is an emerging topic.
+
+**Aida Knezevic:** So publishing foundational content here would be great.
+
+**Aida Knezevic:** And this is where we could also talk about like agent sprawl, how, you know, companies have all of these like agents that are basically unusable or they.
+
+**Andrew Bennett:** have these failed AI agent implementations because they don't have a way to orchestrate those agents.
+
+**Aida Knezevic:** And this is where we would also get into like the deterministic versus probabilistic models and how that impacts outcomes when using AI workflows.
+
+**Aida Knezevic:** So these are the two that we would prioritize at first, but we also have the other seven outlined as well.
+
+**Aida Knezevic:** So you can kind of see what we were able to find and what would the progression be from these two clusters moving forward.
+
+**Aida Knezevic:** So the third one would just focus on AI governance.
+
+**Aida Knezevic:** This one speaks to executives who are concerned about all of the AI agents that are running wild in their ecosystems and what they should look for, how they can observe those agents and position Elementum as a way to kind of gain control and have like a unified platform where you can like employees can execute.
+
+**Andrew Bennett:** Things like the runtime of each step is less relevant from a standpoint, but that is functionality.
+
+**Andrew Bennett:** Like in that specific example, if you tried to turn over a decision like, should I grant this appeal or not, and you just invoke an agent, that's, it's illegal, right?
+
+**Andrew Bennett:** I mean, you can't have a black box process for something like that.
+
+**Andrew Bennett:** And so the observability view is a really big deal.
+
+**Aida Knezevic:** Okay, okay, that's fantastic.
+
+**Aida Knezevic:** Definitely going to work that into the focus here.
+
+**Aida Knezevic:** And I think here we could also talk about zero persistence on the platform.
+
+**Aida Knezevic:** The other clusters specifically, I think there are three.
+
+**Aida Knezevic:** So there's one for IT service management that go into the different use cases.
+
+**Aida Knezevic:** This would just, would just focus on the role of AI in supporting IT service management.
+
+**Aida Knezevic:** for service So there's one IT
+
+**Aida Knezevic:** How to implement IT service management, obviously position Elementum as a way to do that without having to get a bespoke platform for that purpose, and this is a way to support one of your important use cases, and this is where ServiceNow and ICERA dominate in terms of rankings, so they do have pretty established content libraries that we can use to displace their visibility.
+
+**Aida Knezevic:** And then also, I mean, here, like, another big point that we could talk about is how, like, the different cost savings that are associated with using Elementum and how you have, like, greater cost visibility into just how expensive, like, IT service management is.
+
+**Andrew Bennett:** Yeah, got it.
+
+**Aida Knezevic:** The fifth one would just focus on procurement and source-to-pay automation.
+
+**Aida Knezevic:** This supports another important use case category, and this is where, I mean, from our...
+
+**Aida Knezevic:** Initial conversations, I know that you replaced Coupa at one of your clients.
+
+**Aida Knezevic:** We might not talk about it publicly, but we can kind of, you know, demonstrate the use case, talk about how Elementum serves these types of use cases.
+
+**Aida Knezevic:** And this is where we also kind of lay the groundwork for GEO visibility for these types of use cases.
+
+**Aida Knezevic:** We complement that with very specific comparison content with these types of platforms.
+
+**Aida Knezevic:** But the more content you have on your website that talks about these use cases, the easier it is for LLMs and also Google's algorithm to associate you with this type of, providing this type of platform.
+
+**Aida Knezevic:** So this is just another way we would support that use case.
+
+**Andrew Bennett:** Yeah, got it.
+
+**Andrew Bennett:** And one important related topic here, and I think we maybe talked about this a little bit with Nader, is that at this point, we don't really want to lean in.
+
+**Andrew Bennett:** And hard on, hey, Elementum's here to take out ServiceNow and to take out Coupa.
+
+**Andrew Bennett:** The way that we typically start is we layer on top of them.
+
+**Andrew Bennett:** And so it's a better way, it's a simpler way to interact with Coupa, as an example, where we're actually the front door, we take in a request, and what we're doing is we're actually passing that request to Coupa and potentially adding workflow steps in, maybe adding some approvals, and then actually writing the record to Coupa.
+
+**Andrew Bennett:** What we tend to find is that when companies do that, they realize, well, actually, as I move more and more workloads over to Elementum, it just makes sense to not maintain Coupa as the system of record.
+
+**Andrew Bennett:** And so we get there eventually, but we don't really lead with that message.
+
+**Andrew Bennett:** We don't, you know, at this point in the go-to-market, it probably doesn't feel credible for us to, for us to come
+
+**Andrew Bennett:** I'm charging in and say, we're going to take out all your SaaS applications.
+
+**Aida Knezevic:** Yeah, yeah, absolutely.
+
+**Aida Knezevic:** Now, that's a fair point.
+
+**Aida Knezevic:** think once we do get to covering this type of content, it's going to be further down the line.
+
+**Aida Knezevic:** So the positioning might change.
+
+**Aida Knezevic:** Yeah, exactly.
+
+**Aida Knezevic:** The sixth one would just focus on the role of AI in the pharmaceutical and life science industry.
+
+**Aida Knezevic:** This is a vertical topic cluster for one of, I think, I believe it's your most important vertical.
+
+**Aida Knezevic:** There's a lot in terms of content volume here.
+
+**Aida Knezevic:** Appian has a lot of content here around these types of topics, just more broadly around AI use cases and pharmaceutical supply chain.
+
+**Aida Knezevic:** So there's a lot of different types of topics that we could cover here and then tie that back to Elementum and how Elementum can make things easier.
+
+**Aida Knezevic:** Thank you.
+
+**Aida Knezevic:** And just the example that Vlad had in the demo, I actually used to do competitive intelligence for a pharmaceutical company, and I know how busy salespeople are, because I had to call them all day and try to get them on the phone, so they would talk to me, incredibly busy.
+
+**Aida Knezevic:** So this is a really kind of a great example that we could also use for this type of content.
+
+**Aida Knezevic:** We could also talk about, you know, the patent cliff for different drugs.
+
+**Aida Knezevic:** So there's lots of topics that we could cover here.
+
+**Aida Knezevic:** The seventh one is, it's closely related, it is related to AI workflow orchestration, and I think it's one that makes maybe the most sense to transition into from like the main two.
+
+**Aida Knezevic:** You already do have an article around business process automation, but this would cover topics that aren't AI specific, where we would capture, you know, searchers who are generally exploring automation as a way to solve.
+
+**Aida Knezevic:** the problems that they're facing at work.
+
+**Aida Knezevic:** They might not know that they could use AI agent orchestration or AI agents to solve any of those problems.
+
+**Aida Knezevic:** So this is where we would kind of capture those people.
+
+**Aida Knezevic:** This is where Zapier has a lot of presence.
+
+**Aida Knezevic:** I believe IBM as well.
+
+**Aida Knezevic:** For IBM, were just like mostly focusing on agents as a main topic.
+
+**Aida Knezevic:** This is somewhere where like at some point in time in the future, we can revisit this, but kind of weaving in the Sasspocalypse narrative that we were talking about last week around how, you know, Sass is being replaced.
+
+**Aida Knezevic:** But again, this is something that we can discuss once we do start creating this type of content for this cluster.
+
+**Andrew Bennett:** Yeah.
+
+**Andrew Bennett:** Okay.
+
+**Aida Knezevic:** And another thing about business process automation, obviously, because it's not a new concept by any means, there's, this is the broadest
+
+**Aida Knezevic:** And the most competitive cluster in the entire set.
+
+**Aida Knezevic:** So I believe almost all of the companies that we analyzed had some type of content on this topic.
+
+**Aida Knezevic:** And the search volume and the number of topics that we could cover here is quite, quite broad.
+
+**Aida Knezevic:** The eighth one would focus on another use case that we were discussing last week, which is using Elementum as a CRM.
+
+**Aida Knezevic:** Obviously, I think here it would also be relevant, the point that you just made around how you don't replace a CRM, you can work with a CRM.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Yeah, so I think this is another cluster where we could talk about different processes and CRMs like sales processes, how to onboard customers, how to manage pipeline, and tie that back to Elementum workflows and how they can make those processes easier and faster.
+
+**Aida Knezevic:** Um, and I think this is, I think AI...
+
+**Aida Knezevic:** And as AI agents and just AI workflow in general, they have like entered sales platforms and have been there for a while.
+
+**Aida Knezevic:** And I think this use case in particular, they're feeling the pain of like just maybe not that useful AI tools.
+
+**Aida Knezevic:** So I think this is where we could really kind of highlight how AI agents really don't work for everything.
+
+**Aida Knezevic:** You want to have specific like business rules in place to execute certain workflows.
+
+**Aida Knezevic:** So I think this is, we just pulled out a couple of examples here.
+
+**Aida Knezevic:** Obviously, Salesforce just leads the pack here just because they're in that vertical.
+
+**Aida Knezevic:** But yeah, there's a lot, a lot here that we could also pull from.
+
+**Aida Knezevic:** And then the last one would just focus on competitive comparisons.
+
+**Aida Knezevic:** Again, this is, you know, this is something that we have to treat, you know, mindfully.
+
+**Aida Knezevic:** We don't want to compare you to ServiceNow or...
+
+**Aida Knezevic:** Coupa, or these other platforms just yet because you're not at that stage.
+
+**Aida Knezevic:** But when we're talking about AI workflow automation tools or workflow orchestration tools around which there is search volume and companies are already targeting those keywords, I think you should definitely show up in that set because it's certainly a category that you want to own and there's no reason why we don't want to rent for those keywords just now.
+
+**Aida Knezevic:** And then later on, we can explore like the comparisons and alternatives to different tools that you're replacing.
+
+**Andrew Bennett:** Yeah, agreed.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** So this is a lot.
+
+**Aida Knezevic:** Any top like high level feedback that you have right now, obviously, I'll share this link with you and then you can also leave comments as you go through it.
+
+**Andrew Bennett:** Yeah, I agree with you that there's just a huge amount of surface area here.
+
+**Andrew Bennett:** Topics one and two.
+
+**Andrew Bennett:** two.
+
+**Andrew Bennett:** Definitely right to start with.
+
+**Andrew Bennett:** And especially when I put the lens on of what's going to be most useful for the sales team in the short term, a lot of that content is going to be perfect.
+
+**Andrew Bennett:** It's going to be really, really shareable.
+
+**Andrew Bennett:** I mean, you take an example of the topic of deterministic versus probabilistic workflows, that kind of asset will be super helpful to the team.
+
+**Aida Knezevic:** Yeah.
+
+**Andrew Bennett:** So I think the surface area is huge and the first two are clearly the highest priority.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** And for when I was talking to Marcel yesterday, one of the things he brought up is that for this type of content, we have a lot of really authoritative websites that we could link to.
+
+**Aida Knezevic:** And we've been doing some analysis internally of content that tends to perform really well in LLMs and some of the.
+
+**Aida Knezevic:** Early results are indicating that the websites that do get cited the most are those with, you know, a lot of, like, citations, meaning, like, they are linking to other websites or linking to, like, research or just, like, different reports.
+
+**Aida Knezevic:** And for this type of educational content, there's just so much that we could pull from.
+
+**Andrew Bennett:** Yeah, agreed.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** All right, perfect.
+
+**Aida Knezevic:** So that is kind of the starting point.
+
+**Aida Knezevic:** Like I said, right now, our focus is going to be on researching topics for all of those clusters.
+
+**Aida Knezevic:** Like, we're not going to wait for, like, eight weeks to, like, get started.
+
+**Aida Knezevic:** We want to find, start finding opportunities now.
+
+**Aida Knezevic:** But we're going to focus more on the primary two clusters.
+
+**Aida Knezevic:** And then at the same time, we're also working on a calibration article for you, which is a refresh of the business process automation piece that we'll share with you, I believe, early next week.
+
+**Andrew Bennett:** We want to make sure that we, like, we're testing the pipeline for the first time.
+
+**Aida Knezevic:** And we still need the product feature matrix, so we want to set everything up well before we send you any content.
+
+**Aida Knezevic:** And then you can provide feedback on voice and tone and just positioning, and we'll work all of that feedback in.
+
+**Aida Knezevic:** Let me just go back to my agenda.
+
+**Aida Knezevic:** I know we have like two minutes left, but on the performance tracking side, we've also set up your Looker Dashboard, which is just going to provide insight into organic search traffic and also generally the data that's collected in Google Analytics.
+
+**Aida Knezevic:** We use it to measure just the performance of the content that we publish on your blog.
+
+**Aida Knezevic:** We also have an LLM referral page set up in there, so we can see how many clicks are coming to your site from different LLMs, which is also helpful to understand how our content is performing in different LLMs.
+
+**Aida Knezevic:** We can do a walkthrough of that next week, or I can record a loom.
+
+**Aida Knezevic:** We'll have access to that, and we're also going to set up your workspace.
+
+**Aida Knezevic:** Check that, which is our geo visibility platform.
+
+**Andrew Bennett:** So that's also going to, that's also coming your way.
+
+**Andrew Bennett:** It's in development.
+
+**Aida Knezevic:** So we're going to use that to just measure your overall AI visibility and measure how many times our content is being cited in LLMs as well.
+
+**Andrew Bennett:** Perfect.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Any questions?
+
+**Andrew Bennett:** I don't think so.
+
+**Andrew Bennett:** I don't think so.
+
+**Aida Knezevic:** We covered a ton of ground.
+
+**Aida Knezevic:** I know.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** I, it's, it's a lot, but once we ramp up with the publishing and the sharing of the content, it starts to, like right now, it's all a little bit abstract, but once we really start creating the content and finding the topics, it's going to, we're going to dig into your feedback as well.
+
+**Andrew Bennett:** Perfect.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Well, thank you so much for your time, Andrew.
+
+**Aida Knezevic:** I'll send a follow-up in Slack in a little bit.
+
+**Andrew Bennett:** And I also shared the new writing guidelines.
+
+**Andrew Bennett:** Okay.
+
+**Andrew Bennett:** Awesome.
+
+**Aida Knezevic:** Thanks a lot, Aida.
+
+**Aida Knezevic:** Thank you.
+
+**Andrew Bennett:** Bye. We'll see you. Bye-bye.

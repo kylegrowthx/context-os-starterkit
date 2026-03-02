@@ -1,0 +1,2852 @@
+{
+    "title": "Kerry - Airtable Workflows ",
+    "meeting_title": "Marcel / Kerry - Airtable Workflows ",
+    "url": "https://fathom.video/calls/144888534",
+    "created_at": "2024-09-09T21:10:43Z",
+    "scheduled_start_time": "2024-09-09T20:30:00Z",
+    "scheduled_end_time": "2024-09-09T21:00:00Z",
+    "recording_id": 27864588,
+    "recording_start_time": "2024-09-09T20:31:58Z",
+    "recording_end_time": "2024-09-09T21:10:00Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I apologize already and I want to make sure like if there's anything air table related and just kind of like understanding a little bit better where I can add as much value as possible.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I know like you said that you're at a point with your version that you feel really good and so I want to try to help as much as possible.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "feel like I kind of, yeah, anyways, that's the context of my end as well.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I think that so basically where I am is like, so first off essentially like if this is not a project that is going to work with your workflow right now, I am chill to pin it right now.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like also like until other members of your team are like trained in it.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I know that you are currently making the transition.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I know you're probably onboarding new clients, sourcing other new clients like if it's going to continue to be kind of like something where it's both overwhelming for you to have it on your",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "play as well as me constantly messaging you about it, I think that putting an official pin in it is something that I prefer.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But if you think that we can do it and can do it in the next couple weeks, I'd love that.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And I definitely think that we get a lot of value out of it.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think where we kind of got a little bit blocked is I don't think I have access to your version or if I did like when I log into error table, I don't see it at all.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "could be missing here.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm going through, do you know what the base is called?",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Let me let me go check.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It is just called content database.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's probably why I missed it.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I probably missed the notification when you gave me access and then it's called content database and we have like some database those things.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, all right, okay, would you be okay just like going through and just doing like a very quick like what would be ideal case scenario that we can get them between, you know, like the next let's call it the next week that and then if you prefer for us for me to duplicate this and then go to town on it and then we connect again next week and show you all the progress I think is what we had talked about, right?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, that's beautiful, yeah, the duplicating it and making all the implementations I can give you like async notes on anything but like pretty much what you were showing me was gorgeous, like the way I was telling it to Jimmy was like if I can have it that pretty I'm delighted and then Jimmy was like I don't know how to make it pretty scary I'm sorry let me grab myself a master of pretty things, so let me walk you through the database, cool, and I duplicated it as well so that's your one",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "came through like it.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I might be able to do a few things too.",
+            "timestamp": "00:03:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Beautiful.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So I'll just kind of like walk you through every column and like how I'm planning on using it.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Title is obvious, URL is obvious.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Slug is here for easy Google Analytics lookups even though we don't use Google Analytics.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I just like to prepare for the future.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Last updated and published, this is something that I'm hoping to figure out.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Right now we only have access to the last updated, not the original publication date I think.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Question on that.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "What would be ideal state there?",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Ideal state would be for this to be the original date the post went live.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And for this to be the date the post was left touched.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so the original date, we definitely don't have access to the template.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we go into the CMS, but we do have access to the CMS.",
+            "timestamp": "00:03:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so this was really important.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Honestly, a lot of these things is just because we don't have admin access to WordPress, because if we can't export XML file and it's so freaking easy to export an XML file, but maybe there's someone we can work with that can just do the export of the XML file, because it's literally a plug-in, as we use your admin, you can just export and it gives you an XML file and that's it, you're done.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Then we can play with that data and massage that data to go do this.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Word says we can go spend a hundred hours on this doing post-by-post times a thousand.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, let's not do that.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I feel like it's worth the pain because it's so many posts to just try to get someone exported for us and then to get the export, you know?",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Narrowish might be able to do that.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, which is literally like, it should be a one-minute thing if somebody knows what they're doing.",
+            "timestamp": "00:04:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you know, if you're admin, essentially.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But think you can garage might not be admin, like, is what I think I heard on a Really?",
+            "timestamp": "00:04:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That would be Yeah, it would be very high down with IT or something, I don't know why.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Well, I'll poke around.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I gotta say, for an org that has like so many layers of, we have so many, we have so much that's like agile and so much that's like, fast break things, but we also have like so many surprise balls, okay, also we can do, we can reference WordPress for anything that's static, but we shouldn't set anything up connected to WordPress right now because we are in the middle of migrating to WordPress workflow.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, yeah, no that and that's why I was saying export versus trying to set up like an integration.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, 100% but that's good know and if you have anything on timelines too, as we get it looks a bit better, let us know.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Hand-notive launch for October, we shall see how the cookie crumbles.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "All right, cool, cool.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, by the way, love that you said help cookie crumbles, I said that a few times and my wife called me, my wife called me like a...",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like, silly, let's use that word.",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, no, no, my, so my partner is even more ridiculous than I am, like she'll, she's gotten me into sounds good, and one hundred.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Stop it.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, my God.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm going to do that.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, my goodness.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I love that.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's very cute.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Oh.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That is cute.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Cadence is essentially just like an easy way.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So, like, for example, if we were to continue on with you guys, like we could immediately see every single post that needs to be updated annually and then just like slot that off, right?",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like, see what, see all the seasonal posts and then from there break it down into like, okay, this holiday, this like summer, like, final of those at once.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Annual would be anything that has a, like, any, a number in the title, a year number.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then as needed would be just anything that wasn't time-locked.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Author, these are just the resources.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "that posted it originally.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So this is the first author and then we will eventually add like contributors on here for people who supported the refresh.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And that'll help me track like resource success essentially.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So if we're working with two, we've worked with two separate resources and we've spent X amount per piece with them and the total search volume potential was Y amount and they achieved X amount out of that Y amount, we can measure that against the the spend on that resource and find our most efficient use of impact versus investment.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Then contributors essentially just like whose refreshes are actually like driving refresh like progress like are we seeing actual like improvement but we don't have like anyone in this yet we're not making.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I'm trying that yet.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Format, this is just literally, is it actually a blog, is it one of these other things that we've just put on the blog, because we don't have separate sections of the site?",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Then media, this is what media is on the page.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I think my person did put image if there was just a header image, which does complicate it slightly like inline images, but that's on me.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But it would also include things like infographics, charts, quotes, videos.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So for example, if we wanted to add video to our top 20 performing pages that didn't already have one, we could go source our top 20 pages, cross our friends with here, and make sure that we were adding to the ones that didn't have video already.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Then CTA, this is what,",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Banner is currently on the site.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "This is very inefficient right now, partially because we don't have a central repository of our banner CCB, which is kind of insane.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So we just kind of like approximated the topic.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like next level of this would be to actually be able to like load in our banner CTAs to air table and like hang out, which ones were currently lot of for each page.",
+            "timestamp": "00:09:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But I think that's the next iteration.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But just to give you some context there of like where I want to build it to, like if we can build our information architecture into a place where like we could eventually be like, okay, this CTA banner is loaded on these pages.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And here is its click-through rate on each of these pages.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It's best click-through rate is this, it's worse is this.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Let's test out different ones on these pages.",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like that's where I want to get to with this column.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Right now it's literally just trying to like have any visibility.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "on to what topics we're associating with web pages.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "then persona, this is, as you may assume, which persona we're targeting, most of it is any because small businesses like, we have persona separated it so that we can speak to them differently, like a restaurant owner is going to consider themselves a restaurant owner pretty much no matter what.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So a lot of it is pretty applicable, but you will find a lot of like starter content dominantly.",
+            "timestamp": "00:10:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Then vertical isn't vertical specific, so like how to open a yoga studio, that would be vertical specific, but work break times that is less specific, so it's neutral.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "This is just what category it is on the blog, and then this is the funnel stage that it's currently at.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Now, the thing that I'm so super interested in working with you on here, like, you",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I'm not looking for the absolute 100% best database, but if I can get to that place where we're able to matrix out based on product, funnel, vertical, persona, and funnel stage by getting counts of these things in different views, that's really the top tier for me right now, because that'll help me do automatic gap analysis.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I have a few thoughts here, so that's good.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then, let me just see, give me a second here.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so can you tell me more about funnel stage versus product funnel, what do you mean by product funnel?",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, yeah, So product funnel, so these are the three, like, four things I think about when I think about content, and it is a system I've been building since I was agency-side.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Where the first thing that we would do with any client is we would sit down with them and look at their product and look at their market and I will answer the product funnel versus funnel stage.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "This is just the first part of the story.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And we would figure out what are the core things, like the real life day-to-day pains that they are solving for their market.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Because that lets us position everything within a story that centers the customer.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So that's one piece of the puzzle there and that's how I keep from getting to like product focused or to sales focused if you always bring it back to this statement.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "The product funnel, this is essentially like if you think about entry points into the product and every area of your product has its own separate funnel.",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like someone who is looking for payroll might not be",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "looking at this moment for hiring and onboarding necessarily.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "They might just be looking for an easy way to start paying people when they're operating on home base versus someone who is opening a new business and they just need a scheduling app.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Those funnels are going to be completely different and the levels of those like what you're talking about for that funnel is going to be completely different.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So like top of funnel for scheduling and top of funnel for payroll will be different topics and so by separating it out and then products are grouped into the knee pains essentially as a storytelling mechanism.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So I need to be on top of endless admin.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That will be things like payroll, team, no not team communication.",
+            "timestamp": "00:13:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Payroll, need people that has to do, oh no not time clock, time sheets.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Anything that has to do with like tracking.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "hours and paying people out, tip manager, a new product for putting out to manage tips that would also count under pay people brain versus like I need a genuinely happy and engaged team.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "This would be like team, communication, employee happiness, onboarding, HR and compliance.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Those things all go in there, but things can ladder into different needs.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like HR and compliance can also go into administration.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It's not just one.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "There are multiple views.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So the product funnel is what product they're interested in, what product story we're telling.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Well, the funnel stage is going to be where they are in their buying process for that product funnel.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So if they are top up funnel for payroll, it might be something like what is payroll?",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "How do I run payroll myself?",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Can I use spreadsheets for payroll?",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "those types of things?",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Well, a middle of",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "funnel would be the top eight best payroll solutions.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And then bottom up funnel would be how to use home based payroll to pay your employees without clicking a thing, for example.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Got it.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "very long response.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "This is Jeremy's screen.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "just want to see, like, as you were talking to is like, just to see if this was had as it's heading in the right direction for us here.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I duplicated this.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So this is like all the posts, right?",
+            "timestamp": "00:15:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Just duplicate from what you had.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then this would be like by vertical by CTA by persona.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "By funnel.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then by need and pain, except here, it's like because there's things are tagged with multiple things.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There's a lot of things here, you know, and then product funnel.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then what we can do",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "is like, let's take product funnel.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I can create a roll up and I can show you right now how to do it too so that you know in the future as well.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yep.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so now, like you can see a general 141 with 57 and all of this.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Does this get closer to what you were talking about?",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "This is great.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is awesome.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Because I've done this  manually before Marcel and it's not fun.",
+            "timestamp": "00:16:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, OK, so essentially, when you go in here, right, and all you need to do, like, let's say cadence, right?",
+            "timestamp": "00:16:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Things that are tagged like this, I don't know that you want to do a roll up, but you could.",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "let's take authors, right?",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "all you have, all you do is like edit field, like here.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then from what you select instead of a single select, you do a link to another record and then create a new table and then save.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then what it does, it will hurt instead of it being a single select.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "or multi-select, it converts into a new table, and then it becomes relational to that.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So you're tagging, you're referencing an object in another table, isn't it?",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I did this for all of these, right?",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And if you wanna be for any other ones, let me know or you can do it as well.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Things like CTA and media, it doesn't make, I think, a lot of sense to do it because you're just tagging, right?",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like you're not gonna need a lot of additional information about images and things like that.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But things like authors, then what you can do here, these are your authors, for example, freelance squad or whatever, right?",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, this one's actually not the actual authors, but let's say this was the actual author, you can actually go here and add like, you know, a author bio and then you have everything here, like in blah, and then you start to, you see how you start to enrich that record, you know?",
+            "timestamp": "00:17:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "yeah, amazing.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "then when you come here, so let's say this is the categories, you can go into rollup now.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "and you can call this like post count and then this is blog database which is this table and then you can choose any of them because you're just doing a count and then what you're doing is like like account A like similar to a spreadsheet and then what it's doing is counting every value, every record that this is not blank, right?",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So if you're out or you can select title, whatever, right?",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then and then it's everything is here.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Amazing!",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Oh, I'm so excited!",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so then now roll up you can do the same thing post count and then a great value.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Anyways, you get the idea, right?",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Then what we can do is like we can come back here and the URL tab which has every single URL and I'm gonna do it for like a few of these, okay?",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, like, let's say we can come here and add, like, a number and say, like, um, let's call this, um, was it traffic, organic traffic or something, organic traffic?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, this was the other part with, like, your recommendations on how else I can use this database in ways that I am not, because, like, I don't want to, I don't want to turn this into my project management tool.",
+            "timestamp": "00:19:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I think I do want to keep this.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But I feel like there's a lot of ways to use this data and information that I've collected to get a greater, deeper view of our performance that I simply just don't know how to use the air table for.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So any recommendations that you have there would be amazing.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, so, like, uh, the check, I think it's this one, right?",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so,",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like, let's take this one, I'm just going to delete these real quick.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So like, let's say we have like, so my, sorry, okay, so then like, you can, take, I'm only doing like 20 of these, then organic keywords are going to traffic are going to cost, so you can go organic keywords, then I'll do duplicate this, then duplicate this, organic traffic, then organic costs, I think, and then this one.",
+            "timestamp": "00:20:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we want to do it as, I'll just say it for now, all right.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So now that we have these, that's why I sort it by alphabetical order.",
+            "timestamp": "00:21:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I can paste here, then it's like, all right.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I only did a few, right?",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But now, if you go to, let's take this one, for example, let me figure out what three common ones, as needed, vertical needed, manage a business, OK?",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So let's take that one.",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Product category, or which one?",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We're about to layer it real fun, aren't we?",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, so now you can go and say, let's do another roll up.",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And now it's going to be organic traffic, OK?",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we can do a sum of, hold on, I have to do a few more things here, sorry.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Now when we're over here in the URL, I realize this might be a little bit, you put add look up field, because now that field is attached to URLs, not to the blog database.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So now you can say, I want to actually add these three here.",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And now now like the ones that we did are here.",
+            "timestamp": "00:22:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So but then we can kind of come back here, we're in the manage business category.",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then now we can do what we were doing, which is like roll up, and then organic traffic.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then this time though, we're going to do a sum of those values.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then the formatting.",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "number.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, this is so good.",
+            "timestamp": "00:23:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is so good, Marissa.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "can't tell you.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so now you can see Manage a team has this much and then this one has this much.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Obviously we only did it for 20 URLs.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Now we got to go run this.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "What do I need to get in order for us to be able to do that on our end?",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "For every URL?",
+            "timestamp": "00:23:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, I can go run that.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We just can't run that every week because it's a little.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, but we can run it and so it's like maybe monthly we could run it or something.",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Here's the part that's like the most time consuming part is it's mostly just like running it and then we like it's really hard to copy and paste times a thousand because essentially here's what sucks.",
+            "timestamp": "00:23:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Airtable has a limit of how much you can paste and it has a limit of how big of a CSV file that you can't upload import a CSV file that's more than five megabytes.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So because of the limit the thing we're",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We start running into between connecting error ops to air table is one, you run into file limits, two, you run into copy and paste limits, and three, if you want to do a via Zapier, you start running insane amounts of credit, like it'll be like three grand a month, just in credits to run this every day, like, you know, just like Zapier credits, essentially, but Zapier so expensive, you know, so because of that, we do manually, but because of that, it's not like, every morning, updating it, you know, kind of thing, you know, but like, but the thing is, like, here's what's cool, actually, I'll just show your life, then.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Also, I just have to tell you, like, this is, this for me is insane value, like, just like, this is so solid.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so 948, I'm pasting it here.",
+            "timestamp": "00:24:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so let's check this out, let's do it live, so that we deliver value live, and four, I have four minutes, and then it's like, and then we're like, like, make sure this is updated and clean.",
+            "timestamp": "00:24:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so while this is running, let me just make sure that you have access to this one as well.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I'm going to go ahead and think like after this, feel free to just go in and do this in mind.",
+            "timestamp": "00:25:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I think that you are like a straight up in it now.",
+            "timestamp": "00:25:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I have heard that you have a sense of direction, but I mean, I could just transfer ownership of this one as well, because like I just did all of this.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's like, I duplicated the comments and everything as well, I just got to do a little digging on how to transfer ownership of this, but you're a creator here, so it's yours.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And you can do the more meta thing, which is like you can duplicate this one, which not okay.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So let me just.",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "see if this finish running not quite so probably another minute or two finish running this because it's a lot and like yeah but but then as soon as this is done I want to show you because then actually my next meeting is internal so it's okay if i'm late to it are you okay to be a few minutes late tears yeah i'm at the end of my day so i'm good okay so i want to show you just so you see like it's not that it's like a lot of work because it's already set up i already built this work this is a workflow that i already built you know what mean like this is already built already so it's not a lot of work the part that's a pain in the butt is just this part because like you run it right so so one it uses a lot of api credits but that's fine like but then once it's finished running then what you have to do is like export this you know this whole thing um and uh here it is yeah download is a csv and then copy and paste which",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This is only numbers, you should be able to copy and paste.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that's why the little hack that I have is like, anytime you're doing what I'm about to do, I always sort it by the URLs by something.",
+            "timestamp": "00:27:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So in this case, you notice I sort of the URL from A to Z.",
+            "timestamp": "00:27:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So that like, otherwise, you might accidentally change the order of URLs, and then when you're copying and pasting over, might add the whole thing.",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So obviously, we'll do it.",
+            "timestamp": "00:27:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I'll give it another minute, finish running.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Is it possible to get Google Search Console data like this?",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It is, it is.",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, with Console data, I'm sorry, have somebody who's looking at this, which one's here is OK.",
+            "timestamp": "00:27:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, with Console data, let's say, we went last three months.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, or yeah, I have no idea for now for for this.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah So with the console data, you can do it the part that is a little tricky is gonna be when you export this It's fine, but then you need to match the URLs Yeah, if you have 943 and this has 947 that already turns into like doing a little bit of like a V look up or or something to make sure like you're Yeah, tasting it on on the right like right once but this these are some of the things that I want to automate It's just my mind to automate cuz there are things we want to do But okay, so this should be Okay, almost there bear with me All right, last batch ready said",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It took five minutes.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's a little bit of a pain, but whatever.",
+            "timestamp": "00:29:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's 1,000 pages, right?",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, 100% fine.",
+            "timestamp": "00:29:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, now what I'm going to do is usually what I do is I just open this.",
+            "timestamp": "00:29:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And this is already in the order that it should be.",
+            "timestamp": "00:29:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then what I'll do, again, because it's number, I can do this this way.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But if it wasn't numbers, when it's taxed and heavy taxed, I wouldn't be able to do this.",
+            "timestamp": "00:29:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So I have to do 100 at a time and it's a pain in the .",
+            "timestamp": "00:29:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we're going to go here.",
+            "timestamp": "00:29:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we're going to go.",
+            "timestamp": "00:29:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And now this is the magic.",
+            "timestamp": "00:29:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "You're going to freaking love it.",
+            "timestamp": "00:29:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "All right, let's see if this works well.",
+            "timestamp": "00:29:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "it works.",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There you go.",
+            "timestamp": "00:29:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "right, so now we can take a sample one.",
+            "timestamp": "00:29:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And let's just see what is a nine.",
+            "timestamp": "00:29:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So let's find this one.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And just make sure the numbers are right.",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Just to make sure.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "OK, 150, 567, 30.",
+            "timestamp": "00:29:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then.",
+            "timestamp": "00:29:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's it.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:30:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So now we love this.",
+            "timestamp": "00:30:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, and then I'll be able to do that for like product, like to do that for product funnels and like funnel stage is insane.",
+            "timestamp": "00:30:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like that's gonna be so good.",
+            "timestamp": "00:30:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay, give me a second.",
+            "timestamp": "00:30:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Let me just ping my next meeting.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Say I'll be five minutes late.",
+            "timestamp": "00:30:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Oh, I'm going to let my cat out because she's currently.",
+            "timestamp": "00:30:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Roll up and then we're going to do organic traffic.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, oh my God, all right, do you have it?",
+            "timestamp": "00:31:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Phenomenal.",
+            "timestamp": "00:31:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, that's super super super cool Yeah, and then like what we had them before and I need to port it over was also extract the like Actual body of the copy as well, right?",
+            "timestamp": "00:31:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But like all the stuff like once we once you guys move over to webflow and we can integrate directly Yeah using Zapier all this can be automated, which is what you want like you don't wanna make like like for example extract the like",
+            "timestamp": "00:31:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "what is the text inside the body of it?",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like you extract directly from your CMS, not do what we're doing, which what we're doing is like, we're scraping the whole page, then we're running LLM staffs to try to take the body of the content from the LLM scrape.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you know, we're doing the expensive way, which is like, you know, we're spending like, I don't know, like 50 cents per hour to do that, versus like, you plugging in directly to your CMS, you know?",
+            "timestamp": "00:32:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, very cool.",
+            "timestamp": "00:32:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Awesome, oh, Marcel, this is great, thank you.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "All right, so I know I should have like disconnected sooner and then this, and hopefully it like, I guess better late than never, and I appreciate your support, and like, you know, it's been a little, a little wild as we're, as I'm in like, finishing this transition this month, you know, to like, all in.",
+            "timestamp": "00:32:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Well, are you still like, off-warding?",
+            "timestamp": "00:32:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm off-boarding, but it's not time-consuming.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just like, it's kind of like, yeah, it's more of like, I just want to call it a day, know, and kind of wrap things up.",
+            "timestamp": "00:33:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "but if there's anything else, like, Jimmy is obviously like super involved, and so if there's anything, and then like, we, I told Jimmy already, like, anything that we need to throw more people to help with you guys, like, just, just let us know.",
+            "timestamp": "00:33:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like, we're, we're just want to make sure, like, we're, we're super delivering.",
+            "timestamp": "00:33:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Um, yeah.",
+            "timestamp": "00:33:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Well, yeah, I just also feedback Jimmy's fantastic.",
+            "timestamp": "00:33:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like, I really like working on him.",
+            "timestamp": "00:33:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "He's a great, great person to bring in.",
+            "timestamp": "00:33:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I, I am, he's a, like, we're, we're very close to like, uh, trying to get him, like, he's full-time already.",
+            "timestamp": "00:33:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It's mostly like, including his, just got a bunch of busy people over the",
+            "timestamp": "00:33:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I know, but, um, yeah, I just took on a new consulting project after I just promised myself that I wouldn't take on any newer projects.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I know, um, I would love to take you up on, um, by the way, you coming to the Bay Area anytime?",
+            "timestamp": "00:34:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Um, not anytime soon.",
+            "timestamp": "00:34:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I imagine that it'll be at least once a Um, sorry, I've asked you this like a million times, where are you at right now?",
+            "timestamp": "00:34:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Toronto.",
+            "timestamp": "00:34:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Toronto, but, well, wait, are you meeting up with Jimmy anytime soon?",
+            "timestamp": "00:34:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I've invited, once we're in our new office, I've invited him to come hang out in one of our meeting rooms for the afternoon.",
+            "timestamp": "00:34:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That's right, that's right, I think.",
+            "timestamp": "00:34:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, cool, you guys should definitely, like, y'all should definitely, um, I'll ping him, like, you should take you to, uh, at least a nice lunch or something, you know, like, whatever works.",
+            "timestamp": "00:34:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "How great.",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But I would love to take you up on your offer while back if it still stands on just like picking or bringing on some stuff as I'm scaling the business, you know.",
+            "timestamp": "00:35:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, yeah, 100% We're at 14 customers now, and so it's like we're hiring as fast as we can, but we'll love to, I don't have agency experience, I have some people that have agency experience, but although like this is turning out to be a lot more techie than just pure agency, you know.",
+            "timestamp": "00:35:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, I feel like you have such an interesting model, because like I'm very curious if you're going to end up with like a large scale agency infrastructure, if you're going to end up pivoting into like product app, like it's, it's very, very interesting to me.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, we're definitely leaning more towards the product side and like not that it's going to look like a product subscription, it would look like a services augmented by AI, but with the dashboard that you can log in and set up me doing what we",
+            "timestamp": "00:35:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We just have an air table.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like a lot of the things we do in the air table and others, it's like in a lot of our automations and a lot of our things beyond air ops, is like where a lot of the value is, is like aggregating the data, integrating with a lot of sources and giving you a thing that you can interact with and give us feedback as well.",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "then we do the dirty work behind the scenes as well.",
+            "timestamp": "00:36:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, like that's the goal.",
+            "timestamp": "00:36:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like between us, like we're getting a lot of inbound interest to raise money.",
+            "timestamp": "00:36:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, so like that would be good because then it's like, we can really just like crank up the dial on that, hiring and like going crazy above and beyond for customers as well, you know.",
+            "timestamp": "00:36:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh, exciting.",
+            "timestamp": "00:36:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Shavey, hello.",
+            "timestamp": "00:36:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "know, I know.",
+            "timestamp": "00:36:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Keep me, keep me posted.",
+            "timestamp": "00:36:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "If there's anything that like we can do, especially as far as like the team going above and beyond, we're also hiring a bunch of.",
+            "timestamp": "00:36:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like graphics people as well to just help like on the enrichment process for some of our posts for both you guys and others and so like but if there's other things like that that you're like hey if you had this kind of pro call a person behind the scenes doing this like let us know because like right now our margins are good and and like we're happy to like like we have like over 23 lenses behind the scenes and now seven account managers is like I managed I don't mean we're gonna get yeah yeah we have one more starting next week and then we got like 200 in our pipeline of people that apply so so then that is like please let us over deliver for you like as far as like the core stuff that we're doing you know yeah yeah cool I'll let you jump to your your internal call all right thanks appreciate it we'll talk soon",
+            "timestamp": "00:37:00"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss and enhance Homebase's Airtable content database, focusing on improving data organization, analysis capabilities, and workflow automation.](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Marcel demonstrated advanced Airtable features to enhance Kerry's content database, including relational tables, rollups, and data visualization.](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=12.0)\n  - [The team identified potential improvements for data import, including the need for WordPress XML export and integration with Google Search Console.](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=26.0)\n  - [Future plans include automating processes once Homebase migrates to Webflow, enabling more efficient content management and analysis.](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=67.0)\n\n## Topics\n\n### Airtable Database Structure and Enhancements\n\n  - [Marcel duplicated Kerry's existing database and demonstrated advanced features:](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=120.0)\n      - [Created relational tables for authors, categories, and other metadata](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=184.0)\n      - [Implemented rollups to aggregate data (e.g., post counts by category)](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1073.0)\n      - [Added fields for organic traffic, keywords, and cost data](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1195.0)\n  - [Kerry expressed excitement about the potential for automatic gap analysis and deeper performance insights](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1807.0)\n\n### Data Import and Integration Challenges\n\n  - [Identified need for WordPress XML export to retrieve original publication dates](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=228.0)\n  - [Discussed limitations with Airtable's import capabilities (5MB file size limit)](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1438.0)\n  - [Explored possibilities for integrating Google Search Console data](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1652.0)\n  - [Acknowledged manual data entry challenges for large datasets (943 URLs)](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1743.0)\n\n### Future Automation and CMS Migration\n\n  - [Plans to automate processes once Homebase migrates to Webflow CMS](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1906.0)\n  - [Discussed potential for direct integration using Zapier, though noted high costs for frequent updates](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1936.0)\n  - [Aim to extract content body directly from CMS rather than using current scraping and LLM processing method](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1923.0)\n\n### Content Strategy and Analysis\n\n  - [Kerry explained their content categorization system:](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=703.0)\n      - [Product funnel: Aligns content with specific product areas (e.g., payroll, scheduling)](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=774.0)\n      - [Funnel stage: Indicates where content fits in the buyer's journey (top, middle, bottom)](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=884.0)\n  - [Discussed potential for analyzing content performance by various dimensions (product, funnel stage, vertical, persona)](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1807.0)\n\n### fwd.digital Business Update\n\n  - [Marcel shared that fwd.digital now has 14 customers and is scaling rapidly](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=2183.0)\n  - [Considering raising capital to accelerate growth and enhance customer service](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=2190.0)\n  - [Expanding team with graphics professionals and account managers](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=2204.0)\n\n## Next Steps\n\n  - Kerry to explore exporting WordPress XML file for historical data import\n  - Marcel to transfer ownership of the enhanced Airtable base to Kerry\n  - Investigate integration possibilities with Google Search Console\n  - [Kerry to utilize new Airtable features for content gap analysis and performance tracking](https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC?tab=summary&timestamp=1807.0)\n  - Schedule follow-up to discuss further enhancements and automation possibilities post-Webflow migration\n"
+    },
+    "action_items": [
+        {
+            "description": "Get WordPress admin access to export XML file with post publish dates in order to run and send organic traffic, keyword, and cost data for all URLs to Kerry on a monthly basis",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:19:50",
+            "recording_playback_url": "https://fathom.video/calls/144888534?timestamp=1190.319899",
+            "assignee": {
+                "name": "Kerry McCreadie (they/them)",
+                "email": "kmccreadie@joinhomebase.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Set up lunch meeting between Jimmy and Kerry at Kerry's new office in Toronto",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:34:42",
+            "recording_playback_url": "https://fathom.video/calls/144888534?timestamp=2082.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Kerry McCreadie (they/them)",
+            "email": "kmccreadie@joinhomebase.com",
+            "email_domain": "joinhomebase.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Kerry McCreadie (they/them)"
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/LBmDLARpNBDPnrAdxNkTvxsw2MXup7NC",
+    "crm_matches": {
+        "contacts": [
+            {
+                "name": "Kerrie McCreadie",
+                "email": "kmccreadie@joinhomebase.com",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/111316686813"
+            }
+        ],
+        "companies": [
+            {
+                "name": "Homebase",
+                "record_url": "https://app.hubspot.com/contacts/341940338/company/110290764783"
+            }
+        ],
+        "deals": [],
+        "error": null
+    }
+}

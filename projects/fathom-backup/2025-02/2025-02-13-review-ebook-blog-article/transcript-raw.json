@@ -1,0 +1,1812 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Hey, Mary.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Hi there.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "right.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Sorry about that.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I'm, uh, you probably know.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "am in this land.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Um, I just wanted to do couple of things, which we need to deal with this morning.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But, um, okay.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So we have these two articles go away.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And I started rewriting this.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But it was like really rewriting it, which is, which is okay.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But, you know, like here, I guess what, what you're doing, you're doing style changes.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You've got it.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We've got a stable version and then I'm pretty much just rewriting the whole thing.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So, um, what I realized though is, is I'm talking to so him, who's our guest on the thing and I'm basically saying, Hey, am we wanted to, you know,",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "write a blog about what you presented.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So that was the intent of this article.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so what I ended up doing here was, you know, saying, okay, so we had this stuff and, you know, it's about having ETL and it was end to end.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But what he was talking about was, you know, how there was never really a single data warehouse.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And, and the ETL was kind of prevalent.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then the next thing, well, guess what, then you don't have a dupe and then you don't have this.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So the original article, um, original article had all this stuff about, you know, processing cycles and lag and,",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "things that might have been true about ETL, but it wasn't anything that Soham was getting into.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Which I was going to ask you about at some point, but I guess we were looking at some of the topic in a bigger way, but it wasn't what he was talking about.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So anyways, I'm going down that road and then I'm coming back and I'm looking at what we've written here and this is actually that story.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Modernizing data platform, that's the story that Soham told.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You know, like then Hadoop and then we're in the cloud warehouse era and then the lake house approach.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so, you know, I think that not this stuff, so you've got more, you've got much more and we've but what I guess I'm saying is that, yeah, so first of all, just",
+            "timestamp": "00:02:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I mean, just that first, just that if I, yeah, if I understand correctly, just that or a section in the e-book, you're saying that's what he spoke about.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, it's like that's much more like lying with what he spoke about than the article.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So what happened is that's actually what we focused on when we were creating Solon's article as well.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's, it's pretty much, it's kind of the same topic, right?",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "When we, when we sent it over, what we had to do was there, since we were zooming in on that one thing, there wasn't enough from the webinar to sort of create a blog post that would not have any fluff, right?",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So what we did is we actually sort of added more context to it.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That's what the flow has done in Solon's blog.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And I think that's what you're seeing, which is kind of extraneous and additional and so on.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The idea was that, okay, this can provide a",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "it more context around the topic off little bit.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Otherwise, it's going to be very, like, okay, this happened, this happened, this happened.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Oh, by the way, check out the webinar, right?",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But that's going to be okay.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Is it?",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay, if it's fine, then we can't.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "it is because, um, well, there is more to it.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I mean, if you look at what the stuff I'm rewriting, um, yeah, it is just like, this happened, this happened.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But if Soham writes it, it's not going to, and there we will, we'll get with the point of modernization and, um, but to give him a, you know, a blog that actually is pretty straightforward, just like this is what I said in the webinar, we have this history and we find yourself at this point, there are a lot of challenges with this point, we need to move beyond it.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "mean, that's kind of the ending.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "of the blog.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And that's okay, because even that even that kind of like smaller version that's in the ebook is, is better because, you know, when you're talking about a blog for guest author, it could be it doesn't have to be long could be 800.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "This is just a different thing.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Like we're not having the, I mean, I, you know, it's not an essay article.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It's 700 characters.",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "If it's clear.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And he puts his name on it.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's a win.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "All right.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But I do understand now I kind of get where you guys were coming from.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I think.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So I guess what I'm saying is I'm going to take a copy forward to a third thing.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Again, making more money.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But but this is going to turn into something else.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, like I just don't need this stuff.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "He spoke about Toyota, and I think referred to it, so that's where he's into it.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, he used to work at Toyota.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, so that's why the Toyota is in there.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And since it's his byline, we can't say like, oh, know, because to give you more context, what happens in our flow is in the webinar.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "think he mentioned that he mentioned that, this is what we did at Toyota, and this is how we sort of used this, it was not exactly throwaway.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "There was something, yeah.",
+            "timestamp": "00:06:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But I just want to understand like, what is the longer blog?",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Is it really something that I personally did not feel like it was completely off the mark.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Based on what he said, sure, there was some additional things, but is it really that",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "much of a deal breaker with regards to what we will be added.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Hold on.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, this, I mean, just the ETL seems to be like, if we can just delete some of this, we should get to, we should be doing that, but the point I was, the point, but it wasn't, it wasn't, yeah, simple days weren't so simple.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And it's, it's just, the editorial isn't, isn't right.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And again, this is, this is not about, this is, this is me just knowing so ham and trying to politically maneuver almost as much as the content.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so I don't, I don't, I don't want to take this as like some",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "example of things being off base.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I would probably correct some of this stuff like I don't think I would want us to publish stuff saying that you know it seems simple and like this stuff these are these are really it's just better for us to report in this situation because people work on this stuff and they have lots there are just lots and lots of opinions about this kind of history and and we don't really need to get into it like by taking a stance on this not really gaining anything so that's first piece of feedback is where okay well you know I get that it was it was it was sort of a false promise and then there's just stuff that's not right like these are it was about data warehousing and data marts and so you they weren't monolithic they were we're really talking about",
+            "timestamp": "00:09:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We're really talking about data warehouses and data marks.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So there was a belief that they could be a single source of truth, or there was a motion that there could be a single source of truth.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "problem, I mean, yeah, this stuff with ETL is true and I don't know, maybe it was difficult to manage, but it wasn't so much that it was difficult to manage, it's that you had another piece of technology that you put into the picture.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So you had source to warehouse and very brittle, like you had to define everything that's in the warehouse.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "then you created data marks for images, yeah, that's okay.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But as that became more complex, as you basically stopped doing hand coding, people put in ETL in between.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so there was a new system in between, and that's the point.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "that I worked through and rewrote.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so that's just not coming through here.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So that's kind of a rewrite for most of this segment.",
+            "timestamp": "00:11:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But did Solham actually talk about that in the webinar?",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "No.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Because if he did, yeah, that's why we didn't pull it in right?",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "No, I know.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I'm thinking about that.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But this wasn't the problem he talked about either.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So he didn't talk about, it was full of extra processing and it was eating up cycles and too many cores.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Like this, that's not, he just, we have more than one, we have one more than one.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "sorry.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Since you mentioned that the ebook version was on point, preschools to our point as possible.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "How about we use that as a base and just rewrite that?",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, I think, I think what I'm going to do is,",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Keep this article here.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I don't want you guys to spend, I think we have enough to do, I just, I wanted to check in to see whether some of this story, I think I'm still gonna have to go through it.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So I don't think you're gonna actually save me any time getting to the so-ham blog.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Because, but I did want to have this talk because basically I'm gonna take, when I look at the Hadoop segment or so-ham, I'm gonna basically just copy this.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then I'll start to, I'll just merge the two together.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It's kind of what I'm thinking.",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "What I was trying to see where it was, whether it was my big data.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Right there.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Whether some of this can actually go into the, into the e-book.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "All right.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I haven't even gotten to that part of it yet.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "what I was, what am I what I'm going to do is comment into the e-book.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Hey, we could flush this out.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We could flush that out.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And then I'll have this other version for so now.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And that's just how it's going to go.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Um, you know, just for context from, from our end, before we get to any from our end, e-books, we were expecting you to give us more sort of enrich it a bit more with edits because we just went off the line.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So obviously the e-book needs to build on it.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's not just the so-ham blog.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "As I mentioned,",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "we were we didn't wanted to just send it something that's like 500 or 600 works, which is kind of what floor usually gave us.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But that's fine.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Um, let us, you know, let us know where we can help with the asset and we'll jump in.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But with the ebooks, definitely let us know we'll do that.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, okay, yeah, okay, great.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This is something.",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, and I think I'm just going to put it on pause because we don't have the bandwidth to really look at the e-book, but we'll get there.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, Anya's, I think Anya's good luck.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Sorry, let me just, uh, okay.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That's good.",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "you guys, so we know what we're",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay, oh, sorry, um, okay, all right, um, where's the same?",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, so, okay, I'm fine.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I'm fine with that.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Um, yeah.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay, because we did the thing, but I just can't.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Uh, whatever.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay, um, how about her other comments?",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay, good.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "this one.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay, I need Sorry, if you might stay in this together, because we can, if I can just talk to You",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I mean, I don't want to.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It makes so much sense to me to do this, but I just think we're just going to not do it.",
+            "timestamp": "00:19:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Doesn't really.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "No, I mean, I don't like what spark looks like.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "There's a reason.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Popular.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Like you can read sequel a human can read no one reads bark.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so it just doesn't.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It just isn't what we're doing.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So let's just talk about where we are.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "transformation.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay, let's come back to that.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Wow, she really read it.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Good for you.",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, the real time thing is kind of.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "She had brought up real time quite a bit.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the other references I deleted it.",
+            "timestamp": "00:20:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that this is the only one that I left in because we weren't tying the product over here.",
+            "timestamp": "00:20:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This is like basically don't incorporate both you can do either or.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And that's what yeah, I know I just I'm like why do we need to do performance optimization?",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like you don't really do any of this stuff Prophecies doing it.",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's more for completeness.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah More for the algorithm to be personally honest.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, know I just wish there was something we could say like a behemoth room Just something about",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You This something about data clouds",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "What do you say?",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I do have to hop off is there something cool and let's go there action prophecy really well highlighted okay okay so if we do this we just make it a list without the examples we can publish this move the quote and we're entirely yep",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Are we done also to the sequel or is there it's just where it look it's just where I'm not going to go.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I mean, if we put it back in it's fine but but I want to get this thing.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I just can't I can't wait until the end of the day.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Yeah, it's just a list.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "Look, going to we're going to be doing this later and before and after and everything else.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So, um, let's just see what does it look like.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And you've got to go.",
+            "timestamp": "00:24:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "933 sorry.",
+            "timestamp": "00:24:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "All right, I'm going to make it a little.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You can just click.",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, you can just click on it and press delete.",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just you can just press delete.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "My pressing delete.",
+            "timestamp": "00:24:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "On your keyboard.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just press delete.",
+            "timestamp": "00:24:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "There's nothing.",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "That's what I did.",
+            "timestamp": "00:24:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I don't know how to get rid of that.",
+            "timestamp": "00:24:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't care.",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I'm make a list see how bad it is we'll publish it under the under my name in the non-index today Okay, we got to keep them right and look if this isn't you're gonna encounter this stuff.",
+            "timestamp": "00:25:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We're learning how to do this It's nothing about you guys.",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "I Just don't always matter to me at this point and I just want to get the damn thing out, okay Okay, that's just real quick Sorry, do you have to hop or I just had one last question.",
+            "timestamp": "00:25:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I thought you had to go I Do have to go but I have two more minutes, so okay What's the is there like some sort of push to get as much out as possible Internally or is it because I just noticed like the tone and yesterday meeting was a bit different from what we've been having So I just want to check if something changed or is there something we could be doing to like assist you in turn No, I'm really trying to keep get us",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "They I'm really trying to get us on a regular schedule, okay, all this.",
+            "timestamp": "00:26:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So no, there's nothing coming from down.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "It's just we're doing the project and to me we're failing.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If we don't publish something every week.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And so that's forcing a lot of things like this to be we're forcing a lot of issues we're encountering lot of stuff.",
+            "timestamp": "00:26:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "But if we spend too much time trying to fix everything and making it perfect.",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We'll be back where we were, which is like we don't publish anything for a month.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And that's been sort of endemic with our team is that things just don't they just linger.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "They don't get done.",
+            "timestamp": "00:26:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And I'm talking about content because it's careful in this video, this white paper, it takes like three months to do and this other thing.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So no, it's that what's changing is nothing's changing.",
+            "timestamp": "00:26:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "We just we're setting out goals to publish, you know, any as two things a week.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "You know what they are.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "And if I get them out and and so.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "nothing is changing from in a negative way, it's just I'm starting to bring the team focus on to it because yeah, because we're encountering problems.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, no worries, I just wanted that context and that's it.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So this is what I think totally on board with it.",
+            "timestamp": "00:27:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matt Turner",
+                "matched_calendar_invitee_email": "matt@prophecy.io"
+            },
+            "text": "So yeah, I gotta move I'm moving up removing obstacles so that, you know, we can get this done.",
+            "timestamp": "00:27:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right, Thank you.",
+            "timestamp": "00:27:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:27:31"
+        }
+    ]
+}

@@ -1,0 +1,1684 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "An e-book and a couple blogs and a bunch of PRs for our docs that I'm taking up view of, trying to catch everything up last day.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Our quarter ends today, and so I'm like, okay, what do we need to ship today that's been stuck in our view?",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Well, what do you All right.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'm just going to finish my screen.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We wanted to interview it, So, yeah, just content creation updates.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We have the article scheduled for this week, and per Nika's note, we did note that the PR increase, you know, again, this is kind of a, it's a little made up metric in many senses.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So HRS has one sort of number for this and Rush has another for it.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Generally, we're happy to see that it increases, and we don't quite know what the formula is.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This year, but generally publishing good content and just executing best practice systems to them.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So clearly, it's having an effect.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's kind of a lagging indicator in a way where it's like, oh, you're doing the right things.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, it is.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And sometimes, like I've seen instances where it does not move for an entire year, no matter how much effort you put in.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's kind of nice to see.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The well-ent.exe file, we created it.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Actually, think Nika, you and Shohil are on it.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that just needs to be uploaded to your root directory.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We are looking at a way of maybe automating that because, you know, we have a section in there.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We have a section in there which lists the blogs as well as the talking points for each blog so that the LLM can just refer to it.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Looking at a way of automating that and maybe just putting that out directly to your system.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So just we're sort of exploring that a bit.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The big heads up there.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Before we talk about saying any bugs, because I don't want to waste time on that, I appreciate the team identifying them, but we are officially switching our site over to Framer as of next week.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's on WordPress, then?",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "No, it's not WordPress, after all.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "It's been a whole thing that's changed in the last week.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Thank God, in my opinion, but that's a whole lot of stuff.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So we are making that switch.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "It'll probably break a ton of stuff, realistically.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I'm pretty sure I'm going to have to go through all of our blogs and or assign folks to go through the blogs and make sure images are working, etc.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "We're checking the APIs to see what all is working there, but that change will happen probably over the weekend, it sounds like.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So we'll have new look and feel, which is great, but we're going to, I'm sure, create a ton of problems, right as we're seeing a performance spike, too.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Love it.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Well, we're having it for a long time, though, so it's...",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Yeah, it'll be good long-term, but it's just one of those things where I'm like, great, we have our best click week for this content, and now we're probably going to damage our tailwinds.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So that'll officially happen.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I may come back next week and be like, hey, we need to go through all the blogs and look at images and derail a week or something.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Just read your FYI around that.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "In part, that's going to be me tagging in Jeff, our designer, starting next week.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "It'll like, hey, we're going to start redesigning some things.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "We're going start changing some things.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So what I'd say is, don't worry too much about the sanity bugs for the moment.",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "It's not really going to matter here in a week anyways.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Do we need to do some kind of technical review?",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We probably will, yeah.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I would love to fit one in in the first, call it two weeks of May, if possible, so we can kind of identify what's happening.",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I don't think we'll actually, or at least we're going to go live is Friday, and I'm planning.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "for it to not be till early next week, potentially.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So really, I guess, weeks two and three of May is going to be more realistic to make sure things are actually up and moving.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I'm sure we'll miss things in the migration.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "OK.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We will prioritize that.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Moving on to the performance report, may have noticed it looks a bit different this week.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "One of the reasons was that, well, usually, we look at this chart over here.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But one of the reasons is that we experienced some issues with Search Console across a lot of our clients.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "For example, yesterday, this chart was showing like a massive dip for some reason.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And today, it seems to have been showing numbers.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think it might be lagging more than it used to, is what I was seeing.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Talking to a couple of folks who I know who were like, yeah, we're not getting data from Search Console as rapidly as we used to.",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, and there's a lag, and there's also the just the really real",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I know for some of our other clients, we saw massive spikes of impressions, which makes no sense.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "then just a dive and click.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that's why I included the GA4 giant over here, which is a little different, just given the way both platforms measure content performance and attribute clips to each weeds.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So this obviously, and the other thing is, of course, GA4, it shows us organic traffic from more than just Google.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So it includes the LLM traffic, includes like Bing, Yahoo, whatever.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There's everything in here.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And just a little primer on how to navigate this, like these two filters are the same.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So we just include uncategorized.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And then over here, we're really looking at organic and thorough traffic.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's the main thing.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The rest of it is just channels that have been set in your GA4.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if we look at just organic, actually, it's an interesting comparison.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like we're looking",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We're at almost 945 sessions, which is, you know, we can't think of a session as a click.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's not exactly a click, but it's kind of, you know, for lack of a better word, kind of a thing.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So we're looking at 945 sessions across all organic channels.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And just Google, which is the GSC report, we saw 573.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So clearly we're doing well across all organic channels, which is a really good thing.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Yeah, and part of what we're probably seeing from a referral, haven't looked at the breakdown yet, is an increase in Reddit traffic.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "We just started in partnership with the mods of the RAI Agents subreddit, where they launched their own internal bot that includes links to, like, key AI agents content.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And we included a couple links to our blog, including a couple of our SEO pieces in there.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So my suspicion is the referral spike might be from that.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "That launched, I don't know, 7 or 14 days ago.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Interesting.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This referral contains LLM as well, so it could be something different.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I'm guessing.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Yeah, a lot of this is LLM, actually.",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "if you look at the LLM only, it's 146.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I mean, it's exciting regardless across the board.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Like, really nice performance here, and awesome to see that spike, because this is our first week over a thousand total sessions, right?",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Let me just...",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes, it's the first week, yes.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:07:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, right before the bull, just as you said.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, so we've kind of breached that area.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "LLM traffic is going pretty well, too.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I know Jason and Pete have some questions.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So generally, we're seeing traffic mostly from GPT and complexity.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just the search results, GPT, it's just the best way of doing it, et cetera, citing content directly.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So generally, things look pretty good over here.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But yeah, we're just going to hope that the migration goes out smoothly and we'll recover it.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Yeah, great to see.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I know we have a few different blogs to review that I signed out this week and we'll see where everyone gets to with that.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "But yeah, awesome to see the continued progress.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "How are you guys doing as far as topics to cover?",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Seems like you've got plenty for now.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Some good ones.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "ones.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "of",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think for the next two to three weeks, at least, not to worry about that.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The other thing we're doing is we're looking at the sources that you gave us, this monitoring, seeing what's going on, and we're using that to source your ideas as well.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that's also a good resource.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If you hear anything in terms of sales calls, like questions your customers are asking or topics, do let us know.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that's always a great way.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I'll share a couple things.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "One is that we are officially going to move our, I just forwarded this to the Slack channel, but we're officially going to shift our team as, and I'm just going to steal screen share too, to make it easy here.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And then...",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Um...",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Um...",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So a couple things to aware of.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "One is that we are consolidating our platform.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So as you've known, we've had our 1.0 version, then we built up Enterprises, and then we have our 2.0 version.",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "As of start of June, we're going to be transitioning customers fully into the 2.0 platform.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So this doc kind of breaks down the timeline for that, the key dates.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "We're going to start selling the 2.0 platform officially in the next week, or I guess in about a week and a half here.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And there's details here on what is available and new within the platform, as well as kind of what's coming.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "The key thing to know as far as coming pieces is we are going to be adding in June multimodal app logging.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So we'll start to be able to address that more and continue to lean into that and may have to go back and rewrite some of our...",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "There may honestly be a whole rewrite of a lot of our product language across our whole site, but that's a...",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Larger initiative that is more of just like a heads up that I would suspect as we hit June and July, I may come back and say, hey, you know, we need to update our product messaging because, you know, one of things that's happening, for example, is we're no longer going to have modules.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "not going to be like, here's your protect module, here's your observe, here's your evaluate, and it become the holistic platform.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So we'll need to start talking about that differently.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "We haven't finalized in that language.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "That's like a key deliverable for me to help figure out here in the next month.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "But that may be something we want to go through and, you update across the board.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And then we're also going to have new capabilities, new visualizations, new metrics, so new presets for agent evaluation in particular launching in June.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So we're going to have a large effort on that and a lot of new content coming on that front that we can start integrating both into the funnel broadly across our SEO content and also into net new content.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So this doc may give you some ideas around things to start covering.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I would encourage even looking at some of the features.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Like, I don't know.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "of like log streams and tracing have any traffic we should be going after, like smaller subterms, but like tracing and logs for observability, like obviously, I think we've kind of looked at the observability keywords, like what about going a step deeper into like the specific areas of it that might be worth looking at?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, for sure.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just a question, when will the language on the website change?",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "don't know, what's the timeline for that?",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So I mean, the first update to website language is going to change as of the website relaunch here in a second.",
+            "timestamp": "00:12:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And then we're probably going to fast iterate a couple times.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "The other big, the big thing you should be aware of is we're going to start talking about reliability a lot more phrasing.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "It might become, I'm uncertain whether it's going to become like the top level, like platform phrasing, or if it's going to just be like a subsection of how we communicate the platform's value.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "But we're really seeing that in a couple of conversations as like the compelling piece.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "to get people over the line line is to",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Pitch the reliability angle.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "We've already been using that language somewhat in our content, but it may become a much bigger feature.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So this is all a bit in flux.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Yeah, start on that, like reliability, what's next?",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "you give more context?",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Oh, sorry, what was that?",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Can you give me more context around the reliability, the shift in the conversation, etc.?",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Yeah, so we're trying to, I think we've been really focused on features a lot, you know, how we've communicated, and we know that's not going to last long term as far as effective communication.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And so when we talk about, like, observability and evaluation, those are subsections that we're providing, and we're saying, okay, like, what are we really doing?",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "helping people ship reliable AI products.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And so we want to start thinking about that messaging differently.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "This is all stuff where, like, I need to get, we need to actually build messaging docs and get it to you.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "So then this is like final stuff, more of just awareness.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "But I would expect to see us starting to shift our language around this.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And a lot more to come on that soon.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The reason I was asking about the website language was we will need to update our knowledge bases.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if the website updates, we should be able to pull it in.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But if that's going to be delayed, then something will not.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "This is kind of a changing every day of what our actual launch is going to be.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "And then even the first version of that, I suspect, be rewritten multiple times the next couple of weeks kind of thing.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "But, yeah, I'll keep you posted as major pieces come out.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "No worries.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just a little heads up.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We're having some technical issues with our grips this week.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the output might be a little delayed into next week.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "But it's nothing major.",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We're just going to let you know.",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Thanks for the heads up.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "That sounds good.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "That was pretty much it.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "I appreciate the flexibility on scheduling.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Conor Bronsdon",
+                "matched_calendar_invitee_email": "conor@rungalileo.io"
+            },
+            "text": "Sorry about that.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "No worries.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thanks, Donner.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Have a good one.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:15:11"
+        }
+    ]
+}

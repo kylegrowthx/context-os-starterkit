@@ -1,0 +1,823 @@
+# Netwrix <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-18
+time: 16:00 UTC
+duration: 42 minutes
+organizer: team@growthxlabs.com
+participants: Aida Knezevic, Kathy Lam, Philipp Denisenko, Mariel Grinstein, Ralph Marino, Ani Grigoryan, James Levin, John Knightly, Chanel Chambers
+fathom_recording_id: 123353055
+fathom_url: https://fathom.video/calls/570059805
+share_url: https://fathom.video/share/g6DgUmysNzCDk8i7HkaJpnf7sVDyiW4L
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+Sync on content production, review strategy, and demo the Atlas platform.
+
+---
+
+## Context
+
+GrowthX is engaged with Netwrix, an IT security vendor specializing in identity governance, data security, and compliance solutions. This is a weekly sync between Netwrix's content and marketing leadership (Philipp Denisenko, James Levin, John Knightly, Mariel Grinstein, Ralph Marino, Ani Grigoryan, and others) and GrowthX's delivery team (Aida Knezevic, Kathy Lam). The engagement involves a comprehensive content marketing and SEO strategy for Netwrix. This meeting was held to review content production progress, validate the gated guide ungating strategy, discuss product portfolio changes, and demonstrate GrowthX's internal Atlas content generation platform to build confidence in the production process.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Atlas platform is validated as effective for managing content quality at scale. Demonstrated custom pipelines, artifact management, and human-in-the-loop QA process for 4-5 articles/week output. Mariel's feedback on "no contractions" rule now part of proofreading checklist (Step 9 of agentic workflow).
+- New technical requirement: Build PDF-to-article conversion pipeline within Atlas to support gated guide ungating strategy. Needed before 7 identified guides can be converted.
+- SEO review process formalized: Ralph Marino and Ani Grigoryan now conduct final on-page SEO checks on all published content using Airtable content calendar. Prevents schema markup gaps and other issues.
+- Sanity CMS publishing bug persists. Workaround: minor edit forces publish. GrowthX aware but unresolved.
+
+**To GrowthX Business Development:**
+- Account showing strong execution and early traction. 3 articles published (1 refresh, 2 new), all indexed within days, showing clicks trending up. "Shadow AI Security Risks" top performer.
+- Publishing cadence at full speed (4-5 articles/week), supporting bottom-of-funnel content strategy rollout.
+- Netwrix strategic shift visible: PSG (Product Solutions Group) products de-prioritized due to new CEO and leadership focus on core portfolio. Content priorities align accordingly. James Levin driving focus on "converting traffic" not just traffic volume.
+- Looker dashboard requires GSC property connection fix to enable real-time performance visibility for Netwrix stakeholders.
+
+---
+
+## Decisions & Commitments
+
+**Gated Guide Ungating Strategy (Refined):**
+- Keep gated: Guides with high traffic + high conversion (lead generation working well)
+- Ungate: Guides with high traffic + low conversion (capture existing interest with free content)
+- Ungate if relevant: Low traffic guides with strategic alignment
+- Aida to prioritize 7 identified candidates; Philipp to provide guidance on strategic fit
+
+**Content for PSG Products:**
+- De-prioritize content for Product Solutions Group products (decreased R&D/marketing focus)
+- Focus on core portfolio offerings
+- James Levin to provide Netwrix list of PSG products; GrowthX team to exclude from priority planning
+
+**Mariel's Writing Feedback:**
+- Article intros too conversational; must be more direct for IT audience
+- Aida to update 4 in-review blogs: rewrite intros for IT tone, add CTAs, send to Mariel for approval
+- "No contractions" rule added to Atlas proofreading checklist (Step 9)
+
+**Atlas Platform Commitment:**
+- Develop new PDF-to-article pipeline within Atlas (converts PDF/text + research into article content)
+- Required before ungating 7 guides; Aida owns delivery
+- Aida to provide webinar transcripts to Mariel via Notion for research context
+
+---
+
+## Open Questions
+
+- Sanity CMS FAQ/TLDR publishing: Is this a known bug with a planned fix timeline, or a configuration issue? Currently requires manual workaround (adding space to force publish).
+- CISSP Study Guide relevance: James questioned whether this guide aligns with Netwrix priorities; needs formal evaluation against strategic criteria before ungating.
+- Case study coverage: Philipp noted 90% of current case studies are for Netwrix Auditor, NDC, and Endpoint Protector; other product lines underrepresented. Will new case studies be created?
+- John Knightly's DSPM competitive list changes: Mentioned changes but unclear if Dirk's absence affects implementation timeline. Need clarity on urgency and dependencies.
+
+---
+
+## Overview
+
+- **New Content Driving Early Traffic:** The first three articles are already generating clicks, with "Shadow AI Security Risks" performing best. The publishing cadence is now at full speed (4-5 articles/week).
+- **Gated Guide Strategy Refined:** The focus will shift from ungating high-traffic guides (to protect their rankings and lead generation) to ungating guides with high traffic but low conversion, as these represent a clear opportunity.
+- **PSG Product Content De-Prioritized:** Content for the Product Solutions Group (PSG)—products with reduced R\&D and marketing focus—will be de-prioritized to align with Netwrix's new strategic focus on core offerings.
+- **Atlas Platform Demoed:** GrowthX's internal AI platform, Atlas, was demoed. It uses custom pipelines and a human-in-the-loop process to ensure content quality and accuracy.
+
+---
+
+## Key Topics
+
+### Content Performance & Production
+
+  - **Early Performance:** The first three articles are already generating traffic, with clicks trending up.
+      - **Top Performer:** "Shadow AI Security Risks" is showing the most clicks and a high average keyword position.
+  - **Publishing Cadence:** The team is now at full speed, publishing 4-5 articles per week.
+  - **Review Feedback:** Mariel noted that article intros are too conversational and should be more direct for an IT audience.
+  - **SEO Review Process:** To prevent issues like missing schema markup, Ralph and Ani will now conduct a final SEO review of all published content.
+      - **Process:** Use the content calendar to find links → perform on-page SEO checks.
+
+### Gated Guide Ungating Strategy
+
+  - **Initial Proposal:** Aida identified 7 guides as ungating candidates, avoiding those with high traffic to protect their rankings.
+  - **Refined Strategy (from Philipp):**
+      - **High Traffic + High Conversion:** Keep gated. These assets are working well for lead generation.
+      - **High Traffic + Low Conversion:** Ungate. This is the prime opportunity to capture existing interest with better content.
+      - **Low Traffic:** Ungate if strategically relevant.
+  - **Technical Requirement:** A new Atlas pipeline is needed to convert PDFs into articles, as the current workflow lacks this capability.
+
+### PSG Product Content Strategy
+
+  - **Context:** James introduced the Product Solutions Group (PSG), a new category of products with reduced R\&D and marketing focus.
+  - **Decision:** Content for PSG products will be de-prioritized to align with Netwrix's strategic focus on core offerings.
+
+### Atlas Platform Demo
+
+  - Aida demoed Atlas, GrowthX's internal AI content platform, to show how quality and accuracy are maintained.
+  - **Key Features:**
+      - **Artifacts:** A central repository of company context, writing guidelines, personas, and case studies.
+      - **Custom Pipelines:** Workflows are tailored for specific content types (e.g., competitor comparisons) to prevent AI context overload.
+      - **Agentic Workflow:** A multi-step process for article generation:
+        1.  **Direction:** Define topic, keywords, and structure.
+        2.  **Research:** An agent (Tavili) generates a comprehensive research document from authoritative sources.
+        3.  **Drafting:** An agent drafts the article using all artifacts and research.
+        4.  **Proofreading:** An agent grades the draft against a checklist (e.g., no contractions) and makes fixes.
+        5.  **Human Review:** Manual checks for external links, stats, and final edits.
+
+### Tooling & Reporting
+
+  - **Sanity CMS Glitch:** Updates to FAQs and TLDRs are not appearing live. The current workaround is to make a minor edit (e.g., add a space) to force a publish.
+  - **Looker Dashboard:** The dashboard is connected to the wrong Google Search Console property. GrowthX will fix this to enable performance tracking.
+
+---
+
+## Action Items
+
+**Aida Knezevic**
+- Ask Ade re: Sanity logs; report back
+- Update 4 in-review blogs: IT intro; add CTAs; send to Mariel
+- Build ungating pipeline (PDF/text + research); then ungate 7 guides
+- Add CTAs to high-traffic low-conversion pages
+- Upload webinar transcripts to Notion for Mariel
+- Add 'no contractions' rule to Atlas proofreading checklist
+- Fix Looker dashboard GSC connection; confirm to John
+- Implement John's DSPM competitive list changes; publish 4 articles
+
+**Ralph Marino**
+- Review published blogs in Airtable for SEO; report issues to Aida
+
+**Ani Grigoryan**
+- Review published blogs in Airtable for SEO; report issues to Aida
+
+---
+
+## Transcript
+**Kathy Lam:** Hey, Philip.
+
+**Philipp Denisenko:** Hey, Kathy.
+
+**Philipp Denisenko:** This meeting is being recorded.
+
+**Kathy Lam:** Thanks.
+
+**Kathy Lam:** How are things going?
+
+**Philipp Denisenko:** I think you've left us in, you know, pretty good hands with Ida.
+
+**Philipp Denisenko:** So a couple of things I think we should, we still need to polish, I think, but it's more a process related stuff like, you know, how do we make sure we have reviews in a timely manner, like author reviews, hey, Ida, because for now we have agreed that, you know, since our author bench is not unlimited.
+
+**Kathy Lam:** Ida.
+
+**Kathy Lam:** Ida.
+
+**Aida Knezevic:** And we do have a workflow set up to automatically stage content in Sanity, but the hard part, which is like adding links, still has to be manual, but we do that.
+
+**Aida Knezevic:** So we have like a workflow that just automatically uploads the content.
+
+**Aida Knezevic:** And we were able to publish everything, but there is a glitch or a bug that when, for example, because last week, Mariel, she mentioned that the two new articles that we published had some, we needed to update the FAQs and the TLDRs with the schema.
+
+**Aida Knezevic:** So we went ahead and updated it, but it's not being shown on the main site.
+
+**Aida Knezevic:** So it would just be, we don't know why that's happening.
+
+**Aida Knezevic:** Maybe Mariel knows.
+
+**Aida Knezevic:** Oh, she's just joined.
+
+**Aida Knezevic:** But that was the issue that we ran into, but we were able to publish.
+
+**Aida Knezevic:** So that's not an issue.
+
+**Mariel Grinstein:** There are times that I have to just, like, go somewhere and put a space so I can publish it.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** All right.
+
+**Mariel Grinstein:** I don't know why that happens, but, yeah.
+
+**Mariel Grinstein:** I wish it didn't.
+
+**Aida Knezevic:** Yeah, yeah, I know.
+
+**Aida Knezevic:** Well, we'll have to deal with it.
+
+**Aida Knezevic:** It's, you know, it is what it is.
+
+**Aida Knezevic:** All right.
+
+**Mariel Grinstein:** So, yeah.
+
+**Mariel Grinstein:** Did you find any way to, like, to find logs easily?
+
+**Mariel Grinstein:** Because it's impossible.
+
+**Aida Knezevic:** Yeah, I think I'll have to ask Ade.
+
+**Aida Knezevic:** He's been the one that's staging it, but he does say that it's not easy.
+
+**Mariel Grinstein:** So, it's...
+
+**Mariel Grinstein:** Oh, okay.
+
+**Mariel Grinstein:** It's not just me.
+
+**Aida Knezevic:** Yeah, okay.
+
+**Aida Knezevic:** No, no, no.
+
+**Aida Knezevic:** Trust me, like, we use many different CMS platforms, and this one's really, like, a pain.
+
+**Mariel Grinstein:** So, yeah, yeah.
+
+**Aida Knezevic:** And especially when adding internal links, that one's also a little bit tricky.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** James has joined.
+
+**Aida Knezevic:** Hi, James.
+
+**Aida Knezevic:** Great.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** I think we can get started with the things that I have on the agenda.
+
+**Aida Knezevic:** So let me share my screen and then we can go one by one.
+
+**Aida Knezevic:** So we have four blogs that I know your team is currently reviewing.
+
+**Mariel Grinstein:** Mariel, you just got access to them.
+
+**Mariel Grinstein:** So as soon as you...
+
+**Mariel Grinstein:** already made my comments.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** So what did you think?
+
+**Mariel Grinstein:** I think they're good.
+
+**Mariel Grinstein:** The only thing that I think it's a little weird is like at the beginning, you have like an intro that is like more conversational.
+
+**Aida Knezevic:** Okay.
+
+**Mariel Grinstein:** And yeah, like that looks like it's for an admin or sometimes for someone who doesn't really know what then we should like keep it for IT.
+
+**Mariel Grinstein:** So yeah, I think it's kind of, you know, guidelines.
+
+**Aida Knezevic:** One a refresh, the other two are new blog posts, and they were all indexed very quickly, and they're already getting traffic.
+
+**Aida Knezevic:** I just went into your Google Search Console just to check what the performance has been so far.
+
+**Aida Knezevic:** So the first article was published on the 9th of February, which was the refresh, and then we published these new articles last week, so you can kind of see already how the clicks are trending up.
+
+**Aida Knezevic:** Obviously, like, we'll have much more data next week once we publish the four from this week, but I just wanted to show you some of these early signals, and you can see the, for example, the one about shadow AI and security risks, that one has gotten the most clicks so far, and the average position is quite high right now for the keywords that it is ranking for.
+
+**Aida Knezevic:** But, yeah, we'll continue to monitor this, and we also have your Looker dashboard set up, but we're running into some issues.
+
+**Mariel Grinstein:** Like the sensitive data one, the other one, the non-human identities, that's like a super hot topic right now, and it's important to convert those.
+
+**Philipp Denisenko:** This is a very good point.
+
+**Aida Knezevic:** would be very explicit here.
+
+**Mariel Grinstein:** Just a quick check.
+
+**Philipp Denisenko:** Jack, so since we earlier discovered some of the inconsistencies in terms of, like, lack of schema markup, do we have, like, SEO reviews tab where Ralph or Ani take look at those pages?
+
+**Aida Knezevic:** Not right now, no.
+
+**Aida Knezevic:** But if you want to do a double check of anything that we've published for just, like, on-page SEO, you can go to the content calendar, and then if you go to published blogs, you can see, find the links.
+
+**Aida Knezevic:** of everything that's been published so far, and then you can do those checks.
+
+**Philipp Denisenko:** Ani, Ralph, what do you guys think?
+
+**Ralph Marino:** Yeah, that works.
+
+**Ralph Marino:** Perfect.
+
+**Ralph Marino:** Well, as long as we have some visibility, we can take a look at it.
+
+**Ralph Marino:** That works for me, at least.
+
+**Ani Grigoryan:** Yeah.
+
+**Ani Grigoryan:** That works, I think, too.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** All right, so the CTAs, we will follow up on that.
+
+**Aida Knezevic:** I'll make, I'll let Adi know to insert those CTAs into the content.
+
+**Aida Knezevic:** All right, so, and then we are also working on five new blogs this week.
+
+**Aida Knezevic:** So, we are, like, now in, like, week six of the sprint.
+
+**Aida Knezevic:** So, we've kind of ramped up to, like, the full, like, publishing cadence.
+
+**Aida Knezevic:** So, that's going to be, those blogs are also going to be coming in this week for your review.
+
+**Aida Knezevic:** View.
+
+**Aida Knezevic:** And then for the content plan that I put together.
+
+**Aida Knezevic:** So you can also find that in Airtable.
+
+**Aida Knezevic:** And I put the refreshes here.
+
+**Aida Knezevic:** So these are all of the priority refreshes that we identified.
+
+**Aida Knezevic:** We kind of scored them by opportunities so that we can focus on the ones that are most important.
+
+**Aida Knezevic:** The six-week plan for like the next six weeks that we're already executing on, that one focuses just on net new content.
+
+**Aida Knezevic:** But we can, my goal was to like, we could swap out like maybe one or two articles every week with the refreshes.
+
+**Aida Knezevic:** So that way we can kind of keep a balance of refreshes and net new content.
+
+**Aida Knezevic:** The six-week plan, it does like prioritize the comparison blog posts heavily.
+
+**Aida Knezevic:** So I think we're doing two to three comparison blog posts every week.
+
+**Aida Knezevic:** Just to make sure that we really plug that gap and you have a nice, like, amount of competitive content on your website.
+
+**Aida Knezevic:** And this way, if you ever, like, Mariel, if you're doing new topic research, just, you can, like, use this table just to make sure that we're not, like, working on the same thing.
+
+**Mariel Grinstein:** So hopefully it's going to save you some time.
+
+**Mariel Grinstein:** Perfect.
+
+**Mariel Grinstein:** Thank you.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Great.
+
+**Aida Knezevic:** And then for, let me just double check.
+
+**Aida Knezevic:** And then, Phil, I was also going through the spreadsheet that you shared of the gated guides that you're thinking about ungating.
+
+**Aida Knezevic:** So, so far I found seven good candidates.
+
+**Aida Knezevic:** So the guides that I avoided, and we talked about this last week for a little bit, was I did not choose guides that are already ranking really well in Google search.
+
+**Aida Knezevic:** So I left comments on those guides.
+
+**Aida Knezevic:** And then, but the one thing that we do need to set up before we create these, like we update these pages is we need a new pipeline.
+
+**Aida Knezevic:** It's not going to be super like hard for us to set up.
+
+**Aida Knezevic:** We have an engineer on our team who can just spin up a new article generation pipeline.
+
+**Aida Knezevic:** We just need to add an additional step in that workflow that uses the PDF or the text from the PDF to update the article as well as like any additional research that it finds.
+
+**Aida Knezevic:** But that's just one thing that we need because the workflow right now doesn't have that option.
+
+**Philipp Denisenko:** Okay.
+
+**James Levin:** So just looking at this list, you know, I think some stand out to me is probably less relevant and some more so.
+
+**James Levin:** So like, for example, I think there's some question about like the CISSP study guide and how, you know, on point that is for.
+
+**Philipp Denisenko:** This is something that we have to consider, and that's why they're not getting enough traffic volume.
+
+**Philipp Denisenko:** But at the same time, this could be relevant to what we want to speak about more, and then let's include them.
+
+**Philipp Denisenko:** Yes, definitely.
+
+**Philipp Denisenko:** Second is that the bulk of pages that do have a high volume of traffic already, and conversion rate is high, I would actually, at this point, avoid converting them into blog posts, because, you know, we can discuss this, but if they do get us high volume of leads, and those people still believe they are ready to exchange their email details for the PDF, fine, let's keep this asset as long as it works.
+
+**Philipp Denisenko:** And there's a third group where traffic is high and conversion is low. So, I would actually think that those would be the perfect candidates, right?
+
+**Philipp Denisenko:** Because we have high volume of traffic already, but the conversion is low.
+
+**Philipp Denisenko:** So we know that this topic kind of is catching in the interest of the people.
+
+**Philipp Denisenko:** And then, per James's point, then we have to decide whether it aligns or not aligns with our priorities.
+
+**Philipp Denisenko:** I would actually convert everything, but of course, starting like prioritizing the ones that do align with our strategic priorities.
+
+**Philipp Denisenko:** Yeah, it would make sense.
+
+**Aida Knezevic:** The one thing that's, for me, when I'm looking at if something has a low, like low conversions, but high traffic, is whether the resources, like, is something that people generally, like, want to download.
+
+**Aida Knezevic:** So if, if...
+
+**Aida Knezevic:** it has high traffic, in that case, it's probably ranking very well for the keywords that it's already ranking for.
+
+**Aida Knezevic:** So in that case, I would just add new CTA banners to that page so that the high traffic gets redirected somewhere else.
+
+**Aida Knezevic:** Because right now, when I was going through the spreadsheet, I was just looking at the rows that were highlighted in green, meaning the top performers.
+
+**Aida Knezevic:** So that was where I focused on initially.
+
+**Aida Knezevic:** And if something has a lot of traffic, and it's ranking very well, I don't want to optimize it and kind of inadvertently hurt the rankings that it already has.
+
+**Aida Knezevic:** If we can just add additional CTAs on the page and then funnel that traffic somewhere else, like a demo or like a product page, solutions page, whatever it is.
+
+**Aida Knezevic:** So that was just my recommendation for.
+
+**Philipp Denisenko:** for.
+
+**Philipp Denisenko:** for those high traffic pages.
+
+**Philipp Denisenko:** Yeah.
+
+**Philipp Denisenko:** Yeah, Because it's sometimes you really, like, a refresh, it really doesn't.
+
+**Aida Knezevic:** Sometimes it can hurt if it's already, you know, I say if it's not broken, we don't need to fix it when it comes to, like, search rankings.
+
+**Aida Knezevic:** Thanks.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** So we have these two options that are priorities from, like, strategic perspective, which is good for us.
+
+**Aida Knezevic:** I was throwing those out as examples.
+
+**Aida Knezevic:** What I'm looking for from the team here is just to provide you some guidance on, you know, above the line, below the line in terms of prioritization.
+
+**James Levin:** Again, because I just don't think that all these topics are necessarily created equal.
+
+**James Levin:** And I'm particularly mindful of, again, you know, we were just talking about this earlier in our marketing leadership team meeting.
+
+**James Levin:** You know, my objective is not just to drive traffic.
+
+**James Levin:** My objective is to drive converting traffic.
+
+**James Levin:** So I just want to make sure that we are putting ourselves in a position to see pipeline coming out of the bets that we're making.
+
+**James Levin:** Yeah, absolutely.
+
+**Aida Knezevic:** Have we okay with making content for PSG bots?
+
+**Mariel Grinstein:** Because the first one is for PSG bots, World Policy Best Practices and System Hardening Guide is an NT.
+
+**Mariel Grinstein:** Yeah, that's part of the reason why, again, I'm looking at this.
+
+**James Levin:** It's a policy best practice, password policy best practice is not my first bet here.
+
+**James Levin:** Yeah.
+
+**James Levin:** On that note, I just want to make sure the GrowthX team is familiar.
+
+**James Levin:** When we say PSG, did we get you up to speed on what that is?
+
+**James Levin:** It's relatively new.
+
+**James Levin:** I just want to make sure you have the context.
+
+**James Levin:** I think this is the first time I hear.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** So glad we're mentioning it.
+
+**James Levin:** So with a whole bunch of new leadership, our CEO included, right? Brings an opportunity for, you know, fresh pair of eyes and just making sure that we're solving the right problems and prioritizing, right?
+
+**James Levin:** And so I think what has come out of the recent discussions and Grady, our CEO, has been leading the charge here is we now have a subset of our portfolio that is called PSG, Product Solutions Group.
+
+**James Levin:** And what that is is essentially products that we are de-emphasizing.
+
+**James Levin:** It's not to say that we aren't going to take the business if it's coming in, but I would say it's, you know, decreased R&D focus, decreased marketing focus.
+
+**James Levin:** The idea is sort of a little bit more of like a, if you will, kind of like a cash cow approach where, you know, we're optimizing for EBITDA, but really allowing R&D efforts and sales and marketing efforts to prioritize what we believe is our core at the portfolio.
+
+**James Levin:** So, an action amount of this would be, we need to get you a list of the PSG products.
+
+**James Levin:** We have that.
+
+**James Levin:** Okay.
+
+**James Levin:** Let's make sure you have
+
+**John Knightly:** want to make sure we're covering the core first, but when there's a low-hanging fruit, it's not that we can't consider improving something for the portfolio solutions group products.
+
+**John Knightly:** Okay.
+
+**John Knightly:** And Mariel just dropped the ESG products into the chat, so thanks, Mariel.
+
+**James Levin:** Perfect, thank you.
+
+**James Levin:** All right, we'll keep this in mind.
+
+**Aida Knezevic:** I think obviously right now our priority is like executing the bottom of the funnel content and then publishing also net new content that's a strategic priority.
+
+**Aida Knezevic:** So that's where we really are focusing right now.
+
+**Aida Knezevic:** And this week we're going to publish like the first batch of content that's more bottom of the funnel.
+
+**Aida Knezevic:** So once that traffic starts coming in, I think probably like within the next six weeks with like consistent publishing, we can really start to see like what is the impact on traffic.
+
+**Aida Knezevic:** And then you can use the tools that you're using to measure attribution and how users are moving through the website based off of this content.
+
+**Aida Knezevic:** We can then like make pivots and adjust as needed.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** And then we have like five minutes.
+
+**Aida Knezevic:** Well, actually, these meetings are 45 minutes.
+
+**Aida Knezevic:** Don't worry.
+
+**Aida Knezevic:** So we have time.
+
+**Aida Knezevic:** Would it be useful for you if I get you webinar transcripts?
+
+**Aida Knezevic:** We do blogs from that.
+
+**Mariel Grinstein:** So maybe.
+
+**Mariel Grinstein:** We never turn down context.
+
+**Mariel Grinstein:** So, yes, feel free to drop webinar transcripts.
+
+**Aida Knezevic:** If you go to our Notion base and then go to docs, you can create a new page here and just like say webinar transcripts and just paste it in there.
+
+**Aida Knezevic:** Thanks.
+
+**Mariel Grinstein:** Yeah.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** So those are kind of the production updates. I'll keep you posted with everything on the pipeline side, but right now we're focusing on the bottom of the funnel content heavily.
+
+**Aida Knezevic:** One thing I wanted to show you today was the content generation workflow that we have set up for you in Atlas.
+
+**Aida Knezevic:** I am certain that I haven't shown this to you before, but let me know if I did.
+
+**Aida Knezevic:** And my goal for today was I wanted to show you all the different artifacts that we have in Atlas and also walk you through the content generation pipeline.
+
+**Aida Knezevic:** So this is your workspace in Atlas, which is our content generation platform that we launched, I think, in April last year.
+
+**Aida Knezevic:** So it's almost a year old.
+
+**Aida Knezevic:** And right now it's just an internal tool.
+
+**Aida Knezevic:** But what we, what our development team did is it created a platform that allows us to create really custom workflows.
+
+**Aida Knezevic:** Obviously, we have a baseline article generation workflow, but we can customize it as needed with additional artifacts depending on the use case and the industry.
+
+**Aida Knezevic:** So these are all the artifacts that we have set up for you in your workspace.
+
+**Aida Knezevic:** And we have the ones like company context, product and feature matrix, writing guidelines, audience personas.
+
+**Aida Knezevic:** These are all the standard artifacts that we provide for every customer.
+
+**Aida Knezevic:** But then for you, for example, we have internal statistics that we gathered from your documentation.
+
+**Aida Knezevic:** We have a list of your case studies that we use to insert into content and we pull it when we're generating content.
+
+**Aida Knezevic:** And we also have like an AI-isms editor, which is something that helps us produce content faster.
+
+**Aida Knezevic:** And it just ensures that we're creating content that speaks to.
+
+**Aida Knezevic:** Thank you.
+
+**Aida Knezevic:** your audience and doesn't read like AI fluff.
+
+**Aida Knezevic:** So this is a pretty important document from a content quality perspective.
+
+**Aida Knezevic:** And then you can see kind of the case studies here as well.
+
+**Aida Knezevic:** It contains links.
+
+**Aida Knezevic:** So we reference direct URLs as well.
+
+**Philipp Denisenko:** Aida, it a, is it, um, let me know if it's, um, something that needs to be somehow tweaked because, uh, when it comes to case studies, like 90% of them would probably be for Netwrix Auditor, NDC, probably Endpoint Protector, uh, right?
+
+**Philipp Denisenko:** So the, we're missing case studies for the majority of our, um, products or solutions.
+
+**Philipp Denisenko:** So, uh, it's not like they're going to be relevant to, you know, all of our areas.
+
+**Philipp Denisenko:** Right, right.
+
+**Philipp Denisenko:** We have them broken down here.
+
+**Philipp Denisenko:** By industry, then like the primary use case and what product was used.
+
+**Aida Knezevic:** So, yes, I mean, as you know, we can, we'll use the case studies and the content that's relevant for it.
+
+**Aida Knezevic:** But, you know, as any new case studies come out, we can incorporate them as well.
+
+**Philipp Denisenko:** So it's not like you're going to pull the case study for Netrix Auditor when writing about, let's say, identity security.
+
+**Philipp Denisenko:** Yeah, yeah, that's not something that we want to do.
+
+**Aida Knezevic:** Yeah, we want to keep the case studies contextually relevant for the piece that we're covering.
+
+**Aida Knezevic:** Cool, cool.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** So we have like multiple article generation pipelines here.
+
+**Aida Knezevic:** Some of them are experiments.
+
+**Aida Knezevic:** So, for example, if we start generating content and we don't think it's good, we will create an experimental pipeline to test different inputs to see if it's going to improve the quality of the output.
+
+**Aida Knezevic:** So, sometimes we'll have multiple pipelines here.
+
+**Aida Knezevic:** For example, you can see that we have different types of pipelines for creating competitor articles versus just comparing, like creating regular articles.
+
+**Aida Knezevic:** We use this pipeline whenever we're talking about your alternatives because these articles have to follow a very specific structure and they have to follow specific rules when it comes to talking about your competitors.
+
+**Aida Knezevic:** And if we loaded all of that into a single pipeline, the AI would just get overloaded with context and the output just isn't as good.
+
+**Aida Knezevic:** So, we have found that it's best to separate these types of workflows.
+
+**Aida Knezevic:** For example, this other agentic article generation workflow, it includes a step that tells the AI not to mention your competitors.
+
+**Aida Knezevic:** So, if we apply that rule to these articles, it's just not going to work.
+
+**Aida Knezevic:** It's going to remove all the competitor mentions, so it's not going to be as good.
+
+**Aida Knezevic:** So for the agentic article generation step, we have multiple workflow.
+
+**Aida Knezevic:** We have multiple steps here, and it breaks down the process of creating an article bit by bit.
+
+**Aida Knezevic:** So it starts with the topic.
+
+**Aida Knezevic:** So we provide it with an input here that is, hold on.
+
+**Aida Knezevic:** So we give it an input, which is the title of the article, and we provide it very specific article.
+
+**Aida Knezevic:** We provide it with, like, specific direction.
+
+**Aida Knezevic:** So, for example, we say, write an informational article that targets this keyword, this topic.
+
+**Aida Knezevic:** These are the topics that you need to cover.
+
+**Aida Knezevic:** These are the primary keywords, the secondary keywords.
+
+**Aida Knezevic:** And this is so that we constrain the AI to just specific topics so that it knows what is important.
+
+**Aida Knezevic:** The cover for SEO.
+
+**Aida Knezevic:** Comprehensiveness, like comprehensive content is incredibly important for search rankings, as you know.
+
+**Aida Knezevic:** So we just want to make sure that we provide the information here that it needs.
+
+**Aida Knezevic:** And then for the researcher, so what the research step does is it will take the title of the article, the direction that we gave the article, and then it will create a list of questions that it needs to answer in order to create a very comprehensive research document that it's going to use to generate an article.
+
+**Aida Knezevic:** LLMs have a problem with generating high-quality content when they don't have enough information.
+
+**Aida Knezevic:** So the researcher that we use for your content is Tavili.
+
+**Aida Knezevic:** We used to use perplexity way back in the day, but perplexity isn't as advanced in many of the research workflows.
+
+**Aida Knezevic:** So we use Tavili, we also have EXA, which is for highly technical topics, but Tavili has proven to be a really good researcher, and it finds high-quality information that we can easily fact-check.
+
+**Aida Knezevic:** And the output of this step is a research document that answers each question, for example, like, what are the specific requirements and recommendations for least privileged access control?
+
+**Aida Knezevic:** in different frameworks.
+
+**Aida Knezevic:** So then it provides, like, an overview of each framework and the requirements.
+
+**Aida Knezevic:** And it does that for every question that it asks.
+
+**Aida Knezevic:** And then it drafts the article using, like, it follows the writing guidelines, it takes into account all the artifacts, and it takes the information from the researcher to draft the article.
+
+**Aida Knezevic:** So, like, at this step, we will, like, go through the article and make sure that it's...
+
+**Aida Knezevic:** Following like the rough outline that we gave it, but we will also like add internal links, add source links.
+
+**Aida Knezevic:** And this is very important because it takes the source links from the research step and inserts them here.
+
+**Aida Knezevic:** However, we manually check every single external link that we like add in the article.
+
+**Aida Knezevic:** So you will never get an article where we didn't check the external links because sometimes the AI still gets like gets the links wrong.
+
+**Aida Knezevic:** It's just it's a piece of technology.
+
+**Aida Knezevic:** So it's we really don't trust it blindly with stats, with like citations.
+
+**Aida Knezevic:** We really double check all of those things.
+
+**Aida Knezevic:** So we do also a final proofread step.
+
+**Aida Knezevic:** And what this step does is it will take the draft and then grade it against the proofreading checklist that we have.
+
+**Aida Knezevic:** And the proofreading checklist ensures that the draft followed the writing guidelines.
+
+**Aida Knezevic:** And also followed the proofread items.
+
+**Aida Knezevic:** Mariel, what you were mentioning in the beginning, like don't use contractions.
+
+**Aida Knezevic:** That's something that we can add to the proofreader checklist.
+
+**Aida Knezevic:** And then it's going to go in and fix.
+
+**Aida Knezevic:** The reason these two steps are broken up is that because there's a context limit to all instructions that you give to an AI.
+
+**Aida Knezevic:** So it's better to just like have two different steps because if you try to do everything at once, it's just not going to work.
+
+**Aida Knezevic:** Then the step is to add internal statistics from the document if relevant, also any case studies that are relevant.
+
+**Aida Knezevic:** And then it generates the SEO tags, which we like, it's sometimes we will take this, sometimes we won't, depending on the output.
+
+**Aida Knezevic:** We find that sometimes like the meta descriptions can be a little bit too long.
+
+**Aida Knezevic:** But sometimes like the meta title also needs to be changed depending on what we're trying to target with a specific keyword.
+
+**Aida Knezevic:** And then we will copy the final draft and then read it like from top to bottom.
+
+**Aida Knezevic:** And then we send it to you for your review.
+
+**Aida Knezevic:** So that's kind of the high level overview of the process in Atlas.
+
+**Aida Knezevic:** Like I said, we have like a very, like our approach really is to continuously like take your feedback and try to build even better pipelines.
+
+**Aida Knezevic:** we even have an artifact here.
+
+**Aida Knezevic:** That's, for example, just hold on.
+
+**Aida Knezevic:** Let me find it like customer feedback.
+
+**Aida Knezevic:** So it just consolidates.
+
+**Aida Knezevic:** Like, for example, some of the feedback that Mariel provided, it's here as well.
+
+**Aida Knezevic:** So we're just trying to constantly like have all of this information in one place so that you don't have to repeat yourself every time you're reviewing an article.
+
+**Aida Knezevic:** Any questions?
+
+**Aida Knezevic:** So it will, like, for example, in the case of compliance, it will first look at the, like, the websites that are considered the authority for compliance.
+
+**Aida Knezevic:** So, like, it might look at .gov websites, or if we're covering, I mean, we had some clients in the healthcare space, so we would constrain the researcher to specific journals in the medical community.
+
+**Aida Knezevic:** So we can constrain the researcher depending on the use case.
+
+**James Levin:** And then one question I have is, once this is dialed in, and I would imagine at this stage with all the back and forth we've had, we're pretty far along the path of that.
+
+**James Levin:** But what would be the kind of general sense of how much of this is essentially the agents doing what they need to do and daisy-chaining the agents and what percentage is kind of human in the loop?
+
+**James Levin:** And I say that with the preface that, like, I don't want a huge percentage of human in the loop.
+
+**James Levin:** I what I'm trying to
+
+**Aida Knezevic:** Retrieved.
+
+**Aida Knezevic:** But, yeah, that's kind of what we're looking at right now.
+
+**James Levin:** Got it.
+
+**James Levin:** That's helpful.
+
+**James Levin:** Thank you.
+
+**James Levin:** Apologies because I came late.
+
+**John Knightly:** Did you already cover, is there a place inside the tooling where I can see, I know we've only published three articles, but where I can see where those are performing.
+
+**John Knightly:** I know it's really early, but.
+
+**John Knightly:** Yeah, yeah, yeah.
+
+**John Knightly:** No, we have, yeah, we have a Looker dashboard set up.
+
+**John Knightly:** We just need to change.
+
+**Aida Knezevic:** We, you have two Google Search Console properties and the Looker dashboard is connected to the wrong one.
+
+**Aida Knezevic:** So we just need to change that and then you'll be able to see it.
+
+**Aida Knezevic:** I did share this early with the team.
+
+**Aida Knezevic:** So this is so far like the performance traffic for the three articles that we published so far.
+
+**Aida Knezevic:** So the first article was published on the 9th of February and then the other two were published last week.
+
+**Aida Knezevic:** So you can see like when they were published, how like the clicks of.
+
+**Aida Knezevic:** We've been going up and the page that's doing the best right now are Shadow AI Security Risks.
+
+**Aida Knezevic:** And we're publishing an additional four articles this week.
+
+**Aida Knezevic:** So those will go live soon as well.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** We have five minutes left.
+
+**Aida Knezevic:** Any questions or anything else I can help with?
+
+**John Knightly:** I know I went into, I think it was the competitive, the data security or DSPM competitive lists and suggested a few changes.
+
+**John Knightly:** I don't know how hard those are to implement if we swap out a few of the competitors.
+
+**John Knightly:** I know Dirk is out with a, he's not feeling that well.
+
+**John Knightly:** So I don't know if you're getting enough input to proceed.
+
+**John Knightly:** I know we want to get those four articles out.

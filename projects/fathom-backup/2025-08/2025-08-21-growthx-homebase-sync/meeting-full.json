@@ -1,0 +1,3943 @@
+{
+    "title": "GrowthX<>Homebase Sync",
+    "meeting_title": "GrowthX<>Homebase Sync",
+    "url": "https://fathom.video/calls/386092391",
+    "created_at": "2025-08-21T14:35:59Z",
+    "scheduled_start_time": "2025-08-21T14:00:00Z",
+    "scheduled_end_time": "2025-08-21T14:30:00Z",
+    "recording_id": 82041853,
+    "recording_start_time": "2025-08-21T14:01:26Z",
+    "recording_end_time": "2025-08-21T14:35:53Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "In the past two weeks, so I'm glad it's finally over, like as of Monday, and then we just work on executing stuff now.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, so what is, I'm both, because I think it helps us, but also I'm super curious on what a larger team like yours is doing.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Like what does that all entail for you all?",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Like what are you auditing and what's the kind of order of operations after?",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "So it's more of typically after three to four months of being with Homebase, we basically do sort of like a share out of what we learned, like what we see on the site.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "And if there's any sort of like alignment of what the team saw before and then sort of new ideas, that's where myself and Sonia had the opportunity to kind of expand and extract that and share it to the team.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "So it's a lot of it, it's like not necessarily like net new, but I would say like mainly from like a technical perspective that we don't really get to look at from a day-to-day basis.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "That was the opportunity to do it.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "And so, yeah, pretty cool.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Nice.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then, like, next steps, is it more on the, like, technical side and, like, development work that you need on the technical front?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Or is it, like, now we have all this content that needs updating and refreshing?",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Probably a combo.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But, like, what's the, yeah, how does that get away?",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, two sides of the coin.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Sorry, I know I jumped in late here.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Hello, everybody.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But I'm assuming Mark is sharing about our audit work.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But, yeah, we kind of had, like, the technical half of things, the content side of things, and that feeds into, kind of, our roadmap for the rest of the year and, like, lays the groundwork for even how we'll think about, kind of, like, going into next year.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But, yeah, we have, like, technical audit fixes and things that we want to, kind of, like, bring up to the standard of our competitors.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And same with content, where we have, kind of, these different buckets of things that we're getting ready to, like, retire and redirect, things that need a refresh.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And then some of our, like, top performers that we want to make structural changes to and test things on.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And kind of, again, like, push to that next level where we're doing things that we haven't, like, haven't experimented with before to see how we can kind of, like, drive different engagement.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So, yeah, led to a whole bunch of different findings.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That sounds, super useful and definitely interesting for the content SEO nerds like us.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So, uh, what, you know, hope to hear more on that.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I think that came up, I knew we were aware of some of that, especially from our last two calls, right?",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so this is really helpful and whatever you would like to share slash, like, however that, and when in the timeline, I that, you know, will let you take the lead to some extent, but definitely keep, you know, checking in on that.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And, um, also, you know, you already, you have a big team and you've done plenty already, but if you want additional eyes or to bounce ideas off or something like this meeting, we, I'd be happy to the Slack channel, if it's something quicker, anytime, those type of things like have done this.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It's at different scales of like Series A or ActiveCampaign with like tons of different moving parts and things.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so maybe there's like pitfalls that I can help you avoid or even, I don't know, like maybe there'll be things that we've never seen.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I don't know that exactly where that'll fit in, but feel free to use us as a resource.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "That sounds good.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And like this week we've been, like I've been seeing kind of like feedback trickle in because we presented on Monday and we had our leadership team kind of like leave some comments.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So maybe as a follow-up to this, we can also just like share some of the like key slides and takeaways that are like relevant to the work that we're doing together as well.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And just because the presentation itself was pretty massive.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So maybe we can just like kind of download.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, totally.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Whatever is relevant.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "That's awesome.",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Do you ask Carrie joining?",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, Carrie's going to join a little bit late.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I think they might just be coming from another meeting this morning.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So they said they'll come in just about like halfway through our meeting.",
+            "timestamp": "00:03:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So let me.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Turn my screen and we can dive in.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "So Glossary is still up climbing.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And the Looker dashboard, we were hitting some bumps with it, but I'll share it to the Slack channel because I think we were on the edge of that being smoothed out.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And on the note of the Looker dash, if you have anything specifically you guys are wanting to get a more granular view on, just let us know.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Our team can kind of work towards really customizing that for y'all.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And can you recap maybe for us so far, Jess, what some of the key metrics you are pulling into that dashboard are?",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Let me pull it up really quick.",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, I've got it, Jess.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Oh, you do?",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And I can put my brain towards like, what else do we want to get in there for you guys?",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Of course, nothing's working.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Oh, that's all good.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Even if we just see.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So we have like, yeah, let me, so this will, this one, it is working.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Why isn't that?",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But clicks and impressions from non-branded sources.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "We filter out anything, Homebase, any Homebase keywords here.",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so these are, yeah, trend graphs and then weekly summaries here.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Oh my gosh, Jacob, I know Solomon was literally just working on this, so.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, maybe I'll even just check if any, if this is like a Looker thing or if this is a.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Also from our side, Looker can be so slow to load sometimes.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So I'm not worried.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "It's more, it's more what those buckets are.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "For sure.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So there's this report overall.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So then we have, this is the same type of thing just with clicks and impressions, but not branded, pulled out.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then cohorts, what we should have up.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And this is one of those additions that should have been changed already, but any of the, so we can sift here, the stuff we've done for you, like pull out any non-growthx URLs, and then also segment to glossary, blog, but then even within blog, any of the different clusters.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So anything that's tagged in Airtable, cluster-wise, we should have that.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It's not here right now.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So that should be an addition.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I figured it out.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "You're on the wrong one.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Let me drop it in the Slack.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Here you go.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "That would make sense.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "And remind me, we, is it just GSC data right now, or are we stitching it with other data sources?",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Were we able to connect with?",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "We've been struggling with the connect to GA4, and I know Carrie, they were looking into if there was any permission blocking happening.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Got it, got it.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Did that one work for you, Jakub?",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Just had to get the right Gmail.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, but it should be GSC.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "be in GA4.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "GA4.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That's our kind of out of out of the box for clients and we make customizations with data as necessary on top of that.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So yeah, here we go.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Here's our clicks impressions over time.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And like for our purposes, we typically just turn off our non-growthx because obviously there's such a huge site, some sites are different here, landing pages.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So using this time filter, you can see clicks in impressions based on those two time periods and the previous time period before that, an average position for all the queries that kind of sum up to that post.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And Mark, just for your knowledge, we were going to link to y'all's amplitude, but there's a lot of protections between to make that.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "This is the one that was like, we will need a whole more complicated security process.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "It's typically hard.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "I had that same experience when I did Adobe Analytics as well, just because it's such proprietary data coming from a different data source.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "So, yeah, it's really hard to connect.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But no, it's good start.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Non-branded is the same thing.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "We've just pulled out all of the branded mentions.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Honestly, it feels a little duplicative, but turning off here, the cohorts, this is slightly different.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So we've got it, this is the breakdown across the clusters that we've created for, or like we've determined together.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So payroll, scheduling, et cetera, and then turning off again, the growthx URLs helps here to get a better understanding.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "The landing page level, this is where you can see clicks, impressions, click through right.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But then if you're looking at a specific URL, you just want one slug putting it up here.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "That's where we can look at that over time and isolate down to a single URL where these other tabs are more at the more macro folder or cluster.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then query, excuse me, remind myself of what's on this, it's positions based on specific queries.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So it's very similar to this, but you can look at it's the query level rather than the landing page.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then we should have a tab for LLM referral traffic as well.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And that's being added.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So both at the macro and then the URL specific level.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Okay, this is looking great.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then I think too, the other piece that's missing, Jakub, is the glossary tab, like separating.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, that's the Homebase specific one that we are still waiting on, yes.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then Mark, when we get the, like, how to calculate pages live, we'll have that tab.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then how to start a business pages.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "We can have all of, or I would think those pages would probably live in the same tab.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then you could filter out between performance, but.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, so that's, so we're really close.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, it's exciting to see.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I know the team will have different, whether like we have other things that like we want to add to it or like specifically we want to look at.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "For myself, I know like something I'd love to get out of it when we have the glossary data in there is to be able to kind of highlight those like refresh opportunities, like any like performers and like kind of batch those out to see, you know, like what have we published?",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Maybe that's been like up for a little while.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "That's maybe not getting as much volume as we think it's supposed to.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, so that'll be really exciting to see.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "And so do have access to this now or is it still on the building mode?",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Sorry, one more time.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Do we have access to the Looker studio now?",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I mean, we can, I'll drop it in Slack after the call.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "you guys can view it, just know that it's, we're still very early days V1.",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Totally cool.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Can I make one point on the refreshes, Sonia, I was looking at this as well, and then paused to see where you all came through with some of that, but what I was, like, I've seen this across other clients, and I was validating, and at least spot-checking it looked the same for you all, where, okay, I'm actually just going to share my, like, GSC exports, to help visualize, but, so, like, historically, for me, you know, it's much easier, you, like, find where some clicks fell off, and then say, like, whatever's lost traffic, let's go refresh, especially if we published it more than six months ago, but we're finding with a lot of folks now, or a lot of content, is if you're seeing clicks down, but impressions, either steady or up, you're actually being hit by more of, like, an AI overview at the top, and, like, there's very little, we can, I mean, there's nothing, but it's, like, the results, the best is there.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "The rest of our lives and there's nothing we can do.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "One of Jess and I's other clients like lost like 16% of traffic.",
+            "timestamp": "00:12:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "was one blog with AI overviews taking away half the traffic.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "was like nothing we can do here.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so that's, we would need, I don't think that like this should stop us.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But when I'm thinking about the refreshments, like I'm doing this plus looking at these impressions and honestly spot checking like 20 or so blogs on like either side of that fence.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "It's like if impressions are down, I was seeing like old published dates and then I was going to SEMrush and seeing like their estimated traffic being down too.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So that's a sign of like we're either losing keywords or losing positions.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so to me, it's more of like triangulating.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So if you're doing any of that, like outside of our work, I'm just like trying to call that out because I've seen clients be like, we refresh this, this, and this and nothing's happening.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Like there's nothing we can do here.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So just you may be able to cross that already, but I've just seen a lot of wasted hours I feel like recently.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "That's a really great point.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And we've been, we've been doing the exercise internally of like thinking about our framework for identifying refreshes.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And I know that it's.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "It's something we've talked about a little bit with like the glossary and at what point we should look at refreshing.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And I totally agree.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Like, I think that there's like a shift in mindset from just like has the volume or like the clicks volume on this drop to like what's happening with impressions and also like qualitatively.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Like, what are some of the things that we're looking out for that flag it for a refresh?",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Um, so would love to just like keep that conversation going.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And I think as we like put together some of our criteria for like the blog as a whole, maybe it can also apply when we're thinking about the glossary and the other programmatic pages.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Um, but yeah, I totally agree.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "It's kind of like not so much about the clicks anymore and more these, these secondary factors.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, for sure.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And I, so I shot Phil a note on the blog, thinking about the blogs is the URL date.",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I think that's like always a good like fourth, you know, factor on refreshes, but it seems especially important.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Jordan is like, we're getting at least anecdotal data that LMs aren't citing things over eight months or 12 months or whatever, you know, we're like micro study we're kind of seeing, but I don't know what's going to happen is like, how does that impact like a glossary that doesn't have a date on it?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I think that's like, it's just something to throw out for everyone to keep an eye on and like, one, if you see anything, but two, if we're noticing like drops here, things aren't working as well, like considering should there be a date?",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Should there be some of this other information, like how the things that we wouldn't have done historically, I don't know that answer, just to be very clear.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "just like something that's on my brain as I'm looking at the content and how things might be changing.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So yeah, I'm with you.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I wonder if there's like a couple examples that we can like pool and keep an eye on of like sites that we feel like have a really strong glossary or like tend to be like a really well performing site and kind of look at it from like both the content and structure, like technical side.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And, yeah, I do feel like our thinking for refreshes is more of that, like, combination of, like, the qualitative side of things, too.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "With just, like, some of those structural things, like, we've been doing with the TLDRs in the blog, like, oh, there's this, like, piece that's missing.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So, yeah, I might do some digging around that as we, like, continue to think about refreshing.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So, I'll share if I come across, like, just doing URL, like, site-wide, like, kind of analysis, or if I, anything comes to mind, I'll shoot that and, like, let's keep that chat on, like, good glossary examples, because I think that it's a big question across these two groups.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then, sorry, this last question, but do you, are you all doing, like, any other, like, like, LM tracking or using a Profounder?",
+            "timestamp": "00:15:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "You are, okay.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "it's, like, that's just, yeah.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Sorry, yeah, was just going to say, we utilize Profound right now.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Like, I wouldn't say, like, we're on the tool.",
+            "timestamp": "00:15:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Like, so consistently, just mainly, like, analysis based on, like, the prompts that we've been sort of, like, testing with.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "But we've also, like, we're able to kind of utilize, I think it's analytics.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "I'm not sure if we pull it from there, but just, like, overall traffic from, like, LLM to our site.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "And we are seeing JetGPT drop quite, like, drastically in the past, like, month.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "But that's also across, like, all industries.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "We just found that out yesterday, too.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "So it wasn't anything that we did on the site, which is great.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Yeah, I saw a bunch of posts about that in the last speaker, too, as well.",
+            "timestamp": "00:16:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so that's tracking.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But, yeah, that's good to know.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "think that's, like, the last piece.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So, you know, like, qualitative, but also, like, if those clicks are gone, some of them are going somewhere else.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And, like, as long as you're across some of that, at least, like, that's a \u2013 we're not ever going have that full picture.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I think now we're \u2013 so, okay, cool.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay, well, on that note, so the TLDRs.",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Um, that workflow is done and like refined in my opinion.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, took a look at those three, three examples.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I didn't, uh, like drop in copy edits yet.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I think there's just like very, very small things around like capitalization and things like that.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But like, otherwise, I think those are looking aligned to like the structure that we're, yeah, I know, I know this has been like a lot of back and forth.",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "No, I'm just like, I'm so glad because that workflow, like we had like just getting it developed.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I was like, I was worried about it.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then finally getting it like tuned, like your feedback was so helpful.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Like the doc you sent, like getting that worked into the artifacts and they kind of like, just, yeah, we, I'm excited to hear that we are very close.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So I think I'll drop in just like the last fine tooth comb copy edit, uh, things, um, and flag any, anything else.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But I think that's much more aligned to what we want those to look like.",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Um, and then.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I think you had a rollout suggested there of five, five more to come.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So, yeah, for the next batch, I'll just do, like, a spot check again as well and, like, flag anything that maybe is inconsistent.",
+            "timestamp": "00:18:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But then, yeah, I think we can do, like, a batch of them.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, so from here, like, spot check these ones, let me know, like, feel free to go hard on it, and then the next five we'll do the same thing.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then from there, like, the idea is that, like, we, like, if it's the same kind of, like, this shouldn't be capitalized, or we're seeing this, like, same thing, like, we'll go rework the artifact, and then, like, that problem will be solved.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And hopefully these, like, hopefully within the next, like, week, we are to a point where, like, you're looking at them, you're signing off, and they are done.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And there shouldn't be massive edits, there shouldn't be massive changes, we should, like, with this new workflow, we'll be able to get it to, like, signed off.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "of that's Woo.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "no, living And I",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "That being said, what's the best route for publishing?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Do you want us to go in and manually publish them?",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Do you want that in your court?",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then the second question being, as we move through these, quite a few have dates.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "So do you want us to also update the dates?",
+            "timestamp": "00:19:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Because if we're going in and doing it, we can just change those to 2025.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Hmm.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then I don't know why.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "One note on the dates is we just won't want to change the URL.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But the like h1, for example, that would be chill.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Change the h1, not the URL.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, because the URL would require a redirect, but the h1 is what's actually like red.",
+            "timestamp": "00:19:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I will let everyone know.",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then, yeah.",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "So we'll just go in and add those and push them live as soon as you've signed off.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Approved those?",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I think so, yeah.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:20:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, so, and then you approved these.",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I saw a note.",
+            "timestamp": "00:20:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I'll go and address that.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Because I think you said, it duplicates you were concerned about?",
+            "timestamp": "00:20:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "For the glossary terms?",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "For the new terms, all good.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I think there was only like one or two that I filtered out.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:20:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But I think otherwise the new batch looked good for hiring.",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Oh, oh, it was the category tags.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So I think Victoria flagged this as well.",
+            "timestamp": "00:20:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "With the category tags, not within the Airtable itself, but actually within the glossary, the two of us were noticing that we had some tags that just say hiring and some that say hiring and onboarding.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "So just kind of consolidating those so that it's consistently like just hiring.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I agree.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I agree.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I think was one other one that was like that, where it had the option that was just a single word and the option that was like this and this.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I think maybe HR and compliance was also like that.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Is the preference that they just match the product buckets on the website?",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Like whatever is there, we match that term?",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, I can give the list one more time.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I mean, I think we have it.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I'm not concerned.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "yeah.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Wanted to make sure that like that was the preference.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "It should match the product buckets there.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Okay, cool, cool.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, then we have that list.",
+            "timestamp": "00:21:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Don't worry about it.",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay, and then Mark, could you give us access to this doc?",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, I think.",
+            "timestamp": "00:21:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Okay, I'll give it to you as well.",
+            "timestamp": "00:21:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "I'll give it to Becerra.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "She's the ideal person for that.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay, okay.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "But yeah, I'll grant you access.",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "then...",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "As a content writer, Jess?",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Are you sure?",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Say what?",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "We don't want a new life as a content writer?",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Are you sure?",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "We're not right now.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you, though.",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But yeah, well, we kind of...",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I just saw this right before the meeting, so I have not dived in, like, very deep to the comments.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I don't...",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "My first glance, my gut instinct is that, like, these are very minimal, and we will, again, apply them to this specific workflow, and, like, these should be, you know, a same thing, kind of just eyes on it, make sure it's right, like, make sure you're happy with it, and then we'll add them to the Airtable.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "On that note, is there any timeline on when the how-to-calculate pages might go live and or when these might have a home?",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Yeah, so we're actually in the process of creating...",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Our dev is working on it, like, this week to create the template.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "Also the hub for them.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "So that's coming up like very, very soon.",
+            "timestamp": "00:23:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "So once we have like, yeah, once we kind of like finish off with the content that those should be ready for up.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, cool.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "That's exciting.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then the last thing I have on my list for y'all is the artifacts.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I will say like, if you guys are happy with what's coming out of the pipeline and you don't have like, and this is too heavy of a lift.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Like that's okay.",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But when you do have time, these are feeding both of the workflows that were, or all three, the glossary, the TLDR and how to start a business.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "So like, it's probably good for you guys to have eyes on them and make sure there's not anything glaring.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But I just wanted to flag, like if we're all moving in a good direction, like it's not a high stakes thing.",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I know you guys have had a lot on your plate.",
+            "timestamp": "00:23:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, I know.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I think Carrie, know you wanted to look at these ones.",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I want to get in there too.",
+            "timestamp": "00:23:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I probably won't get to it today.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "But I'll try to get in there on Monday and just give it another look and see if I can see anything there.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Jakub, do you have any updates on your side?",
+            "timestamp": "00:24:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "My mouse is, like, jumping across the unmute.",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I wouldn't stop on it.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So, no, I was just, we started that call.",
+            "timestamp": "00:24:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "was working through the, like, refresh targets and doing some of that.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I would want those published dates and I asked Phil for that over Slack.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And I'll let you know if that follows.",
+            "timestamp": "00:24:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I also wanted to make sure that aligned with, like, before going through this whole rabbit hole to know where you all were, that was still a worthwhile exercise with all the audit you were doing.",
+            "timestamp": "00:24:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So that was, like, the project that I was going to, that's in motion, but wanted to ensure that that's still useful for you all since we hadn't talked in a couple weeks.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But otherwise, that's, like, that's the big thing I was working on next.",
+            "timestamp": "00:24:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:24:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "And then, yeah, do you, how about.",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "If all, Homebase, anything we should know?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay, one other project, once we're done the how to start a business in X, one of the things Mark and I have been talking about, we have not had a chance to like fully talk about it yet.",
+            "timestamp": "00:25:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But it's kind of like a question center for small business owners that are starting to run their businesses.",
+            "timestamp": "00:25:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So this would be essentially we're launching a like general portion of our site that will be targeted towards starters.",
+            "timestamp": "00:25:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So our programmatic SEO sections will be there.",
+            "timestamp": "00:25:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "We'll be creating some SEO video.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "We have like articles that will be featured.",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "We're doing some brand articles that are interviews to small business owners, et cetera, et cetera, et cetera.",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "One subsection of this would be like this question answer section, which I'm hoping would also lend itself to LLM visibility.",
+            "timestamp": "00:25:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "question, which I would say T",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Um, especially given like the degree to which alum seem to be prioritizing brands that just provide answers, no brand.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Um, so essentially that's kind of what's next on roadmap from my POV, but no action item, just warning.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Seems kind of like inverting or I don't know if that's the right word, but like FAQs, right?",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Just like taking what you would normally do as an FAQ and then isolating it to a single URL and probably extrapolating it a little bit longer than like an FAQ at the bottom of an article.",
+            "timestamp": "00:26:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And there's like some problems there because we probably don't want to like, we probably don't want to do like thin content as individual pages and some of them similar to the glossary I imagine will like lose enough content to make a full page.",
+            "timestamp": "00:26:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Um, so that is also kind of like one of the question marks around this is like, Great.",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Thank Bye.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "What is the best possible medium for it to gain traffic?",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Because I feel like if we do all of the questions on one page as dropdowns in a traditional FAQ, it won't rank because of the multi-intent.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But if we do individual pages, we may not have enough content for it to not be thin content.",
+            "timestamp": "00:27:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And so, Mark, I'll let you noodle on that a little bit.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "If you guys have any thoughts there, too, I'm more than happy to hear it.",
+            "timestamp": "00:27:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But yeah, you're correct, Jakub.",
+            "timestamp": "00:27:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That's a very long way of saying you're correct, but I don't know exactly how you want to say it.",
+            "timestamp": "00:27:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I'm trying to find a post on it like two years ago, and it's definitely we're in a different world.",
+            "timestamp": "00:27:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But I found a glossary that they were doing really well, and some of their pages would be like 65 words.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And they would still get like 2,000 estimated traffic to that.",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I do not know what that I will find that and I will like read like look at this and I'll share this over it somewhere in my LinkedIn.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Feed, but I think there's sometimes that shorter content can actually work, and this does feel like a glossary, but instead of just doing a term, you're doing the longer query that doesn't always fit in the glossary, but sometimes you see a stray where clearly an SEO person just said we're doing this one, so I think it makes sense.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And then I would think that you would like could even link over from like FAQs in the articles or other places to these longer pieces that should create a really natural like site architecture.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Do like, you know, the TLDR version and the FAQ on the blog page linking over to the extrapolated glossary length version on this new folder.",
+            "timestamp": "00:28:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I think it makes a ton of sense, and I don't know that I've seen an example, but yeah, it's super logical right away to me.",
+            "timestamp": "00:28:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, it's how we started this.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It's become something else.",
+            "timestamp": "00:28:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It's become something else now.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But basically, when I was at FreshBooks, we launched this hub that has just kind of become an...",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "SEO hub that kind of has a little bit of like overlap with the blog.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It's very, it's a little confusing, but none of us are there anymore.",
+            "timestamp": "00:29:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So as you'd expect here.",
+            "timestamp": "00:29:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Oh yeah.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I can even just share it.",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Oh, beautiful.",
+            "timestamp": "00:29:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "You're so fast.",
+            "timestamp": "00:29:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So this started out though, like you can see that first one, like what is a digital wall and how does it work?",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "What does net 30 mean on an invoice?",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "What simple definition for businesses?",
+            "timestamp": "00:29:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "What are the maximum and minimum PayPal limits and how to prevent them?",
+            "timestamp": "00:29:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "How much money can you deposit before it is reported?",
+            "timestamp": "00:29:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "There's T1 versus T4 tax form.",
+            "timestamp": "00:29:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "What's the difference?",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It's just kind of like a ton of questions that are relevant to small business owners who are invoicing clients.",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And this, we put out like a thousand pages in a year with humans.",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Like we have a whole newsroom situation at that time.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "It actually actually.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "actually.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "But from our paid budget to do it, and it may bank on traffic, and like things are different now, but I'm hoping that the question model still provides value.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, I think I found another example like this, Kerry, too, like during the audit with Gusto, like they, they're kind of almost like category pages, but, you know, they have a section of their website that's like how to do payroll for small business, and that's where they've compiled like those question articles, and then just content from their blog.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "That's like all just kind of a step-by-step, um, so yeah, I do think that there's like a really interesting structure to this.",
+            "timestamp": "00:30:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, I think this is, I think I agree with Jacob, it's a really logical next step, like, I think it, I think it would do really well.",
+            "timestamp": "00:30:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Um, I also think, yeah, just where we've gotten y'all's workflows to, I, it's, I don't, I don't imagine this would be a tricky.",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "No, this should be something that Atlas does really well, whereas other places it has struggled, this is like, this isn't the bread and butter, I would think.",
+            "timestamp": "00:31:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That's kind of what I was thinking too.",
+            "timestamp": "00:31:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Do you guys have anything else you want to flag or throw our way?",
+            "timestamp": "00:31:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "The last thing for me is I really want to get those AI overviews onto the blog.",
+            "timestamp": "00:31:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "The TLDRs?",
+            "timestamp": "00:31:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Yeah, no, no, the button.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Oh, oh, yeah, yeah, yeah.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "We're actually working it into the blog redesign, but if there's like, something MVP we could do on some of our like, higher value ones, I would, I guess not AI overview, AI summary button.",
+            "timestamp": "00:31:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Where it's like a plug into the page, yeah.",
+            "timestamp": "00:31:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:31:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "And one of the things I'm also trying to figure out is like, to what degree can we, like, is that something that's like,",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "I framed in, dropped in, to what degree can we control the branding?",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That's a question for me as well.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "So if you guys know anything on that front with anything you've done with anyone else, that'd be great.",
+            "timestamp": "00:32:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, I'll see if I can ask the one example that we've done and also see if anybody's implemented this since we've kind of like thrown it out to other clients.",
+            "timestamp": "00:32:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, didn't, I had that same kind of instinct, like, could you, like, prompt or push the, like, what that message is in ChatGPT, but I don't have an answer to that, but I'll see what I can come up with beyond what I've shared.",
+            "timestamp": "00:32:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So we'll, yeah, I'll come back to you with that.",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "That's the last thing for me.",
+            "timestamp": "00:32:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kerry McCreadie (they/them)",
+                "matched_calendar_invitee_email": "kmccreadie@joinhomebase.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Jacob, you're good?",
+            "timestamp": "00:32:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Me too.",
+            "timestamp": "00:32:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "I'm good at mine.",
+            "timestamp": "00:32:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And then, yeah, so the last update on our side is, um, I will be leaving GrowthX.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yes!",
+            "timestamp": "00:32:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yes!",
+            "timestamp": "00:32:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "This will be our last meeting.",
+            "timestamp": "00:32:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But I just wanted to let you guys know how much I've enjoyed working with you all.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And yeah, this was, you guys were such a fun account.",
+            "timestamp": "00:33:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I will miss it.",
+            "timestamp": "00:33:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "But wanted to share the news, especially while like you're not a weekly meeting.",
+            "timestamp": "00:33:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "So this was my last chance.",
+            "timestamp": "00:33:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:33:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Aw, Jess, thanks for everything and, and good luck with what's next.",
+            "timestamp": "00:33:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:33:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, it was a lot of fun.",
+            "timestamp": "00:33:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you for everything, Jess.",
+            "timestamp": "00:33:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mark Velarga",
+                "matched_calendar_invitee_email": "mvelarga@joinhomebase.com"
+            },
+            "text": "We learned a lot from you and it was awesome working with you.",
+            "timestamp": "00:33:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:33:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:33:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Y'all are great.",
+            "timestamp": "00:33:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "I mean, I learned a lot from you guys as well.",
+            "timestamp": "00:33:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And this is just, it's like Kerry, as you know, like being the OG GrowthX account, like it's come a long way and it's been really fun.",
+            "timestamp": "00:33:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "You did a lot of work here, Jess.",
+            "timestamp": "00:33:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah, but it was great and it was fun.",
+            "timestamp": "00:33:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And you guys are all so lovely.",
+            "timestamp": "00:33:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "And yeah, if you want to find me on LinkedIn, we can keep in touch, but yeah.",
+            "timestamp": "00:33:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank y'all.",
+            "timestamp": "00:33:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:33:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Let's stay connected.",
+            "timestamp": "00:33:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Yeah, for sure.",
+            "timestamp": "00:33:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Also, Sonia, I love your shirt.",
+            "timestamp": "00:33:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:34:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:34:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Well, thanks, y'all.",
+            "timestamp": "00:34:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "You guys will talk to Jakub and Kitana soon.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:34:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jess Scott",
+                "matched_calendar_invitee_email": "jess@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:34:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Bye, guys.",
+            "timestamp": "00:34:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Sonia Urlando",
+                "matched_calendar_invitee_email": "surlando@joinhomebase.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:34:11"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Sync between GrowthX and Homebase teams to discuss ongoing SEO projects, updates, and future plans.](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Homebase completed a comprehensive site audit, informing their roadmap for the rest of the year and into next year](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=21.0)\n  - [GrowthX is finalizing a Looker dashboard for Homebase, providing detailed SEO metrics and insights](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=60.0)\n  - [TLDR workflow for blog posts is refined and ready for implementation](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=197.0)\n  - [New content initiatives discussed, including a Q\\&A section for small business owners and AI summary buttons for blog posts](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=549.0)\n\n## Topics\n\n### Site Audit and SEO Strategy\n\n  - [Homebase completed a thorough site audit, analyzing technical aspects and content](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=21.0)\n  - [Findings will guide their roadmap for the rest of 2025 and into 2026](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=32.0)\n  - [Focus areas include technical fixes, content refreshes, and structural changes to top-performing pages](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=44.0)\n  - [Team is developing a framework for identifying content refresh opportunities](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=613.0)\n\n### Looker Dashboard Development\n\n  - [GrowthX is creating a customized Looker dashboard for Homebase](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=60.0)\n  - [Dashboard includes non-branded clicks/impressions, cohort analysis by content clusters, and landing page performance](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=429.0)\n  - [Still working on integrating GA4 data and adding Homebase-specific tabs (e.g., glossary performance)](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=401.0)\n  - [Team discussing additional metrics to include, such as refresh opportunities for glossary content](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=613.0)\n\n### TLDR Workflow and Content Updates\n\n  - [TLDR workflow for blog posts has been refined and is ready for implementation](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=197.0)\n  - [Team to review and approve final edits before rolling out to more posts](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1043.0)\n  - [Discussion on updating publish dates for refreshed content (H1 headers, not URLs)](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1174.0)\n  - [New glossary terms approved, with minor adjustments needed for category tags](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1237.0)\n\n### New Content Initiatives\n\n  - [Homebase planning a \"question center\" for small business owners](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1504.0)\n  - [Considering structure (individual pages vs. FAQ-style) to balance SEO potential and content depth](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1628.0)\n  - [Exploring implementation of AI summary buttons on blog posts](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1895.0)\n  - [Team discussing potential for controlling branding and messaging in AI-generated summaries](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1921.0)\n\n### LLM and AI Impact on SEO\n\n  - [Noted significant drop in ChatGPT referral traffic across industries](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=722.0)\n  - [Discussing strategies for adapting content to AI-generated overviews in search results](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=722.0)\n  - [Considering date visibility on content to potentially influence LLM citations](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=840.0)\n\n## Next Steps\n\n  - [GrowthX to share Looker dashboard access with Homebase team](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=652.0)\n  - [Homebase to provide final copy edits for TLDR examples](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1029.0)\n  - [GrowthX to implement approved TLDRs and update publish dates on refreshed content](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1200.0)\n  - [Homebase team to review content generation artifacts when time allows](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1439.0)\n  - [Jakub to continue work on refresh targets, pending published dates information](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1460.0)\n  - [GrowthX to research examples and best practices for AI summary buttons on blog posts](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1933.0)\n  - [Teams to stay connected on LinkedIn following Jess's departure from GrowthX](https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV?tab=summary&timestamp=1967.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Add final copy edits to TLDR examples, focus on capitalization\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:17:32",
+            "recording_playback_url": "https://fathom.video/calls/386092391?timestamp=1052.9999",
+            "assignee": {
+                "name": "Sonia Urlando",
+                "email": "surlando@joinhomebase.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Grant GrowthX access to shared doc (likely via Becerra)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:21:48",
+            "recording_playback_url": "https://fathom.video/calls/386092391?timestamp=1308.9999",
+            "assignee": {
+                "name": "Mark Velarga",
+                "email": "mvelarga@joinhomebase.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Review artifacts for glossary, TLDR, how to start business workflows on Monday\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:23:46",
+            "recording_playback_url": "https://fathom.video/calls/386092391?timestamp=1426.9999",
+            "assignee": {
+                "name": "Sonia Urlando",
+                "email": "surlando@joinhomebase.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Find/share LinkedIn post re: 65-word glossary pages ranking well\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:27:32",
+            "recording_playback_url": "https://fathom.video/calls/386092391?timestamp=1652.9999",
+            "assignee": {
+                "name": "Jakub Rudnik",
+                "email": "jakub@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Research AI summary button implementation, branding control for other clients\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:32:02",
+            "recording_playback_url": "https://fathom.video/calls/386092391?timestamp=1922.9999",
+            "assignee": {
+                "name": "Jakub Rudnik",
+                "email": "jakub@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Kerry McCreadie (they/them)",
+            "email": "kmccreadie@joinhomebase.com",
+            "email_domain": "joinhomebase.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Kerry McCreadie (they/them)"
+        },
+        {
+            "name": "Bisera Stankovska",
+            "email": "bisera@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jess Scott",
+            "email": "jess@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Jess Scott"
+        },
+        {
+            "name": "Mark Velarga",
+            "email": "mvelarga@joinhomebase.com",
+            "email_domain": "joinhomebase.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Mark Velarga"
+        },
+        {
+            "name": "Sonia Urlando",
+            "email": "surlando@joinhomebase.com",
+            "email_domain": "joinhomebase.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Sonia Urlando"
+        },
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Jakub Rudnik"
+        }
+    ],
+    "recorded_by": {
+        "name": "Jakub Rudnik",
+        "email": "jakub@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/U623yq-SECZ5C-JRxtsFd1RuEsh6FoiV",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

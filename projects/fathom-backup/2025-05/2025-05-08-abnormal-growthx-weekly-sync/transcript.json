@@ -1,0 +1,3618 @@
+[
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, so in general, we have these templates for images.",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So how we've been doing it is, and we've been experimenting.",
+    "timestamp": "00:00:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I think client one that we're actually rolling this out to.",
+    "timestamp": "00:00:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But how we do this is we first come up with a template, and then we kind of break it up into layers.",
+    "timestamp": "00:00:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So the background is kind of just like a fixed thing, and then the copy that goes on top we generate.",
+    "timestamp": "00:00:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then the LLM or AI kind of just like assembles the pieces.",
+    "timestamp": "00:00:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And the way it does it is just through HTML.",
+    "timestamp": "00:00:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So like, we're almost like creating a web page, and then we just like screenshot it at a high level.",
+    "timestamp": "00:00:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess that's how it's working.",
+    "timestamp": "00:00:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:00:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Obviously, like, when you try to put words into graphics, and a lot of the AI programs that you know, you end up with Yeah, it's horrible.",
+    "timestamp": "00:00:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Yeah, mean, like, obviously, I'm not in our creative, on our creative team, so I'll have to, like, have the design team speak to, like, how aligned or not aligned these are to our style guide and, you know, any changes that they want to see.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "But, like, at first glance, they look really good.",
+    "timestamp": "00:01:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:01:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, maybe, I guess, I'll send you, I guess, let me know what you need for my site.",
+    "timestamp": "00:01:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "If it's just a screenshot like this or, like, the raw files, I mean, the raw files are screenshots as well.",
+    "timestamp": "00:01:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But then whatever feedback, just let me know, and we hopefully should be able to edit these so that you're happy.",
+    "timestamp": "00:01:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So I guess just to clarify, like, there is a process here, and we can't just go ahead and publish, because we actually, let's see, we actually went through and started kind of, like, going through our initial batch content and just kind of inserting these in.",
+    "timestamp": "00:01:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So you want us to pause that until kind of the designers looking to prove these.",
+    "timestamp": "00:01:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I would say yes.",
+    "timestamp": "00:02:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I don't want speak for Jade, but just to make sure that they're going have our logo on them.",
+    "timestamp": "00:02:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I know I was supposed to put you guys in touch with them to review, so I'll make sure I do that.",
+    "timestamp": "00:02:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Okay, sounds good.",
+    "timestamp": "00:02:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "All right, so after this call, I'll just dump everything there, like the articles are putting them in.",
+    "timestamp": "00:02:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "They look really cool, though.",
+    "timestamp": "00:02:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Yeah, thank you.",
+    "timestamp": "00:02:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I had to make them look to your style.",
+    "timestamp": "00:02:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:02:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess, Sydney, do you want to go through the performance stuff?",
+    "timestamp": "00:02:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then I want to talk about, I guess we were talking about the images, but I also want to talk about FAQs you're having, and also LLM mentions and citations, which I know everyone is waiting to hear from us on.",
+    "timestamp": "00:02:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Yep, give me five seconds, just fine.",
+    "timestamp": "00:02:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Let's have this one.",
+    "timestamp": "00:02:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So for this week, I think I've shown you your Looker Studio report at some point, but I actually added a new tab here where you can see just specifically growthx performance.",
+    "timestamp": "00:03:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So this is mapped to just the URLs that you published from us, and I have the charts here as well.",
+    "timestamp": "00:03:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So you can see this is before the refresh, after the refresh, or sorry, the refresh of the migration that you guys did.",
+    "timestamp": "00:03:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "It looks like we're climbing back up, so those are good signals.",
+    "timestamp": "00:03:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "We're on week three, and hopefully each chart just keeps going up as we publish more and as we optimize more content at FAQs to your Glossary pages, all of that.",
+    "timestamp": "00:03:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So just a quick overview.",
+    "timestamp": "00:03:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Your blog impressions are, this is your overall blog.",
+    "timestamp": "00:03:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "It's still doing well.",
+    "timestamp": "00:03:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And the email that Adala forwarded shows actually did reflect that.",
+    "timestamp": "00:03:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Your blog is doing amazing.",
+    "timestamp": "00:03:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And then for GrowthX content performance, we have our impressions are going up.",
+    "timestamp": "00:03:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "ClickSairs are going there.",
+    "timestamp": "00:03:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "I noticed that when we did the migration.",
+    "timestamp": "00:03:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Where going?",
+    "timestamp": "00:03:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "What the",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So, for example, here, we had good ranking signals right before, and then it dropped right after.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So I think there's a time delay happening there from the old URLs getting mapped on your new site.",
+    "timestamp": "00:04:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So hopefully we'll start seeing those metrics start reflecting soon.",
+    "timestamp": "00:04:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "But, so the five URLs that we did have, that I sent over that weren't indexed, were indexed anywhere from May 4 to 6, those five, and it's starting to perform as well.",
+    "timestamp": "00:04:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So this is just, so this isn't in the doc yet, because this is from this week, or in the Looker Studio report, because this is from this week, but it is starting to show positive signal.",
+    "timestamp": "00:04:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So this is May 4, and that's when it started going up.",
+    "timestamp": "00:04:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Our glossary refresh pages are also starting to trend upwards.",
+    "timestamp": "00:04:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So this is when we published, and the line is going up.",
+    "timestamp": "00:04:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So it's all starting to look positive, and hopefully as we add FAQs and the images, that'll just also shoot up as well.",
+    "timestamp": "00:04:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And production this week, we're planning to send 10.",
+    "timestamp": "00:04:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Glossary pages and 10 blog posts.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And then as for my approval to get into your CMS, so that we can take some of the load off of Emily, because I know that we're sending a lot of articles and staging and publishing.",
+    "timestamp": "00:05:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "All those articles takes a lot of time.",
+    "timestamp": "00:05:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Hopefully they respond to me because I followed up twice at this point and I'm not receiving a response.",
+    "timestamp": "00:05:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "But they did say five to seven business days.",
+    "timestamp": "00:05:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So I'll follow up next week.",
+    "timestamp": "00:05:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "think Friday this week would be the seven business days.",
+    "timestamp": "00:05:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So we'll see where that goes.",
+    "timestamp": "00:05:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And then as for publishing, this is our publishing cadence for now.",
+    "timestamp": "00:05:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "then hopefully next week we can, hopefully next week I can be in the CMS and I can show just some more support.",
+    "timestamp": "00:05:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "anywhere where we can give you any kind of support, just definitely, definitely let us know.",
+    "timestamp": "00:05:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Because we would, we would really like, we'd really get to help there.",
+    "timestamp": "00:05:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Hey, Abdallah.",
+    "timestamp": "00:05:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Hey, guys.",
+    "timestamp": "00:05:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I was just going to ask, excuse me, until obviously now you get ramped up for some of these that I've just been kind of batching out.",
+    "timestamp": "00:06:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I know that last time we talked about not doing like too many on one day, kind of spreading out for like SEO purposes.",
+    "timestamp": "00:06:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Is there any difference in value to like, say, putting them on like a Friday versus more during the week?",
+    "timestamp": "00:06:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Like, is there any?",
+    "timestamp": "00:06:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Because we're publishing so many articles, I don't think it makes that big of a difference.",
+    "timestamp": "00:06:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "What will make a difference is when it gets indexed.",
+    "timestamp": "00:06:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:06:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Just want to check.",
+    "timestamp": "00:06:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:06:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I can go through some of the feature looking stuff that we're adding and going to add hopefully in a week or two.",
+    "timestamp": "00:06:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Two.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Thank",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess before that, any questions just on the stuff we've been publishing recently?",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh, did want to ask, sorry, one other thing.",
+    "timestamp": "00:07:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "If we could at point talk about, too, optimizing and or adding more content to our AI cyber glossary specifically.",
+    "timestamp": "00:07:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "That's like a separate glossary altogether that also lives on our site.",
+    "timestamp": "00:07:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I don't know if that was in like our original fan or not.",
+    "timestamp": "00:07:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "It's that one.",
+    "timestamp": "00:07:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, we could definitely look at this.",
+    "timestamp": "00:07:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I started doing ideation for this.",
+    "timestamp": "00:07:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "I noticed AI down was starting to, it's your best performing one, but then the performance is starting to go down.",
+    "timestamp": "00:07:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So I'm going to look at which ones else are doing that.",
+    "timestamp": "00:07:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Yeah, we can definitely enrich these as well.",
+    "timestamp": "00:07:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And these started as a, like, or they are, obviously.",
+    "timestamp": "00:07:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Another SEO project, and they're more recent, so hopefully these won't have quite as many updates that need to be made, but maybe there's more terms and things like that that we can add.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So it seems like this one, let's see, you're a little bit more kind of broad, like not necessarily security AI topics.",
+    "timestamp": "00:08:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Is that accurate?",
+    "timestamp": "00:08:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's a little bit of both.",
+    "timestamp": "00:08:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "It started very, like more narrow, but we've expanded a little bit just to have like more opportunities for cross-linking when we talk about different types of AI throughout our content.",
+    "timestamp": "00:08:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:08:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "engineering stuff too.",
+    "timestamp": "00:08:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess I'm trying to think like what goes in this glossary.",
+    "timestamp": "00:08:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Yeah, it was meant to be more of like an AI focus rather than a cybersecurity focus.",
+    "timestamp": "00:08:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "So when you think about like is like how does like LLMs or natural language processing mean in like a cybersecurity context, like natural language processing probably.",
+    "timestamp": "00:08:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "And being a cybersecurity glossary, because that's not something that like is a typical cybersecurity term, but it does make sense of like from an AI perspective related to AI and cybersecurity.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "So it's more of a like AI focus.",
+    "timestamp": "00:09:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Think about it as like things that we can cross link from like engineering blog posts or things that dive deeper into like how our AI systems work, but not necessarily about like cybersecurity terms like phishing or business email compromise or something like that.",
+    "timestamp": "00:09:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:09:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So general kind of AI concepts, but like, I mean, I'm just reading a few of these, like most of them, you kind of bring the what's cybersecurity kind of relation or context.",
+    "timestamp": "00:09:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, exactly.",
+    "timestamp": "00:09:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:09:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, we got lots of ideas.",
+    "timestamp": "00:09:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's interesting, like everyone does these.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I was really surprised when like NVIDIA has one too, you know.",
+    "timestamp": "00:09:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I think what it does is like it just builds a little bit of authority in AI and then your other AI content starts kind of like benefiting from that essentially.",
+    "timestamp": "00:09:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, and that was the idea is like the way that we can talk about.",
+    "timestamp": "00:09:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "When we would do AI blog posts or talk about it occasionally, we didn't have anything to cross-link on our website of like, what do these terms mean?",
+    "timestamp": "00:10:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "And like a lot of those posts, we didn't want to like, you don't want to get into like the very basic terms because they're more specialized blog posts.",
+    "timestamp": "00:10:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "I think it's very smart.",
+    "timestamp": "00:10:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I think it's a good strategy.",
+    "timestamp": "00:10:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "have an okay idea every now and then, Abdallah.",
+    "timestamp": "00:10:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:10:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "I know.",
+    "timestamp": "00:10:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "You it's funny.",
+    "timestamp": "00:10:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "thought yesterday I was in cents and you know, in six cents, need to map any like new business on the website that haven't been mapped in past.",
+    "timestamp": "00:10:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So we missed a bunch.",
+    "timestamp": "00:10:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I was mapping pages that have not been mapped in their model and I saw this AI ad glossary.",
+    "timestamp": "00:10:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I'm like, oh, is this the glossary?",
+    "timestamp": "00:10:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I'm that's a different one.",
+    "timestamp": "00:10:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So that's how actually I found it yesterday.",
+    "timestamp": "00:10:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So it did give me some hits in six cents, you know, on website visits that you're seeing and it's not that I know added in their model.",
+    "timestamp": "00:10:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So they can help us with our, the account scoring in six cents.",
+    "timestamp": "00:10:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So, yeah.",
+    "timestamp": "00:10:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:10:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I mean, we'll start enriching these, and then, yeah, and then there's definitely more topics to write.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So I came late.",
+    "timestamp": "00:11:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Was there an update, Sydney, from you on your HR fun journey with our HR team?",
+    "timestamp": "00:11:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:11:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So by Friday, I think will be my seven business days, but I have followed up with them.",
+    "timestamp": "00:11:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "I followed up with them on Monday, and I did last Friday as well, and I've not received a response from the person who's emailing me.",
+    "timestamp": "00:11:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "You're giving me everything, like, like, it's all, it's all with them now, right?",
+    "timestamp": "00:11:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Like, there's nothing on you.",
+    "timestamp": "00:11:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:11:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Perfect.",
+    "timestamp": "00:11:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I can chase them.",
+    "timestamp": "00:11:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Do you have an email me?",
+    "timestamp": "00:11:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "when something is stuck with the candidate, they email me, because I'm trying this now with somebody else.",
+    "timestamp": "00:11:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So I haven't got any email, but you're saying anything I should follow up with you.",
+    "timestamp": "00:11:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So that's a good sign.",
+    "timestamp": "00:11:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:11:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I want to, I want to unblock Emily from like, you know, from being stuck.",
+    "timestamp": "00:11:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:11:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "That's right.",
+    "timestamp": "00:11:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "That's right.",
+    "timestamp": "00:11:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "And you guys now have.",
+    "timestamp": "00:11:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "It's the admin also in Google Search Console.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So, okay.",
+    "timestamp": "00:12:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "And I think Jennifer Hampton bought a ticket to do this bot code piece, right, Jason, I think.",
+    "timestamp": "00:12:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So hopefully we get more indexing happening.",
+    "timestamp": "00:12:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah, I think that'll help.",
+    "timestamp": "00:12:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, basically what's happening, I mean, it's crazy people are spamming your results page like that.",
+    "timestamp": "00:12:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But it's just kind of, it doesn't really affect anything other than Google now has to look at that and then it eats up their budget, you know, crawling your website.",
+    "timestamp": "00:12:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, okay.",
+    "timestamp": "00:12:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So hopefully things are, yeah.",
+    "timestamp": "00:12:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "And again, if you guys buy anything that we should also be fixing, just let us know.",
+    "timestamp": "00:12:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "mean, this is part of the migration still, I guess, right?",
+    "timestamp": "00:12:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, we do have like a, we're trying to formalize a more like technical audit that we do every like few months.",
+    "timestamp": "00:12:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So we'll run that as soon as that's ready as well.",
+    "timestamp": "00:12:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Sorry, Jason, before you continue, I just have one question.",
+    "timestamp": "00:12:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So I noticed some of you.",
+    "timestamp": "00:12:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Glossary pages have their own separate pages, but not no content.",
+    "timestamp": "00:13:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "like, Jason, can you look up Watering Hole Attacks on the Fathom Glossary?",
+    "timestamp": "00:13:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Yeah, so those we need to go through and definitely update because those were originally built by our previous SEO person.",
+    "timestamp": "00:13:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "There were some that it, I don't know exactly, I don't know if the pages broke or if you just created, like, the index entry and then didn't put the whole page there.",
+    "timestamp": "00:13:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "But I did start looking at those once you marked, once you pointed it out with one of the other ones.",
+    "timestamp": "00:13:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "So those will need to make a full entry or to be, like, hidden for the time being.",
+    "timestamp": "00:13:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Yeah, so those were never supposed to be able to be accessed.",
+    "timestamp": "00:13:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Essentially, what we did when we created this back in, like, 2022, 21, maybe, is when we created the Cybersecurity Glossary, it was, like, before CHPT existed.",
+    "timestamp": "00:13:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "You couldn't, like, create these nearly as fast.",
+    "timestamp": "00:13:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "And so we, but we didn't want to have the glossary.",
+    "timestamp": "00:13:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Page only have like five or 10 entries.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "And so we created like the main like abnormal security.com slash glossary that had, you know, 50 or so entries, but some of them didn't like click through.",
+    "timestamp": "00:14:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "You just could only see like the two line overview of it.",
+    "timestamp": "00:14:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "So I don't know, maybe in the website migration or something that was went live, but they weren't supposed to ever exist until we had like the full article for them.",
+    "timestamp": "00:14:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "That's not to say that we shouldn't go ahead and like write these full articles by all means.",
+    "timestamp": "00:14:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Go for it.",
+    "timestamp": "00:14:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "But that was the background on why they look like.",
+    "timestamp": "00:14:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Maybe we could just prioritize writing these so they're not like.",
+    "timestamp": "00:14:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "This one actually, this one is one of the articles that I'm going to send you for this week.",
+    "timestamp": "00:14:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "I have it marked as editorial, but it can definitely fill this page and I can optimize it a little bit more so I can fill it.",
+    "timestamp": "00:14:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:14:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Great.",
+    "timestamp": "00:14:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So the thing you missed, Abdallah, so I'll just go over again, is like the graphics that we're adding.",
+    "timestamp": "00:14:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So it sounds like there's kind of like an approval.",
+    "timestamp": "00:14:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But basically, now, finally, we have the ability to generate stuff that looks like this.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "That's nice.",
+    "timestamp": "00:15:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, I'm really happy with the style.",
+    "timestamp": "00:15:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Oh, AI generated?",
+    "timestamp": "00:15:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So I feel like there's a different definition of what that means.",
+    "timestamp": "00:15:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So how you do it in ChatGPT, like if I went to ChatGPT right now, like, hey, generate me a pie chart for whatever.",
+    "timestamp": "00:15:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "What that does is it's almost generating the pixels.",
+    "timestamp": "00:15:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "That's why text always looks really wonky.",
+    "timestamp": "00:15:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "You know, it's never the right size, blah, blah, blah.",
+    "timestamp": "00:15:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "What we're doing is like there's different layers to this.",
+    "timestamp": "00:15:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So like, you know, let's take this one, for example, like the background, these little things, the logo, like everything is just like almost like a Lego.",
+    "timestamp": "00:15:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then the AI is just assembling it.",
+    "timestamp": "00:15:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like it's coming up with the copy.",
+    "timestamp": "00:15:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like for this one, you know, I'm going through your white papers or YouTube transcripts.",
+    "timestamp": "00:15:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then like, like I'm not asking it to generate a nice triangle that's like perfectly.",
+    "timestamp": "00:15:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Right angled or whatever.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like it's literally just picking from our library and assembling it.",
+    "timestamp": "00:16:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then we take a screenshot.",
+    "timestamp": "00:16:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "That's really cool.",
+    "timestamp": "00:16:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:16:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah, yeah, yeah.",
+    "timestamp": "00:16:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So we're going to go inside the stuff you guys are writing for us now.",
+    "timestamp": "00:16:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:16:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So we're starting.",
+    "timestamp": "00:16:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'm trying to figure out how to, like, it's not really plugged in yet, but we went through like the first five glossary articles and we added them in.",
+    "timestamp": "00:16:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But it sounds like maybe we need to go through kind of like a design approval first.",
+    "timestamp": "00:16:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Do we need to?",
+    "timestamp": "00:16:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I thought we said for stuff like that.",
+    "timestamp": "00:16:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Are you pulling in from a graph that we can just go ahead?",
+    "timestamp": "00:16:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "thought we decided that.",
+    "timestamp": "00:16:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So I think what the.",
+    "timestamp": "00:16:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Please say no.",
+    "timestamp": "00:16:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "mean, Jay, what do you think?",
+    "timestamp": "00:16:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Because I know like with the.",
+    "timestamp": "00:16:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Since they're hidden, it's a little bit different.",
+    "timestamp": "00:16:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "But I can also see like if it surfaces somewhere, Maria having a rage attack if something's not quite.",
+    "timestamp": "00:16:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Well, need to get somehow.",
+    "timestamp": "00:16:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "But these are like these are.",
+    "timestamp": "00:16:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "These are what you call the images.",
+    "timestamp": "00:16:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "These I",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "From our library, right?",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Like the designs from our library, right?",
+    "timestamp": "00:17:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So it's not even that they have come up with like, right?",
+    "timestamp": "00:17:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "our answer question is like, Maria provide these to you guys originally?",
+    "timestamp": "00:17:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Or did you just take our style?",
+    "timestamp": "00:17:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "I didn't like go and create them.",
+    "timestamp": "00:17:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "No, yeah, we never got like a thing with the exact, you know, like spacing padding, we just kind of winged it from the brand guideline, because that's all we have.",
+    "timestamp": "00:17:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So probably for the first round, I would just get these in front of Maria.",
+    "timestamp": "00:17:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "Like, here's an example of like the kinds of things that we are going to create, like, and I on a very short turnaround time, can you give like meta feedback on anything that you see is like drastically wrong, or that needs to be changed kind of across the board, and let give them an opportunity to say, like, oh, like, you need to have, like, more spacing between like the little triangles and the text or whatever, like just things that are like, yeah, overall, like, okay, but then from there on, like, I would say, like, once we have that initial meta feedback, incorporate it and then like, use that moving forward.",
+    "timestamp": "00:17:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:17:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "That's a good call.",
+    "timestamp": "00:17:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "That's what we",
+    "timestamp": "00:17:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay, yes, I'm to go rogue.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I'm just trying to say, I know, had a call with her yesterday about something related to you, so I know, I'm actually trying to get an understanding, I think, I think I'm achieving that, but like, this is like a glossary blog, it's the box, like, you know, it's, it's kind of be stuck on this stuff.",
+    "timestamp": "00:18:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I agree, that's what I mean.",
+    "timestamp": "00:18:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Let them have a look, so they can give some, so Emily, so who would do that, like, Emily would kind of help with that, or?",
+    "timestamp": "00:18:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Get them reviews and stuff, or should we have our, have a, or should we invite her to this next meeting, somebody from her team, I don't know.",
+    "timestamp": "00:18:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I can probably send, like, a nice one-pager, you can, you can send, like, you know, how we're doing it, what it is, we, like, mocked them up in Figma before we started generating, so I can send them this, it's, like, very easy to comment, like, you know, if this space is wrong, whatever.",
+    "timestamp": "00:18:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "That'd be perfect.",
+    "timestamp": "00:18:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Okay, that's perfect, yeah, and then we, yeah.",
+    "timestamp": "00:18:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay, cool, and then if we can ever get Figma or Stalk.",
+    "timestamp": "00:18:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I think that would actually help us generate more.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Actually, if we have that too, then that actually makes it almost like we use the style guide, right?",
+    "timestamp": "00:19:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So maybe that's the answer also for that.",
+    "timestamp": "00:19:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So we should still have them review the first one, like the first few, but let's get the style guide to Emily.",
+    "timestamp": "00:19:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "It'll be great.",
+    "timestamp": "00:19:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:19:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So that was the main thing we're going to roll out.",
+    "timestamp": "00:19:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Once it gets approved, we can...",
+    "timestamp": "00:19:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "By the way, anything that gets approved here is all Emily.",
+    "timestamp": "00:19:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So if she has to blame anybody, she can blame Emily.",
+    "timestamp": "00:19:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So I'm not involved.",
+    "timestamp": "00:19:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:19:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "We've also added FAQs.",
+    "timestamp": "00:19:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "one's a lot less kind of interesting to look at, but essentially, you know, we're adding these.",
+    "timestamp": "00:19:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I think Sydney might be submitting some sort of ticket that eventually these become like a nice component on the page.",
+    "timestamp": "00:19:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But for now, we'll just tag it onto the body kind of content.",
+    "timestamp": "00:19:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then...",
+    "timestamp": "00:19:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "For that one, Emily, did you manage to do that?",
+    "timestamp": "00:19:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Can't remember.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I haven't done that one.",
+    "timestamp": "00:20:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I was going to see if maybe if you could reach out to Jennifer as far as that particular functionality goes.",
+    "timestamp": "00:20:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Sorry, go ahead.",
+    "timestamp": "00:20:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "No, I going to say, I think Jason said you send us specific information about that.",
+    "timestamp": "00:20:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah, yeah, we owe it up to you.",
+    "timestamp": "00:20:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "that's all.",
+    "timestamp": "00:20:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "If you can ask in the Slack channel, we have Jennifer there.",
+    "timestamp": "00:20:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "can open up a ticket with her.",
+    "timestamp": "00:20:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Oh, perfect.",
+    "timestamp": "00:20:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "But the more you can give us information, we can ask her.",
+    "timestamp": "00:20:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Again, it's not urgent to me because we still have the content, but we get to come start that.",
+    "timestamp": "00:20:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah, for sure.",
+    "timestamp": "00:20:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "And I'm also happy to reach out to her.",
+    "timestamp": "00:20:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "I just feel like I know she has so many like different things that might come strong from you.",
+    "timestamp": "00:20:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Emily Burns",
+      "matched_calendar_invitee_email": "eburns@abnormalsecurity.com"
+    },
+    "text": "Yeah, it's fine.",
+    "timestamp": "00:20:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "No, it's fine.",
+    "timestamp": "00:20:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I mean, yeah, this will be like a half thing has to be done tomorrow, but at least to see because there could already be a module somewhere there that we could use.",
+    "timestamp": "00:20:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "That's true.",
+    "timestamp": "00:20:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:20:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So it's not like a crazy thing.",
+    "timestamp": "00:20:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "It's, you know, a lot of companies have this kind of thing.",
+    "timestamp": "00:20:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So it's not like a, on It like Thank",
+    "timestamp": "00:20:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So of weird things that we're trying to do.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "anyways, okay, cool.",
+    "timestamp": "00:21:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "But just tell us what Jason, what exactly to give her information.",
+    "timestamp": "00:21:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "And she's on Slack channel with the group too.",
+    "timestamp": "00:21:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So if you even include her in, what happens, she would usually tell me, okay, this is a good, just open up for me, like a ticket to whatever, and then I just do one, and it's all good.",
+    "timestamp": "00:21:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:21:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Great.",
+    "timestamp": "00:21:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, we'll send that right over.",
+    "timestamp": "00:21:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then last thing is LLM mentions and citations.",
+    "timestamp": "00:21:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So I mean, just for context, I think, like, at least for me, like, I develop a lot of this stuff.",
+    "timestamp": "00:21:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So, you know, good and bad for Abnormal, you're kind of our guinea pig for a lot of this stuff.",
+    "timestamp": "00:21:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like these graphics, I think, you know, like, you're probably the first customer to get them.",
+    "timestamp": "00:21:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "We're still trying to figure out, like, for now, we'll just add in for everything.",
+    "timestamp": "00:21:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But these are, you know, like, much more expensive to turn as text, at least for the next month or two, like, we'll just start adding it in because we're playing around with it.",
+    "timestamp": "00:21:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And one another thing we're doing is like, LLM mentions and citations.",
+    "timestamp": "00:21:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'm sure if you guys talk about it internally or if you see in your attribution people finding Abnormal through ChatGP or perplexity, but what we want to offer you guys very soon as a beta or a test is just the ability to see that.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But there are tools that do this today.",
+    "timestamp": "00:22:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "For example, here's one that we're considering a partnership with and essentially what it's going to do is we're going to come up with a list of prompts together that you think your customers use to find tools in the domain that you sit and then just measure over time.",
+    "timestamp": "00:22:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, hey, is Abnormal being mentioned?",
+    "timestamp": "00:22:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And this whole space is, like, very kind of new.",
+    "timestamp": "00:22:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, there's a lot of problems with how they track and whatever, but I think, like, at least directionally, it's helpful.",
+    "timestamp": "00:22:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "You know, like, this is, you know, a demo with, like, a cloud provider, essentially, and they're trying to see.",
+    "timestamp": "00:22:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Just like, hey, when people search, like, you know, best cloud provider, best cloud GPE, like, popping up across Perplexity, ChatGPT, and all the other kind of chat products, essentially.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, so hopefully by, I'd say in two weeks, we'll have something to show and then get your feedback.",
+    "timestamp": "00:23:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But the goal here is, like, we want to be able to track, track our time, and then more importantly, like, start actioning on how to get mentioned more.",
+    "timestamp": "00:23:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "again, like, this whole space is like, nobody really knows.",
+    "timestamp": "00:23:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Everyone's trying to sell and shill their product.",
+    "timestamp": "00:23:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, this company here, Profound, raised some ungodly amount of money for what really is just, like, just a dashboard that pings ChatGPT.",
+    "timestamp": "00:23:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But, yeah, but what we'd like to get to is, like, having a much clearer picture of, like, what it takes to get mentioned more.",
+    "timestamp": "00:23:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Right now, the going kind of understanding is, like, it's kind of SEO.",
+    "timestamp": "00:23:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, what's happening when, you know, it's, like, yeah.",
+    "timestamp": "00:23:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So,",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'll just search for, like, I don't know, what is the best email security tool?",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "We enable search, like, let's see what pops up.",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "What's essentially happening here is, like, in the background, when you type something like this, it's, like, coming up.",
+    "timestamp": "00:24:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh, wow, it's amazing.",
+    "timestamp": "00:24:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:24:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's coming up with a Google search, and then it's searching that.",
+    "timestamp": "00:24:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So, like, generally, like, what's good for SEO is good for getting mentioned.",
+    "timestamp": "00:24:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But what we're seeing more and more is, like, these LMs, and it's called RAG, like, when they pull the results, they're, like, a little bit more opinionated about what shows up in a different way than Google is.",
+    "timestamp": "00:24:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, Google might show up normal first, but, like, the LM might decide that the article just, like, is too flowery and complimentary, and it's written by normal, so it's going to ignore that result, you know.",
+    "timestamp": "00:24:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So, like, what what what",
+    "timestamp": "00:24:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So at some point, I'll have a better picture of what it actually takes to drive this, but...",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, well, it's cool that we come up with number one.",
+    "timestamp": "00:25:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah, it's actually really good.",
+    "timestamp": "00:25:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I do.",
+    "timestamp": "00:25:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "This was it.",
+    "timestamp": "00:25:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Unless you knew the answer on your...",
+    "timestamp": "00:25:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Best email security companies.",
+    "timestamp": "00:25:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Oh, that's interesting.",
+    "timestamp": "00:25:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So you guys published the ranking and then you guys are imaginary.",
+    "timestamp": "00:25:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Number one, of course.",
+    "timestamp": "00:25:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "That's awesome.",
+    "timestamp": "00:25:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, it helps me because we did an alphabetical order.",
+    "timestamp": "00:25:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jade Hill",
+      "matched_calendar_invitee_email": "jhill@abnormalsecurity.com"
+    },
+    "text": "And it's always...",
+    "timestamp": "00:25:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I would think that CharityBT is smarter than just saying, oh, these guys said it's number one and then they just use that.",
+    "timestamp": "00:25:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So I'm hoping it's a bit smarter than that, but...",
+    "timestamp": "00:25:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, it's definitely trending in that direction, which is why, like, I think at some point it starts diverging from, like, ranking number one in Google versus, like, you mentioned more.",
+    "timestamp": "00:25:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But in any case, we're, like, measuring is step one and we'll start there.",
+    "timestamp": "00:25:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, I think that's it for us.",
+    "timestamp": "00:25:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "mean, we're really trying to focus on...",
+    "timestamp": "00:25:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Kind of just like the basics, like rolling some of this out and just increasing our production here, you know, like, and trying to help any way we can with like the publishing side, just let us know, like if it's, if we can give it to you in any format that just makes it easier for you, like, we'll figure it out.",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But yeah, access will be the best thing there.",
+    "timestamp": "00:26:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So hopefully we have something about the end of the week or something.",
+    "timestamp": "00:26:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I can follow up with the HR team, people's team.",
+    "timestamp": "00:26:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So, um, cool.",
+    "timestamp": "00:26:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Any, any results that I missed?",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Anything you get showed early?",
+    "timestamp": "00:26:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Anything interesting happen or movement that I missed early on?",
+    "timestamp": "00:26:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "You can just go over it again.",
+    "timestamp": "00:26:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "mean, basically just like early signs.",
+    "timestamp": "00:26:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I mean, some articles getting picked up and growing like a glossary refreshes or a little bit of a signal.",
+    "timestamp": "00:26:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So, this is now the GrowthX dashboard.",
+    "timestamp": "00:26:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "My call-up state is every Monday.",
+    "timestamp": "00:26:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So there's on a weekly basis.",
+    "timestamp": "00:26:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Um, and so you can see where our weekly and week performances for the articles.",
+    "timestamp": "00:26:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "It is our impression.",
+    "timestamp": "00:26:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Questions, clicks.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "This dropped here.",
+    "timestamp": "00:27:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "I think that was when the migration happened.",
+    "timestamp": "00:27:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So, but we're starting to go back up, which is great.",
+    "timestamp": "00:27:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And hopefully that trends upwards continuously.",
+    "timestamp": "00:27:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And this one is a week on week comparison as well.",
+    "timestamp": "00:27:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So how much our numbers have changed for the last week.",
+    "timestamp": "00:27:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "I'm also adding articles we published for the last week and then the specific per article metric.",
+    "timestamp": "00:27:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So this is the only article that was indexed before the migration.",
+    "timestamp": "00:27:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "These were published, but they weren't indexed.",
+    "timestamp": "00:27:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "And I think that might be currently for things.",
+    "timestamp": "00:27:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So this is actually, so all the data here is from both of your dashboards.",
+    "timestamp": "00:27:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Google search console dashboards combining your abnormal.ai GFC and your abnormal security.com GFC because yeah.",
+    "timestamp": "00:27:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So there's not a lot of overlap.",
+    "timestamp": "00:27:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "So this is also on our base really and just one article really because that one hasn't been indexed.",
+    "timestamp": "00:27:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I mean, I guess there's a little bit happening there, right?",
+    "timestamp": "00:27:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:27:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:27:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:27:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:27:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And then the other thing that I looked at was, so these are the articles that got indexed on May 4 and 6, and they're already starting to rise and click CTR.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Position is not bad.",
+    "timestamp": "00:28:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Hopefully we get in the top 10 sooner.",
+    "timestamp": "00:28:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "But yeah, they were just indexed like five, three to five days ago, and they're already performing.",
+    "timestamp": "00:28:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So not bad there.",
+    "timestamp": "00:28:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "then glossary refreshes also trending upwards.",
+    "timestamp": "00:28:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So we refreshed on the 29th, and then it kind of started going up from there as well.",
+    "timestamp": "00:28:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "So now we're back to, or a little bit higher than what your performance was three months ago.",
+    "timestamp": "00:28:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Nice.",
+    "timestamp": "00:28:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Sydney Go",
+      "matched_calendar_invitee_email": "sydney@growthx.ai"
+    },
+    "text": "And that should, should continue to go up.",
+    "timestamp": "00:28:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:28:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:28:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:28:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I'll look at stuff later, but this is good.",
+    "timestamp": "00:28:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:28:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:28:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "I think you're just going get.",
+    "timestamp": "00:28:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:28:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Thank you guys.",
+    "timestamp": "00:28:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Jason.",
+    "timestamp": "00:28:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "if you can send stuff for the creatives that we need and for that widget thing, for the things we can try and get that.",
+    "timestamp": "00:28:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Cause I would love to get those images in there approved and just start publishing stuff for those images.",
+    "timestamp": "00:28:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "It just looks nicer, and yeah.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Yeah, I think so.",
+    "timestamp": "00:29:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And we'll continue iterating.",
+    "timestamp": "00:29:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "We'll just keep adding new stuff and then refreshing old stuff.",
+    "timestamp": "00:29:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "The content will just get better over time.",
+    "timestamp": "00:29:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yep, yep, yep.",
+    "timestamp": "00:29:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Okay, all right.",
+    "timestamp": "00:29:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Thanks, guys.",
+    "timestamp": "00:29:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Thank you, thank you.",
+    "timestamp": "00:29:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:29:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:29:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Abdallah AlHakim",
+      "matched_calendar_invitee_email": "aalhakim@abnormalsecurity.com"
+    },
+    "text": "Bye-bye.",
+    "timestamp": "00:29:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Bye.",
+    "timestamp": "00:29:17"
+  }
+]

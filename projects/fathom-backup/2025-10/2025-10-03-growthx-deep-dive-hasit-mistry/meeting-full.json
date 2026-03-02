@@ -1,0 +1,3934 @@
+{
+    "title": "GrowthX Deep Dive (Hasit Mistry)",
+    "meeting_title": "GrowthX Deep Dive (Hasit Mistry)",
+    "url": "https://fathom.video/calls/430090126",
+    "created_at": "2025-10-03T18:40:14Z",
+    "scheduled_start_time": "2025-10-03T18:00:00Z",
+    "scheduled_end_time": "2025-10-03T19:00:00Z",
+    "recording_id": 91792580,
+    "recording_start_time": "2025-10-03T18:00:00Z",
+    "recording_end_time": "2025-10-03T18:40:04Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's fine.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Have a busy Friday.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Somehow, a lot of things come up every Friday only.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Same here.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I had not much on the calendar, and then all of a sudden, the last two days, no free time.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, well, appreciate you taking the time today.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'll try not to use the whole hour so I can give you some time back and get you on your way.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But for context, we do these deep dives really just to better understand kind of the product and the business.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I don't know if you have context on GrowthX, but we're a content agency.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So working with CodeRabbit to develop editorial content, it connects really with your customers and prospects.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so to do that well, we really like to understand the product from your perspectives, kind of what it does, how teams use it day to day.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So like if you were introducing CodeRabbit to a new engineering team, like how would you describe the platform and its core value?",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then maybe even get into some of kind of what it looks like in the product itself.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Sure.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah, I can do that.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I spoke to Amanda yesterday about this, and she said, just get some time with the growthx team so you can talk about the product.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So I'm happy to do that.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I'm Hasit, just you have the background.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I'm one of the founding engineers at CodeRabbit.",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I'm also leading the enterprise engineering side of things at CodeRabbit now.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So building a team, serving large enterprise customers as well.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And at any point, just stop me and ask me questions.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I don't have a structure for this.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Do you want to go through like a normal demo that I do with customers, or how do you want to do this?",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, a normal demo would be perfect.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So let me just, I have some links bookmarked.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Let me do this.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All right, so I'm sharing my screen.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Can you see it?",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Okay, so this is, so just for background, CodeRabbit is a code review tool.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It is grown to be a lot more than a code review tool now.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But the bread and butter of what CodeRabbit does is it automates your code review process.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So from the time that you write your code to the time that you open a pull request in GitHub or any other Git providers, so there's GitHub, GitLab, Azure DevOps, Bitbucket.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "tool tool tool tool",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We support all of these.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You open the pull request.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Pull request means, I don't know how familiar you are and how detailed you want me to be with this process.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, just do it like you normally would.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I would say I'm not a developer.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "know enough to be dangerous, but.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Okay, got it.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So I mean, I'll use the simpler terms, at least the terms that would not be to do in depth.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "pull request is something that we commonly use in the development world to show changes made to the code.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So at any point in time we make changes to the code, we need it to be reviewed by fellow developers or seniors on the team.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So a pull request essentially allows for that review to happen.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's a place where reviews happen.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All of these platforms, GitHub, GitLab, they have a concept of a pull request.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "They would call it different things, but.",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's a pull request, right here.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So there's a tab right here, pull request.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You open a pull request, you then add reviewers over here, and you essentially let the reviewers know that, hey, please review my code, and you can leave comments on the code.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So now what happens is I look at the comments as a developer, as an author of this pull request.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I go back to my editor, I make these changes, and then I push a change again on top of it to address their comments.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's similar to a document editing workflow, right?",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like you would write a document, you would pass it to someone to review it, and go back and forth.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So CodeRabbit is free for open source users.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So GitHub has a large community of open source users.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "One of our initial go-to-market strategies was to keep it free for open source users because it drives adoption, and it spreads the word.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "In the open source communities, there are some extremely large open source projects currently using CodeRabbit because of that exact reason.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's free and easy to use.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So background aside now, what does CodeRabbit do and what does it look like?",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So as soon as you open a pull request in GitHub or any of these platforms that I mentioned, CodeRabbit will, first of all, start summarizing your pull request, your changes.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So think about it as a description, like a high level description of what is changed in this, in this pull request, right?",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The first comment that CodeRabbit makes is a walkthrough comment.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is more like a technical summary.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is like, okay, what files changed and what changed in those files?",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We built this entire technical summary.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I was on a call with a customer and they said, oh, so this is more like a map, right?",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like, this is like a map of .",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Inks that I need to look at as a human reviewer, and that made sense, like that stuck in my head, and I always use it with other customers.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So if you go through this walkthrough, you as a human reviewer that comes in after CodeRabbit is done reviewing your code, you know what to look at.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You know what is important.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it can track issues.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There's a cute little poem that we give out.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "is a fun thing.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can turn this off.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There is another...",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I'm trying to find one second.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Repeat this one.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah, so we can also generate diagrams of changes.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So in the walkthrough comments, if there is like a large change in flow happening in the code, we can generate a diagram to represent that.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is also people...",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I find this very helpful.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All right, so let's look at the bread and butter of CodeRabbit.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is what a review looks like.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "CodeRabbit not only understands the context of the function that are like what is being reviewed, but it also gives you a description of what you need to change.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So here, 400 is the wrong status code.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's CodeRabit suggesting use 404, not just that, it's also giving you a committable suggestion.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you as an author of the pull request can actually commit these changes directly from here.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can just literally copy paste this, take it to your editor, and this would mean you've implemented the change.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It makes it very easy for users.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You get a glimpse of the interaction with CodeRabbit here.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is also possible.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can chat with a bot.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I'll show you a few more.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I'll",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So without going into the code changes here, what it is, the author actually looked at this code and suggestion and said, okay, just create an issue for me, I'll handle it later.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is the agentic side of CodeRabbit.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "CodeRabbit also has a way to take commands or rather instructions from you and act on your behalf.",
+            "timestamp": "00:08:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it actually created an issue right here with these changes in the description of the issue.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So like you can go back to it, you can keep track of it and then implement it some other time, right?",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "These are things that are possible.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can also work with a bot to like improve the suggestion.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So if bot gave you some suggestion, you can chat with it like you would do with a human.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And you can ask it to like find out more information from different parts of your code.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can ask it, hey, can you.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Do this.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Where is this used?",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And it can do the analysis for you and reply with a lot of information.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It can even tell you what scripts it ran to come to that conclusion.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Any questions so far?",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All good so far?",
+            "timestamp": "00:09:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All good so far.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Let's see what this is.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is another example of just the user pushing back on the suggestion.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like, okay, hey, that makes sense, but blah, blah, blah.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So the bot is then, okay, here's an improved suggestion.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So then they eventually fixed it going forward.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this pushback helped in improving CodeRabbit's suggestion.",
+            "timestamp": "00:09:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "What else?",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And does it learn over time, kind of your preferences for that?",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So I'm about to show you something around that as well.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So that is a feature that we call learnings.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We'll right back.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So when you chat with a bot, CodeRabbit maintains learnings about you, about this repository in GitHub, and about this project, with some metadata around it, and it recalls it whenever it needs to do the review again in a similar situation.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So at some point, details aside, but in some point, the authors would have said that if you see more than a few of the same kinds, like same packages of imports, suggest a star import.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Star just means all in most languages.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So CodeRabbit did that, exactly that, in this pull request.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But for some reason, the author is like, okay, no, we changed that.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We don't want to do that anymore.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Can you get rid of star import?",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is called a star import.",
+            "timestamp": "00:10:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So CodeRabbit, recall the old learnings, and you can actually read the learning right there.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's literally a natural language sentence.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It says, It says,",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The team agreed that more than four imports justifies the use of a star import.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It removed those old learnings and it added a new one saying now they prefer to not use wildcard imports.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So now the bot is learning over time about your preferences and how you like to write code.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And this is updated in real time.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All you have to do is chat with the bot.",
+            "timestamp": "00:11:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It updates these learnings in real time.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can also manage them on the web portal.",
+            "timestamp": "00:11:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We have a web UI where you can go look at the learnings that were generated, edit them, or delete them.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That is also possible.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All right, let's look at another example.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So back to the agentic side of things, CodeRabbit has this ability to agentically generate documentation around your code.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Developers are a breed that hate writing documentation.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We absolutely, that's like one of the things that we, we, we.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "He put off as much as we can, right?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So there's this feature in CodeRabbit that there's a single click of a button, there's a check mark on your walkthrough, you see.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You press that, CodeRabbit opens.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Similarly, how this pull request is, right?",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I think it was a concept of pull request.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "CodeRabbit now opens a pull request on your behalf.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it writes the documentation for you, and this is what it looks like.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is all code generated documentation from CodeRabbit.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So at this point, you can merge it in your code or edit it and then merge it.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's up to you.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But it gives you a great starting point for filled-in documentation.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There's a new feature that we had recently added called web search.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So because a lot of these reviews that we do, the back end of that is still LLM technology, right?",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We use LLM for doing reviews.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But most LLM models have cut off.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "reviews.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "LLM.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We use",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "At least today or sometime in the past.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So they wouldn't know the state of the world that is more recent.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So how do you update the knowledge of an LLM model in real time?",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That was the question that came up again and again.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we added the web search capability to CodeRabbit.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "What happens is at any point of time, using the agentic chat that I showed you, you can chat with it and ask it to update its knowledge.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Or sometimes if CodeRabbit thinks that, okay, I do not know enough about this, it preemptively does a web search on its own and presents its results.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So I'll show you an example of that.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Some drastic example, even I cannot read it, but I can just walk you through what is happening here.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So CodeRabbit suggested a change in the code for some locking mechanism that the user made.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Does it say?",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Valid, but it depends if some other condition, and said, okay, we are thinking of using this other locking mechanism.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So CodeRabbit did an analysis on that new locking mechanism.",
+            "timestamp": "00:14:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It even cited what websites it referred to, and then had a discussion with the user at the end.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So like, okay, here it has some improvements, blah, blah, blah, and then added learning at the end.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is how CodeRabbit updates its own knowledge, even if the model might not know about it.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The LLM model might not know about this.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Here's a fun example.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is some Minecraft developer.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The author added some lighting properties of a block.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And I don't exactly know what's happening here, but I can guess from what CodeRabbit suggested that it thought that the lighting properties...",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "...",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "of a side shifting plates was wrong.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it suggested you remove these two lines and add these, right?",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But the author's like, no, here's your Wiki link.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I read it over there and that has the most latest information.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Can you refer to that?",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So CodeRabbit did exactly that, right?",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it went through that link.",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It went through even more links than just that.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And then it said, no, author, you are right.",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The changes you made were correct at the end and then added a learning.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is so much more dynamic.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is almost like having a senior reviewer on your team who knows a lot more about many things.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And it's always on.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There's never a time where you have to wait for a review.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The reality of development is that teams are distributed in the world.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But if I open a pull request today and I want it to be reviewed, some.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "soon.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Other people want",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Sometimes I get a review tomorrow.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It naturally adds a delay of a day, but CodeRabbit is always on.",
+            "timestamp": "00:16:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's going to give me a review in the next 10 minutes.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's automatic.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I don't even have to trigger it.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So yeah, this, and we're adding a bunch more features, but I don't want to go into that much detail because it would be a lot more technical, but I hope this was helpful.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there any kind of issues that CodeRabbit doesn't detect?",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, looks like bugs in style, security stuff, but like any logical correctness or anti-patterns or?",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It does actually.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There's, we categorize these comments into logical errors, security issues, refactor comments, or even like stylistic ones, like nitpicky ones.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we do detect the whole range of issues.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It could be like best practices also, it could be a simple G factor, like, hey, let's make it a little more efficient, right?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like, this is how you do it.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "One question I had was in the agentic chat, but I think answered most of that through learnings.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there any languages or frameworks that you guys don't support currently?",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "No, we are agnostic of languages.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Because we use frontier models from both OpenAI and Anthropic, whatever they are trained on, we benefit from that.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Plus, we have this whole deterministic side of CodeRabbit that runs tools on the code of the put request.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, that is...",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's more deterministic, and that depends on the kind of tools we have.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But that also helps detect a lot of static analysis issues, security, vulnerabilities.",
+            "timestamp": "00:18:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And then we not only post that issue, but we also give you a fix for it.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So imagine you as a developer were by mistake leaking a secret, like some web secret that was not meant to be in the code.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "CodeRabbit can actually catch that, detect it, and point it out in your pull request.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like, hey, you shouldn't be doing this.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Please remove it.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If a team already has, like, coding guidelines or style rules, are they able to kind of just upload those right when they start using it?",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Let me show you what that looks like.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is a good time to go into the config, and I'll show you how to do that.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, first of all, you can configure CodeRabbit at the org level, or you can do it at...",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Each project level as well, right?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So what I'm going to show you is some project config, but like assume the same thing is possible at the org level as well.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So there's a few ways you can do that.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There's something called path instruction.",
+            "timestamp": "00:19:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you can give it some path.",
+            "timestamp": "00:19:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Say, for example, if you want it for all JavaScript files in your project, and then you can start writing some instructions for it.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Right?",
+            "timestamp": "00:19:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this would be one way to do it.",
+            "timestamp": "00:19:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The second way you could do it is, of course, learnings.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I showed you that.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That is more dynamic.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That is when you chat with it, it would learn.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But that's more, I think of learnings as more like a little note, like a sticky note on your desk that you keep.",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You write it down, you recall it, you look at it, and then throw it away.",
+            "timestamp": "00:19:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Whereas instructions are more like you storing it away for long-term memory.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You're always going to recall it.",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's more",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Or like a proper book that you keep, and you're writing it down, notes in it.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The third way I think about a more long-term and a more ever-evolving way is the code guidelines.",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So there are other tools, like I'm sure you've heard of Cloud Code and Gemini and Cursor.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All of these tools allow you to write certain rules and guidelines.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Because that is how you would provide extra context about your project to these tools.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So people have already well-written documentation, MD files, Markdown files, text files, and they exist in their project already by default.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we had an idea, like why don't we just take that and just spec that and build path instructions from it.",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we look at all these files by default.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But if you had custom instructions in some other file, like, for example, Hasit.txt, or like, whatever, Erik.md, fine, you can add these, that's fine.",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can provide custom files as well.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is more like a long-term, ever-evolving instruction set for CodeRabbit.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And while we're here, I'll show you some external integrations we have as well, right?",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "CodeRusually developers organize their work in tickets.",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we have these external systems of Cheetah, Linear.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That is where you would write issues and tickets, right?",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you form that first, and then you start working on that.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it's like a task.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I don't know how guys I can explain it.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you can integrate with JIRA and linear within CodeRabbit, and in the pull request, for example, you can add a link to that ticket, saying, hey, this pull request addresses this ticket.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So CodeRabbit can now go read that ticket, build objectives out of it, and tell you which objectives were met.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is helpful, again, as a map, right, like for the next fellow human reviewer to come in and see, oh, does this pull request actually adhere to what was planned?",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So these are external systems that we connect to.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And this all feeds into a central context enrichment engine we have.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We call it the context enrichment.",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But that is where all these extra pieces of information come together.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We build a package and then.",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We send it to the LLM model for review.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And MCPs are the new hot thing in this AI world right now.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we integrate with external NCP servers as well.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So if you had a lot of knowledge in some external Notion project, right?",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like people, a lot of development teams maintain text in Notion documents about the reasons behind why things are being done.",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you can connect to Notion and when CodeRabbit is reviewing it, it's going to pull information from your Notion server in real time and add it to the context enrichment and then eventually send it out.",
+            "timestamp": "00:23:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So your context is that much more rich and your review will be that much more relevant instead of being some garbage.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Then how do you guys perform kind of at scale, like very large repos or very complex code, modern repos?",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah, so one of the first things we do is we clone the entire project.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Cloning is just downloading.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's a word that we use called clone where we take that project, download it to a local sandbox.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it's a secure environment.",
+            "timestamp": "00:24:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We call it a sandbox environment.",
+            "timestamp": "00:24:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That is where a lot of analysis happens on the code.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So when we download that entire code base, we run tools on it.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We build something called CodeGraph.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That builds an understanding in CodeRabbit about who is calling what from different.",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The code side.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So all of this goes into context enrichment as well.",
+            "timestamp": "00:25:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That means even in large monorepos, where people organize projects in different directories, we can, on our side, agentically probe into different parts of the project to gather more information.",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:25:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Any other kind of high-level features we should know about?",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Oh, yes.",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Actually, there's a lot of stuff in Flux.",
+            "timestamp": "00:25:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I can show you some things.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Let me see if I can find an example of it.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "What the hell is here?",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Something we recently released is a Prima check.",
+            "timestamp": "00:25:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So...",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So...",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "A lot of teams have standards of how their pull request should look like, title should be of a certain format, the description has to be of a certain format, or like some tests have to be part of the code every time we make changes, right?",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, we introduced this idea of a pre-merge check.",
+            "timestamp": "00:26:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, before you merge your pull request, these are checks, these are a list of checks that need to pass before you're ready to merge.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Think about it that way.",
+            "timestamp": "00:26:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, we have a set of pre-merge checks already defined, and I can show you that list.",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Let's go to config.",
+            "timestamp": "00:26:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, we have some pre-merge doctrine coverage, pull request title, description, issue assessment, you can mark it as a warning.",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "or an error, or you can completely turn that check off.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Sorry, I was here.",
+            "timestamp": "00:27:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:27:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Or you can even write your own custom pre-merge checks.",
+            "timestamp": "00:27:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you can tell CodeRabbit what kind of check that CodeRabbit needs to do in order to, you know, okay or not okay this pull request.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And here are some examples that we have a list of, you know, the pre-merge checks that we've added, how many fail, okay, two errors, four warnings, and four passed.",
+            "timestamp": "00:27:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this gives an idea to the next fellow human reviewer, like, hey, should this, should I allow this PR to go forward or not?",
+            "timestamp": "00:27:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The finishing touches, it's good to see it because we spoke about it.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is how you would generate the doc strings.",
+            "timestamp": "00:27:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you would, you click this button and CodeRabbit will automatically write documentation for you.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And we show a lot of information about errors and whatnot on the pull request.",
+            "timestamp": "00:28:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So the main interface of a developer to CodeRabbit is this pull request.",
+            "timestamp": "00:28:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "They don't go to the UI as much.",
+            "timestamp": "00:28:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "They mainly live and breathe on this page that I'm showing you.",
+            "timestamp": "00:28:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then I guess more generally, what have you heard from customers or kind of their favorite features?",
+            "timestamp": "00:28:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think Amanda mentioned those sequence diagrams were one that like customers mentioned, but you guys probably wouldn't say that's one of the top features.",
+            "timestamp": "00:28:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's a whole range of things, but...",
+            "timestamp": "00:28:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "People actually, this top-level features, high-level features, I would say chat is amazing.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "People actually, when CodeRabbit leaves a comment, people, I do not think it would be this way, but people chat with the bot diligently.",
+            "timestamp": "00:29:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "People reply to the bot as if it's like a fellow human reviewer, like, oh, this is garbage.",
+            "timestamp": "00:29:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "No, I'm not doing this.",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Or like, oh, wow, that's a nice suggestion.",
+            "timestamp": "00:29:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Let me do this.",
+            "timestamp": "00:29:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You know, like, they would actually reply to a bot, which is amazing to me.",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So chat, I would say, is one of the top features.",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's a very old feature, but people love that chat exists.",
+            "timestamp": "00:29:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "A lot of our competitors do not have chat.",
+            "timestamp": "00:29:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Even GitHub Copilot, which is GitHub's own feature, that doesn't support chat.",
+            "timestamp": "00:29:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we do that, and we do it well.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We integrate this learnings into it.",
+            "timestamp": "00:29:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The agentic chat is in it.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it opens up a lot of different modes of interaction with CodeRabbit.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I would say the Prima check has been doing well so far, but in full disclosure, we just added it like a few weeks back, like last week or two weeks ago.",
+            "timestamp": "00:30:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So I can't say for certain how well this is performing, but people seem to like it.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "They started using it.",
+            "timestamp": "00:30:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So we get that metrics and seems to be a well-loved feature.",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "People also really enjoy the summary that is generated.",
+            "timestamp": "00:30:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I think this is the first thing they see on the pull request.",
+            "timestamp": "00:30:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And typically, developers used to write this by hand every single time they open a pull request.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Now CodeRabbit generates this and it generates it well, like it does a good job at it, which is impressive.",
+            "timestamp": "00:30:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The walkthrough, I would say, is something that people...",
+            "timestamp": "00:30:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "...",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "...",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "People complain a lot about because they say, oh, it's too noisy, it's giving me too much information.",
+            "timestamp": "00:31:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There's like a big wall of text in front of me.",
+            "timestamp": "00:31:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I don't want to see it.",
+            "timestamp": "00:31:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "How do I turn it off?",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Poem is one of the most polarizing feature ever.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "People absolutely hate it or people absolutely love it.",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "There's no in-between.",
+            "timestamp": "00:31:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I think people appreciate the fact that the review comments are less noisy in the fact that they are relevant.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "By noise, I mean they're not like completely away from what it is reviewing.",
+            "timestamp": "00:31:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So it's contextual and it gives you these committable suggestions.",
+            "timestamp": "00:31:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I think people really appreciate this part.",
+            "timestamp": "00:31:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So a lot of times I can just like copy paste this into my code and like that is the suggestion that CodeRabbit intended.",
+            "timestamp": "00:31:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We keep track of these metrics as well, so we understand how many people are accepting suggestions given by CodeRabbit, and that's been well-received.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is something we recently did.",
+            "timestamp": "00:32:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We were always doing the categorization of the problem, so it would say it's a potential error, is it a refactor comment, is it a security vulnerability, is a nitpick comment?",
+            "timestamp": "00:32:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But we started now giving it severity.",
+            "timestamp": "00:32:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So this is the type of the issue, and this is the severity of the issue.",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So if I'm going through a list of comments, I know which ones to address first.",
+            "timestamp": "00:32:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And apart from that, I think we've put in a lot of effort into reducing noise, reducing nitpicky comments.",
+            "timestamp": "00:32:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like, you see, all the nitpicky comments are actually bunched up.",
+            "timestamp": "00:32:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "together here so we don't we don't make a comment on it we just throw it away just in case if you want to go through that list yeah uh so people are being here that we use that that noise um we integrate a lot of tools as I mentioned so the output of the tool not only give we give you what the issue is but we give you a fix for it as well which is nice um yeah then who would you say like is your closest competitor right now i know amanda mentioned like reptiles graphite um bugbot who's kind of at the top of the list for at least like capability and uh performance i would say reptiles uh reptile has been especially because i'm in a lot of enterprise conversations uh reptiles name comes up a lot uh bugbot has been coming",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Up recently because it's a brand new product.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "People always want to try it.",
+            "timestamp": "00:34:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "BugBot is by Kurser, if I believe.",
+            "timestamp": "00:34:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So people who already have Kurser licenses, they're bound to try that as well.",
+            "timestamp": "00:34:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Copilot is pretty much out of the picture.",
+            "timestamp": "00:34:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like it's the review comments by Copilot are just so bad.",
+            "timestamp": "00:34:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "They're so bad.",
+            "timestamp": "00:34:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "They're like, they're out of context and sometimes not as detailed.",
+            "timestamp": "00:34:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So Creptide would be my answer to the closest, like the top most competitive.",
+            "timestamp": "00:34:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:34:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then would you say, like, what would you say is kind of your, like, if you had to pick one biggest unique differentiation or moat that CodeRabbit has?",
+            "timestamp": "00:34:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "The biggest mod is that we...",
+            "timestamp": "00:34:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can do all this at a $20 price.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is one of the, there's a lot of engineering that goes behind this because LLM costs are not cheap.",
+            "timestamp": "00:35:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "A lot of our competitors charge by usage, which doesn't hold up.",
+            "timestamp": "00:35:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We charge by seat, per seat pricing.",
+            "timestamp": "00:35:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So if you open a pull request, you are one seat.",
+            "timestamp": "00:35:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And the engineering, the quirky things that we do on the back end is how do we manage where the call goes?",
+            "timestamp": "00:35:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like what model do we pick for the task?",
+            "timestamp": "00:35:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All of that helps in reducing the cost overall.",
+            "timestamp": "00:35:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "More complex tasks go to more larger and more comprehensive models.",
+            "timestamp": "00:35:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Smaller tasks, like for example, the summary that I showed you is done by a smaller model.",
+            "timestamp": "00:35:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So that's how we manage the.",
+            "timestamp": "00:35:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The other thing is, the context building that we do is quite comprehensive.",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That is something that our competitors haven't matched yet.",
+            "timestamp": "00:36:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is because we've added a lot of external configurations.",
+            "timestamp": "00:36:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We can, in a secure manner, clone their code, probe into different parts of the code, build that context, and then send it to LLM, versus only looking at the disk, right?",
+            "timestamp": "00:36:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like, what has changed?",
+            "timestamp": "00:36:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That's not the only thing we look at.",
+            "timestamp": "00:36:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So that's also a big differentiator compared to our competitors.",
+            "timestamp": "00:36:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So mainly price and points of context.",
+            "timestamp": "00:36:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:36:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I mean, yes.",
+            "timestamp": "00:36:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The context, I would say, would be the biggest one in the price.",
+            "timestamp": "00:36:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "The engineering makes the price happen, right?",
+            "timestamp": "00:37:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It enables us to cost so less because we do well on management of the LM calls.",
+            "timestamp": "00:37:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, because you guys, the revenue model is completely different than competitors.",
+            "timestamp": "00:37:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:37:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:37:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Those are the big questions I had.",
+            "timestamp": "00:37:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there anything else you feel like I should know?",
+            "timestamp": "00:37:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Any other parts of the product that we didn't cover?",
+            "timestamp": "00:37:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Yeah, there's a lot.",
+            "timestamp": "00:37:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "I'm sure I'm missing something.",
+            "timestamp": "00:37:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like reports, didn't even touch on reports, but it's fine.",
+            "timestamp": "00:37:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We have dashboards.",
+            "timestamp": "00:37:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "We show the usage of CodeRabbit to justify the ROI.",
+            "timestamp": "00:37:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Because oftentimes the people trying it and making the case for CodeRabbit are different from the people who are in charge of making the decision of buying the code, of buying the tool.",
+            "timestamp": "00:37:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So, So,",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So dashboards like this help to make that case.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "And then there's subscription page.",
+            "timestamp": "00:38:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "A lot of open source users then kind of go back to work and they're like, I need the same thing I was using on the open source project.",
+            "timestamp": "00:38:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then they tap their manager to be like, hey, we need to go buy this.",
+            "timestamp": "00:38:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:38:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:38:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So that was our early GTM motion, right?",
+            "timestamp": "00:38:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Our entire motion was based around ground up, open source adoption, people using it on their open source projects and then going back to their companies and like, hey, why don't we use this?",
+            "timestamp": "00:38:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "It's a good tool.",
+            "timestamp": "00:38:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "But at that point, these conversations come up like, why should I pay $20?",
+            "timestamp": "00:38:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Like, what is the case for it?",
+            "timestamp": "00:38:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "How do you make the case for it?",
+            "timestamp": "00:38:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Because at the end of the day, a budget has to be allocated for it.",
+            "timestamp": "00:38:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So all of that is possible using the dashboard metrics.",
+            "timestamp": "00:38:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "You can manage feeds very easily.",
+            "timestamp": "00:38:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "That's another thing we've worked on.",
+            "timestamp": "00:39:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "This is the per-seat pricing that I was talking about.",
+            "timestamp": "00:39:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "So you as an organization purchase seats, and then you enable it for the people on your organization.",
+            "timestamp": "00:39:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:39:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome, well, yeah, nothing else that comes to mind.",
+            "timestamp": "00:39:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think I've got enough to at least build a, we kind of build these feature matrices that are artifacts that go into our content generation system.",
+            "timestamp": "00:39:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I've got enough to go off of, but if any other questions come up, I might ping you or Amanda and just get a question to go through.",
+            "timestamp": "00:39:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But appreciate the time and happy to give you 20 minutes back in your Friday.",
+            "timestamp": "00:39:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:39:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "Have a good weekend, man.",
+            "timestamp": "00:39:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Hasit Mistry",
+                "matched_calendar_invitee_email": "hasit@coderabbit.ai"
+            },
+            "text": "All right, you too.",
+            "timestamp": "00:39:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "See ya.",
+            "timestamp": "00:39:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:39:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:40:01"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into CodeRabbit's product features, capabilities, and competitive positioning with Hasit Mistry, founding engineer and enterprise engineering lead.](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=25.0)\n\n## Key Takeaways\n\n  - [CodeRabbit is an AI-powered code review tool that automates and enhances the review process, offering features like pull request summaries, technical walkthroughs, and interactive chat.](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=148.0)\n  - [Key differentiators include comprehensive context building, competitive $20/seat pricing model, and integration with various development tools and platforms.](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=2088.0)\n  - [Popular features among users include the chat functionality, pre-merge checks, and the ability to generate documentation automatically.](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1710.0)\n\n## Topics\n\n### CodeRabbit Overview and Core Functionality\n\n  - [Automates code review process across multiple Git providers (GitHub, GitLab, Azure DevOps, Bitbucket)](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=166.0)\n  - [Free for open-source projects, driving adoption and word-of-mouth growth](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=280.0)\n  - [Key features:](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=313.0)\n      - [Pull request summarization and technical walkthrough](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=313.0)\n      - [AI-powered code review comments with committable suggestions](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=423.0)\n      - [Interactive chat for clarifications and improvements](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=471.0)\n      - [Learning capability to adapt to team preferences over time](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=588.0)\n\n### Advanced Features and Integrations\n\n  - [Web search capability to update AI knowledge in real-time](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=762.0)\n  - [Integration with project management tools (JIRA, Linear) for ticket-based context](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1294.0)\n  - [Pre-merge checks to ensure pull request quality and adherence to standards](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1556.0)\n  - [Automatic documentation generation](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=704.0)\n  - [External integrations with Notion and other knowledge bases via RAG](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1386.0)\n\n### Technical Capabilities and Performance\n\n  - [Language and framework agnostic due to use of frontier LLM models](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1043.0)\n  - [Handles large, complex repositories through secure sandboxing and CodeGraph analysis](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1445.0)\n  - [Comprehensive context building by cloning entire projects and probing different code parts](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1445.0)\n\n### User Experience and Interface\n\n  - [Primary interface is the pull request page within Git providers](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1682.0)\n  - [Configurable at organization and project levels](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1116.0)\n  - [Custom instructions and guidelines can be easily incorporated](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1116.0)\n\n### Competitive Advantages\n\n  - [Comprehensive context building capabilities](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=2161.0)\n  - [Competitive pricing model ($20/seat) enabled by efficient LLM call management](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=2088.0)\n  - [Interactive chat functionality not available in some competing products](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1710.0)\n\n### Customer Favorites and Feedback\n\n  - [Chat functionality highly appreciated and widely used](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1710.0)\n  - [Pre-merge checks gaining popularity](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1710.0)\n  - [Pull request summaries and walkthrough comments well-received](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1710.0)\n  - [Committable suggestions and reduced noise in reviews](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=1885.0)\n\n### Reporting and ROI Justification\n\n  - [Dashboards available to showcase usage metrics and justify ROI to decision-makers](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=2259.0)\n\n## Next Steps\n\n  - [Erik to build feature matrices as artifacts for content generation system](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=2364.0)\n  - [Follow up with Hasit or Amanda if additional questions arise during content creation process](https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz?tab=summary&timestamp=2364.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "Hasit Mistry",
+            "email": "hasit@coderabbit.ai",
+            "email_domain": "coderabbit.ai",
+            "is_external": true,
+            "matched_speaker_display_name": "Hasit Mistry"
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/Un4kri3wjhq2VTtykM9EiGzxtXthUsfz",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

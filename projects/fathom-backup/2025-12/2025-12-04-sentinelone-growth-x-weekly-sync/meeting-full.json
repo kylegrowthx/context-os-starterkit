@@ -1,0 +1,1986 @@
+{
+    "title": "SentinelOne <> Growth X - Weekly Sync",
+    "meeting_title": "SentinelOne <> Growth X - Weekly Sync",
+    "url": "https://fathom.video/calls/494185705",
+    "created_at": "2025-12-04T15:18:18Z",
+    "scheduled_start_time": "2025-12-04T15:00:00Z",
+    "scheduled_end_time": "2025-12-04T15:30:00Z",
+    "recording_id": 106282587,
+    "recording_start_time": "2025-12-04T15:00:44Z",
+    "recording_end_time": "2025-12-04T15:18:10Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I can keep this a little bit concise for you so you can get off the This meeting is being recorded.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I would honestly appreciate that.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I think both Anketa and Mahindra are currently out of office.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So if you can give the CVE updates to him over Slack, that would be really great.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Yeah, I think he had popped in and scanned the agenda and followed up already.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So I think we're good there.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I'll make sure if there's any other CVE updates from our ENG team to pass those on.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "But it sounds like the code freeze is still in place.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So I figured I wanted to introduce Bailey.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So we'll get to that in a second.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And then we can kind of dive into some of the CS101 content.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Hi, Bailey.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I'm so sorry.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I directly jumped into the agenda.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "No, it's all good.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So quick update.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And I had shared in Slack as well.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Bailey is going to be joining as your engagement manager.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So she'll",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "be taking over all the day-to-day comms and looking at big picture strategy with you all.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "She and I have spent quite a bit of time.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I've read her into a lot of what we have been working on and some key strategies that we have been looking into.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "She's wonderful.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I will let her introduce herself a little bit more.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Hi.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It's really nice to meet you.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'm excited to be joining the team and the account.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And Katya has done a great job catching me up on all the work you've done so far and some of the areas we're going to be focusing on going forward.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So just a little about my background.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I've worked in content across agencies and also in-house for quite a long time.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Most recently, I was running content at an AI services startup that was building bespoke AI products for mostly enterprise clients, a lot in regulated industries like finance and healthcare.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So that's sort of my background.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Background.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And so coming into this, I'm excited to catch up on all the work you've done so far and kind of hear more about where your focus is going forward.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And I'll be on Slack and I'll be sort of leading these meetings going forward.",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "But Katya and I have been working really closely together.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So hopefully the handoff will be as smooth as possible.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And I will, I'll still be in the background, able to support, like answer any questions.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I'm not totally disappearing.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So I want you all to know that as well.",
+            "timestamp": "00:02:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "One of the reasons that we thought Bailey would be a great fit, she's on a little bit earlier time zone.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And I know this meeting gets quite late for you all.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So something that you all can potentially chat about going forward is if, if we can bump this meeting up for you guys a little bit, so it's not quite so late.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "That, that would be good.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So hi, Bailey.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Nice to meet you.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I will also quickly introduce myself.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So I am Vansi.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I'm handling the SEO and content side of things for specifically for Sentinel One CS.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "you.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So all the content that you see, the articles that are getting published, and some of the SEO activities that are handled by me at the moment.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Well, I'm looking forward to working closely together on all of that.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And yes, as I said, I'm on the Eastern time zone.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So if we want to move this up an hour and potentially even two hours, if that made it easier for your team, I'm happy to do that as well.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:03:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I think we can discuss about this one later on, but yes, surely that would be great.",
+            "timestamp": "00:03:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Sounds great.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Just jump in to a few quick things.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So we've got five articles coming to you.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I'm really appreciative that you guys were able to approve some of those assignments that we sent over so quickly so we could keep that pipeline going.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So these are the five coming over to you this week.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "They should be done polished by Friday.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And then for the revisions, I know you sent one that had basically...",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "We will be rerunning that one through our pipeline just to make sure that content is like really polished and accurate and all that good stuff.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So that revision in particular will come through next week.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I just wanted to flag that since typically we're able to get them back to you within the same week.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And also looking at all of our assignments, looks like we've got about three weeks of contract runway, which is nice going into the holidays.",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So we've got a little bit of time and wiggle room there.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And one of the things coming up to keep poking at is some of that long tail keyword research.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "We had discussed that as a possibility shortly before the holiday.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And so it's something that we are exploring to see if that is a good avenue for us to expand some of the CS101 content lanes rather than the really focused keywords we have been pulling so far, which was the primary content in the batch of assignments that I sent over earlier this week.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "we a All Hold.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Before I dig into the research update on some of those refreshes that we were looking into, I did want to check with you, Mansi, on your preferred word count, like sort of the depth of content.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "One of the things I noticed in a lot of the revisions lately is that these articles are tending to get quite long, which isn't necessarily a bad thing.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "But I wanted to make sure that like hitting that 3K word count isn't a red flag for you all, because we can potentially shorten the, you know, extent of information in each H2 if we still want those headers to be expansive in the different pieces that they're capturing.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So ideally, we are not very fixated on the word count, so for 3K is perfectly fine, but we, we prefer in the range between 2200 to 2500.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So that's, that's the ideal thing for us, but for some kind of, for some pieces where the TOC is, you know, a lengthy one.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "If it exceeds three gates, it's not necessarily a problem for us.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "That's good to know.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "With that in mind, a lot of the content that we develop like on a weekly basis, we typically aim for something between like $1,500 to $2,000 when we're delivering five a week.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So something that could help us ensure like we're giving, you know, really close read on all the accuracy pieces as we're working on like implementing those fact checkers and things for product dev.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "If we're looking at articles where we're consistently at the like $2,500 to $3,000 range, I would suggest doing three articles instead of five.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "It's just going to give us a little bit more space and room to give those really thorough reviews before we send them over to you.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So I wanted to flag that as something that we kind of have in our mind with these really expansive and in-depth articles.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "For three articles, we'll be able to do, I think, three to four, 12 articles per month, right?",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I think I'll speak to Ankita about this, and I'll communicate over to you and Billy over Slack, if that's okay.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Yeah, yeah, that works.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I just wanted to flag that.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I know we didn't have a specific number in our scope of work outlined, and so it's one of the things that we look at as often, like, the word count that we are looking at delivering.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So, yeah, by all means, like, please, check with Ankita, and we can keep chatting about what that looks like.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I'll take this up in tomorrow's stand-up call, and I'll let you know over Slack.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "That's okay.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Okay, yeah.",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "As far as the refreshes go, I did some digging in with one of our directors kind of behind the scenes on areas.",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So some context for as we're looking at refreshes and any sort of new content lane.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Really, what we're looking for are opportunities where...",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "...",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "We can get at least several months of runway for any new lane, in part because of the time it takes us to refine our pipelines and calibrate with you all on what those refreshes would look like.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Something that we noticed with CS101 is there's a ton of really recent content and looks like things have been updated fairly regularly, and it's already quite expansive.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Like most of the things we're looking at have really thorough table of contents and FAQs and a lot of those things that we would be able to kind of rapidly execute and implement at scale.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "What we were noticing is there might be like a month of runway of content that we could refresh, which would really mean that your team and our team are spending a lot of time calibrating, and then we're potentially hitting another roadblock in the amount of content that we could be rapidly firing off to you guys within that refresh lane.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So at this point, our recommendation is probably actually not to do that refresh, in part, the original audit that was sent over had, you know, those 3000 articles that would",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "was conflated from how the URLs were pulled, and as we talked about last week, that's actually a much shorter list.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So I wanted to flag that, that after a little bit of digging, just so that both of our teams are using our time, and we're the best strategic partner for you in terms of delivering content really effectively at scale.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Because we also talked about not doing any refreshes regarding cannibalization since your team had done that.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "It seems like that might be something good for us to put on the back burner.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Potentially, the cannibalization piece comes up later, like, we can definitely, like, bring that conversation back up.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I know Ankit mentioned that might be, like, every six months an activity that we could look at supporting.",
+            "timestamp": "00:09:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "But just wanted to flag that for you and your team, since I know that that was something that we were really working on the last couple weeks.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I know that makes sense.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Recently, we have been, I mean, I have been optimizing a lot of articles.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Yeah, no, we were coming through and seeing like all the dates were pretty fresh.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Like it doesn't make sense for us to duplicate your work, right?",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So with that said, we are, like I mentioned, we are digging more into those long tail keywords to see if we can get a little bit more roadway there.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "We do have that three weeks of content looking.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And with the CVE pipeline as well, like that is a quite extensive, that's sort of a great example of an area that we can execute rapidly at scale.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "You know, 300K plus CVE entries.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "We've got a ton of runway there to experiment and deliver just a massive amount of content for you guys on a weekly basis once that code freeze is lifted.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So it's something that we can all keep in mind, like, as we continue to look at opportunities and explore ways that we might be able to continue to like generate an editorial lane that is highly repeatable like that.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "But yeah, just wanted to offer some context around there that we're thinking of.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I realized this is very wordy.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Do you have any questions about any of this or any other aspects around CS101 that you wanted to discuss today?",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I just have a few updates for you.",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So we went live with seven articles.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "And then we, so I think the PMM have promised to give another five articles by, I think, 8th or 9th of December.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So before our next call, I think most chunk of our backlogs will be clear.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:11:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Yeah, that's.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Do you happen to have, oh, one other update that I made.",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I realized that in this interface that I had sent over, not all of you had edit access.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I did actually update that.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So in this view, which is linked in the agenda, and I can link it directly to you if that would be helpful.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Um, you should be able to update these statuses here now.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Um.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So anything that was originally a PMM review, if you can just go ahead and send that to publication, and then we know to grab those links and update looker and all that good stuff.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Oh, perfect.",
+            "timestamp": "00:12:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "No, I can update this.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Amazing.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Yeah, sorry for that.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "That oversight on my end.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I thought that all the permissions would work.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Airtable lied to me.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Anything else on your mind that you want to discuss today, Mansi?",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So there was one article, if you can go through the, I incorporated Jeremy's comments, but there was one article called micro segment, if I'm not wrong.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So I think if, I mean, I've cleared his comments, but if you can just go through the comment, you can see them.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So he had a lot of feedback to give.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "And since we are not, so since we are not in that space, so I have to.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "You your H2 header also a bit.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So I do not want any misleading content to go in CSO 101.",
+            "timestamp": "00:13:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "It really backbites them.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So in spaces where we are not directly putting out our products or features, I do not want our H2 heading saying this with S1.",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So micro segment with S1 will totally misguide the users.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So if you can tweak something like that.",
+            "timestamp": "00:13:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So I think this space...",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Sorry, go ahead.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I'm so sorry.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "In these spaces where we are directly not providing any product or features, let's not claim that S1 is in that space.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "We can have CTAs.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "We can have product mentions there.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "But the H2 should be not promising that we are into that space.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:13:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And I know that relates somewhat to our discussion and what we've got in the works to implement.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "A fact checker for product placement.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And so we can incorporate that into the fact checker as well to make sure that those headers are accurately selecting where and where you guys do not have products that provide those direct services.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Yes, that's what we did for us.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I had mentioned last week that we have a piece of content from you.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "It says that you were the owner.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And I think it's a copy that I have.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I'm not sure where the original is that describes the products and services.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Can I send a version of that over in a Google Doc to you for you to check and see just in case there's a more updated version?",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Because I know with your acquisitions of Observo and prompt injection, there might be some changes.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "And we can use that to make sure that all of our fact checking is really up to date for current offerings that you all have.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I have made the document, I can make the changes, and I'll also have QC'd it once.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "So it was reviewed by PMMs, and actually it's correct for the products that are in there, but we do have to add Observo and Prompt Engineering products to that.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Okay, I think the version I have access to, it's in our pipeline, which is distinct from probably the version that you had initially shared.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Do you mind sharing the link to the current doc that you have, so that we can make sure that our file is up to date?",
+            "timestamp": "00:15:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I do have, but just give me time till tomorrow and revise it once again and add other products.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "And not tomorrow, just give me time till Monday.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Monday sounds better.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Monday I can share it with you.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Yeah, yeah, no worries.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "I just wanted to make sure that we're pulling all of the most up-to-date information.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "That would be wonderful.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:15:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Well, thank you so much for flagging the micro-segmentation article in particular.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "We can dig into that a little bit more.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Bailey or Mansi, do either of you have any last things?",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I mean, got kind of a quick call today.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "The only thing that I would flag is that I think next week on our call, especially if we have more of the full team here, it would be great to talk through a little bit more of that long-tail keyword research.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And for me, I think to get a better sense of, you know, what kind of topics your team is comfortable with, what kind of volume is kind of your threshold, just to inform that research as we kind of extend our runway.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So that's something I would love to kind of dig into a little bit more next week.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Also, Mahindra would be POC for that.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So he handles all the topic approvals and the topics that have to be suggested.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "So you can also see the comments for ejected and everything.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "that's Mahindra, that's the POC for that.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Katya Luscomb",
+                "matched_calendar_invitee_email": "katya@growthx.ai"
+            },
+            "text": "Well, thank you so much for your time, Mansi.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Really appreciate it.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Hope you're able to get some rest tonight.",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "I'll see you guys next week.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mansi Bhalothia",
+                "matched_calendar_invitee_email": "mansi.bhalothia@sentinelone.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:17:19"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Introduce new EM Bailey and sync on content strategy.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=35.0)\n\n## Key Takeaways\n\n  - [**EM Handoff:** Bailey Seybolt is the new Engagement Manager; Katya Luscomb will provide background support.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=52.0)\n  - [**Content Cadence:** To improve quality, GrowthX proposed reducing the weekly article cadence from 5 to 3. Mansi will discuss with Ankita and confirm.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=301.0)\n  - [**Strategy Shift:** The CS101 refresh project is paused. Its limited runway (due to recent internal updates) makes it inefficient. GrowthX will now focus on long-tail keyword research to build a new content pipeline.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=464.0)\n  - [**Product Accuracy:** GrowthX will add a fact-checker to prevent misleading claims (e.g., \"Micro-segmentation with S1\") in articles on topics where SentinelOne lacks a direct product.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=752.0)\n\n## Topics\n\n### EM Handoff & Scheduling\n\n  - [Bailey Seybolt is the new Engagement Manager, taking over daily comms and strategy.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=52.0)\n      - [Background: Content lead at an AI services startup (enterprise clients in finance/healthcare).](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=92.0)\n      - [Katya Luscomb will remain available for background support.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=130.0)\n  - [The weekly sync time will be moved earlier to accommodate Bailey's Eastern Time Zone.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=149.0)\n\n### Content Pipeline & Cadence\n\n  - [**Deliverables:** 5 new articles are due this Friday.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=218.0)\n  - [**Revisions:** One article requires a full rewrite and will be delivered next week, not this week.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=236.0)\n  - [**Runway:** The current assignment pipeline provides \\~3 weeks of content.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=260.0)\n  - [**Proposed Cadence Change:**](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=301.0)\n      - [**Problem:** Articles are consistently long (2.5k\u20133k words), exceeding the ideal 2.2k\u20132.5k range.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=301.0)\n      - [**Rationale:** This high word count strains the 5-article/week cadence, limiting thorough review time.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=367.0)\n      - [**Proposal:** Reduce cadence to 3 articles/week to ensure higher quality and accuracy.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=367.0)\n      - [**Decision:** Mansi will discuss with Ankita and confirm via Slack.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=388.0)\n\n### Strategy Pivot: Pausing CS101 Refreshes\n\n  - [**Decision:** Pause the CS101 content refresh project.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=464.0)\n  - [**Rationale:**](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=464.0)\n      - [The original audit list of 3,000 articles was inflated by a URL pull error; the actual list of refresh candidates is much shorter.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=530.0)\n      - [SentinelOne's team has already completed recent, thorough optimizations on most relevant articles.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=592.0)\n      - [The remaining runway is too short (\\~1 month) to justify the time investment in calibrating a new pipeline.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=472.0)\n  - [**New Focus:** GrowthX will now explore long-tail keyword research to build a new, scalable content lane.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=271.0)\n\n### Product Accuracy & Fact-Checking\n\n  - [**Problem:** Articles must not make misleading product claims.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=752.0)\n      - [**Example:** The \"Micro-segmentation\" article's H2 was edited to remove \"with S1\" because SentinelOne lacks a direct product in that space.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=752.0)\n  - [**Solution:** GrowthX will add a product placement fact-checker to its workflow.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=831.0)\n  - [**Resource:** To ensure accuracy, GrowthX needs an updated product/services doc that includes recent acquisitions (Observo, Prompt Engineering).](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=862.0)\n      - [Mansi will update the doc and share by Monday.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=862.0)\n\n### Project Admin\n\n  - [**Airtable Permissions:** Edit access was granted, allowing SentinelOne to update article statuses (e.g., \"PMM Review\" \u2192 \"Publication\").](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=699.0)\n  - [**Backlog:** 7 articles are live. 5 more are expected from PMMs by Dec 8\u20139, clearing most of the backlog.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=670.0)\n  - [**CVE Pipeline:** This remains a key opportunity for scalable content once the code freeze is lifted.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=619.0)\n\n## Next Steps\n\n  - [**Mansi:**](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=413.0)\n      - [Discuss the 3-article/week cadence proposal with Ankita and confirm via Slack.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=388.0)\n      - [Update the product/services doc with Observo and Prompt Engineering info; share by Monday.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=862.0)\n  - [**Bailey:**](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=976.0)\n      - [Lead next week's discussion on long-tail keyword research.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=976.0)\n      - [Sync with Mahindra (POC for topic approvals) on research findings.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=976.0)\n  - [**GrowthX:**](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=218.0)\n      - [Add a product placement fact-checker to the content workflow.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=831.0)\n      - [Deliver 5 new articles by Friday.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=218.0)\n      - [Deliver the revised article next week.](https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b?tab=summary&timestamp=236.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Post CVE updates in Slack for Ankita + Mahindra",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:00:00",
+            "recording_playback_url": "https://fathom.video/calls/494185705?timestamp=0.0",
+            "assignee": {
+                "name": "Katya Luscomb",
+                "email": "katya@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Discuss weekly output w/ Ankita; Slack Katya + Bailey decision",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:06:52",
+            "recording_playback_url": "https://fathom.video/calls/494185705?timestamp=412.9999",
+            "assignee": {
+                "name": "Mansi Bhalothia",
+                "email": "mansi.bhalothia@sentinelone.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Update Airtable: set PMM-approved to Publication; GrowthX will pull links + update Looker",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:11:31",
+            "recording_playback_url": "https://fathom.video/calls/494185705?timestamp=691.9999",
+            "assignee": {
+                "name": "Mansi Bhalothia",
+                "email": "mansi.bhalothia@sentinelone.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Revise 'Microsegmentation' per Jeremy; remove S1 claims from H2s",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:12:21",
+            "recording_playback_url": "https://fathom.video/calls/494185705?timestamp=741.9999",
+            "assignee": {
+                "name": "Katya Luscomb",
+                "email": "katya@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Update product/services doc w/ Observo + Prompt Engineering; QC + share link w/ Katya",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:14:26",
+            "recording_playback_url": "https://fathom.video/calls/494185705?timestamp=866.9999",
+            "assignee": {
+                "name": "Mansi Bhalothia",
+                "email": "mansi.bhalothia@sentinelone.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Drew Hoffman",
+            "email": "drewh@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Ankit Pahuja",
+            "email": "ankit.pahuja@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "mansi.bhalothia@sentinelone.com",
+            "email": "mansi.bhalothia@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Mansi Bhalothia"
+        },
+        {
+            "name": "Mahendra Desarda",
+            "email": "mahendra.desarda@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Aida Kne\u017eevi\u0107",
+            "email": "aida@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Marcus Derencius",
+            "email": "marcus@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mahati Rapol",
+            "email": "mahati.rapol@sentinelone.com",
+            "email_domain": "sentinelone.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Marisol Smith",
+            "email": "marisol@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Bailey Seybolt",
+            "email": "bailey@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Bailey Seybolt"
+        },
+        {
+            "name": "Katya Luscomb",
+            "email": "katya@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Katya Luscomb"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        }
+    ],
+    "recorded_by": {
+        "name": "Team GrowthX",
+        "email": "team@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/1ftz6L3arzvSTjK_z9dFX8gTv7N-k51b",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

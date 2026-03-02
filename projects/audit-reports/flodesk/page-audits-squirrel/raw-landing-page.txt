@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audit version="0.0.38">
+<site url="https://flodesk.com" crawled="1" date="2026-02-28T15:48:43.571Z"/>
+<score overall="44" grade="F">
+ <cat name="Accessibility" score="75"/>
+ <cat name="Core SEO" score="68"/>
+ <cat name="Crawlability" score="90"/>
+ <cat name="Security" score="60"/>
+ <cat name="E-E-A-T" score="53"/>
+ <cat name="Performance" score="88"/>
+ <cat name="Content" score="63"/>
+ <cat name="Links" score="88"/>
+ <cat name="Images" score="93"/>
+ <cat name="Analytics" score="100"/>
+ <cat name="Internationalization" score="100"/>
+ <cat name="Legal Compliance" score="100"/>
+ <cat name="Mobile" score="100"/>
+ <cat name="Structured Data" score="100"/>
+ <cat name="Social Media" score="100"/>
+ <cat name="URL Structure" score="100"/>
+</score>
+<summary passed="94" warnings="34" failed="5"/>
+<issues>
+ <category name="Crawlability" errors="1" warnings="2">
+  <rule id="crawl/sitemap-valid" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/crawl/sitemap-valid">
+   8 error(s) in 8 sitemap(s)
+   Items (5/8):
+    - /sitemap.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap_index.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap-index.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemaps.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap1.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+  </rule>
+  <rule id="crawl/canonical-chain" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/crawl/canonical-chain">
+   Page redirects before content is served
+   Pages (1): /blog/landing-page
+   Items (1):
+    - /blog/landing-page/ (https://flodesk.com/blog/landing-page (301) → https://flodesk.com/blog/landing-page/ (200)) [finalUrl: https://flodesk.com/blog/landing-page/, chain: {&quot;sourceUrl&quot;:&quot;https://flodesk.com/blog/landing-page&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/landing-page/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;https://flodesk.com/blog/landing-page&quot;,&quot;statusCode&quot;:301,&quot;type&quot;:&quot;http&quot;},{&quot;url&quot;:…]
+  </rule>
+  <rule id="crawl/sitemap-coverage" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/crawl/sitemap-coverage">
+   1 indexable page(s) not in sitemap (100%)
+   Items (1):
+    - /blog/landing-page
+  </rule>
+ </category>
+ <category name="Core SEO" errors="1" warnings="4">
+  <rule id="core/meta-title" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/core/meta-title">
+   Title too short
+   Pages (1): /blog/landing-page
+   Items (1):
+    - /blog/landing-page/ (Landing Page - Flodesk (22 chars))
+  </rule>
+  <rule id="core/meta-description" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/core/meta-description">
+   Missing meta description
+   Pages (1): /blog/landing-page
+  </rule>
+  <rule id="core/og-tags" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/core/og-tags">
+   Missing og:description; Missing og:image - social shares will lack imagery
+   Pages (1): /blog/landing-page
+  </rule>
+  <rule id="core/twitter-cards" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/core/twitter-cards">
+   summary_large_image card requires an image
+   Pages (1): /blog/landing-page
+  </rule>
+ </category>
+ <category name="Security" errors="0" warnings="6">
+  <rule id="security/leaked-secrets" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/security/leaked-secrets">
+   2 potential secret(s) detected (verify manually)
+   Items (2):
+    - Generic API Key Assignment: API_KE********************b27&apos; (Found in inline-script (https://flodesk.com/blog/landing-page))
+    - Amplitude API Key: a20221********************1b27 (Found in inline-script (https://flodesk.com/blog/landing-page))
+  </rule>
+  <rule id="security/csp" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/csp">
+   No Content-Security-Policy header
+  </rule>
+  <rule id="security/hsts" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/hsts">
+   Missing Strict-Transport-Security header
+  </rule>
+  <rule id="security/x-frame-options" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/x-frame-options">
+   No clickjacking protection
+  </rule>
+  <rule id="security/new-tab" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/new-tab">
+   1 external link(s) missing rel=&quot;noopener&quot;
+   Pages (1): /blog/landing-page
+   Items (1):
+    - https://university.flodesk.com/
+  </rule>
+  <rule id="security/http-to-https" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/http-to-https">
+   2 HTTP URL(s) redirect to HTTPS
+   Items (2):
+    - http://flodesk.com/ (http://flodesk.com/ → https://flodesk.com/ (301)) [statusCode: 301, chain: {&quot;sourceUrl&quot;:&quot;http://flodesk.com/&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;http://flodesk.com/&quot;,&quot;statusCode&quot;:301,&quot;type&quot;:&quot;http&quot;},{&quot;url&quot;:&quot;https://flodesk.com/&quot;,&quot;statusCode&quot;:200,&quot;type&quot;:&quot;http&quot;}…]
+    - http://flodesk.com/blog/landing-page (http://flodesk.com/blog/landing-page → https://flodesk.com/blog/landing-page/ (301)) [statusCode: 301, chain: {&quot;sourceUrl&quot;:&quot;http://flodesk.com/blog/landing-page&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/landing-page/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;http://flodesk.com/blog/landing-page&quot;,&quot;statusCode&quot;:301,&quot;type&quot;:&quot;http&quot;},{&quot;url&quot;:&quot;h…]
+  </rule>
+ </category>
+ <category name="Links" errors="0" warnings="2">
+  <rule id="links/https-downgrade" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/https-downgrade">
+   2 link(s) downgrade to HTTP
+   Pages (1): /blog/landing-page
+   Items (2):
+    - http://www.instagram.com/flodesk
+    - http://www.pinterest.com/flodesk
+  </rule>
+  <rule id="links/redirect-chains" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/redirect-chains">
+   1 page(s) redirect to another URL
+   Items (1):
+    - /blog/landing-page (https://flodesk.com/blog/landing-page (301) → https://flodesk.com/blog/landing-page/ (200)) [targetUrl: https://flodesk.com/blog/landing-page/, chain: {&quot;sourceUrl&quot;:&quot;https://flodesk.com/blog/landing-page&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/landing-page/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;https://flodesk.com/blog/landing-page&quot;,&quot;statusCode&quot;:301,&quot;type&quot;:&quot;http&quot;},{&quot;url&quot;:…]
+  </rule>
+ </category>
+ <category name="Content" errors="0" warnings="3">
+  <rule id="content/heading-hierarchy" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/content/heading-hierarchy">
+   Skipped heading levels detected
+   Pages (1): /blog/landing-page
+   Items (1):
+    - H1 -&gt; H3
+  </rule>
+  <rule id="content/keyword-stuffing" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/content/keyword-stuffing">
+   3 word(s) may be overused
+   Pages (1): /blog/landing-page
+   Items (3):
+    - page (&quot;page&quot; (7.1%)) [count: 12, density: 7.100591715976331]
+    - flodesk (&quot;flodesk&quot; (5.9%)) [count: 10, density: 5.9171597633136095]
+    - landing (&quot;landing&quot; (4.1%)) [count: 7, density: 4.142011834319527]
+  </rule>
+  <rule id="content/word-count" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/content/word-count">
+   Thin content: 220 words (min 300)
+   Pages (1): /blog/landing-page
+   Items (1):
+    - /blog/landing-page (Thin content: 220 words (min 300))
+  </rule>
+ </category>
+ <category name="Images" errors="0" warnings="1">
+  <rule id="images/svg-inline" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/images/svg-inline">
+   2 large inline SVG(s) (&gt;4KB each)
+   Pages (1): /blog/landing-page
+   Items (1):
+    - /blog/landing-page (2 large inline SVG(s) (&gt;4KB each))
+  </rule>
+ </category>
+ <category name="Performance" errors="0" warnings="4">
+  <rule id="perf/js-file-size" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/perf/js-file-size">
+   1 JS file(s) exceed 250.0 KB
+   Items (1):
+    - /blog/wp-content/themes/seachange-flodesk-wp/dist/main.js?ver=1765442095 [sizeBytes: 360091, size: 351.7 KB, status: 200, contentType: application/javascript] (from: /blog/landing-page)
+  </rule>
+  <rule id="perf/critical-request-chains" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/critical-request-chains">
+   4 critical request chain(s) found
+   Pages (1): /blog/landing-page
+   Items (4):
+    - CSS: /blog/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.8
+    - CSS: /blog/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5
+    - CSS: /blog/wp-content/themes/seachange-flodesk-wp/dist/screen.css?ver=1765442095
+    - JS: https://transcend-cdn.com/cm/b022c246-e40c-4b32-b749-35faaa65cbe9/airgap.js
+  </rule>
+  <rule id="perf/unminified-js" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/unminified-js">
+   2 JavaScript file(s) appear unminified
+   Pages (1): /blog/landing-page
+   Items (2):
+    - inline script (2.6KB, ~0.3KB savings) [reason: high newlines (1.98%), formatted code, excessive whitespace]
+    - main.js (351.7KB, ~229.7KB savings) [reason: 12 comments]
+  </rule>
+  <rule id="perf/cache-headers" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/cache-headers">
+   No caching headers found
+   Pages (1): /blog/landing-page
+  </rule>
+ </category>
+ <category name="Accessibility" errors="3" warnings="7">
+  <rule id="a11y/button-name" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/button-name">
+   Buttons without accessible names
+   Pages (1): /blog/landing-page
+   Items (1):
+    - button.close-btn
+  </rule>
+  <rule id="a11y/aria-command-name" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/aria-command-name">
+   1 command element(s) without accessible names
+   Pages (1): /blog/landing-page
+   Items (1):
+    - button[type=&quot;submit&quot;]
+  </rule>
+  <rule id="a11y/aria-labels" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/aria-labels">
+   1 button(s) without accessible names
+   Pages (1): /blog/landing-page
+   Items (1):
+    - close-btn
+  </rule>
+  <rule id="a11y/color-contrast" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/color-contrast">
+   2 potential color contrast issue(s)
+   Pages (1): /blog/landing-page
+   Items (2):
+    - White text (verify background): 2 instance(s)
+    - Very light text color: 2 instance(s)
+  </rule>
+  <rule id="a11y/landmark-one-main" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/landmark-one-main">
+   Page has no main landmark
+   Pages (1): /blog/landing-page
+  </rule>
+  <rule id="a11y/heading-order" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/heading-order">
+   1 heading level skip(s) detected
+   Pages (1): /blog/landing-page
+   Items (1):
+    - H3 after H1
+  </rule>
+  <rule id="a11y/identical-links-same-purpose" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/identical-links-same-purpose">
+   2 link text(s) lead to different destinations
+   Pages (1): /blog/landing-page
+   Items (2):
+    - &quot;flodesk&quot; → 2 different URLs
+    - &quot;categories&quot; → 2 different URLs
+  </rule>
+  <rule id="a11y/link-text" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/link-text">
+   2 link(s) with generic text
+   Pages (1): /blog/landing-page
+   Items (1):
+    - login
+  </rule>
+  <rule id="a11y/skip-link" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/skip-link">
+   No bypass mechanism for repetitive content
+   Pages (1): /blog/landing-page
+  </rule>
+  <rule id="a11y/landmark-regions" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/landmark-regions">
+   No &lt;main&gt; landmark found
+   Pages (1): /blog/landing-page
+  </rule>
+ </category>
+ <category name="E-E-A-T" errors="0" warnings="5">
+  <rule id="eeat/about-page" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/about-page">
+   No About page found
+  </rule>
+  <rule id="eeat/author-byline" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/author-byline">
+   No content pages have author attribution
+  </rule>
+  <rule id="eeat/contact-page" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/contact-page">
+   No Contact page found
+  </rule>
+  <rule id="eeat/privacy-policy" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/privacy-policy">
+   No Privacy Policy page found
+  </rule>
+  <rule id="eeat/content-dates" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/content-dates">
+   No content pages have datePublished
+  </rule>
+ </category>
+</issues>
+</audit>

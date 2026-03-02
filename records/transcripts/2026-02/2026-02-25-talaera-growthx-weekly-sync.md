@@ -1,0 +1,824 @@
+# Talaera <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-25
+time: 17:00 UTC
+duration: 31 minutes
+organizer: team@growthxlabs.com
+participants: Anita Anthonj, Paola Pascual, Mel MacMahon, Aida Knezevic
+fathom_recording_id: 125296151
+fathom_url: https://fathom.video/calls/578565738
+share_url: https://fathom.video/share/k8BX1s3eAvxj_MVevjez7xgydaKq-uM4
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+speaker_note: "Talaera Team" label in raw transcript corresponds to Paola Pascual, matched through direct name references ("How did it go, Paula?") and contextual evidence (webinar discussion, website updates).
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Talaera reviewed major SEO wins and discussed website optimization. A high-difficulty keyword ("best corporate language training platforms for global teams," difficulty score 50) jumped from position 26 to page one with AI Overview placement, driven by 19 published blog articles. The team identified a Cookiebot tracking issue inflating GA4 data discrepancies (GA4 shows low traffic while Google Search Console reports 400+ organic visitors), which Paola fixed by geo-targeting the cookie consent to EU only. GrowthX will automate WordPress content publishing using an API key to streamline the publishing workflow, and the team planned pricing page updates and a new "Talaera Professional" tier page.
+
+---
+
+## Context
+
+Talaera is a language learning platform offering corporate training, and GrowthX is managing their content strategy and SEO efforts. This is a routine weekly check-in where GrowthX shares keyword rankings, traffic metrics, and website optimization progress. Talaera's Anita Anthonj and Paola Pascual lead product and marketing decisions, Mel MacMahon oversees strategy, and GrowthX's Aida Knezevic manages the SEO and content delivery side. The engagement centers on publishing blog content to rank for high-value commercial keywords (e.g., "Business English for Engineers," comparisons to Preply) while building out conversion-optimized landing pages like the new "Talaera Professional" tier.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Blog content is ranking for high-difficulty commercial keywords (difficulty 50) within 3-4 weeks, demonstrating the effectiveness of GrowthX's in-depth research + SEO optimization workflow.
+- GA4 tracking issues caused by Cookiebot require coordination with the GrowthX GTM team (Kyle); manual tracking validation may be needed if geo-targeting fix insufficient.
+- WordPress API automation will save time on content staging and reduce manual copy-paste errors, improving delivery efficiency for the Talaera engagement.
+
+**To GrowthX Business Development:**
+- Strong keyword wins and 400+ organic visitors signal content-driven demand generation is working; recommend Paola highlight this in next business review.
+- Talaera's openness to automation and workflow improvements indicates account maturity; opportunity to pitch additional optimization services (e.g., performance monitoring, landing page conversion testing).
+- "Business English for Engineers" landing page opportunity for self-spend CTAs suggests Talaera has enterprise decision-makers using individual learning budgets—expandable revenue angle.
+
+**To SEO/Content Strategy:**
+- AI Overview placements on high-difficulty keywords validate content optimization for AI chunking; model this approach for other Talaera content and future clients.
+- B2B traffic opportunity identified but underperforming; Aida agreed to propose specific B2B keyword targets for next month's content roadmap.
+
+---
+
+## Overview
+
+- **SEO is delivering exceptional results:** A key commercial keyword ("best corporate language training platforms...") jumped from \#26 to page one, now appearing in AI Overviews. This is a significant win, as the keyword has a high difficulty score of 50.
+- **A cookie bot issue is skewing GA4 data:** The bot is blocking analytics tags from firing before consent, causing a major discrepancy between GA4 (low traffic) and Google Search Console (GSC), which shows \>400 organic visitors.
+- **Website updates are planned to improve conversion:** The pricing page will get a feature grid, and a new "Talaera Professional" page will be created to clearly define the tier's value proposition.
+- **Content publishing will be automated:** GrowthX will use a WordPress API key to stage content, saving manual effort.
+
+---
+
+## Key Topics
+
+### SEO Performance & Strategy
+
+  - **Keyword Wins:**
+      - **"best corporate language training platforms..."** → Jumped from \#26 to page one, now in AI Overviews.
+          - **Significance:** This is a high-difficulty (score 50) commercial keyword, making the rank jump a major success.
+          - **Driver:** The homepage is ranking, supported by the site's overall authority on corporate training.
+      - **"Business English for Engineers"** → Also appearing in AI Overviews.
+          - **Actionable Idea:** Add a self-spend CTA to this page to capture individual learning budgets.
+  - **Traffic Discrepancy:**
+      - **GA4:** Shows artificially low traffic due to a cookie bot blocking tags before consent.
+      - **GSC:** Shows \>400 organic visitors, a high volume for a new content push (typically \~200).
+          - **Significance:** GSC is a reliable source, as it's a direct report from Google and unaffected by on-site tracking issues.
+      - **Resolution:** Paola has configured the cookie bot to fire only in the EU. GrowthX will monitor for an immediate traffic recovery.
+
+### Website Optimization
+
+  - **Pricing Page:** A feature grid will be added below the tiers to show exact inclusions (e.g., AI credits, Tally minutes).
+  - **"Talaera Professional" Page:** A new page will be created to define this tier's value proposition and recommended usage (e.g., "3x/week, 5 mins/day with Tally").
+  - **1-on-1 Coaching:** Will be positioned as an add-on or on a separate page.
+
+### Content Workflow Automation
+
+  - **Problem:** Manually copying content from Google Docs to WordPress is inefficient.
+  - **Solution:** GrowthX will use a WordPress API key to automate content staging.
+      - **Process:** An editor pastes final content into a workflow → clicks a button → content is staged in WordPress.
+      - **Security:** The API key will be limited to content staging, not admin access. GrowthX will research if access can be further restricted to only the blog section.
+
+---
+
+## Action Items
+
+**Paola Pascual (Talaera)**
+- Add recent webinar to Notion webinar doc
+
+**Anita Anthonj (Talaera)**
+- Message Kayla, Anne, Tiffany re: webinars
+
+**Aida Knezevic (GrowthX)**
+- Send SERP screenshots of AI Overviews for 'Business English for Engineers' + 'corporate language training' to Talaera
+- Email Kyle re: GTM/GA4 tracking; then review tags if Cookiebot fix insufficient
+- Notify GrowthX team re: Cookiebot geo-targeting change
+- Email Paola WordPress API key write-up; then confirm blog-only scope and set up staging automation
+- Identify and propose B2B traffic opportunities to Talaera
+- Send Slack follow-up to Talaera re: meeting outcomes
+
+---
+
+## Transcript
+**Anita Anthonj:** This meeting is being recorded.
+
+**Paola Pascual:** Hi, Anita.
+
+**Paola Pascual:** How are you?
+
+**Anita Anthonj:** Oh, got the nicest message from my dad.
+
+**Paola Pascual:** I translated it and sent it to you.
+
+**Paola Pascual:** It's so sweet.
+
+**Anita Anthonj:** So sweet, right?
+
+**Paola Pascual:** That's what I thought.
+
+**Paola Pascual:** I saw his name.
+
+**Anita Anthonj:** I saw his name like an hour before the webinar and then it was so sweet.
+
+**Paola Pascual:** How did it go, Paula?
+
+**Paola Pascual:** I think it went great.
+
+**Paola Pascual:** Yeah, they loved it.
+
+**Paola Pascual:** I did the Tally demo as well and everyone was like, oh, that's good.
+
+**Paola Pascual:** People had questions like, do I need to, do I need a paid account to get in and I'll send the follow-up email very soon.
+
+**Anita Anthonj:** But I think it went well.
+
+**Anita Anthonj:** That's awesome.
+
+**Anita Anthonj:** It's such a great topic.
+
+**Anita Anthonj:** I think it's like, it's nice like when I, you know, in demos, I usually show like the webinars we have.
+
+**Paola Pascual:** It's a really, really great topic, but I'm so happy it went so well.
+
+**Paola Pascual:** Great.
+
+**Paola Pascual:** Yeah, I'm thinking about recycling it.
+
+**Paola Pascual:** You know how we've been recycling the other ones?
+
+**Anita Anthonj:** So maybe we can set it up for like in three months or something like that.
+
+**Anita Anthonj:** Yeah, yeah.
+
+**Anita Anthonj:** I think if you have three or four that work, like let's just keep going through them.
+
+**Anita Anthonj:** Hey Mel, we just had a webinar.
+
+**Anita Anthonj:** Paola just killed it on the webinar.
+
+**Mel MacMahon:** As always, very nice.
+
+**Anita Anthonj:** My dad sent a note and he said, I wish I'd had this in 1982.
+
+**Mel MacMahon:** Wow.
+
+**Anita Anthonj:** Yeah.
+
+**Mel MacMahon:** That's very cool.
+
+**Anita Anthonj:** Yeah.
+
+**Paola Pascual:** He's very sweet.
+
+**Anita Anthonj:** Yeah, yeah.
+
+**Anita Anthonj:** No, it's awesome.
+
+**Anita Anthonj:** It's great.
+
+**Anita Anthonj:** It's such a good topic.
+
+**Anita Anthonj:** Like, I feel like we're really running in on good topics all around.
+
+**Paola Pascual:** Yeah, I think it touches a lot.
+
+**Paola Pascual:** But, like, we had this person, she said, because I kept saying, I'm trying to be, like, more mindful of, like, this is for non-native English speakers.
+
+**Paola Pascual:** Like, we help, this is business English, you know.
+
+**Paola Pascual:** And this person said, well, I'm a non-native, I'm a native speaker.
+
+**Paola Pascual:** I'm from the United States.
+
+**Paola Pascual:** But I feel like some of these, like, a lot of these things help me.
+
+**Paola Pascual:** Like, I'm not very confident and I don't know how to jump in.
+
+**Paola Pascual:** And so.
+
+**Anita Anthonj:** And that's even better then, right?
+
+**Anita Anthonj:** Like, I feel like if native speakers can resonate with it, awesome.
+
+**Paola Pascual:** Yeah.
+
+**Paola Pascual:** That's cool.
+
+**Paola Pascual:** So, I should add it to the Notion doc, right?
+
+**Anita Anthonj:** To the webinar on Notion doc?
+
+**Anita Anthonj:** Yeah, of course.
+
+**Anita Anthonj:** Yeah.
+
+**Anita Anthonj:** Yeah, great.
+
+**Anita Anthonj:** But yeah, that one just occurred to me.
+
+**Anita Anthonj:** As you said, webinars, I need to MSIG, I need to message Kayla, MSIG, Anne, and Tiffany.
+
+**Anita Anthonj:** So what do you think, Paola?
+
+**Paola Pascual:** Well, I was just going to quickly ask Mel, the pricing thing, is that thing the thing you were asking about?
+
+**Mel MacMahon:** Yeah, I remember we had a conversation last week about having the grid, the feature grid.
+
+**Mel MacMahon:** Below the tiers, so you know exactly what you get in there.
+
+**Mel MacMahon:** And then that's where we would call out that you only get X number of like AI credits or enough for X number of minutes with Tally or whatever.
+
+**Mel MacMahon:** And then having a separate page that talks about how, like basically a Talaera professional page.
+
+**Mel MacMahon:** I think I was talking to Anita about this.
+
+**Mel MacMahon:** So instead of us sending over like all the links to the different components, there should be like, here's the Talaera professional tier.
+
+**Mel MacMahon:** And here's exactly how it's used.
+
+**Mel MacMahon:** Or like how we best recommend it.
+
+**Mel MacMahon:** in that, that's where it would say like, you know, three times a week, five minutes a day kind of thing with Tally plus once or twice a week conversation club.
+
+**Mel MacMahon:** And then either the one-on-one coaching as an add-on to that page or a separate page that's basically a duplicate plus, but leans more into the one-on-one coaching side of it.
+
+**Paola Pascual:** Yeah, I like that.
+
+**Paola Pascual:** We have the grit on the pricing page.
+
+**Paola Pascual:** I don't have those pages just yet, but I hope to have them.
+
+**Mel MacMahon:** Oh, the grit is there.
+
+**Mel MacMahon:** That's awesome.
+
+**Mel MacMahon:** Maybe I just didn't refresh or something.
+
+**Paola Pascual:** Yes, the grit's there.
+
+**Aida Knezevic:** Hey, everyone.
+
+**Aida Knezevic:** I'm sorry to keep you waiting.
+
+**Anita Anthonj:** How are you?
+
+**Paola Pascual:** How are you?
+
+**Aida Knezevic:** I am good, good.
+
+**Aida Knezevic:** Friggin' manage updates.
+
+**Aida Knezevic:** It's, I don't, I get why they make us do them, but can we please schedule them when I'm not working?
+
+**Aida Knezevic:** working.
+
+**Aida Knezevic:** I'm
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Well, thank you for waiting.
+
+**Aida Knezevic:** I think before we dive in, have some updates on performance and keyword rankings that are really exciting.
+
+**Aida Knezevic:** But I wanted to get started by just like asking you for your feedback of how you think we've done so far.
+
+**Aida Knezevic:** Anything that you would like us to do moving forward or just anything, like if you have any feedback.
+
+**Aida Knezevic:** Mel, I know you were in check that today.
+
+**Aida Knezevic:** So if anything comes up over there, you know, open to any feedback.
+
+**Aida Knezevic:** Over there as well.
+
+**Anita Anthonj:** Mel, do you want to share?
+
+**Mel MacMahon:** I haven't had a chance.
+
+**Mel MacMahon:** So I did get access to it and it looks like it's working.
+
+**Mel MacMahon:** I haven't had a chance to really drill in on it.
+
+**Mel MacMahon:** It looks like a pretty cool tool.
+
+**Mel MacMahon:** And I've been kind of slowly just catching up on that.
+
+**Mel MacMahon:** So I'll let you know as I see things.
+
+**Anita Anthonj:** Cool.
+
+**Anita Anthonj:** I think it's been, I think the content so far has been great, like reading through everything.
+
+**Anita Anthonj:** Like it's been really, really good.
+
+**Anita Anthonj:** Right.
+
+**Anita Anthonj:** I mean, Paola, nothing from you, right?
+
+**Paola Pascual:** That.
+
+**Paola Pascual:** No, it's been.
+
+**Paola Pascual:** been really, really great.
+
+**Paola Pascual:** Like we just had all the content has been really, really great.
+
+**Paola Pascual:** And other than the comments that we initially had, I feel everything after that has been like the feedback has been implemented super quickly and super effectively as well.
+
+**Paola Pascual:** So it's been super easy as well, which is great.
+
+**Paola Pascual:** Like everything has been quick and delivered on time and the feedback has been super fast to implement.
+
+**Anita Anthonj:** And then with the suggestions as well from Hassan on how to improve the UX and UI, it's really great.
+
+**Aida Knezevic:** Great, great.
+
+**Aida Knezevic:** We're happy to hear that.
+
+**Aida Knezevic:** I think with the, because we, I think sometimes we get feedback from clients in the sprint, like, oh, why do you do it like this?
+
+**Aida Knezevic:** Like, why do you do a separate sprint team and then a separate long-term team?
+
+**Aida Knezevic:** And it's because we have become very good at, like, the first initial couple of weeks of, like, getting you up to speed and setting you up in our system.
+
+**Aida Knezevic:** And, um, and,
+
+**Aida Knezevic:** And a few weeks ago, I set up a position tracking report in SEMrush that monitors your rankings for the target keywords that we are targeting with our content.
+
+**Aida Knezevic:** So I checked it out today to see how the progress that we've been making.
+
+**Aida Knezevic:** And I was really excited to see that we have page one rankings for a lot of like really important commercial keywords.
+
+**Aida Knezevic:** This one I was really excited about, like the best corporate language training platforms for global teams.
+
+**Aida Knezevic:** You're in position, like you're appearing in the AI overviews.
+
+**Anita Anthonj:** And last week you were in page, you were in position 26.
+
+**Anita Anthonj:** So that's page three.
+
+**Anita Anthonj:** Do you see this?
+
+**Mel MacMahon:** I don't know if you're there, but wow.
+
+**Mel MacMahon:** Aida, do you have any thoughts on what drives that?
+
+**Mel MacMahon:** It seems like a rather large shift.
+
+**Mel MacMahon:** Is that really just due to like 19 blog articles?
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** So this
+
+**Aida Knezevic:** These are the keywords that we're targeting and all the content that we've published so far.
+
+**Aida Knezevic:** Each of these keywords has a corresponding article that's optimized for that specific keyword.
+
+**Aida Knezevic:** And when we write content, we do like an in-depth research workflow that takes into account like all of the information that your audience would need for this particular topic.
+
+**Aida Knezevic:** And then we incorporate it into the article.
+
+**Aida Knezevic:** So it's the content is comprehensive and it's like optimized for a specific keyword.
+
+**Aida Knezevic:** And it's also optimized for like AI chunking.
+
+**Aida Knezevic:** So that allows that supports the AI overviews.
+
+**Aida Knezevic:** The one thing to know is that like as time goes on, like the content gets old.
+
+**Aida Knezevic:** So in six months, we will have to like optimize and like check in to see at six months at the latest, like three months, probably.
+
+**Aida Knezevic:** We're going to have to check in to see the performance and if there's anything that we need to update.
+
+**Mel MacMahon:** Okay.
+
+**Paola Pascual:** Interesting.
+
+**Aida Knezevic:** Okay.
+
+**Paola Pascual:** And with these, how, so for example, for the first one, it's incredible.
+
+**Anita Anthonj:** Like that jump is amazing.
+
+**Paola Pascual:** I'm very curious, is the competition high for that one?
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** So the keyword difficulty is 50.
+
+**Anita Anthonj:** So this is really actually pretty difficult.
+
+**Anita Anthonj:** That's crazy.
+
+**Paola Pascual:** Oh, wow.
+
+**Paola Pascual:** Yeah, that's insane.
+
+**Aida Knezevic:** That's good.
+
+**Aida Knezevic:** But it's, but you can rank for it because your entire website talks about this, like your homepage, everything that about you as a company, you talk to corporate, like organizations, like corporate, a corporate audience.
+
+**Aida Knezevic:** So it's something that like the search algorithm associates you with those topics.
+
+**Aida Knezevic:** So that's, yeah.
+
+**Anita Anthonj:** Amazing.
+
+**Paola Pascual:** Amazing.
+
+**Paola Pascual:** Awesome.
+
+**Mel MacMahon:** So the keyword is associated with the domain.
+
+**Mel MacMahon:** Is that right?
+
+**Mel MacMahon:** Not like particular pages or, or blogs.
+
+**Aida Knezevic:** So, yeah.
+
+**Aida Knezevic:** So let me actually share this with you.
+
+**Aida Knezevic:** So the keyword is.
+
+**Aida Knezevic:** Yes.
+
+**Aida Knezevic:** So it's targeted by a specific page.
+
+**Aida Knezevic:** So for example, this keyword, we have a corresponding blog post.
+
+**Aida Knezevic:** Let me just move my, let me just go to your content calendar.
+
+**Aida Knezevic:** Let me go to published and let's find that article.
+
+**Aida Knezevic:** So there's an article, yeah, business.
+
+**Aida Knezevic:** Let me just find it.
+
+**Aida Knezevic:** Let me go look it up on your website.
+
+**Aida Knezevic:** Actually, think your homepage is ranking for this keyword.
+
+**Anita Anthonj:** Oh, wow.
+
+**Aida Knezevic:** Yeah.
+
+**Anita Anthonj:** That's awesome.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** So, but the majority of these like keywords that you're ranking for are, we have content about these keywords.
+
+**Aida Knezevic:** Does that make sense?
+
+**Mel MacMahon:** It does, yeah.
+
+**Mel MacMahon:** I'm just trying to figure out in general, like, what drives it or, you know, what drives the rank.
+
+**Mel MacMahon:** Like, it sounds like you said our homepage is ranking for that keyword, which means it would mean what all of the other blogs that you've incorporated that keyword into are also helping to drive the homepage, but the homepage incorporates that keyword more.
+
+**Mel MacMahon:** Is that kind of it?
+
+**Aida Knezevic:** Yeah, exactly.
+
+**Aida Knezevic:** So, to your question about what drives the rankings, that's a whole, I mean, it's a, an entire industry exists around it.
+
+**Aida Knezevic:** So there's a lot of that we know from Google, because Google recently was, like, subpoenaed to, to provide, like, information about drives their rankings.
+
+**Aida Knezevic:** And there are two things.
+
+**Aida Knezevic:** So you have to be an authority on the topic.
+
+**Aida Knezevic:** And then you also have to be, the content has to be popular, meaning that when people come to your website, they stick around, like, they read the content or they click.
+
+**Aida Knezevic:** So that also impacts the rankings.
+
+**Aida Knezevic:** But typically when we are creating content, these are the keywords that we're ranking for.
+
+**Aida Knezevic:** So like we have an article that talks about Preply alternatives that's been published on your blog.
+
+**Aida Knezevic:** And that's the one that's ranking for this keyword particularly.
+
+**Mel MacMahon:** Okay, cool.
+
+**Aida Knezevic:** Thanks.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** And then we also have, that was another one that I thought was really interesting that I wanted to show you.
+
+**Aida Knezevic:** Let me find.
+
+**Aida Knezevic:** Oh, yeah.
+
+**Aida Knezevic:** Business English for Engineers.
+
+**Aida Knezevic:** That one's also showing up in the AI.
+
+**Anita Anthonj:** That's amazing.
+
+**Aida Knezevic:** That's not surprising.
+
+**Aida Knezevic:** Yeah, that was.
+
+**Paola Pascual:** Oh, sorry.
+
+**Anita Anthonj:** Go ahead, Paola.
+
+**Paola Pascual:** I was just curious if that was the blog or that was the page.
+
+**Aida Knezevic:** Let me, let me take a look.
+
+**Aida Knezevic:** We can actually, I can check the SERP later and take a screenshot because it's going to look different depending on.
+
+**Aida Knezevic:** Um, where you are, but let me, I need to just go into SEMrush and check the SERP and then I can take a screenshot of the exact page that's ranking.
+
+**Aida Knezevic:** Um, but either way, the fact that we have a blog post and then you also have a landing page is really helpful, um, in terms of SEO.
+
+**Anita Anthonj:** Super quick side note, Paola slash Mel, and I wonder, you know, that idea you had, Mel, with the self-spend.
+
+**Anita Anthonj:** I wonder if actually that, uh, English for Engineers page would be a really good place to place that in because a lot of these companies give like, um, you know, learning budgets, something to consider.
+
+**Mel MacMahon:** You mean, but the, but the ad directly into your blog?
+
+**Anita Anthonj:** Yeah, yeah.
+
+**Mel MacMahon:** As a call to action?
+
+**Anita Anthonj:** Mm-hmm.
+
+**Anita Anthonj:** Like literally that page that you're thinking with that self-signup, you know, that you built for advertising?
+
+**Mel MacMahon:** Yeah, like, Paola, you could probably do that right now if you wanted to.
+
+**Anita Anthonj:** I think that'd be awesome because I think so many of these companies do that anyways.
+
+**Mel MacMahon:** Yeah.
+
+**Anita Anthonj:** Sorry, Aida, side note.
+
+**Aida Knezevic:** No, don't worry about it.
+
+**Aida Knezevic:** Great.
+
+**Aida Knezevic:** I think with, yeah, so those are the metrics that I have.
+
+**Aida Knezevic:** then overall, at least in Google Search Console, the traffic, as I measured it, I think two days ago, we had like over 400 visitors just from Google Search, like for the content that we've published so far, which is really great.
+
+**Aida Knezevic:** And honestly, like the, I really can't remember last time I saw like such traffic growth from the target, from the content that we've been publishing, like for the other clients, like usually it's a lot, like it's in the 200 domain.
+
+**Aida Knezevic:** So part of it comes down to your industry because you are, you have a wide variety of keywords that you can target and some of the content that we've been publishing is already, like obviously targeting high volume searches, like I don't, I think one was like email, like English for emails or how to.
+
+**Aida Knezevic:** Like talk in a meeting.
+
+**Aida Knezevic:** So these are all like high volume keywords.
+
+**Aida Knezevic:** But it's also just really positive in terms of traffic growth for those comparison pages as well.
+
+**Aida Knezevic:** And then because I know we have access to your GTM now.
+
+**Aida Knezevic:** So I'm just going to reach out to Kyle, who's on our director team to see what we can do there.
+
+**Aida Knezevic:** I think if we're able to just verify what the like precise issue is and whether we can fix it in Google Tag Manager, that would be good.
+
+**Aida Knezevic:** In any case, I think you can also check your cookie bot setup to make sure it's just not firing everywhere.
+
+**Paola Pascual:** I think that would also be really helpful.
+
+**Paola Pascual:** Yeah, I changed that too.
+
+**Paola Pascual:** So it's only for the EU.
+
+**Aida Knezevic:** Okay, great, great.
+
+**Aida Knezevic:** That case, that should, I think if that's changed, if we have implemented that change, I think we should start.
+
+**Aida Knezevic:** Seeing a difference pretty immediately.
+
+**Aida Knezevic:** When did you do that?
+
+**Aida Knezevic:** Sorry.
+
+**Paola Pascual:** Sorry.
+
+**Paola Pascual:** Earlier today.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** In that case, I will let the team know.
+
+**Aida Knezevic:** But yeah, the results should be pretty immediate because I know I have like a personal website and I remember implementing like a cookie plugin and my traffic tanked.
+
+**Aida Knezevic:** Like I don't have anything in my Google Analytics.
+
+**Aida Knezevic:** It's practically useless at this point.
+
+**Aida Knezevic:** So, yeah, I think that that should help.
+
+**Aida Knezevic:** But if not, then we can also check the tag setup.
+
+**Aida Knezevic:** Awesome.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** And then, yeah, another thing that we can do is we can automate publishing with an API key.
+
+**Aida Knezevic:** What this means is that instead of Hassan going in and manually like copying and pasting the content, we would connect to WordPress using an API key.
+
+**Aida Knezevic:** features can I'll Let's So, let's
+
+**Aida Knezevic:** Our content generation workflow, and then after you're done reviewing a piece of content, the editor is going to copy the final version from the Google Doc, and then paste it back into a workflow, and then they just click a button, and it's staged in WordPress.
+
+**Aida Knezevic:** It's not published automatically, but it's just copied, which saves us a little bit of time, but it does add up, like, if you're publishing, like, five pieces.
+
+**Aida Knezevic:** So if you are open to doing that, we would just need the API key for your WordPress, and then we can set up the automation.
+
+**Paola Pascual:** Is there anything we need to know in terms of that?
+
+**Paola Pascual:** Like, any downside to it?
+
+**Aida Knezevic:** Yeah, I can send you over, like, a write-up from our IT team.
+
+**Aida Knezevic:** Essentially, we don't have admin access to your WordPress, so we wouldn't have, like, permissions to change anything.
+
+**Aida Knezevic:** It would just be to push the content.
+
+**Aida Knezevic:** into the blog.
+
+**Aida Knezevic:** And I think it might also be possible, but I don't know if that's possible in WordPress, just to limit access to the blog.
+
+**Aida Knezevic:** So we don't have access to any other pages from the workflow, but I will ask the team and see if that's something that can be done for WordPress.
+
+**Mel MacMahon:** And it's, that's good.
+
+**Paola Pascual:** What's that?
+
+**Mel MacMahon:** Sorry, Paola.
+
+**Mel MacMahon:** How are we doing this right now?
+
+**Aida Knezevic:** Are you doing it manually?
+
+**Aida Knezevic:** Yeah.
+
+**Mel MacMahon:** You are Aida or Paola is?
+
+**Aida Knezevic:** With the GrowthX team.
+
+**Mel MacMahon:** So you have access to put stuff into our blog via WordPress?
+
+**Aida Knezevic:** You just don't have admin access, is that right?
+
+**Aida Knezevic:** We do have, we don't have admin access, but we have regular access to, to your WordPress.
+
+**Aida Knezevic:** But we would, in this case, it would just be an automation that's set up.
+
+**Mel MacMahon:** And that would automate like all of the formatting, the insertion of the CTAs, images, things like that.
+
+**Aida Knezevic:** out.
+
+**Aida Knezevic:** one.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** So Thank
+
+**Aida Knezevic:** The only issues that can come up is, but I don't think WordPress has this issue with tables.
+
+**Aida Knezevic:** WordPress allows you to copy and paste tables as they are.
+
+**Aida Knezevic:** With CMS platforms like Webflow and Sanity, that's where tables are an issue and we have to do some manual workarounds.
+
+**Aida Knezevic:** But I think Webflow should be, I mean, WordPress should be totally fine.
+
+**Paola Pascual:** Awesome.
+
+**Paola Pascual:** Great.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** Anything else?
+
+**Aida Knezevic:** I think those are all my updates.
+
+**Anita Anthonj:** Paola, anything from you guys?
+
+**Paola Pascual:** No.
+
+**Paola Pascual:** Do we have more blog posts for this week?
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** They'll be, Hassan is going to be sending them over, I think, tomorrow or Friday.
+
+**Paola Pascual:** It's been very exciting to see the blog grow as it has been.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** It's really, really, really good.
+
+**Aida Knezevic:** It's really exciting, yeah.
+
+**Mel MacMahon:** You mentioned that you saw, like, pretty impressive.
+
+**Mel MacMahon:** said, said, Thank
+
+**Mel MacMahon:** So click counts or something like that, like 400 as opposed to 200.
+
+**Mel MacMahon:** What's the relationship between that and the stuff that was being impacted by our cookie bot?
+
+**Aida Knezevic:** Great question.
+
+**Aida Knezevic:** So the cookie bot traffic comes from GA4, Google Analytics, and that's the traffic that was impacted by the cookie bot.
+
+**Aida Knezevic:** Google Search Console is a Google service that measures just visitors who click on your website from Google Search.
+
+**Aida Knezevic:** So it doesn't, it's just Google Search users and it doesn't, they don't measure it from visiting, like it's not measured through a tag on your website, but it's data from Google, like that they share with you as the webmaster.
+
+**Aida Knezevic:** I hope that makes sense, but it's basically like it's from a different data source.
+
+**Aida Knezevic:** You don't need a tag on your website to track visits using Google Search Console because it's data that Google shares with you as a website owner.
+
+**Mel MacMahon:** Okay, so.
+
+**Mel MacMahon:** It's measuring something before the user even lands on the website and has to accept or decline the cookie box.
+
+**Aida Knezevic:** Exactly.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** And they can also see when someone clicked on your website, but they can't see, for example, the engagement rate.
+
+**Aida Knezevic:** They can't see what the user did after that.
+
+**Aida Knezevic:** You need Google Analytics for that.
+
+**Aida Knezevic:** GSC is just helpful to understand where you rank on average, what are the keywords you rank for in Google, what are the average click-through rates, and then how many clicks you get from Google.
+
+**Mel MacMahon:** Okay.
+
+**Mel MacMahon:** So, Paola, in that case, it's possible, because I haven't looked at the data, that Amplify is also impacted by this cookie bot.
+
+**Paola Pascual:** Okay.
+
+**Paola Pascual:** Yeah, there's, I pinged Victor, I don't know if it was today, because it's been a long day, or yesterday, but I got a report from cookie bot that said that we're not compliant in some way, because there's stuff, I think they identified that there's stuff firing or getting data before the cookie consent.
+
+**Paola Pascual:** So, then the...
+
+**Paola Pascual:** Having that landing page was beneficial for it.
+
+**Paola Pascual:** If there's any other area where you feel like there's a big opportunity here where we should do that, and it doesn't have to be just for B2C.
+
+**Paola Pascual:** I feel like we've been getting a lot more traffic from B2C.
+
+**Paola Pascual:** I haven't seen that much from the B2B side.
+
+**Paola Pascual:** So if there's anything that you feel like, oh, this would support having more people from B2B, or this would support this keyword, let us know.
+
+**Paola Pascual:** And that's something that's not super hard for us to get done fairly quickly.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** I'll think about it and I'll let you know.
+
+**Paola Pascual:** Awesome.
+
+**Paola Pascual:** Thank you.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Thank you all.
+
+**Aida Knezevic:** I'll send a follow-up in Slack in a little while.
+
+**Aida Knezevic:** Thank you.
+
+**Mel MacMahon:** Great.
+
+**Paola Pascual:** Thanks.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** Thank

@@ -1,0 +1,3375 @@
+{
+    "title": "SmithAI <> GrowthX Weekly Sync",
+    "meeting_title": "SmithAI <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/317287111",
+    "created_at": "2025-06-04T18:03:06Z",
+    "scheduled_start_time": "2025-06-04T17:30:00Z",
+    "scheduled_end_time": "2025-06-04T18:00:00Z",
+    "recording_id": 66494435,
+    "recording_start_time": "2025-06-04T17:30:26Z",
+    "recording_end_time": "2025-06-04T18:02:49Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Good, hanging in there.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I'm just going to note for Alice to add in Vole.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Have you been pinging him over Slack or how have you been?",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "On Slack.",
+            "timestamp": "00:00:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Maddie.",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Hey, how's it going?",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Good, Harry.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So let's dive in.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Today, I just wanted to kind of talk about the implementation, everything we've done so far.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And I wanted to leave some time.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Mara had some thoughts.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And I just wanted to also chat about your current efforts, marketing efforts, like what's happening, if anything is changing, just to get an idea.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "You know, you guys go to shows, and just the way that maybe you're positioning the product differently to different ICPs, just to get an understanding, because I know things change, you know, quarter to quarter.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So I always like to do that.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And maybe it'll give me ideas in terms of, you know, some of our editorial side of things, in terms of how to pitch the content and how to write about it.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "That always tends to help me if I'm ever stuck with content ideas.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "But essentially, we've kind of been doing some back and forth with our designer on the first...",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Template.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Basically, I found a way to actually split the pages.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So at first, it was just kind of dragging on when I created the first kind of draft.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I'll send this all to you in the chat today, Maddy, so you can review it so we don't have to do it live.",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "My main thing was just discussing the actual implementation piece and the next steps to actually kind of launch this MVP, as we say.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I have a community actually reached out to Vole today, so I'm hoping to hear back.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "But essentially, I'll send you the design.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Okay, so I'll send you the one on page and also the PDF.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "The PDF does have like a watermark, which we'll remove.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "We, with our designer, we actually went and just formatted it differently so that it's a little bit cleaner.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So his expertise actually gave us some, so everything, like the text, a lot of it is uniform.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I managed.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "To even get some of the kinks out on the live page.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So there were a couple of issues, something with the parent theme that was kind of disturbing the HTML or vice versa.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So that's, again, a part that I'm kind of communicating.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I'm not the most technical person, but I'm communicating with Bo on that.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So I will send you both of those to review.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "If we have an approval on the design, the next step is to discuss whether this is going to live on a new page.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So I'm assuming we don't want it on that blog page because of that side rail.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So I'm thinking this probably, like you said, the other week goes on.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I don't know how we're going to structure it.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah, we will need to structure it.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So we would just, you know, look for your input on, you know, what sub folder or whatever, like what structure for the URL.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We want, and then, you know, what's the most repeatable, and is that, like, industry-specific?",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Probably not, but, you know, what signals are we giving to Google or ChatGPT or whatever about URL, what it's about?",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And then, if we imagine that it rolls up into some sort of hub page with all the different resources, maybe there are tags or collections on those that indicate, like, we think this is really good for home services or small business or whatever, right?",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Well, there's even a possibility that there's, like, I don't know, state, you know, specific forms, but I don't think we're going to get into that and maintaining all of that right now.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, you know, nothing here that's, like, government documentation-related that we have to maintain.",
+            "timestamp": "00:04:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "That's interesting, though.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I mean, I'm assuming there are types of templates that we can run into in the future that are...",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Or state-specific, which would be an excellent PSEO angle.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "But I think what you mentioned at the time was basically templates.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And then that spins off to templates for HVAC companies.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And we're going to have all the stuff under there.",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I just don't know if you want it to be so industry-specific.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I think we can probably just have business templates and call it business templates, like business-templates.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's just another signal to Google, like, what are we talking about here?",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And then we could have a section for forms or invoices.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, I would call forms something different than an invoice because if I'm the user, I want to, like, see those headings at the top and click on one of them and, like, go right to that section or, like, sort of that tab view or whatever.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, and we have, you know, a little prior art on that front.",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, we can tap full, but we could.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Also, you know, you could tap Julian if you have sort of like an idea and you want to get his read on it.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We also have a new design agency, Aether, that like we could probably tap them for something like this.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So just that it's harmonious with the newer design that we're rolling out across pages on our site.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like why create a page that's in the old style when we're moving towards the new style?",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So then we would just get that slotted in with, you know, how soon they can accommodate that.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And that's okay.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like we should probably take that approach or get, you know, sort of assets and trained by them so that we can, you know, replicate that as close as possible.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And then all they're doing is tweaking it or something, right?",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Like, yeah, because I guess part of that is we expect for like for this tempo page that we're building.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I'm just focusing on one right now, the incident report.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "The idea was to obviously have the incident report and then text underneath.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So I guess that was, I guess, yeah, sorry, I'm just thinking out loud.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "That still, I guess, works in this entire, in this whole framework of things.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "My only thing was what you said, the time constraint.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So if this design firm is like going to the building, like from scratch, or they're just designing.",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I we can, I mean, it's a pretty basic page that we can put this into.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like if I'm just on the website and I go to like, I mean, I would say like a minimum requirement is that if Smith.ai slash business templates slash whatever incident form exists, that business templates needs a page, right?",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, you know, we have like case studies, for example.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I mean, like you could totally use this as like.",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Prior are, I'm just putting this into here, but it's also in the footer of our site.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, if you, I'm just going to share my screen real quickly.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, like, you know, this is just, okay, search.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "You could say, okay, we don't need search here, but like, you've just got like these sections.",
+            "timestamp": "00:08:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I mean, it's really super simple, right?",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Actually, it's multi-select, you can see that.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, okay, so then you click on one, and it's a little preview of the incident form, and it just says incident form, and then it says, you know, like, you know, use this form or whatever, right?",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And then I click on it, and I get to the page, and then it's here, and we don't have all these little blocks.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We just have a header, and it says incident form, and then you put all the stuff, you just drop it in here, and then you have a section of copy.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, I mean, and you don't need all this other stuff, but you could, whatever, keep the same footers.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, I think that we have enough prayer.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Art, that this is like, you know, easily reputable, replicable for, yeah, I'd love to, I'd love to actually re, um, do that page, recreate that page.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah, so just tell Vol that you want to make business, slash business templates, and you want use this page, and here's a copy for it, and he'll do that for you, like, you know, that's no problem.",
+            "timestamp": "00:09:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Um, yeah, the only thing I'm seeing is the, I, maybe if we can make this wider, so that the template actually kind of fits on, so, okay, cool.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, exactly, because, and you know, is perfect.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "He and Julian, right, like, you know, you don't need the little headshot, so just remove that, and then there's your width, right, you can see here that the width is ample, it's just like, you know, with the single column layout, like, they're just following above, like, you know, because of that.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We follow that same narrow column down when we repeat it below.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So yeah, that's, that's no problem.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "This is perfect.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I like this simple and no, no stuff on the side.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like the buttons or the, you know, whatever to get it printed or whatever.",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So, you know, maybe in that conversation, Maddy, know you and I had chatted like briefly around like some of the like design elements and then some more like narrative based for revamping case studies.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "In that same conversation, I could also chat with them about making some like very like low lift tweaks to the case study pages if you're comfortable with that.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Totally.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "One go, we're already talking about this template and I feel like even just pulling the metrics up into a bar at the top would do a lot.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And I would, I would just make sure that we are, we're just aligned on like, I would, I would make sure that Julian at least has like an F.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "UI heads up on that because even though he's responsible for AI, like AI receptionist growth, he's sort of stepping into more of a design leader on the marketing side role.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So he's the one who's updating the entire website.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So it's with an eye on air growth, but because he's running that design agency, like, you know, it would just be fair to make sure that he's on board.",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Sure.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And the great thing is, love to chat about this with you.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So we have a sense of like, the big umbrella goals.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And then obviously, we're happy to do async or just like, separately meet with the appropriate team so that you don't have to be.",
+            "timestamp": "00:11:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, that's what I would expect.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So yeah, I mean, everything looks really nice here.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I think.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I redid this one and I, I'm, I'm excited about it because it does look way cleaner than the other version.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And yeah, the biggest thing is like not to get hung up on like the actual information.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "We can always adjust this.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I just want to like get something live, you know, and that's basically the goal.",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And then, yeah, the thing I asked all about, which is super important, is basically like every website has their own email delivery system.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So I'm wondering if they're I'm asking him if you guys have that as part of the theme or if we'll need to have a Webflow plugin for that.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And that's should be a very minor fix.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "the goal is.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So if somebody is on the incident report and they say email this to me, we want to make sure that it's an automated email and it's sending the correct version of the PDF.",
+            "timestamp": "00:12:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So if they're on the incident page, we can have the same incident page if it's the same form.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I mean, submit button if it's the same form on multiple pages.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So we know, OK, same document goes to them easy enough.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Unless it's an incident report in like a non.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Instruction, like in customer search, like they're going to be a bit different, but as long as they're the same, we can do that.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So I'm asking him about that.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And just so we're clear, they can go around, they can go and play around with this on the website, but they're not getting a filled one.",
+            "timestamp": "00:13:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So we'll make note of that, that they're just going to get this raw PDF that they can fill out.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "That's fine for now.",
+            "timestamp": "00:13:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Good.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah, ideally we can make that available to them, you know?",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "And I'll, well, we have additional resources internally too, so I'll see if, the biggest thing is converting that HTML to the PDF.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So that's something I'll continue.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It can be a PDF, you know, like, can it be a PDF with that content filled out?",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Because if you're just saying it's just going to be a PDF of the form, then the PDF has to be stored.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "You're a PDF.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Somewhere, like, I guess the thing that I'm wondering is, we already have, and I've showed this to you guys before, but if I go to, like, Smith.ai, ebook, or whatever, and I find the documents, like, I sort of, keep hitting, move the presentation bind from left to right, or right to left.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, okay, so if I'm here, and this is saved under documents, like, is it, if it's just the plain form, all we have to do is take that form, save it as a PDF, and upload it to smith.ai slash documents, which you can see in our Webflow instance, and put it here, and then when you're here, all you have to do is click on it.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And then save it, right?",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, then I can print, I can do whatever I want with it.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "But we're not to.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "You're not getting an email, but it's immediately functional, and that seems like the thing that I would prefer to go live with, and then we say, okay, get an email next, but at least it's live, you know, and it's, like, we should probably do that and layer the email functionality into it.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, like, okay, there should be a download button, and we could test gating it with an email or form submit, but that should be an A-B test, right?",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So we have something called GrowthBook now, which I think allows us to do some A-B testing with Webflow, but that's the shortest row.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, upload the PDF, and then you click, like, get this form as a PDF, click on it, and then someone's using it.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, all right, at the very least, you have awesome time on page, you have no bounce rate, you have, like, real, A",
+            "timestamp": "00:15:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Multiple pages visited, and Google's going to be like, this stuff must be great content, right?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "yeah.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And say, okay, give me the lead, but let's do that second.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I think that's a much shorter throw.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Because you already solved the PDF issue.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We need to make sure there's branding on there.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Did you double check that it doesn't perfectly match any other templates?",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Because I'm a little bit anxious about the plagiarism.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I'll take a look.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "If it's plagiarism checker or anything, like, let's just make sure that it's not plagiarized.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Because, like, you put Smith.ai's brand on it, it means it's not plagiarized.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So if you just need to change a couple things, we should do that now rather than the next step, which is pretty close to being published.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "That should happen in, like, the next day.",
+            "timestamp": "00:16:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We can do that.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So the way that that informed this one.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Oops.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "It's just, okay.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "It's Webflow doc.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We just upload it in the backend to documents and you put a couple little pieces of text on there, like what's the title and description and that's it.",
+            "timestamp": "00:17:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "There needs to be a thumbnail image of it.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So make a thumbnail image, which you're going to need for that hub page anyway, right?",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like you're going to need that thumbnail for, for that, that resource page.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Excellent.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So yeah, just to recap, we will make sure that absolutely not plagiarized or a direct one-to-one copy of another template before obviously putting the Smith AI branding on it and publishing.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "We'll confirm that by end of day tomorrow and then make any last minute adjustments we need to make.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "You approve this version.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "We will communicate with Vol and Julian as needed about the things that we've discussed.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And following the.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Book version, which is priority is getting it up on the site, making sure that someone can download it.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Second priority later would be the lead and potentially gated asset.",
+            "timestamp": "00:18:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And that's more of like what I would talk to Julian about.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I think at this stage right now, like there's really not much you need to talk to Julian about.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I think, you know, Julian and Ball can be in the discussion for like, we just want to use this case studies page with a couple tweaks.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "You know, sounds good.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Thumbs up.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So we can, Maddy, before I forget, we can build out that individual template page before we even do the parent page.",
+            "timestamp": "00:18:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Is that okay?",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Because you mentioned like, if it's business templates, like we don't need that page yet.",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Like if that's a design thing, then it's, if it's your design agency or if it's us, like, which is the focus is just posting that first one.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "That's fine.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I mean, there's only going to be one.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So it's just sort of like.",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Maintaining the breadcrumb, like the breadcrumb should work, even though we don't show breadcrumbs, like if I delete that section of the URL, it shouldn't just be a 404, you know?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:19:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "If I go to smith.ai slash business dash templates, and I'm just a user who's trying to get to the folder, but there's no breadcrumb link because that hasn't existed for 10 years, then, you know, I try and manually do it in my URL, it's going to be a 404, right?",
+            "timestamp": "00:19:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "You've got anything there.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, I mean, it's a really, really short throw to get a page like that up.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I mean, you're going to have the thumbnail up anyway for the PDF, like, I would say it's like a 20-minute task for Vole.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I mean, you don't even need Julian because there's no new art.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's just a very basic page.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "So now for the thumbnail, do you want some kind of design requirements?",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "answer?",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Can",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Can it be like a screenshot partially of what the template is?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "can be.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Totally.",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:20:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Mara, while I'm taking notes, I think you wanted to mention something to Maddy.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "I'll make notes in the background.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, nothing like too extreme.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "He already mentioned it.",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Yeah, no, that's all right.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I guess the only other thing would be, Maddy, know you mentioned that guys have purchased Gong.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Anything like that we want to chat about live and like we can start thinking about anything.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Maybe it's not like current state, but future state that could be useful you guys.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "With respect to like Gong data from our sales calls.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Anything that's like top of mind for the sales team or that could be useful.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "know you mentioned battle cards.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Oh, you're talking about for Gong.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Not yet.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I'm just the initial phase of implementation.",
+            "timestamp": "00:20:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So ask me, you know, next week and the week after and I'll have an answer for you then.",
+            "timestamp": "00:20:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Didn't want to forget because I knew you'd have to do that.",
+            "timestamp": "00:21:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, no, I appreciate that.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I will want to do that, but I'm just trying to make sure we've got our scorecards and everything is working.",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Totally makes sense.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I'll add it to the agenda in like a couple weeks.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Maddy, one last thing before we go.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Basically, yeah, trying to understand like any feedback that you guys have maybe gotten from recent events or, you know, sales developments, like understanding like who's reaching out.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Is it the same ICP as always?",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Has the ICP changed in any way?",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Like what are, like, just things like around that.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I think that we're starting to see really some serious business adoption of AI, which really started at the user level, right?",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, because you consider that, okay, like I and a lot of other people are probably you are.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I'm not using Google search so much anymore.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's really just ChatGPT or your preferred AI system.",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And as a result, people are bringing that to their companies.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And as a result, they're getting brought into even bigger companies.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So it's sort of percolating up to the company level.",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And what we're seeing is more franchises, more openness to AI in industries that we thought have been pretty stagnant.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So legal was always very behind.",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Home services was very behind.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I mean, you mentioned home service, like CRM to a pro 10 years ago.",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "They wouldn't have known.",
+            "timestamp": "00:22:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "they've got ServiceTitan, which is a massive business, Housecall Pro, like all those companies.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So I would say, you know, it started with the booking software and then it was CRM and now it's AI.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And there's a lot of content that can.",
+            "timestamp": "00:22:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Support the implementation of AI in your business and how to figure out what are the most productive elements to really embed in your business, what's fun and what's really productive and meaningful, but also talk to the users as if they understand these elements more than ever.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And it's sort of like a gentle reminder as a definition.",
+            "timestamp": "00:23:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's not like we're introducing some alien subject to you like we used to treat AI.",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So I think just getting the language right for who the reader is today is important.",
+            "timestamp": "00:23:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "But no, our ICP has not really changed.",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I would just say like we're seeing bigger real deals, bigger franchise opportunities that are expressing a willingness to explore these solutions.",
+            "timestamp": "00:23:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "When in the past, those would have been only like traditional call center, you know, human receptionist opportunities.",
+            "timestamp": "00:23:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That's encouraging.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That's cool to hear.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I had enough.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's real, but there's also a lot of, like, job risk.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I don't know if you saw that Anderson Cooper interview with the CEO of Anthropic, Darrell.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I can't remember what his name is, something like that.",
+            "timestamp": "00:24:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "But basically, he was saying, like, you know, we really have to think about, like, the implications of unemployment and, like, you know, what is...",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, a job prospect for a college grad in, like, two to five years.",
+            "timestamp": "00:24:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And I think, you know, a lot of people are like, why are you fear-mongering?",
+            "timestamp": "00:24:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And it's like, well, he's not fear-mongering.",
+            "timestamp": "00:24:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "He's actually trying to be the responsible one, like, who's not afraid to say.",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "You better prepare because you're just all turning your back and facing the wall when you're saying, like, oh, there's nothing to be afraid of.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Totally.",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "He's saying, like, I see the Army coming and I'm facing them forward with my weapons because otherwise they're just going to stab me.",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "But I'm still going to die.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "like, you know, I think that he was really courageous to do that interview, but we're going to find a lot of like businesses struggling to understand, like, do I keep my staff because they're members of the local community, not just like a staff startup in Utah serving the whole country, right?",
+            "timestamp": "00:25:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Like they're members of the local community.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "What is that, you know, company, that law firm do who is employing, you know, 30 people?",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Probably not going to look that way.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "But the pool builder is not in the same boat, right?",
+            "timestamp": "00:25:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I mean, I don't see robot pool builders coming in the next two years, probably another few years off, right?",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So not to mention affordability is still like impossibly high.",
+            "timestamp": "00:25:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So the home services industry is much more stable.",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And there's going to be a lot of tension around people who",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Focus on trades and vocational work, not including totally the mechanics because a lot of the electric cars, you know, make that a different trade.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "But think about home services, you know, electricians and plumbers and roofers and, you know, drywallers and all that.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, AI isn't going to do that yet.",
+            "timestamp": "00:26:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So they're probably in a position where they're a lot more resilient than like the white collar services.",
+            "timestamp": "00:26:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And that's going to be a real issue from an ego level, I think, for a lot of people because they went to this fancy college and they have this white collar job.",
+            "timestamp": "00:26:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And that's the first thing that's going to evaporate.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's not going to be Joe, the lawnmower.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:26:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "What is it going to cost for those home services?",
+            "timestamp": "00:26:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, you know, what is it?",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "What does it look like if all these people don't have jobs?",
+            "timestamp": "00:26:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Are they going to be able to pay for home services?",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Like.",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Mm hmm.",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Upgrade your kitchen if, like, the white-colored jobs of the homeowners are not available, like, that's going be a big economic impact.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So I think, like, it might be interesting, this is where I'm getting here, and I don't know if this is the direction that you were trying to steer me, but who knows, that Smith.ai may have a place, not in taking a stand in the argument, but taking a bit of a roundup approach to where the current philosophy or research or news articles are focused or identifying potential trends.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So, like, what do home service business owners need to be aware of?",
+            "timestamp": "00:27:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "What do, what do professionally employed, you know, service-oriented business, you know, employees need to, you know, consider for the next few years?",
+            "timestamp": "00:27:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, how is the industry changing?",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, there's Gartner data, there's a lot of data.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Forrest or whatever, on like how even even, you know, Bureau Census data, on like how employment shifts, you know, there might be some interesting like research stories that that would be worth writing, you know, don't take a stand, but at least are informational instead of a stamp on the current worldview.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Is that something that, probably not, but that anyone has written like, you know, if we're trying to capture your perspective on that and it's kind of emergent, have you, you know, are there any kind of like sources like maybe a podcast or a thought leadership, blogs, any kind of conversations where maybe that represent Smith's perspective on that?",
+            "timestamp": "00:28:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "That's what I want to avoid is like a Smith perspective.",
+            "timestamp": "00:28:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "I think about it more from just a data point of view and almost like a survey balance point of view.",
+            "timestamp": "00:28:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So like, let's say that there's that Anthropic CEO, there's probably, you know, bunch of other people.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "But the news is that the Anthropic guy said this thing.",
+            "timestamp": "00:29:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's almost journalistic.",
+            "timestamp": "00:29:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's not really like, what is Smith.ai's point of view?",
+            "timestamp": "00:29:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's like, we feel like our audience should be aware.",
+            "timestamp": "00:29:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Because we don't expect that you're knowledgeable about Anthropic and, you know, have Google keyword search for Anthropic, you know, flagging you every time the CEO does something like we do.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Like, you probably want to, you know, as an informed member of your community, or let's call you a business leader in your community, want to know, like, what's the Chamber of Commerce, you know, going to be murmuring about, you know, yeah, like, things like that.",
+            "timestamp": "00:29:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Totally.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I'm fully aligned there.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "think it makes a lot of sense to not make it specific to your original point of view and make it a little bit more evergreen, distance yourself, make it a little bit more neutral.",
+            "timestamp": "00:29:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "In this case, it would be a little bit more of an aggregator.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Or functioning as the news source of, I'm speaking to my audience and kind of synthesizing what, also I know that we're out of time, so I'll wrap this up, but synthesizing what's going on, making it particular to the particular reader, so really more of a service to them, I think it makes perfect sense.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "I would be curious, also again, I know that we're out of time and I do need to jump, but if you, kind of like what your newsletter open rate is too, if that's something that you're utilizing?",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It's high, I mean, we haven't done a newsletter for a little while because of bandwidth, but we do product updates emails, we've done newsletters, they're typically between like 35 and 45%, you know, couple of the click rate, depending on what we're talking about, but you know, a lot of the times it's just like blogs, personal interest stories about some of us and things like that, the product updates, it's a little more traction, but anyway, like, yeah, I think, I think that could also be good fodder for the sales team, speaking Thank",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Sales Enablement, like, well, I'm not quite sure about AI.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Well, let me send you this article about, like, where we sort of have viewed the current state to be and what the data is indicating.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And that might actually be supportive for the sales team.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And if it's live, too, that's, like, that might attract some nice linking, too.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:31:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:31:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Could we be a good, you know, roller-upper of, you know, really relevant, high-quality articles like that?",
+            "timestamp": "00:31:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And helping your readership or your audience feel more comfortable.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Like, you know, someone's got a handle on that.",
+            "timestamp": "00:31:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "And actually, Julian was looking for, you know, an email sign-up reason, like, he wants to put that on the site.",
+            "timestamp": "00:31:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "So that could be it, which is just, like, what is the weekly, you know, roundup of, you the current state of things.",
+            "timestamp": "00:31:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "That's actually interesting, you know.",
+            "timestamp": "00:31:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, we would have to figure out the right cadence of, like, you know.",
+            "timestamp": "00:31:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "it might not be weekly.",
+            "timestamp": "00:31:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "It might just be one news we send it to you, but we don't promise anything in terms of cadence, which is fine with me.",
+            "timestamp": "00:31:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "No one's paying that close attention.",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We're not Nike or Disney.",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "And I think that's...",
+            "timestamp": "00:31:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Maddy Reads also is a little more authentic as well.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah, I agree.",
+            "timestamp": "00:32:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Totally.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:32:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:32:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "We'll let you go.",
+            "timestamp": "00:32:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maddy Martin",
+                "matched_calendar_invitee_email": "maddy@smith.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Great conversation.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Mara Leighton",
+                "matched_calendar_invitee_email": "mara@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:32:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:32:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "See you later.",
+            "timestamp": "00:32:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Elvis Goren",
+                "matched_calendar_invitee_email": "elvis@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:32:09"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss SmithAI's template implementation progress, marketing efforts, and AI industry trends.](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Template design approved; next steps include plagiarism check, branding, and uploading to Smith.ai/documents](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1052.0)\n  - [Business adoption of AI is increasing, particularly in previously resistant industries (legal, home services)](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1303.0)\n  - [Smith.ai considering creating neutral, data-driven content on AI's impact on employment and industries](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1624.0)\n\n## Topics\n\n### Template Implementation Progress\n\n  - [Design approved for incident report template](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=113.0)\n  - [Next steps:](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=140.0)\n      - [Confirm no plagiarism (by EOD tomorrow)](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=998.0)\n      - [Add Smith.ai branding](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1052.0)\n      - [Upload PDF to smith.ai/documents](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=201.0)\n      - [Create thumbnail image](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1032.0)\n      - [Build individual template page and parent \"business templates\" page](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=205.0)\n  - [Future considerations:](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=140.0)\n      - [Email functionality for template delivery](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=750.0)\n      - [Potential A/B testing with GrowthBook for gated vs. non-gated content](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=922.0)\n\n### Website Structure and Design\n\n  - [Use existing case studies page layout as a base](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=471.0)\n  - [Communicate with Vol and Julian about minor tweaks](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=649.0)\n  - [Ensure proper URL structure (e.g., smith.ai/business-templates/incident-report)](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=230.0)\n  - [Consider involving new design agency, Aether, for consistency with site's new style](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=367.0)\n\n### AI Industry Trends and Content Strategy\n\n  - [Increasing business adoption of AI, particularly in previously resistant industries](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1303.0)\n  - [Larger deals and franchise opportunities emerging](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1441.0)\n  - [Potential content ideas:](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1624.0)\n      - [AI implementation guides for businesses](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1624.0)\n      - [Updates on AI's impact on employment and industries](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1624.0)\n      - [Neutral, data-driven roundups of current AI research and news](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1624.0)\n  - [High newsletter open rates (35-45%) suggest potential for AI-focused content](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1828.0)\n\n### Sales and Marketing Considerations\n\n  - [Gong implementation in progress; discuss potential uses in coming weeks](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1450.0)\n  - [Consider creating AI-focused content to support sales team and attract backlinks](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1624.0)\n  - [Explore weekly roundup email as a lead magnet for site sign-ups](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1890.0)\n\n## Next Steps\n\n  - [Complete plagiarism check and add Smith.ai branding to template by EOD tomorrow](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=998.0)\n  - [Communicate with Vol and Julian about website structure and design tweaks](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=649.0)\n  - [Upload finalized PDF template to smith.ai/documents](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=201.0)\n  - [Create thumbnail image for template](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1032.0)\n  - [Build individual template page and parent \"business templates\" page](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=205.0)\n  - [Explore content strategy for AI industry trends and impacts](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1624.0)\n  - [Follow up on Gong implementation progress in upcoming weeks](https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ?tab=summary&timestamp=1450.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Send incident report template design (one-page and PDF versions) to Maddy for review\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:02:02",
+            "recording_playback_url": "https://fathom.video/calls/317287111?timestamp=122.9999",
+            "assignee": {
+                "name": "Elvis Goren",
+                "email": "elvis@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Check incident report template for plagiarism, ensure uniqueness before adding Smith.ai branding\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:07",
+            "recording_playback_url": "https://fathom.video/calls/317287111?timestamp=967.9999",
+            "assignee": {
+                "name": "Elvis Goren",
+                "email": "elvis@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Create thumbnail image of incident report template for resource page and PDF listing\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:17:01",
+            "recording_playback_url": "https://fathom.video/calls/317287111?timestamp=1021.9999",
+            "assignee": {
+                "name": "Elvis Goren",
+                "email": "elvis@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Coordinate with Vol to create basic business templates parent page (smith.ai/business-templates)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:18:21",
+            "recording_playback_url": "https://fathom.video/calls/317287111?timestamp=1101.9999",
+            "assignee": {
+                "name": "Elvis Goren",
+                "email": "elvis@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Add Gong implementation discussion to meeting agenda in ~2 weeks\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:21:02",
+            "recording_playback_url": "https://fathom.video/calls/317287111?timestamp=1262.9999",
+            "assignee": {
+                "name": "Mara Leighton",
+                "email": "mara@growthx.ai",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Maddy Martin",
+            "email": "maddy@smith.ai",
+            "email_domain": "smith.ai",
+            "is_external": true,
+            "matched_speaker_display_name": "Maddy Martin"
+        },
+        {
+            "name": "Daniel Lopes",
+            "email": "daniel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "nemanja@growthx.ai",
+            "email": "nemanja@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mara Leighton",
+            "email": "mara@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": true,
+            "matched_speaker_display_name": "Mara Leighton"
+        },
+        {
+            "name": "Elvis Goren",
+            "email": "elvis@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Elvis Goren"
+        }
+    ],
+    "recorded_by": {
+        "name": "Elvis Goren",
+        "email": "elvis@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/z7GtyRur9MbVyzKzSynRXE67g2NLEzqJ",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

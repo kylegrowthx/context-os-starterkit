@@ -1,0 +1,2548 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Walk us through the product experience and really had with the customer lens in mind.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "He's one of our SEs and then Erik is one of our agency partners, Jonathan, that helps us kind of grow some of our content via their really kind of awesome AI workflow to kind of help us identify opportunities to increase our, I guess, LLM search visibility.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "So I think, you know, helping them walk through the product will give a better kind of insight into how we speak, how our customers are leveraging our product for value and really kind of helping kind of bring some of that context into some of the content that they write for us.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "So I will let Jonathan take it from here and Erik, feel free to, you know, give yourself an introduction if I didn't do it justice, but.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No, you covered it.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, good to go.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Good to meet you, Jonathan.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'll give you a quick introduction about myself.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So I've been at SpecterOps for going on three years now.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Majority of that time was actually as a technical account manager, working with our customers, making sure they're enabled on the product and really just successful and reducing them out of risk in their organization using Bloodhound Enterprise.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And then switched over to a sales role about a year ago around this time.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So I guess to kind of get started, Erik, like how familiar are you with the concepts around identity security, active directory?",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "might just give us a good starting point on where to like start the conversation.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I know what those words mean, but I would say I'm not an expert by any means.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You're good.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "No, that's good context.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "definitely appreciate transparency.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I mean, I'll start by like...",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "like...",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'll start with just Active Directory as a whole, right?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'm going try to boil down a very, like, foundational thing for organizations into something that's hopefully digestible.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But really, when I look at Active Directory, it's really one, like, a telephone book, if you would, for, like, your users, right?",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And that was kind of a starting point, was that you had this concept of just, like, a user account.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You use that user account for whatever you need to do to get your task done.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Active Directory has been around for a very long time.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "When I say a long time, like, in some of our older organizations, you're looking at, I don't know, let's say probably 20, 30 years, maybe even 40 years, right?",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So, a lot of what we play into is the fact that these, this foundational concept of Active Directory has existed for a very long time.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It's always been used as a provider of, an identity provider, basically, and allowing for you to access resources, right?",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "a provider, Right.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And that's really how it was viewed when it was created.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And really wasn't of the mindset of the security implications of that, right?",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And, you know, who is an administrator?",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Who has control over certain things from an Active Directory standpoint?",
+            "timestamp": "00:03:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Are you following me there?",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So within Active Directory, have various users.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You have some users that are like yourself and myself, where even from like a SpecterOps perspective, right?",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I know a lot about security.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I know a lot about IT.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But like I have no reason to be an administrator of anything, right?",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Because all I am is a consumer of, you know, the applications that are hosted.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But in certain situations, like you need to be an administrator.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Furthermore, not only do you need to be an administrator of an application, you need to be an administrator of the domain totally, right?",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And you actually are the person that configures settings for that domain.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And that's a lot of what we focus in on, right?",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Is from like a, from the Active Directory perspective, you have certain assets or identities that are happening.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So far-reaching privileges, like a domain administrator or an enterprise administrator.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We kind of use this example to kind of really explain what we do without getting too in the weeds of like active directory terminology.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And I'm going to try to emulate Justin Kohler by no means am I Justin Kohler.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But this is his kind of his example that he provides, right?",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So really when we look at active directory security as a whole, you know, one is Bloodhound from its original concept, right?",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "When it was originally released to the public and used internally by our pen testing teams, the overall goal of Bloodhound was really to understand from the attacker mindset, what are the possible ways that an attacker could actually compromise a domain fully or gain access to something like a domain admin account?",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Um,",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And it works really well from that perspective.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And that's really the persona that our open source or community edition really speaks to is more like that red team mindset of I have an asset.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "How do I transition from this asset, like your user account, into someone that is of the level of having very high privileges or very far-reaching privileges like a domain administrator?",
+            "timestamp": "00:05:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "What we found over time was that that works perfectly for an attacker, but from the defensive perspective, really we need a bit more, right?",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And really what we should focus in on are the assets that are critical.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So I mentioned domain administrators having far-reaching privileges, their critical assets, privileged assets within Active Directory.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Think of Manhattan as exactly that.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So we've got Google Maps here.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I've got home of Louisiana.",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's where I'm based out of all the way down South Louisiana and Manhattan, New York.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So let's pretend I am...",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The victim here and the attacker wants to get to Manhattan.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "This is basically what we'd call an attack path, right?",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It's a path from point A to point B that an attacker could take to actually compromise Manhattan, in this case, or your tier zero objects.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So when we look at it from a strategic perspective, we know where an attacker wants to get to.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We don't always know where they're coming from.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So really what we want to do is build a fortress around what we know and what we know we want to protect.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "In doing that, really what we look at is establishing what we call a tier zero asset group, where we would actually house, in this case, like, Manhattan, basically, do exactly what we did on the open source side.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We map every possible way that an attacker could take to actually get to one of these assets.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And we do that for every single identity within a customer's environment.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The next thing we do is we want to tackle and make sure we're prepared.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Prioritizing the right way, There's lots of attack paths.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "There's lots of relationships that exist between user A and user B in Active Directory just organically, setting aside the risk element of it just in order for things to function correctly.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So really what we focus in on is where does a user, or in this case, a customer, where they want to focus their mediation efforts, and how can we make it to where it's the most efficient way possible?",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And really how we approach that is by establishing that asset group.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But also when we're mapping the attack paths, rather than focusing right here, so let's say we're in Houma, and we want to get to Manhattan.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We could focus in on shutting down this path here, right?",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Let's say we want to just make it to where it's not possible for me to get to it via PICI.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "All that means is an attacker can come back here and get to it through South Alabama and get to Manhattan, right?",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The more sustainable approach",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "This is a very simple example, but it really speaks to what the mindset here is when we focus on the findings in Bloodhound enterprise, really what we say is, let's shut down, make it to where the attacker cannot navigate any of the bridges going into the island of Manhattan.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So now we have built a secure fortress around our protected identities, and that way it doesn't really matter where the attacker can get to right here, because foundationally, all we're concerned about is making sure that the attacker can't get to Manhattan.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Are you following there?",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So there's a couple things we do there.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "One is we identify what we call these choke points.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's exactly what this would be.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So, like, the Lincoln Tunnel here, the bridge right here between Jersey City and New York, or Lower Manhattan.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "This is what we call choke points, right?",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "These are...",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "There are areas where if a customer focuses remediation efforts to make it to where an attacker cannot get to your, get to Manhattan in this case, via those routes, we basically neutralize the attacker.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We have achieved the goal of making sure that an attacker cannot get to our critical assets.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's exactly what we're focusing on.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The other piece there is like, you can see right here where we've got one, two, three, four, five, six, seven, eight or so paths.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'll just guesstimate here.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Let's call it eight, right?",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Another thing we want to focus on is the fact that or the concept that an attacker may be able to navigate these particular access points.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But which ones are the most critical, right?",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Which ones are ones that everyone has access to?",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Let's say there's like a toll or something like that that exists in one of these bridges.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It's less likely that everyone will go that way because it's not free, right?",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So let's shut down the areas where we know that 100.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "100% of the people in America can get to it this way, or the attackers in this case can get to it this way.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You want to focus on your remediation efforts on that one first, right?",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So helping us customers prioritize that risk that exists in the environment.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I think we're good on the analogy here.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So I'm going to switch back.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'm going switch over into Bloodhound Enterprise.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So when we look at Bloodhound Enterprise, this is basically what we do.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'll throw out some terminology here.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That way you just have situational awareness, especially when you're looking at our documentation or look at some of our webinars as well.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So the way we achieve that goal in mapping everything is through currently two collectors.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "One is a collector called SharpHound, and that's used to collect information from Active Directory.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The other collector is called AzureHound, and that's used to collect information about Azure and IntraID.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "In both situations.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And that's where we actually analyze all that data.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And this is basically the end result of the analysis.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And this is what we call our attack pass page.",
+            "timestamp": "00:11:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And this is the homepage that every single user of the product lands into.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You know, we touched on critical apps.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "This is a lot of things that probably won't be very familiar to you.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But when we speak to, like, I do, identity security and cyber security.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Customers or potential customers, you know, they understand the concepts of things like domain admins group and the risks there.",
+            "timestamp": "00:11:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So we don't usually have to get too complex in, like, the definitions there, right?",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It's kind of like a well-known term around what's privileged and active director.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We do add some additional enrichments that, like, we really look at the concept, and achieve that goal from an attacker perspective.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But by and large, this is all like concepts that are very familiar to a customer.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But this is your tiers of our asset group.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Kind of like some key things here in how we approach this, right?",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So one thing I always emphasize to my customers and potential customers is like we're automatically identifying a lot of this stuff, right?",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So and the reason why I do that is because I want to make sure they understand that like once they actually install the collectors and they successfully collect, we're going to automatically identify the privileged resources that we know we can identify automatically, and we're going to analyze that data.",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So the expectation is when they successfully collect, we go through our analysis process, they're going to get a general understanding of where their risk is and what their risk is for their organization.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And that is produced with this metric here that we call exposure.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Again, this goes back to prioritizing.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So exposure within the BHU product really represents...",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The percentage of users or computers identities that can actually abuse that attack path.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "going back to the example with, you know, the bridges and saying that there's one bridge that we know that everyone can access freely, no issues, we want to shut that one down first.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's exactly what exposure speaks to.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So really helping customers understand, one, in this particular case, what's their security risk?",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It's not uncommon for us to load data and we see 100% exposure.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It happens quite often.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The other piece of that is now we're looking at kind of like these choke points over to the right or the findings.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "For each of these findings, we have this critical moderate load, the severity labeling.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's all based on the exposure metric.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So you can see here for this particular finding here.",
+            "timestamp": "00:13:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So that's why we're representing it as critical is because there's 99% exposure.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Same thing goes for this one here.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You can see exposure is 44%, so that's why we're showing that the exposure for the attack path or the choke point is 44%.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We kind of provide a description of why we're calling it as a risk.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So for this one, for example, it's because if you own an object in Active Directory, you can basically make any change you want to it.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And again, this is all around identities within Active Directory that should not have the ability to take control or make changes to your quote-unquote tiers or objects or those critical assets.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "For each of these findings, we'll give remediation guidance to the customer on how to actually fix it.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So that's pretty, pretty crucial.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The main reason why, and sorry, I'm kind of going in and out of like a very technical talk track and then like a little bit more...",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Like, some of highlights we provide from a marketing perspective because I'm trying to, like, thread the needle here.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But one of things we like to highlight here as well is, you know, with open source, there are customers or potential customers that have used open source to kind of achieve some of these defensive concepts.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "A lot of the challenge with that is the fact that you're manually analyzing this stuff and it's not really based on, like, metrics like exposure, right?",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So it's a bit of a guessing game.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Sure, you can find some things, but to find everything, it's a bit challenging on the CE or open source side.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Again, that's the reason why we developed Enterprise.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But a big part of that is making sure that those customers that have used open source before realize that, one, they're no longer going to have to be burdened with analyzing this data manually.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It's really about allowing the Enterprise version to do that for you, produce the metrics, help you prioritize.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "As well as from, like, a...",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "From a remediation standpoint, a lot of those customers that have used Community Edition in the past, they have to manually produce some of these remediation gadgets, right?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Where we have it built into the product and it's a lot easier, it's a little bit easier for not only the administrators to consume and those power users, but also potentially even other teams are tasked with actually like the individual task of remediating the findings.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Any questions so far?",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Nothing specific to the product yet.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Trying to think of other areas.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So typically during demo, we'll touch on this part.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And then the next thing we focus on is posture.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So basically posture is like our main dashboard page for the product.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It tells you a few things.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "One is, again, just your general.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Like, health check on where things stand today.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "can see in this particular, you can see the changes over time as well.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You can see areas where maybe it went down to 99%.",
+            "timestamp": "00:17:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "This is a demo environment.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Ideally, in customer environments, we're going to see that the exposure, you know, kind of dip lower and lower progressively as they're executing on remediations.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Same thing for, so this is exposure.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You can also look at dashboarding around the number of findings that exist in an environment during a given period of time.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Same thing for this attack path metric here.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And this is really intended to, one, show the level and the scale of risk in the organization based off of the actual relationships leading up to one of those choke points.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And really, it's intended to kind of show the fact that as you're working through",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You're reducing that risk progressively, and in most cases at very large intervals, meaning if you remove one of those findings on the first page, you stand to see a lot of those attack paths drop down quite drastically.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I mean, we've seen things like during trials, like a, I think it was like a 40% reduction in attack paths, and that was just during like a two-week trial frame, or a two-week trial period.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So, very impactful.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And then over to the left is basically a listing of all the attack paths that have existed in the environment, as well as like the current count and net change over time.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Honestly, as far as like the product, this is really like the high-level overview.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Do you have any questions, or any areas that you want to focus in on a bit more from like just additional context?",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think on the product, I've got a pretty good understanding.",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess when it comes to customers, who are you guys talking to most often?",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it the identity teams, or is it kind of red team security practitioners?",
+            "timestamp": "00:19:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, it's a mix.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "would say like, kind of like our first wave of customer was definitely red teams, right?",
+            "timestamp": "00:19:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Like that was our core use case or users from like a bloodhound open source perspective.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We still speak to a lot of red teamers.",
+            "timestamp": "00:19:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "In general, what tends to happen, at least in the accounts I've worked with, is like we'll start with the red team and potentially transition into like an identity security team, exposure management or attack surface management type team.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's really where we get a lot of traction in terms of like them having the budget to buy something.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Red teamers is a bit challenging because sometimes they don't have that much budget.",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And then, yeah, like, CISOs, especially those CISOs that are a lot more technical, right?",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "They understand the problem.",
+            "timestamp": "00:20:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Maybe they've historically been, like, pen testers or red teamers.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We tend to get a lot of traction from those types of personas.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It's a bit diverse.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "One, because identity security as a practice for a lot of organizations is something that's kind of the latest thing, right?",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So a lot of times you won't have, like, a defined identity security team, per se, which you may have as a team that's focused in on administrating things like Active Directory and Azure and InterID.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So it's about really understanding within the organization who is kind of the responsible party in terms of risk in the environment, especially when it relates to, like, things like pen testing and identity security.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Our identity as a whole.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Then I guess if you had to split like prospective customers out from like those that are reacting to something that's happened versus those that are proactive, how would you split that out?",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's a tricky one.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I think what we see most often is it's more on the reactive side, and it's mainly because, especially here lately, I think we've seen a lot more customers that have gone through pen tests annually in the past.",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And during that pen test, consultants used Bloodhound, open source.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And then in the reporting and in the outbrief of that pen test, they were told that they used Bloodhound, and then they realized that we have an enterprise version.",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I failed to mention that earlier because I got really deep into like explaining what...",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We do, but like overall, Bloodhound is kind of like the standard when it comes to how can you identify from an identity perspective, how to kind of like maneuver within environment from a pen testing perspective.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I mean, we're talking like 80% 90% of all pen tests are using Bloodhound, the open source version, to actually identify that.",
+            "timestamp": "00:22:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Quick note on Verticals, like Verticals, where it's played really, really well is like financials, like we play very well in the financial industry.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Engineering, like manufacturing, we've got some customers that are manufacturing as well.",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The one that really shines the most for us is actually like financials.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Oh, let's see.",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Oh, let's see.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, think you covered most of the kind of pre-baked questions I had for you.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Man, I'm not that good.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, you covered the analogy.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It was super helpful.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That kind of led me to come to my own conclusions there.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But I guess, is there any kind of misconceptions about Bloodhound that you guys want to get out in front of?",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Or is there, you know, I think we heard in the kickoff, like, you guys are trying to create this new identity attack path management kind of category.",
+            "timestamp": "00:23:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How is that separate from, like, what you guys may see from other competitors?",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You know, I think the biggest thing from a competitive standpoint is that, like, we are 100% focused on really...",
+            "timestamp": "00:23:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The attack path management concept, right?",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "There's a lot of companies out there that have, and they do it actively, right?",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Like there's other companies out there that are focused on other areas of security and then have kind of expanded their platform into identity security.",
+            "timestamp": "00:24:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So someone like a CrowdStrike, for example, right?",
+            "timestamp": "00:24:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "They are, they basically are an EDR provider that uses signals based on their EDR collector, plus an acquisition that they did to produce output from an identity security perspective.",
+            "timestamp": "00:24:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "While they're a competitor, they're really not because they don't even do the same thing that we do, right?",
+            "timestamp": "00:24:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We are very invested and pro, or sorry, invested and focused on the proactive concept of making sure it's not possible for an attacker to maneuver, whereas there's other solutions out there like CrowdStrike Identity that's more focused on like, hey, like we'll alert.",
+            "timestamp": "00:24:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Do preventions based off of what's actively happening in your environment.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I mean, a lot of that comes down to, like, it's not a very sustainable approach when you look at realistically, right?",
+            "timestamp": "00:25:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It would be better to be a bit more proactive and shut down those paths versus, like, trying to sit adjacent to them and maybe do some interrupts or even just alerting based off of behavior.",
+            "timestamp": "00:25:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "One big misconception that I think I'm always interested in us conveying is, you know, the possibility of using CE at an enterprise level.",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "It really just isn't possible.",
+            "timestamp": "00:25:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I think that's probably one of the larger assumptions that a customer will make.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And I don't think it's a fault of anything we do necessarily.",
+            "timestamp": "00:25:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I think we're doing a better job of, like, drawing distinction between the two.",
+            "timestamp": "00:25:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But I think just naturally as consumers, we think anytime there's a product and there's, like, a community edition or a light or starter version that it's somehow, like, a trimmed-down capability that is actually, like, achievable.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And it's a very...",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "There's dark difference between the two, and I can actually kind of show you what the difference is, right?",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So if you wanted to use Bloodhound Community Edition, this is the only page that you would get.",
+            "timestamp": "00:26:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So you can search for things.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You can do kind of like that Google Maps point A to point B thing.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You can do these cipher queries where basically you can like do free text queries against the data set.",
+            "timestamp": "00:26:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But I don't think a lot of customers out there, potential customers out there, realize how daunting this task actually is to actually produce risk set versus using the enterprise version, where this is only included in the enterprise version, where we're analyzing data for you, giving you that prioritized guidance and remediation guidance.",
+            "timestamp": "00:26:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "This is really the more sustainable approach, and I think a lot of customers out there make the assumption that they can like.",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We use our free version to do that.",
+            "timestamp": "00:27:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But it does come up.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I mean, it's something that comes up during trials, especially if, or even conversations with customers, especially if they've used it in the past.",
+            "timestamp": "00:27:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "But again, it's really just about educating them on the differences and showing the value, or the benefits, really.",
+            "timestamp": "00:27:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'm trying to think of other things.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Meshach, anything you could think of?",
+            "timestamp": "00:27:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I think you got most of them.",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I'm trying to think of that as well, but I think you covered most.",
+            "timestamp": "00:27:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Again, like, I am, I was just, I used to be a customer of Bloodhound Enterprise, too.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And, like, one of the reasons why we bought it was because, like, we were going through a merger and acquisition, and, like, we had no idea.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "of the risk levels of the organization that we were actually merging with, right?",
+            "timestamp": "00:28:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So it really spoke to the use case, and we have this use case, and we've got white papers on it, which is like this M&A concept, right?",
+            "timestamp": "00:28:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Where you have organizations that, at scale, that's how they grow, right?",
+            "timestamp": "00:28:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "They acquire companies.",
+            "timestamp": "00:28:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "In order to do that, you have to be very rapid in understanding, one, from a risk perspective, who you're acquiring, and then also how do you manage that risk?",
+            "timestamp": "00:28:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So I definitely think there's like some tie-ins there from a marketing standpoint in terms of like getting that messaging out in a very eloquent way in which like when CISOs are actually going through that M&A process, they have the understanding that they can use a tool like this to actually help them make sure things stay secure.",
+            "timestamp": "00:28:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:28:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Another thing, I'm just thinking out loud here, but like another thing, isn't that like we really try",
+            "timestamp": "00:28:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Try to convey during our demos as well as like from marketing perspective is like how crucial it is that we're putting metrics alongside these findings, right?",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And what I mean by that is even when we generate certain findings within the platform, like there's other tools out here that will tell you if you have this particular finding in your environment.",
+            "timestamp": "00:29:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "The challenge is when you have 10 of these in your environment, right?",
+            "timestamp": "00:29:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "And which ones do you prioritize?",
+            "timestamp": "00:29:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I think any person that's of a project management background would say, hey, I've got a year to achieve it.",
+            "timestamp": "00:29:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "We'll break it up into four quarters of work.",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's 25 and we're good to go, right?",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You're either super lucky and you find the thing that's really, really bad.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's really, really bad.",
+            "timestamp": "00:29:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "That's like the ticking time bomb in your environment.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You're either super lucky.",
+            "timestamp": "00:29:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "You can get that on the first go just blindly or you're really unlucky and you wait a whole year, right?",
+            "timestamp": "00:29:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So being able to...",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "To really bubble and bring to light where risk exists in the environment from a very factual basis is super crucial for our customers and actually helps them to a large degree reduce the risk in their environment very quickly.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I know we're a little bit over time as well.",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I want to be respectful of your time.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think I've got enough, at least from a kind of top-down level view of kind of Bloodhound Enterprise.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Again, that analogy really is helpful.",
+            "timestamp": "00:30:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "So whoever came up with that, genius.",
+            "timestamp": "00:30:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Our VP of product, Justin Kohler.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I'm giving him a look at it.",
+            "timestamp": "00:30:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, if there's any other follow-up questions or if I have any other kind of general questions as we get into some of the content development, I think I got your email, so I might just ping you.",
+            "timestamp": "00:30:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Or work through Meshach to kind of coordinate additional follow-ups, but super appreciate the time and the walkthrough.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Yeah, thank you, Jonathan, for sure.",
+            "timestamp": "00:31:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "I really do appreciate it as well.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "Yeah, of course.",
+            "timestamp": "00:31:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Happy to help anytime.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "Sorry about starting the meeting off a little late, guys.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "I know it's late in the evening, but the quarter-hour start throws me off just a little bit.",
+            "timestamp": "00:31:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "throws you off, yeah.",
+            "timestamp": "00:31:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jonathan Parfait",
+                "matched_calendar_invitee_email": "jparfait@specterops.io"
+            },
+            "text": "All right, guys, good chatting with you all.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "You too.",
+            "timestamp": "00:31:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Meshach Cisero",
+                "matched_calendar_invitee_email": "mcisero@specterops.io"
+            },
+            "text": "See ya.",
+            "timestamp": "00:31:28"
+        }
+    ]
+}

@@ -1,0 +1,2474 @@
+{
+    "title": "Airbyte <> GrowthX - Weekly Sync",
+    "meeting_title": "Airbyte <> GrowthX - Weekly Sync",
+    "url": "https://fathom.video/calls/474502520",
+    "created_at": "2025-11-14T16:51:23Z",
+    "scheduled_start_time": "2025-11-14T16:30:00Z",
+    "scheduled_end_time": "2025-11-14T17:00:00Z",
+    "recording_id": 101785750,
+    "recording_start_time": "2025-11-14T16:30:32Z",
+    "recording_end_time": "2025-11-14T16:51:13Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Hello, how are you?",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Hey Carrie, I'm doing good, how are you?",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Not too bad, not too bad.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "It's Friday, it's always good.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "For the other project, you will also be working on that, or Eric will be the main?",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I think, yeah, I think during the sprint it'll be Eric, but I think then after that it'll get handed off to us for regular production.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So, yeah, I'm trying to stay up to date on it so that I know what's going on.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "But, yeah, I helped him review some of the artifacts for the pipeline and stuff.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So, it's my understanding that it is coming to us, yes.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Make it easier.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I saw the artifacts and I have left some comments too, yeah.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Just specifically for you, I will have next week's content ready for you.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Bye Thank",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "today.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I'm working on it.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I was working on it just now.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And it's the last group of those.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "There might be a couple things in there with the hybrid architecture that were already in production before you sent me that other list.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So those will be the last ones of that.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And then next week, we're starting with some of the other content.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So she'll mix us.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I think we're waiting on, I don't think Jacob is coming, but I think we are waiting on Kyle, but we can get started if you want.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "don't.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "You can get started.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "We usually do the bulk of the talking anyway.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So yeah, for this week, we've got everything for this week.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I told Kyle and Jacob, I was like, why are you guys even showing up?",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Carrie's amazing.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Aw, thank you.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I try.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Jacob's my backup just because early on, he had a lot of hand in the stuff that we were doing.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "You guys were doing for the, like the, um, Oh, no, I'm just joking.",
+            "timestamp": "00:01:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I'm just, I'm.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I'm saying you're amazing.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "That's anything I'm trying to say.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I'm friends with Kyle, so I can say that.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "No, he was really excited to work with you again when he got...",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, I...",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Here he is.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "There you go.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Ah, there he is.",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Kyle, I was telling Carrie, I was like, you know, I'm not too upset if Kyle doesn't join.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "I was like, you're amazing.",
+            "timestamp": "00:02:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "You can do it.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Oh, I appreciate the book.",
+            "timestamp": "00:02:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Carrie is amazing.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "That is great.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, she's great.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "thank you.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "It's always an adventure this time for me, my son.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "No, we'll move the call.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Tanmay, we need to find a better time for this call because Kyle has school drop-off around this time, so we'll figure a better time.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Not a problem for me.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, so the only thing we got started on, Tanmay, I was telling Tanmay that I had content for him to review and that we're working out a full week ahead, which is great.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then next week, we'll publish our last group of the...",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "The pages for the editorial stuff for the hybrid deployments.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then we'll change in a slight little, like, I don't even say it's a right turn.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "We're just kind of going back towards center where it's not all Airbyte Flex related topics.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So we'll have a little more variety in there again.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then at that point, we'll be doing probably roughly 36 pages per week for the next few weeks.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And 30 of those will be the industry pages until we get those wrapped up.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Right now, it's looking like we'll finish those before the end of the year.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "We're able to do quite a few at a time.",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And we might even be able to ramp that up a little bit more.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And that'll give us, that'll be good because it'll give our engineering time to get the use case one set up.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then we should be able to start with that right away.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So, yeah, that got me through all this stuff.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Wow.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Oh, and they're working on the final tweaks to the thumbnails that we discussed yesterday, Tame.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So I should have that today.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So you should be able to get them.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then that should be pretty much just business as usual going forward here on the industry pages.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then performance-wise, I pulled just like last couple months to kind of give us a quick little, just a few little snapshots since we just went over a lot of this last week.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "But we're still showing steady growth overall for the last couple of months.",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And particularly in the clusters that we've been focusing in are showing the most growth, which is really solid.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "We want to see that.",
+            "timestamp": "00:04:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then we should see more come back into this data integration and data pipeline, since that's a lot of the topics that we'll be pushing forward with in the coming weeks.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "For GEO, we're still seeing really steady growth with LLM referrals, although it seemed to slow down.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I know, Kyle, we talked about like the volatility with the scrunch data, but I'm also seeing similar, a slightly similar.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Pattern with what we're seeing from GA4 also, where we're still seeing growth, but it's slowed a little.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "I feel like this is a good case to, one, the scrunch data has definitely been wonky recently.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "It's been a little bit hard to trust that I've just seen in the same day, wildly different numbers, and just the past week and a half has been strange, but this is definitely a bit more extreme in the trends.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Probably a place, Carrie, where we could test that FAQ idea, and I know you're not as much in the loop on that, but we're running an experiment across a variety of accounts that's like a play on like FAQ slash glossaries that we have high conviction on.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So I think maybe some structured GEO focus tests for a bit would be interesting to see if we can reverse that trend.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, that'd be great.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And Tamme, two questions for Tamme, maybe.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Like, first, do you see anything different in Profound?",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And B, do",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "You were talking, you were saying that, I mean, with GPT 5.1, they started reducing the number of citations and so on and so forth.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I think it's going to be bumpy for a while.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Totally.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, so I mentioned this last week to Jackab also.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So as per like recent profound research, they have seen chat GPT citations for brands are down by 31% in the last three weeks.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "It's like declining.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So they changed their algorithms, how they show up brands.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So maybe in next algorithm, they tend to again show up more and it will again bounce back.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So it's just like how Google algorithm used to work.",
+            "timestamp": "00:06:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Sometimes when an algorithm comes, your traffic crashes.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Something like that.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah, I'll say though, like this trend, quite a bit more extreme than we've seen.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Um, anyways, uh, yeah, but we can, like, yeah, like what this platforms are trying basically not to like, once they show a brand, they know that you'll go to the brand website by doing Google search or just typing in the URL.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So they are trying to make them stay and read inside them.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "It kind of, that's a good lead into what I was going to say about the experiment that Jacob was running with the TLDR at the top of the page.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Um, if we're looking at, you know, SEO, like there's, it's clearly helping with SEO, ironically, not helping, uh, not seeing as much of the same, um, pattern with GEO.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So for the LLMs, like, it's kind of a mixed bag of, I kind of went in and looked at, um, and there's another, there's another page in the Looker dashboard.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Now Tammy also for, um, the,",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Specific LLM traffic for the test, and it's really kind of mixed, kind of what I've done here is highlighted in green, like which one was the clear winner of the two groups for that particular LLM, and then the yellow is like where it's the winner, but it's not a positive increase, you know, it's not an increase in sessions.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And this is based on session data.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So it's coming from GA4.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And like you can see here, it's just like, depending on the platform, you know, it's, it's, yeah, anyway, we're seeing like, that, surprisingly, you're doing pretty well on ChatGBT across, you know, this.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And even, even when we're looking at this data up here, same thing, like, if everyone else is seeing it go down like 30%, and you're just going up six, I'm happy with that.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, in ChatGBT, we are way ahead from our main company.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And that's kind of what I really think is good, too, when we look at the scrunch data.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "If we can rely on it at all, it is showing that you're getting quite a bit more traction across the board through, you know, LLM citations, presence, all of those factors.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So even if it's way off, it's still saying that you're doing better than the others.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "It be blowing smoke at you.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "But that's what I'm seeing.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "don't know, Kyle, if you have any thoughts.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "No, no, nothing to add to that.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I think we are a little bit of experiment and a small block at the beginning of statistical articles where it can easily show, like, how the results Thank",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Results appears in Google AI search or Google AI overviews, like that kind of thing we are, like a snippet kind of thing we are adding in listicle articles.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "So that's a test we are doing, experiment.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And we have seen pretty good traction so far from that.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So we are adding it to more and more pages.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I think, because it just kind of leaves the question, I mean, we'll finish out, obviously, tracking through SEO testing for this experiment.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I'm kind of, at the moment, I'm kind of of the mind of it's making, it's not going to hurt to have it in there.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Just kind of, I think, comes down to one of the things that I've noticed with content, and this is my personal opinion.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I obviously, and this is anecdotal entirely, but like if we're trying to long-term say still write for the person and then for the algorithm, one of the things that happens a lot of times when you see, like we've got a lot of things at the top of the page, a table of contents, a TLDR, all that, it takes the person a while to get to the actual content.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So it kind of just depends on what the goal is with what we're creating.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, I think we should never sacrifice too much, at least on user experience, because it's good to have more traffic and so on and so forth.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "But I also think we should start looking at session data and see, okay, we're running this experiment.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Is the bounce rate going up?",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Is the session time decreasing?",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "so on and so forth.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Because those will eventually hurt us.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Because at the end of the day, we want the people to, yeah, of course, a lot of this is top of the funnel content.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "But we want people to come in and find value into what we're saying and hopefully keep browsing the website and finding something relevant to them and hopefully drive a conversion.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And so to me, it's always like, yeah, striking a balance in between experience and optimization in a sense.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah, we're very aligned with that.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Like, that's generally how we think about it.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "You know, I would say TLDR is like pretty low risk from that perspective, like it.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "It can just be helpful for a person, right?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Whether it really moves the needle, think it's like a small, like, around the edges type of thing that, like, doesn't hurt, but it's not going to all of a sudden, like, you know, massively increase, you know, AI visibility.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "But, yeah, generally, I think, like, that seems to be kind of what it's showing.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Like, it's a little bit up and down, like a bit of a mixed bag.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "It clearly doesn't hurt.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "It doesn't massively help.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So it's probably a good practice to include, I'd say, more often than not, but generally think about, like, with most of our customers, like, what are types of articles that just suits better versus others?",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And sometimes that's clearer for some customers than others.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Maybe we do something with that here.",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Carrie, also, don't know, realizing complete brain fart when I said I'm not sure if you're in the loop.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "you're in on the FAQ thing.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Clearly you are, because that was...",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "I don't know what I was thinking, but it feels like that's a good thing we should test with the Airbyte team.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "I can do a brief overview on it to socialize it later.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, we've been doing kind of like similar to what we were doing with Engine.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I think we've been doing FAQs at the bottom of our individual articles, but I don't think we've done anything more comprehensive than that.",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah, this is a little bit different.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So I think it's like one of those things that, you know, in the next month, I would say like it would be worthwhile to test.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Oh, it cut out like right as you were speaking, Tanmay.",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Oh, I think my internet is like has something to do.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "In a little bit.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Oh, so I was telling you, we already have FAQ on some pages, mostly all article pages, and we have added FAQ schema also on those articles.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yes.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yes.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yes.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "This is a little bit different.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, we can definitely try.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I'm open to try any experiment because this is new and evolving.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "People are trying multiple things.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "They don't know which will work out and which not.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "I don't want to derail Carrie, can I do a quick, like, two-minute here on it?",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "On the glossary?",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Do you want to take it or want me to?",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah, yeah, I'll just share it real quick.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "I'll keep it fast.",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "We can scope this out further, but I'll just loop you guys in what we're doing with the engine team.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So, first, we did a bit of Reddit research.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "just scraped different threads feeding into artifacts, trying to find, basically, like, primary questions and then related questions to that and trying to, like, pair those together.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And so, like, in this case, like, construction companies that are booking hotels.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Hotels for crews is like a common use case for them.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And so then what are the associated questions to that?",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And then we have this comprehensive list of all these different questions.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So just try and identify where there's patterns of frequent.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "What do is a really light test.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "It's kind of like a play on a glossary, but it's more of an FAQ style approach.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And so basically it is centered around the primary question and then the associated questions.",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And it's supposed to be like really simple, like keep it short, LOMs are lazy.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So we want to like, you know, play around these question and answer pairs around this common theme and see, does that help with visibility?",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "We have no idea if it works, but our point of contact there who just joined from Ramp, who's former head girl there, and also our customer before this, which is a small world, was saying they had done something similar at Ramp and found a lot of success.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "He just happened to join in the middle of us scoping this test and Wait, wait.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And basically, like, Luke from Ramp just is now a pro that I ended That's awesome.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Congrats.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Small world, man.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "It's so funny.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Well, I know how to name, like.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah, totally.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Anyways, it's like one of those things, if it works, it's the kind of thing we can scale out really fast.",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And, you know, we're going to be working on this navigational page that all this is on.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "so it's a little bit different than putting FAQs at the bottom of a page and more of a test of, like, this should be at least good enough for the average user if they actually, of course, read it and can rank in SEO.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "But this is more of a It's kind of like where the idea came from is kind of, you know, the traditional glossary page, which is like designed for SEO, right, where it's pulling those keywords that people search for and they find you that way.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "This is like the GEO version of that.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And it's in the question and answer format.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So that's why we're calling it a glossary.",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "But it really looks more like an FAQ to the human eye.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So it's less product-focused than a traditional FAQ, which is just a general question, hopefully to grab some of those.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Because if that's the reason why FAQs work for an LLM, this should, in theory, work as well, and then not continue cluttering up.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And part of it, too, is a lot of times FAQs are added at the bottom of articles.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "You know, these LLMs are trying to, you know, be as efficient as possible.",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "This is a way of theoretically surfacing that content in a way that is easier for them to ingest.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "And so whether that holds true, we'll see.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "But that's the test that we're running across a couple of customers right now.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So something we could do down the line with you all, but, you know.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I was thinking, let's say, we have a topic, like normal article, and at the end, whatever we have added.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And if we add questions related...",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "To that thing as a separate this FAQ that you showed, will there be a cannibalization issue?",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Yeah, potentially if you want to be certainly careful of like duplication in that sense, but cannibalization from like an AEO perspective, I think I'm worrying a little bit less about at this point, although I can see how that could be something to be concerned about.",
+            "timestamp": "00:18:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "So from an SEO perspective, we're worrying about cannibalization, especially with like good FAQ coverage, can always like no-index those pages, put them in your LLMs, TXT, and then like even more restricted as like an AEO-focused test to see if it drives visibility.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "There's different like permutations of like how to think about leveraging it, so.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "You got it.",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I just have a couple more things in the agenda I wanted to make sure that we touched base on, so we'll go back to that for just one second.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So then I guess we kind of got a little sidetracked with this, but do we want to start adding?",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "You",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Are the TLDRs to more pages, or do we want to wait until we're completely done with the SEO testing portion to do that?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I think we've got two weeks left on that test.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "No, I think we have already added TLDR to certain pages, and you want to add it to all the other pages, right?",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, I'm asking if that's where you want to go next with this.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yes, yes.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "It sounds like we all agree on that.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "And it's on which category, or it's all the categories?",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Yeah, I think we can do it on all of them.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "It's fairly easy to implement on any content that we're doing for the editorial or programmatic editorial.",
+            "timestamp": "00:19:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah, I think we can do it on, like, push it to all the data engineering resources pages.",
+            "timestamp": "00:19:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "In data engineering resources, we have a lot of articles, I think more than 1,000, 2,000 articles are there.",
+            "timestamp": "00:19:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And then did you, I know you were going to look at the scrunch prompts.",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I don't know if you did that or had any chance.",
+            "timestamp": "00:19:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "No, I haven't checked it yet, I will check and let you, yeah.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Not a problem, that's it, that's all I had.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Do we have anything else we needed to go over?",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "I know you have another meeting with the Sprint team about the AirBite context stuff, so I don't want to take up your time.",
+            "timestamp": "00:20:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "No, I'm good from my end.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "All right, I think that's it then.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Kyle, do you have anything else?",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Nothing useful.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Understood, understood.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Well, it was nice chatting with you guys.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "We'll see you next week, if not.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Thank you, team.",
+            "timestamp": "00:20:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "See you next week.",
+            "timestamp": "00:20:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Tanmay Sarkar",
+                "matched_calendar_invitee_email": "tanmay@airbyte.io"
+            },
+            "text": "Have a good weekend.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthx.ai"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:20:36"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Review content performance and plan future SEO strategy.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=249.0)\n\n## Key Takeaways\n\n  - [**Content Pipeline Shift:** The editorial focus will broaden from Airbyte Flex to general topics. Production will ramp to \\~36 pages/week (30 industry pages) to finish the industry page project by EOY.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=174.0)\n  - [**LLM Traffic Volatility:** A recent 31% drop in ChatGPT citations is a market-wide trend, likely due to algorithm changes designed to keep users on-platform. Airbyte's performance is strong relative to competitors.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=286.0)\n  - [**New SEO Test Proposed:** An \"AEO Glossary\" test will create dedicated Q\\&A pages (not in-article FAQs) to capture LLM traffic. This is a higher-risk, higher-reward experiment than the TLDR test.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=864.0)\n  - [**TLDR Test Outcome:** The TLDR experiment yielded mixed results for LLM traffic but is a low-risk SEO win. The team will add TLDRs to all new content and consider a bulk update for the \"Data Engineering Resources\" section.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=448.0)\n\n## Topics\n\n### LLM Traffic & Market Context\n\n  - [**Problem:** LLM referral traffic growth has slowed, a trend confirmed by both GA4 and Scrunch data.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=286.0)\n  - [**Context:** This is a market-wide phenomenon. Profound research shows a 31% drop in ChatGPT citations for brands over the last three weeks.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=352.0)\n  - [**Cause:** Algorithm changes are likely designed to keep users on-platform, reducing outbound links.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=352.0)\n  - [**Airbyte Performance:** Airbyte is outperforming competitors in LLM citations, according to Scrunch data.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=448.0)\n\n### TLDR Experiment Results\n\n  - [**Goal:** Test the impact of adding a \"TLDR\" (Too Long; Didn't Read) summary at the top of articles.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=448.0)\n  - [**Outcome:** The test yielded mixed results for LLM traffic across platforms (GA4 data).](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=448.0)\n      - [**ChatGPT:** Showed a positive session increase.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=448.0)\n      - [**Other LLMs:** Results were inconsistent, with some showing wins but no net session increase.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=469.0)\n  - [**Decision:** The team will add TLDRs to all new content.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1129.0)\n      - [**Rationale:** It's a low-risk practice that doesn't harm user experience and provides a small, consistent SEO benefit.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=663.0)\n      - [**Consideration:** A bulk update for the \"Data Engineering Resources\" section (1k\u20132k articles) was discussed.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1166.0)\n\n### Proposed \"AEO Glossary\" Experiment\n\n  - [**Proposal:** Test a new AEO (Answer Engine Optimization) strategy using dedicated Q\\&A pages.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=864.0)\n  - [**Methodology:**](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=864.0)\n      - [**Research:** Scrape Reddit to identify primary questions and related sub-questions on a topic.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=877.0)\n      - [**Execution:** Create a simple, Q\\&A-style glossary page focused on a single theme.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=914.0)\n      - [**Rationale:** This format is designed for easy LLM ingestion, unlike FAQs buried at the bottom of articles.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1040.0)\n  - [**Risk:** Potential for SEO cannibalization with existing articles.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1065.0)\n      - [**Mitigation:** Use `no-index` tags or `robots.txt` to restrict the pages to LLM-only visibility.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1065.0)\n\n### Content Production & Pipeline\n\n  - [**Production:** The team is now working one week ahead on content.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=164.0)\n  - [**Editorial Focus:**](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=174.0)\n      - [The final batch of Airbyte Flex/hybrid deployment pages will be published next week.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=174.0)\n      - [The focus will then shift to a broader mix of general data topics.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=185.0)\n  - [**Industry Pages Project:**](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=200.0)\n      - [Production will ramp to 30 pages/week.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=200.0)\n      - [**Goal:** Complete the project by EOY 2025.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=200.0)\n      - [**Significance:** This frees up engineering time for \"use case one\" setup and creates a content buffer for its launch.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=215.0)\n  - [**Thumbnails:** Final tweaks are complete; files will be delivered today.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=232.0)\n\n## Next Steps\n\n  - [**Carrie:**](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=54.0)\n      - [Deliver next week's content to Tanmay for review.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=54.0)\n      - [Deliver final thumbnails to Tanmay today.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=232.0)\n  - [**Tanmay:**](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=54.0)\n      - [Review next week's content.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=54.0)\n      - [Review the Scrunch prompts and provide feedback.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1194.0)\n  - [**Kyle:**](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=772.0)\n      - [Provide a detailed overview of the \"AEO Glossary\" test to the team.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=854.0)\n  - [**All:**](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1129.0)\n      - [Add TLDRs to all new editorial and programmatic content.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=1129.0)\n      - [Schedule a new weekly sync time to accommodate Kyle's schedule.](https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU?tab=summary&timestamp=150.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Reschedule weekly sync to avoid Kyle's school drop-off",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:02:19",
+            "recording_playback_url": "https://fathom.video/calls/474502520?timestamp=139.9999",
+            "assignee": {
+                "name": "Mario",
+                "email": "mario.moscatiello@airbyte.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Send FAQ/glossary overview to Airbyte team; then scope/launch AEO test",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:12:41",
+            "recording_playback_url": "https://fathom.video/calls/474502520?timestamp=761.9999",
+            "assignee": {
+                "name": "Kyle Gaudreau",
+                "email": "kyle@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Add TLDRs to all Data Engineering Resources pages",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:18:44",
+            "recording_playback_url": "https://fathom.video/calls/474502520?timestamp=1124.9999",
+            "assignee": {
+                "name": "Carrie Chowske",
+                "email": "carrie@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Review scrunch prompts; send updates to Carrie",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:19:45",
+            "recording_playback_url": "https://fathom.video/calls/474502520?timestamp=1185.9999",
+            "assignee": {
+                "name": "Tanmay Sarkar",
+                "email": "tanmay@airbyte.io",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Tanmay Sarkar",
+            "email": "tanmay@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Tanmay Sarkar"
+        },
+        {
+            "name": "Nithin M ",
+            "email": "nithin.mahalingam@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mario Moscatiello",
+            "email": "mario.moscatiello@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Mario"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Kyle Gaudreau"
+        },
+        {
+            "name": "Carrie Chowske",
+            "email": "carrie@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Carrie Chowske"
+        }
+    ],
+    "recorded_by": {
+        "name": "Carrie Chowske",
+        "email": "carrie@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/4wxzshDHZDLzeyLBasu664VK9ED_MPKU",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

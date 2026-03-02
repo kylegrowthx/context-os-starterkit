@@ -1,0 +1,1212 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I have a very quick question on some measurement stuff, like a very tactical question.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "So I curious how you guys do it internally.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "With LLM rank tracking, do you have any internal proprietary way you guys are tracking it or using another, like one of the hundred tools that's doing only partial of everything?",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Proprietary is not how I would put it at this point in time, although we've debated certainly building our own solution at some point, but just in terms of impact for effort, it hasn't, we're quite confident we'll build it one day, but honestly, like just putting it elsewhere.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "we're partnering with a company called Scrunch, and we've evaluated a lot of these different tools.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I can show you what this looks like.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Hopefully this looks interesting.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And I'll show you the reason why this question is coming up.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Do you want me to just walk you through Scrunch real quick?",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That would be great.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I won't go to like too in-depth, but just to give you a feel.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So this is for abnormal security.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Essentially what you can do here is.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And almost all these tools work in some version of this way, is you're essentially identifying a set of prompts and competitors, and then you are giving these tools context of continue to check these prompts, our rankings, our mentions, and then that gives us a variety of different metrics that we can analyze from there.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, you know, where are you positioned?",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "What was the sentiment?",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Were you, you know, sentiment is essentially like, were you negatively mentioned?",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "In this case, they are not.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Then we can dig into the individual prompts, can see things like competitor presence, like where are they strong, where are they not?",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You know, they're a bit of a mixed bag, like they have, you know, some momentum, but, you know, there's some flaws to just general, like where these tools are at, like, on the prompts you select, right?",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But you can get more information, like, in terms of, like, what was the actual response?",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "What were some of the notable?",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And then think of that from here, like that essentially starts to give us, there's these insights that are somewhat interesting, but we get a variety of different things we can do here that essentially is like, where are you weak?",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Where are you strong?",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, how does this inform where we need to evolve our content?",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I'm just doing it at a category level though, like for abnormal security, if this is a category, like email, a security management, and you're looking at how you rank across all of the models, basically.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Yeah, essentially, right?",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, so it's a little bit limited in how it shows here, but I actually know there's a threat literally going at the scrunch team about this.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't know what basis is, but how we do it is in our, like how we organize content is we do structure it and cluster it in a variety of ways, because it's just helpful, because there's so much content that we're producing and we're refreshing that just aligning on like, where are we focused, what are we learning, et cetera.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, you know, I think our take is probably going to be just like almost in a sense labeling things like this and then rolling it up in a variety of different means.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so how we do that, I think we're still defining a little bit.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'm not sure Scrunch has a solution in platform yet for it, but there's no reason we can't do that out of the platform and then like just merge the data.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I have been, this is a, it's not fully fleshed out.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I'm just like figuring out how best to actually represent this.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "The trend is very similar to what's happening with us, right?",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Like we are seeing organic click throughs drop significantly.",
+            "timestamp": "00:03:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Impressions have gone up, which makes sense, but they're all zero searches.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "It doesn't really give you anything, but even with having higher presence on regular search is not like we're getting over optimized on LLMs.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "We're just like, we're just there because we've been around for such a long time, have a strong brand.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And we're competing with ourselves with that other nonprofit product board.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "In in some cases, it appears number one.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "It's a little bit of a mess.",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "So what tool did I use here?",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "forget what it's called.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Some rank traffic.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Give me one second.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "else?",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "There's so many, so many things.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's fast.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Yeah, and YC loves SEO companies, like loves them.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "There's always like a hundred of them, and I still don't know what each one of them does.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, sounds about right.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I've just started an SEO company.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Every time I think about it, like, I don't know if I mentioned this, but I still found out, but like still run my own company, and it's kind of moved off of it a little bit now.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And my partner and I always like, I always push for like, we should have just done a SaaS code, like a SaaS AI company.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Like, I don't want do this.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "It's constant thing.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "You know, I'm like, okay, whatever, but what did I tell her?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "What did I tell her?",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Oh, my God, I can't seem to get this.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "It's a product rank tracker, basically, and what it does, it gives you a little bit more insight.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "What is this tool that I pulled it from?",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'm sorry, I don't even know what you're doing.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'm not stressing.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "So basically, what it does is this.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You see my screen?",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So it just gives you, it's a free thing.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "It just gives you a positioning of where you kind of track, and depending on which one you're looking for.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "For example, Zach is Ed Norton's board management software company, and when I use that as a basis, I don't even know what this ranking on the left actually means, but when you look at LLM ranking, it kind of gives you a category.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "of where you stand.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Is this a prompt or is this an aggregate?",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's aggregated.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "So it does at a category level, at a product level.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And again, it's a free tool.",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "So this is not like using SEMrush for something, right?",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Like it just gives you a theory of it.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "It doesn't necessarily mean.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "However, what's messed up in this one is at a category level, we are not even forced, which is way worse because we're the biggest leader in the category.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And anyway, so I was just trying to see if there was an easier way to pull this information, but it doesn't look like it.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "So we'll just pick it up.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's honestly like at a very weird phase.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And like even tools like a Scrunch have its flaws.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "For example, you know, they're pulling via the API.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And actually the results that you get via the API are not necessarily going to be the same as when you go directly to the model and ask.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so it's just like, it's a very weird time and place.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That doesn't mean there isn't value in like.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And like things we can do to move the needle.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And we're certainly finding that.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's just like the things we're so used to, like, I mean, so many, you know, data tools are obviously flawed in their own ways.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's just very early days there.",
+            "timestamp": "00:07:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so, you know, we're finding ways of still being effective and, you know, informing, but just being mindful of like the, you know, where the flaws are essentially.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, yeah, scrunch from our early take is, you know, one of the better ones.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Although, honestly, they're not all that different, it seems at this point.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I will say what you just showed is a little bit different than what I've seen from most, almost all of them.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "They like, like, give us the prompts.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We'll start pinging these APIs for the prompts.",
+            "timestamp": "00:07:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We'll return the results and we'll tell you.",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's kind of what I, yeah, I was hoping for somewhat something like this, which just gives you a little bit of an aggregate, like results.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And this is also based on your citations.",
+            "timestamp": "00:07:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I'm forgetting what the tool is.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And all these SEO tools that I'm looking at is just.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "10 of them are from YC, literally from the last year.",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "And I'm like, what are you guys even doing differently?",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Like, it's nothing to do with content either.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "It's very much, I don't know, I'll send you a few companies.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Positional is interesting.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Do you guys know Positional?",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't know them like super well, but I've definitely seen the name in and around, like around a handful of times.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "They also started a company a year and a half, two, maybe two years ago in a very competitive time.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Again, like, I don't know what exactly everybody does, so it's just getting a, so I thought I'll ask you a recommendation or tooling standpoint of like, anyways, thank you so much.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Don't worry about it.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Well, I sent a note to Olivia.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I'm going to try and wrap this up as soon as possible, ideally in the next week.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "So hopefully the red lines are one I need to just figure it out.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "Okay, yeah, no, that's relatively quick.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, let us know.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I want to make sure I hold the right kickoff date for you.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We typically try to limit it to two a week.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so as soon as you feel like you have like a pretty good sense of.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "If we had a rough timeline, I can coordinate with the team just to make sure we're all good because I know you want to move fast and that way I can just love I have to spend the money.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I have a board meeting on, like, I need to get this from, you know, on 23rd of June.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I'd rather have you guys onboarded before 23rd.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I do not want to go to this conversation.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "This works out well.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I need to close more deals.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I always need to close more deals so we can help each other.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You're the second person who's told me that this month.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's weird being on this side, you know, not a sales guy typically, you know, it's funny being on this side of the house now.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Happy to help.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I want to get it close by Q2.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "I mean, not end of month, but much before, okay?",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abi Ravindra",
+                "matched_calendar_invitee_email": "sravindra@diligent.com"
+            },
+            "text": "totally.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I don't I would love to.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We're super excited to get started.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Just let me know if any blockers come up and happy to Okay.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:09:56"
+        }
+    ]
+}
