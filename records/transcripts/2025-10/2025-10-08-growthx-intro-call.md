@@ -379,104 +379,34 @@ Netwrix is a cybersecurity company with a mature, sophisticated content operatio
 
 **Tyler Pavlas:** What I'm hearing is you'd be much more sophisticated than earlier-stage companies we've worked with. And that's good—we can leverage all your resources: knowledge base, voice shaping, author-specific customization.
 
-**MarielGrinstein:** I teach marketing with AI in a university and I have an honoris causa PhD in AI.
+**MarielGrinstein:** I teach marketing with AI at a university and have an honoris causa PhD in AI. I might be hard to work with, but I don't want to avoid working with you. It's that we need to tailor it to match the quality we've achieved—it was hard to get there.
 
-**MarielGrinstein:** And so, yeah, so yeah, I might be a little hard to work with, but it's not that I don't want to work with you.
+**Tyler Pavlas:** I see what you're saying.
 
-**MarielGrinstein:** It's just that we wouldn't really need to tailor it so it matches the quality that we now have.
+**MarielGrinstein:** I took the role in February when the content was a disaster. We scaled up velocity and quality significantly.
 
-**MarielGrinstein:** Because it was hard to get us there.
+**Tyler Pavlas:** Do you feel like the biggest way we could help is scaling output while maintaining quality?
 
-**Tyler Pavlas:** I see what you're saying, Mario.
+**MarielGrinstein:** Yeah, I'd like to hire more people, but what I'm looking for are agencies.
 
-**MarielGrinstein:** I see what you're saying.
+**MarielGrinstein:** It's fine.
 
-**MarielGrinstein:** I took the role in February and the content was a disaster.
+**Tyler Pavlas:** Understood. Well, glad I could give you an intro. Good to meet.
 
-**MarielGrinstein:** And we really upscaled the velocity and the quality.
+**Tyler Pavlas:** I'm glad you told me what's happening on your side. We're working with a couple of clients now, so we can really scale quality without overcommitting. I want to make sure we can add enough value for the partnership to make sense.
 
-**Tyler Pavlas:** Do you feel like, I just want to make sure I'm aligned here.
+**MarielGrinstein:** Yeah, I understand.
 
-**Tyler Pavlas:** Do you feel like the biggest way that we could potentially help is just being able to help you scale the output and maintain quality?
+**MarielGrinstein:** John told me to check it out.
 
-**Tyler Pavlas:** yeah, yeah.
+**Tyler Pavlas:** I don't want you to do something you don't want to do.
 
-**Tyler Pavlas:** Is that what you're saying?
+**MarielGrinstein:** We don't want to either.
 
-**MarielGrinstein:** Yeah, I would like to hire more people, but I think what I'm getting now are agencies.
+**MarielGrinstein:** If we work together, we need to tailor the workflow to adjust to all the work we've done. Otherwise, I get comments from product marketing and product development.
 
-**MarielGrinstein:** So it's fine.
+**MarielGrinstein:** It's so technical and I'm not technical, so I had to build GPTs to validate alignment.
 
-**Tyler Pavlas:** Understood.
+**Tyler Pavlas:** You're doing your due diligence the right way. Kudos for everything you've built. I look forward to the meeting this afternoon. We'll figure this out—whether it's working together or waiting. Either way is fine, seriously.
 
-**Tyler Pavlas:** Understood.
-
-**Tyler Pavlas:** Well, glad I could give you an intro.
-
-**Tyler Pavlas:** Good to meet.
-
-**Tyler Pavlas:** No worries.
-
-**Tyler Pavlas:** I'm glad you told me everything about what's going on on your side, because I think I just want to make sure, like, you know, with everybody at NetRix and also with Marcel, like, we are working with two clients.
-
-**Tyler Pavlas:** So we can really scale quality, right?
-
-**Tyler Pavlas:** Like we're not trying to bite off more than we can chew.
-
-**Tyler Pavlas:** And I just want to make sure that, you know, there's enough value we can add for the partnership to make sense.
-
-**MarielGrinstein:** Does that?
-
-**MarielGrinstein:** Yeah, no, no, I understand.
-
-**MarielGrinstein:** Yeah, yeah.
-
-**MarielGrinstein:** And I don't want to bum you.
-
-**MarielGrinstein:** I was actually like, John told me, go, I like this stuff.
-
-**Tyler Pavlas:** So we'll be fine.
-
-**Tyler Pavlas:** I don't want you to have to do something that you don't want to do, though.
-
-**MarielGrinstein:** And we don't want to do that either.
-
-**MarielGrinstein:** No, don't mind.
-
-**MarielGrinstein:** But if we get to work together, we really need to tailor the workflow so they can adjust to all the work that you've already done.
-
-**MarielGrinstein:** Yeah, yeah, yeah.
-
-**MarielGrinstein:** Because if not, then I start getting comments from product marketing or from the product development, product research.
-
-**MarielGrinstein:** Which, like, and...
-
-**MarielGrinstein:** And it's so technical.
-
-**MarielGrinstein:** I'm not technical at all.
-
-**MarielGrinstein:** So I had to be a little loose cast on GPTs to check.
-
-**Tyler Pavlas:** It makes sense.
-
-**Tyler Pavlas:** You're doing your due diligence the right way.
-
-**Tyler Pavlas:** And like, kudos to you for like everything that you've built over there.
-
-**MarielGrinstein:** Like sounds incredible and much more sophisticated than some of the clients that we talk to.
-
-**Tyler Pavlas:** So, no, I'll look forward to the meeting this afternoon and we'll figure this out, whether it's working together or waiting for the future.
-
-**Tyler Pavlas:** No big deal either way.
-
-**Tyler Pavlas:** Seriously.
-
-**Tyler Pavlas:** Want to make sure this is right, but talk to you soon and good, good, good to meet you.
-
-**Tyler Pavlas:** See you later.
-
-**Tyler Pavlas:** Thank you.
-
-**Tyler Pavlas:** See you.
-
-**Tyler Pavlas:** Bye.
+**Tyler Pavlas:** Want to make sure this is right. Talk to you soon. Good to meet you.

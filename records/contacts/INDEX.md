@@ -139,6 +139,7 @@ last_updated: 2026-02-26
 | [steve-raikow-v1.md](steve-raikow-v1.md) | Steve Raikow | Cresta | Unknown (attendee at fireside chat) | audience |
 | [taylor-ault-v1.md](taylor-ault-v1.md) | Taylor Ault | GrowthX (candidate) | Head of Customer Engagement (panel interview) | candidate, advisor |
 | [thiago-da-costa-v1.md](thiago-da-costa-v1.md) | Thiago da Costa | Datagrid (Procore) | Contact Lead | client, partner |
+| [tony-kinsley-v1.md](tony-kinsley-v1.md) | Tony Kinsley | 1Password | Full Stack Recruiter | candidate, recruiter |
 | [veronica-covdy-v1.md](veronica-covdy-v1.md) | Veronica Covdy | | | event_participant |
 | [veronica-hsiao-v1.md](veronica-hsiao-v1.md) | Veronica Hsiao | Webflow | Team Lead (AI Design Lab) | client, partner |
 | [veronica-ortiz-v1.md](veronica-ortiz-v1.md) | Veronica Ortiz | Coralogix | Team Member | client, partner |

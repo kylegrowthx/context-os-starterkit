@@ -1,26 +1,47 @@
 # Archive
 
-Archived and superseded documents from earlier versions of the company knowledge base. These files are kept for historical reference but are no longer the current source of truth.
-
-For current versions, see the appropriate directory under [/docs/](/docs/).
+Archived and superseded documents. These files are kept for historical reference but are no longer the current source of truth.
 
 ---
 
-## Files
+## Sections
+
+### Legacy Archives
+
+Previously superseded documents from earlier versions of the knowledge base.
 
 | File | Superseded By |
-|---|---|
-| [how-our-business-works.md](how-our-business-works.md) | [/docs/business/overview.md](/docs/business/overview.md) |
-| [how-we-make-money-v2.md](how-we-make-money-v2.md) | [/docs/business/business-model.md](/docs/business/business-model.md) |
-| [how-we-measure-client-success.md](how-we-measure-client-success.md) | [/docs/business/success-metrics.md](/docs/business/success-metrics.md) |
-| [organic-growth-strategy.md](organic-growth-strategy.md) | [/docs/finance/organic-growth-strategy.md](/docs/finance/organic-growth-strategy.md) |
-| [overview.md](overview.md) | [/docs/business/overview.md](/docs/business/overview.md) |
-| [pricing-monetization-strategy.md](pricing-monetization-strategy.md) | [/docs/finance/pricing-and-monetization-strategy.md](/docs/finance/pricing-and-monetization-strategy.md) |
-| [the-big-picture.md](the-big-picture.md) | [/docs/company/the-big-picture.md](/docs/company/the-big-picture.md) |
-| [the-customer-journey.md](the-customer-journey.md) | [/docs/business/customer-lifecycle.md](/docs/business/customer-lifecycle.md) |
-| [the-delivery-model.md](the-delivery-model.md) | [/docs/delivery/teams-and-operations.md](/docs/delivery/teams-and-operations.md) |
-| [who-we-sell-to.md](who-we-sell-to.md) | [/docs/business/ideal-customer-profile.md](/docs/business/ideal-customer-profile.md) |
+|------|---------------|
+| `how-our-business-works.md` | `private-docs/business/overview.md` |
+| `how-we-make-money-v2.md` | `private-docs/business/business-model.md` |
+| `how-we-measure-client-success.md` | `private-docs/business/success-metrics.md` |
+| `organic-growth-strategy.md` | `private-docs/finance/organic-growth-strategy.md` |
+| `overview.md` | `private-docs/business/overview.md` |
+| `pricing-monetization-strategy.md` | `private-docs/finance/pricing-and-monetization-strategy.md` |
+| `the-big-picture.md` | `private-docs/company/the-big-picture.md` |
+| `the-customer-journey.md` | `private-docs/business/customer-lifecycle.md` |
+| `the-delivery-model.md` | `handbook/delivery/teams-and-operations.md` |
+| `who-we-sell-to.md` | `private-docs/business/ideal-customer-profile.md` |
+
+### Pre-Handbook Sync (March 2026)
+
+Original docs/ files that were replaced when the handbook sync was established. These are the growthx-context versions of content that now comes from handbook.growthx.ai.
+
+| Directory | Contents |
+|-----------|----------|
+| `pre-handbook-sync/company/` | Mission, vision, culture (original context versions) |
+| `pre-handbook-sync/delivery/` | 8-week plan, call playbooks, teams |
+| `pre-handbook-sync/epd/` | Engineering, product, design docs |
+| `pre-handbook-sync/how-we-work/` | Async, meetings, documentation |
+| `pre-handbook-sync/people/` | Policies (time-off, parental leave) |
+| `pre-handbook-sync/products/` | CheckThat overview, ecosystem strategy |
 
 ---
 
-See [INDEX.md](INDEX.md) for a complete file listing.
+## Access
+
+**Default access:** `build-team`
+
+---
+
+**Last updated:** March 2026

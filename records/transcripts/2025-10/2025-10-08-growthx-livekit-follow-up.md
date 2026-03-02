@@ -287,336 +287,80 @@ LiveKit is a video infrastructure company evaluating GrowthX as a potential part
 
 **Tyler Pavlas:** Very specific — no M-dashes, specific hyperlinking rules, certain technical sources and citations, readability improvements, and final quality checks. They're not typically involved in content creation, but in calibration — the first few articles we write to align on what great looks like. Once brand voice is locked, we can scale without re-reviewing tone.
 
-**Tyler Pavlas:** So in terms of design, I mean, you know, if you look at like what we're doing, it's like cover images for the most part.
+**Tyler Pavlas:** On the design side, we handle cover images mostly. Content is text-heavy. We can create tables, but don't create additional design outside the standard template.
 
-**Tyler Pavlas:** Like the content is going to be pretty text heavy.
+**Tyler Pavlas:** Abnormal's custom images were also through GrowthX. We can absolutely create cover images as long as they fit your CMS template and style.
 
-**Tyler Pavlas:** We can create tables in the content, but we're not like creating additional design outside of, you know, the traditional template that's in place with augment.
+**Jenny Liang:** How do we actually publish the content? Do you hand it to us, or do we give you access to publish directly?
 
-**Tyler Pavlas:** It's a little bit more robust because these images are much more custom.
+**Tyler Pavlas:** We prefer to get a login and stage/publish after you approve. It's easier and avoids bottlenecks getting content live.
 
-**Jenny Liang:** But those were also through growthx.
+**Jenny Liang:** I'd have to check. We have a lot of work to do on our website — content production is a key reason we're exploring this. Our team is small. We're currently using Ghost as a headless CMS for the blog, but we want to move it to our Vercel-based website and build a resources hub with different content types.
 
-**Tyler Pavlas:** But those were through growthx, yeah.
+**Jenny Liang:** I'd need to check authorization and access models. Is this typical?
 
-**Tyler Pavlas:** And that's no problem for us, right?
+**Tyler Pavlas:** Yes. We'd need to confirm your blog is on a CMS we can access without technical implementation required — that's a prerequisite for kickoff.
 
-**Tyler Pavlas:** Like these cover images we can absolutely create.
+**Jenny Liang:** So we need a CMS, not just adding pages to the website?
 
-**Tyler Pavlas:** But as long as, you know, they're on board with the template that you have in place in the CMS, it's pretty easy for us to match the style.
+**Tyler Pavlas:** Let me double-check about Vercel. Vercel is not a CMS, right?
 
-**Jenny Liang:** Which leads me to my next question, which is like, how do we actually publish the content?
+**Jenny Liang:** No, it's just a website hosting platform. That's what our website is built on.
 
-**Jenny Liang:** That gets produced?
+**Jenny Liang:** We have a design engineer who puts new pages up — it's all code-based. We might need to figure out what CMS solution works.
 
-**Jenny Liang:** Is it that you hand it to us and then we still have to feed it into, you know, our website or CMS?
+**Tyler Pavlas:** Can you optimize for SEO with new articles in Vercel?
 
-**Jenny Liang:** Or you actually do that?
+**Jenny Liang:** We do manual SEO updates — headers, metadata. Our design engineer handles it. We're pretty scrappy.
 
-**Jenny Liang:** We like give you access somehow and then you're able to publish it?
+**Tyler Pavlas:** If we need other tools, I can advocate for what's needed. This isn't a limitation.
 
-**Tyler Pavlas:** Or how does that work?
+**Jenny Liang:** If you come back saying we should use a separate CMS for scaling, we can figure that out. We just want to be prepared.
 
-**Tyler Pavlas:** Yeah, we prefer to just be able to get a login and then stage and publish after you've approved what we've written.
-
-**Tyler Pavlas:** Because it makes it way easier for you.
-
-**Tyler Pavlas:** And we can skip.
-
-**Tyler Pavlas:** Gail and not have bottlenecks to getting the content live.
-
-**Jenny Liang:** Got it.
-
-**Tyler Pavlas:** Okay.
-
-**Tyler Pavlas:** Do you anticipate we would be able to do that?
-
-**Jenny Liang:** I'd have to check.
-
-**Jenny Liang:** We currently have a few.
-
-**Jenny Liang:** We know we have a lot of work to do on our website.
-
-**Jenny Liang:** There's just a lot of content that we need to produce.
-
-**Jenny Liang:** Obviously, that's why we're, you know, entertaining something like this, too.
-
-**Jenny Liang:** But our team is just really small.
-
-**Jenny Liang:** So, like, our blog actually today is using Ghost as a headless CMS, but we want to move off of it.
-
-**Jenny Liang:** So we actually just want to migrate that straight to our website, which is on Vercel, and maybe build out, like, a new resources hub that has, like, all different types of content, including the blog.
-
-**Jenny Liang:** I just don't know how the, I guess, authorization of, you know, who gets access to what works, assuming it works.
-
-**Jenny Liang:** I would be down for that, but I'd have to, I was just curious if that's, that's the typical working model.
-
-**Tyler Pavlas:** So we can probably figure out how many people have done it.
-
-**Tyler Pavlas:** Yeah, that is the typical working model.
-
-**Tyler Pavlas:** And just making sure that, you know, your blog is on the CMS that we would get access to and that we can not have to have any sort of technical implementation, you know, for the CMS itself.
-
-**Tyler Pavlas:** That would be some good prerequisites before we actually set a kickoff date and partner.
-
-**Jenny Liang:** I see.
-
-**Jenny Liang:** So is it a requirement that we have some kind of CMS and it's not just, like, adding kind of, like, new pages to the website or you're also able to?
-
-**Tyler Pavlas:** Yeah, let me double check.
-
-**Tyler Pavlas:** Let me double check about Vercel because I'm just not sure about if that is kosher for our team.
-
-**Tyler Pavlas:** Because, like, Vercel is not really a CMS, is it?
-
-**Jenny Liang:** No, it's just a website building.
-
-**Jenny Liang:** Platform?
-
-**Jenny Liang:** don't even know.
-
-**Jenny Liang:** That's, like, outside of my realm.
-
-**Jenny Liang:** I just know that.
-
-**Jenny Liang:** That's what our website is built on.
-
-**Jenny Liang:** So like we have a design engineer who usually like puts new pages up or updates things, but it's all in code as far as I've seen.
-
-**Jenny Liang:** So yeah, we might have to, maybe if you can check on that, we can figure out what we need.
-
-**Tyler Pavlas:** Do you know anything about like whether Vercel's like SEO optimized for, or like whether you can optimize for SEO with new articles that you create?
-
-**Tyler Pavlas:** In Vercel?
-
-**Tyler Pavlas:** I'll ask my team.
-
-**Tyler Pavlas:** I just was curious.
-
-**Jenny Liang:** I don't know.
-
-**Jenny Liang:** I think like anything that we've done on SEO optimization is just like all, I'll just ping the team or like be like, hey, we need to go and manually like update a header or something and, or metadata and, and they'll just do it there.
-
-**Jenny Liang:** We're very scrappy.
-
-**Tyler Pavlas:** So if we need more tools, like I can advocate for whatever we need, this is not like a limitation.
-
-**Jenny Liang:** And if you come back and say like, yeah, we'd prefer to have.
-
-**Jenny Liang:** CMS, that's just what scales, then we can definitely figure out what that might look like, but just want to get ahead of, make sure we're set up too, so.
-
-**Tyler Pavlas:** That's perfect, yeah, no, I'm glad that I know that, should have asked, and I'll be able to do my research and confirm.
+**Tyler Pavlas:** Perfect. I'll research Vercel compatibility and confirm what we need.
 
 **Jenny Liang:** Okay.
 
 **Tyler Pavlas:** Anything else?
 
-**Jenny Liang:** Yeah, sorry, I do have a couple more.
+**Jenny Liang:** I have a couple more questions. In the Ramp examples, there were interesting web templates and layouts. Did you guys create those UX elements, not just content? There was a search bar where you could click expense categories and it surfaced the right article — who handled that?
 
-**Jenny Liang:** Are the, I noticed some of the examples you sent, like the ramp ones, you had a lot, there were like some interesting like web templates and layouts that, that were built.
+**Tyler Pavlas:** We partner with web dev agencies sometimes. For now, we're focused on editorial execution (or programmatic later). Web development and UX design aren't in scope upfront, but if you exhaust editorial and want to expand the partnership, that's something we could explore later.
 
-**Jenny Liang:** Is that all things that you guys helped create, like not just the content itself, but sort of like the UX of the page.
+**Jenny Liang:** Many of these sites have directories like the AI apps example. We'd want a partner directory and use case library. If our team handles UX and web dev, can you just fill in the content — basically, we have the layout, you fill in the blanks?
 
-**Jenny Liang:** Like, I think there was a page where you could like, it was like a search bar and you could like click one of the things about like how to categorize expenses and it like automatically like, you know, surfaced the right article.
+**Tyler Pavlas:** Absolutely. Abnormal Security, we created the cyber security glossary. Deep Gram example too. Pages for each term within a larger experience. That would work great.
 
-**Jenny Liang:** Like, who worked on that piece or was that like a collaboration?
+**Jenny Liang:** Does the engagement include optimizing existing content and revisiting articles for improvement, or is it mostly new content generation?
 
-**Tyler Pavlas:** Yeah, we definitely have like some web development.
+**Tyler Pavlas:** Definitely. Content refresh is part of what we do — no additional cost. Look at Augment Code's ContentOS: 71 articles published, 44 net new. It's a mix of new and refresh work.
 
-**Tyler Pavlas:** Agencies that we partner with from time to time, I think just, you know, like to be transparent at this time, I think we would just be focused on more of the execution for editorial, and then you could swap that out for programmatic.
+**Jenny Liang:** Do you publish articles with author bylines? Ramp pieces have authors; Abnormal ones don't. What's better? Having an author adds credibility and authority, right?
 
-**Tyler Pavlas:** We probably wouldn't have anything that would be web development or UX design that would be in scope here, but it's something that we can think about, right?
+**Tyler Pavlas:** Author is better, but if we don't have one it's client preference. We can do ghostwriting under someone's name if you want.
 
-**Tyler Pavlas:** If we've, like, exhausted editorial, and if, you know, you're ready for us to, like, move into, like, a next step of the partnership, it just wouldn't be up front, you know, it wouldn't be, like, the up front engagement, it could be something we can consider later, yeah.
+**Jenny Liang:** I'll validate that with my team.
 
-**Jenny Liang:** And then if, for example, like, the thing that I'm thinking about is, I think a lot of these websites have, like, a directory, like the AI apps thing that you showed us, right?
+**Tyler Pavlas:** I've got time for one more quick one.
 
-**Jenny Liang:** So, like, one thing that we would love to get up there is, like, a partner directory, or maybe, like, a use case library, like, if our team did kind of, like, the UX and web dev side of it, but we just need it.
+**Jenny Liang:** I have one more — maybe we can follow up on email. My CEO Russ's biggest concern is quality. I know you have checks and humans in the loop, but for technical content with code, I want examples of your QA process — what testing happens, what's the QA look like?
 
-**Jenny Liang:** The content for those pages filled, is that still within, here's the layout, like we just need to fill in the blanks kind of thing.
+**Tyler Pavlas:** Makes perfect sense. Look at Augment Code content and guides, and the Town blog — both are real technical examples. Augment Code is AI coding and thought leadership comparing tools. Town is accounting and tax advice for complex scenarios. That should build confidence.
 
-**Tyler Pavlas:** That sounds great.
+**Tyler Pavlas:** Last question — what's your timeline estimate for kickoff? I need to understand your thinking so I can figure out capacity on our end.
 
-**Tyler Pavlas:** Yeah, I think like abnormal security, we created the cyber security glossary, showed you that deep gram example as well.
+**Jenny Liang:** We had a candidate drop out. Earliest is end of October, then they need a month to ramp. December is realistic if we decide quickly.
 
-**Tyler Pavlas:** There's like pages, right, for every single one of these terms, but it's within, it's like larger experience.
+**Tyler Pavlas:** We're already booked into November. With holidays, January is more realistic — we do kickoffs on the 1st and 8th, not mid-month. Let's make sure your biggest concerns are addressed. Once you hire the PMM, let's meet with them early so they buy in. Then a call with Marcel and possibly a customer reference. That's the order.
 
-**Tyler Pavlas:** Got it.
+**Jenny Liang:** One more thing — any other resources on technical QA of code snippets in content?
 
-**Tyler Pavlas:** So that, that would work great.
-
-**Jenny Liang:** Absolutely.
-
-**Jenny Liang:** Got it.
-
-**Jenny Liang:** Okay.
-
-**Jenny Liang:** Okay.
-
-**Jenny Liang:** This should hopefully be a quick question, but is part of this engagement also optimizing existing content and like going back and revisiting like articles that could be, you know, better, like improved or updated?
-
-**Jenny Liang:** Or is it like mostly focused on new content generation?
-
-**Tyler Pavlas:** Refresh, definitely part of what we can do in terms of what articles that we're creating, like no additional costs there.
-
-**Jenny Liang:** Okay.
-
-**Tyler Pavlas:** And engine, like if you look at their...
-
-**Tyler Pavlas:** ContentOS, you'll see that, you know, there's like 71 articles that we've published, 44 that are net new.
-
-**Tyler Pavlas:** So it's a combination, right, of net new and refresh.
-
-**Jenny Liang:** That's good.
-
-**Jenny Liang:** And then do you find that publishing articles with an author, like I noticed a lot of, some of the ramp ones had like, it's authored by Ken, or I don't know his name, but like someone versus some of the ones, like the abnormal ones, right, like are just kind of like pages that don't have an author, they're more like pages than articles, like, do we do both, do you have a perspective on like, which one's better?
-
-**Jenny Liang:** I've heard that having an author like adds more credibility and authority, but maybe it depends on the content type too.
-
-**Tyler Pavlas:** Yeah, I think not a huge difference, but you're right, author is better.
-
-**Tyler Pavlas:** And if we don't have one, it's just because that was the client's preference.
-
-**Tyler Pavlas:** And, you know, like.
-
-**Tyler Pavlas:** Be like ghostwriting under somebody's name.
-
-**Tyler Pavlas:** If you're cool with that, absolutely something we can do.
-
-**Jenny Liang:** And I can validate.
-
-**Jenny Liang:** I want to make sure like I'm accurate there.
-
-**Tyler Pavlas:** I've maybe got time for like one more quick one.
-
-**Jenny Liang:** And then I've got like a back-to-back.
-
-**Jenny Liang:** So I apologize.
-
-**Jenny Liang:** No worries.
-
-**Jenny Liang:** The last one maybe can be a follow-up on email.
-
-**Jenny Liang:** I think the biggest concern that Russ, our CEO, had was just quality, right?
-
-**Jenny Liang:** And I know you've got checks built in.
-
-**Jenny Liang:** Like there's, you know, humans in the loop and things that we can do to make sure that, you know, we both feel good about it.
-
-**Jenny Liang:** But if you have a real example of maybe this process working, especially for technical content, I think that would just help us understand like, okay, what is like the level and the, you know, making sure that the checks are good enough for, you know, we don't want to make sure.
-
-**Jenny Liang:** We don't, we want to make sure that anything we publish, especially with code reference, like is working, like what is the testing for that?
-
-**Jenny Liang:** there QA?
-
-**Jenny Liang:** Like things like that would be good to know.
-
-**Tyler Pavlas:** Makes, makes perfect sense.
-
-**Tyler Pavlas:** That's my top of mind recommendations would be.
-
-**Tyler Pavlas:** To look at any of the content and the guides that we've created for augment code.
-
-**Tyler Pavlas:** I'd also recommend like looking at the town blog.
-
-**Jenny Liang:** think both of those are in the follow-up that I sent.
-
-**Tyler Pavlas:** But those are like real examples, right?
-
-**Tyler Pavlas:** And both of them are pretty technical.
-
-**Tyler Pavlas:** One's AI coding, and it's all about thought leadership, comparing tools.
-
-**Tyler Pavlas:** The other one is like accounting and tax advice for complex scenarios.
-
-**Tyler Pavlas:** That could build some confidence.
-
-**Tyler Pavlas:** Last question, or last thing, question for me before we go.
-
-**Tyler Pavlas:** What is like your rough estimate?
-
-**Tyler Pavlas:** I know that, you you need to make a decision and like we're not like guaranteed to be the partner.
-
-**Tyler Pavlas:** But what is the timeline that you think would make sense for the kickoff?
-
-**Tyler Pavlas:** So I can just start to think about how I would fit that in as we advance.
-
-**Jenny Liang:** It's tough because we unfortunately had a good candidate drop out of our pipeline for PMM.
-
-**Jenny Liang:** So I would say the soonest I think getting someone here would be like end of the month.
-
-**Jenny Liang:** And then they'd probably need at least a month to ramp.
-
-**Tyler Pavlas:** I'm sorry.
-
-**Tyler Pavlas:** sorry.
-
-**Tyler Pavlas:** sorry.
-
-**Tyler Pavlas:** I'm thinking like late November is optimistic.
-
-**Jenny Liang:** December is probably more realistic if we were to decide pretty quickly.
-
-**Jenny Liang:** Yeah.
-
-**Tyler Pavlas:** Okay.
-
-**Tyler Pavlas:** I think unless we were able to move a little faster, we're probably going to be looking at January just because like holidays, you know, we're not going to do kickoffs on the 15th, for example, but we're going to do them on the 1st and the 8th.
-
-**Tyler Pavlas:** And we're already like booking into November.
-
-**Tyler Pavlas:** So, yeah, I think let's definitely make sure that the biggest concerns, you know, are addressed.
-
-**Tyler Pavlas:** And when you get that new PMM in, let's meet with them early so that they can at least feel good about the partnership and feel like they are buying in.
-
-**Tyler Pavlas:** And then if we need to do like one call with Marcel at the end with your CEO, and if that leads to a customer reference, no problem at all.
-
-**Tyler Pavlas:** But I think that's the order of operations.
-
-**Jenny Liang:** Do you agree?
-
-**Jenny Liang:** Yeah, that sounds good.
-
-**Jenny Liang:** Cool.
-
-**Jenny Liang:** And actually, just that one thing, if you have any other resources to show like, yeah, what is...
-
-**Jenny Liang:** Is there a technical QA of any code in content?
-
-**Jenny Liang:** That would be good to know.
-
-**Jenny Liang:** Or if that's something that you can do, even if you haven't done before.
-
-**Tyler Pavlas:** Technical QA of code snippets in content?
-
-**Tyler Pavlas:** Yes.
-
-**Tyler Pavlas:** Okay.
-
-**Jenny Liang:** Okay.
-
-**Jenny Liang:** I'll dig into that, too.
-
-**Jenny Liang:** Okay.
+**Tyler Pavlas:** Yes, technical QA of code snippets. I'll dig into that.
 
 **Jenny Liang:** Thank you so much.
 
-**Tyler Pavlas:** All right.
+**Tyler Pavlas:** Great questions, really appreciate it.
 
-**Tyler Pavlas:** Yeah, no, no.
-
-**Tyler Pavlas:** Good questions.
-
-**Tyler Pavlas:** You did lots of great.
-
-**Tyler Pavlas:** I appreciate it.
-
-**Jenny Liang:** I tried to make it worth it.
-
-**Tyler Pavlas:** Thank you.
-
-**Tyler Pavlas:** All right.
+**Jenny Liang:** I tried to make it worth your time.
 
 **Tyler Pavlas:** Talk soon.
-
-**Tyler Pavlas:** Bye.

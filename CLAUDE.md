@@ -11,7 +11,9 @@ Knowledge base for GrowthX. Not a codebase — no app, no build step. The produc
 
 | Directory | What's There | Load When |
 |-----------|-------------|-----------|
-| `docs/` | The Handbook — company, business, delivery, EPD, finance, products | Understanding GrowthX or answering company questions |
+| `docs/handbook/` | Auto-synced mirror of handbook.growthx.ai — company, delivery, EPD, products, guides, tutorials, systems | Understanding GrowthX or answering company questions |
+| `docs/private-docs/` | Internal docs not in the handbook — finance, business, sales, job specs | Financial questions, business model, sensitive internal docs |
+| `docs/archive/` | Superseded docs and pre-handbook-sync backups | Historical reference only |
 | `context/voice/` | How we write — style guide, LinkedIn style | Any writing or content task |
 | `context/roles/` | How we think — 10 AI executive personas | Decision support, analysis, reasoning |
 | `context/personal/` | Who Marcel is — user manual, psych profile | Working directly with Marcel |
@@ -27,7 +29,8 @@ Knowledge base for GrowthX. Not a codebase — no app, no build step. The produc
 Don't load everything. Read what you need for the task:
 
 - **Writing content?** Read `context/voice/writing-style-context-v2.md` first. It's the definitive guide.
-- **Company questions?** Start at `docs/start-here.md`, then drill into the relevant `docs/` subdirectory.
+- **Company questions?** Start at `docs/handbook/start-here.md`, then drill into the relevant `docs/handbook/` subdirectory.
+- **Financial/board questions?** Search `docs/private-docs/finance/` (access: founders/inner-circle).
 - **Making decisions?** Load a role from `context/roles/` (e.g., `cfo-v1.md` for financial decisions).
 - **AEO / AI visibility?** Start at `knowledge/seo-aeo/README.md` — consolidated hub with guides and research.
 - **Looking up a person?** Search `records/contacts/` for dossiers, `records/contacts/employees/` for team members.
@@ -63,6 +66,8 @@ Cursor auto-discovers skills from `.cursor/skills/`. For Claude Code, reference 
 | Scrape Website | `.cursor/skills/scrape-website/SKILL.md` | "Scrape website" / "scrape site" / "download website" / "crawl site" / "convert website to markdown" / "site to markdown" / "archive website" / "pull all pages from" |
 | Account Health Scoring | `.cursor/skills/account-health-scoring/SKILL.md` | "Score {client}" / "health scores on {client}" / "how healthy is {client}" / "weekly health check on {client}" / "compare my scores for {client}" |
 | Client Account Assessment | `.cursor/skills/client-account-assessment/SKILL.md` | "Account assessment" / "account deep-dive" / "full status on {client}" / "prep me for the {client} QBR" / "client snapshot" |
+| Access Classification | `.cursor/skills/access-classification/SKILL.md` | "Classify access" / "tag access" / "audit access" / "access tier" / "who can see this" |
+| Sync Handbook | `.cursor/skills/sync-handbook/SKILL.md` | "Sync handbook" / "update handbook docs" / "pull handbook changes" / "handbook to context" |
 
 These are cross-cutting skills shared across all workspaces. Operational GTM skills (HubSpot, Ordinal, AEO prompts) live in gtm-brain/.cursor/skills/.
 
@@ -75,20 +80,23 @@ These are cross-cutting skills shared across all workspaces. Operational GTM ski
 | Context Navigation | Navigation patterns for finding content in the knowledge base. See `.cursor/rules/context-navigation.mdc`. |
 | File Naming | Naming conventions for all new files. See `.cursor/rules/file-naming.mdc`. |
 | README Maintenance | Standards for keeping README and INDEX files up to date. See `.cursor/rules/readme-maintenance.mdc`. |
+| Access Classification | Every file with metadata must have an `access` tier. Every directory README must have an access summary. See `.cursor/rules/access-classification.mdc`. |
+| Handbook Sync | Files in `docs/handbook/` are auto-synced. Don't edit manually — edit growthx-handbook instead. See `.cursor/rules/handbook-sync.mdc`. |
 
 ## Universal Rules
 
 1. **Don't invent facts** about GrowthX not in these docs
 2. **Don't bulk-load** records/ or downloads/ — search them
 3. **Newer docs win** when information conflicts
-4. **Flag sensitive content** — don't generate legal, compliance, or financial content without asking
-5. **File naming**: `descriptive-name-v1.md` (lowercase, hyphens, version suffix)
-6. **Voice**: Direct, clear, real. Like a smart friend explaining something important. No jargon, no filler, no passive voice.
+4. **Check access tiers** — every file has an `access` level (`personal` → `founders` → `inner-circle` → `exec` → `elt` → `build-team` → `company` → `public`). Check before loading or including in outputs. See `context/access-tiers-v1.md`.
+5. **Flag sensitive content** — don't generate legal, compliance, or financial content without asking
+6. **File naming**: `descriptive-name-v1.md` (lowercase, hyphens, version suffix)
+7. **Voice**: Direct, clear, real. Like a smart friend explaining something important. No jargon, no filler, no passive voice.
 
 ## File Structure
 
 Every directory has `README.md` (what's here, why) and `INDEX.md` (complete file listing). Root `INDEX.md` is the global sitemap.
 
-Files use `<metadata>` tags for machine-readable context: purpose, audience, related files, domain, confidence, last_updated.
+Files use `<metadata>` tags for machine-readable context: purpose, audience, related files, domain, confidence, access, last_updated.
 
 **Versioning:** Minor updates edit in place. Major changes create `-v2`, old goes to `/archive`.

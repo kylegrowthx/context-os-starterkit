@@ -1,0 +1,54 @@
+---
+description: Ensure every file with metadata has an access tier, and every directory README includes an access summary
+alwaysApply: true
+globs:
+  - "**/*.md"
+---
+
+# Access Classification
+
+**Canonical reference:** `context/access-tiers-v1.md`
+
+## When creating or editing any `.md` file with a `<metadata>` block
+
+1. The metadata block MUST include an `access` field with one of these values:
+   `personal`, `founders`, `inner-circle`, `exec`, `elt`, `build-team`, `company`, `public`
+
+2. If the file already has a `sensitivity` field, keep it for backward compatibility but add `access` as the authoritative field.
+
+3. Choose the `access` value based on:
+   - The content of the file (most restrictive content present determines the tier)
+   - The directory default from `context/access-tiers-v1.md` as a starting point
+   - When in doubt, classify one ring MORE restrictive rather than less
+
+## When creating or editing a README.md in any directory
+
+The README must include an access summary section near the top:
+
+```markdown
+## Access
+
+**Default access:** `[tier]`
+**Contains restricted content:** [Yes/No] — [brief note if yes]
+```
+
+## Directory defaults (quick reference)
+
+| Directory | Default |
+|-----------|---------|
+| `context/personal/` | `personal` |
+| `docs/finance/` (board, cap table, valuation) | `founders` |
+| `docs/finance/` (fiscal plans, compensation) | `inner-circle` |
+| `records/customers/` | `exec` |
+| `docs/delivery/`, `docs/epd/`, `context/roles/` | `build-team` |
+| `records/contacts/`, `records/transcripts/` | `build-team` |
+| `docs/company/`, `docs/people/`, `knowledge/` | `company` |
+| `context/voice/`, `records/contacts/employees/` | `company` |
+| `docs/products/checkthat/public/` | `public` |
+
+## Agent behavior
+
+- Never load `personal` or `founders` content without Marcel's explicit approval
+- Never include `inner-circle` or above content in client-facing or company-wide outputs
+- Flag access tier before generating content from restricted files
+- When information has mixed access levels, classify at the most restrictive

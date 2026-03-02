@@ -114,21 +114,29 @@ Each task type has a recommended loading sequence. Load files in order — stop 
 
 ---
 
-## Sensitivity Classification
+## Access Classification
 
-Some content requires caution. When in doubt, ask before generating.
+Content is classified into 8 access tiers. The canonical reference is `context/access-tiers-v1.md` — load it for full ring definitions, membership, and directory defaults.
 
-| Level | What It Means | Directories | Action |
-|-------|--------------|-------------|--------|
-| **Public** | Can be shared externally | docs/products/checkthat/public/, knowledge/ | Generate freely |
-| **Internal** | Company-internal, not secret | docs/company/, docs/business/, docs/delivery/, context/, records/contacts/, records/contacts/employees/, records/prospects/ | Generate freely, don't share externally |
-| **Leadership-only** | Financial, strategic, sensitive | docs/finance/, context/personal/, records/customers/ | Flag before generating. Don't include in outputs without asking. |
+| Ring | Label | Who | Action |
+|------|-------|-----|--------|
+| 0 | `personal` | Marcel only | Never load without Marcel's explicit approval |
+| 1 | `founders` | Marcel + Daniel | Never include in any output without founder approval |
+| 2 | `inner-circle` | Founders + VP Ops, Chief of Staff | Never include in client-facing or company-wide outputs |
+| 3 | `exec` | Executive team | Flag before including in outputs below exec level |
+| 4 | `elt` | Extended leadership | Flag before including in outputs below ELT level |
+| 5 | `build-team` | Eng, product, design, delivery (no editors/contractors) | Generate freely for internal team use |
+| 6 | `company` | All employees | Generate freely, don't share externally |
+| 7 | `public` | Anyone | Generate freely |
+
+Every file's `<metadata>` block includes an `access` field. When no field exists, use directory defaults from `context/access-tiers-v1.md`.
 
 **Hard rules:**
 - Never generate legal, compliance, or financial content without flagging
 - Never include fiscal plans, board meeting content, or valuation data in client-facing outputs
 - Never share personal context (psych profile, user manual) externally
 - When information conflicts between docs, prefer the newer document
+- When content spans multiple tiers, classify at the most restrictive tier present
 
 ---
 
@@ -225,6 +233,7 @@ related: [2-4 relative paths to connected files]
 domain: [company|business|delivery|product|finance|aeo|writing|research]
 confidence: [canonical|current|research|aspirational]
 sensitivity: [public|internal|leadership-only]
+access: [personal|founders|inner-circle|exec|elt|build-team|company|public]
 context_tier: [0|1|2|3]
 last_updated: [YYYY-MM-DD]
 </metadata>
