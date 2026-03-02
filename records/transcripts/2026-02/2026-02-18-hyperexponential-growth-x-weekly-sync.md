@@ -1,0 +1,1399 @@
+# Hyperexponential <> Growth X - Weekly Sync
+
+<metadata>
+date: 2026-02-18
+time: 16:30 UTC
+duration: 62 minutes
+organizer: team@growthxlabs.com
+participants: Bailey Seybolt (GrowthX), Deyan Atanasov (Hyperexponential), Franki Chaffin-Edwards (Hyperexponential)
+fathom_recording_id: 123375694
+fathom_url: https://fathom.video/calls/570059817
+share_url: https://fathom.video/share/UdPZT3MgPYBG_GVzzc4rSSf26DNwC5Vx
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Hyperexponential aligned on a major 2026 strategy pivot: shifting from broad content to deep underwriting-focused narratives targeting Chief Underwriting Officers (CUOs), introducing a "bias to publish" model to clear the PMM review bottleneck, and unblocking the first PSEO project with a new internal SME. Bailey demonstrated CheckPAT, a new AI visibility tool that tracks citation share and competitive position, which the HX team will integrate into their Q1-Q2 delivery roadmap.
+
+---
+
+## Context
+
+Hyperexponential is a financial services company that engaged GrowthX for content marketing and AI visibility work. This is a standing weekly sync between Bailey Seybolt (GrowthX Head of Delivery) and the HX leadership team (Deyan Atanasov and Franki Chaffin-Edwards) to align on 2026 content strategy, unblock projects, and review new tools. The meeting was called to address a content production velocity problem and align on a new narrative direction around underwriting intelligence before an upcoming board meeting.
+
+---
+
+## Relevance
+
+### To GrowthX Delivery
+
+- **New "Bias to Publish" Operating Model:** Hyperexponential is adopting a risk-tiered content strategy to unblock publishing velocity. GrowthX will reorganize the Notion board by content type, create separate review queues (low-risk publish-first vs. high-risk prioritize-review), and flag articles at 50 views for deep editorial review.
+- **Underwriting Intelligence Narrative:** All HX content must now align with the "Underwriting Intelligence" narrative targeting Chief Underwriting Officer (CUO) personas. This requires a content audit of existing campaign assets and creation of SEO-optimized versions of non-SEO content.
+- **PSEO Project Unblocked:** A new internal SME at HX has resolved the actuarial review blocker. GrowthX's engineering team is evaluating whether they can build the wireframe directly in Framer, which would eliminate the need for an external web agency and significantly accelerate the project.
+- **Board Meeting Deliverable:** Bailey must deliver a high-level summary covering PSEO status/metrics, AI/LLM visibility opportunities, and competitive landscape (vs. Erniex) by this week.
+
+### To CheckThat
+
+- **New Tool Launch:** CheckPAT, an AI visibility tool for B2B, was introduced and demonstrated. It tracks citation share, sentiment, and competitive position against up to 30 competitors, with decision-stage and persona filtering.
+- **Initial Prompt Library:** CheckPAT includes a shared prompt library with historical data for instant insights. HX will receive access this week and can add custom prompts to track domain-specific insurance and underwriting searches.
+- **Competitive Benchmarking:** The tool will be used to identify gaps in underwriting intelligence content and monitor HX's citation share relative to competitors.
+
+### To GrowthX Business Development
+
+- **Account Expansion Signals:** HX is committing significant time to a board meeting prep around GrowthX's work, signaling strong executive alignment and expansion potential. They are adopting GrowthX's operating model and integrating CheckPAT into their Q1-Q2 roadmap.
+- **Reference and Case Study Potential:** If HX's "bias to publish" model and PSEO acceleration succeed, this becomes a strong case study for other clients facing similar PMM bottlenecks.
+
+---
+
+## Overview
+
+- **New Content Strategy:** To clear the PMM review backlog, HX will adopt a "bias to publish" model. Content will be tiered by risk (e.g., low-risk definitional vs. high-risk competitor), and top performers (e.g., 50+ views) will be prioritized for deep review.
+- **PSEO Project Acceleration:** The first PSEO project is unblocked by a new internal SME. A major acceleration is possible if GrowthX's engineering team can build the wireframe directly, bypassing the need for an external agency.
+- **Strategic Re-alignment:** All content will now support the "Underwriting Intelligence" narrative, targeting the Chief Underwriting Officer (CUO) persona. GrowthX will audit existing assets to find SEO opportunities.
+- **New AI Visibility Tool:** GrowthX introduced "CheckPAT," a new tool for tracking AI citation share, sentiment, and position against competitors.
+
+---
+
+## Key Topics
+
+### 2026 Strategic Alignment
+
+  - **North Star:** Increase engagement with addressable ICP accounts, focusing on first-touch signals for executive personas.
+  - **Primary Narrative:** "Underwriting Intelligence."
+      - **Persona Focus:** CUO (Chief Underwriting Officer).
+      - **Content Strategy:** Shift from lower-funnel guides to top-of-funnel content that captures existing market search around "underwriting intelligence."
+      - **Asset Audit:** GrowthX will audit non-SEO-optimized campaign assets to identify opportunities for SEO-driven versions.
+
+### Content Production & Velocity
+
+  - **Problem:** The PMM review process is a bottleneck, causing a large backlog and slow publishing velocity.
+  - **Solution:** Adopt a "bias to publish" model with tiered content review.
+      - **Tiers:**
+          - **Low-Risk (Publish First):** Definitional articles, simple refreshes.
+          - **High-Risk (Prioritize Review):** Competitor comparisons, technical guides.
+      - **Performance Trigger:** Articles reaching 50 views will be flagged for deep review, ensuring quality for content gaining traction.
+  - **Process Changes:**
+      - **Notion Board:** GrowthX will reorganize the board by content type.
+      - **Review Queues:** "Franki Review" → "Editorial Review" (expandable to other team members).
+
+### PSEO Project Acceleration
+
+  - **Blocker Resolved:** A new internal SME will provide the necessary actuarial review, unblocking the project.
+  - **Potential Acceleration:** GrowthX's engineering team is scoping the effort to build the wireframe directly in Framer.
+      - **Impact:** This would bypass the need for an external web agency, significantly accelerating the project.
+  - **Success Metrics:**
+      - **Primary:** Organic search traffic from validated keyword volume.
+      - **Secondary:** Downstream AI visibility and citation share.
+
+### Board Meeting Prep
+
+  - **Request:** A high-level summary of GrowthX's work for the upcoming board meeting.
+  - **Content:**
+      - State of the landscape (vs. competitors like Erniex).
+      - Identified opportunity areas (AI, LLM, citation).
+      - Project tracking and lift seen so far.
+  - **Format:** Bullet points in a Notion doc.
+
+### CheckPAT Tool Walkthrough
+
+  - GrowthX demoed CheckPAT, a new AI visibility tool.
+  - **Key Features:**
+      - **Competitive Analysis:** Tracks citation share, sentiment, and position against up to 30 competitors.
+      - **B2B Focus:** Filters by decision stage and persona.
+      - **Prompt Library:** Includes a shared library with historical data for instant insights.
+  - **Access:** Bailey will grant access to the HX team.
+
+---
+
+## Action Items
+
+**Bailey Seybolt (GrowthX)**
+- Send board-prep summary to Franki/Deyan: PSEO status/metrics + AI/LLM visibility
+- Send meeting recap + recording link to Franki/Deyan
+- Export CheckPAT prompts to spreadsheet; share w/ Franki/Deyan
+- Add Franki/Deyan to CheckPAT; send access invites
+
+**Deyan Atanasov (Hyperexponential)**
+- Grant Bailey access to underwriting intelligence assets; then GrowthX review/recommendations
+
+**Franki Chaffin-Edwards (Hyperexponential)**
+- Investigate HX logo source in CheckPAT; update site metadata if needed
+
+---
+
+## Transcript
+**deyan.atanasov:** This meeting is being recorded.
+
+**Bailey Seybolt:** Hi, how's it going?
+
+**deyan.atanasov:** It's good.
+
+**deyan.atanasov:** I'm in the office today, so I'm not at home.
+
+**Bailey Seybolt:** Do you all have, is it like an open plan office, or do you have like phone booths?
+
+**deyan.atanasov:** We have phone booths, and most of it is open plan, so you can take calls, but we don't have enough places to take calls.
+
+**franki.chaffin-edwards:** The call we were just on, like I felt so bad whenever me and Dan were talking, so we were sitting at our normal desks, and it's just like all the background noise from everyone talking around you comes on as well.
+
+**franki.chaffin-edwards:** I'm currently sitting in the garden, because there's heaters out here, and it's quiet.
+
+**Bailey Seybolt:** Oh my gosh, that sounds lovely.
+
+**franki.chaffin-edwards:** It's great, it's amazing.
+
+**Bailey Seybolt:** I know, I used to, I was working at a co-working space a lot, but it was the same problem.
+
+**Bailey Seybolt:** There was never enough phone booths, and I don't know if you, I've started using Whisper, this AI dictation tool, which I feel like it's been enormously helpful, but it means you're kind of talking to yourself all day long. So it becomes even harder to work in a shared space.
+
+**franki.chaffin-edwards:** Let alone like the noise, but also just looking like a crazy person.
+
+**Bailey Seybolt:** You look insane, you're like talking about stuff in public, you're picking up other noise.
+
+**Bailey Seybolt:** So back to my fake library.
+
+**Bailey Seybolt:** Is it going to be just us today or should I wait for anybody else to be joining before I jump in?
+
+**deyan.atanasov:** I don't think David's joining. He hasn't said anything.
+
+**franki.chaffin-edwards:** Yeah, I think it's just us.
+
+**franki.chaffin-edwards:** He's got board meeting prep for next week.
+
+**franki.chaffin-edwards:** So let's assume if he joins, that's a great benefit, but let's not assume he's joining.
+
+**Bailey Seybolt:** Well, thank you for your patience last week.
+
+**Bailey Seybolt:** I ended up being out all week.
+
+**franki.chaffin-edwards:** How are you feeling?
+
+**Bailey Seybolt:** Much better.
+
+**Bailey Seybolt:** I'm a little hoarse.
+
+**Bailey Seybolt:** I feel like I sat like my voice keeps cracking, but miles better than I was before.
+
+**Bailey Seybolt:** But flu is this year, at least on the East Coast of the
+
+**Bailey Seybolt:** U.S.
+
+**Bailey Seybolt:** has been, like, just everywhere.
+
+**Bailey Seybolt:** It's been really bad.
+
+**Bailey Seybolt:** I don't know if it's, like, everyone got the wrong – someone told me that they think everyone got the wrong flu vaccine.
+
+**Bailey Seybolt:** Like, they just guessed wrong what strain it was this year.
+
+**Bailey Seybolt:** And so people have been getting it more.
+
+**Bailey Seybolt:** It feels a little bit like half the people I know are out right now.
+
+**franki.chaffin-edwards:** So I hope it's better.
+
+**Bailey Seybolt:** I hope it's better in the U.K.
+
+**franki.chaffin-edwards:** Not that much, to be honest.
+
+**franki.chaffin-edwards:** But I hate it when people have, like, a mild cold and they're like, oh, yeah, I think I have the flu.
+
+**Bailey Seybolt:** And it's like, no, if you had the flu, like, you would know it.
+
+**Bailey Seybolt:** Like, you're wiped out for a week.
+
+**franki.chaffin-edwards:** It's awful.
+
+**Bailey Seybolt:** I'm glad you're feeling better.
+
+**Bailey Seybolt:** I think that was me, like, up until now, where I was like, oh, my bad cold is the flu.
+
+**Bailey Seybolt:** And now never again will I be dramatic.
+
+**Bailey Seybolt:** Okay.
+
+**Bailey Seybolt:** Well, I guess, actually, one question for you before we jump in.
+
+**Bailey Seybolt:** If there's a board meeting coming up, is there anything that we could provide your team or with David that would be useful?
+
+**Bailey Seybolt:** Exactly sure what it's focused on, but is there anything we could get you this week that would be helpful?
+
+**franki.chaffin-edwards:** Yeah, I definitely think, like, again, after Dejan spots some information, he's going to run through with you about kind of like our goals for this year.
+
+**franki.chaffin-edwards:** And I can kind of overlay my thoughts on how we kind of like focus in the metrics we want to move in the various projects that we're delivering with you guys.
+
+**franki.chaffin-edwards:** But yeah, like AI, LLM, citation, visibility, all of that is like really, really important for the business as a whole.
+
+**franki.chaffin-edwards:** And so just being able to provide, like, a little bit of overlay from you guys on those metrics, like tracking, like, the projects we have in motion, like, a nice summary of that would make our lives a lot easier to be able to kind of share that with David ahead of time.
+
+**franki.chaffin-edwards:** It's not like the board has specifically asked for it, but I think it's sensible for us to pull it together because I know it will be on their kind of discussion list.
+
+**Bailey Seybolt:** Yeah, 100%.
+
+**Bailey Seybolt:** And what is the most useful format?
+
+**Bailey Seybolt:** Like, we could put together some slides for you or just a Notion document.
+
+**franki.chaffin-edwards:** Um...
+
+**Bailey Seybolt:** With sort of the headlines and then here's what we're doing, here's why, and here's the sort of delta or, you know, the lift that we've seen from it so far.
+
+**Bailey Seybolt:** Yeah, exactly.
+
+**franki.chaffin-edwards:** And laying out that kind of like, like state of the landscape, like where we sit against like Erniex and stuff right now, like what the opportunity areas are we've identified.
+
+**Bailey Seybolt:** I'm talking bullet points, like do not spend tons of time putting together a super comprehensive page, but like a high level summary of that, if you guys could put together would be really, really great.
+
+**Bailey Seybolt:** Yeah, for sure.
+
+**Bailey Seybolt:** We can put that together this week.
+
+**franki.chaffin-edwards:** Wonderful.
+
+**Bailey Seybolt:** All right.
+
+**Bailey Seybolt:** We will plan to send that over.
+
+**Bailey Seybolt:** So maybe I'll just run through sort of the lay of the land for the projects in progress before we jump into the sort of higher level goals.
+
+**Bailey Seybolt:** For blog content, I think everything in Notion should now be updated based on that sort of universal naming and product documents.
+
+**Bailey Seybolt:** The blog categories should be updated.
+
+**Bailey Seybolt:** So going forward, they should all be properly tagged.
+
+**Bailey Seybolt:** In terms of what's in progress.
+
+**Bailey Seybolt:** And my other question was, do you have a plan to host the podcast episodes themselves on the blog?
+
+**Bailey Seybolt:** Because obviously it would be great to have those embedded in the posts, but we'd also love to not drive people off the site.
+
+**franki.chaffin-edwards:** It's a really good question.
+
+**franki.chaffin-edwards:** I think we're shifting our position here a little bit now, but like when we started out the podcast, it was very much meant to be kind of like founder brand, independent of paychecks.
+
+**franki.chaffin-edwards:** Not living kind of like on the HX website, like as a predominant thing.
+
+**franki.chaffin-edwards:** I think we're softening that approach a little bit now to like trying to use more clips of it and kind of stuff and that side of things.
+
+**franki.chaffin-edwards:** So leave that one with me to confirm, because I'm not 100% sure, but we can always link out to the episode on YouTube or like the Spotify, whatever, within the blog, even if we're not directly embedding it.
+
+**Bailey Seybolt:** Yeah.
+
+**Bailey Seybolt:** Yeah.
+
+**Bailey Seybolt:** I mean, I think even, yeah, directly embedding it.
+
+**Bailey Seybolt:** I mean, when you can break it up and do kind of clips, that's even like obviously the best experience.
+
+**Bailey Seybolt:** But I think just even being able to embed it so anyone who wants to learn more can play it directly from the blog would be great, obviously, instead of bringing people off site.
+
+**Bailey Seybolt:** But we'll just deliver the content for now and then you all can decide on kind of what your strategy is there.
+
+**franki.chaffin-edwards:** So I'll commit to getting that review done like tomorrow, Bailey, so that I'm not a blocker for you there because I think this is just an easy win one to run in the background.
+
+**Bailey Seybolt:** Just going to reassign that to you right now as we go.
+
+**deyan.atanasov:** I think, Frankie, I think there's a lot of them for Chris to review.
+
+**deyan.atanasov:** I wonder, do we know like this in his sprint or because I think there's a lot of them.
+
+**deyan.atanasov:** I I think there's two actually to have my name against it.
+
+**deyan.atanasov:** And Frankie, oh, actually, three of them have my name.
+
+**deyan.atanasov:** So I'm just making sure there's something I need to do.
+
+**franki.chaffin-edwards:** But yeah, we need to do like a kind of PMM reset, I think, where we can do.
+
+**franki.chaffin-edwards:** I think Chris's capacity is probably blocking him from getting to a lot of these, but Mehmet has been jumping in a lot more on the ones where he can.
+
+**franki.chaffin-edwards:** I think, Diane, maybe if you and me follow up with Chris and Mehmet and see if we can, like, yeah, is Mehmet actually someone that can kind of take on some of this?
+
+**Bailey Seybolt:** Another, I mean, this was sort of a bullet point in the goals, I think, to talk about in terms of publishing Velocity.
+
+**Bailey Seybolt:** But I think another thing to think about, especially with these, if it feels like the feedback that you're giving is either kind of minimal or not, like, product specific, if it doesn't feel like it's factual accuracy.
+
+**Bailey Seybolt:** We've also had a lot of clients have success in just sort of shifting our mindset in terms of a bias towards publishing because, you know, you publish and it often.
+
+**Bailey Seybolt:** takes a long time to be, not a long time, but you have to index, you have to find traction, and thinking about content like a living thing instead of, and like a testing ground, instead of like, this is going to be the thing that our brand lives or dies on, I think can be really helpful too.
+
+**Bailey Seybolt:** Like we've had clients where we've published, like our bias has been to just publish it, and then it's like, okay, well, anything that gets traction that gets, once it hits 100 views, that's the point at which we make sure to go back and refresh it and take another look at it, because this is clearly the content that's gaining traction, and then all the other ones that maybe aren't gaining traction as quickly, it becomes a little bit easier to prioritize based on actual signal versus just having things sit in the backlog.
+
+**Bailey Seybolt:** So I think every brand is a little bit different in terms of their comfort with experimenting in that way, but I think it's another way to think about building signal with content.
+
+**Bailey Seybolt:** It's actually live.
+
+**franki.chaffin-edwards:** I think we're curious to see in that direction.
+
+**deyan.atanasov:** I'm also curious to see, I don't know if we can pull, frankly, maybe, like, what is all the comments that the PMM team has made?
+
+**deyan.atanasov:** Like, if we could just, like, use AI, like, Notion AI even to just, like, Like, if we can categorize the biggest feedback we've provided.
+
+**deyan.atanasov:** Maybe, Bailey, you actually guys have that.
+
+**deyan.atanasov:** I wonder if we should just, like, pull that out to see, okay, what of that is actually, like, How much of that is the, so if we can, like, get some data points.
+
+**deyan.atanasov:** I do like the idea, Bailey, I think we should have a goal on velocity, like, pipeline content velocity, and hold ourselves accountable.
+
+**deyan.atanasov:** It's just a good SLA to have.
+
+**deyan.atanasov:** But I think if we can get some of that data, it would be great.
+
+**franki.chaffin-edwards:** And if we have proof that we've got that pipeline, kind of, like, sorry, not pipeline, but, like, mechanism of, like, yeah, you know, that we are taking this approach of, like, yeah, err on the side of publication.
+
+**franki.chaffin-edwards:** But when something hits 100 views, or, you know, like, maybe if it's 30 days after publishing, like, we do an assessment of how's it doing, like, I think that then will make.
+
+**franki.chaffin-edwards:** Make everyone feel a little bit more comfortable that it's not like this has to be the, you know, now and forever in perpetuity version of what we want to say on this.
+
+**franki.chaffin-edwards:** If we can show that, like, yeah, that there is a mechanism for regular, like, review, update, refresh on this stuff as it gains traction.
+
+**franki.chaffin-edwards:** I think that would be really, really sensible.
+
+**franki.chaffin-edwards:** And then we can have almost like an always-on pipeline that just refills with, like, yeah, you know, 30-day, 90-day, whatever it is, kind of like, how's this article doing?
+
+**franki.chaffin-edwards:** Does it need any update, refresh?
+
+**franki.chaffin-edwards:** Or you can flag to us, like, yeah, that HX versus Accurate article is actually picking up loads of traffic now.
+
+**franki.chaffin-edwards:** Maybe you want it.
+
+**franki.chaffin-edwards:** And then we can flag it up internally and be like, right, this is doing well.
+
+**franki.chaffin-edwards:** Like, does this definitely say what we want it to say?
+
+**franki.chaffin-edwards:** Like, because I think there's two elements, right?
+
+**franki.chaffin-edwards:** There's factual accuracy review from PMM, which I think they're doing a good job at right now in the current review flow.
+
+**franki.chaffin-edwards:** But then not necessarily overlaying then, like, but is this definitely what we want?
+
+**franki.chaffin-edwards:** Could we say?
+
+**franki.chaffin-edwards:** Like, factually, is that true?
+
+**Bailey Seybolt:** Yes or no?
+
+**franki.chaffin-edwards:** Like, they're doing that bit, but they're not necessarily taking the, like, the next level of, yeah, that bit.
+
+**franki.chaffin-edwards:** So, yeah, I think that's a sensible kind of approach shift for us to make here, and let's just do that on our side, and then it will be a forcing factor to get us more comfortable with that approach.
+
+**Bailey Seybolt:** Yeah, and I think then the question to leave with you would be sort of, what are those check-in points that you think would make the team more comfortable with increasing our velocity and having a bias towards publishing?
+
+**Bailey Seybolt:** Because we can do it different ways.
+
+**Bailey Seybolt:** We can do it based on view.
+
+**Bailey Seybolt:** Say, you know, we're going to just bias towards publishing.
+
+**Bailey Seybolt:** We'll put these in the, you know, review queue for the subject matter experts, and then the ones, once they hit 100 views, then that moves to the top of the list, and we make sure that that's accurate.
+
+**Bailey Seybolt:** You know, we can just have things, you know, like, regularly where we say certain types of articles, we just...
+
+**Bailey Seybolt:** Make sure we refresh it at 30 days, at, you know, 90 days, whatever that is.
+
+**Bailey Seybolt:** So I think defining what it would take to make your team more comfortable to increase the velocity, you know, we can build that into our publishing pipeline.
+
+**franki.chaffin-edwards:** Yeah, I think let's, to be honest, Bailey, like, yeah, again, I can immediately go in and, like, if we go in with this approach, I can move a load of these into ready stage because I think they have been checked for, like, factual accuracy, really.
+
+**franki.chaffin-edwards:** There's just some, like, yeah, like, let's get them out.
+
+**franki.chaffin-edwards:** I think the 100 view counter is a good one.
+
+**franki.chaffin-edwards:** I might even consider lowering that to 50 for now just because our overall search volume is so low.
+
+**franki.chaffin-edwards:** Like, yeah, let's see.
+
+**franki.chaffin-edwards:** But, you know, like, 30 days on from publication, what's it ticking up once something hits a 50 view mark?
+
+**franki.chaffin-edwards:** Just, like, let us know if we can build some kind of automated mechanism for that.
+
+**Bailey Seybolt:** That'd be excellent.
+
+**Bailey Seybolt:** I think we'll just set up, like, when we do our reporting, you know, every two weeks or so, we'll...
+
+**Bailey Seybolt:** Go in and just say, here are the ones, here's the view count, here are the ones that seem to be gaining traction, and the ones that you want to take a look at and see if we want to change anything in terms of content or positioning.
+
+**deyan.atanasov:** I think there's also a level of risk that is not the same.
+
+**deyan.atanasov:** I think if we're looking at the comparison articles, we probably want to put more effort in those, just because we're stating, we're putting factual things, right?
+
+**deyan.atanasov:** Like, we're comparing ourselves versus the podcast articles you guys just pushed out now.
+
+**deyan.atanasov:** That is probably, like, much less risk related to that one.
+
+**deyan.atanasov:** So I feel like we could adjust it based on the pipeline or the initiative we're working on and be a bit more flexible there.
+
+**Bailey Seybolt:** I think that totally makes sense, too.
+
+**Bailey Seybolt:** Like, send those to PMReview.
+
+**Bailey Seybolt:** And, like, some of these, you know, I feel like if they're refreshes of what already exists, if they're more definitional, like a what-is article, like, to me, these feel like ones that we could have a bias towards publishing.
+
+**Bailey Seybolt:** Because they're essentially, we want to go after that keyword.
+
+**Bailey Seybolt:** They're essentially definitional.
+
+**Bailey Seybolt:** The goal is to beat the content that's already out there and provide something more thorough.
+
+**Bailey Seybolt:** But they don't necessarily, I think, need the fine-tuning subject matter expert eye than, like, an actual tool comparison needs if you want to produce the best piece of content out there.
+
+**deyan.atanasov:** So maybe...
+
+**deyan.atanasov:** I wonder if we can, like, tag them.
+
+**deyan.atanasov:** Maybe we can, like, start, like, tagging the type of content based on the type.
+
+**deyan.atanasov:** So, like, competitor, like, even basically, kind of, you just said, like, then it's easier for us to differentiate.
+
+**deyan.atanasov:** And maybe, like, when you get on these meetings, we can, like, have, like, a...
+
+**deyan.atanasov:** I don't know.
+
+**deyan.atanasov:** We have five in the pipeline on this category.
+
+**deyan.atanasov:** Like, we can lift it to a type or category.
+
+**deyan.atanasov:** And then we can trace and give, like, a batch, for example, to the PMM team just to get a little bit more systemized in pushing these out.
+
+**Bailey Seybolt:** Yeah, I think that makes sense.
+
+**Bailey Seybolt:** That makes a lot of sense.
+
+**Bailey Seybolt:** So I would say right now, in terms of, like, our backlog, clearing the backlog, there's definitional articles, which to me, my...
+
+**Bailey Seybolt:** Assumption is that we could maybe skip PMM review or deprioritize it at least and not have that be a blocker.
+
+**Bailey Seybolt:** I think for tool comparison articles, that's probably the ones we want to prioritize for PMM review.
+
+**Bailey Seybolt:** And then I think some of these other articles that feel like they're either more technical, like how to measure and improve it, those would probably be, again, secondary, because they're more technical pieces of content or how-to guides.
+
+**Bailey Seybolt:** But again, my assumption on those or like refreshes that are just deepening the existing content that exists there, those would hopefully be ones where we could have a bias towards publishing and then make sure they're in the review queue, but not let that block out from getting lit live.
+
+**Bailey Seybolt:** So it might be just maybe I could reorganize this board a little bit based on kind of what type of review it needs instead of the person.
+
+**franki.chaffin-edwards:** Yeah, and I think remove the final CMO review queue, change franki review to like editorial review, it's just like, yeah, is everything factually correct here that someone, because quite often it might be the case that PMM are like, yeah, I've corrected this for factual actually, but I don't think it reads that well, like that's that kind of like, that's really what the franki review queue is right now, and ideally I'd like to expand that queue out to be not just me.
+
+**franki.chaffin-edwards:** There should be other people that as well can provide a little bit of like editorial oversight.
+
+**Bailey Seybolt:** Okay, that makes sense, so I'll go in after this and just review that so we have a better sense of like where things are in the pipeline and why.
+
+**franki.chaffin-edwards:** Great.
+
+**Bailey Seybolt:** All right, got, all right, we got a little sidetracked here, but that's great because I, my big goal here is the increasing publishing velocity.
+
+**Bailey Seybolt:** So with that in mind, for PSEO, I Friday did send out a page that I tried to.
+
+**Bailey Seybolt:** Kind of give an overview of the project for people.
+
+**franki.chaffin-edwards:** This was exactly what I wanted, Bailey.
+
+**franki.chaffin-edwards:** Thank you.
+
+**franki.chaffin-edwards:** This is exactly what I wanted.
+
+**franki.chaffin-edwards:** And I have now, I've got a meeting tomorrow with an actuarial kind of like SME in our office in London to go through and make sure that from the, like, yeah, factual accuracy, like industry SME perspective, we're happy with this.
+
+**franki.chaffin-edwards:** And then we're queuing this up as a first priority project for our web agency that we're looking at onboarding.
+
+**franki.chaffin-edwards:** So in the next two weeks, like I, this should be able to move much, much faster for the next week.
+
+**franki.chaffin-edwards:** It's blocked by just getting my actuarial SME to really, like, I want him to spend the time going through the test outputs and the structure so that it's not like, you know, I then have to tell you, right, now we've got another three weeks delay while we review all of this all over again.
+
+**franki.chaffin-edwards:** And I'm hoping he can give a level of feedback that gives you guys what you need to update the pipeline and we all feel confident and happy that then output, run, build.
+
+**Bailey Seybolt:** That's awesome.
+
+**Bailey Seybolt:** awesome.
+
+**Bailey Seybolt:** Would it be helpful to have me at that meeting, at a meeting with him too?
+
+**franki.chaffin-edwards:** Yeah, yeah, definitely.
+
+**Bailey Seybolt:** I'm happy to join if it would be useful to have me there.
+
+**franki.chaffin-edwards:** One other question for you on this one, Bailey, because this is something I was talking about with Diane where we were like thinking about kind of like goals and metrics for the work we're doing with you guys.
+
+**franki.chaffin-edwards:** With this specific like PSEO opportunity, do you see this very much on the side of like organic like SEO search referral traffic needle movement?
+
+**franki.chaffin-edwards:** Is there like an AI LLM citation angle to it as well?
+
+**franki.chaffin-edwards:** And yeah, if you have to pick one, like which one are we headlining this under?
+
+**franki.chaffin-edwards:** And like what would you feel confident putting forward as like a, right, this is like a success metric on like either of those two pillars?
+
+**franki.chaffin-edwards:** Because I just realized that there are potential kind of like value adds on both sides of the channel here, but I'd like to prioritize one.
+
+**Bailey Seybolt:** Yeah, so I think that's a really good question.
+
+**Bailey Seybolt:** I'd say both.
+
+**Bailey Seybolt:** Like, we would be measuring success on both.
+
+**Bailey Seybolt:** I think there's a couple things here.
+
+**Bailey Seybolt:** When we sort of picked where to start with PSEO, like, it was validated with keyword volume, right?
+
+**Bailey Seybolt:** So we didn't go in thinking just what's most valuable to the brand.
+
+**Bailey Seybolt:** was like, where's their actual search volume that we can confirm here?
+
+**Bailey Seybolt:** And also, you know, where is there an opportunity?
+
+**Bailey Seybolt:** Because this just doesn't exist.
+
+**Bailey Seybolt:** Like, no other brands are doing this.
+
+**Bailey Seybolt:** So where is there kind of this open lane for us to capture that traffic?
+
+**Bailey Seybolt:** And I think from AI visibility, there's a lot here because it is prioritizing depth right now.
+
+**Bailey Seybolt:** Like, what we found for AI, you know, if you're going deep and you're providing, like, a unique viewpoint, unique data, or you're just going deeper into kind of one of.
+
+**Bailey Seybolt:** Your core topics than other brands out there, then, you know, your site is the one that gets cited and surfaced.
+
+**Bailey Seybolt:** So I think taking a look at the PSEO and saying, okay, this like pricing, this line of business pricing, going really deep there and providing an exhaustive guide, I think has that waterfall effect of both searching, people searching for that specifically.
+
+**Bailey Seybolt:** But I think it also, as AI learns about your brand, it does prioritize these, this depth there.
+
+**Bailey Seybolt:** So I think it will have effects beyond just this specific subject matter.
+
+**franki.chaffin-edwards:** That was my assumption, but that also gives me a very clear answer of like, yeah, the initial kind of like, what's the headline explanation of why we're doing this work and what the outcome is going to be to the business is on the, this was a search volume opportunity that no one else was conquering.
+
+**franki.chaffin-edwards:** So this is going to bring in organic search.
+
+**franki.chaffin-edwards:** There's also a downstream AI visibility, like benefit for the whole, but that helps me clarify.
+
+**franki.chaffin-edwards:** But like where we should be focusing our attention on like knowing did this work or not like what matters to the business for us.
+
+**Bailey Seybolt:** So that's great.
+
+**Bailey Seybolt:** And I think in terms of that depth, like I think that can be measured in in different ways.
+
+**Bailey Seybolt:** Like obviously, you know, being the exhaustive resource for all things underwriting is one thing way to think about that depth.
+
+**Bailey Seybolt:** But I think there's also like picking something very specific like pricing and then saying we have it for every single line of business that someone in, you know, PNC would want to see.
+
+**Bailey Seybolt:** That's another way of prioritizing that depth and then seeing those downstream effects.
+
+**Bailey Seybolt:** So I think when we think about, I think actually this week, I'll be able to present our recommendations for sort of the next PSEO that we'd recommend.
+
+**Bailey Seybolt:** Thinking about once you chain those together, then you sort of have all of these pillars of content where you are sort of the go to resource for this specific thing.
+
+**franki.chaffin-edwards:** Yeah, that's about.
+
+**franki.chaffin-edwards:** Well, thanks, Bailey.
+
+**franki.chaffin-edwards:** That gives me enough to feel confident typing up a summary of, like, yeah, what are the realistic, like, outcomes we're looking for here.
+
+**Bailey Seybolt:** And I can, you know, this week when I kind of give you an overview that you can use and David can use to prep for the board meeting, like, that's something I can kind of write up more formally as well.
+
+**franki.chaffin-edwards:** Take it off my plate, Bailey.
+
+**Bailey Seybolt:** Yeah, yeah, just give it to me.
+
+**Bailey Seybolt:** I'll take it.
+
+**Bailey Seybolt:** Oh, and one other thing.
+
+**Bailey Seybolt:** So I've been sort of back-channeling with our engineering team because they've done this work on their front-end design just to see how much work it would be for them to actually just go and implement it.
+
+**Bailey Seybolt:** Because we already have that MCP connection to Framer.
+
+**Bailey Seybolt:** We've already created the wireframe.
+
+**Bailey Seybolt:** My hope is that it's something we could actually just do without.
+
+**Bailey Seybolt:** So I don't want to, like, promise anything when I haven't got it confirmed yet, but I did ask them to take a look and see if it's something that they could build into their next sprint if it didn't seem like it was a huge lift.
+
+**Bailey Seybolt:** So.
+
+**Bailey Seybolt:** Stay tuned, but there's a chance that we might be able to just do it.
+
+**franki.chaffin-edwards:** I mean, if they can, that's a dream outcome, obviously, because it allows us to prioritize our resources, like, elsewhere.
+
+**franki.chaffin-edwards:** Yeah.
+
+**Bailey Seybolt:** And publishing velocity, right?
+
+**Bailey Seybolt:** Then we can just get in there, so.
+
+**franki.chaffin-edwards:** Yeah.
+
+**franki.chaffin-edwards:** Let me know ASAP when you get, like, a vibe check on it, just because, yeah, I will, I will potentially, like, take it off the playoffs and stuff.
+
+**franki.chaffin-edwards:** We're, like, asking people to scope right now.
+
+**franki.chaffin-edwards:** So, yes, let me know ASAP.
+
+**franki.chaffin-edwards:** Amazing if you can.
+
+**Bailey Seybolt:** I'll look now to see if it would be kind of in scope.
+
+**Bailey Seybolt:** So, my hope is in the next day or two this week, we should be able to let you know if we could do it.
+
+**Bailey Seybolt:** Right.
+
+**Bailey Seybolt:** Great.
+
+**Bailey Seybolt:** And when.
+
+**Bailey Seybolt:** Okay.
+
+**Bailey Seybolt:** That is it on the kind of day-to-day updates.
+
+**Bailey Seybolt:** Is there anything else, or should we jump into our 2026 goals?
+
+**franki.chaffin-edwards:** Yeah, I think that's it for me.
+
+**franki.chaffin-edwards:** I'll hand over to Diane to give you a bit of a rundown.
+
+**Bailey Seybolt:** Yeah.
+
+**Bailey Seybolt:** So, at the top of.
+
+**Bailey Seybolt:** My list is just kind of obviously understanding what's important to you this coming year.
+
+**Bailey Seybolt:** I did put sort of what we had talked about, I know because this was even before you, Diane, in terms of what was a focus for the business now.
+
+**Bailey Seybolt:** So I think just understanding where you are, what's changed, making sure as we continue to prioritize content that we're kind of aligned with the things that are important to you.
+
+**Bailey Seybolt:** So that's where we are now.
+
+**deyan.atanasov:** This is actually really good to see for me because even I haven't seen this level of depth since I've been here.
+
+**Bailey Seybolt:** So this is good.
+
+**Bailey Seybolt:** So yeah, this comes from the initial kickoff.
+
+**Bailey Seybolt:** So I think that would have been like September.
+
+**Bailey Seybolt:** So that's sort of where we are when we first started talking and then we developed this editorial stream, which though obviously even from our end in the last few months, a lot has changed in terms of what type of content we're prioritizing.
+
+**Bailey Seybolt:** So I think this is great timing to hear what's happening at HX internally.
+
+**deyan.atanasov:** Yeah, and what I'll give you now more is on the corporate and the brands.
+
+**deyan.atanasov:** go ahead.
+
+**deyan.atanasov:** And I think maybe it is a good point to give you a little bit more detail on the demand.
+
+**deyan.atanasov:** We've kind of bundled up both of those, but we have a new VP of growth starting in a few weeks, and it'll be based in New York.
+
+**deyan.atanasov:** So he'll be leading the demand and growth function.
+
+**deyan.atanasov:** I think we'll basically have more power in the team, and we're going to need to figure out how we work together on this specific initiative.
+
+**deyan.atanasov:** But so far, this LM and AI visibility and organic sits under corporate marketing.
+
+**deyan.atanasov:** It's kind of tight.
+
+**deyan.atanasov:** So what I'm going to walk you through is I'm to take over the screen, and I'm going to walk you through, if I can take over the screen.
+
+**deyan.atanasov:** Let's see.
+
+**Bailey Seybolt:** Should be able to.
+
+**deyan.atanasov:** Oh, it says content.
+
+**deyan.atanasov:** Okay, should be able.
+
+**deyan.atanasov:** So, okay.
+
+**deyan.atanasov:** I need to restart my thing to give access, but I did share a link with you now in Notion.
+
+**Bailey Seybolt:** If you do mind just trying to see if you can open that one.
+
+**Bailey Seybolt:** Yeah.
+
+**deyan.atanasov:** Because if not, I'll have to restart my laptop.
+
+**Bailey Seybolt:** Is it in, did you drop it into the agenda or where, where is it?
+
+**Bailey Seybolt:** can't.
+
+**Bailey Seybolt:** Thank you, him the Fork.
+
+**deyan.atanasov:** this I'll there.
+
+**deyan.atanasov:** Let me just, I'll drop the link here now for you as well.
+
+**deyan.atanasov:** just added you to the, might be better there, but I don't have to go on and off.
+
+**deyan.atanasov:** Yeah.
+
+**deyan.atanasov:** I think you should be able to access it.
+
+**deyan.atanasov:** I think you're on mute now, Bailey.
+
+**Bailey Seybolt:** There we go.
+
+**deyan.atanasov:** Okay, cool.
+
+**deyan.atanasov:** Yeah, so what I dropped here is I want to give you like a very high level, and then we can like go into more details.
+
+**deyan.atanasov:** But what I'm showing you here is our Q0 and our 2027 fiscal year objectives.
+
+**deyan.atanasov:** So we have like two main KPIs in the team and how we're measuring success.
+
+**deyan.atanasov:** One is on corporate brand and reputation, which is what my team is responsible for from a corporate marketing perspective.
+
+**deyan.atanasov:** And then we have, I the demand and the revenue generation function.
+
+**deyan.atanasov:** So kind of key notes, North Star this year is around increasing the percentage of addressable ICP accounts we've actually engaged.
+
+**deyan.atanasov:** So you have like a clear set of ICP accounts.
+
+**deyan.atanasov:** What I really
+
+**deyan.atanasov:** And let's call it the top of the final goal here is about generating those first touch signals, specifically for our IC personas.
+
+**deyan.atanasov:** So that is like really, I would say, like the executive level of what we're trying to focus on.
+
+**deyan.atanasov:** And then how we're actually going to do that this year is there's three elements of how we want to approach.
+
+**deyan.atanasov:** One is new products.
+
+**deyan.atanasov:** So open that one, for example, a lot of the focus on new products is around underwriting intelligence, which is the story we're trying to tell and expand on.
+
+**deyan.atanasov:** And then we're building up the product here.
+
+**deyan.atanasov:** So we have like a specific goal here, like attach a certain number of underwriting solutions.
+
+**deyan.atanasov:** Then underneath that, you'll see we actually have like very specific sub-objectives.
+
+**deyan.atanasov:** Like how do we, like it's continuation of what you showed earlier.
+
+**deyan.atanasov:** Like how do we establish ourselves as a leader in the AI system underwriting?
+
+**deyan.atanasov:** So that team and topic is very, very important to us.
+
+**deyan.atanasov:** And then second is around like how do we build the recognition and the consideration as like a leader in this space?
+
+**deyan.atanasov:** So I think this is very much continues to be top priority for us in like new product we're developing.
+
+**deyan.atanasov:** We need to build up that leadership and create those.
+
+**deyan.atanasov:** First touch signals.
+
+**deyan.atanasov:** Second one is around new markets.
+
+**deyan.atanasov:** I don't think this is a huge focus for us, but it is important for you to probably be aware of.
+
+**deyan.atanasov:** there's the reinsurance market and how we're approaching that.
+
+**deyan.atanasov:** I think the David's idea is around doing integrated market seeding campaigns, but we're not investing in this yet.
+
+**deyan.atanasov:** So I think maybe further later in the year, we might have a campaign, for example, that focuses on reinsurance.
+
+**deyan.atanasov:** So we're just for now doing an executive event on this in Bermuda.
+
+**deyan.atanasov:** So on a very strategic point of view, underwriting intelligence becomes still very, very important for us.
+
+**deyan.atanasov:** It will be the main topic we're going to drive this year.
+
+**Bailey Seybolt:** Can I ask you a question about this underwriting intelligence objective?
+
+**Bailey Seybolt:** I'm curious in terms of where you see organic visibility playing into that, just in terms of, you know, building recognition among your kind of ICP, how you see, you know, content marketing versus sort of more demand or more of these sort of like...
+
+**Bailey Seybolt:** Like, high-touched sales enablement content at play here.
+
+**deyan.atanasov:** It's a good question.
+
+**deyan.atanasov:** And I think if you go underneath, I have, like, two specific objectives where we're trying to drill it down more.
+
+**deyan.atanasov:** So these are, like, the specific kind of objectives where we're focusing on.
+
+**deyan.atanasov:** So to your question, like, we are dabbling into investing in content marketing or underwriting intelligence for the campaign.
+
+**deyan.atanasov:** So we're not doing it, though, at scale, and we've not yet invested in top leadership.
+
+**deyan.atanasov:** I think later in the year, closer to our HX lives, we plan to invest more in top leadership, more, I would call it, like, original content.
+
+**deyan.atanasov:** But so far, we are kind of still defining our point of view.
+
+**deyan.atanasov:** So, like, for example, our PMM team just had, we wrote our POV on underwriting intelligence, where we think the future is and how it ties to our product.
+
+**deyan.atanasov:** And then went and spoke to some of our personas, and then we figured out, actually, we need to change it.
+
+**deyan.atanasov:** So we're almost like we're running, but we still don't know some of our basics.
+
+**deyan.atanasov:** So it's like we're kind of going forward and then coming backwards to figure out.
+
+**deyan.atanasov:** I think there's a lot more that we'll produce around the topic, but it will be very...
+
+**deyan.atanasov:** We're very much top of funnel and what's currently the market trend around underwriting intelligence and let's solve how it actually ties to our solution.
+
+**deyan.atanasov:** That is my understanding so far and my experience.
+
+**deyan.atanasov:** So one specific asset we're trying to produce was around buyer's guide, which is very much further down in the funnel.
+
+**deyan.atanasov:** Then we realized, actually, we need to go back up and focus on the market guide and talk about what the market is and capture that search around the existing narrative around underwriting intelligence.
+
+**deyan.atanasov:** So I would love to say we have a very well-developed content strategy and a campaign strategy, and we don't, if I'm being very honest.
+
+**deyan.atanasov:** Especially someone with a campaign background, I'm nervous about it.
+
+**deyan.atanasov:** So I think we will have to invest on what is the existing search terms on underwriting intelligence and putting our spin on it for the moment.
+
+**deyan.atanasov:** And then we're also investing in analyst validation.
+
+**deyan.atanasov:** So we're running a webinar with Celent, and we're basically hired one of their best analysts.
+
+**deyan.atanasov:** To talk about underwriting intelligence and what the future will look like in the next 12 months related to AI development.
+
+**deyan.atanasov:** Does it answer your question to a certain degree?
+
+**Bailey Seybolt:** Yeah, it does.
+
+**Bailey Seybolt:** And one of the reasons I asked was I think Frankie can tell you, we sort of had in our initial editorial, we had done a lot of the kind of keyword researcher and building a strategy around keywords around underwriting intelligence.
+
+**Bailey Seybolt:** And I think one of the challenges there was that that sort of unique HX point of view hadn't been defined yet.
+
+**Bailey Seybolt:** And so we found a lot of the content we were producing sort of didn't have that point of view because it didn't sort of exist in a documented way before.
+
+**Bailey Seybolt:** But I think we have a backlog there.
+
+**Bailey Seybolt:** We have that strategy, which all still really feels relevant.
+
+**Bailey Seybolt:** So I'm just wanting to flag that because it feels like I know we're focused on PSEO now as the best way to gain velocity.
+
+**Bailey Seybolt:** But I do think that once you have those defined...
+
+**deyan.atanasov:** And then the IT buyer.
+
+**deyan.atanasov:** So the business is the chief underwriting officer.
+
+**deyan.atanasov:** So we've actually kind of made a decision in the past week to be like, okay, we're primarily going to focus on the CEO, chief underwriting officer persona, and we're going to pull back on the CIO.
+
+**deyan.atanasov:** So we have like Chris from our team basically just like wrote a basic persona guide, right?
+
+**deyan.atanasov:** Like what are the jobs to be done?
+
+**deyan.atanasov:** What are the pains?
+
+**deyan.atanasov:** How does our solution map?
+
+**deyan.atanasov:** What are some of the objections we're getting?
+
+**deyan.atanasov:** So I feel like we have the initial input now.
+
+**deyan.atanasov:** And based on that, we've refined our point of view on how we see underwriting intelligence and how it matches our products, like vision and roadmap.
+
+**deyan.atanasov:** So I think we now, I can say like after, we will iterate and change, but I do think we have something maybe we didn't have a few months back.
+
+**deyan.atanasov:** And I think we should probably provide that to you, Bailey, in like a very clear brief.
+
+**deyan.atanasov:** And then maybe even give you all the raw information, all the interviews we did with our prospects and personas.
+
+**deyan.atanasov:** Because that's like, I read for some of them and it's extremely valuable.
+
+**deyan.atanasov:** So that could be something we can revisit now, because it will tie directly to one of our objectives here, which is around, I think if you look at it here, this one's about first touch, and it's about how do we engage a specific number of ICT accounts that we've identified with verified brand engagement.
+
+**deyan.atanasov:** One of the supporting signals here is like branded search, non-branded search, LM and AI search visibility.
+
+**deyan.atanasov:** So there's like one is specifically more focused, not just on underwriting, but the second one is specifically focused on underwriting intelligence.
+
+**deyan.atanasov:** So we have like the overarching layer, and then a specific layer of underwriting intelligence.
+
+**deyan.atanasov:** So I think we could definitely focus on this, but I think when we talk about like competitors, for example, we're talking with franki, like competitor is a big one for us.
+
+**deyan.atanasov:** And then it's like intent related to our core platform and pricing decision intelligence, that still becomes relevant, and that would probably roll out under objective one.
+
+**deyan.atanasov:** So we're kind of like, we have these top objectives, we have the sample measures underneath, which is basically what you guys provided for us.
+
+**deyan.atanasov:** And I think we're at a point where we need to break down specific goals.
+
+**deyan.atanasov:** year.
+
+**deyan.atanasov:** Thank
+
+**deyan.atanasov:** Against these key objectives we have here.
+
+**deyan.atanasov:** I think underneath, you scroll a little bit down, you'll see like these are, this actually comes from your report.
+
+**deyan.atanasov:** We don't even have this report internally.
+
+**deyan.atanasov:** So for now, we kind of are depending on you guys from like, these are the four key areas where we need to set up goals.
+
+**deyan.atanasov:** So I would say for like the next few months, we should definitely set up an objective around LLM, referral, traffic, and air visibility across those two specific objectives.
+
+**deyan.atanasov:** And then one other element is the blog performance and the organic search.
+
+**deyan.atanasov:** So I think we need to drill this down, make it specific, and like work together to set up those goals.
+
+**deyan.atanasov:** We don't even have a dashboard.
+
+**deyan.atanasov:** We're just like talking about like building our internal dashboard with Hex, but we are very much sprinting.
+
+**deyan.atanasov:** And we are coming up with a plan as we go.
+
+**Bailey Seybolt:** Yeah.
+
+**Bailey Seybolt:** This is really helpful.
+
+**Bailey Seybolt:** And I do think that, you know, thinking about knowing that these are kind of your key marketing objectives, it's worth us going back and A, looking at kind of the PSEO.
+
+**Bailey Seybolt:** That we're recommending.
+
+**Bailey Seybolt:** And I think also making recommendations around that underwriting intelligence, the keyword strategy there, because I do think that that lane of content, if this is one of your key objectives, it will be kind of critical to capture those keywords.
+
+**franki.chaffin-edwards:** Yeah, I think maybe a lot of what you've got at the moment in the pipeline around what they're like.
+
+**franki.chaffin-edwards:** Like, what is algorithmic underwriting and insurance?
+
+**franki.chaffin-edwards:** Like, what is enhanced underwriting?
+
+**franki.chaffin-edwards:** And as much as underwriting intelligence is kind of like the term we're trying to own as a brand, like intelligent underwriting comes up quite a lot in wider narratives.
+
+**franki.chaffin-edwards:** So, yeah, like there, I think there's some bits that, like, we're already doing that are actually feeding into this, but we don't know.
+
+**Bailey Seybolt:** They're feeding, like, you know what I mean?
+
+**Bailey Seybolt:** Like, we have, that's almost by accident, not by design.
+
+**Bailey Seybolt:** Yeah, 100%.
+
+**Bailey Seybolt:** So, in terms of timing, I...
+
+**Bailey Seybolt:** guess the question, if we like want to take a look at the strategy as we're executing now, taking a look again at that sort of editorial lane around underwriting intelligence, when do you, do you feel like you have sort of enough of a defined point of view and documentation now that if we went back and took another look at that, we sort of have the target personas, we have the kind of HX positioning that we need, or does that still feel like it's something in progress and that we should kind of circle back on that in a few months down the line?
+
+**deyan.atanasov:** It's a good question.
+
+**deyan.atanasov:** I feel like we have enough on underwriting intelligence, and I think that is our core positioning.
+
+**deyan.atanasov:** When I talk to David and I challenge him around like pricing decision intelligence or a broader, like, I don't know, even like the other go-to-market motions, this still becomes the central core piece.
+
+**deyan.atanasov:** Like if you think about corporate narrative, David sees this is like our corporate, ties back to our corporate narrative.
+
+**deyan.atanasov:** And it's like the key avenue for us.
+
+**deyan.atanasov:** So I feel like we have enough.
+
+**deyan.atanasov:** And I think one other angle that here we haven't really been really good at defining is we have this whole AI propaganda strategy that comes actually from our product perspective.
+
+**deyan.atanasov:** But it very much ties with the underwriting intelligence because our whole messaging under our underwriting intelligence is powered by AI.
+
+**deyan.atanasov:** So there's like an angle here that I think there's like maybe a market or a share to capture around underwriting intelligence.
+
+**deyan.atanasov:** But also maybe expand more into AI and what it means for insurance.
+
+**deyan.atanasov:** And I don't think we've actually, I mean, we're doing some of the work with you guys like agenting underwriting.
+
+**deyan.atanasov:** But I think maybe we should lean more on that as well.
+
+**deyan.atanasov:** Because I think underwriting intelligence is very specific and it's very narrow and the search will be very small when you're focusing on like AI visibility, like LLM and like organic search.
+
+**deyan.atanasov:** Maybe we need to expand and open up our view there.
+
+**deyan.atanasov:** But it's just more of like a gut feeling rather than verify information from my side.
+
+**Bailey Seybolt:** I think one question I have around this, too, and maybe this is a question for you, Frankie.
+
+**Bailey Seybolt:** I know that getting sort of buy-in for that lane of content and, like, successfully publishing, I think, was challenging.
+
+**Bailey Seybolt:** I think because there was a feeling that there needed to be a lot of inputs in terms of defining the positioning.
+
+**Bailey Seybolt:** Do you feel like we're at a point now where it makes sense to take a look at this just from a pure, like, logistics and operational perspective?
+
+**franki.chaffin-edwards:** I think so, and, Diane, interrupt me if you disagree with me here, but I think the documentation that the team has put together around the underwriting intelligence campaign, like, literally just giving all of that over to growthx as, like, here's a load of context, because you guys have done the legwork of working out, like, what's our positioning here?
+
+**franki.chaffin-edwards:** How is it different to other people?
+
+**franki.chaffin-edwards:** What are the key themes?
+
+**franki.chaffin-edwards:** What are the key messages?
+
+**franki.chaffin-edwards:** Like, that is all documented now.
+
+**franki.chaffin-edwards:** Our level of, like, 100% confidence, so that's, like, definitely, definitely not going to change.
+
+**franki.chaffin-edwards:** But there really is, I think, taking that similar approach of bias to action and a clear statement that we will review and update and these things can be living bits of content, but bias to let's get something out there and see how it does.
+
+**franki.chaffin-edwards:** I think we've got enough.
+
+**franki.chaffin-edwards:** You guys put together some pretty thorough campaign messaging and plans and outlines.
+
+**deyan.atanasov:** Yeah, and I think, Bailey, if you go down at the bottom of this page, I actually linked out some of, there's a lot of work that's happening.
+
+**deyan.atanasov:** This is like campaign assets that we have, but I think one, there's basically a lot of content we're producing here.
+
+**deyan.atanasov:** I think I like it hasn't translated well, but we're doing like expert voices, so we just did like a lot of recordings.
+
+**deyan.atanasov:** We're actually producing some of these follow-up blogs internally, basically just transcripting some of it.
+
+**deyan.atanasov:** But I think when you, oh, sorry, I have no access to anything, so I will have to give you the access.
+
+**franki.chaffin-edwards:** Yeah, there's somewhere a master database where you'll be able to give her access to this.
+
+**franki.chaffin-edwards:** Blogs, assets, like videos, everything, they are not being built with SEOGO in mind, right?
+
+**franki.chaffin-edwards:** Like, they're being built with a campaign amplification plan behind them, so they're not having to rely on that stuff.
+
+**franki.chaffin-edwards:** So, yeah, I think it makes a lot of sense for us to hand them all over to you and be like, look, here's our non-SEOGO version of all these assets.
+
+**franki.chaffin-edwards:** Can you tell us, is there an opportunity actually here to carve out, like, the SEOGO version?
+
+**franki.chaffin-edwards:** Like, is there keyword volume?
+
+**franki.chaffin-edwards:** Is there, like, potential?
+
+**franki.chaffin-edwards:** Like, is it already totally eaten up space and we'd have to work really hard at it?
+
+**franki.chaffin-edwards:** Or actually, is there some white space where we can see some quick movement?
+
+**franki.chaffin-edwards:** Yeah, that would be really helpful.
+
+**Bailey Seybolt:** No, this is all great.
+
+**Bailey Seybolt:** I think if you can share all those campaign assets, what I'd sort of propose for us to do is take this and take all those away and just take a look at the strategy that we're executing against now and make recommendations for how to update.
+
+**Bailey Seybolt:** Update it based on what your current objectives are, and then also to suggest for in terms of metrics, we're happy to also kind of suggest at least some kind of benchmarks that we could use to measure success there.
+
+**Bailey Seybolt:** So we're all on the same page in terms of what the goals are and how we measure success.
+
+**Bailey Seybolt:** And I think also knowing that we've kind of scoped out at least one or two more PSEO engagements, we can kind of take that into account as well in terms of prioritizing and say, you know, we recommend doing these ones against these goals.
+
+**Bailey Seybolt:** And then also thinking about when and how it would make sense to revive that editorial stream of content as well, because I think it will, given kind of what your key objectives are for this year.
+
+**Bailey Seybolt:** So I think if we take that, and then we, I think it's on us to come back and take a look at the strategy and make recommendations.
+
+**Bailey Seybolt:** And I think it's great that we're doing.
+
+**Bailey Seybolt:** Kind of kicking off this first PSEO because that'll give us some time to update that strategy and make recommendations and for you all to react against them as well.
+
+**deyan.atanasov:** Yeah, and I think that we're already like they're doing this exercise internally with David of like translating IOPRs and objectives into actual measurable goals and then building dashboards.
+
+**deyan.atanasov:** I think what I would love for us to do for is basically kind those sample metrics like put actual like objectives for ourselves.
+
+**deyan.atanasov:** Even if it's like let's say we start as of our fiscal year which starts as of April and we say we're at 12% now in terms of like AI visibility we want to get to 15%.
+
+**deyan.atanasov:** It's like it's something that we can like build into our kind of commitment and then everything we build in terms of like projects or initiative level will help us like feed to like how we're actually capturing the opportunity but also hitting those numbers.
+
+**deyan.atanasov:** So I would love to get like more data driven and I'm pushing the same towards like David being like okay we need to become data driven and making kind of capturing these opportunities and then building the supporting kind of reporting to be able to measure that so that is kind of like.
+
+**deyan.atanasov:** My ultimate goal that we come off in the next few weeks with a plan and some objectives that we've kind of almost shook hands on and we go and test them.
+
+**deyan.atanasov:** And that also allows us to be like, don't know, invest more in the operational and kind of that like pipeline, right?
+
+**deyan.atanasov:** Like if we agree that we're going to, these are the objectives, these are the initiatives, we should also agree on like what our SLAs are going to look like.
+
+**deyan.atanasov:** How do we actually pump like from our perspective, commit to certain level of input from PMM because we have very specific objectives.
+
+**deyan.atanasov:** So I think it's like a driving force for us to kind of move beyond just like more ad hoc, but be much more operational.
+
+**Bailey Seybolt:** Yeah, 100%.
+
+**Bailey Seybolt:** That makes sense.
+
+**Bailey Seybolt:** So this is great.
+
+**Bailey Seybolt:** So then if you want to share with me what you have so far, I will take that to our team and kind of pull in our directors as well, who I think who have some expertise in these areas.
+
+**Bailey Seybolt:** And then we can kind of come back to you.
+
+**Bailey Seybolt:** I'll make sure we have everything we need.
+
+**Bailey Seybolt:** And then I think it'll be on us to come back to you with a plan.
+
+**franki.chaffin-edwards:** Yeah, we could break into two elements, Bailey, of just, like, yeah, that overview of, like, what we've done already and what we're doing right now in terms of, like, the line of business, like, you know, first opportunity, kind of, like, summary of that, and then, like, the other piece is, like, yeah, with this new information in mind.
+
+**Bailey Seybolt:** That will just get to you this week, so you're prepped for your board meeting, and then I think this is much more about, you know, after this initial PSEO, it's, like, what do we do next?
+
+**Bailey Seybolt:** How do we scope out what the second half, you know, I think the next six months looks like, and where are we going to get the most leverage based on what your goals are?
+
+**deyan.atanasov:** Perfect.
+
+**deyan.atanasov:** Do we, is there any questions we didn't answer?
+
+**deyan.atanasov:** Because I think you had a few questions.
+
+**deyan.atanasov:** I just want to make sure we go around for the questions, because I don't think I answered all your questions with this file.
+
+**Bailey Seybolt:** No.
+
+**deyan.atanasov:** I think had a few questions there.
+
+**Bailey Seybolt:** look.
+
+**Bailey Seybolt:** I think, I mean, this, to me, was the most important thing to understand.
+
+**Bailey Seybolt:** I think this was a lot of, I think this was also answered.
+
+**Bailey Seybolt:** I think, to me, this, like, out.
+
+**Bailey Seybolt:** outcomes and impact.
+
+**Bailey Seybolt:** A lot of it we talked about, which is just, like, we're seeing these, like, signals of what's working so far.
+
+**Bailey Seybolt:** You know, when we've just published 12 articles, we've seen, like, a big growth in keywords.
+
+**Bailey Seybolt:** We've seen, you know, increase in LLM visibility.
+
+**Bailey Seybolt:** You know, we've seen, you know, monthly organic traffic.
+
+**Bailey Seybolt:** So to me, the big question here was, like, how do we increase velocity, you know, both making sure that PSEO is set up to succeed and also unblocking the current editorial because I think publishing is the biggest lever that we have.
+
+**Bailey Seybolt:** So I think to me, was just putting that on the table and, like, how do we get that backlog published and how do we set up PSEO for success?
+
+**Bailey Seybolt:** So I think that's something that we've talked through already.
+
+**Bailey Seybolt:** So I don't know if there's anything else that we have there, especially thinking about PSEO since we're entering into that.
+
+**Bailey Seybolt:** If there's anything that you feel like we could do on our end to help unblock that.
+
+**Bailey Seybolt:** It's just a let me know.
+
+**franki.chaffin-edwards:** For the current one, Bailey, it's on me for the next week.
+
+**franki.chaffin-edwards:** Now, I found someone internally who can do that SME review instead of Jamie, who is a very, very, very busy man, which I now have.
+
+**franki.chaffin-edwards:** So, yeah, the blocker was on our side, but I'm hopeful that will be removed in the next week.
+
+**franki.chaffin-edwards:** We can give you the kind of, right, yeah, we're confident this is factually and kind of like industry-wise correct.
+
+**franki.chaffin-edwards:** Let's run at it.
+
+**franki.chaffin-edwards:** If your team turn around and also then say, actually, we can build this wire MCP and Framer ourselves, then it really is a, yeah, you guys just run, run, run, and we'll put up as little fight as we can in blocking production and publication.
+
+**Bailey Seybolt:** No fight.
+
+**Bailey Seybolt:** We're all on the same team.
+
+**Bailey Seybolt:** I think that those were kind of the big things.
+
+**Bailey Seybolt:** I feel like I'll send a recap from this in terms of next steps, but I feel like we've got some solid next steps in terms of adjustments to that, the backlog, and hopefully getting some of those public.
+
+**Bailey Seybolt:** So the only other thing I wanted, I wanted to get you all do a quick walkthrough of CheckPAT, our AI visibility tool, because I can get you access to that today.
+
+**Bailey Seybolt:** So since we have a few minutes, does that work to do a quick walkthrough of that?
+
+**franki.chaffin-edwards:** Definitely.
+
+**Bailey Seybolt:** Okay, awesome.
+
+**Bailey Seybolt:** So it just launched.
+
+**Bailey Seybolt:** So there are some bugs in here as you go through.
+
+**Bailey Seybolt:** It's a work in progress, but it's, I think, pretty exciting already and exciting to be able to give our clients kind of more direct access to what's going on there.
+
+**Bailey Seybolt:** So as you move through it, you're going to encounter bugs.
+
+**Bailey Seybolt:** Like, let us know what you find, because we'd love to understand what's helpful, what's working, what's not working.
+
+**Bailey Seybolt:** You'll see already the first bug is that it's pulling the wrong logo for your account.
+
+**Bailey Seybolt:** So just know, for some reason, as it scrapes your site, it's decided that this is your logo.
+
+**Bailey Seybolt:** So we have...
+
+**Bailey Seybolt:** Is that logo convex by any chance?
+
+**Bailey Seybolt:** I think it is.
+
+**Bailey Seybolt:** So it comes from your website.
+
+**franki.chaffin-edwards:** It's decided that this is the Let me see if I can work out why it thinks that is the logo.
+
+**franki.chaffin-edwards:** I'll take a look at that.
+
+**Bailey Seybolt:** So that's a bug on us.
+
+**Bailey Seybolt:** They're fixing it now.
+
+**Bailey Seybolt:** So I was hoping it would be fixed before we walked through.
+
+**Bailey Seybolt:** So I don't know if you've used tools like Scrunch before or some of the other AI visibility tools.
+
+**Bailey Seybolt:** You'll find this kind of overview interface, kind of like think of it like your homepage.
+
+**Bailey Seybolt:** So this shows you kind of your overall competitive presence.
+
+**Bailey Seybolt:** And you can kind of like toggle through some preloaded time periods to see how things have changed over time.
+
+**Bailey Seybolt:** This is, it's comparing you against your competitors.
+
+**Bailey Seybolt:** So this is something you can continue to add more brands because I know sometimes it's useful to also track your organic competitors.
+
+**Bailey Seybolt:** Which aren't necessary.
+
+**Bailey Seybolt:** necessarily the same as your actual product competitors, so you can continue to build out this list by going down here, and you can continue to add.
+
+**Bailey Seybolt:** You can add URLs if there's one that we're not tracking yet, so you do have the ability to add, I think, like up to 30 that you can track.
+
+**Bailey Seybolt:** And then for the overview, it'll give you your position, so in the actual AI response, like, where are you?
+
+**Bailey Seybolt:** Are you at the top?
+
+**Bailey Seybolt:** Are you, like, buried down at the bottom?
+
+**Bailey Seybolt:** Same a little bit, like, if you think of keywords, it's like, are you on page one or are you on page eight?
+
+**Bailey Seybolt:** That matters a lot in terms of the actual impact.
+
+**Bailey Seybolt:** Sentiment, so monitoring if it tends to be positive or negative or neutral when it talks about your brand.
+
+**Bailey Seybolt:** And then citation share, so like how many of these are actually not just mentioning you, but citing your website and driving actual traffic there.
+
+**Bailey Seybolt:** This is kind of a funny one because we find that in terms of actual user behavior, a lot of what happens is that...
+
+**Bailey Seybolt:** Something is cited and then someone opens up a new tab and then just Googles your site.
+
+**Bailey Seybolt:** So I think what happens is there's a lot of organic traffic that comes from LLM but isn't necessarily attributed.
+
+**Bailey Seybolt:** So it's something to keep in mind that sometimes you'll start to see more organic traffic that's not directly attributed but can be coming from LLM.
+
+**Bailey Seybolt:** So in terms of I think the part that really differentiates this from tools like Scrunch, it's really been set up from the prompts for like the B2B journey in mind.
+
+**Bailey Seybolt:** So you'll see you can filter by stage.
+
+**Bailey Seybolt:** So if you could have prompts, you can tag them for the different stages to see how you're appearing there.
+
+**Bailey Seybolt:** You can also tag, add tags and personas.
+
+**Bailey Seybolt:** So I think especially if you're, as you're defining your ICP or if you have different personas you're going over, you can just create a whole set of prompts that are.
+
+**Bailey Seybolt:** Just so you can see how you're kind of performing with that specific persona.
+
+**franki.chaffin-edwards:** Sorry, Bailey, one question.
+
+**franki.chaffin-edwards:** The prompts that are in here right now, are they ones that we gave you?
+
+**franki.chaffin-edwards:** Are they ones that you gave us?
+
+**Bailey Seybolt:** Like these existing prompts, how did we pull those?
+
+**Bailey Seybolt:** ones that we developed based on kind of our initial content strategy for the ones that we think were kind of most important to track based on your goals.
+
+**Bailey Seybolt:** So I think given that we're updating that, we should also take a look at the prompts that we're tracking.
+
+**Bailey Seybolt:** I don't think any of them are irrelevant.
+
+**Bailey Seybolt:** It's probably more that we want to track additional ones, I think.
+
+**franki.chaffin-edwards:** And how do you, sorry, potentially stupid question, Bailey.
+
+**franki.chaffin-edwards:** But yeah, like how do you guys do your prompt research on like what are people actually searching?
+
+**franki.chaffin-edwards:** Because we can tell you like, oh, yeah, we want to pull in a load of prompts about anyone asking about software for commercial PNC insurance.
+
+**franki.chaffin-edwards:** But like how is this exact wording being, getting like come up with?
+
+**Bailey Seybolt:** Sorry, that's such a weird way to phrase it.
+
+**Bailey Seybolt:** No, no, no, I think we.
+
+**Bailey Seybolt:** We just sort of have some best practices that we follow, but a lot of it is, you know, when we build the content strategy, validating it with search volume, right?
+
+**Bailey Seybolt:** So you know what kind of terms are being searched, and then just making sure when you come up with the questions that semantically they make sense, and that sometimes will include different variations of them.
+
+**Bailey Seybolt:** So it's basically just some best practices to make sure that, you know, A, if we have a question or a term, that we're building prompts around it in the way that people would actually search.
+
+**Bailey Seybolt:** And then a lot of it's also pulled from those initial meetings you had, you know, sales transcripts, if you have like common objections, like all of that are things that we should pull into here.
+
+**Bailey Seybolt:** So the things that you're actually hearing from prospects and from customers are also a great place to build in more custom prompts.
+
+**Bailey Seybolt:** And one thing I will do, which is not a capability that we have.
+
+**Bailey Seybolt:** Bye.
+
+**Bailey Seybolt:** I'm going to pull all our current prompts just into a spreadsheet for you because I think that'll be a lot easier to kind of review and just tag them by decision stage.
+
+**Bailey Seybolt:** So I'll share that after this because exporting is not something that you're able to do yet, but it's something I can do.
+
+**Bailey Seybolt:** So I will also separately kind of pull these in.
+
+**Bailey Seybolt:** So when you want to add additional prompts, there are kind of two ways to do this.
+
+**Bailey Seybolt:** So you can always create a custom prompt, but one also of the benefits of using this tool versus, I think, a tool like Scrunch where essentially you're like, have a blank slate and you come in and you add your prompts and then you have to like wait a week or two to collect data.
+
+**Bailey Seybolt:** We have it preloaded by category.
+
+**Bailey Seybolt:** So you can also choose from the shared library and not yet because the tool is new, but the idea is that these are all ones that we're constantly collecting historical data.
+
+**Bailey Seybolt:** So a month from now, if you come in and you decide, you know, there are adjacent, you know, or insurance questions and you check one of the shared ones, it should preload automatically with data that we've been collecting.
+
+**Bailey Seybolt:** So you don't have to wait in the same way you do for custom prompts to collect that additional data.
+
+**Bailey Seybolt:** So those are kind of the two different ways you can review and add new prompts for this one.
+
+**Bailey Seybolt:** You know, you just check it, and then you add it, and then it will automatically kind of, once you activate it, update your library with prompts.
+
+**Bailey Seybolt:** So right now, you'll see that some of the data, because it's new and we just launched a few days ago, there may be some where you see there's no data yet because we're waiting for it to load.
+
+**Bailey Seybolt:** But a week from now, you know, this should be populated with data so you'll get a better sense for what's going on here.
+
+**Bailey Seybolt:** And then in terms of other places to take a look, so sources, I'm going to show you across your prompts to give you an overview of kind of what content is being cited the most.
+
+**Bailey Seybolt:** So you'll see this is a good place to pick up trends.
+
+**Bailey Seybolt:** Like what we've been seeing is there's a lot of lists here, a lot of top X, a lot of the best of X content that is being cited kind of across prompts.
+
+**Bailey Seybolt:** So this is a place where we're, you know, suggesting that clients lean into content because we found that it's having an outsized impact on actually what gets cited.
+
+**Bailey Seybolt:** And you can also search by domain.
+
+**Bailey Seybolt:** So if you just want to see in terms of what domains are being cited the most, not just the articles, but kind of like who is our organic competition, this is a good place to see.
+
+**Bailey Seybolt:** And you can also filter by your own URL when you want to see what are your top-sided articles.
+
+**Bailey Seybolt:** In terms of context, this is just the place where, you know, as you're, you update your company overview as you have.
+
+**Bailey Seybolt:** We can update this, same with your personas, just to make sure that it's pulling the right information and understanding the right context about your company.
+
+**Bailey Seybolt:** And then the last section is competitors.
+
+**Bailey Seybolt:** So as you want to add more competitors that you track over time, this is where you can find them and add them.
+
+**Bailey Seybolt:** So I realize we're almost at time, but do you have any kind of questions so far?
+
+**Bailey Seybolt:** I'm sure more will come up as you kind of get in here and start using it.
+
+**Bailey Seybolt:** This looks great.
+
+**franki.chaffin-edwards:** Yeah, I just want to get in and play around and then I'm sure I'll have some follow-up questions.
+
+**franki.chaffin-edwards:** But I think this is going to be really helpful for us.
+
+**Bailey Seybolt:** Okay, awesome.
+
+**Bailey Seybolt:** So I will just add you today.
+
+**Bailey Seybolt:** So it'll come just as an email to your inbox and then you should be able to have access.
+
+**Bailey Seybolt:** But if you have trouble for any reason, just shoot me an email and let me know.
+
+**Bailey Seybolt:** Okay, I think that is it.
+
+**Bailey Seybolt:** Is there anything else you wanted to touch base on before we go?
+
+**deyan.atanasov:** Nope, I think it was a product.
+
+**deyan.atanasov:** I'll make sure I share all the details about the campaign.
+
+**deyan.atanasov:** And yeah, I think it's hopefully you would that you have enough to come back to like go back and think about it and then we can regroup.
+
+**Bailey Seybolt:** Yeah, that sounds great.
+
+**Bailey Seybolt:** So I'll send an email, just a recap of kind of action items and the call after this and also a link to the recording for anyone who didn't make it and might want to catch up.
+
+**deyan.atanasov:** All right.
+
+**Bailey Seybolt:** Great.
+
+**Bailey Seybolt:** Thanks, everyone.
+
+**franki.chaffin-edwards:** Have a good day.
+
+**franki.chaffin-edwards:** Thanks, Bailey.
+
+**Bailey Seybolt:** Bye.
+
+**franki.chaffin-edwards:** Bye.
+
+**franki.chaffin-edwards:** Bye.

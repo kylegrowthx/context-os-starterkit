@@ -7,8 +7,8 @@
 | **Date** | January 29, 2026 |
 | **Time** | 4:30 PM UTC |
 | **Duration** | 63 minutes |
-| **Organizer** | William Leborgne |
-| **Participants** | William Leborgne (CEO), Aida Knezevic (Operations), Kathy Lam (Content Lead), Nathalie Schrans (Delivery), Hassan Rashid (Data/Analytics), Sydney Arin Go (Editorial Lead), Valentina Giraldo Morales (Operations Support) |
+| **Organizer** | William Leborgne (GrowthX CEO) |
+| **Participants** | William Leborgne (GrowthX CEO), Aida Knezevic (GrowthX Operations), Kathy Lam (GrowthX Content Lead), Nathalie Schrans (GrowthX Delivery), Hassan Rashid (GrowthX Data/Analytics), Sydney Arin Go (GrowthX Editorial Lead), Valentina Giraldo Morales (GrowthX Operations Support) |
 | **Source** | Fireflies |
 | **Fireflies ID** | 01KG04PN8W5W0MS2YVM1E0YZ1V |
 | **Meeting Link** | [Zoom](https://growthx-ai.zoom.us/j/86992841836?pwd=21Zv353ai0P44g7jJw5TXmOaEVfNsk.1) |
@@ -19,90 +19,109 @@
 
 ## Summary
 
-Weekly sprint standup for GrowthX delivery team across 13+ active client accounts. Team reviewed content production (24 articles published this week), CheckThat prompt management methodology, and client expectation-setting challenges. William and Ada will spend next week in San Francisco workshopping sprint improvements, project management refinements, and editorial workflow changes driven by Sydney's promotion to lead editor.
+GrowthX delivery team standup covering 13 active client accounts with strong production metrics: 24+ articles published this week, 23% organic growth at Turnstile from blog traffic, and 7-blog turnaround at Blaxel. Key decision: William and Aida will workshop sprint improvements next week in San Francisco, focusing on project management refinements (Nathalie's input), editorial coordination around Sydney's new lead editor role, and CheckThat prompt management methodology (Ada to standardize Claude-to-prompt conversion process). Identified critical blocker: client expectation gaps—Turnstile's "Are we a problem client?" question revealed need for upfront communication about "growth pain" feedback intensity phase.
 
 ---
 
 ## Context
 
-This is the weekly strategy sprint standup where the GrowthX delivery team reviews client project status, flags blockers, and coordinates cross-functional work. The team manages 13+ active B2B content marketing engagements worth $200k+ annually, with content production, technical SEO, and CheckThat (AI visibility tracking) as core service offerings. The meeting serves as the operational heartbeat for the content services business, with particular focus on expectation management and maintaining production velocity across diverse client needs. January 29 represents a strategic inflection point—Sydney's recent promotion to lead editor requires workflow adjustments, while CheckThat rollout demands systematic prompt selection processes.
+The weekly strategy sprint standup is GrowthX's operational nerve center, where the delivery team (content production, operations, analytics, editorial) reviews status across 13 active B2B content marketing engagements valued at $200k+ annually. Core service offerings include monthly content campaigns (content strategy, keyword research, writing, editing), technical SEO audits, and CheckThat—a new strategic offering for AI visibility tracking that surfaces where clients appear in AI-generated answers. The meeting coordinates cross-functional execution, surfaces blockers, and maintains production velocity across diverse client verticals and engagement maturity stages.
+
+January 29 is a critical inflection point operationally. Sydney's recent promotion to Editorial Lead requires workflow adjustments around content review and QA. Simultaneously, CheckThat rollout has exposed the need for systematic prompt selection methodology—Ada's current approach (converting target keywords to high-intent Claude prompts, filtering generic terms) lacks standardization across the team. On the expectations front, Turnstile's candid question—"Are we a problem client?"—reveals that early onboarding doesn't adequately prepare clients for the "growth pain" feedback-intensive phase before the content engine reaches calibration and runs smoothly. This insight applies across the portfolio.
 
 ---
 
-## Relevance
+**Services (GrowthX Content Marketing):** Core operational standup for all 13+ active B2B content marketing engagements. Covers client onboarding phase, production velocity metrics (24+ articles/week), revenue retention signals (Turnstile's 23% organic growth from blog traffic), client sentiment and satisfaction, and critical blockers (technical SEO audits at Rex, expectation gaps at Turnstile).
 
-**Services (GrowthX):** Core operational meeting for the content marketing engine. Covers all active client engagements, production velocity, client sentiment, and delivery team coordination.
+**CheckThat (AI Visibility):** Rolled out in discovery phase across multiple accounts (Blaxel, Panther, Ramp). Team is resolving three critical questions: (1) standardized prompt selection methodology—how to systematize Ada's current Claude-to-prompt conversion process; (2) pricing structure for 500+ prompt requests; (3) client vs. GrowthX ownership of prompt selection (client-provided keyword lists vs. GrowthX recommendations). Pricing tier discussion deferred to William/Aida's San Francisco workshop.
 
-**CheckThat:** Featured prominently in discussions. The team is rolling out CheckThat (AI visibility tracking) to clients as a new service offering. Key discussions around prompt selection methodology and pricing tiers for prompt tracking.
+**Organizational Change:** Sydney's promotion to Editorial Lead is reshaping content production workflows. Team workshopping integration of new editorial structure with ME (Messaging Engine) and EMS (Editorial Management System) collaboration models. Nathalie's project management refinement ideas also being incorporated.
 
-**Content Strategy:** Multiple strategic discussions about content calibration, keyword research, search intent alignment, and technical SEO audits across client accounts.
+**Expectation Management:** Critical insight flagged—clients enter engagement expecting fast, smooth production, but reality is "growth pain" feedback intensity in early phase (0-4 weeks). Once engine is calibrated, velocity increases. Commitment to redesign onboarding messaging to explicitly address this phase and build mutual process understanding.
 
 ---
 
-## Decisions & Commitments
+**Sprint Improvement Workshop (San Francisco, Feb 3-7):** William and Aida will workshop three operational areas: (1) sprint process refinements based on learnings from past 6 weeks; (2) project management workflow improvements (incorporating Nathalie's ideas); (3) editorial coordination integration around Sydney's Editorial Lead role and ME/EMS collaboration models. Team invited to DM or Slack improvement suggestions to William within days. Outputs from workshop to be documented and rolled out the following week.
 
-**Sprint Improvement Initiative:** William and Ada will spend next week in San Francisco workshopping sprint processes, project management workflows, and editorial coordination. Team members invited to submit improvement suggestions via Slack/DM within days.
+**CheckThat Prompt Management Standardization:** Ada's Claude-to-prompt conversion methodology adopted as baseline: convert target keywords into Claude-generated prompts with examples, filter for evaluation-stage (high-intent) queries over informational, remove overly generic terms. William to document initial workflow from transcript; Ada to expand into full team methodology guide by following week. **Open:** Pricing tiers (e.g., how to quote 500+ prompt requests), client vs. GrowthX ownership of prompt selection, transition from legacy Scrunch imports to standardized system.
 
-**CheckThat Prompt Management:** Standardized approach established—Ada will convert target keywords into Claude-generated prompts, filter for high-intent evaluation-stage queries, document workflow. Ada to expand guidance into full team methodology guide. Pricing tiers for prompt volume to be discussed next week.
+**Client Expectation-Setting Framework:** Commitment to redesign onboarding process and early communication to explicitly address "growth pain" phase—the feedback-intensive period (first 2-4 weeks) before content engine reaches calibration and smoothens. Key deliverable: new onboarding document explaining this phase, setting expectations for feedback volume, and establishing it as a two-way street (clients understand our process, we understand their constraints). Turnstile to receive framework first (they prompted the insight).
 
-**Expectation-Setting Framework:** Commitment to early, transparent communication with clients about feedback intensity, "growth pain" calibration phase, and mutual process understanding. Key deliverable: Clear onboarding messaging about this phase.
+**Rex Technical SEO Execution:** Technical SEO audit completed and flagged as critical to client success. Commitment to schedule immediate call with client, present findings, and push for rapid implementation of recommended fixes. Sydney to ensure calibration article is production-ready before call.
 
-**Rex Technical SEO:** Technical SEO audit findings flagged as critical to client success—team committed to immediate client action and fixes.
-
-**Blaxel Content Topics:** Plan to discuss today (meeting 1/29) with client about listicle topics where Blaxel wouldn't be listed as direct option but would be featured throughout and in conclusion.
+**Blaxel Listicle Topic Alignment:** Meeting scheduled with client today (1/29) to discuss content topics for listicles where Blaxel would not be listed as a direct option but prominently featured throughout article and in conclusion (e.g., "best LLMs for coding"). Team to confirm this approach aligns with client's search intent strategy and audience expectations.
 
 ---
 
 ## Overview
 
-- Client projects progressing: Turnstile published 11 articles, with 23% blog-driven traffic growth
-- Ramp expanding content: 5 articles published; plans for broader prompt coverage discussed
-- Panther enhancing analytics: GA4 access enables dashboard work and deeper content insights
-- Expectations management critical: Clear communication with clients reduces friction and builds trust
-- Tele's content backlog: 100+ topics ready, with client excitement and case studies being repurposed
-- Editorial leadership change: Sydney's promotion to lead editor expected to enhance quality and coordination
+- **Production Velocity Strong:** 24+ articles published across portfolio this week. Standout: Blaxel 7-blog turnaround, Turnstile 11 published with 23% organic growth from blog traffic, Ramp 5 articles.
+- **Client Sentiment Mixed but Recoverable:** Turnstile's candid question—"Are we a problem client?"—revealed critical expectation gap that applies across portfolio. Team pivoting to redesign onboarding and early communication.
+- **CheckThat Rollout Progressing:** Deployed across Blaxel, Panther, Ramp. Key blocker: pricing structure and prompt selection methodology need standardization. Workshop scheduled for Feb 3-7 in San Francisco.
+- **Operational Inflection Point:** Sydney's promotion to Editorial Lead and Nathalie's project management improvements being incorporated into sprint workflow. San Francisco workshop Feb 3-7 to integrate changes and refine processes.
+- **Critical Blockers Identified:** (1) Expectation-setting framework needed across all clients; (2) CheckThat pricing tiers unresolved; (3) Rank Math guidance needed from director team; (4) Deadline extension policy needed; (5) Rex technical SEO findings require immediate client action.
+- **Client Portfolio Health:** 13 accounts, 11 Green, 2 Yellow. Most progress driven by content production velocity and calibration phase work. Tavis and Witness benefiting from proactive artifact building and client communication.
 
 ---
 
 ## Key Topics
 
-### Process Improvement & Sprint Planning
+### Sprint Improvement Workshop (San Francisco, Feb 3-7)
 
-William and Ada are heading to San Francisco next week to workshop sprint improvements. Key areas of focus:
-- Project management refinements (Natalie's ideas flagged)
-- Sydney's promotion to lead editor and workflow implications
-- ME and EMS collaboration
-- Team invited to DM William with improvement suggestions
+William and Aida heading to San Francisco to workshop three operational areas:
+- **Project Management Refinements:** Incorporating Nathalie's improvement ideas
+- **Editorial Workflow Integration:** Addressing implications of Sydney's promotion to Editorial Lead; aligning ME (Messaging Engine) and EMS (Editorial Management System) collaboration
+- **Process Documentation:** Team invited to DM or Slack improvement suggestions to William within days
+- **Outputs:** Workshop outcomes to be documented and rolled out the following week
 
-### CheckThat Rollout & Prompt Management
+### CheckThat Rollout & Prompt Management Standardization
 
-The team is figuring out how to systematically manage prompt selection for CheckThat:
-- **Current approach:** Ada converts target keywords into prompts using Claude, filters out overly broad queries
-- **Focus:** Evaluation-stage (high-intent) prompts over informational
-- **Open questions:** Pricing tiers for prompt volume, who owns prompt selection (client vs. GrowthX)
-- Ramp specifically requested general prompts beyond product-specific ones
-- William to document workflow from this transcript; Ada to expand into team guide
+Team resolving how to systematically manage prompt selection and scale CheckThat across client portfolio:
+- **Current Approach:** Ada converts target keywords into Claude-generated prompts with examples, filters for evaluation-stage (high-intent) queries, removes overly generic terms
+- **Standardization Goal:** Document Ada's methodology, expand into full team guide, establish consistent process
+- **Client Examples:** Ramp requested general prompts beyond product-specific; Panther adding custom prompts to CheckThat
+- **Open Questions:** Pricing tier structure for 500+ prompt requests, client vs. GrowthX ownership of prompt selection, transition plan from legacy Scrunch imports
+- **Timeline:** Initial guidelines to be documented from this transcript; Ada to expand into full guide next week; pricing discussion deferred to SF workshop
 
-### Client Expectation Setting
+### Client Expectation-Setting Crisis & Solution
 
-Turnstile asked "Are we a problem client?" — revealing a gap in expectation management. William emphasized:
-- Communicate expectations early about feedback volume
-- Explain the "growth pain" phase that leads to a calibrated engine
-- Two-way street: clients need to understand our process, we need to understand their constraints
+Critical insight: Turnstile asked "Are we a problem client?"—revealing systematic gap in expectation management that applies across portfolio. Root cause: clients enter engagement expecting fast, smooth production; reality is feedback-intensive "growth pain" phase (first 2-4 weeks) before engine reaches calibration.
 
-### Content Production Velocity
+**William's Framework:**
+- Communicate expectations upfront about feedback volume and intensity
+- Explicitly explain the "growth pain" phase and what triggers it
+- Set expectation for smooth operation post-calibration
+- Frame as two-way street: clients understand our process, we understand their constraints
 
-Strong output across accounts:
-- **Turnstile:** 11 published, 6 in revision, 2 in staging, 5 in production
-- **Ramp:** 5 published, key features being cited in AI answers
-- **Blaxel:** 7 blogs published (major turnaround)
-- **Tele:** 100+ topics in backlog, 3 articles in progress
+**Deliverable:** Redesign onboarding messaging and create expectation-setting document. Turnstile to receive first iteration.
 
-### Technical SEO
+### Content Production Velocity & Portfolio Metrics
 
-Rex has a completed technical SEO audit that's flagged as critical to their success. Team plans to share findings and push for immediate fixes.
+Strong output across 13 accounts, 24+ articles published this week:
+- **Turnstile:** 11 published, 6 in revision, 2 in staging, 5 in production; 23% organic growth from blog traffic (strong signal)
+- **Blaxel:** 7 blogs published (major turnaround from earlier slowness)
+- **Ramp:** 5 articles published; Cash Flow Desk being cited in AI-generated answers (proof of concept for visibility)
+- **Tele:** 100+ topics in approved calendar, 3 articles in progress
+- **Panther:** Calibration article approved; GA4 access obtained; dashboard work underway
+- **Rex:** Calendar ready; moving to client call tomorrow
+- **Parloa:** Artifacts feedback positive; keyword research and CMS walkthrough in progress
+- **Daylight:** Kickoff and deep dive complete; artifacts and content strategy coming
 
-### Client-Specific Updates
+### Technical SEO & Client Success
+
+Rex has completed technical SEO audit—flagged as critical to client success. Team commitment to schedule immediate call, present findings, and push for rapid implementation of recommended fixes. Sydney to ensure calibration article is production-ready before call.
+
+### Operational & Policy Decisions Needed
+
+**Deadline Extension Policy:** Case-by-case approach (e.g., CRV client with bronchitis) not sustainable as team scales. Formal policy needed on what triggers extensions, who approves, and how to communicate to other clients.
+
+**Rank Math & WordPress Plugin Guidance:** Tele asking about Rank Math LLM features. Need formal company stance on which WordPress plugins to recommend and which LLM-powered features to endorse. Aida submitting Linear ticket to director team.
+
+**Witness EMI Assignment:** Panzer responsible for assigning Editorial Management Instance. Assignment pending this week; Sydney to follow up. Elementum platform onboarding stalled without EMI.
+
+**Tavis Client Responsiveness:** Client non-responsive on "what we heard" document and weekly sync setup. Becerra added to syncs to improve responsiveness; team planning to build artifacts proactively to maintain momentum.
+
+### Client-Specific Status Updates
 
 | Client | Status | Key Notes |
 |--------|--------|-----------|
@@ -123,53 +142,60 @@ Rex has a completed technical SEO audit that's flagged as critical to their succ
 
 ---
 
-## Open Questions
+**CheckThat Pricing & Scope:** (To be addressed in SF workshop, Feb 3-7.) How do we structure pricing tiers when clients request 500+ evaluation-stage prompts? Do we charge per-prompt, tiered volumes, or flat add-on fee? Who owns final prompt selection—should clients provide keyword lists for us to convert, or do we recommend prompts from GrowthX analysis? How do we migrate clients from legacy Scrunch imports to new standardized system without disruption?
 
-**CheckThat Pricing & Scope:** How do we structure pricing tiers when clients request 500+ prompts? Who owns final prompt selection—client-provided lists vs. GrowthX recommendations? How do we handle transition from Scrunch imports to new system?
+**Client Delay & Deadline Extension Policy:** CRV case study—client had bronchitis, we continued production with grace. But case-by-case approach doesn't scale. Need formal policy: What triggers deadline extensions? Who approves? How do we communicate to other clients? How do we balance revenue impact with relationship goodwill?
 
-**Deadline Extension Policy:** Formal policy needed for client delays (e.g., when client has bronchitis). Case-by-case approach not sustainable as team scales.
+**Blaxel Listicle Strategy Validation:** Does writing listicles (e.g., "best LLMs for coding") where Blaxel is featured throughout but not listed as direct option align with search intent and audience expectations? Meeting today (1/29) to confirm with client.
 
-**Blaxel Listicle Topics:** Can we write listicles (e.g., "best LLMs for coding") where Blaxel isn't listed directly but featured throughout and in conclusion? Aligned with search intent for audience?
+**Brex Scope & Sign-Off Timeline:** Awaiting Friday decision-maker meeting (SVP marketing; attendee name TBD) to finalize engagement scope, deliverables, and sign-off. Currently positioned as Yellow (awaiting clarity).
 
-**Brex Decision Timeline:** Awaiting Friday decision-maker meeting (Alex or above) to finalize scope and sign-off.
+**Tavis Client Responsiveness & Escalation:** Client non-responsive on "what we heard" document and weekly sync setup. How long do we wait (currently 1+ week) before escalating internally or proactively building artifacts to keep momentum? Becerra now added to syncs to improve responsiveness.
 
-**Tavis Client Responsiveness:** Non-responsive client on "what we heard" and weekly sync setup—how long do we wait before proactive escalation?
+**Rank Math & WordPress SEO Plugin Guidance:** Tele client asking about Rank Math LLM text features. Need formal company stance on which WordPress SEO plugins we recommend to clients, which LLM-powered features we endorse, and which we advise against. Aida to submit Linear ticket to director team for guidance.
 
-**Rank Math Plugin Guidance:** Formal company stance needed on WordPress SEO plugins and LLM text features for client recommendations.
+**Witness EMI Assignment:** Panzer responsible for assigning Editorial Management Instance. Assignment pending this week; Sydney to follow up. Without EMI, onboarding to Elementum platform stalled.
 
 ---
 
 ## Action Items
 
 ### William Leborgne (GrowthX CEO)
-- Collect team feedback on sprint improvements via Slack/DM
-- Draft initial prompt selection guidelines from transcript (to be expanded by Ada)
-- Establish formal deadline extension policy for client delays
-- Communicate expectation-setting framework to Turnstile
+- Collect team feedback on sprint improvements via Slack/DM within the next few days
+- Draft initial prompt selection guidelines from this transcript (to be expanded by Aida into full team guide)
+- Establish formal deadline extension policy for client delays (address case-by-case inconsistency)
+- Communicate expectation-setting framework and "growth pain" phase explanation to Turnstile
+- Deliver Daylight artifacts to Kathy before end of day
 
-### Kathy Lam (Content Lead)
-- Confirm Blaxel content meeting outcomes and topic approach
-- Complete Daylight content strategy
-- Double-check Blaxel on listicle positioning strategy (best LLMs for coding, etc.)
+### Kathy Lam (GrowthX Content Lead)
+- Confirm Blaxel content meeting outcomes and listicle topic approach during meeting today/tomorrow
+- Complete Daylight content strategy (targeting completion tomorrow)
+- Double-check Blaxel on listicle positioning strategy (best LLMs for coding, AI agents) to ensure alignment with search intent
 
-### Aida Knezevic (Operations)
-- Expand prompt selection guidelines into full team methodology guide
-- Nudge Navon (Nima) about Loom video before Monday meeting
-- Submit Linear ticket to director team for Rank Math plugin stance
-- Prepare Witness kickoff and track EMI assignment status
-- Schedule meeting with Rex to present content calendar and technical SEO audit
+### Aida Knezevic (GrowthX Operations)
+- Expand prompt selection guidelines into full team methodology guide (incorporating William's transcript summary)
+- Nudge Navon (contact: Nima) about Loom video and phase one summary before Monday 8am meeting
+- Submit Linear ticket to director team requesting formal guidance on Rank Math and WordPress SEO plugin stance
+- Prepare Witness kickoff agenda and track EMI assignment status (waiting on Panzer)
+- Schedule meeting with Rex to present content calendar and technical SEO audit findings
+- Add Becerra to Tavis syncs moving forward
 
-### Nathalie Schrans (Delivery)
+### Nathalie Schrans (GrowthX Delivery)
 - Document Blaxel topic concerns in meeting notes for client discussion
+- Continue keyword research and competitive analysis for Parloa
+- Coordinate CMS walkthrough setup for Parloa (scheduled for next week)
 
-### Hassan Rashid (Analytics)
-- Integrate general prompts (Ramp request) into CheckThat
-- Align keyword research output with general prompts for next week articles
+### Hassan Rashid (GrowthX Analytics)
+- Integrate general prompts (Ramp request from Victoria) into CheckThat
+- Align keyword research output with general prompts for next week's articles
 
-### Sydney Arin Go (Editorial Lead)
-- Get Rex calibration article ready before call
-- Follow up with Panzer on EMI assignment for Witness
-- Encourage Witness client onboarding to Elementum platform
+### Sydney Arin Go (GrowthX Editorial Lead)
+- Get Rex calibration article to production-ready status before tomorrow's call with client
+- Follow up with Panzer on EMI assignment for Witness and encourage Elementum platform onboarding
+- Encourage Witness client to get on Elementum platform ahead of kickoff
+
+### Valentina Giraldo Morales (GrowthX Operations Support)
+- [No specific action items recorded]
 
 ---
 
@@ -177,9 +203,9 @@ Rex has a completed technical SEO audit that's flagged as critical to their succ
 
 **Valentina Giraldo Morales:** This meeting is being recorded.
 
-(Brief introductions—Valentina joining from Colombia.)
-
 **William Leborgne:** Okay, heads up for everybody—Ada and I will be in San Francisco next week to workshop how we run sprints. We want to capture what's working, what we need to improve, and integrate changes from Sydney's promotion to lead editor and Nathalie's project management ideas. I've been documenting improvements over the last month and a half, but I'm opening this to the whole team. If you see things we should run more smoothly—in processes, communication, ME/EMS collaboration—please DM or Slack me over the next couple days. That input will help us build a stronger system. Also, for future meetings, please add notes beforehand to the tracker—it helps me prepare. All right, let's dig in. Starting at Blaxel.
+
+### Client Updates
 
 **Blaxel:** Huge turnaround—published 7 blogs. Meeting today/tomorrow with Kathy and Ada to review content topics and demo CheckThat. Nathalie flagged a topic concern about listicles (best LLMs for coding, AI agents) where Blaxel wouldn't be listed as direct option—need to confirm this approach aligns with their search intent expectations. They're green overall.
 
@@ -189,13 +215,11 @@ Rex has a completed technical SEO audit that's flagged as critical to their succ
 
 **Ramp:** Published 5 articles; Cash Flow Desk being cited in AI answers. Victoria requesting general prompts—Hassan added to CheckThat, will align keyword research next week.
 
-**CheckThat Prompt Methodology:** William and Ada discussed systematizing prompt selection. Ada's approach: convert target keywords to Claude prompts with examples, focus on evaluation-stage high-intent queries, filter overly generic terms. William will draft initial guide from transcript; Ada will expand into full team methodology. Open question: pricing tiers for 500+ prompts.
-
 **Navon:** Ada sent Loom + phase one summary to Nima; will nudge before Monday 8am meeting. Status: Yellow-Green.
 
 **Panther:** Calibration article approved, GA4 access obtained, dashboard coming. Adding custom prompts to CheckThat. Status: Green.
 
-**CRV:** Green status, everything delayed. Hassan working on 3 articles, awaiting feedback on calibration article. Client has bronchitis—continuing production with understanding. (Policy discussion: case-by-case deadline extensions; keep engine running.)
+**CRV:** Green status, everything delayed. Hassan working on 3 articles, awaiting feedback on calibration article. Client has bronchitis—continuing production with understanding.
 
 **Rex:** Content strategy approved, calendar ready for tomorrow's call. Technical SEO audit completed—critical to success. Sydney securing calibration article. Status: Green.
 
@@ -211,62 +235,50 @@ Rex has a completed technical SEO audit that's flagged as critical to their succ
 
 **Witness:** Ada prepared kickoff agenda, filling content OS. EMI assignment pending (Panzer responsible). Sydney to follow up and encourage Elementum onboarding. Status: Yellow.
 
----
+### CheckThat Prompt Methodology Discussion
 
-**End of Meeting**
+**William Leborgne:** Ada and I discussed systematizing prompt selection. Ada's approach: convert target keywords to Claude prompts with examples, focus on evaluation-stage high-intent queries, filter overly generic terms. William will draft initial guide from transcript; Ada will expand into full team methodology. Open question: pricing tiers for 500+ prompts.
 
-**William Leborgne:** Yeah, okay, got it. Cool. Sounds good. Really green. Do you guys remember the movie 5? What the heck? I just had a brain fart. Never mind. What is that movie? Okay, never mind. Talon 1.
+### Detailed Segment: Parloa & Daylight
 
-**Kathy Lam:** We presented the content strategy this week. They approved most of the content clusters and we added a new one. We shared all the artifacts that we created and then we're working on one content refresh as the calibration article. And then thank you, William for covering for me while I'm gone.
+**Kathy Lam:** We presented the content strategy at Parloa this week. They approved most of the content clusters and we added a new one. We shared all the artifacts that we created and then we're working on one content refresh as the calibration article. Thank you, William for covering for me while I'm gone.
 
-**William Leborgne:** Yep. Okay, great. This is good. Super parloa. We've received feedback on the artifacts yesterday. Everything's looking good. Natalie, I believe you're working on the keyword research and competitive analysis this week. We've got the CMS walkthrough set up next week. The product deep dive is still pending. I did just hear that they're trying to get it done next Wednesday. It's just complicated with a time difference. They're also interestingly, trying to do product deep dive with us and their paid agency at the same time. So I'm not sure how I feel about that, but I understand them wanting to try and make the most of their time. Broadly speaking. It's looking decent. We have a meeting with them actually today to kind of check in on everything, but yeah, it's looking good. And then next week is day. Did we have this kick? Oh, we have this kickoff this week. Yeah. How are we looking on daylight?
+**William Leborgne:** For Parloa, we've received feedback on the artifacts yesterday. Everything's looking good. Nathalie, I believe you're working on the keyword research and competitive analysis this week. We've got the CMS walkthrough set up next week. The product deep dive is still pending—they're trying to get it done next Wednesday, but it's complicated with the time difference. They're doing the product deep dive with us and their paid agency at the same time, which is interesting. But I understand them wanting to make the most of their time. Overall looking decent. We have a meeting with them today to check in on everything.
 
-**Kathy Lam:** Good. We did both the kickoff and the deep dive and then, yeah, the next step is to just generate artifacts and then get the content strategy out. And I'm wondering if I'm hoping to create the content strategy tomorrow. So I'm just wondering when the artifacts might be complete. Is Ade here on this call?
+**Kathy Lam:** Good on Daylight—we did both the kickoff and the deep dive. The next step is to generate artifacts and then get the content strategy out. I'm hoping to create the content strategy tomorrow. When might the artifacts be complete? Is Aida here on this call?
 
-**Aida Knezevic:** Please say yes.
+**Aida Knezevic:** Yes.
 
-**Kathy Lam:** If not, I'll just reach out.
-
-**William Leborgne:** Yes, I I reply to you on the channel. I'll get them before you tomorrow.
+**William Leborgne:** I'll reply to you on the channel. I'll get them before you tomorrow.
 
 **Kathy Lam:** Okay, awesome. Thank you.
 
-**William Leborgne:** Yeah, no problem.
+**Aida Knezevic:** One thing to note—Kathy's no longer in California. She's in Hong Kong. So it's already tomorrow for her.
 
-**Aida Knezevic:** One thing to note a Kathy's no longer in California. She's in Hong Kong. So she's it's already tomorrow for her.
+**William Leborgne:** What's the future like?
 
-**Kathy Lam:** I'm time traveling.
+**Kathy Lam:** I was going to be hopeful and say hopefully better.
 
-**Sydney Arin Go:** Okay.
+### Closing Discussion: Tavis & Witness
 
-**Valentina Giraldo Morales:** We're in the same time zone now.
+**William Leborgne:** Tavis—we're a little behind because we sent them the "what we heard" document. We're waiting for responses. We're also waiting for responses on setting up the weekly sync and deep dive. The client has been a bit non-responsive this week. Is Becerra on the call?
 
-**William Leborgne:** What's the future like? Same. That's sad.
+**Aida Knezevic:** I don't believe she was added. Let me add her to the syncs moving forward.
 
-**Kathy Lam:** I was gonna be hopeful and say hopefully better.
+**William Leborgne:** Beautiful. Thank you. Can we get ahead and start building some of the artifacts based off the "what we heard" document so we don't miss the rest of this week?
 
-**Nathalie Schrans:** More dated.
+**Aida Knezevic:** Yeah, Becerra is pretty fast. I talked to her earlier this week.
 
-**William Leborgne:** Great. Tavis, we're a little behind because we sent them the what we heard. We're waiting for responses. We're also waiting for responses on setting up the weekly sync of the deep dive. So, yeah, the client has just been a bit non verbal this week. I'm wondering is, I'm sorry, I'm going to miss say this Becerra. Becerra. Is she on the call?
+**Sydney Arin Go:** She did say she was going to work on that this week before the weekend.
 
-**Aida Knezevic:** I don't believe she was added to the calls. Let me just add her to the syncs moving forward.
+**William Leborgne:** Great. I've got to jump to the Ramp call. I don't think there's much more for us to cover today unless I'm missing something, Ada?
 
-**William Leborgne:** Oh, beautiful. Thank you. Well, I was going to see if we can just still try and get ahead and start building some of the artifacts based off of the what We Heard document just so we don't miss the rest of this week.
-
-**Aida Knezevic:** Yeah, Becerra is pretty, pretty fast, so I think she'll be able to get that to you. I talked to her earlier this week.
-
-**Sydney Arin Go:** And she did say that she was going to work on that this week before weekend.
-
-**William Leborgne:** Great. Super. That's. I gotta jump to the ramp call. But I also don't think there's much more for us to cover today unless I'm missing something, Ada?
-
-**Aida Knezevic:** No, I'm working on Witness. Just I prepared the their kickoff call agenda. I'm also filling out their content OS with like the key competitor keywords and URLs. We still don't have an Emmy assigned, so I don't know if we sorted that out.
+**Aida Knezevic:** No, I'm working on Witness. I prepared their kickoff call agenda and I'm filling out their content OS with key competitor keywords and URLs. We still don't have an EMI assigned.
 
 **William Leborgne:** That is on Panzer.
 
-**Sydney Arin Go:** He did say he's going to get to it this week, so it will happen. But yeah, I'm going to poke him again and also tell him to get on elementum so that we can hope, hopefully have that slightly earlier.
+**Sydney Arin Go:** He did say he's going to get to it this week. I'm going to poke him again and also tell him to get on Elementum so we can hopefully get that slightly earlier.
 
-**William Leborgne:** Okay, great. Appreciate that, Sydney. Super. All right. Thank you all. Appreciate it.
+**William Leborgne:** Okay, great. Appreciate that, Sydney. Thank you all.
 
 **Kathy Lam:** Bye bye.
-
-**Valentina Giraldo Morales:** The recording has.

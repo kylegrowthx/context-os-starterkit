@@ -1,0 +1,526 @@
+# CRV <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-25
+time: 18:01 UTC
+duration: 35 minutes
+organizer: team@growthxlabs.com
+participants: Erik O'Brien (GrowthX), William Leborgne (GrowthX), Palo Alto Four (external)
+fathom_recording_id: 125334410
+fathom_url: https://fathom.video/calls/578565770
+share_url: https://fathom.video/share/KTiPY7nfWYsaGDq-73uUAs61SbzsSFRS
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+speaker_note: "Palo Alto Four" is a representative from Palo Alto Four, a design/web development firm. Krista and Alexis from CRV (the external participants listed in original metadata) did not actively speak in this meeting.
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and CRV reviewed initial Phase 1 content performance, celebrating exceptional early wins: 9 articles delivered 100k+ impressions, Page 1 Google rankings for high-intent founder keywords (e.g., "best VC for startup founders"), and citations in Claude's AI responses. Erik O'Brien transitions to primary engagement manager for Phase 2, which will scale publishing velocity to ~20 articles/month while a critical rebrand issue—Google/Claude citing the old "Charles River Ventures" name instead of "CRV"—must be resolved during CRV's upcoming Vercel site migration to protect SEO and brand consistency.
+
+---
+
+## Context
+
+CRV is a venture capital firm working with GrowthX on a B2B content marketing engagement to solve the "who is CRV" problem—building brand awareness among founders and making CRV the top-of-mind choice for technical founders seeking Series A/B capital. Phase 1 (8 weeks) established core content artifacts, ran a 50k+ keyword competitive analysis across competitors (A16z, Sequoia, First Round), and integrated analytics platforms (CheckThat for AI visibility, Looker for SEO tracking). William Leborgne (GrowthX) led the strategy sprint and initial delivery; Erik O'Brien now assumes the engagement manager role for Phase 2. Palo Alto Four (a design firm) is handling CRV's simultaneous rebrand and website migration from their current Webflow site to a new Vercel build, which introduces a technical blocking issue around URL redirects and brand name citations in AI tools.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Phase 1 performance (100k+ impressions, Page 1 SEO in 8 weeks) provides strong proof point for founder/VC-focused AEO strategies; CRV is significantly ahead of typical client benchmarks at comparable stage
+- Phase 2 velocity target (~20 articles/month) requires stable publishing workflow; Palo Alto Four's content review SLA and feedback loop must be formalized to prevent bottlenecks
+- CheckThat platform access for CRV client is now a critical action item; this unblocks real-time AI visibility monitoring and supports data-driven optimization decisions by end of March
+
+**To CheckThat:**
+- CRV represents a flagship AEO case study: Claude is already citing CRV by name for specific value props ("excels with technical founders"), and content appears in Google AI Overviews alongside tier-1 competitors (A16z, Sequoia) within 8 weeks
+- The "Charles River Ventures" citation issue is a technical blocker for content visibility; new web dev firm's solution will inform CheckThat's guidance on brand name handling during migrations
+
+**To GrowthX Business Development:**
+- CRV is expanding engagement scope (Phase 2 = 2-3x velocity); expansion risk: rebrand/migration delays could push go-live past Phase 2 optimization window (end of March) and weaken content momentum
+- Reference potential is high if Phase 2 delivers expected scaling; CRV's willingness to adopt technical founder persona and imagery/photoshoot wish lists suggests strong partnership health
+
+---
+
+## Overview
+
+- **Strong Early Results:** 9 articles generated 100k+ impressions and secured Page 1 Google rankings for high-intent keywords (e.g., "best VC for startup founders"), a rare outcome for a new content strategy.
+- **AI Visibility Wins:** Content is appearing in Google AI Overviews and is cited by Claude for CRV's specific value proposition ("excels with technical founders"), directly addressing the "who is CRV" problem.
+- **New Point of Contact:** Erik O'Brien becomes the primary contact for Phase 2, which will focus on increasing publishing velocity to \~20 articles/month and optimizing strategy based on performance data.
+- **Rebrand Blocker:** A critical issue is that Google/AI tools are citing the old "Charles River Ventures" name. This must be resolved by the new web dev team during the upcoming Vercel site build to protect brand consistency and SEO.
+
+---
+
+## Key Topics
+
+### Initial Performance Review (Phase 1)
+
+  - **Context:** Initial setup included core content artifacts, a 50k+ keyword competitive analysis, and analytics platform integration (Check That, Looker).
+  - **Impressions & Clicks:**
+      - 9 articles → 100k+ impressions.
+      - Top performers: "Shareholder vs. Stakeholder," "SAFE vs. Convertible Note," "Angel Investor vs. Venture Capitalist."
+      - **Insight:** High CTR is the ultimate goal, as it signals strong user intent. The "Angel Investor" article's high CTR with fewer impressions is a positive sign of resonance.
+  - **SEO & AI Visibility:**
+      - **SEO:** The "Shareholder vs. Stakeholder" article ranks on Page 1 for 36 keywords and appears in AI Overviews.
+      - **AI:** Content appears in Google AI Overviews alongside top competitors (A16z, Sequoia). Claude specifically cites CRV for its value prop ("excels with technical founders"), a key strategic win.
+
+### Phase 2 Strategy & Operations
+
+  - **Goal:** Maintain strategy while increasing publishing velocity to \~20 articles/month.
+  - **Optimization:** By late March, data from \~20 articles will enable optimization based on cluster performance (impressions, clicks, engagement).
+  - **New POC:** Erik O'Brien is the primary contact.
+      - **Communication:** Use the public Slack channel for all requests to ensure visibility for the full GrowthX team (Erik, William, Hassan).
+      - **Review Workflow:** Tag Erik in docs or the channel upon review completion to signal readiness.
+  - **Content Direction:**
+      - **Technical Focus:** Prioritize technical examples (e.g., Anthropic, OpenAI) and job titles (e.g., VP of Engineering) to better target the founder persona.
+      - **Imagery:** First-party photos are a "stretch goal" for brand authenticity, not an SEO priority. GrowthX will provide a wish list for the next photoshoot.
+
+### Rebrand & Web Dev Migration
+
+  - **Problem:** Google and AI tools are citing the old "Charles River Ventures" name, not the current "CRV."
+  - **Context:** A new site is being built on Vercel, a CRV-backed company. This requires a new web dev firm, as the current one (Underbelly) specializes in Webflow.
+  - **Action:** The new web dev firm must provide a technical solution for the old name issue during the migration to protect SEO and brand consistency.
+
+---
+
+## Action Items
+
+**Erik O'Brien (GrowthX)**
+- Grant Palo Alto Four direct access to CheckThat analytics platform
+- Pin CheckThat and Content OS links in Slack channel for CRV team visibility
+- Send Palo Alto Four client benchmarks showing impressions/clicks/CTR by performance stage (for context vs. other GrowthX clients)
+- Create and share Google Doc with photo wish list for next CRV photoshoot (hand/founder photos, candid office scenes, meetups—prioritize technical/founder imagery over generic stock)
+
+**Palo Alto Four (External)**
+- Ask final 2 web dev candidates: How will you solve the "Charles River Ventures" vs. "CRV" citation issue during Vercel migration? (Google/Claude citing old name on new site)
+- After selecting new web dev firm, introduce them to Erik & William Leborgne (GrowthX), notify current web dev (Underbelly), and begin site migration
+- Share new logo/brand files in Slack channel for Erik & William (for future photo shoot/imagery guidance)
+- Post in Slack with specific technical title examples (VP of Engineering, CTO, etc.) and sample companies (Anthropic, OpenAI) to anchor Phase 2 content direction; tag Erik & William for feedback
+
+**William Leborgne (GrowthX)**
+- Send Palo Alto Four screenshot of Claude citation where CRV is correctly named and cited for "excels with technical founders" value prop
+
+---
+
+## Transcript
+**Palo Alto Four:** Like vibe where you look outside.
+**Palo Alto Four:** there and you're like, oh, no joke.
+**Erik O'Brien:** Definitely today.
+**Erik O'Brien:** It's very sunny, but about 30 degrees.
+**Palo Alto Four:** Well, stay warm.
+**Palo Alto Four:** At least you're not dealing with the like East Coast shutdown.
+**Erik O'Brien:** Yeah, I'm glad we avoided the snowpocalypse.
+**Palo Alto Four:** Yeah, yeah.
+**Palo Alto Four:** Well, nice to meet you.
+**Erik O'Brien:** Yeah, you as well.
+**William Leborgne:** Yeah, so excited to be able to share with you some results.
+**William Leborgne:** But yeah, just wanted to, as we usually do, just check in if there's anything top of mind for you.
+**William Leborgne:** I'm going to share my screen real quickly.
+**William Leborgne:** So yes, anything top of mind for you.
+**Palo Alto Four:** I was excited I had my homework done and then realized I have four more to review.
+**Palo Alto Four:** So I had like one hour of like, I'm caught up.
+**Palo Alto Four:** I'm back in the game.
+**William Leborgne:** But I will try and get to those, if not today, maybe tomorrow.
+**William Leborgne:** Okay.
+**Palo Alto Four:** Try and cruise through those remaining four.
+**Palo Alto Four:** And then I saw the list for.
+**Palo Alto Four:** Next week.
+**Palo Alto Four:** So hopefully I'm not keeping us too backed up.
+**Palo Alto Four:** I'm doing my darndest to get us back on track.
+**William Leborgne:** Yeah, honestly, when I share with you the titles of the ones that we're working on, that is always an opportunity for you to say, hey, actually, I'd rather...
+**Palo Alto Four:** this, doesn't feel right, or...
+**William Leborgne:** Yeah, or you have access to your content OS, so you can always jump in and say, like, actually, I'd really prefer us to prioritize this piece instead, for instance.
+**William Leborgne:** So let me just jump in so we can look at it together.
+**William Leborgne:** But here's where you have all of the different assignments that are either in the works or in the backlog, and you can always jump back in and say, actually, this piece, let's put this to later and then work on this other one first, because it feels like a higher priority for me.
+**Palo Alto Four:** And we pinned that, right?
+**Palo Alto Four:** Or did we not pin that in the group?
+**William Leborgne:** The content OS, I can't recall if we pinned it.
+**William Leborgne:** If we didn't, I can certainly do that.
+**William Leborgne:** Yeah, let me...
+**William Leborgne:** Put it in there and pin it.
+**William Leborgne:** Here we go.
+**Palo Alto Four:** just because, like, just for a little, like, visualization into my world, I've got video, social.
+**Palo Alto Four:** So in addition to, like, writing content, I also have, like, a million other projects.
+**Palo Alto Four:** So it's always easier for me if my groups have what I need to check within their slacks instead of having to, like, dig through email or tab land.
+**Palo Alto Four:** And so if it's possible to save that there, I think we had saved the, is it the calibration article there?
+**William Leborgne:** Don't always know how to.
+**William Leborgne:** Oh, here we go.
+**William Leborgne:** Pin to channel.
+**William Leborgne:** Boom.
+**Palo Alto Four:** Cool.
+**William Leborgne:** Okay.
+**William Leborgne:** So now you've got it pinned.
+**Palo Alto Four:** That's, my one, like, if I'm, like, I know there's something somewhere I ought to be checking or use as a dashboard, that's always a great place to, like, basically group save it for me.
+**William Leborgne:** Yeah, totally.
+**Palo Alto Four:** Cool.
+**William Leborgne:** Okay.
+**William Leborgne:** Anything else top of mind before we dig in?
+**Palo Alto Four:** I think the only other thing would be with Eric joining the team, just, like, how I should best work with the team.
+**Palo Alto Four:** Members, like who's in the Slack, who to lean on for what would probably be a great place to start.
+**Palo Alto Four:** Just so I, you know, shouldn't be bugging you and should be bugging Eric or Hassan, like that I'm routing appropriately and not nudging someone who does not need to be nudged.
+**William Leborgne:** Yeah, no, for sure.
+**William Leborgne:** I'm happy to answer, but also if you want to take this one, Eric.
+**Erik O'Brien:** Yeah, absolutely.
+**Erik O'Brien:** So heading into next week, I will be your main point of contact.
+**Erik O'Brien:** So as we transition out of the strategy sprint, I'll be kind of full-time engagement manager.
+**Erik O'Brien:** So if there's anything that you need, anything you have questions on, I'll be your person to kind of ping in the Slack channel.
+**Palo Alto Four:** So you're my one throat to choke.
+**Erik O'Brien:** Exactly.
+**Palo Alto Four:** And then Slack is the best way for us to communicate versus email, unless there's something like, I know William and Hassan have noticed, like sometimes they need to pull in like our web dev team or something like that.
+**Palo Alto Four:** So certainly can't do that.
+**William Leborgne:** So, it's good for it to be in the public channel because he will read all that stuff.
+**William Leborgne:** He will absolutely engage with it and look at it.
+**William Leborgne:** But Erik is your, I love that throat to choke.
+**Palo Alto Four:** He's my human.
+**William Leborgne:** He's your human.
+**Palo Alto Four:** That's better.
+**Palo Alto Four:** Yes.
+**Palo Alto Four:** And then I guess another question too is just, is it fine for me to just leave comments in the doc or do I need to tag Erik or anyone or just leave the comments in the doc and you guys will find them, I assume.
+**Erik O'Brien:** Yeah, think the easiest way is probably to tag me in the doc or in the channel once you've done the review.
+**Erik O'Brien:** That way we know it's complete because sometimes people get in there, do half a review, get sidetracked with something else.
+**Palo Alto Four:** I've been trying to, what I've been doing so far, Erik is just commenting in the group, like this article with the link.
+**Palo Alto Four:** that's great.
+**Palo Alto Four:** So, if that works, then I can just keep that going forward, in which case the whole team knows I am done with it.
+**Palo Alto Four:** But I think the only thing was like, it sounds like if there are higher level overall nuances.
+**Palo Alto Four:** So in other words, I think I made the comment this week of like, hey, do we really want to mention Salesforce or Adobe when maybe we want to mention kind of companies that are top of mind for technical folks right now in terms of like Anthropic or OpenAI, where it's more of a like overall and general across all of our articles.
+**Palo Alto Four:** I might want to mention that nuance within the Slack channel rather like make the comment in the doc, but also do that within the channel.
+**Palo Alto Four:** To your point, William, if like Hassan or someone else wants to get that as an overall sense of vibe with like going forward.
+**Palo Alto Four:** But yeah, otherwise, as long as that works for you guys, I'm happy to just keep that up and say, hey, you know, ARR article with link done.
+**Palo Alto Four:** And kind of use the Slack channel as the to-do list.
+**Palo Alto Four:** So then also you guys can just pop in there and see where I'm tracking on things rather than.
+**William Leborgne:** Reading through inboxes and emails and all that jazz, if that works.
+**Erik O'Brien:** Yeah, sounds great.
+**Palo Alto Four:** Cool.
+**William Leborgne:** Yeah, great.
+**William Leborgne:** Awesome.
+**William Leborgne:** Well, let's dig into the summary of what we've been able to accomplish so far, which I have to say, and you're very aware of this, I'm not saying anything that's not, we are a little behind on the publishing, but even with having said that, we have some pretty incredible results.
+**William Leborgne:** And I think that is very much because of CRVs already, its presence and its branding, which has allowed us to see these pretty awesome results.
+**William Leborgne:** So I'm going to give this to you so you can look through it in more depth.
+**William Leborgne:** I'm going to zip through some of it that you are already aware of, but it's good to just, again, level set, what have we accomplished so far in these two months?
+**Palo Alto Four:** Sounds good.
+**William Leborgne:** So first off, we worked together to get these core content artifacts set up.
+**William Leborgne:** I think we're really happy with them.
+**William Leborgne:** We're getting the quality.
+**William Leborgne:** And the structure that we want.
+**William Leborgne:** We also did a pretty in-depth competitive research with over 50,000 keywords from our competitors, which allowed us to then create these core content strategy clusters, which is what we're working off of at this point.
+**William Leborgne:** We set up our analytics and AI visibility.
+**William Leborgne:** Let me actually, have this in a different tab.
+**William Leborgne:** I don't think I've actually shown this to you yet, but this is your Check That.
+**William Leborgne:** So Check That is our own AI analytics platform.
+**Palo Alto Four:** Did I show this to you already, Krista?
+**Palo Alto Four:** We went through it when you were out and came to the office and you guys gave me an overview, but you were like, it's not populated yet, but this is kind of what it's going to look like.
+**Palo Alto Four:** and I had the questions about like, is this percent good or bad?
+**William Leborgne:** And yeah, that's right.
+**William Leborgne:** I went over this with you with, with George as well.
+**William Leborgne:** Yep.
+**William Leborgne:** So now it has been populated and it's been running for, for a little while.
+**William Leborgne:** So here you can see like top level position, sentiment, citation share.
+**William Leborgne:** We can go.
+**William Leborgne:** can see top top
+**William Leborgne:** Much more deep into this afterwards, but the good news is that, as I said, we've been running this for a while.
+**William Leborgne:** We have a bunch of prompts that are set up, some that are broad, like branding ones, and then some very specific, like broader ones that a potential investor, not investor, potential CEO is what I'm trying to say, would be looking for when they're, you know, debating what VC to work with.
+**William Leborgne:** So here you have all this information.
+**Palo Alto Four:** this is up and running, can we also pin this to the channel as well?
+**Palo Alto Four:** Yes.
+**Palo Alto Four:** thing I should consider my...
+**William Leborgne:** Yeah, and Erik, just so you know, we haven't given her direct access yet.
+**William Leborgne:** I'm sorry?
+**Palo Alto Four:** It's my growthx vegetables, like that pin list, it's like, these are your veggies.
+**William Leborgne:** Love it.
+**William Leborgne:** Yeah, one just action item, Erik, is that we need to get her direct access to this so she can play around with it.
+**Erik O'Brien:** Gotcha.
+**William Leborgne:** Cool.
+**William Leborgne:** So, yeah, so you've got the check.
+**William Leborgne:** We've also got a Looker dashboard where we can be able to track just broader like SEO, branded, not branded, which you'll be able to then see how we're progressing.
+**William Leborgne:** This is still nascent because, again, we only have those nine articles up and running.
+**William Leborgne:** But by the time you have about 20 articles, you're going to start to really see this growth.
+**William Leborgne:** That being said, as I mentioned at the start, in terms of early results, we are seeing this pretty significant growth, which is really great to see.
+**William Leborgne:** Over 100,000 impressions on the nine articles that we've produced so far.
+**William Leborgne:** The click-through rate is pretty small, but that's fairly normal.
+**William Leborgne:** We're still growing this space.
+**William Leborgne:** But that being said, we have a number of articles here that you can see.
+**William Leborgne:** The shareholder versus stakeholder, save versus convertible note, who offers the best early stage VC funding, angel investor versus venture capitalist, and then how to evaluate if a VC is founder-friendly.
+**William Leborgne:** All of these are now starting to do really well.
+**William Leborgne:** I'll just give you a little example here.
+**William Leborgne:** This is the stakeholder versus shareholder.
+**William Leborgne:** It's ranking for 36 keywords.
+**William Leborgne:** It is in the AI, and the people also search, and then it also appears in AI overviews, and it's ranking on the first page for a bunch of different keywords, which is, again, really awesome to see.
+**William Leborgne:** This is uncommon.
+**William Leborgne:** I want to be clear.
+**William Leborgne:** In terms of, sorry, William, it's uncommon in terms of the number of keywords that, like, target keywords that we're populating for, or what is making it uncommon?
+**William Leborgne:** What makes it uncommon is that CRV had zero content, and to immediately, after just publishing a couple of articles, be on the first page, that is uncommon.
+**Palo Alto Four:** Like, in other words, usually you're, like, starting off page 15, working your way up, and, like, maybe partially through the engagement, you're starting to get into page 1, 2, 3.
+**William Leborgne:** Exactly.
+**Palo Alto Four:** But, like, not your first at bat to be on page 1.
+**William Leborgne:** Yeah, that's extremely uncommon.
+**Palo Alto Four:** And then, um...
+**Palo Alto Four:** I think I included you guys on the trail with Underbelly, which, Erik, is background for you.
+**Palo Alto Four:** Underbelly is our current web dev, and William knows this already.
+**Palo Alto Four:** We're going through a rebrand, and we are doing a new site build, and we're actually building on Vercel, which is a CRV-backed company.
+**Palo Alto Four:** And the current web devs we have are more experts in Webflow.
+**Palo Alto Four:** They're not really Vercel-specific shops.
+**Palo Alto Four:** So I don't think it's going to come as a surprise when we say we're building the website on Vercel, that that's why we're parting ways.
+**Palo Alto Four:** But for now, that current web dev team does not know that we're building a new site.
+**Palo Alto Four:** They do not know a new site is coming.
+**Palo Alto Four:** But in regards to that question of it seems like for some people, like, William, I know you took your screenshot.
+**Palo Alto Four:** was showing up Charles River Ventures.
+**Palo Alto Four:** When Anthony from Underbelly took a screenshot, it was CRV.com.
+**Palo Alto Four:** I'm going to pose this to the two web devs that we're looking at.
+**Palo Alto Four:** I'm hoping to make a decision on...
+**Palo Alto Four:** One of those, if not this week, next week, so we can start doing the site build, at which time I'm going to let Underbelly know, hey, there's a new kid in the neighborhood.
+**Palo Alto Four:** You're going to need to help them out as we do this migration, but we're going to be separating ties with them.
+**Palo Alto Four:** I'm hoping I get a better response from one of the new web devs instead of just, like, go update every old out-of-date article with your current name, which I don't feel like can be the right solution.
+**Palo Alto Four:** It just doesn't make sense to me.
+**Palo Alto Four:** I don't know if that sounded odd to you as well, William, or?
+**William Leborgne:** Totally.
+**William Leborgne:** It definitely did.
+**William Leborgne:** didn't make a lot of sense to me because, I mean, in some cases, they're talking about the actual citation where it's saying the full Charles River Ventures.
+**William Leborgne:** But we're also talking, you're also talking about where it appears on the meta description of our own article.
+**William Leborgne:** That should be something we control on the website.
+**William Leborgne:** That is not, has nothing to do with other websites.
+**William Leborgne:** So either they misunderstood or they just.
+**Palo Alto Four:** Or they don't know.
+**Palo Alto Four:** So I will, I'm hopeful that maybe we'll get a better answer from one of the new firms we work with and we'll be able to get that course corrected.
+**Palo Alto Four:** But I find it hard to believe that any company that rebrands forever is tied to their old brand.
+**Palo Alto Four:** And like, you're not going to be able to get an article updated from eight years ago because they used the right name back then.
+**William Leborgne:** Like, yeah, yeah.
+**William Leborgne:** No, totally.
+**William Leborgne:** And yeah, I think it's worth definitely talking to these other folks and seeing what we can do.
+**William Leborgne:** And, you know, maybe Eric and I can also take this offline and see if there's anything that we can do on our end.
+**Palo Alto Four:** Cool.
+**Palo Alto Four:** And I'll keep you guys in the loop.
+**Palo Alto Four:** Like once I do pick a firm, we'll introduce you to them because of course, we're going to want to make sure that all the content we have is migrated and indexed appropriately and we're not losing any of the good SEO juice that we have.
+**Palo Alto Four:** So once I do make a determination on that new web dev team, I will make sure that you guys are intro'd so it's not happening to you and you're like, wait.
+**Palo Alto Four:** Okay, cool.
+**Erik O'Brien:** Just for context, I also have clients that are much farther along in their journey with GrowthX that are less than nine articles published.
+**Palo Alto Four:** You're saying I've been doing an okay job with my homework, even though I went on.
+**Erik O'Brien:** You're on par.
+**Erik O'Brien:** Yeah, you're doing great.
+**Palo Alto Four:** Awesome.
+**William Leborgne:** All right, cool.
+**William Leborgne:** So as I mentioned, those are some of our top performing articles.
+**Palo Alto Four:** We're getting a lot of impressions, which is really great to William, sorry.
+**Palo Alto Four:** One more question about this little group being here.
+**Palo Alto Four:** So I noticed it just so happens that both the clicks and the impressions column are sorted appropriately in terms of clicks and impressions, high to low.
+**Palo Alto Four:** And it just happens that it's high and low for both of those.
+**Palo Alto Four:** When we're talking about top performing, does one of those metrics matter more than the other?
+**Palo Alto Four:** In other words, if angel investors had way more clicks, would you be bumping that up even though it had fewer impressions?
+**Palo Alto Four:** I'm just curious.
+**Palo Alto Four:** I'm I'm curious.
+**Palo Alto Four:** I'm curious.
+**Palo Alto Four:** And the hierarchy of the things that we're looking at, I notice it just happens to be they're nicely aligned in terms of high to low for both metrics.
+**Palo Alto Four:** But I was curious if having clicks with lower impressions is a better kind of gauge for us to ideally look at, meaning there's fewer people, but it's resonating really well, or how I should be looking at that?
+**William Leborgne:** You nailed it.
+**William Leborgne:** Yep.
+**William Leborgne:** Obviously, so there's two pieces to this.
+**William Leborgne:** One is, as you're starting, impressions really count.
+**William Leborgne:** In the later stages, impressions count a little less.
+**William Leborgne:** But in the early stages, you definitely want impressions because that's starting to bring these signals in that, oh, this is an active website driving a lot of traffic.
+**William Leborgne:** We're going to start to show it to more people, and the algorithm starts to understand that.
+**William Leborgne:** However, you nailed it in that, like, broadly speaking, we want the click-through rate, which is basically impressions divided by clicks, to be as high as possible.
+**William Leborgne:** Meaning that when somebody is...
+**William Leborgne:** is...
+**William Leborgne:** Panning through the results, they see your article, and there's a much higher likelihood of them clicking on it.
+**William Leborgne:** So why is this working so well in comparison to this, which has, you know, I don't know how many, like seven or eight times the number of impressions, but basically the same number of clicks, right?
+**William Leborgne:** So is this something that we want to maybe optimize?
+**William Leborgne:** That's something maybe, again, for the future, we need a lot more data to make these informed decisions.
+**William Leborgne:** So, and by data, I mean, we need more content to be able to compare and contrast.
+**Palo Alto Four:** To see which clusters are resonating more and then dive deeper into maybe some of those clusters.
+**Palo Alto Four:** If we notice a pattern with like one of the clusters that's really outperforming, then okay, dig further into that.
+**William Leborgne:** Yeah, exactly, exactly.
+**William Leborgne:** But yes, broadly speaking, go ahead.
+**Palo Alto Four:** In terms of, you said one, it's not normal to be on page one or start.
+**Palo Alto Four:** I think we had talked about like week four, we might start seeing some AI results.
+**Palo Alto Four:** So the fact that we're already seeing.
+**Palo Alto Four:** AI results is very promising this early on.
+**Palo Alto Four:** In terms of impressions and clicks, what is kind of normal, Erik, you were saying you have other clients who are slackers and not as much on top of their homework.
+**Palo Alto Four:** For the average GrowthX client, what are they usually seeing in terms of impressions and clicks?
+**Erik O'Brien:** Yeah, that varies wildly.
+**Erik O'Brien:** So some of it's based off the kind of keywords that have different volumes in which people kind of review and search those on a monthly basis, which also ties into are we matching the intent of the keyword with people that are searching for it?
+**Erik O'Brien:** And so I'd say like these numbers that we're looking at right now are really great for the first eight weeks of kind of publishing content.
+**Erik O'Brien:** Obviously, we'll see these kind of get blown up as we continue to publish.
+**Erik O'Brien:** We'll continue to see kind of compounding kind of click.
+**Erik O'Brien:** Absolutely.
+**Erik O'Brien:** But I think for now, you guys are probably a little ahead of schedule and ahead of par for kind of what I see across my clients that are in the first eight to 10 weeks of publishing.
+**Erik O'Brien:** I can look in and get some actual numbers for you of kind of like what I see across clients that I have in different stages from like people that are three months in, people that are six months in, and get you kind of a better frame of reference of kind of what we can expect over the coming months.
+**Palo Alto Four:** Yeah, think just having kind of a rough benchmark of in terms of even if it's more of like a range of, you know, eight to 30 clicks is pretty normal or actually healthier.
+**Palo Alto Four:** Just kind of having a rough gauge of the clicks and impressions that we're seeing compared to what you see with other clients, knowing they're in different spaces, optimizing for different keywords, etc.
+**Palo Alto Four:** But just kind of having a rough sense of how we're doing, I think would be healthy.
+**Palo Alto Four:** And then William, too, in terms of like positioning this to the team.
+**Palo Alto Four:** I I would think that one of the ways to say this is like, even with looking at these, what, five articles, we've basically, within the past few weeks, netted, gotten at least the brand name.
+**Palo Alto Four:** So if people didn't click, they at least saw CRV has content, which is something we were not doing three months ago, that we're seeing at least, you know, 100,000 plus eyeballs are now seeing the name CRV associated with content in our space, even if they didn't click through.
+**Palo Alto Four:** And then you're looking at clicks, like this is actual traffic that's now going to the website that we weren't getting before.
+**William Leborgne:** Is that about an accurate way to portray that?
+**William Leborgne:** I would say exactly that.
+**William Leborgne:** And I would add a little bit more to this because there's something that we talked about right at the beginning, which is, and this is sort of quoted from our conversation, you want somebody who is unfamiliar with CRV to be familiar with CRV and make that decision.
+**William Leborgne:** Like, we're, we're,
+**Palo Alto Four:** We're doing that work ahead, right?
+**William Leborgne:** So like the who is the CRV problem is one of the core things that you're like, I want to fix this.
+**William Leborgne:** Well, the beautiful thing is the fact that we're ranking number one for best VC for startup founders, top rated VCs for founders, top rated series A VCs for seed stage growth.
+**William Leborgne:** This is exactly that, right?
+**William Leborgne:** So are we driving hundreds of or thousands of clicks to the website?
+**William Leborgne:** Not yet.
+**William Leborgne:** But the fact that we are, number one, like you said, eyeballs are falling on the CRV name when they type best VC for startup founders, whether or not they click is already great branding.
+**William Leborgne:** And in the cases that they do click, then again, that does that work for you.
+**William Leborgne:** That makes that conversation easier because they'll be like, oh, yeah, I saw that article.
+**William Leborgne:** I was exploring X, Y, and Z, and I saw CRV come up.
+**William Leborgne:** So we are actually like hitting that exact core goal that was one of the most important ones that you shared with me right at the beginning.
+**William Leborgne:** Again, in small bits, but it's...
+**William Leborgne:** Exactly the right direction that we were hoping for.
+**Palo Alto Four:** Cool.
+**Palo Alto Four:** Great.
+**Palo Alto Four:** Super helpful.
+**William Leborgne:** Awesome.
+**William Leborgne:** Well, that kind of jumps me to that next section.
+**William Leborgne:** Cool.
+**William Leborgne:** And then lastly is AI visibility wins.
+**William Leborgne:** We kind of touched on this and you were saying, hey, this is great that we're already seeing this.
+**William Leborgne:** So this is coming up a lot in the AI overviews, the Google AI overviews.
+**William Leborgne:** And we're seeing right alongside some of those main competitors that we talked about, A16, Sequoia, Axel, they're all right there in their CRV in that answer for top Series A, VCs for companies seeking follow on Series B, so on and so forth.
+**William Leborgne:** So there's a lot of different ones where we're coming up directly in the answer next to those main.
+**William Leborgne:** In fact, in this case, we're coming up first before first round and benchmarking it and A16.
+**William Leborgne:** So really exciting to be able to see this.
+**William Leborgne:** This already started to happen with just less than 10 articles up and up and running.
+**Palo Alto Four:** Cool.
+**Palo Alto Four:** And then we're thinking.
+**Palo Alto Four:** Like a ChatGPT or others that should soon follow what we're seeing with Google.
+**William Leborgne:** Yeah, it is already starting to happen.
+**William Leborgne:** So let's look at one that is not specifically asking.
+**William Leborgne:** Here, this one, for instance.
+**William Leborgne:** This one where we're, whoops, I did not mean to do that.
+**William Leborgne:** There we go.
+**William Leborgne:** So what are the top VC options for first-time founders?
+**William Leborgne:** Here you can see the Google AI overviews.
+**William Leborgne:** Oh, we are not.
+**William Leborgne:** Okay, I think we need to look at the.
+**Erik O'Brien:** Yeah, one in ChatGPT on the 21st.
+**William Leborgne:** Oh, there we go.
+**William Leborgne:** Thanks.
+**Erik O'Brien:** At least the citation.
+**William Leborgne:** Yeah, yeah.
+**William Leborgne:** Okay, so here we can see the citation.
+**Palo Alto Four:** and it actually is linking directly to CRV here.
+**Palo Alto Four:** Yay!
+**Palo Alto Four:** Someone got up to speed.
+**William Leborgne:** Yeah, exactly.
+**William Leborgne:** So here you can see this is a ChatGPT response where it's asking that and we are getting cited.
+**Palo Alto Four:** in that response.
+**Palo Alto Four:** Cool.
+**William Leborgne:** So, yeah, so you're already starting to see this as the early stages, but we are already starting to see that happen.
+**Palo Alto Four:** Although the one thing is, is like with this, that particular example, if I'm reading it quickly and correctly, is that we're cited as a source saying first round initialize Sequoia and A16 are good versus us being in it.
+**William Leborgne:** Yes.
+**Palo Alto Four:** So we still have work to do.
+**Palo Alto Four:** Got to start somewhere.
+**William Leborgne:** Exactly.
+**Palo Alto Four:** Exactly.
+**William Leborgne:** Yes.
+**William Leborgne:** But we can, yeah, let's see if there's any more that we can look at that this is, I think a lot of this is going to be AI overviews because it looks like the AI overviews are the ones.
+**William Leborgne:** Oh, no, here we go.
+**William Leborgne:** Claude.
+**William Leborgne:** There we go.
+**Palo Alto Four:** Awesome.
+**William Leborgne:** What are recommended VCs for first-time startup founders?
+**William Leborgne:** Boom.
+**William Leborgne:** CRV excels with technical founders.
+**Palo Alto Four:** Exactly what you were interested in.
+**William Leborgne:** We value 24-hour decisions, direct partner engagement.
+**Palo Alto Four:** And first round is also coming up, but afterwards.
+**William Leborgne:** Yes, exactly.
+**William Leborgne:** So this is a great example of us really going in right direction.
+**Palo Alto Four:** Actually, if you could send me a screenshot of that one, that would be great.
+**Palo Alto Four:** And I think, Erik, as we're working together, William's been doing a great job of as he sees examples where it's really kind of exactly on target with where we're hoping to head.
+**Palo Alto Four:** Would be super useful.
+**Palo Alto Four:** For now, I'm going to try and avoid ones that have the Charles River Ventures in it because I know with the team, it's just going to be like, let's fix that.
+**Palo Alto Four:** And so until we get that figured out, and I'm hoping that if you guys, Erik, if you don't have any additional solutions on that, that maybe this new web dev team does.
+**Palo Alto Four:** But for now, I'll probably sway more in the direction of a response like this that has her name correct, the website correct, just so I don't have to deal with...
+**Palo Alto Four:** That separate can of worms that I know we're working on would be great.
+**William Leborgne:** But you've been doing a great job of sending those through when you see them too.
+**William Leborgne:** Awesome.
+**William Leborgne:** Cool.
+**William Leborgne:** Okay, I'm going to pass it over to you, Erik, to talk a little bit about Phase 2, if that's okay?
+**Erik O'Brien:** Yeah, absolutely.
+**Erik O'Brien:** Do you me to keep sharing or do you want to just chat?
+**Erik O'Brien:** We could probably just chat.
+**William Leborgne:** Yeah, right.
+**Erik O'Brien:** You can read some of this later.
+**Erik O'Brien:** But, yeah, I think going forward, we are changing teams, but we don't want to change the strategy.
+**Erik O'Brien:** It's kind of the TLDR.
+**Erik O'Brien:** We want to kind of continue what's working, continue to get publishing velocity up into kind of our typical 20 per month.
+**Erik O'Brien:** And then once we reach about, you know, probably another month in, so kind of end of March, we should have enough signals to really tell kind of which clusters are doing the work for us.
+**Erik O'Brien:** Both from kind of what William was showing, you know, looking at impressions, looking at clicks, and then as we continue to gather more data, looking at what's the engagement rate on those articles that are getting a lot of views.
+**Erik O'Brien:** So those are kind of just some early data points that we look at specifically as we get started in the first few months.
+**Erik O'Brien:** And then I think as we continue to move forward, we'll adjust strategy, adjust kind of content plans based off data.
+**Erik O'Brien:** Obviously, if there's new priorities that come up for you guys or anything shifts from kind of a go-to-market persona, we'll make adjustments for those as well.
+**Erik O'Brien:** But again, really, the strategy has been set through the strategy sprint.
+**Erik O'Brien:** And so we're really trying to just now execute and kind of go through kind of the growth motion of getting things published and then tracking what's working and doubling down in those areas.
+**Palo Alto Four:** Cool.
+**Palo Alto Four:** And then I did get the final files, like our new logo file, our new, like what I'm basically going to be.
+**Palo Alto Four:** I don't think I've sent that to you guys yet, so I can probably share that in the Slack channel, but that is what the new website will look like, hopefully, when it's built.
+**Palo Alto Four:** So I can send that along to you guys so you have it.
+**Palo Alto Four:** Another thing I wanted to ask, and I don't think it's like an end-all, be-all because we're using the stock photography now, but I would imagine that there might be some extra SEO juice that we can garner if we're using our own imagery and maybe not stock photography, but I might have that wrong.
+**Palo Alto Four:** And so I was wondering if that might be something like the next time we do a photo shoot with the team, that if you guys want me to look for kind of, whether it's images of hands of our founders, some of the top founders, or like things that we can use in our articles that would be our own imagery content that would differentiate it from stock.
+**Palo Alto Four:** And if that's more of a vanity thing of like, oh,
+**Palo Alto Four:** It's our photography, or if it actually helps in terms of moving the needle and the LLMs are looking at that as like new photo, not on the web before.
+**Palo Alto Four:** So I was curious if that's something we should or shouldn't be mindful of, and if so, like how high of a priority that is or isn't.
+**Erik O'Brien:** Yeah, I'd say, at least from my knowledge, that doesn't play a huge kind of role as far as SEO or AEO.
+**Erik O'Brien:** What I do think it could help with is for those first-time founders or other CEOs that are kind of falling upon your content, being able to see a little bit of the company culture is probably a little bit more of like, oh, these are real people.
+**Erik O'Brien:** I can actually reach out to that specific person that's in this article.
+**Erik O'Brien:** So I think that will kind of elevate for those readers that are getting to it, not just the bots and the LLMs.
+**Erik O'Brien:** So I definitely think that's something that we can explore as you guys continue to kind of produce some of that, you know, first-party content.
+**Erik O'Brien:** I will say, like, candid photos.
+**Erik O'Brien:** Thanks.
+**Erik O'Brien:** Those are really good, like just office photos, people working together, know, meetups, kind of anything like that would be great for kind of just sliding into some of our content going forward.
+**Erik O'Brien:** Until then, we can continue using the stock photography.
+**Erik O'Brien:** But, yeah, as you guys continue to kind of produce those images, we can definitely fold those in.
+**Palo Alto Four:** Cool.
+**Palo Alto Four:** Then I will consider that more of a stretch goal for us than a, like, imminent goal.
+**Palo Alto Four:** And in other words, don't let the content train lag in an effort of trying to get that mapped up.
+**Palo Alto Four:** If you guys wanted to create kind of like a wish list Google Doc of, like, if we could get photos, it'd be great to have ones of this, this, this.
+**Palo Alto Four:** That'll help me when I'm having, I usually bring a photographer in, like, twice a year.
+**Palo Alto Four:** And so I can make sure I get some of those photos that would be a map with the new look and feel, but also what you guys are hoping for.
+**Palo Alto Four:** And maybe we can start mixing a dash of those in at some point.
+**Palo Alto Four:** As it's
+**Palo Alto Four:** Stretch Gold.
+**Palo Alto Four:** And then the only other thing that I was thinking of, and this was something I got, I made one edit in one of the recent articles, but I didn't call it out as a group thing, and I can certainly drop it in the Slack channel, is I think as much as we can focus on technical titles would also be helpful.
+**Palo Alto Four:** So I noticed some examples in the article where we're like, oh, we hired, you know, great VP of sales, and I introduced them to like the founder to four candidates.
+**Palo Alto Four:** If and when we can, it might make more sense to be like introduce them to a VP of engineering contact.
+**Palo Alto Four:** So sticking a little or a CTO that might be a great fit for the exec team.
+**Palo Alto Four:** I think those like dabbling of technical titles might also help us out a little bit.
+**Palo Alto Four:** So in addition to the like Adobe Salesforce versus Anthropic OpenAI, I might say that if we're looking at titles, when and where we can, we skew maybe a little more on the technical side and helping with technical stuff.
+**Palo Alto Four:** Um, less so with whether it's sales, marketing, um, or business development, legal, CFO, right?
+**Palo Alto Four:** Other, like if we have to, and we want to bring up a few other examples, totally fine.
+**Palo Alto Four:** Um, but just maybe another thing for us to think about is kind of an overall content ethos.
+**Erik O'Brien:** Absolutely.
+**William Leborgne:** Cool.
+**Palo Alto Four:** Well, I'm excited to hear that we're already starting to see some results a little bit earlier, um, than, than expected.
+**Palo Alto Four:** And William has certainly enjoyed working with you and tell Hassan I say the same, even though I don't get to say it to him in person.
+**Palo Alto Four:** And Eric really looking forward to working with you.
+**Palo Alto Four:** Yeah, I'll make sure after the call, I go ahead and pop in the latest, you know, stuff that we're going to be sending over to the web dev crew.
+**Palo Alto Four:** And as soon as I do sign a contract with web dev and get that up and rolling, I'll be sure to, to loop you guys in as well.
+**Palo Alto Four:** And in the meantime, as I'm evaluating my final two, I will pose that question to them of, Hey, we're seeing this.
+**Palo Alto Four:** Thank you.
+**Palo Alto Four:** Something you could help us with.
+**Palo Alto Four:** How would you suggest tackling that problem?
+**William Leborgne:** And maybe one of the two of them have an answer for that.
+**William Leborgne:** Yeah, that sounds great.
+**Palo Alto Four:** Cool.
+**Palo Alto Four:** All right.
+**William Leborgne:** Thanks, guys.
+**William Leborgne:** Honestly, it was great.
+**William Leborgne:** I just want to say that.
+**William Leborgne:** Like, I know we're saying goodbye.
+**William Leborgne:** I'm not completely gone if you ever need me.
+**William Leborgne:** And Eric can always tap on my shoulder.
+**William Leborgne:** But it was really a pleasure to work with you over the last eight weeks.
+**William Leborgne:** And I'm super stoked that you're going to continue working with GrowthX.
+**Palo Alto Four:** And we're going to keep growing things.
+**Palo Alto Four:** Awesome.
+**William Leborgne:** Sounds like you're only a cabin in the woods away.
+**William Leborgne:** Exactly.
+**Palo Alto Four:** All right, guys.
+**William Leborgne:** Enjoy the rest of your day.
+**William Leborgne:** Thanks.
+**Palo Alto Four:** Bye-bye.

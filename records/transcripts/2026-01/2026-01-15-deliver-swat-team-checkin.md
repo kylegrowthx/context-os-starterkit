@@ -7,7 +7,7 @@
 | date | 2026-01-15 |
 | duration_minutes | 77 |
 | organizer | Bridget McGillivray (GrowthX Finance/Ops) |
-| participants | Matthew Panzarino (GrowthX Delivery), Kyle Poyar (GrowthX), Andi Bailey (GrowthX Production), Bridget McGillivray (GrowthX Finance/Ops), Ella Dillon (GrowthX Operations/Delivery), Marisol (GrowthX) |
+| participants | Matthew Panzarino (GrowthX VP Delivery), Kyle Poyar (GrowthX Deliver Operations), Andi Bailey (GrowthX Production), Bridget McGillivray (GrowthX Finance/Ops), Ella Dillon (GrowthX VP Operations), Marisol (GrowthX Operations) |
 | source | fireflies |
 | recording_url | [Fireflies Transcript](https://app.fireflies.ai/view/01KEG95TX0XXTW0M49MQ9PA323) |
 | enriched_on | 2026-03-01 00:00 UTC |
@@ -50,7 +50,7 @@ The Deliver swat team is GrowthX's operational hub for content delivery—EMs (e
 
 **Time Doctor Integration**
 - Time Doctor rolling out this week; integration into Atlas dashboards and capacity planning tools to follow
-- Matthew Panzarino and Leah will collaborate on API-based dashboard development for easy access and reporting
+- Matthew Panzarino (GrowthX VP Delivery) and Leah will collaborate on API-based dashboard development for easy access and reporting
 - All 70+ deliverables will have pipelines rolled out in Atlas this week to enable weekly tracking
 
 **Capacity Planning Tool**
@@ -63,20 +63,20 @@ The Deliver swat team is GrowthX's operational hub for content delivery—EMs (e
 - Matthew will document all escalations and use patterns to identify systemic vs. individual performance issues
 
 **ADA Role Codification**
-- Marisol will lead documentation effort capturing ADA's approach through call transcripts, with focus on week-by-week playbook (weeks 1-8)
-- George will draft interview guides capturing ADA's strategy methodology, client questions, and objection handling
+- Marisol (GrowthX Operations) will lead documentation effort capturing ADA's approach through call transcripts, with focus on week-by-week playbook (weeks 1-8)
+- Kyle Poyar (GrowthX Deliver Operations) will draft interview guides capturing ADA's strategy methodology, client questions, and objection handling
 - Team will conduct shadowing sessions (Marisol with William/Kathy) to validate materials against real execution
 
 **Client Goal-Setting Playbook**
-- 90-minute working session scheduled (day after meeting) with Ella, Panzer, Bridget, and others to codify early goal-setting practices
+- 90-minute working session scheduled (day after meeting) with Ella Dillon, Matthew Panzarino, Bridget McGillivray, and others to codify early goal-setting practices
 - Output: explicit playbooks defining contract scope vs. optional value-add, linked to revenue/conversion impact
 
 **Publishing Automation**
 - Publishing across all headless CMSs (started with WebFlow) must be automated to eliminate manual bottleneck
-- Discussion with Andy, Matthew, and Kirkland to prioritize; Suleiman is key capacity constraint
+- Discussion with Andi Bailey (GrowthX Production), Matthew Panzarino, and Kirkland (Production Engineering) to prioritize; Suleiman is key capacity constraint
 
 **Bridget's Leadership Initiative**
-- Bridget to propose increasing kickoffs from 2 to 3 per week to compensate for churn and improve Q1 results
+- Bridget McGillivray to propose increasing kickoffs from 2 to 3 per week to compensate for churn and improve Q1 results
 - Proposal to be shared in leadership channel with capacity impact assessment
 
 ---
@@ -120,7 +120,7 @@ Time Doctor is rolling out this week to track delivery times from Atlas to clien
 
 ### Content Strategy and EM Role Development
 
-There's a pressing need to codify ADA's hybrid role and develop clear playbooks to train EMs on content strategy, meeting rhythms, and client communications. George suggested creating a detailed interview guide capturing ADA's content strategy approach, meeting prep, objections handled, and tactical steps across weeks one through eight. The team agreed that what's missing are week-by-week agendas and talk tracks with common client objections and responses.
+There's a pressing need to codify ADA's hybrid role and develop clear playbooks to train EMs on content strategy, meeting rhythms, and client communications. Kyle Poyar (Deliver Operations) emphasized the importance of creating detailed interview guides capturing ADA's content strategy approach, meeting prep, objections handled, and tactical steps across weeks one through eight. The team agreed that what's missing are week-by-week agendas and talk tracks with common client objections and responses.
 
 ### Process Improvements and Automation
 
@@ -139,7 +139,7 @@ Matthew offered to be the single point of contact for EMs and MEs to report deli
 ## Action Items
 
 ### Ella Dillon (GrowthX VP Operations)
-- Coordinate with Andy Bailey to operationalize ADA and EM documentation and training flows with Marisol and George
+- Coordinate with Andi Bailey to operationalize ADA and EM documentation and training flows with Marisol and Kyle Poyar
 - Add Matthew Panzarino for visibility on strategic session addressing client churn and "what's next" planning
 - Oversee integration of Marcel Santilli's leadership documentation into actionable training tied to jobs to be done
 - Facilitate EM and ME communications and strategic partnership improvements
@@ -154,11 +154,13 @@ Matthew offered to be the single point of contact for EMs and MEs to report deli
 ### Marisol (GrowthX Operations)
 - Lead documentation of ADA processes using call transcriptions and content, including capturing objections, agendas, and training content for ADA's 1-8 week client journey meetings
 - Shadow William and/or Kathy to validate training materials against real-time needs, identify gaps, and work with ADA on content improvements
-- Collaborate with Leia and George to create explicit workback plans linking training materials to jobs to be done and existing Notion content
+- Collaborate with Kyle Poyar (Deliver Operations) and others to create explicit workback plans linking training materials to jobs to be done and existing Notion content
 
-### George (GrowthX Strategy/Content)
+### Kyle Poyar (GrowthX Deliver Operations)
 - Draft interview guides to capture ADA's strategy and approach from an EM perspective, including real questions asked during client meetings
+- Develop comprehensive training materials capturing ADA's week-by-week meeting approach, agendas, talk tracks, and objection handling
 - Participate with Marisol, ADA, Kathy, and William in finalizing training workback plan and validating documentation output
+- Lead efforts to reduce hybrid work streams and clarify EM vs. ME role boundaries in ADA training codification
 
 ### Andy Bailey (GrowthX Production)
 - Assist in compiling ADA call transcripts and identifying common questions and objections for training agendas
@@ -988,7 +990,7 @@ Matthew offered to be the single point of contact for EMs and MEs to report deli
 
 **Ella Dillon:** All right.
 
-**Ella Dillon:** How about you, George?
+**Ella Dillon:** How about you, Kyle?
 
 **Ella Dillon:** Any call outs for us?
 
@@ -1238,7 +1240,7 @@ Matthew offered to be the single point of contact for EMs and MEs to report deli
 
 **Ella Dillon:** This is the questions that allows you to go deliver the thing that Marcel was just saying.
 
-**Ella Dillon:** So structurally and tactically, how would you want to ladder off this to create what you're saying, George?
+**Ella Dillon:** So structurally and tactically, how would you want to ladder off this to create what you're saying, Kyle?
 
 **Ella Dillon:** Around the ADA questions, the sprint stuff, because he has the net.
 
@@ -1334,7 +1336,7 @@ Matthew offered to be the single point of contact for EMs and MEs to report deli
 
 **Ella Dillon:** I feel like we have a lot of the right stuff we just haven't operationalized it into, like, what is our rhythm of the business, like the meetings we're going to have, the agendas, it's going to be the templates, the question, like the next step of stuff.
 
-**Ella Dillon:** But so, George, just to hear, like triple thumbs up to everything you're saying now, I'm just getting into the how we do it to make sure that it's tied together versus accidentally in parallel of all the other work or duplicate like one additional asset versus just building off the assets we've already created.
+**Ella Dillon:** But so, Kyle, just to hear, like triple thumbs up to everything you're saying now, I'm just getting into the how we do it to make sure that it's tied together versus accidentally in parallel of all the other work or duplicate like one additional asset versus just building off the assets we've already created.
 
 **Ella Dillon:** So.
 

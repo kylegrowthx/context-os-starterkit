@@ -160,15 +160,15 @@ Location preference: SF or NYC for sales leadership. Physical presence matters f
 ## Action Items
 
 ### Ashley Paston (General Catalyst)
-- Send follow-up email to coordinate in-person lunch in SF
+- Send follow-up email to coordinate in-person lunch in SF with Marcel
 - Source and introduce VP of Sales candidates (SF/NYC preferred for community building)
-- Source and introduce Strategic Finance candidates (not too senior)
+- Source and introduce Strategic Finance candidates (middle-level, not C-suite)
 - Source and introduce VP of Marketing candidates
 
 ### Marcel Santilli (GrowthX)
-- Ship CheckThat AI (launching within one week)
-- Launch end-to-end platform with customer access (next month)
-- Open-source Output AI NPM package (next month)
+- Ship CheckThat AI (free AI visibility data tool)
+- Launch end-to-end platform with customer access
+- Open-source Output AI NPM package
 - Close credit facility
 - Continue active VP Sales search with Gia Cole Group
 - Prepare for capital raise decision discussion at end of Q2
@@ -202,8 +202,6 @@ Location preference: SF or NYC for sales leadership. Physical presence matters f
 Anyway, it's lovely to finally meet. I've heard amazing things about you from the whole Majora team. They love you. About me—I'm a partner at GC. I help lead our growth efforts alongside Vedanta. I've been investing for 10 years—here at GC, before that at Martech, and I started in consulting. I've always been fascinated with go-to-market. That's why I invested in Clay. With AI, there's so much optimization that's low-hanging fruit. People dismiss marketing as uninteresting, but this is genuinely the best use case for AI. It has incredibly clear ROI and tangible feedback. You forget there are massive companies like AppLovin in this space. I'm super excited about what you're doing with GrowthX. Tell me about you.
 
 **Marcel Santilli:** Well, it's great to connect. I've only heard good things about GC. Let me give you some quick background. I'm originally from Brazil—São Paulo—grew up in Texas.
-
-**Marcel Santilli:** Yeah yeah well so so lovely to connect and only have heard positive things about GC and so it's like but let's see quick background on me. I'm originally from Brazil, born and raised grew up in Texas.
 
 **Ashley Paston:** Where in Brazil?
 

@@ -1,0 +1,631 @@
+# SmithAI <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-18
+time: 18:30 UTC
+duration: 25 minutes
+organizer: team@growthxlabs.com
+participants: Maddy Martin, Andi Bailey
+fathom_recording_id: 123441912
+fathom_url: https://fathom.video/calls/570059796
+share_url: https://fathom.video/share/ivHr-xsW89d3PMGcc3xDNENpNi4Ar_bN
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Smith.ai aligned on a critical reporting overhaul to demonstrate ROI: moving from static Looker Studio snapshots to multi-month trend analysis that connects content production to traffic and Calendly bookings. Maddy outlined Smith.ai's dual funnel strategy (high-value sales-driven leads at ~$1k/mo vs. low-touch self-serve at ~$100/mo) to clarify which conversions matter most. The team also reviewed the CheckThat LLM visibility tool — flagged for refinement to focus on high-intent queries and addressed concerns about bot search bias and geo-tagging, with Usman assigned to curate prompts before re-inviting Maddy. Julian Wan is departing; Volodomir becomes the new technical contact for GA4 and event tracking.
+
+---
+
+## Context
+
+Smith.ai is a call answering and customer service automation company — a strategic client of GrowthX. The relationship is embedded in GrowthX's service delivery: Andi Bailey (GrowthX) and Maddy Martin (Smith.ai CEO) align quarterly on content strategy and reporting. This particular sync addresses a critical accountability gap: while GrowthX has been producing content for Smith.ai, current reports are static snapshots that don't connect content production to business outcomes (leads and conversions). Maddy needs transparency into ROI to justify the significant investment to leadership, especially given that Smith.ai's industry is booming — making it hard to separate GrowthX's impact from overall market tailwinds.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Reporting must move from Looker Studio snapshots to analyzed trend dashboards showing multi-month content production vs. traffic vs. conversion (Calendly bookings).
+- New technical contact is Volodomir (replacing Julian Wan at Smith.ai) for GA4 and Amplitude event tracking integration.
+- Reports need to layer in Smith.ai's dual funnel (sales-driven high-value vs. self-serve low-value), not treat all leads equally.
+
+**To CheckThat:**
+- Smith.ai values the new LLM visibility tool but requires prompt curation to focus on high-intent queries ("best call center") vs. low-value ones ("AI agents trained").
+- Maddy flagged concerns about bot search bias and geo-tagging methodology — Andi to provide technical details.
+- Action: Usman (junior analyst) to prune and curate the monitored prompts before re-inviting Maddy to the tool.
+
+**To GrowthX Business Development:**
+- Contract was recently re-signed; this sync signals strong relationship health and expansion potential (new tools, deeper analytics).
+- Maddy is explicitly concerned about proving ROI to leadership — fixing reporting could unlock upsell conversations around expanded content scope or premium analytics offerings.
+
+---
+
+## Overview
+
+- **Reporting Must Show ROI:** Reports must shift from simple snapshots to trend analysis, connecting content to leads to justify the significant investment to leadership.
+- **Focus on High-Value Leads:** Prioritize sales-driven leads (\~$1k/mo plans) over low-touch self-serve buyers (\~$100/mo plans).
+- **Check That Tool Needs Refinement:** The new LLM monitoring tool requires curation to focus on relevant, high-intent queries (e.g., "best call center") and filter out low-value ones.
+- **New Data Contact:** Volodomir is the new technical contact for GA4 and event tracking, replacing Julian.
+
+---
+
+## Key Topics
+
+### Reporting Gaps & New Requirements
+
+  - **Problem:** Current reports are static snapshots that don't connect activities to outcomes, making it hard to prove ROI.
+  - **Requirement:** Reports must show trends over several months to link content production to traffic and lead generation.
+  - **Specific Gaps:**
+      - **Context:** Show data relative to prior periods.
+      - **Attribution:** Connect traffic sources (keywords, referrals) to conversions.
+      - **Analysis:** Provide insights beyond raw data pulls.
+      - **Conversion Tracking:** Report on key events like Calendly bookings, not just generic clicks.
+
+### Smith.ai's Business Model & Lead Strategy
+
+  - **Dual Buyer Funnel:**
+      - **Sales-Driven:** High-value leads for white-glove service, generating \~$1,000/month plans.
+      - **Self-Serve:** Low-value buyers for smaller plans (\~$100/month).
+  - **Strategic Focus:** Prioritize sales-driven leads, as they represent the vast majority of revenue.
+  - **Pricing Test:** A/B testing the pricing page to feature annual plans, targeting more committed, larger small businesses.
+
+### Check That Tool Feedback
+
+  - **Tool Overview:** GrowthX's new tool monitors Smith.ai's visibility in LLM search results.
+  - **Feedback:** The tool needs refinement to focus on relevant, high-intent queries.
+      - **Example:** "best call center" is a high-value query; "AI agents trained" is low-value.
+  - **Action:** A junior analyst (e.g., Usman) should curate the monitored prompts.
+  - **Technical Questions:**
+      - How does the tool avoid search bias (e.g., from a bot's own history)?
+      - Does the bot simulate geo-tagged searches?
+
+### Data & Tracking Infrastructure
+
+  - **Smith.ai's Data Stack:**
+      - **Analytics:** GA4, Amplitude.
+      - **CRM:** Salesforce (captures Calendly UTMs).
+  - **Lead Capture:** Calendly bookings are the primary lead source; post-purchase surveys are secondary.
+  - **New Contact:** Volodomir is the new technical contact for GA4 and event tracking.
+
+---
+
+## Action Items
+
+**Andi Bailey (GrowthX)**
+- Update reporting: add multi-month trend bars; add conversion definitions; add top-5 traffic sources; include older content
+- Email Maddy re: Check That prompt methodology (geo, bias); then prune prompts and invite Maddy
+- Define and implement inflection-point tracking w/ Maddy (Amplitude, Calendly, Salesforce)
+
+---
+
+## Transcript
+**Maddy Martin:** This meeting is being recorded.
+
+**Andi Bailey:** Hey Maddy, how are you?
+
+**Maddy Martin:** Good, how are you, Andi?
+
+**Andi Bailey:** Good, it's been a while.
+
+**Andi Bailey:** No, it hasn't been a guys are crazy busy.
+
+**Maddy Martin:** One biggest issues right now is that our entire industry is booming.
+
+**Maddy Martin:** So it's hard to know if like the water's rising for all the boats or if our boat is higher than the rest.
+
+**Maddy Martin:** So and also we were having some problems with Scrunch.
+
+**Maddy Martin:** Like that software just doesn't seem to be reliable anymore.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** So that was giving us sort of a loss in visibility that maybe there's another tool that you have access to that you could use to supplement that.
+
+**Maddy Martin:** But I think historically when I've looked at like any SEO agency reports on progress made, it's more of a historical context than a snapshot.
+
+**Maddy Martin:** And that's where, you know, I focus my feedback for Joe is just can we can we get more bars for previous months?
+
+**Maddy Martin:** You know, can we show a little bit more of trend versus snapshot?
+
+**Maddy Martin:** And I don't think that's been really fully resolved.
+
+**Maddy Martin:** You know, things like engagement on page, it's more about plugging in with Julian to the events.
+
+**Maddy Martin:** Unfortunately, Julian's actually given his notice, so he's going to only be here for another, like, week and a half.
+
+**Maddy Martin:** I think you guys already have access to GA4.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** And Vol, Volodomir, very familiar with our entire event tracking system.
+
+**Maddy Martin:** So he can be the point of contact for anything of that nature without Julian.
+
+**Maddy Martin:** So, and we'll be making, you know, a backfill hire.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** But, but what I would ask is that we just have more visibility into, like, what is the, the, you know, outcome production value of the work.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** Relative to where we recently were.
+
+**Andi Bailey:** And historically were.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** So that's like, that's the main thing is how well can we communicate to leadership that the significant investment that we're making here is having a meaningful impact, not just on eyeballs, but actually on driving leads.
+
+**Maddy Martin:** Because what we've seen is a substantial increase, actually, in the number of self-serve buyers who we are very light touch with, but we haven't invested deeply in that aspect of our product or company, really.
+
+**Maddy Martin:** Like historically, we've always been a service, like very high white glove service type company, and the price sort of matched that buyer.
+
+**Maddy Martin:** I mean, we're one of the more expensive providers on the market, right?
+
+**Maddy Martin:** And I'll just take a moment to explain this to you, because I think it's going to really help you understand the reporting that is critical for GrowthX here.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** Most of the business runs through.
+
+**Maddy Martin:** Through the sales team, right?
+
+**Maddy Martin:** The vast majority of revenue every month is generated by the sales team.
+
+**Maddy Martin:** And if anyone is spoken to, it's the sales team.
+
+**Maddy Martin:** There's no way to get, you know, straight to the onboarding team, et cetera.
+
+**Maddy Martin:** Except if you buy online and you check out with a smaller plan, typically it's our smallest plan that people are buying when they haven't talked to sales, right?
+
+**Maddy Martin:** And they can get started themselves, but our help docs and the navigation is not really conducive to that, right?
+
+**Maddy Martin:** And that's what I mean by like our product has not really been up to speed on that.
+
+**Maddy Martin:** And as a result, you know, these are folks who the onboarding team will reach out to, but we're not investing deeply in because it's $100 a month versus $1,000 a month on the plans that we're able to generate through the sales team.
+
+**Maddy Martin:** Right.
+
+**Maddy Martin:** So in a day.
+
+**Maddy Martin:** In addition to that, we're also now selling annual plans, and we've changed over, well, we have a beta test on our pricing page right now between showing our monthly plans and just different levels of them versus showing our lowest monthly plan and an annual plan.
+
+**Maddy Martin:** Okay.
+
+**Maddy Martin:** So that's going well so far.
+
+**Maddy Martin:** And that reflects the type of buyer that we're looking for, which is a more committed, serious, slightly larger small business buyer, right?
+
+**Maddy Martin:** They don't have solo or just one employee, they've got employees, right?
+
+**Maddy Martin:** So I think GrowthX has had, it's clear that, you know, you have had a big impact.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** And we just re-signed the contract, right?
+
+**Andi Bailey:** I'm not having that kind of conversation.
+
+**Maddy Martin:** I'm just saying, like, in terms of transparency of impact, that's really where I think we have an opportunity.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Gap in attribution sort of.
+
+**Maddy Martin:** like, well, here's a snapshot of how much traffic we drove in January, but it's like relative to what?
+
+**Maddy Martin:** To December, November, October?
+
+**Maddy Martin:** I'd like to at least go a few months back and say, let's have a bar chart of content production volume and traffic volume, right?
+
+**Maddy Martin:** Like publication date is January.
+
+**Maddy Martin:** How much traffic do we get in January?
+
+**Andi Bailey:** Or the next, right?
+
+**Maddy Martin:** Like that's more of the connection that I'd like for you to make so that I don't have to manually go in and try and do that math myself, you know?
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** I mean, I see that she's got like some last click attribution.
+
+**Andi Bailey:** I'm also curious, are you guys doing any like surveys at point of purchase for the people who are self-serving online?
+
+**Maddy Martin:** Like where did you hear about us?
+
+**Maddy Martin:** We do ask that question because we have a lot of partner referrals and other referrals that we need to keep track of.
+
+**Maddy Martin:** spend a lot of money on.
+
+**Maddy Martin:** Like a quarter million dollars a month on ads, right?
+
+**Maddy Martin:** But it's post-purchase because we've tried to streamline the purchase so much.
+
+**Maddy Martin:** So some of that data is incomplete.
+
+**Maddy Martin:** However, that is not going to tell us crystal clearly because often it's multi-channel attribution.
+
+**Maddy Martin:** Yeah, Where like they saw a Facebook ad and then they searched for us and they read a review and then they might say Google or they might say the Facebook ad.
+
+**Maddy Martin:** But it's unlikely that if they like found a blog post that they would immediately convert.
+
+**Maddy Martin:** They're probably going to be targeted then through the audience they became a member of by visiting our site, retargeting Facebook ads, right?
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Yeah, that makes it a little bit trickier, certainly.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Do you mind if we like look at...
+
+**Andi Bailey:** Kind of the conversions and what we're reporting now and talk through like how you'd want it to be different.
+
+**Andi Bailey:** Because I feel like we're like close but missing it.
+
+**Maddy Martin:** so I just want to.
+
+**Maddy Martin:** Right.
+
+**Maddy Martin:** There's no real conversions that are here.
+
+**Maddy Martin:** I mean, the event count, I actually don't even know what event you're tracking here.
+
+**Maddy Martin:** So what event are we, is it just global event count?
+
+**Maddy Martin:** Because that could be scroll depth, right?
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** Like if you, even if you make the comment on actually that chart, instead of, you know, just that one bullet.
+
+**Maddy Martin:** Like, yeah, what are conversions, the event count of 15 on that first landing page?
+
+**Maddy Martin:** I mean, I can see that the event name is Get Started Expedited Click, right?
+
+**Maddy Martin:** Right.
+
+**Maddy Martin:** I mean, we have that.
+
+**Maddy Martin:** Yeah.
+
+**Maddy Martin:** But that, that doesn't.
+
+**Maddy Martin:** doesn't tell us if there were any Calendly bookings, right?
+
+**Maddy Martin:** And it also doesn't tell us, like, well, relative to what, right?
+
+**Maddy Martin:** Like, so we can see that there was no change.
+
+**Maddy Martin:** Well, okay, like, are we saying that that's basically brand new?
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** And then the question is, okay, are these blog posts all new, new blog posts?
+
+**Maddy Martin:** Because, like, if all of those are new, then my question is, why is the content that we wrote for the last year not showing up here, right?
+
+**Maddy Martin:** Like, is it not productive?
+
+**Maddy Martin:** Or is there some filter on this that, that to me is curious.
+
+**Maddy Martin:** Like, I would expect that it's harder for, like, the net new content to show up so fast.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** And that it wouldn't be the top ranking thing here.
+
+**Andi Bailey:** Right.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** That we can definitely.
+
+**Andi Bailey:** You know what I mean?
+
+**Andi Bailey:** Yeah, yeah, I don't even think you need me to tell you that.
+
+**Andi Bailey:** It's not even a personal, Smith.ai thing.
+
+**Maddy Martin:** It's more like, is there a data or reports analyst at GrowthX who could look at this report and say, you know, the client really needs to know X?
+
+**Andi Bailey:** Yeah, yeah.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Yeah, I mean, because otherwise it's like, are the older articles actually compounding?
+
+**Andi Bailey:** Are they having an impact?
+
+**Andi Bailey:** Do we need to change them?
+
+**Maddy Martin:** Are we cannibalizing them, you know, or, and also which of those is part of the, the hub that we've been building and which, like, my, my concern is that when you just pull in from Looker Studio, that there's no analysis that's being done.
+
+**Maddy Martin:** And, and like, there needs to be that next layer of analysis instead of basically was just a screenshot, you know, like it's an interactive screenshot.
+
+**Maddy Martin:** That the context, you know, really matters.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** Okay, yeah.
+
+**Maddy Martin:** And then what's the contribution to those landing pages?
+
+**Maddy Martin:** Like, that would be my next question.
+
+**Maddy Martin:** Okay, so we show all the landing pages, we have a sense of, like, what's driving the most get started clicks.
+
+**Maddy Martin:** Okay, great.
+
+**Maddy Martin:** Well, how did, you know, of the top five pages, where's that traffic coming from?
+
+**Maddy Martin:** Either by keyword, by source, by referral, URL, whatever.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** You know, are those GEO, you know, is it LLMs?
+
+**Maddy Martin:** Or are they organic search?
+
+**Maddy Martin:** You know, what are they looking for?
+
+**Maddy Martin:** And does that indicate the level of intent that we were attempting from that page?
+
+**Maddy Martin:** Because keep in mind, a lot of these pages are just audience building for retargeting, and some of them are more mid-bottom funnel, right?
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Okay, well, I can show you at least what we're doing on Check That.
+
+**Andi Bailey:** know Joe, like, talked to you a little bit about that, because I think it will help with some of this in terms of...
+
+**Andi Bailey:** Like the pages that are showing up and converting to the prompts and what we're really focusing on in those prompts is like a lot of evaluation criteria and more bottom of funnel stuff.
+
+**Andi Bailey:** So it'll be useful to see.
+
+**Andi Bailey:** And then I think I had something else I was going to say there, but I can't remember what it was.
+
+**Andi Bailey:** Yeah, let's talk.
+
+**Andi Bailey:** I'll show you this and then we can we can go from there.
+
+**Andi Bailey:** Yeah, I don't think I've seen this.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Sorry?
+
+**Maddy Martin:** I don't know if I have seen this.
+
+**Andi Bailey:** Oh, okay.
+
+**Andi Bailey:** Well done.
+
+**Andi Bailey:** So this is Check That, which we just launched, which there's like a login bug, so I don't want to give you access right now, but I will invite you.
+
+**Maddy Martin:** Oh, yes, she did tell me right then because you guys developed this, right?
+
+**Andi Bailey:** Yes, yes.
+
+**Maddy Martin:** Yeah, okay.
+
+**Andi Bailey:** And so it's like a week old, so it's still pretty new.
+
+**Andi Bailey:** So, but we pulled all the...
+
+**Andi Bailey:** The prompts that we have been tracking, and there's a little bit more.
+
+**Andi Bailey:** think, like, for me, what's really interesting about these is, okay, you can see the overview in terms of, like, your competitive presence, which is amazing.
+
+**Andi Bailey:** This is, like, really good positioning.
+
+**Andi Bailey:** You know, this is very standard.
+
+**Andi Bailey:** I don't think any of this would be new for you to be looking at, but, like, kind of citation share sentiment position.
+
+**Andi Bailey:** The thing that I find interesting is for the prompts, you can go in by LLM, and then, like, we're tracking it every day, and we're looking at kind of, like, where is your presence, what's the sentiment, you know, positioning, how it's changing.
+
+**Andi Bailey:** And then, like, for this question, like, these are the links that are getting cited for you guys, right?
+
+**Andi Bailey:** So that's...
+
+**Andi Bailey:** That's of interesting and like and how that's changing.
+
+**Andi Bailey:** And then you can also look at sources overall.
+
+**Andi Bailey:** So this would be URL sources across all the prompts.
+
+**Andi Bailey:** Like this is what's showing up most often and how that's changing in terms of the citation across prompts.
+
+**Andi Bailey:** Um, so these are good in terms of like getting a sense of, um, like the kinds of articles that are getting traction and, and any like competitive gap analysis that we want to do, like helping us look at that sort of thing and, and maybe adjust in that direction as well.
+
+**Andi Bailey:** Um, but I think for the prompts piece specifically, like, you know.
+
+**Maddy Martin:** Those are really specific prompts to be at the top of that list.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** That's what I'm kind of surprised by.
+
+**Andi Bailey:** What's the sort order?
+
+**Maddy Martin:** Like what, what is the sort?
+
+**Andi Bailey:** Visibility.
+
+**Andi Bailey:** So.
+
+**Maddy Martin:** Okay.
+
+**Maddy Martin:** But I mean that, that's because it could be really.
+
+**Maddy Martin:** Someone junior on the GrowthX team who can just look through and say, like, relevant, not relevant.
+
+**Maddy Martin:** Maybe Usman is someone who could do that now that he understands our brand a little bit.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** Because my concern is, like, just some of these are just not even things we care about monitoring.
+
+**Andi Bailey:** Okay.
+
+**Maddy Martin:** So I don't really care if, like, we're visible on some of those keywords.
+
+**Maddy Martin:** Whereas, like, if you go back to that one that was just above that, and the AI agents trained, I don't really think that that's going to be a very common question.
+
+**Maddy Martin:** I'm surprised there's 60 responses.
+
+**Maddy Martin:** What does responses mean?
+
+**Andi Bailey:** So that's the number of times that we've asked the question.
+
+**Andi Bailey:** And so, like, how often we're seeing it.
+
+**Maddy Martin:** Oh, you're automatically asking these questions.
+
+**Maddy Martin:** Okay.
+
+**Maddy Martin:** And you're, like, changing, modifying the geo tag of the user who's doing this?
+
+**Maddy Martin:** Like, or is it always in L?
+
+**Maddy Martin:** I don't
+
+**Andi Bailey:** I believe so.
+
+**Andi Bailey:** I'd have to double check on that.
+
+**Maddy Martin:** Okay.
+
+**Maddy Martin:** And also, how does the model, like, avoid bias for past searches?
+
+**Maddy Martin:** Is it clearing its, like, knowledge base every time?
+
+**Maddy Martin:** Because, obviously, if I ask Smith.ai, like, if I ask ChatGPT or Claude, like, who's the best answering service?
+
+**Andi Bailey:** Like, it knows I work for Smith.ai.
+
+**Andi Bailey:** Right.
+
+**Maddy Martin:** So, yeah, if you scroll up just a little bit.
+
+**Maddy Martin:** Okay.
+
+**Andi Bailey:** Oh, sorry.
+
+**Maddy Martin:** No, it's, like, the one that was, like, best call center.
+
+**Maddy Martin:** Like, that's more what I would expect real people to search for.
+
+**Maddy Martin:** But, okay, so if it's a, I think I know what the issue is.
+
+**Maddy Martin:** We've been, we write a lot of specific content, and your bot is going to expect, if it's reading our blog, that we care about all these very specific things.
+
+**Maddy Martin:** But, if you actually look at our prompts in search.
+
+**Andi Bailey:** And I'll get you the answers on kind of like how we're posing those questions and making sure that we're kind of anonymizing ourselves as well to eliminate bias where possible.
+
+**Maddy Martin:** Cool.
+
+**Maddy Martin:** Yeah, and all those queries exist.
+
+**Maddy Martin:** Like the good thing is they're not meaningfully changing so much because the need persists as the market shifts, right?
+
+**Maddy Martin:** So like the business wants to have their calls answered and their queries might change in a really minor way, but they're not changing in a major way.
+
+**Maddy Martin:** Like it's price, availability, feature, relevance.
+
+**Maddy Martin:** It's all those things that are your buying decisions no matter what.
+
+**Andi Bailey:** Right.
+
+**Maddy Martin:** Yeah.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Cool.
+
+**Andi Bailey:** Well, we'll edit these before we show them to you again and like I said, get your answers back.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** And then like on the – so I want to – that was what I was going to ask.
+
+**Andi Bailey:** On the tracking, the like URLs and kind of like –
+
+**Andi Bailey:** So success of, I was thinking of it almost as inflection points, like of what pages are making a difference when and kind of when we produce them.
+
+**Andi Bailey:** Like, do you guys, are you guys using anything like post hog or anything to track the journey on your end?
+
+**Andi Bailey:** Or is it just through tag?
+
+**Maddy Martin:** We use, we have Amplitude, and we have a couple other tools.
+
+**Maddy Martin:** We also, you know, have data piping into Salesforce from Calendly, what converts, you know, et cetera.
+
+**Maddy Martin:** And Calendly does actually track, you know, the prior UTMs that were from landing, et cetera, new sources.
+
+**Maddy Martin:** So since a lot of meetings get booked that way, and that's where a lot of leads are generated from, because we don't have a lot of on-site forms, that's like one of the main capture points.
+
+**Maddy Martin:** And then if they come in because they call us or something, then we also will capture how they heard about us, because the receptionist will.
+
+**Andi Bailey:** Capture that information.
+
+**Andi Bailey:** Right.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Cool.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Let me work with our team on how to, like, best track all that.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** So I have a lot of follow-ups.
+
+**Maddy Martin:** Is there anything else that you want to talk about or that I can help with?
+
+**Maddy Martin:** No.
+
+**Andi Bailey:** No.
+
+**Andi Bailey:** This is great.
+
+**Andi Bailey:** I'm glad we have this chat.
+
+**Andi Bailey:** All Yes, me too.
+
+**Andi Bailey:** All right.
+
+**Andi Bailey:** Thanks, Maddy.
+
+**Andi Bailey:** It was great to catch up.
+
+**Andi Bailey:** Yeah.
+
+**Maddy Martin:** Yeah, you too.
+
+**Andi Bailey:** Bye.
+
+**Andi Bailey:** Bye.
+
+**Andi Bailey:** Bye.

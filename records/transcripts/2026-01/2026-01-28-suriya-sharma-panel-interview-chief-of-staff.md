@@ -167,145 +167,57 @@ Marcel's framing: "You can always improve margins on something that's working. I
 
 ## Full Transcript
 
-**Bridget McGillivray:** Hey, Suriya.
+**Bridget McGillivray:** Hey, Suriya. How are you?
 
-**Suriya Sharma:** Hey.
+**Suriya Sharma:** I'm good. How are you?
 
-**Bridget McGillivray:** How are you?
-
-**Suriya Sharma:** I'm good.
-
-**Suriya Sharma:** How are you?
-
-**Bridget McGillivray:** Good, thanks.
-
-**Bridget McGillivray:** Awesome.
-
-**Bridget McGillivray:** All right.
-
-**Bridget McGillivray:** I totally thought this was at one o'clock for some reason. Just like in another world, but at least I saw the Slack notification.
+**Bridget McGillivray:** Good, thanks. I totally thought this was at one o'clock for some reason, just in another world, but at least I saw the Slack notification.
 
 **Suriya Sharma:** Yeah, no, this definitely happens to me a lot.
 
-**Suriya Sharma:** All right.
-
 **Bridget McGillivray:** Oh, Marcel's in the office.
 
-**Marcel:** What's up?
+**Marcel Santilli:** What's up?
 
-**Bridget McGillivray:** Hey.
+**Bridget McGillivray:** Hey. We're gonna be eating during this, right?
 
-**Marcel:** Hey.
-
-**Marcel:** We're gonna be eating during this.
-
-**Marcel:** Okay.
-
-**Bridget McGillivray:** Me too.
-
-**Bridget McGillivray:** Sorry.
-
-**Suriya Sharma:** No worries.
-
-**Suriya Sharma:** All good.
-
-**Bridget McGillivray:** I totally thought it was at one, so I like just went and got food and I was like, oh crap.
-
-**Marcel:** No, I've been recording.
-
-**Marcel:** We were recording some videos for product launch next week.
-
-**Bridget McGillivray:** Nice.
-
-**Marcel:** That was good.
-
-**Marcel:** But good to see you again.
+**Marcel Santilli:** Yeah, we're gonna be eating during this. No, I've been recording. We were recording some videos for product launch next week. That was good. But good to see you again.
 
 **Suriya Sharma:** Yeah, you too.
 
-**Marcel:** Thanks for wanting to do this and turning it around so quickly.
+**Marcel Santilli:** Thanks for wanting to do this and turning it around so quickly.
 
 **Suriya Sharma:** Of course. Happy to be here.
 
-**Marcel:** Yeah, excited to keep the conversation going. Bridget, why don't you take it away, or I don't know if there's any context before we jump in?
+**Marcel Santilli:** Yeah, excited to keep the conversation going. Bridget, why don't you take it away?
 
-**Bridget McGillivray:** No, I think, I think like I saw your pre read but whatever you want to share would probably be helpful if we're all looking at the same thing and then we'll keep it super interactive and try to ask questions throughout.
+**Bridget McGillivray:** I saw your pre-read, but whatever you want to share would probably be helpful if we're all looking at the same thing. We'll keep it super interactive and try to ask questions throughout. More conversational than anything. Any questions from you before we start?
 
-**Bridget McGillivray:** So we like more conversational than anything.
-
-**Bridget McGillivray:** But yeah.
-
-**Bridget McGillivray:** Any, any questions from you before we start?
-
-**Bridget McGillivray:** No.
-
-**Bridget McGillivray:** Cool.
-
-**Marcel:** Actually, why don't you give me three minutes to quickly read it? I'll probably be better with context. I didn't get a chance to read it before.
+**Marcel Santilli:** Actually, why don't you give me three minutes to quickly read it? I'll probably be better with context. I didn't get a chance to read it before.
 
 **Suriya Sharma:** Sure.
 
 **Bridget McGillivray:** We'll take a three minute pause. I'm just going to go get water.
 
-**Marcel:** Awesome. Yeah, let's jump in. You can approach this like we kind of have some familiarity with the concept, but it's mostly a "here's what I'm thinking" kind of discussion. We want to ask questions and discuss things as we go. But if you want to start with an elevator pitch—even though I've read the pre-read, it's always good to hear your thought process behind this.
+**Marcel Santilli:** Awesome. Yeah, let's jump in. You can approach this like we kind of have some familiarity with the concept, but it's mostly a "here's what I'm thinking" kind of discussion. We want to ask questions and discuss things as we go. But if you want to start with an elevator pitch—even though I've read the pre-read, it's always good to hear your thought process behind this.
 
-**Suriya Sharma:** Yeah, of course.
+**Suriya Sharma:** Yeah, of course. So the elevator pitch is: I do think this is something GrowthX should invest time and limited resources into exploring. I think it could really unlock scalability and build financial leverage with fewer editors needed per account. And I think we can do it without sacrificing quality.
 
-**Suriya Sharma:** Sounds good.
+The risks are manageable with the phased internal first approach and potential upside is significant. So I do think that this is something that's worth pursuing in kind of a limited resources fashion.
 
-**Suriya Sharma:** Yeah.
+The problem today is GrowthX has strong demand, healthy margins and proven customer outcomes. But the delivery model still scales primarily through just linear headcount growth. There's not really a systematic, automated way to match customer tasks with each editor based on their expertise and customer knowledge. And Bridget mentioned there's high turnover in the role, which makes this even tougher. This creates two main constraints: low scalability and lack of flexibility.
 
-**Suriya Sharma:** So the elevator pitch is: I do think this is something GrowthX should invest time and limited resources into exploring. I think it could really unlock scalability and build financial leverage with fewer editors needed per account. And I think we can do it without sacrificing quality.
+Now that customer demand is really growing quickly, it seems like a good time to explore this as either an additional growth lever or a fully new delivery model.
 
-**Suriya Sharma:** The risks are manageable with the phased internal first approach and potential upside is significant.
+**Marcel Santilli:** Yeah, like for example, last week we implemented Time Doctor. So there's a lot of things around trying to get people to submit or self report on what they're doing, how they're doing it, then have to ask a lot of people about like, hey, if there are quality issues, why are there quality issues? And then figure out the quality issue is a performance issue.
 
-**Suriya Sharma:** So I do think that this is something that's worth pursuing in kind of a limited resources fashion.
+And then even if you arrive at all those conclusions where like, hey, this person's taking four times more to do the same thing and their output quality sucks, then you still have to then go, cool, let's go hire somebody. And then it's like two more months to hire and onboard, right? So that becomes pretty hard.
 
-**Suriya Sharma:** Just because the problem today is GrowthX has strong demand, healthy margins and proven customer outcomes.
+And it's either they quit their jobs and come work for us full time or they don't work for us at all. Because managing like Upwork is pretty hard. We try to do freelancer stuff in Upwork and we still do like one off things. But like for these types of roles, it's pretty difficult, you know, because we have to give them access to Notion and a bunch of other things. So like there's just too much there, right.
 
-**Suriya Sharma:** But the delivery model still scales primarily through just linear headcount growth.
+And so that's a little bit of extra context. The number of times even now that a customer will lose trust in us—and the main reason, or one of the main reasons is often slop that a person didn't catch or just kind of let it go through, and like including like major logos. Like so you're talking like 200, 300 grand contract that is at risk because some editor decided to not read the damn thing they're supposed to read, you know. And so that's a little bit of the context of like, and the urgency for it too, you know.
 
-**Suriya Sharma:** There's not really a systematic, automated way to match customer tasks with each editor based on their expertise and customer knowledge. And Bridget mentioned there's high turnover in the role, which makes this even tougher. This creates two main constraints: low scalability and lack of flexibility.
-
-**Suriya Sharma:** And so now that customer demand is really growing quickly, it seems like a good time to explore this as either an additional growth lever or a fully new delivery model.
-
-**Marcel:** Yeah, like for example, last week we, I think was last week, right, Bridget, we implemented time doctor.
-
-**Marcel:** So yeah, so there's a lot of things around, like trying to get people to submit or self report on what they're doing, how they're doing it, then have to ask a lot of people about like, hey, if there are there quality issues, why are there quality issues?
-
-**Marcel:** And then figure out, oh, okay, the quality issue is a, you know, a performance issue.
-
-**Marcel:** And, and then even if you arrive at all those conclusions where like, hey, this person's taking four times more to do the same thing and their output quality sucks, then you still have to then go, cool, let's go hire somebody.
-
-**Marcel:** And then it's like now it's like two more months to hire an onboard, right?
-
-**Marcel:** Like, so that becomes pretty, pretty, pretty hard.
-
-**Marcel:** And, and it's either they quit their jobs and come work for us full time or they don't work for us at all.
-
-**Marcel:** Because managing like upwork is pretty hard.
-
-**Marcel:** Like we try to do freelancer stuff in upwork and we still do like one off things.
-
-**Marcel:** But like for these types of roles, it's pretty, pretty difficult, you know, because we have to give them access to notion and a bunch of other things and you know, so like the heart, like there's just like too, too much there, right.
-
-**Marcel:** And so, um, that's a little bit of extra, extra context and the number of times even now that a customer will lose trust in us.
-
-**Marcel:** And because, and the main reason, or one of the main reasons is often slop that a person didn't catch or just like kind of let it go through and like including like major logos.
-
-**Marcel:** Like so you're talking like 2, 300 grand contract that is at risk because some editor decided to not read the damn thing they're supposed to read, you know, or.
-
-**Marcel:** And so that's a little bit of the context of like, and the urgency for it too, you know.
-
-**Suriya Sharma:** Yeah, that makes a lot of sense.
-
-**Suriya Sharma:** Yeah.
-
-**Suriya Sharma:** And so and definitely I think like the learning built in learning loops and quality signals and feedback is definitely something I think that has to be true for success both of growth X in general, but then also for this marketplace.
-
-**Suriya Sharma:** It's one of the things kind of I listed here is like making sure that there are states standards for the production time and the production quality and making sure there's ways to kind of monitor.
-
-**Suriya Sharma:** That definitely makes a lot of sense.
+**Suriya Sharma:** Yeah, that makes a lot of sense. And so definitely I think like the learning, built in learning loops and quality signals and feedback is definitely something I think that has to be true for success both of GrowthX in general, but then also for this marketplace. It's one of the things kind of I listed here is like making sure that there are standards for the production time and the production quality and making sure there's ways to kind of monitor. That definitely makes a lot of sense.
 
 **Suriya Sharma:** So to elaborate: the initiative would involve restructuring delivery into a marketplace that taps into global specialized contractor talent, uses tiered skill levels and algorithmic task matching, and enables rapid capacity scaling without fixed headcount. We can flex capacity based on our needs.
 
@@ -325,10 +237,7 @@ But while there's more accessibility to talent with a marketplace approach, the 
 
 **Bridget McGillivray:** Absolutely. They won't know how to use our platform right away, so there need to be training modules they complete. Then: take a fake customer, have them run some articles, compare to what proven performers created, and keep them in a training pattern before taking off the training wheels.
 
-**Suriya Sharma:** Exactly. Mini pilots with each contractor—intensive at first, but critical for maintaining quality. Over time you'll identify success signals and can reduce testing rigor.
-
-
-**Suriya Sharma:** The key risks: quality degradation would be a huge disservice to our customers and damage reputation—that's the most important thing. Then there's cannibalization of the core business. If we offer this as a lower price point, we need to make sure we're not cannibalizing managed services. We figure out later if we want to transition everyone over while maintaining the high-touch white glove impression.
+**Suriya Sharma:** Exactly. Mini pilots with each contractor—intensive at first, but critical for maintaining quality. Over time you'll identify success signals and can reduce testing rigor. The key risks: quality degradation would be a huge disservice to our customers and damage reputation—that's the most important thing. Then there's cannibalization of the core business. If we offer this as a lower price point, we need to make sure we're not cannibalizing managed services. We figure out later if we want to transition everyone over while maintaining the high-touch white glove impression.
 
 Pricing uncertainty is another risk—getting the contractor incentives right while protecting our margins. The goal here is financial leverage.
 
@@ -336,43 +245,27 @@ And operational complexity: payments infrastructure, trust-building with contrac
 
 To mitigate quality risk: narrow pilot scope with internal QA. To mitigate cannibalization: internal-first testing and clear product segmentation. To mitigate pricing risk: iterative testing with prospects and customers. To mitigate operational complexity: avoid overbuilding and stay iterative. Build for proof of success, then build the next piece. Don't get ahead of validation.
 
-**Marcel:** So just to understand: are you suggesting we build the end-to-end platform first, or where do we start? What exactly do you mean by "internal only"?
+**Marcel Santilli:** So just to understand: are you suggesting we build the end-to-end platform first, or where do we start? What exactly do you mean by "internal only"?
 
-**Suriya Sharma:** An internal pilot that runs side-by-side with existing customers. Our editors create articles and newsletters as normal. In parallel, a contractor does the same work. We compare quality, speed, and output side-by-side.
+**Suriya Sharma:** An internal pilot that runs side-by-side with existing customers. Our editors create articles and newsletters as normal. In parallel, a contractor does the same work. We compare quality, speed, and output side-by-side. And the customer themselves won't know that we're kind of doing this dual side testing—it'll just be internally, but we'll be using real customer information.
 
-**Suriya Sharma:** And the customer themselves won't know that we're kind of doing this dual side testing that'll just be internally, but we'll be real customer information.
-
-**Marcel:** So just to understand.
-
-**Marcel:** So we keep running a customer the way we're running today and then we're creating like a shadow approach here.
-
-**Marcel:** So for the work—do we hire people we already have, or source freelancers? Who's doing the work in the shadow channel?
+**Marcel Santilli:** So we keep running a customer the way we're running today and then we're creating like a shadow approach here. So for the work—do we hire people we already have, or source freelancers? Who's doing the work in the shadow channel?
 
 **Suriya Sharma:** We'd source freelancers. Build an MVP so contractors have access—just enough to test, not a full platform. Login, task assignment, payments. If quality is consistent and meets standards internally, we move to a small external beta with customers.
 
-**Marcel:** Before we go deeper: do we build payments infrastructure first, or test first then build?
+**Marcel Santilli:** Before we go deeper: do we build payments infrastructure first, or test first then build?
 
 **Suriya Sharma:** Minimum infrastructure to test the model internally. If we can partner with a third-party payment tool, great—we don't build that ourselves. The goal is building only what's needed to validate. Minimum infrastructure: contractor login, task assignment layer, third-party payment integration, and a QA routing layer to grade output. Don't overbuild before validation.
 
-**Marcel:** Got it.
+**Marcel Santilli:** Got it. When we talk about validation, what exactly are we validating? Imagine I pull you into a board meeting next week—what are the things we're telling the board we need to validate? The marketplace concept exists; you don't need to validate that. You need to validate that you can actually *build* a marketplace given the cold start problem. This isn't a yes/no—it's a "how." What are the questions of the how?
 
-**Marcel:** Okay.
+**Suriya Sharma:** A couple things. One: can we maintain our quality and customer trust? Second: can we do this in a way that improves margins? Can we source contractors, route work to them, and operate the platform better than today? We need to ensure operational overhead and sourcing/onboarding costs don't make margins worse. Third: does this actually work for our customers? Can we access the right contractor types and tap into global talent to match customer needs?
 
-**Marcel:** When we talk about validation, what exactly are we validating? Imagine I pull you into a board meeting next week—what are the things we're telling the board we need to validate? The marketplace concept exists; you don't need to validate that. You need to validate that you can actually *build* a marketplace given the cold start problem. This isn't a yes/no—it's a "how." What are the questions of the how?
-
-**Suriya Sharma:** A couple things. One: can we maintain our quality and customer trust?
-
-**Suriya Sharma:** Second: can we do this in a way that improves margins? Can we source contractors, route work to them, and operate the platform better than today? We need to ensure operational overhead and sourcing/onboarding costs don't make margins worse.
-
-Third: does this actually work for our customers? Can we access the right contractor types and tap into global talent to match customer needs?
-
-**Marcel:** How would you rank these three?
+**Marcel Santilli:** How would you rank these three?
 
 **Suriya Sharma:** Customer needs first—if it can't do that, it's a hard stop. I'd rank cost benefits third because intuitively there will be cost efficiencies. Validate customer impact first, then help our top line and build trust without damaging reputation. If those two work, I feel good moving forward. The cost piece can be optimized later with efficiencies and automations.
 
-**Marcel:** I agree—that's the exact order I'd do. And the way to think about it: you can always improve margins on something that's working.
-
-**Marcel:** It doesn't matter if you improve margins on something that's not working. Always solve for effectiveness first, efficiency second. Go in the right direction slow rather than fast in the wrong direction. Effective first, efficient second.
+**Marcel Santilli:** I agree—that's the exact order I'd do. And the way to think about it: you can always improve margins on something that's working. It doesn't matter if you improve margins on something that's not working. Always solve for effectiveness first, efficiency second. Go in the right direction slow rather than fast in the wrong direction. Effective first, efficient second.
 
 Assume we have great engineers and build an MVP. About payments: don't try to build one yourself. It'll take a year. At Scale AI, it's a nightmare—different countries have different banking and AML laws.
 
@@ -380,43 +273,35 @@ Assume we have great engineers and build an MVP. About payments: don't try to bu
 
 **Suriya Sharma:** Yeah, it was an adventure.
 
-**Marcel:** Exactly. So let's assume we use a third-party solution. Say we have a working MVP by Monday—what's the first thing you'd do?
+**Marcel Santilli:** Exactly. So let's assume we use a third-party solution. Say we have a working MVP by Monday—what's the first thing you'd do?
 
 **Suriya Sharma:** Once we have the MVP, we solidify the guardrails. Be really narrow: specific task types, specific contractor subset, specific customer/prospect subset. Then we get out and validate.
 
 We need clear grading structures for all contractor output and clear SLAs for delivery speed. We launch internally on existing customer work in shadow mode—editors and contractors work in parallel. We do internal QA and compare outputs. If quality is good and speed is good, we're moving in the right direction.
 
-**Marcel:** Who's doing the work in this, in the shadow example?
-
-**Marcel:** Where did the contractors come from?
+**Marcel Santilli:** Who's doing the work in this shadow example? Where did the contractors come from?
 
 **Suriya Sharma:** While we build the MVP infrastructure in parallel, we find sourcers to locate contractors. Multiple methods: First, leverage internal employees—they know people open to contractor work. Second, reach out to existing recruiters with contractor opportunities. Third, tap into freelance marketplaces like Upwork where people advertise services.
 
 Also, we can reach out to ex-editors who left on good terms—high performers from our past could be good test cases. But we want diversity in the cohort. We need to understand which sourcing channels are efficient and what quality they deliver. We don't want to bias toward people we already know are good.
 
-**Bridget McGillivray:** I actually just interviewed an ex-editor today who wants to go back to freelancing. That could work.
+**Bridget McGillivray:** I actually just interviewed an ex-editor today who wants to go back to freelancing. That could work. That could be a test subject. But also find people fresh to this to see what the real experience looks like.
 
-**Suriya Sharma:** Sure.
-
-**Bridget McGillivray:** That could be a test subject. But also find people fresh to this to see what the real experience looks like.
-
-**Marcel:** Are there businesses or models similar to what you found in research, beyond Upwork? Anything else you've seen?
+**Marcel Santilli:** Are there businesses or models similar to what you found in research, beyond Upwork? Anything else you've seen?
 
 **Suriya Sharma:** Webflow has a similar model. They have a certification program—Webflow-certified professionals can add it to their resume and build templates for the marketplace. It's a flywheel: position GrowthX as a top tool, incentivize people to learn and get certified, and you tap into a huge network while boosting your contractor supply. They encourage people to join by building the certification into their marketplace rather than cold-outreach.
 
 There's also Fiverr, but the key is being specific about the type of freelancing and talent you're targeting.
 
-**Marcel:** The biggest one you missed: data labeling networks. Companies like Scale AI, Surge, Handshake, and others have tens of thousands to hundreds of thousands of people doing task-based work to create training data. It's a fully vetted network. People list what they do and their expertise. Platforms like Outlier, Surge Data Annotation, Merkle, etc. Some do this fractionally, many make it their main income.
+**Marcel Santilli:** The biggest one you missed: data labeling networks. Companies like Scale AI, Surge, Handshake, and others have tens of thousands to hundreds of thousands of people doing task-based work to create training data. It's a fully vetted network. People list what they do and their expertise. Platforms like Outlier, Surge Data Annotation, Merkle, etc. Some do this fractionally, many make it their main income.
 
 Critical thing: marketplace liquidity. If you recruit the right person but give them one job every six weeks, they can't make a living. You need enough demand and liquidity so contractors get consistent work and don't bail.
 
 **Bridget McGillivray:** When you say "managed services," are you thinking: core in-house editor team doing premium delivery, versus customers matched to contractors through the marketplace?
 
-**Suriya Sharma:** That's the key question. Once we validate quality, throughput, and contractor supply, we decide: do we segment managed services from the marketplace, or mix them? Is this customer-facing (they know they're using a marketplace), or just our internal model? That depends on quality, throughput, steady supply, and what customers will pay. We validate that with customers and prospects.
+**Suriya Sharma:** That's the key question. Once we validate quality, throughput, and contractor supply, we decide: do we segment managed services from the marketplace, or mix them? Is this customer-facing (they know they're using a marketplace), or just our internal model? That depends on quality, throughput, steady supply, and what customers will pay. We validate that with customers and prospects. Where is GrowthX in this process today?
 
-**Suriya Sharma:** Where is GrowthX in this process today?
-
-**Marcel:** About 18 months ago we started hiring internationally for editors. We built workflows in our ATS where candidates complete assignments and fill out questions that we auto-vet. We have video recording systems that transcribe answers and rate them against role frameworks. We have a lot that can be repurposed.
+**Marcel Santilli:** About 18 months ago we started hiring internationally for editors. We built workflows in our ATS where candidates complete assignments and fill out questions that we auto-vet. We have video recording systems that transcribe answers and rate them against role frameworks. We have a lot that can be repurposed.
 
 The bottleneck: it's all downstream to human vetting—our best editors or head of content conducting final interviews. That's massive. If we move to contractors, we can't scale that human interview layer. We know how to vet full-time employees, but the bar for contractors is different: we don't care about cultural fit or AI-nativeness if someone has good taste, moves fast, and delivers quality. We do 500 pages a week—we have endless sample assignments to test with.
 
@@ -428,13 +313,13 @@ The core challenge: finding supply sources and routing them through self-serve v
 
 **Suriya Sharma:** That's a super interesting problem with real challenges.
 
-**Marcel:** Thank you. Bridget and I will debrief on our end. Great job all around.
+**Marcel Santilli:** Thank you. Bridget and I will debrief on our end. Great job all around.
 
 **Suriya Sharma:** Thank you.
 
 **Bridget McGillivray:** Thank you, Suriya. I appreciate the work.
 
-**Marcel:** Talk soon.
+**Marcel Santilli:** Talk soon.
 
 **Suriya Sharma:** Bye.
 
