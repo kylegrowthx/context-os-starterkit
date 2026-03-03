@@ -192,374 +192,42 @@ Monograph is a practice management software for engineering, architecture, and c
 
 **Matthew Panzarino:** On cadence — a bit of inside baseball. We've been re-architecting our pipelines. Daniel's created a new way they operate — "agentic," meaning workers do tasks in parallel. More accuracy coming out the end. Currently we spend 30 minutes editing each piece post-pipeline. My job is to get it to where we spend a handful of minutes on semantics and stylistic polish. We're narrowing that gap. Early results from this pipeline upgrade are very positive. We should start delivering new content in the next week or two. If it works well, we can increase your cadence from 5 to 10 pieces a week. We're building leverage. The faster it's out there, the more chance it has to perform.
 
-**Robert Yuen:** Yeah.
+**Robert Yuen:** This is Gary's last week. Chris is focused on hiring, and we're onboarding two new demand gen at month-end. Generally speaking, I don't have a resource to be the editor/reviewer of content. I also don't want to be a bottleneck — holding content means we don't win keywords, don't test, don't learn. Even with the new workflow, I'm comfortable not having our end review. We'll create a backlog and come back when we have more time.
 
-**Robert Yuen:** Just so you know.
+**Matthew Panzarino:** Got it. I'll act as Jiminy Cricket for content — make sure it's polished. We'll default to publish, so we'll deliver you a weekly summary of articles published. You'll see them in the backlog, and from our next batch forward, we'll keep a running tally. You can review in batches. If you notice anything down the line, we're happy to do refreshes on live pieces. I'm pretty confident we're not publishing low-quality or factually inaccurate content with bad links.
 
-**Robert Yuen:** Yeah.
+**Robert Yuen:** Give me a month. First week of October, I'll assign one of our new demand gen managers to SEO/GEO strategy working in parallel with GrowthX. Then we can pick it back up.
 
-**Robert Yuen:** I think you know, but I'll remind you, this is Gary's last week.
+**Matthew Panzarino:** Great. Just to be clear — we publish for September as much as we can, right?
 
-**Matthew Panzarino:** Yes.
-
-**Robert Yuen:** I need Chris focus on the hire that we're doing, and we're onboarding a two new demand gen at the end of the month.
-
-**Matthew Panzarino:** Okay, got it.
-
-**Robert Yuen:** Generally speaking, I don't have a resource on our end to essentially be the editor slash reviewer of the content that WorldFacts is producing.
-
-**Robert Yuen:** I also don't want to be a bottleneck, because I think holding on content means we're not winning keywords, we're not out there doing the best, we don't know what works, we don't know what doesn't work.
-
-**Matthew Panzarino:** Yeah.
-
-**Robert Yuen:** Even though you're releasing a new workflow, and we might want to keep some eyes on it, I am still comfortable of not on our end.
-
-**Robert Yuen:** And we'll just have to create a little bit of a backlog.
-
-**Robert Yuen:** We'll come back to it when we have a little bit more time.
+**Robert Yuen:** Right. Then October 1st we figure out the new arrangement.
 
 **Matthew Panzarino:** Got it.
 
-**Matthew Panzarino:** Yeah, that sounds good.
+**Matthew Panzarino:** On the Reddit strategy — we grabbed your Reddit account, which is great. I'm experimenting with a content pipeline for this. It's early, and will take a couple weeks to get rolling. Primary goal: LLM citation increase. That's the only thing I really care about. Does it move the needle on LLM citations? I'll track it super closely and watch it every day, but it'll be part of your monthly report. Priority-wise: first, LLM citations. Second, if people like the content and engage with it on Reddit — comments, saves, Reddit native stuff. Third, organic mentions and references down the line. But honestly, I just want to see if we put content out there, does it get cited fast? If so, let's continue.
 
-**Matthew Panzarino:** Let's do it this way.
+**Matthew Panzarino:** We want 2-4 posts per week. Start with 2, move to 4. I'll handle cadence. Content pillars: Q&A, practice management, industry data, problem-solution case studies, tools and templates. I don't need anything from you except industry data and benchmarks. I can find public data. But first-party data — anything you've used in sales motions, client upsells, or internal authority-building — that's really compelling to Reddit and to LLMs.
 
-**Matthew Panzarino:** I'll let my team know.
+**Matthew Panzarino:** "This is our first-party understanding. We came up with this data. You can't find it elsewhere." That's powerful on Reddit and drives shares. When people search for stats around your areas, LLMs are likely to pick it up — "this statistic I haven't seen, and it's relevant." So I wanted to flag this data cluster as something interesting.
 
-**Matthew Panzarino:** I will act as Jiminy Cricket for the content, and I'll really try to make sure that it's polished.
+**Robert Yuen:** Hey, Panzar, I just dropped in the URL for our benchmark report. We do this annually, right around the beginning of the year. There's a lot of internal data against our customer base. Chris put it together. My suggestion is probably not use all the data — we use this as a lead magnet.
 
-**Matthew Panzarino:** We'll default to publish, so we'll just start delivering you, hey, here's the articles we published this week.
+**Matthew Panzarino:** Got it. I wouldn't use all of it anyway. I'd pull out one statistic, editorialize it a bit, and build a few pieces of content around that.
 
-**Matthew Panzarino:** And of course, you'll be able to always see those in your backlog.
+**Gary DeBerry:** This is perfect. It's the same thought process as the utilization rate post. You might pick a different metric and run with it.
 
-**Matthew Panzarino:** And then from this date on, or from our next batch on, we'll just keep a running tally, and then you can always review those in batches.
+**Matthew Panzarino:** Yeah. Honestly, there's no reason we can't take content we're making for your site and repurpose it as a Reddit post. We'd completely rewrite it for that audience — not copy-paste. Like if one statistic here is compelling, we might write a utilization rate-type post for SEO, then repurpose it for Reddit from a personal perspective. I'm excited to do that because the repurposing is super compelling.
 
-**Matthew Panzarino:** And then if there are any adjustments you need to make or anything you notice down the line, we're happy to go back and do a refresh and make adjustments, of course, on the live pieces.
+**Matthew Panzarino:** It could be maybe 30% of your content could be repurposed as Reddit posts if written conversationally. Look at the Reddit strategy doc — I wanted to give you an idea of what the posts might look like. Format 1: "Have you ever blah blah? Here's what worked for us. Here's how we fixed it." Format 2: "Here's a statistic or trend. Here's a data point we found in our research or internal data." These two formats work really well on Reddit.
 
-**Matthew Panzarino:** But I'm actually pretty confident in this place that we're not publishing stuff that's pablum or factually a disaster or that the links are unsound.
+**Matthew Panzarino:** You can see some starter topic ideas in there. It'll take a couple weeks to get this pipeline hammered together. We could write posts ad hoc, but I want to build something repeatable so we can track performance and improve over time. The milestones aren't that important — the content strategy is. As long as you're comfortable with that, let us know.
 
-**Matthew Panzarino:** I think I'm pretty confident at this place at this point as well.
+**Matthew Panzarino:** I put this down because Reddit can be hostile to certain approaches. We'll maintain adherence to community guidelines and won't spam content that hurts your brand. We're paying attention. Next week we're spinning up a new cluster with topics in Airtable. For approvals, I know you're time-limited. If you can review, great. If not, I'll pick good stuff. Minimum viable input: flag 5 articles per batch. Or just tell me "go" if you're too busy.
 
-**Robert Yuen:** give me a month.
+**Robert Yuen:** Let's keep flagging on Slack. Some days I'll say "go," some days "give me 24 hours."
 
-**Robert Yuen:** So let's say October.
+**Matthew Panzarino:** Fair. MVP is flagging 5 articles. If you don't have time, we'll keep going.
 
-**Robert Yuen:** The first week of October, I will probably assign one of our new demand gen managers to our SEO, GEO strategy that's essentially working in parallel with growthx.
+**Robert Yuen:** Great. For all note-takers: the general direction is don't slow down.
 
-**Robert Yuen:** Okay.
-
-**Robert Yuen:** And then we can pick it back up again.
-
-**Matthew Panzarino:** Great.
-
-**Matthew Panzarino:** Yeah, sounds good.
-
-**Robert Yuen:** Cool.
-
-**Matthew Panzarino:** Let's see.
-
-**Matthew Panzarino:** Oh, wait, just to be clear.
-
-**Matthew Panzarino:** You want us to keep up.
-
-**Robert Yuen:** You want to publish for September, though.
-
-**Robert Yuen:** As much as you can.
-
-**Matthew Panzarino:** Good.
-
-**Robert Yuen:** We'll do it.
-
-**Matthew Panzarino:** No problem.
-
-**Matthew Panzarino:** I just wanted to make sure.
-
-**Matthew Panzarino:** And then October 1st, when we have a new arrangement, we'll figure it out.
-
-**Robert Yuen:** No problem.
-
-**Robert Yuen:** Yep.
-
-**Matthew Panzarino:** Yep.
-
-**Matthew Panzarino:** Good.
-
-**Matthew Panzarino:** Good.
-
-**Matthew Panzarino:** I just want to make sure I was we're clear on that.
-
-**Matthew Panzarino:** And then I could just talk for a minute about this.
-
-**Matthew Panzarino:** So I know we grabbed your Reddit account, which is great.
-
-**Matthew Panzarino:** I'm just starting to kind of really experiment with a pipeline that creates this content.
-
-**Matthew Panzarino:** So it's early, and as I mentioned, it would take us a couple weeks to get rolling on this, but just high level, primary goal, LLM citation increase.
-
-**Matthew Panzarino:** The other stuff is fine, and if we establish the profile and we get other stuff on it, that's great, but honestly, this is the only thing I really care about.
-
-**Matthew Panzarino:** Does it move the needle on LLM citations for you or not?
-
-**Matthew Panzarino:** And so I will track that super closely as we start to publish, and we'll just, we'll do a, I'll be watching it every day, but it'll be part of your monthly report, right?
-
-**Matthew Panzarino:** We'll just integrate it into that.
-
-**Matthew Panzarino:** And then I was like, you know, this feels like the rough, the rough order of things that we should care about.
-
-**Matthew Panzarino:** Obviously, we care about LLM citations.
-
-**Matthew Panzarino:** I hate Notion, I can never highlight.
-
-**Matthew Panzarino:** was dragging.
-
-**Matthew Panzarino:** LLM citations is the primary thing that we're going to track.
-
-**Matthew Panzarino:** And then, yes, if we start to establish people, like, you know, that like the content and that people are interacting with it, that's great.
-
-**Matthew Panzarino:** We have people up
-
-**Matthew Panzarino:** Comment or save it, like the Reddit native stuff.
-
-**Matthew Panzarino:** I'd love to see that.
-
-**Matthew Panzarino:** And then down the line, organic mentions and references and things like that.
-
-**Matthew Panzarino:** But honestly, I just want to see if we put stuff out there, does it get cited really quickly?
-
-**Matthew Panzarino:** And if so, that's awesome.
-
-**Matthew Panzarino:** Let's continue, right?
-
-**Matthew Panzarino:** I would say we want to do two to four posts a week.
-
-**Matthew Panzarino:** I'm to start out with two and then we'll go to four.
-
-**Matthew Panzarino:** We need to spread it out a little bit.
-
-**Matthew Panzarino:** So I will take care of that cadence.
-
-**Matthew Panzarino:** And then the content pillars are pretty straightforward.
-
-**Matthew Panzarino:** It's like question and answer stuff, but it is basically like practice management, industry data, problem solution case studies, and tools and templates.
-
-**Matthew Panzarino:** I don't need anything from you on any of these except for industry data and benchmarks.
-
-**Matthew Panzarino:** Now, we can look at the data that you've given us so far, and I could probably pull out a couple
-
-**Matthew Panzarino:** But basically, this would be anything you've used now or in the past on any sales motions or anything else that is more along the lines of data only Monograph has.
-
-**Matthew Panzarino:** So obviously, if it's public data or data that's part of a study, I can find that.
-
-**Matthew Panzarino:** I don't need you for that.
-
-**Matthew Panzarino:** But if it's any first-party data that you've come up with that you've found interesting enough to try to sell Monograph with or talk to a client about upsells or any motions internally that even aren't sales that you're just building authority based off of this internal data, that's very compelling to a Reddit audience.
-
-**Matthew Panzarino:** And frankly, to any audience, but really to a Reddit audience, it's like, yo, this is our first-party understanding of this.
-
-**Matthew Panzarino:** We came up with this data.
-
-**Matthew Panzarino:** This is not data you can find elsewhere.
-
-**Matthew Panzarino:** And so I don't want to put burden on you to suddenly come up with a bunch of this so we can continue.
-
-**Matthew Panzarino:** We can start work, not waiting for that, but I just wanted to note that that in our research is like really, really powerful on Reddit and will tend to drive more interactions and shares.
-
-**Matthew Panzarino:** And if people are searching for statistics or numbers around your areas of interest, it's very likely to get picked up by an LLM because an LLM says, hey, this is not a statistic I've seen before and it's germane, right?
-
-**Matthew Panzarino:** And it'll pull it up and present it.
-
-**Matthew Panzarino:** So I just wanted to flag this one cluster as something that's interesting.
-
-**Robert Yuen:** Hey, Panzar, I just dropped in the URL for our benchmark report.
-
-**Robert Yuen:** We do this report annually, typically right around the beginning of the year.
-
-**Robert Yuen:** There's a lot of data in there that's all internal.
-
-**Robert Yuen:** It's against our customer base.
-
-**Robert Yuen:** Chris put this together.
-
-**Robert Yuen:** My suggestion is like probably not use all the data because we still, we use this as a leak magnet.
-
-**Matthew Panzarino:** Do you see the...
-
-**Matthew Panzarino:** No, it's, it's a hundred percent.
-
-**Matthew Panzarino:** This is so dumb, but it's a hundred percent.
-
-**Matthew Panzarino:** I've lost my window.
-
-**Robert Yuen:** I can also put it in.
-
-**Matthew Panzarino:** No, it's the, it's the stupid new zoom layout.
-
-**Robert Yuen:** It's like really.
-
-**Robert Yuen:** I know.
-
-**Matthew Panzarino:** I found it.
-
-**Robert Yuen:** found it.
-
-**Robert Yuen:** That little bar thing.
-
-**Matthew Panzarino:** I got it.
-
-**Matthew Panzarino:** I got it.
-
-**Matthew Panzarino:** Yeah.
-
-**Matthew Panzarino:** Yeah.
-
-**Matthew Panzarino:** It's the bar that disappeared, but I have so much stuff on my screen.
-
-**Matthew Panzarino:** It's like, okay.
-
-**Matthew Panzarino:** Got it.
-
-**Matthew Panzarino:** Yes.
-
-**Matthew Panzarino:** This is great.
-
-**Matthew Panzarino:** And no, we wouldn't like take this and like process it and use all of these things.
-
-**Matthew Panzarino:** I would pull out like one statistic and, and talk about it, right.
-
-**Matthew Panzarino:** Editorialize it a bit, uh, and then do a handful of pieces of the content like that.
-
-**Gary DeBerry:** So this is perfect.
-
-**Robert Yuen:** Thank you.
-
-**Gary DeBerry:** It's kind of the same, um, thought process for that utilization rate post.
-
-**Gary DeBerry:** Yes.
-
-**Gary DeBerry:** You might have, like, if you went down that road, you might have come up with the same type of content.
-
-**Gary DeBerry:** so pick a different metric in there and, uh, and run with it.
-
-**Matthew Panzarino:** Yeah, and there's honestly no reason that we cannot take some of the content that we are making for you for the site and repurpose it as a Reddit post.
-
-**Matthew Panzarino:** We would just rewrite it completely for that audience, right?
-
-**Matthew Panzarino:** We would not copy pasta it at all, but it would be the same basic thing.
-
-**Matthew Panzarino:** Like if we found that like a, you know, one single statistic in here was really compelling and interesting, we may write a post for you, like the utilization rate post.
-
-**Matthew Panzarino:** That would perform for SEO well, and then we might repurpose that for Reddit, but write it from a personal perspective, you know?
-
-**Matthew Panzarino:** I'm excited to do that because I think that that kind of repurposing is super compelling.
-
-**Matthew Panzarino:** It would not be 100%, but it could be like 30% of your content could be a Reddit post, if couched the right way, if made conversational.
-
-**Gary DeBerry:** Yeah.
-
-**Matthew Panzarino:** But yeah, once again, you can peek through this.
-
-**Matthew Panzarino:** I gave you it.
-
-**Matthew Panzarino:** You can see, I just wanted to give you an idea of like what these posts might ask.
-
-**Matthew Panzarino:** And so this is, it's like, look, hey, you know, have you ever blah, blah, blah, well, here's what worked for us.
-
-**Matthew Panzarino:** Here's how we fixed it, right?
-
-**Matthew Panzarino:** Or as I mentioned, like, here's a statistic or trend.
-
-**Matthew Panzarino:** And here's a data point that we found when we were doing our research or, you know, our internal data, blah, blah, blah.
-
-**Matthew Panzarino:** And that's how we would do it.
-
-**Matthew Panzarino:** These two kind of formats, I think, work really well on Reddit from our research.
-
-**Matthew Panzarino:** You can see some of the starter topics in here that it did.
-
-**Matthew Panzarino:** then, as I mentioned, take us a couple weeks to get this pipeline hammered together.
-
-**Matthew Panzarino:** Because I can, we can write posts for you, like, ad hoc.
-
-**Matthew Panzarino:** But I want to build something repeatable so that we can track its performance and improve it over time.
-
-**Matthew Panzarino:** And then, yeah, anyhow, so just, like, take a look through here.
-
-**Matthew Panzarino:** Once again, the milestones and all that stuff is, it's not really that important.
-
-**Matthew Panzarino:** It's really the stuff that's important is the content strategy.
-
-**Matthew Panzarino:** And as long as you're comfortable with that, or if you're sitting right...
-
-**Matthew Panzarino:** Let us know.
-
-**Matthew Panzarino:** I put this down here because Reddit is a unique environment that can be hostile to certain kinds of approaches, and I just wanted you to know that we're paying attention there for you.
-
-**Matthew Panzarino:** So from a reputational risk perspective or things like that, we'll maintain adherence to Reddit community guidelines and all of that stuff.
-
-**Matthew Panzarino:** So we're paying attention.
-
-**Matthew Panzarino:** We're not just going to spam it with content that'll hurt your brand or do no good or, in fact, maybe do worse than good.
-
-**Matthew Panzarino:** Yeah, that's about it, though.
-
-**Matthew Panzarino:** So feel free to peruse those, and we'll continue to work.
-
-**Matthew Panzarino:** And unless you have any big left turns for us, we're going to spend the next week getting a new cluster spun up for you, and we'll have new topics in those clusters to look at in Airtable.
-
-**Matthew Panzarino:** And then as far as approvals on those things, I know that you are limited for time as well.
-
-**Matthew Panzarino:** I would love a scan of them if you can, if you can find the time to do
-
-**Matthew Panzarino:** Otherwise, I'll pick stuff.
-
-**Matthew Panzarino:** If you're like, hey, I don't have the time, cool.
-
-**Matthew Panzarino:** Trust me, I'll pick good stuff and we'll do it.
-
-**Matthew Panzarino:** But if you want to take a prioritization pass, happy to do it.
-
-**Matthew Panzarino:** I'll flag it for you.
-
-**Matthew Panzarino:** You can tell me, hey, just grab some stuff and go.
-
-**Matthew Panzarino:** Or, yeah, give me tomorrow and I'll look at these or whatever.
-
-**Matthew Panzarino:** We'll go from there.
-
-**Robert Yuen:** Let's just keep doing that on Slack, flag it.
-
-**Robert Yuen:** And then some days I might be like, just go and we're too busy.
-
-**Robert Yuen:** And some days it's like, okay, give me, you know, 24 hours and we'll take a look.
-
-**Matthew Panzarino:** Yeah.
-
-**Matthew Panzarino:** I mean, look, bare minimum, MVP for you, for your time spent would be like flag five articles, right?
-
-**Matthew Panzarino:** Like so that we have five.
-
-**Matthew Panzarino:** And that way you can just bounce in, flag five, and then bounce out.
-
-**Matthew Panzarino:** But then conversely, if you don't have time, we'll keep chewing.
-
-**Robert Yuen:** Great.
-
-**Robert Yuen:** And for all the note takers here, the general direction is don't slow down.
-
-**Matthew Panzarino:** Keep going.
-
-**Matthew Panzarino:** Yeah, you got it.
-
-**Matthew Panzarino:** Yeah, we won't let anything stop us.
-
-**Matthew Panzarino:** We'll figure out a way to publish.
-
-**Matthew Panzarino:** Thanks.
-
-**Robert Yuen:** That's really cool.
-
-**Robert Yuen:** You get it.
-
-**Matthew Panzarino:** Jump.
-
-**Matthew Panzarino:** The recording has stopped.
+**Matthew Panzarino:** We won't let anything stop us. We'll figure out a way to publish.

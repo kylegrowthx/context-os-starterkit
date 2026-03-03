@@ -203,246 +203,34 @@ At Helium Mobile, most revenue came from big B2B clients who could save money by
 
 We certainly have clients with zero blog content, zero anything, but the understanding of how much time it takes to build up a web presence and establish credibility and domain authority is important. Sometimes super early stage companies don't have the patience or understanding of what it takes. So we're looking for people who have done it before or seen how hard it is to do and can give us trust and leeway as we're building because it's not going to be a one-day solution.
 
-**Mo Jahama:** Yeah, yeah.
+**Mo Jahama:** Yeah, yeah. I think what I found interesting is they're still using basically the same algorithm for generated content. I gave a presentation about this with Helium Mobile on E-E-A-T. Google's really focusing on user reviews and user content more than corporate content. So you have to find balance between being formal and looking for SEO ranking while thinking about how it affects the user. You'll find they're citing from Reddit so much, and it can shift overwhelmingly towards Reddit or Instagram. I think that can be combated by having responses to the things people are asking on social media rather than letting users dominate the conversation immediately.
 
-**Mo Jahama:** I think what I found interesting is, like, they're still using basically the same algo for, like, generated content.
+But I'm interested in seeing how these generative models are going to affect search. Everything now, when you search, the first thing that comes up is a very long response from Gemini. You don't really hit other search results until you scroll way down. So I'm seeing a lot of brands using paid ads more just because it allows them to show up first, and users don't have the patience to scroll all the way down.
 
-**Mo Jahama:** I know, like, I gave a presentation about this with Helium Mobile.
+**Andi Bailey:** Yeah. Well, I guess the question is whether people are going to go back to Google searching with Gemini results or not. And can you rank with Gemini?
 
-**Mo Jahama:** Like, what was the acronym?
+**Mo Jahama:** Yeah, I do think it's the same algorithm. I think they're using the same things they used in search initially. Before Gemini was the first thing that popped up, you can optimize the same way you would for SEO.
 
-**Mo Jahama:** E-E-A-T.
+**Andi Bailey:** What have you found regarding GEO versus SEO? It's such a black box. We kind of know what's happening with GEO, and you know how to game the system with SEO. So with GEO, we've got a list of best practices. Can we show that those best practices are going to drive X amount of improvement to your presence by 3%? Not necessarily. Right now, we're just finding the best ways to track it so we can look for signals and keep experimenting.
 
-**Mo Jahama:** So, like, Google's really focusing on user reviews and on trying to think user content more so than, like, corporate content.
+We're playing around with different things. Our clients are trying to be more active in conversations on Reddit and position themselves as answers. We're leaning into robots.txt files right now because everybody's doing it. Even though no LLM has confirmed or denied they're actually referencing those files, we don't want to discount anything. It's hard messaging to deliver — saying look, we want to try a bunch of things. We're experimenting with adding a button that summarizes a page with ChatGPT. We're trying TLDR at the top of every page because LLMs seem lazy. Let's do these things and see if we can improve rankings. Right now it's just tracking and finding signals to lean into. That's the only thing you can do because it's such a black box, but everybody's panicking about it and willing to pay anyone to try. We don't want to make false promises, but we are being very proactive about what we're trying.
 
-**Mo Jahama:** And so you have to, like, find this balance between, you know, being really formal and looking for SEO ranking while simultaneously being, you know, tackling how does this affect the user?
+**Mo Jahama:** Yeah, yeah. I found that users are asking a lot more questions to LLMs than they would with just SEO. Finding ways to have visible responses that are on brand and give users the answers they're looking for is key. Sometimes LLMs cite something, and figuring out how to be the first citation is interesting. It's just fun to think, okay, this is a new world and how do we figure this out?
 
-**Mo Jahama:** Because oftentimes, like, you'll find that they're citing from Reddit so much.
+**Andi Bailey:** Yeah. Well, the other question is whether anybody's clicking into citations or if mentions are the only thing that matters. So I think the other thing we're really recommending is finding super niche problems or content. Rather than something generic like "AI cybersecurity," it's much more relevant to say, "In my specific role, trying to prevent X kind of attack" — that's what people are searching for. Searches and questions on LLMs are much more specific. If you can create content toward that specific problem you're solving or the pain point your high-intent customer has, you'll get to the top. But that's more nuanced and you can't just create niche content because then you're not ranking for anything and just have five niche pages.
 
-**Andi Bailey:** Yeah.
+**Mo Jahama:** Yeah, it involves a lot of understanding of the brand and audience personas. I'm interested to see the workflows and how quickly content generates. Do you adapt each one for each brand? You were saying it used to be customized to each brand and now it's more templated?
 
-**Mo Jahama:** And it can, like, overwhelmingly shifted towards Reddit or towards Instagram.
+**Andi Bailey:** Yeah, we have a workflow with five to seven steps and can change the prompts within each step. It's the same seven-ish steps — we go to the same LLM for the same platform for this step versus that step. Perplexity is better at X, Claude is better at Y. We want this kind of output, so let's tweak the prompts within those seven steps rather than doing really broad or varied output. We're starting to standardize the content we're creating.
 
-**Mo Jahama:** And I think that can be easily combated, or not easily, but just by having responses to the things people are asking on social media.
+**Mo Jahama:** Yeah, because it seems like they're ranking content that sounds like them. Are you seeing that? And I'm wondering — because more and more content is being generated, there's got to be a way to be that niche answer rather than hoping your generated content ranks above someone else's generated content. Brand awareness is interesting because you're working on the whole funnel and seeing what customers are looking for before they click. The first company I worked with was focused entirely on search, figuring out customer intention before they even have it, and what they're willing to spend and click on. I'm fascinated with how you optimize for this. It's a big experiment — is it standardized at this point? Is it easier?
 
-**Mo Jahama:** you.
+**Andi Bailey:** It's definitely not standardized. We're still using Claude outside the platform in places where results aren't perfect. We're experimenting with more agentic workflows. There are lots of places where this role is interesting — looking at output, understanding what the client wants, and connecting those dots. The content manager is just generating content, and there's so much to generate and edit they're thinking at a production level. The technical managing editor thinks bigger — okay, this is what the client wants and where's the workflow missing the mark? What feedback can we give engineering to change the prompts or steps to get what we want? There's customization in every pipeline, but there's a baseline template. It's not set it and forget it.
 
-**Mo Jahama:** As opposed to, you know, letting users flood the, you know, reach the floodgates immediately.
+**Mo Jahama:** Yeah. I found that working freelance, there's not much autonomy. Even if you build the right prompts, you have to constantly iterate and optimize. How is it working in such a new, nuanced field evolving so quickly?
 
-**Mo Jahama:** But I am interested in seeing how these generative models are going to affect search.
+**Andi Bailey:** I'm not in the day-to-day. I'm thinking about how everybody's working as a whole. Some days are very frustrating, honestly. Sometimes people get frustrated because the output isn't what you need, and we're producing at scale. But the people who are curious and willing to work with it, and the skill of our engineering team, makes it really satisfying when you do solve a problem. There's just so much green space. Unfortunately, we're at time and I do have to go, but it was really great talking with you. I'll have you chat with the next person. Thank you so much for your time, Mo.
 
-**Mo Jahama:** Because everything now, when you search for it, the first thing that comes up is a very long response from Gemini.
+**Mo Jahama:** Awesome. Really nice meeting you. Thank you for your time.
 
-**Mo Jahama:** And then you don't really hit the, you don't really hit the other search results until you scroll way down.
-
-**Mo Jahama:** So, like, I'm seeing a lot of brands just have, use paid ads a lot more.
-
-**Andi Bailey:** Just because it allows them to show up first.
-
-**Mo Jahama:** And, like, users don't have the patience, really, to scroll all the way down sometimes.
-
-**Andi Bailey:** Yeah.
-
-**Andi Bailey:** Well, I guess the question is, you know, are people going to go back to Google searching with Gemini results or not?
-
-**Andi Bailey:** And, yeah.
-
-**Andi Bailey:** And then can you rank with Gemini?
-
-**Mo Jahama:** Yeah.
-
-**Mo Jahama:** Yeah.
-
-**Mo Jahama:** I do think it's the same algorithm.
-
-**Mo Jahama:** Like, I think they're using the same things that they used in search initially.
-
-**Mo Jahama:** Like, you know, before Gemini was the first thing that popped up, and like, you can optimize for the same way you would optimize for SEO.
-
-**Mo Jahama:** But I'm curious about that.
-
-**Andi Bailey:** What have you found in regards to Geo versus SEO?
-
-**Andi Bailey:** I mean, it's such a black box.
-
-**Andi Bailey:** Like, we kind of know what's happening with Geo.
-
-**Andi Bailey:** Like, you know how to game the system with SEO.
-
-**Andi Bailey:** So, Geo is like, we've got, like, a list of best practices.
-
-**Andi Bailey:** Can we show that those best practices are going to drive X amount of, like, you know, going to improve your presence by 3% or whatever?
-
-**Andi Bailey:** Not necessarily.
-
-**Andi Bailey:** Right now, we're just finding the best ways to track it so that we can try and look for signals and keep experimenting.
-
-**Andi Bailey:** We are playing around with things like some.
-
-**Andi Bailey:** Our clients are trying to, like, really be more active in conversations in places like Reddit and, like, service themselves as answers.
-
-**Andi Bailey:** We're leaning into the LLM's TXT files right now because everybody's doing it.
-
-**Andi Bailey:** And so you might as well see if it does something, even though, like, no LLM has, like, confirmed or denied that they're actually, like, referencing those files.
-
-**Andi Bailey:** So I think, like, we don't want to discount anything.
-
-**Andi Bailey:** And it's, it is hard, hard messaging to deliver to say, like, look, we want to try a bunch of things.
-
-**Andi Bailey:** We're running experiments on, like, you know, you can add a button that's, like, summarize this page with ChatGPT.
-
-**Andi Bailey:** Like, we're trying that.
-
-**Andi Bailey:** We're trying, like, to just put, like, TLDR at the top of every page because it seems.
-
-**Andi Bailey:** Like, LLMs are lazy.
-
-**Andi Bailey:** It's, like, what I've heard.
-
-**Andi Bailey:** So, you know, we're, like, let's do these things and see if we can improve our ranking.
-
-**Andi Bailey:** And right now, it's just tracking and seeing if we can find signals that, like, where we can lean in or do more.
-
-**Andi Bailey:** And that's it.
-
-**Andi Bailey:** Like, but that's the only thing that you can do because it's such a black box.
-
-**Andi Bailey:** But everybody's panicking about it.
-
-**Andi Bailey:** And they're willing to pay anyone to, like, try.
-
-**Andi Bailey:** And so, you know, we don't want to make false promises.
-
-**Andi Bailey:** But we are being very proactive about what we're trying.
-
-**Mo Jahama:** Yeah, yeah.
-
-**Mo Jahama:** I found that, like, users are asking a lot more questions to the LLMs than they would, than they would initially, like, with just SEO.
-
-**Mo Jahama:** So, finding ways to, like, have visible responses that are on brand that, you know, give users the answers they're looking for.
-
-**Mo Jahama:** And, like, you know, sometimes that the LLMs will cite something and figuring...
-
-**Mo Jahama:** How to be the first citation is, is interesting.
-
-**Mo Jahama:** It's just so fun to think, okay, this is a new world.
-
-**Andi Bailey:** And like, how do we figure this out?
-
-**Andi Bailey:** Yeah, well, I mean, the other question is like, nobody, is anybody clicking into citations or mentions the only thing that matter?
-
-**Andi Bailey:** And then, you know, the, oh, gosh, what were you just saying about?
-
-**Andi Bailey:** Oh, yeah.
-
-**Andi Bailey:** So I think the other thing that we're really recommending right now is like finding super niche problems or content.
-
-**Andi Bailey:** So rather than being like, AI cybersecurity or something like, you know, and this is kind of an SEO tactic in general, but I think AI makes it much more relevant to say like, I, like, my specific role, trying to prevent, like, X kind of attack, you know, because that's what people are searching.
-
-**Andi Bailey:** Searches and, or questions and LLMs are so much more, often so much more specific.
-
-**Andi Bailey:** if you can.
-
-**Andi Bailey:** Create content towards this specific problem that you're solving or pain point that you know that your high intent customer has, then you will get to the top.
-
-**Andi Bailey:** But that is a lot more nuanced and also requires you to have, you can't just create that niche content because then you're not ranking for anything and you have just like five niche pages out there.
-
-**Mo Jahama:** Yeah, I guess it involves a lot of understanding of like the brand and audience personas.
-
-**Mo Jahama:** And yeah, I am interested to see like the workflows and how quickly does content generate?
-
-**Mo Jahama:** Like, do you adapt each one for each brand?
-
-**Mo Jahama:** You were saying it used to be customized to each brand and now I guess it's more templated.
-
-**Andi Bailey:** Yeah, I mean, we have like the workflow is, you know, five, seven steps and then we can change the prompts within each step.
-
-**Andi Bailey:** But...
-
-**Andi Bailey:** You know, it's the same seven-ish steps, you know, we're going to the same LLM for the same, for like, you know, same platform for this step versus this step, know, perplexity is better at X, Claude is better at Y.
-
-**Andi Bailey:** Um, and so, you know, this is the kind of output that we want, now let's just tweak the prompts within that, like, those seven steps, um, rather than, I think, like, doing really broad, or really, like, varied kinds of output, um, we're starting to standardize the kind of content that we're creating.
-
-**Mo Jahama:** Yeah, yeah, because it seems like they're ranking content that kind of sounds like them.
-
-**Mo Jahama:** Are you seeing that at all?
-
-**Mo Jahama:** And, like, I'm wondering, like, one, because more and more content is being generated, and so, like, there's got to be a way to be that.
-
-**Mo Jahama:** Niche answer, rather than hoping that, like, your generated content ranks above someone else's generated content.
-
-**Mo Jahama:** And, like, I guess brand awareness is really interesting because you're really working on the whole funnel and seeing what exactly are customers looking for before they click.
-
-**Mo Jahama:** I remember, like, the first company I worked with was focused entirely on search and on, like, figuring out the intention of the customer before they have that intention, in a way, and, like, what they're willing to spend and what they're willing to click on.
-
-**Mo Jahama:** I'm just really fascinated with, like, okay, how do you optimize for this?
-
-**Mo Jahama:** And I'm seeing that it's a big experiment, and I'm wondering, is it standardized at this point?
-
-**Mo Jahama:** Is it easier?
-
-**Andi Bailey:** You said it's easier with larger brands that already have content.
-
-**Andi Bailey:** Yeah.
-
-**Andi Bailey:** No, I, it's.
-
-**Andi Bailey:** Definitely not standardized.
-
-**Andi Bailey:** Like, and we're still, to some extent, like using Claude outside the platform in places where it's not, the results aren't perfect.
-
-**Andi Bailey:** We're experimenting with more agentic type workflows.
-
-**Andi Bailey:** So yeah, there's a lot of places where, and I think this is one of the interesting opportunities in this role, is like, looking at that output, looking at what the client is trying to do, and connecting those dots.
-
-**Andi Bailey:** Because like the content manager is just generating the content.
-
-**Andi Bailey:** And I mean, there's so much to generate and edit that I think they're thinking at like a very, like production, individual production level.
-
-**Andi Bailey:** And so the technical managing editor, we want somebody that can think kind of, okay, what, this is what the client wants, and what they're trying to do is like, where's the workflow missing the mark?
-
-**Andi Bailey:** And what kind of feedback can we, like, what can we ask from, in terms of engineering?
-
-**Andi Bailey:** of engineering?
-
-**Andi Bailey:** To change the prompts or change, like, the steps to get what we want.
-
-**Andi Bailey:** So, like, there's customization involved in every pipeline we build, but there's kind of a baseline template that we have.
-
-**Andi Bailey:** So it's not set it and forget it in any way, shape, or form.
-
-**Mo Jahama:** Yeah, yeah.
-
-**Mo Jahama:** I found that a lot, like, working freelance, is that autonomy is not there.
-
-**Mo Jahama:** Like, even if you build the right prompts, like, you have to constantly iterate and optimize.
-
-**Mo Jahama:** How is it, like, working in such a new kind of nuanced field that's really evolving so quickly?
-
-**Andi Bailey:** Yeah, mean, I'm not in the day-to-day.
-
-**Andi Bailey:** I'm more thinking about the, like, you know, how everybody's working as a whole.
-
-**Andi Bailey:** I think some days it's very frustrating.
-
-**Andi Bailey:** I'll be very honest.
-
-**Andi Bailey:** Sometimes people get very frustrated because the output isn't what you need it to be, and we are producing at scale.
-
-**Andi Bailey:** But I think, like, the people that are curious and willing to work with it, the...
-
-**Andi Bailey:** And I think the skill of our engineering team right now makes it really satisfying when you do solve a problem, and I think there's just so much green space.
-
-**Andi Bailey:** Unfortunately, we are at time, and I do have to go, but it was really great talking to you.
-
-**Andi Bailey:** Definitely, I'll have you chat with the next person, but thank you so much for your time, Mo.
-
-**Mo Jahama:** Awesome.
-
-**Mo Jahama:** Really nice meeting you.
-
-**Mo Jahama:** Thank you for your time.
-
-**Andi Bailey:** Take care.
-
-**Andi Bailey:** Have a good one.
+**Andi Bailey:** Take care. Have a good one.

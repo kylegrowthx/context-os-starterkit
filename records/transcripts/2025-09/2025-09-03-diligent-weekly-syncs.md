@@ -172,208 +172,38 @@ Diligent is a GrowthX content services client with ongoing engagement focused on
 
 **Jo Kaminska:** Okay, perfect.
 
-**Kezia Farnham:** And this view right now is looking month, month, or week, week, sorry.
+**Kezia Farnham:** This view is month over month, right? The whole August versus July?
 
-**Kezia Farnham:** Month over month.
+**Jo Kaminska:** Yes. Another very interesting report that Tyler is usually interested in is LLM traffic. Let's also look at August. To be clear, you'll always see the biggest contribution from ChatGPT because they have the biggest market share. But it's good to see the numerical contribution of sessions, engaged sessions, and engagement rates. An important thing is referred traffic. Your homepage gets 93 visits from LLM referrals. "Not set" is a configuration issue with analytics tracking. Why is this report important? It shows what pages people visit from ChatGPT, Perplexity, Gemini, etc. These pages are important for your visibility and should be kept updated and curated because they contribute to your LLM visibility, which I know you're tracking.
 
-**Jo Kaminska:** So it's like the whole August versus July.
+**Kezia Farnham:** I think there's a lot of crossover between pages doing well in SERPs and those performing in LLMs. Corporate governance trends, for example.
 
-**Jo Kaminska:** Yeah.
+**Jo Kaminska:** LLM loves fresh data, so these types of topics are good funnel drivers. We can go page by page. We don't have a cohort view, but we can find the pages and check one by one if they're getting more visits. Scrunch data also shows which pages are cited and referred to based on specific prompts. We granted Tyler temporary access to Scrunch since our analytics team is working on reporting improvements. The sources report shows whether sources are third-party or your own website. This gives you a good understanding of which pages are visited by people sourced from LLMs.
 
-**Jo Kaminska:** Okay.
+**Kezia Farnham:** Got it.
 
-**Jo Kaminska:** Perfect.
+**Kezia Farnham:** A couple last questions. With the latest algorithm update, are you seeing specific changes we should be aware of, or anything from other clients that might be useful context?
 
-**Kezia Farnham:** Yeah.
+**Jo Kaminska:** This is a spam update — smaller compared to core updates. The key change around Diligent's brand is that it's filtering out branded keywords where "Diligent" is used as a word, not a brand. If you see a drop in branded keywords related to Diligent in Google Search Console, don't worry — that's spam Diligent angles being filtered out. I'm seeing this across my clients. When it comes to clicks and impressions, impressions are generally going up, but clicks are bumpy due to the low season. August was vacation season in most industries, so compared to July there was a slight decrease in clicks, but nothing major. As you can see, the refresh results are very strong. Continuing with refreshes and adding net new content increases positions, new keywords, and translates to LLM visibility because you cover more AI topics and features that Diligent have. I think we're off to a good start.
 
-**Jo Kaminska:** And another, I think, another very interesting report that I think Tyler is usually very, very interested in is LLM traffic, basically.
+**Kezia Farnham:** I know you've already covered what was done last week. You're waiting on us for several more reviews — that's between my team and John. We'll pay special attention to that. I've made some progress today. In terms of the rest of the week, what's upcoming on your side? Is there anything else you need from us?
 
-**Jo Kaminska:** Let's also make it, like, for August.
+**Jo Kaminska:** First, I'd like to break down the "Considering" list into more granular topics so it's easier for you to review. The status change is basically the same, but you'll see topics we discussed. This week is mostly housekeeping and tracking results from the Content OS improvements. From next week we start production again since our content manager is back. It would be a great time to mix refreshes and net new content. If you can update the status from "Considering" to "Think" for items you want to move forward with, that would help us.
 
-**Jo Kaminska:** So just to be clear, like, you will always see the biggest contribution from ChatGPT because, like, they have the biggest market share, right?
+**Kezia Farnham:** If there are comments, there's a lot of thoughts being fed in, and it helps having context that it's directional, not fully set in stone. If there's opportunity for additional quotes or things to feed in, what's the most effective way to provide feedback without overwhelming you?
 
-**Kezia Farnham:** Yeah.
+**Jo Kaminska:** I'll review all the comments you left — thanks for these. Do you mean SME quotes?
 
-**Jo Kaminska:** But at the same time, it's pretty good to see, you know, like, what is the numerical contribution when comes to, you know, sessions, engaged sessions, and then engagement rates, basically division of this by this.
+**Kezia Farnham:** Yes, SME quotes. We feed in storytelling aspects, quotes, custom case studies, or sometimes ghost write quotes and get approval from an SME later.
 
-**Jo Kaminska:** And important thing is basically referred traffic.
+**Megan Dickey:** We can probably have our engineers build this into the pipeline eventually. What I'm thinking is we have everything in "Considering," then another column for pieces we decide to move forward with, where we input additional details. Then when we work on the assignment in Atlas, we can have an input box so the AI works it in. That would have to be down the line, but it's definitely something we can eventually do.
 
-**Jo Kaminska:** So here you can see that your homepage is getting like 93 visits when it comes to like refer from LLMs.
+**Kezia Farnham:** In the meanwhile, as we have more topics decided ahead through the scheduling process, we can request these and pass them over to the review stage. It might be less smooth, but we can figure it out.
 
-**Jo Kaminska:** Not set is basically like your configuration, your cool analytics setup that doesn't track some pages, so I think this is more of like your configuration.
+**Jo Kaminska:** Keep in mind that publishing speed is the most important factor for signals and results. We always have to balance whatever roadblocks we face. I'd take a very balanced approach, especially since results are great now — we're moving in the right direction. Festus sent two files with SME quotes that we'll implement in refreshes going forward. Definitely something to keep in mind.
 
-**Jo Kaminska:** But then, like why this report is important?
+**Kezia Farnham:** I know we're at time. I'll review the report and let you know if there are follow-up questions. I'll get back to you with approvals so you can merge net new for next week. We'll work on getting those SEO reviews finalized. Is there anything else you need from us to push this forward?
 
-**Jo Kaminska:** Like it lets you basically see what pages people are visiting from, from TraGPT, Perplexity, Gemini, etc.
-
-**Jo Kaminska:** So these pages are important for your visibility.
-
-**Jo Kaminska:** These pages should be, you know, kept updated and like curated in a way because they are basically contributing to your LLM visibility, which I know that you are tracking.
-
-**Kezia Farnham:** And I think there's a lot of crossover here as well between pages that are doing fairly well in SERPs with what's being, what's performing in LLMs as well.
-
-**Kezia Farnham:** Yeah, like corporate governance trends for example.
-
-**Jo Kaminska:** Like LLM loves fresh data, so I think like these type of topics are like a good stop funnel driver, for example.
-
-**Kezia Farnham:** Yeah, and I think that one had quite a lot of like EAT kind of signals in there with quotes and sort of a generalistic approach taken in terms of how it was created.
-
-**Kezia Farnham:** For this then, are we looking at the pages that you've refreshed and how that translates to improvements in LLMs?
-
-**Jo Kaminska:** So we can like go page by page.
-
-**Jo Kaminska:** In this case, we don't have like a cohort, but we can like find these pages here and then we can check like you know one by one, for example, you know like if they get more visits.
-
-**Jo Kaminska:** And at the same time, I think like scrunch data also shows, you know, like what which like page was cited.
-
-**Jo Kaminska:** By, or like, you know, referred to based on a specific prompt.
-
-**Jo Kaminska:** So I think like, there's something like, sources, I think.
-
-**Jo Kaminska:** Oh, sorry, wait.
-
-**Jo Kaminska:** Is it all there now?
-
-**Jo Kaminska:** No, yeah.
-
-**Jo Kaminska:** So to share this report, yeah.
-
-**Jo Kaminska:** So when you go to like, basically like the sources report, like basically, you know, like presents, besides like the sources are either like third party or your own website.
-
-**Jo Kaminska:** And for example, here you can see that, you know, this blog was referenced.
-
-**Jo Kaminska:** And let's see more details, for example, for this one, for these prompts, but so specifically, so we have like a, you know, like another side of, you know, to, to view this data.
-
-**Jo Kaminska:** Like we granted Tyler temporary view to scratch.
-
-**Jo Kaminska:** I mean, access to Scrunch, as our analytics team is working on, some reporting improvements, so Tyler can access these reports as well, all of these reports here.
-
-**Jo Kaminska:** So I think this gives you a good understanding of which pages are visited by people that sourced from LLMs.
-
-**Jo Kaminska:** Okay.
-
-**Kezia Farnham:** Okay.
-
-**Kezia Farnham:** A couple last questions then from me.
-
-**Kezia Farnham:** Obviously, with the latest algorithm update, are you seeing any kind of specific changes there that we should be aware of or anything that you're seeing with other clients that might be kind of useful context for us in terms of adjustments?
-
-**Kezia Farnham:** I know obviously we've got like seasonality and it's the summer, but then also the algorithm update.
-
-**Jo Kaminska:** Yeah, so I think like this is a spam update, so I would say like this is like
-
-**Jo Kaminska:** Smaller updates compared to the core, but what I see is pretty good changes, especially I think around Diligent's brand, it's pretty important because you might be ranking for many Diligent-related keywords, but as a word, not as a brand.
-
-**Jo Kaminska:** So I think the spam update is mostly filtering out the branded keywords, and literally, if you see, for example, in Google Search Console that you have a drop in branded keywords related to Diligent, you shouldn't be worried about it because there's basically spam Diligent angles that are filtered out.
-
-**Jo Kaminska:** So I see this type of change across the customers that I have, and when it comes to clicks and impressions, so generally impressions are going up, clicks are, I would say, bumpy because of the low season.
-
-**Jo Kaminska:** So August was basically a vacation season in most of the industries, so compared to July, I saw a slight decrease in terms of clicks, but nothing major.
-
-**Jo Kaminska:** And, like, I can take a look also, like, you know, how is your data as well.
-
-**Jo Kaminska:** So, I don't know.
-
-**Jo Kaminska:** We have, like, two minutes.
-
-**Kezia Farnham:** I know it's, like, still going to be a motion until it's really done for us to see, like, how did this all come out.
-
-**Kezia Farnham:** But just, I was just curious if there was anything in particular that was jumping out at you across the board that we should take into account.
-
-**Kezia Farnham:** I think, like, we are pretty much on track.
-
-**Jo Kaminska:** And, like, when it comes to the refreshes, you saw that, like, the results are very strong.
-
-**Jo Kaminska:** So, I think, like, continuing with refreshes and then adding that new content is basically, you know, increases the positions, new keywords, and then, you know, translates also into LLM visibility because you cover more AI topics, more AI features that Diligent have.
-
-**Jo Kaminska:** So, I think, like, we are off to get a good start.
-
-**Kezia Farnham:** So, I know you've already covered in the agenda what was done from this last week.
-
-**Kezia Farnham:** And then you're waiting on us for several more reviews.
-
-**Kezia Farnham:** I think that's between my team and John.
-
-**Kezia Farnham:** So, we'll be paying special attention to that.
-
-**Kezia Farnham:** And I've made some movement with that as well today.
-
-**Kezia Farnham:** In terms of the rest of the week, what's kind of upcoming on your side?
-
-**Kezia Farnham:** Is there anything else you need from us outside of this?
-
-**Jo Kaminska:** So first I think I would just like source this considering into these granular topics so it's easier for you to review.
-
-**Jo Kaminska:** So basically, you know, like the status change is like basically the same, but you see like, you know, topics that we discussed.
-
-**Jo Kaminska:** When it comes to this week, so this week is, as I said, like mostly a housekeeping and like tracking the results and like, you know, all the improvements that we made with the Content OS.
-
-**Jo Kaminska:** And I think like from next week, we start like again with the production as our content manager is back.
-
-**Jo Kaminska:** So it would be great time to actually mix refreshes and that new.
-
-**Jo Kaminska:** So just, you know, like if you can make change, like update the status from considering to think would have to of the others.
-
-**Kezia Farnham:** If there are things where there's comments, I know there's a lot of thoughts that are being fed into this and it does help having that context that it's directional, not fully set in stone.
-
-**Kezia Farnham:** Is that something like, for instance, if there's opportunity for additional quotes that we know about or additional things to feed in, is this helpful to be including in the quote, like at quote level or what is the most effective way for me to be able to provide this feedback without it being like swamping you on your side?
-
-**Jo Kaminska:** Yeah, so I'll review all these comments that you left, so thanks for these.
-
-**Jo Kaminska:** When it comes to like quotes that will, like, do you mean like a subject matter expert quotes?
-
-**Kezia Farnham:** Yeah, like, yeah, oftentimes what we'll do with, with
-
-**Kezia Farnham:** Our content on our side is feed in any kind of like storytelling aspects, quotes, custom, like case studies, or sometimes as well, I think, as maybe Festus might have mentioned, around like ghost writing a quote as well to include it and then later approve from an SME.
-
-**Megan Dickey:** Yeah, so yeah, just to, yeah, go on.
-
-**Megan Dickey:** Oh, no, yeah, was just gonna, yeah, say that I think that it's something that we can probably have our engineers build into our pipeline, but yeah, I think I mentioned this before, but yeah, they have a lot on their plate, but we'll definitely can ask them if that's possible.
-
-**Megan Dickey:** So like, I guess what I'm thinking is, you know, we, we have everything in considering, and then we can have another column where like, once you decide like, okay, like we want to move forward with this piece of content, like, you input the, whatever the.
-
-**Megan Dickey:** And then from there, then when we actually start working on the assignment in Atlas, we can ideally just have a little input box and the AI can work that all in.
-
-**Megan Dickey:** But I think that'll have to be down the line, but I do think it's definitely something that we can eventually do.
-
-**Megan Dickey:** Okay, perfect.
-
-**Kezia Farnham:** And maybe like in the meanwhile, we can, I think as we have like more of the topics decided ahead, and this is going to be like the scheduling process, we can then start to kind of request these and get these in and kind of pass them over or like into the kind of review stage.
-
-**Kezia Farnham:** I think that it makes it less like the flow, probably a little bit less smooth, but we can kind of figure that out and find a way to kind of bring that.
-
-**Jo Kaminska:** Yeah, like, I would just keep in mind, like, you know, like the speed of publishing is like for, you know, for signals and for results, or it's actually like
-
-**Jo Kaminska:** The most important factor, so we always have to balance, you know, like, whatever factors or roadblocks that we would have.
-
-**Jo Kaminska:** So I think, like, I would just take a very balanced approach, especially that the results now are great, so I think, like, we're moving to the right direction.
-
-**Jo Kaminska:** When it comes to SME quotes, I know that Festus sent, like, two files, so we'll be, like, we'll basically take these and, like, implement them in, you know, a specific way, for example, in a refresh going forward.
-
-**Jo Kaminska:** So, so definitely, you know, something you have in mind.
-
-**Jo Kaminska:** Perfect, perfect.
-
-**Kezia Farnham:** Well, I know we're at time.
-
-**Kezia Farnham:** I'll take a review of the report that you shared, anyhow, and just let you know if there's any follow-up questions there.
-
-**Kezia Farnham:** And then also get back to you with some more approvals on that list so you can merge into the next, some of the net new for next week.
-
-**Kezia Farnham:** And we'll be working on getting those other SEO reviews finalized.
-
-**Kezia Farnham:** Was there anything I'm missing in terms of anything else that you're needing and able to push this forward?
-
-**Kezia Farnham:** Megan, anything on your end?
-
-**Megan Dickey:** No, no, think, yeah, I think we're good.
-
-**Megan Dickey:** Yeah, cool.
-
-**Megan Dickey:** Yeah, thank you so much, Kezia.
+**Megan Dickey:** I think we're good. Thank you so much, Kezia.
 
 **Kezia Farnham:** Thank you.
-
-**Kezia Farnham:** Thanks.
-
-**Kezia Farnham:** Yeah, ciao, have a good one.
