@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.UPSTREAM_PAT }}
 
       - name: Configure git
         run: |
@@ -59,7 +59,7 @@ jobs:
       - name: Create PR for conflicts
         if: steps.merge.outputs.status == 'conflict'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.UPSTREAM_PAT }}
         run: |
           BRANCH="upstream-sync/$(date +%Y-%m-%d)"
 
